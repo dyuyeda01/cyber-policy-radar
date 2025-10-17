@@ -1,0 +1,37 @@
+regions:
+  - name: North America
+    countries:
+      - code: US
+        name: United States
+        feeds:
+          - name: Cybersecurity Dive
+            type: rss
+            url: https://www.cybersecuritydive.com/feeds/news/
+          - name: The Hacker News
+            type: rss
+            url: https://feeds.feedburner.com/TheHackersNews
+          - name: DarkReading
+            type: rss
+            url: https://www.darkreading.com/rss.xml
+          - name: Lawfare – Cybersecurity
+            type: rss
+            url: https://www.lawfaremedia.org/topics/cybersecurity/rss
+  - name: Europe
+    countries:
+      - code: UK
+        name: United Kingdom
+        feeds:
+          - name: The Register – Security
+            type: rss
+            url: https://www.theregister.com/security/headlines.atom
+  - name: Global
+    countries:
+      - code: GL
+        name: Global
+        feeds:
+          - name: Krebs on Security
+            type: rss
+            url: https://krebsonsecurity.com/feed/
+          - name: SecurityWeek
+            type: rss
+            url: https://www.securityweek.com/feed/

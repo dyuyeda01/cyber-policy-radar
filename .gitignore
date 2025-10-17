@@ -1,0 +1,7 @@
+# Ignore environment and credentials
+.env
+venv/
+__pycache__/
+
+# macOS clutter
+.DS_Store

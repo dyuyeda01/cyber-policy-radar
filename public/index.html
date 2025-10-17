@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Cyber Policy Radar</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
+    <style>
+      body { font-family: Inter, sans-serif; background:#0b0f14; color:#e6edf3; margin:0; }
+      header { padding:20px; border-bottom:1px solid #1f2937; background:#0d1117; }
+      .container { max-width:1000px; margin:auto; padding:20px; }
+      .grid { display:grid; gap:16px; grid-template-columns:repeat(auto-fill, minmax(320px,1fr)); }
+      .card { background:#111827; border:1px solid #1f2937; border-radius:10px; padding:16px; }
+      .card h3 { margin-top:0; font-size:16px; }
+      a { color:#93c5fd; text-decoration:none; }
+      .meta { font-size:12px; color:#9ca3af; margin-bottom:6px; }
+    </style>
+  </head>
+  <body>
+    <header><div class="container"><h1>🌐 Cyber Policy Radar</h1></div></header>
+    <main class="container">
+      <div id="count" class="meta"></div>
+      <div id="grid" class="grid"></div>
+    </main>
+    <script src="script.js"></script>
+  </body>
+</html>
