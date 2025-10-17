@@ -6,11 +6,13 @@
   <title>Cyber Policy Radar</title>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
   <style>
+    /* --- Base Styling --- */
     body {
       font-family: Inter, sans-serif;
       background:#0b0f14;
       color:#e6edf3;
       margin:0;
+      line-height:1.6;
     }
     header {
       background:#0d1117;
@@ -20,9 +22,18 @@
       top:0;
       z-index:10;
     }
-    h1 { margin:0; font-size:22px; }
-    .container { max-width:1100px; margin:auto; padding:0 20px; }
+    h1 {
+      margin:0;
+      font-size:24px;
+      font-weight:600;
+    }
+    .container {
+      max-width:1200px;
+      margin:auto;
+      padding:0 20px;
+    }
 
+    /* --- Filters --- */
     .filters {
       display:flex;
       gap:10px;
@@ -33,46 +44,48 @@
       background:#111827;
       color:#e6edf3;
       border:1px solid #374151;
-      padding:8px 10px;
+      padding:10px 12px;
       border-radius:8px;
-      width:auto;
-      flex:1 1 200px;
+      flex:1 1 240px;
+      font-size:14px;
     }
+    input::placeholder { color:#9ca3af; }
 
-    main { padding:20px 0; }
-
+    /* --- Main Layout --- */
+    main {
+      padding:30px 0;
+    }
     #grid {
       display:grid;
-      gap:20px;
-      grid-template-columns:repeat(auto-fill,minmax(300px,1fr));
+      gap:24px;
+      grid-template-columns:repeat(auto-fit,minmax(320px,1fr));
+      align-items:start;
     }
 
+    /* --- Cards --- */
     .card {
       background:#111827;
       border:1px solid #1f2937;
-      border-radius:10px;
+      border-radius:12px;
       overflow:hidden;
       transition:transform .15s ease, box-shadow .15s ease;
       display:flex;
       flex-direction:column;
+      height:100%;
     }
-
     .card:hover {
-      transform:translateY(-3px);
-      box-shadow:0 4px 10px rgba(0,0,0,0.4);
+      transform:translateY(-4px);
+      box-shadow:0 6px 12px rgba(0,0,0,0.35);
     }
-
     .card img {
       width:100%;
-      height:180px;
+      height:190px;
       object-fit:cover;
       background:#1f2937;
       display:block;
     }
-
-    /* Balanced card content (gradient background) */
     .card-content {
-      padding:16px;
+      padding:18px;
       flex:1;
       display:flex;
       flex-direction:column;
@@ -81,48 +94,56 @@
       border-top:1px solid #1f2937;
     }
 
+    /* --- Text Styles --- */
     .meta {
-      font-size:12px;
+      font-size:13px;
       color:#9ca3af;
-      margin-bottom:6px;
+      margin-bottom:8px;
     }
-
     h3 {
-      font-size:16px;
-      margin:8px 0;
-      line-height:1.3;
+      font-size:17px;
+      margin:6px 0;
+      line-height:1.35;
     }
-
-    a { color:#93c5fd; text-decoration:none; }
-    p { font-size:14px; line-height:1.4; margin-top:6px; color:#d1d5db; }
+    a {
+      color:#93c5fd;
+      text-decoration:none;
+    }
+    a:hover {
+      text-decoration:underline;
+    }
+    p {
+      font-size:15px;
+      color:#d1d5db;
+      margin-top:8px;
+      line-height:1.5;
+    }
 
     footer {
       text-align:center;
       color:#9ca3af;
-      padding:24px;
+      padding:28px;
       border-top:1px solid #1f2937;
       font-size:13px;
+      background:#0d1117;
     }
 
-    /* 🌐 Mobile responsiveness */
+    /* --- Mobile Responsiveness --- */
     @media (max-width: 640px) {
       h1 { font-size:20px; text-align:center; }
       .filters { flex-direction:column; }
       input, select { width:100%; }
-      #grid {
-        grid-template-columns:1fr; /* single column */
-        gap:16px;
-      }
-      .card img { height:200px; }
-      .card-content { padding:14px; }
-      h3 { font-size:17px; }
-      p { font-size:15px; line-height:1.5; }
+      #grid { grid-template-columns:1fr; gap:18px; }
+      .card img { height:220px; }
+      .card-content { padding:16px; }
+      h3 { font-size:18px; }
+      p { font-size:15px; }
     }
 
-    /* 🌍 Tablet tweaks */
+    /* --- Tablet View --- */
     @media (min-width:641px) and (max-width:900px) {
       #grid { grid-template-columns:repeat(2, 1fr); }
-      .card img { height:160px; }
+      .card img { height:170px; }
     }
   </style>
 </head>
@@ -137,15 +158,18 @@
       </div>
     </div>
   </header>
+
   <main class="container">
     <div id="lastUpdated" class="meta"></div>
     <div id="count" class="meta"></div>
     <div id="grid"></div>
   </main>
+
   <footer>
     Auto-updated every 12h • Built by
     <a href="https://github.com/dyuyeda01" target="_blank">dyuyeda01</a>
   </footer>
+
   <script src="script.js"></script>
 </body>
 </html>
