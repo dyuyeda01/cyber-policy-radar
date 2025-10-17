@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-17T04:27:26.401021+00:00",
+  "generated_at": "2025-10-17T12:16:35.696216+00:00",
   "items": [
     {
       "id": "ddfad0ed5436a21f8cfd8318316207aaa06e1355",
@@ -112,6 +112,39 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "28e2074ccb85af6d37ebbe6eed001603ef34d017",
+      "title": "Identity Security: Your First and Last Line of Defense",
+      "url": "https://thehackernews.com/2025/10/identity-security-your-first-and-last.html",
+      "published": "2025-10-17T11:00:00+00:00",
+      "summary": "The danger isn\u2019t that AI agents have bad days \u2014 it\u2019s that they never do. They execute faithfully, even when what they\u2019re executing is a mistake. A single misstep in logic or access can turn flawless automation into a flawless catastrophe.\nThis isn't some dystopian fantasy\u2014it's Tuesday at the office now. We've entered a new phase where autonomous AI agents act with serious system privileges. They",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrf3SNrJtA9ogAsUh8Md4fU4yC0HCkGJbedZ6jQUivAuuAkYP0vrpjnQrjhTE0Bwkf7yEj2fkgxaP6XaAO4R8ARGp30JUatnhiOlnrJqahuczssni_ET7ZJRFaNqDCcAGwjnzs345KXNIl1UJYWIGr1PRNp-8z_9IZ_8k4YL9hKUq7nII0BO6wOA8aRSQ/s1600/is.jpg"
+    },
+    {
+      "id": "873b0da38da907863825cad7c0eb56dbd1930162",
+      "title": "Researchers Uncover WatchGuard VPN Bug That Could Let Attackers Take Over Devices",
+      "url": "https://thehackernews.com/2025/10/researchers-uncover-watchguard-vpn-bug.html",
+      "published": "2025-10-17T09:25:00+00:00",
+      "summary": "Cybersecurity researchers have disclosed details of a recently patched critical security flaw in WatchGuard Fireware that could allow unauthenticated attackers to execute arbitrary code.\nThe vulnerability, tracked as CVE-2025-9242 (CVSS score: 9.3), is described as an out-of-bounds write vulnerability affecting Fireware OS 11.10.2 up to and including 11.12.4_Update1, 12.0 up to and including",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6wXElZ2cOoqWu0KvQRLkdOMEVEy2OErFfkGWokp1gdNCJH8_MxEnR1RMopVgNuFWuAxiCiP90_YEcQe_XEKxadsliIouePVm63amvt2JV3tORO8EQmNCh2ylwY4eQgJPNWR5aoQMPWdefC1wL_HSYTS1dFnjaAQNF3sXQbkeJxY3q7tCu4j4DaPXpJBPY/s1600/exploit.jpg"
+    },
+    {
+      "id": "e23f97ca0444c6b5743eb9d0f3197e2ba92b09b0",
+      "title": "Microsoft Revokes 200 Fraudulent Certificates Used in Rhysida Ransomware Campaign",
+      "url": "https://thehackernews.com/2025/10/microsoft-revokes-200-fraudulent.html",
+      "published": "2025-10-17T06:03:00+00:00",
+      "summary": "Microsoft on Thursday disclosed that it revoked more than 200 certificates used by a threat actor it tracks as Vanilla Tempest to fraudulently sign malicious binaries in ransomware attacks.\nThe certificates were \"used in fake Teams setup files to deliver the Oyster backdoor and ultimately deploy Rhysida ransomware,\" the Microsoft Threat Intelligence team said in a post shared on X.\nThe tech",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikW56LsCKHPpyfH2AIVdz2Cuy3x2z7pTgiAMRHiyYU0m-wnbxE-8zGrGaamjCX79Ypc9Hz6-JHph78BvlB56sNwYh20cI5LcVuNLrx8C9izVE7Z3o_d6KgHWpoMNENBjinWUUco_7hzc9NwxFtmC__VF0Cfud9e3q61stbWCaHG_5jDh5QEtrcSf8WsJav/s1600/ransomware-certificate.jpg"
+    },
+    {
       "id": "74a27a043f4a00737dd0743556ec2b7bd5c8d0c1",
       "title": "North Korean Hackers Use EtherHiding to Hide Malware Inside Blockchain Smart Contracts",
       "url": "https://thehackernews.com/2025/10/north-korean-hackers-use-etherhiding-to.html",
@@ -127,7 +160,7 @@
       "title": "Hackers Abuse Blockchain Smart Contracts to Spread Malware via Infected WordPress Sites",
       "url": "https://thehackernews.com/2025/10/hackers-abuse-blockchain-smart.html",
       "published": "2025-10-16T14:52:00+00:00",
-      "summary": "A financially motivated threat actor codenamed UNC5142 has been observed abusing blockchain smart contracts as a way to facilitate the distribution of information stealers such as Atomic (AMOS), Lumma, Rhadamanthys (aka RADTHIEF), and Vidar, targeting both Windows and Apple macOS systems.\n\"UNC5142 is characterized by its use of compromised WordPress websites and 'EtherHiding,' a technique used",
+      "summary": "A financially motivated threat actor codenamed UNC5142 has been observed abusing blockchain smart contracts as a way to facilitate the distribution of information stealers, such as Atomic (AMOS), Lumma, Rhadamanthys (aka RADTHIEF), and Vidar, targeting both Windows and Apple macOS systems.\n\"UNC5142 is characterized by its use of compromised WordPress websites and 'EtherHiding,' a technique used",
       "source": "The Hacker News",
       "region": "North America",
       "country": "US",
@@ -157,7 +190,7 @@
     },
     {
       "id": "bddfc5cade877fabec9b0d60dfab76ee9e92e928",
-      "title": "Hackers Deploy Linux Rootkits via Cisco SNMP Flaw in \"Zero Disco' Attacks",
+      "title": "Hackers Deploy Linux Rootkits via Cisco SNMP Flaw in 'Zero Disco' Attacks",
       "url": "https://thehackernews.com/2025/10/hackers-deploy-linux-rootkits-via-cisco.html",
       "published": "2025-10-16T11:38:00+00:00",
       "summary": "Cybersecurity researchers have disclosed details of a new campaign that exploited a recently disclosed security flaw impacting Cisco IOS Software and IOS XE Software to deploy Linux rootkits on older, unprotected systems.\nThe activity, codenamed Operation Zero Disco by Trend Micro, involves the weaponization of CVE-2025-20352 (CVSS score: 7.7), a stack overflow vulnerability in the Simple",
@@ -627,39 +660,6 @@
       "region": "North America",
       "country": "US",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOYtQ6iBZXeM_9-6-jbrGzyCTATFy9WOpr6EwvQtQ5CnLpPu8kgdYgU-N2QuSW6lSHPJBAu5a0L1PJdHUloy8IHJoLoU7GjAYinyJCBVEW_4I8jHryCgx5petplyS1wOc8W4utwQWqgY_dCu6JvoJ1VYpA_5LjOW-xFblJOKYSZJaWhKQOgOVbWuR5_mlB/s1600/clioci.jpg"
-    },
-    {
-      "id": "f2fe9f57436b98b27f0cbb0381d6a6bcc0b7967d",
-      "title": "Chinese Hackers Weaponize Open-Source Nezha Tool in New Attack Wave",
-      "url": "https://thehackernews.com/2025/10/chinese-hackers-weaponize-open-source.html",
-      "published": "2025-10-08T13:56:00+00:00",
-      "summary": "Threat actors with suspected ties to China have turned a legitimate open-source monitoring tool called Nezha into an attack weapon, using it to deliver a known malware called Gh0st RAT to targets.\nThe activity, observed by cybersecurity company Huntress in August 2025, is characterized by the use of an unusual technique called log poisoning (aka log injection) to plant a web shell on a web",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFEU3_4hcDo6-rpmSdC4oOu6lqXwcs3zW75gC_vy27ch8215WSh_iF7dFmhHFNicFoE8OVHQ_OBo6mkPv5k1h-zla2zh9NB9NafhAhUl09c1JdaZyFNiL2J4WEbWvBPbWzqWK9_QcF0DD02XdxRyNmxNOV3P9Fur-cdMGfmvR2wRjm02Occ8nXnmd7sP79/s1600/chinese-hacker.jpg"
-    },
-    {
-      "id": "b790c689de188cd42b737f27ebf6e2105eec8556",
-      "title": "Step Into the Password Graveyard\u2026 If You Dare (and Join the Live Session)",
-      "url": "https://thehackernews.com/2025/10/step-into-password-graveyard-if-you.html",
-      "published": "2025-10-08T12:08:00+00:00",
-      "summary": "Every year, weak passwords lead to millions in losses \u2014 and many of those breaches could have been stopped.\nAttackers don\u2019t need advanced tools; they just need one careless login.\nFor IT teams, that means endless resets, compliance struggles, and sleepless nights worrying about the next credential leak.\nThis Halloween, The Hacker News and Specops Software invite you to a live webinar: \u201c",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivwsTf3ky6VtqQNr71Isd3UjCjU91fQSbDth8CN_3x4djTM6cpsvwUFIgI5NmlL1egPOlFkSqvpWKOT8d_sehIcb71Af-MbYuauCbHwbdqzI3N-u0Sli972aMWvccaR1LZqHunBp-Z_dMtum5NXcaCcefHAe7hD1eRFGz7x5s35Er8JLhIgjDkEaMYNL0/s1600/password-security.jpg"
-    },
-    {
-      "id": "671f3a1a27fbda88e8f0bd11cfceb88122359de6",
-      "title": "LockBit, Qilin, and DragonForce Join Forces to Dominate the Ransomware Ecosystem",
-      "url": "https://thehackernews.com/2025/10/lockbit-qilin-and-dragonforce-join.html",
-      "published": "2025-10-08T12:04:00+00:00",
-      "summary": "Three prominent ransomware groups DragonForce, LockBit, and Qilin have announced a new strategic ransomware alliance, once underscoring continued shifts in the cyber threat landscape.\nThe coalition is seen as an attempt on the part of the financially motivated threat actors to conduct more effective ransomware attacks, ReliaQuest said in a report shared with The Hacker News.\n\"Announced shortly",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7l0YTvsStRgMRAiw_OA_YpgmYvFPbaQjLuAnwMcEeeotQBHL-adsp8HhOZNf2DDJ8Ndc1URdC-47JRVjp5gWHItkY0XNkFLGnuAMkqmmbVLzMgyOCTZHHWDOpsT6W7EScav0tKAuII3U9leT1pjduP6UKFgShDYFU-vRKHBe0zTJVv6vO-1p1Xf9vAg_C/s1600/ransomware-attackers.jpg"
     },
     {
       "id": "b85efa9b1eaedd09eeed426f612767d2df3b09c9",
@@ -1293,7 +1293,7 @@
       "title": "Machine learning meets malware: how AI-powered ransomware could destroy your business",
       "url": "https://go.theregister.com/feed/www.theregister.com/2025/10/16/machine_learning_meets_malware/",
       "published": "2025-10-16T08:00:08+00:00",
-      "summary": "<h4>How to avoid your business being felled by an AI-powered ransomware attack that costs less than a laptop.</h4> <p><strong>Passwork</strong>\u00a0 KNP Logistics Group, a British transport company from Northamptonshire that\u2019s been around longer than the mass-produced lightbulb, collapsed after a devastating security breach that left more than 700 employees jobless. The 158-year-old firm fell victim to a ransomware attack.\u2026</p>",
+      "summary": "<h4>How to avoid your business being felled by an AI-powered ransomware attack that costs less than a laptop.</h4> <p><strong>Partner Content</strong>\u00a0 KNP Logistics Group, a British transport company from Northamptonshire that\u2019s been around longer than the mass-produced lightbulb, collapsed after a devastating security breach that left more than 700 employees jobless. The 158-year-old firm fell victim to a ransomware attack.\u2026</p>",
       "source": "The Register \u2013 Security",
       "region": "Europe",
       "country": "UK",
@@ -1762,6 +1762,17 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "389795cb595d02e3011d0303020899c3d4793e9b",
+      "title": "Email Bombs Exploit Lax Authentication in Zendesk",
+      "url": "https://krebsonsecurity.com/2025/10/email-bombs-exploit-lax-authentication-in-zendesk/",
+      "published": "2025-10-17T11:26:27+00:00",
+      "summary": "Cybercriminals are abusing a widespread lack of authentication in the customer service platform Zendesk to flood targeted email inboxes with menacing messages that come from hundreds of Zendesk corporate customers simultaneously.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "83d78caf9aa99594a3915dc725e05d5e4d9e5ea8",
       "title": "Patch Tuesday, October 2025 \u2018End of 10\u2019 Edition",
       "url": "https://krebsonsecurity.com/2025/10/patch-tuesday-october-2025-end-of-10-edition/",
@@ -1806,6 +1817,72 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "512d38a58b7f1e8a5bfbd038c5e0249ff8f4f26a",
+      "title": "Over $3 Million in Prizes Offered at Pwn2Own Automotive 2026",
+      "url": "https://www.securityweek.com/over-3-million-in-prizes-offered-at-pwn2own-automotive-2026/",
+      "published": "2025-10-17T11:35:14+00:00",
+      "summary": "<p>Set for January 2026 at Automotive World in Tokyo, the contest will have six categories, including Tesla, infotainment systems, EV chargers, and automotive OSes.</p>\n<p>The post <a href=\"https://www.securityweek.com/over-3-million-in-prizes-offered-at-pwn2own-automotive-2026/\">Over $3 Million in Prizes Offered at Pwn2Own Automotive 2026</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "42a748983bd08753ea8a386948392f0f31f88c40",
+      "title": "Hackers Steal Sensitive Data From Auction House Sotheby\u2019s",
+      "url": "https://www.securityweek.com/hackers-steal-sensitive-data-from-auction-house-sothebys/",
+      "published": "2025-10-17T11:17:20+00:00",
+      "summary": "<p>Sotheby's has disclosed a data breach impacting personal information, including SSNs.</p>\n<p>The post <a href=\"https://www.securityweek.com/hackers-steal-sensitive-data-from-auction-house-sothebys/\">Hackers Steal Sensitive Data From Auction House Sotheby&#8217;s</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "a46464d068e091d5f1316b61351840cd6762da2c",
+      "title": "\u2018Highest Ever\u2019 Severity Score Assigned by Microsoft to ASP.NET Core Vulnerability",
+      "url": "https://www.securityweek.com/highest-ever-severity-score-assigned-by-microsoft-to-asp-net-core-vulnerability/",
+      "published": "2025-10-17T10:46:36+00:00",
+      "summary": "<p>CVE-2025-55315 is an HTTP request smuggling bug leading to information leaks, file content tampering, and server crashes.</p>\n<p>The post <a href=\"https://www.securityweek.com/highest-ever-severity-score-assigned-by-microsoft-to-asp-net-core-vulnerability/\">&#8216;Highest Ever&#8217; Severity Score Assigned by Microsoft to ASP.NET Core Vulnerability</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "78de149941489fba4fde8937754b69688cac0a4a",
+      "title": "Prosper Data Breach Impacts 17.6 Million Accounts",
+      "url": "https://www.securityweek.com/prosper-data-breach-impacts-17-6-million-accounts/",
+      "published": "2025-10-17T08:43:01+00:00",
+      "summary": "<p>Hackers stole names, addresses, dates of birth, email addresses, Social Security numbers, government IDs, and other information.</p>\n<p>The post <a href=\"https://www.securityweek.com/prosper-data-breach-impacts-17-6-million-accounts/\">Prosper Data Breach Impacts 17.6 Million Accounts</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "db800ac1b5e1f1396cd87944aa91395c93bc81e4",
+      "title": "Vulnerabilities Allow Disruption of Phoenix Contact UPS Devices",
+      "url": "https://www.securityweek.com/vulnerabilities-allow-disruption-of-phoenix-contact-ups-devices/",
+      "published": "2025-10-17T08:30:09+00:00",
+      "summary": "<p>An attacker can exploit the flaws to put devices into a permanent DoS condition that prevents remote restoration.</p>\n<p>The post <a href=\"https://www.securityweek.com/vulnerabilities-allow-disruption-of-phoenix-contact-ups-devices/\">Vulnerabilities Allow Disruption of Phoenix Contact UPS Devices</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "d51317b6c6fc718895b6ea03f59985f6fd33af47",
+      "title": "Gladinet Patches Exploited CentreStack Vulnerability",
+      "url": "https://www.securityweek.com/gladinet-patches-exploited-centrestack-vulnerability/",
+      "published": "2025-10-17T07:51:15+00:00",
+      "summary": "<p>The unauthenticated local file inclusion bug allows attackers to retrieve the machine key and execute code remotely via a ViewState deserialization issue.</p>\n<p>The post <a href=\"https://www.securityweek.com/gladinet-patches-exploited-centrestack-vulnerability/\">Gladinet Patches Exploited CentreStack Vulnerability</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "17d8a337467b488f6c1320a583e684121af2e567",
       "title": "Microsoft Revokes Over 200 Certificates to Disrupt Ransomware Campaign",
       "url": "https://www.securityweek.com/microsoft-revokes-over-200-certificates-to-disrupt-ransomware-campaign/",
@@ -1844,72 +1921,6 @@
       "url": "https://www.securityweek.com/organizations-warned-of-exploited-adobe-aem-forms-vulnerability/",
       "published": "2025-10-16T12:23:50+00:00",
       "summary": "<p>A public PoC existed when Adobe patched the Experience Manager Forms (AEM Forms) bug in early August.</p>\n<p>The post <a href=\"https://www.securityweek.com/organizations-warned-of-exploited-adobe-aem-forms-vulnerability/\">Organizations Warned of Exploited Adobe AEM Forms Vulnerability</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "7a92640475318a07a8db46f1b504c5eb6e3576d4",
-      "title": "Fuji Electric HMI Configurator Flaws Expose Industrial Organizations to Hacking",
-      "url": "https://www.securityweek.com/fuji-electric-hmi-configurator-flaws-expose-industrial-organizations-to-hacking/",
-      "published": "2025-10-16T11:57:21+00:00",
-      "summary": "<p>Fuji Electric has released patches and Japan\u2019s JPCERT has informed organizations about the vulnerabilities.\u00a0</p>\n<p>The post <a href=\"https://www.securityweek.com/fuji-electric-hmi-configurator-flaws-expose-industrial-organizations-to-hacking/\">Fuji Electric HMI Configurator Flaws Expose Industrial Organizations to Hacking</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "e56c49647a1a3a17aa51c716c6e9ebc453a06553",
-      "title": "Cisco Routers Hacked for Rootkit Deployment",
-      "url": "https://www.securityweek.com/cisco-routers-hacked-for-rootkit-deployment/",
-      "published": "2025-10-16T11:12:40+00:00",
-      "summary": "<p>Threat actors are exploiting CVE-2025-20352, a recent Cisco zero-day, to deploy a rootkit on older networking devices.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisco-routers-hacked-for-rootkit-deployment/\">Cisco Routers Hacked for Rootkit Deployment</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "40443ad9b5affd06cd76980aada45afa40d16f8e",
-      "title": "US Charges Cambodian Executive in Massive Crypto Scam and Seizes More Than $14 Billion in Bitcoin",
-      "url": "https://www.securityweek.com/us-charges-cambodian-executive-in-massive-crypto-scam-and-seizes-more-than-14-billion-in-bitcoin/",
-      "published": "2025-10-16T10:56:55+00:00",
-      "summary": "<p>In an indictment, federal prosecutors charged Prince Holding Group chairman Chen Zhi with wire fraud conspiracy and money laundering conspiracy.</p>\n<p>The post <a href=\"https://www.securityweek.com/us-charges-cambodian-executive-in-massive-crypto-scam-and-seizes-more-than-14-billion-in-bitcoin/\">US Charges Cambodian Executive in Massive Crypto Scam and Seizes More Than $14 Billion in Bitcoin</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "317c989a3bea82be9bf9faa63d13feac3bb6a697",
-      "title": "Four-Year Prison Sentence for PowerSchool Hacker",
-      "url": "https://www.securityweek.com/four-year-prison-sentence-for-powerschool-hacker/",
-      "published": "2025-10-16T09:42:12+00:00",
-      "summary": "<p>Matthew Lane pleaded guilty in May to extorting two companies after hacking into their networks and stealing information.</p>\n<p>The post <a href=\"https://www.securityweek.com/four-year-prison-sentence-for-powerschool-hacker/\">Four-Year Prison Sentence for PowerSchool Hacker</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "ad3bd3daf7390e935b9595260408fb89bccc7c4b",
-      "title": "F5 Hack: Attack Linked to China, BIG-IP Flaws Patched, Governments Issue Alerts",
-      "url": "https://www.securityweek.com/f5-hack-attack-linked-to-china-big-ip-flaws-patched-governments-issue-alerts/",
-      "published": "2025-10-16T08:41:27+00:00",
-      "summary": "<p>More information has come to light on the cyberattack disclosed this week by F5, including on attribution and potential risks.</p>\n<p>The post <a href=\"https://www.securityweek.com/f5-hack-attack-linked-to-china-big-ip-flaws-patched-governments-issue-alerts/\">F5 Hack: Attack Linked to China, BIG-IP Flaws Patched, Governments Issue Alerts\u00a0</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "b081ceb49b7fb5ba7bf03e61a1474e49a45b4e82",
-      "title": "SecurityWeek to Host 2025 ICS Cybersecurity Conference October 27-30 in Atlanta",
-      "url": "https://www.securityweek.com/securityweek-to-host-2025-ics-cybersecurity-conference-october-27-30-in-atlanta/",
-      "published": "2025-10-15T16:51:14+00:00",
-      "summary": "<p>Premier industrial cybersecurity conference Offers 70+ sessions, five training courses, and and ICS Village CTF competition.</p>\n<p>The post <a href=\"https://www.securityweek.com/securityweek-to-host-2025-ics-cybersecurity-conference-october-27-30-in-atlanta/\">SecurityWeek to Host 2025 ICS Cybersecurity Conference October 27-30 in Atlanta</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
