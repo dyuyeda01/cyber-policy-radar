@@ -6,104 +6,130 @@
   <title>Cyber Policy Radar</title>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
   <style>
-    body {
+    /* --- Base Layout --- */
+    html, body {
+      height: 100%;
+      margin: 0;
+      padding: 0;
+      overflow-x: hidden;
+      background: #0b0f14;
+      color: #e6edf3;
       font-family: Inter, sans-serif;
-      background:#0b0f14;
-      color:#e6edf3;
-      margin:0;
-      line-height:1.6;
-    }
-    header {
-      background:#0d1117;
-      padding:16px;
-      border-bottom:1px solid #1f2937;
-      position:sticky; top:0; z-index:10;
-    }
-    h1 {
-      margin:0;
-      font-size:22px;
-    }
-    .container {
-      max-width:900px;
-      margin:0 auto;
-      padding:0 16px;
-    }
-    .filters {
-      display:flex;
-      flex-wrap:wrap;
-      gap:8px;
-      margin-top:10px;
-    }
-    input, select {
-      background:#111827;
-      color:#e6edf3;
-      border:1px solid #374151;
-      border-radius:6px;
-      padding:6px 8px;
-      font-size:14px;
-    }
-    main {
-      padding:20px 0;
-    }
-    .meta {
-      font-size:12px;
-      color:#9ca3af;
-      margin-bottom:6px;
+      line-height: 1.6;
     }
 
-    /* --- Simple vertical list layout --- */
+    header {
+      background: #0d1117;
+      border-bottom: 1px solid #1f2937;
+      padding: 16px;
+      position: sticky;
+      top: 0;
+      z-index: 10;
+    }
+
+    h1 {
+      margin: 0;
+      font-size: 22px;
+    }
+
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 0 16px;
+    }
+
+    /* --- Filters --- */
+    .filters {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-top: 10px;
+    }
+
+    input, select {
+      background: #111827;
+      color: #e6edf3;
+      border: 1px solid #374151;
+      border-radius: 6px;
+      padding: 6px 8px;
+      font-size: 14px;
+    }
+
+    @media (max-width: 640px) {
+      h1 { text-align: center; font-size: 20px; }
+      .filters { flex-direction: column; }
+      input, select { width: 100%; font-size: 13px; }
+    }
+
+    main {
+      display: block;
+      width: 100%;
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 20px 16px 40px 16px;
+    }
+
+    .meta {
+      font-size: 12px;
+      color: #9ca3af;
+      margin-bottom: 6px;
+    }
+
+    /* --- Articles List --- */
     #list {
-      display:block;
+      display: block;
     }
 
     .card {
-      border:1px solid #1f2937;
-      border-radius:8px;
-      background:#111827;
-      margin-bottom:16px;
-      overflow:hidden;
-    }
-    .card img {
-      width:100%;
-      display:block;
-      max-height:200px;
-      object-fit:cover;
-    }
-    .card-content {
-      padding:12px 14px;
-    }
-    .card-content h3 {
-      margin:6px 0;
-      font-size:16px;
-      line-height:1.4;
-    }
-    .card-content a {
-      color:#93c5fd;
-      text-decoration:none;
-    }
-    .card-content a:hover {
-      text-decoration:underline;
-    }
-    .card-content p {
-      color:#d1d5db;
-      font-size:14px;
-      margin-top:6px;
-    }
-    footer {
-      text-align:center;
-      color:#9ca3af;
-      padding:20px;
-      border-top:1px solid #1f2937;
-      font-size:13px;
+      border: 1px solid #1f2937;
+      border-radius: 8px;
+      background: #111827;
+      margin-bottom: 16px;
+      overflow: hidden;
     }
 
-    @media (max-width:640px) {
-      h1 { text-align:center; font-size:20px; }
-      .filters { flex-direction:column; }
-      input, select { width:100%; font-size:13px; }
+    .card img {
+      width: 100%;
+      max-height: 220px;
+      display: block;
+      object-fit: cover;
+    }
+
+    .card-content {
+      padding: 12px 14px;
+    }
+
+    .card-content h3 {
+      margin: 6px 0;
+      font-size: 16px;
+      line-height: 1.4;
+    }
+
+    .card-content a {
+      color: #93c5fd;
+      text-decoration: none;
+    }
+
+    .card-content a:hover {
+      text-decoration: underline;
+    }
+
+    .card-content p {
+      color: #d1d5db;
+      font-size: 14px;
+      margin-top: 6px;
+    }
+
+    footer {
+      text-align: center;
+      color: #9ca3af;
+      padding: 20px;
+      border-top: 1px solid #1f2937;
+      font-size: 13px;
     }
   </style>
 </head>
+
 <body>
   <header>
     <div class="container">
@@ -116,7 +142,7 @@
     </div>
   </header>
 
-  <main class="container">
+  <main>
     <div id="lastUpdated" class="meta"></div>
     <div id="count" class="meta"></div>
     <div id="list"></div>
@@ -127,6 +153,68 @@
     <a href="https://github.com/dyuyeda01" target="_blank" rel="noopener noreferrer">dyuyeda01</a>
   </footer>
 
-  <script src="script.js"></script>
+  <script>
+    (async function () {
+      const res = await fetch('data/articles.json');
+      const data = await res.json();
+      const items = (data.items || []).sort((a,b) => new Date(b.published||0) - new Date(a.published||0));
+
+      const list = document.getElementById('list');
+      const count = document.getElementById('count');
+      const lastUpdated = document.getElementById('lastUpdated');
+      const regionSelect = document.getElementById('regionSelect');
+      const sourceSelect = document.getElementById('sourceSelect');
+      const searchInput = document.getElementById('searchInput');
+
+      if (data.generated_at) {
+        const dt = new Date(data.generated_at);
+        lastUpdated.textContent = `Last updated: ${dt.toLocaleString()}`;
+      }
+
+      // Populate filters
+      const regions = [...new Set(items.map(i => i.region).filter(Boolean))].sort();
+      const sources = [...new Set(items.map(i => i.source).filter(Boolean))].sort();
+      regionSelect.innerHTML = `<option value="all">All regions</option>` + regions.map(r=>`<option>${r}</option>`).join('');
+      sourceSelect.innerHTML = `<option value="all">All sources</option>` + sources.map(s=>`<option>${s}</option>`).join('');
+
+      function safe(s){ return s ? s : ''; }
+
+      // Render list
+      function render(listItems) {
+        count.textContent = `${listItems.length} article(s)`;
+        list.innerHTML = listItems.map(i => {
+          const hasImage = i.image && !i.image.includes('placeholder');
+          const date = i.published ? new Date(i.published).toLocaleString() : '';
+          return `
+            <div class="card">
+              ${hasImage ? `<img src="${i.image}" alt="" loading="lazy" onerror="this.remove()">` : ''}
+              <div class="card-content">
+                <div class="meta">${safe(i.region)} ${i.source ? '• ' + safe(i.source) : ''}${date ? '<br>' + date : ''}</div>
+                <h3><a href="${i.url}" target="_blank" rel="noopener noreferrer">${safe(i.title)}</a></h3>
+                ${i.summary ? `<p>${safe(i.summary).substring(0,150)}…</p>` : ''}
+              </div>
+            </div>`;
+        }).join('');
+      }
+
+      function applyFilters() {
+        const q = (searchInput.value || '').toLowerCase();
+        const r = regionSelect.value;
+        const s = sourceSelect.value;
+        const filtered = items.filter(i =>
+          (r === 'all' || i.region === r) &&
+          (s === 'all' || i.source === s) &&
+          (!q || (i.title || '').toLowerCase().includes(q))
+        );
+        render(filtered);
+      }
+
+      [searchInput, regionSelect, sourceSelect].forEach(el =>
+        el.addEventListener('input', applyFilters)
+      );
+
+      render(items);
+    })();
+  </script>
 </body>
 </html>
