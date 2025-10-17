@@ -6,20 +6,29 @@
   <title>Cyber Policy Radar</title>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
   <style>
+    :root {
+      --bg: #0b0f14;
+      --card: #111827;
+      --border: #1f2937;
+      --text: #e6edf3;
+      --muted: #9ca3af;
+      --link: #93c5fd;
+    }
+
+    /* --- Base Layout --- */
     html, body {
-      height: auto;
       margin: 0;
       padding: 0;
-      overflow-x: hidden;
-      background: #0b0f14;
-      color: #e6edf3;
+      background: var(--bg);
+      color: var(--text);
       font-family: Inter, sans-serif;
       line-height: 1.6;
+      overflow-x: hidden;
     }
 
     header {
       background: #0d1117;
-      border-bottom: 1px solid #1f2937;
+      border-bottom: 1px solid var(--border);
       padding: 16px;
       position: sticky;
       top: 0;
@@ -32,11 +41,12 @@
     }
 
     .container {
-      max-width: 900px;
+      max-width: 1100px;
       margin: 0 auto;
       padding: 0 16px;
     }
 
+    /* --- Filters --- */
     .filters {
       display: flex;
       flex-wrap: wrap;
@@ -45,56 +55,55 @@
     }
 
     input, select {
-      background: #111827;
-      color: #e6edf3;
-      border: 1px solid #374151;
+      background: var(--card);
+      color: var(--text);
+      border: 1px solid var(--border);
       border-radius: 6px;
       padding: 6px 8px;
       font-size: 14px;
     }
 
-    @media (max-width: 640px) {
-      h1 { text-align: center; font-size: 20px; }
-      .filters { flex-direction: column; }
-      input, select { width: 100%; font-size: 13px; }
-    }
-
     main {
-      display: block;
-      width: 100%;
-      max-width: 900px;
-      margin: 0 auto;
       padding: 20px 16px 40px 16px;
+      max-width: 1100px;
+      margin: 0 auto;
     }
 
     .meta {
       font-size: 12px;
-      color: #9ca3af;
-      margin-bottom: 6px;
+      color: var(--muted);
+      margin-bottom: 8px;
     }
 
-    /* --- Simple list layout --- */
+    /* --- Card Layout --- */
     #list {
-      display: block;
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 20px;
     }
 
     .card {
-      border: 1px solid #1f2937;
+      border: 1px solid var(--border);
       border-radius: 8px;
-      background: #111827;
-      margin-bottom: 16px;
+      background: var(--card);
       overflow: hidden;
+      transition: transform .15s ease;
+    }
+
+    .card:hover {
+      transform: translateY(-2px);
     }
 
     .card img {
       width: 100%;
-      max-height: 220px;
-      display: block;
+      height: 200px;
       object-fit: cover;
+      display: block;
+      background: var(--border);
     }
 
     .card-content {
-      padding: 12px 14px;
+      padding: 14px;
     }
 
     .card-content h3 {
@@ -104,7 +113,7 @@
     }
 
     .card-content a {
-      color: #93c5fd;
+      color: var(--link);
       text-decoration: none;
     }
 
@@ -120,10 +129,29 @@
 
     footer {
       text-align: center;
-      color: #9ca3af;
+      color: var(--muted);
       padding: 20px;
-      border-top: 1px solid #1f2937;
+      border-top: 1px solid var(--border);
       font-size: 13px;
+    }
+
+    /* --- Responsive Design --- */
+    @media (max-width: 640px) {
+      h1 { text-align: center; font-size: 20px; }
+      .filters { flex-direction: column; }
+      input, select { width: 100%; font-size: 13px; }
+      .card img { height: 180px; }
+      #list { grid-template-columns: 1fr; }
+    }
+
+    @media (min-width: 641px) and (max-width: 1024px) {
+      #list { grid-template-columns: repeat(2, 1fr); }
+      .card img { height: 200px; }
+    }
+
+    @media (min-width: 1025px) {
+      #list { grid-template-columns: repeat(2, 1fr); }
+      .card img { height: 220px; }
     }
   </style>
 </head>
@@ -170,25 +198,22 @@
           lastUpdated.textContent = `Last updated: ${dt.toLocaleString()}`;
         }
 
-        // Populate filters
         const regions = [...new Set(items.map(i => i.region).filter(Boolean))].sort();
         const sources = [...new Set(items.map(i => i.source).filter(Boolean))].sort();
         regionSelect.innerHTML = '<option value="all">All regions</option>' + regions.map(r=>`<option>${r}</option>`).join('');
         sourceSelect.innerHTML = '<option value="all">All sources</option>' + sources.map(s=>`<option>${s}</option>`).join('');
 
-        function safe(t) {
-          return t ? String(t).replace(/</g, "&lt;").replace(/>/g, "&gt;") : '';
-        }
+        function safe(t){ return t ? String(t).replace(/</g,"&lt;").replace(/>/g,"&gt;") : ''; }
 
         function render(listItems) {
           count.textContent = `${listItems.length} article(s)`;
           list.innerHTML = listItems.map(i => {
-            const imgTag = (i.image && !i.image.includes('placeholder')) ?
-              `<img src="${i.image}" alt="" loading="lazy" onerror="this.remove()">` : '';
+            const hasImg = i.image && !i.image.includes('placeholder');
+            const imgHTML = hasImg ? `<img src="${i.image}" alt="" loading="lazy" onerror="this.remove()">` : '';
             const date = i.published ? new Date(i.published).toLocaleString() : '';
             return `
               <div class="card">
-                ${imgTag}
+                ${imgHTML}
                 <div class="card-content">
                   <div class="meta">${safe(i.region)} ${i.source ? '• ' + safe(i.source) : ''}${date ? '<br>' + date : ''}</div>
                   <h3><a href="${safe(i.url)}" target="_blank" rel="noopener noreferrer">${safe(i.title)}</a></h3>
