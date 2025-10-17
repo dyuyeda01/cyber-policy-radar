@@ -1,7 +1,7 @@
-(async function() {
+(async function () {
   const res = await fetch('data/articles.json');
   const data = await res.json();
-  const items = (data.items || []).sort((a,b) => new Date(b.published||0) - new Date(a.published||0));
+  const items = (data.items || []).sort((a, b) => new Date(b.published || 0) - new Date(a.published || 0));
 
   const grid = document.getElementById('grid');
   const count = document.getElementById('count');
@@ -10,47 +10,75 @@
   const sourceSelect = document.getElementById('sourceSelect');
   const searchInput = document.getElementById('searchInput');
 
-  // Show last updated
+  // Last updated timestamp
   if (data.generated_at) {
     const dt = new Date(data.generated_at);
     lastUpdated.textContent = `Last updated: ${dt.toLocaleString()}`;
   }
 
-  // Populate filters
+  // Build filter options from data
   const regions = [...new Set(items.map(i => i.region).filter(Boolean))].sort();
   const sources = [...new Set(items.map(i => i.source).filter(Boolean))].sort();
-  regionSelect.innerHTML = `<option value="all">All Regions</option>` + regions.map(r=>`<option>${r}</option>`).join('');
-  sourceSelect.innerHTML = `<option value="all">All Sources</option>` + sources.map(s=>`<option>${s}</option>`).join('');
+  regionSelect.innerHTML = `<option value="all">All regions</option>` + regions.map(r => `<option>${r}</option>`).join('');
+  sourceSelect.innerHTML = `<option value="all">All sources</option>` + sources.map(s => `<option>${s}</option>`).join('');
 
-  function render(filtered) {
-    count.textContent = `${filtered.length} article(s)`;
-    grid.innerHTML = filtered.map(i => `
-      <div class="card">
-        <img src="${i.image || 'https://via.placeholder.com/640x360?text=Cyber+News'}" alt="">
-        <div class="card-content">
-          <div class="meta">
-            ${i.region || ''} • ${i.source || ''}<br>
-            ${i.published ? new Date(i.published).toLocaleString() : ''}
-          </div>
-          <h3><a href="${i.url}" target="_blank">${i.title}</a></h3>
-          <p>${i.summary ? i.summary.substring(0,150) + '…' : ''}</p>
-        </div>
-      </div>`).join('');
+  // Render helpers
+  function safeText(s) { return (s || '').toString(); }
+  function hasUsableImage(url) {
+    if (!url) return false;
+    if (url.includes('placeholder')) return false;
+    return true;
   }
 
-  function filterItems() {
-    const term = (searchInput.value || '').toLowerCase();
-    const region = regionSelect.value;
-    const source = sourceSelect.value;
+  function render(list) {
+    count.textContent = `${list.length} article(s)`;
+
+    grid.innerHTML = list.map(i => {
+      const showImg = hasUsableImage(i.image);
+      // onerror removes the image node if it fails (prevents blank boxes on mobile)
+      const imgHTML = showImg
+        ? `<div class="thumb">
+             <img loading="lazy" referrerpolicy="no-referrer"
+                  src="${i.image}"
+                  alt=""
+                  onerror="this.closest('.thumb').remove()">
+           </div>`
+        : '';
+
+      const date = i.published ? new Date(i.published).toLocaleString() : '';
+
+      return `
+        <div class="card">
+          ${imgHTML}
+          <div class="content">
+            <div class="meta">${safeText(i.region)} ${i.source ? '• ' + safeText(i.source) : ''}${date ? '<br>' + date : ''}</div>
+            <h3 class="title"><a href="${i.url}" target="_blank" rel="noopener noreferrer">${safeText(i.title)}</a></h3>
+            ${i.summary ? `<p class="summary">${safeText(i.summary).slice(0, 180)}…</p>` : ''}
+          </div>
+        </div>
+      `;
+    }).join('');
+  }
+
+  function applyFilters() {
+    const q = (searchInput.value || '').toLowerCase();
+    const r = regionSelect.value;
+    const s = sourceSelect.value;
+
     const filtered = items.filter(i =>
-      (region === 'all' || i.region === region) &&
-      (source === 'all' || i.source === source) &&
-      (!term || i.title.toLowerCase().includes(term))
+      (r === 'all' || i.region === r) &&
+      (s === 'all' || i.source === s) &&
+      (!q || safeText(i.title).toLowerCase().includes(q))
     );
+
     render(filtered);
   }
 
-  [searchInput, regionSelect, sourceSelect].forEach(el => el.addEventListener('input', filterItems));
+  // Wire up events
+  [searchInput, regionSelect, sourceSelect].forEach(el =>
+    el.addEventListener('input', applyFilters)
+  );
 
+  // Initial paint
   render(items);
 })();

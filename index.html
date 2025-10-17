@@ -6,144 +6,91 @@
   <title>Cyber Policy Radar</title>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
   <style>
-    /* --- Base Styling --- */
+    :root {
+      --bg: #0b0f14;
+      --card: #111827;
+      --border: #1f2937;
+      --text: #e6edf3;
+      --muted: #9ca3af;
+      --link: #93c5fd;
+    }
+    /* Base */
+    html, body { height: auto; }
     body {
-      font-family: Inter, sans-serif;
-      background:#0b0f14;
-      color:#e6edf3;
-      margin:0;
-      line-height:1.6;
+      margin: 0;
+      font-family: Inter, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.5;
     }
+
+    /* Header */
     header {
-      background:#0d1117;
-      padding:16px 0;
-      border-bottom:1px solid #1f2937;
-      position:sticky;
-      top:0;
-      z-index:10;
+      position: sticky; top: 0; z-index: 10;
+      background: #0d1117; border-bottom: 1px solid var(--border);
     }
-    h1 {
-      margin:0;
-      font-size:24px;
-      font-weight:600;
-    }
-    .container {
-      max-width:1200px;
-      margin:auto;
-      padding:0 20px;
+    .container { max-width: 1100px; margin: 0 auto; padding: 16px 20px; }
+    h1 { margin: 0; font-size: 22px; font-weight: 600; }
+
+    /* Filters */
+    .filters { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px; }
+    .filters input[type="search"],
+    .filters select {
+      background: var(--card); color: var(--text);
+      border: 1px solid var(--border); border-radius: 8px;
+      padding: 6px 8px; font-size: 14px;
     }
 
-    /* --- Filters --- */
-    .filters {
-      display:flex;
-      gap:10px;
-      flex-wrap:wrap;
-      margin-top:10px;
-    }
-    input, select {
-      background:#111827;
-      color:#e6edf3;
-      border:1px solid #374151;
-      padding:10px 12px;
-      border-radius:8px;
-      flex:1 1 240px;
-      font-size:14px;
-    }
-    input::placeholder { color:#9ca3af; }
+    /* Main */
+    main { padding: 20px 0; }
+    .meta { color: var(--muted); font-size: 12px; margin-bottom: 8px; }
 
-    /* --- Main Layout --- */
-    main {
-      padding:30px 0;
-    }
+    /* Grid */
     #grid {
-      display:grid;
-      gap:24px;
-      grid-template-columns:repeat(auto-fit,minmax(320px,1fr));
-      align-items:start;
+      display: grid; gap: 16px;
+      grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+      align-items: start;
     }
 
-    /* --- Cards --- */
+    /* Card */
     .card {
-      background:#111827;
-      border:1px solid #1f2937;
-      border-radius:12px;
-      overflow:hidden;
-      transition:transform .15s ease, box-shadow .15s ease;
-      display:flex;
-      flex-direction:column;
-      height:100%;
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      overflow: hidden;
     }
-    .card:hover {
-      transform:translateY(-4px);
-      box-shadow:0 6px 12px rgba(0,0,0,0.35);
+    .thumb {
+      /* keep layout stable even while images load */
+      aspect-ratio: 16 / 9;
+      background: var(--border);
+      overflow: hidden;
     }
-    .card img {
-      width:100%;
-      height:190px;
-      object-fit:cover;
-      background:#1f2937;
-      display:block;
+    .thumb img {
+      width: 100%; height: 100%; object-fit: cover; display: block;
     }
-    .card-content {
-      padding:18px;
-      flex:1;
-      display:flex;
-      flex-direction:column;
-      justify-content:space-between;
-      background:linear-gradient(to bottom, #111827 0%, #0b0f14 100%);
-      border-top:1px solid #1f2937;
-    }
+    .content { padding: 14px; }
+    .title { margin: 6px 0; font-size: 16px; line-height: 1.35; }
+    a { color: var(--link); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    .summary { color: #d1d5db; font-size: 14px; margin-top: 6px; }
 
-    /* --- Text Styles --- */
-    .meta {
-      font-size:13px;
-      color:#9ca3af;
-      margin-bottom:8px;
-    }
-    h3 {
-      font-size:17px;
-      margin:6px 0;
-      line-height:1.35;
-    }
-    a {
-      color:#93c5fd;
-      text-decoration:none;
-    }
-    a:hover {
-      text-decoration:underline;
-    }
-    p {
-      font-size:15px;
-      color:#d1d5db;
-      margin-top:8px;
-      line-height:1.5;
-    }
+    /* Footer */
+    footer { border-top: 1px solid var(--border); color: var(--muted); text-align: center; padding: 20px; }
 
-    footer {
-      text-align:center;
-      color:#9ca3af;
-      padding:28px;
-      border-top:1px solid #1f2937;
-      font-size:13px;
-      background:#0d1117;
-    }
-
-    /* --- Mobile Responsiveness --- */
+    /* Mobile tweaks */
     @media (max-width: 640px) {
-      h1 { font-size:20px; text-align:center; }
-      .filters { flex-direction:column; }
-      input, select { width:100%; }
-      #grid { grid-template-columns:1fr; gap:18px; }
-      .card img { height:220px; }
-      .card-content { padding:16px; }
-      h3 { font-size:18px; }
-      p { font-size:15px; }
+      h1 { font-size: 20px; text-align: center; }
+      .filters { gap: 8px; }
+      .filters input[type="search"],
+      .filters select { font-size: 13px; padding: 5px 6px; }
+      #grid { grid-template-columns: 1fr; gap: 14px; }
+      .title { font-size: 17px; }
+      .summary { font-size: 15px; }
     }
 
-    /* --- Tablet View --- */
-    @media (min-width:641px) and (max-width:900px) {
-      #grid { grid-template-columns:repeat(2, 1fr); }
-      .card img { height:170px; }
+    /* Tablet */
+    @media (min-width: 641px) and (max-width: 900px) {
+      #grid { grid-template-columns: repeat(2, 1fr); }
     }
   </style>
 </head>
@@ -152,9 +99,9 @@
     <div class="container">
       <h1>🌐 Cyber Policy Radar</h1>
       <div class="filters">
-        <input id="searchInput" type="search" placeholder="Search titles..." />
-        <select id="regionSelect"></select>
-        <select id="sourceSelect"></select>
+        <input id="searchInput" type="search" placeholder="Search titles…" aria-label="Search titles" />
+        <select id="regionSelect" aria-label="Filter by region"></select>
+        <select id="sourceSelect" aria-label="Filter by source"></select>
       </div>
     </div>
   </header>
@@ -167,7 +114,7 @@
 
   <footer>
     Auto-updated every 12h • Built by
-    <a href="https://github.com/dyuyeda01" target="_blank">dyuyeda01</a>
+    <a href="https://github.com/dyuyeda01" target="_blank" rel="noopener noreferrer">dyuyeda01</a>
   </footer>
 
   <script src="script.js"></script>
