@@ -35,5 +35,3 @@ This project was co-developed interactively with **AI assistance (OpenAI Codex +
 
 ---
 
-## 📁 Project Structure
-
