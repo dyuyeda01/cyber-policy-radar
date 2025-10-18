@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-18T00:37:55.823997+00:00",
+  "generated_at": "2025-10-18T12:14:16.326286+00:00",
   "items": [
     {
       "id": "042560c681a7dc226460798892566af4e57f0d55",
@@ -110,6 +110,28 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "2b690efe7e6611882b3fccd8b1acc7a0eaa46d2f",
+      "title": "New .NET CAPI Backdoor Targets Russian Auto and E-Commerce Firms via Phishing ZIPs",
+      "url": "https://thehackernews.com/2025/10/new-net-capi-backdoor-targets-russian.html",
+      "published": "2025-10-18T11:41:00+00:00",
+      "summary": "Cybersecurity researchers have shed light on a new campaign that has likely targeted the Russian automobile and e-commerce sectors with a previously undocumented .NET malware dubbed CAPI Backdoor.\nAccording to Seqrite Labs, the attack chain involves distributing phishing emails containing a ZIP archive as a way to trigger the infection. The cybersecurity company's analysis is based on the ZIP",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjONqdUuuzUnSmVHZhMcb0nfxYoLC_St8teKiK0-qlwf3oFZ-rYbcUdnFHk7Mgy1EGoVKTbyQxzKaba5HD7dK6BinVxUGsBQUmUUpgzw5mx6ovilIp8qze4uC_8RTbjv7enWakXLBUKJZwdKcHhUS6qVJ-ke9FXhzkBw951sZZYbBRD_QhTQiH4Pas9oRF7/s1600/russian-malware.jpg"
+    },
+    {
+      "id": "bb3e395a001849713eb51eff2153d2896ca76738",
+      "title": "Silver Fox Expands Winos 4.0 Attacks to Japan and Malaysia via HoldingHands RAT",
+      "url": "https://thehackernews.com/2025/10/silver-fox-expands-winos-40-attacks-to.html",
+      "published": "2025-10-18T06:51:00+00:00",
+      "summary": "The threat actors behind a malware family known as Winos 4.0 (aka ValleyRAT) have expanded their targeting footprint from China and Taiwan to target Japan and Malaysia with another remote access trojan (RAT) tracked as HoldingHands RAT (aka Gh0stBins).\n\"The campaign relied on phishing emails with PDFs that contained embedded malicious links,\" Pei Han Liao, researcher with Fortinet's FortiGuard",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibiSdv0av_jBT1NvQWK4prfMmJUZXETQesWOp4pATha0asiCgMVGZ6_A_56RBxOX_gPNijoVz4QQN955iyx-KRfAj8k-F48zjIZE5gFopMN_rMyacDt1UFR7g97Hbt7SUnldANyT1T3upYifeVyFQnOHbHplYu3Vw_HtsJURvqfqqe38TU80hgIloRppiL/s1600/pdf-malware.jpg"
     },
     {
       "id": "51c4a200fc7e80e04ea22ae0de65e220fe26ea4b",
@@ -638,28 +660,6 @@
       "region": "North America",
       "country": "US",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjj4_E2pRjfdBlyYUmNobyFyhXQHT4b_Y6YBgz_LLjB8fNzvPvWIGGFdGzVt6cJtt_-fnmh3EchkRQdFgAJwuNJ3DDh_a-fd55E8k1ADBfY5iJDEHg9s8V_7pqErkIFPhmfrftOGzkfyI6COronxWAR7XdOv40qkv4XEzRZT7X6nQuNfxbUkRCm5n6lpCU3/s1600/reco.jpg"
-    },
-    {
-      "id": "a639f3333fba66e068196ca30098c719c83b9d5c",
-      "title": "From Phishing to Malware: AI Becomes Russia's New Cyber Weapon in War on Ukraine",
-      "url": "https://thehackernews.com/2025/10/from-phishing-to-malware-ai-becomes.html",
-      "published": "2025-10-09T09:10:00+00:00",
-      "summary": "Russian hackers' adoption of artificial intelligence (AI) in cyber attacks against Ukraine has reached a new level in the first half of 2025 (H1 2025), the country's State Service for Special Communications and Information Protection (SSSCIP) said.\n\"Hackers now employ it not only to generate phishing messages, but some of the malware samples we have analyzed show clear signs of being generated",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHcdU1Cz-4l67OKynaQJ3I8fsIczjJy8Er8zBil5NZb4T5HbslQSGXQd3GfPVmexCSRJdKajgcpr0Qn5GeYUnwPthimGseTrVuCp-xRi7ZJHqaeUKP-Vkes3M4E1KJcEZqhMcLMfe0II_BWLvCWbzau7iw_Vn6AxtRkLpVzW4DXvts6Bb2MUb_W-Meesgg/s1600/russian-hackers.jpg"
-    },
-    {
-      "id": "babf775e6e3921d1cebe6f6253f71b0fe173c0f3",
-      "title": "Critical Exploit Lets Hackers Bypass Authentication in WordPress Service Finder Theme",
-      "url": "https://thehackernews.com/2025/10/critical-exploit-lets-hackers-bypass.html",
-      "published": "2025-10-09T06:57:00+00:00",
-      "summary": "Threat actors are actively exploiting a critical security flaw impacting the Service Finder WordPress theme that makes it possible to gain unauthorized access to any account, including administrators, and take control of susceptible sites.\nThe authentication bypass vulnerability, tracked as CVE-2025-5947 (CVSS score: 9.8), affects the Service Finder Bookings, a WordPress plugin bundled with the",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQr77l3KfGngFbogrkpR-NnGUpe7k1b4riMJzgAoW2vQJydnf-6Wbrm_vpuaTa7mW7NcYNS51LJmtt0LbA0zJ6sckAx9aYVaw-5R4T_e_PC6oUcUCDyJSZwRS_uz2d7TWZbRDCYrjGI3E-k3ydbpW_qtOcS-bvrP5gGvKL9bMPnUnxaS175Sx-haH1XVCq/s1600/wordpress.jpg"
     },
     {
       "id": "8dcbf5febff769184097c893873653df816e7bac",
