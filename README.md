@@ -1,7 +1,7 @@
 # 🌐 Cyber Policy Radar
 
 **Cyber Policy Radar** is a responsive, auto-updating dashboard that aggregates the latest cybersecurity policy and news articles from leading global sources.  
-It provides a clean, modern interface that works seamlessly across desktop and mobile devices.
+It provides a clean, modern interface that works seamlessly across desktop and mobile devices.  View it here: https://dyuyeda01.github.io/cyber-policy-radar/ 
 
 This project was co-developed interactively with **AI assistance (OpenAI Codex + ChatGPT)** to rapidly prototype, debug, and refine both frontend and backend components.
 
