@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-21T00:41:47.942435+00:00",
+  "generated_at": "2025-10-21T12:17:44.972085+00:00",
   "items": [
     {
       "id": "9415c1d984ac5c23ec97a0b84d868e6cb1a4c1af",
@@ -110,6 +110,39 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "0fac4d9676df5d768baa5d045abf94956a5844e3",
+      "title": "Securing AI to Benefit from AI",
+      "url": "https://thehackernews.com/2025/10/securing-ai-to-benefit-from-ai.html",
+      "published": "2025-10-21T11:00:00+00:00",
+      "summary": "Artificial intelligence (AI) holds tremendous promise for improving cyber defense and making the lives of security practitioners easier. It can help teams cut through alert fatigue, spot patterns faster, and bring a level of scale that human analysts alone can\u2019t match. But realizing that potential depends on securing the systems that make it possible.\nEvery organization experimenting with AI in",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeBVzzbq4N029qf31udLK89vZYg0gBNzRwagRRcMUjxi-GlXm6FmJDgipuN2pj_M5hN6ocvBB8BUnwj32N2f_LlYnNA5M1_z14vNS4_FYhLsu-wIFBYAZmiavILEKqBmks9ie6J2lN0XiyejW0-6ZE52AMg2fJF85cvTEXP1379gTcEeoLhKKLeg6Wf2Y/s1600/secure-ai.jpg"
+    },
+    {
+      "id": "f6eadf31a45a774dbc263a6962d553dff1c9f143",
+      "title": "Google Identifies Three New Russian Malware Families Created by COLDRIVER Hackers",
+      "url": "https://thehackernews.com/2025/10/google-identifies-three-new-russian.html",
+      "published": "2025-10-21T07:29:00+00:00",
+      "summary": "A new malware attributed to the Russia-linked hacking group known as COLDRIVER has undergone numerous developmental iterations since May 2025, suggesting an increased \"operations tempo\" from the threat actor.\nThe findings come from Google Threat Intelligence Group (GTIG), which said the state-sponsored hacking crew has rapidly refined and retooled its malware arsenal merely five days following",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaTan9GHWsCwaO4bnKiGglFvl2rp8eOV3zwfWIezDpTI7ww63DIocRbxttxbRl89SpjjsHR4nRtQR4xqG5OqRxx2C1nw1KEENkV4dn10LsS8c-oPLHZQJBJytRrWWIfxrVthw4Z2a4GpB6bIyjVdT5flB1SOubHC0-u4IudmvFtR71eiqmxGY7PTu-Z8YD/s1600/click.jpg"
+    },
+    {
+      "id": "89f3a38b2d0849827ea4149f345569cfdd4461c1",
+      "title": "Hackers Used Snappybee Malware and Citrix Flaw to Breach European Telecom Network",
+      "url": "https://thehackernews.com/2025/10/hackers-used-snappybee-malware-and.html",
+      "published": "2025-10-21T07:23:00+00:00",
+      "summary": "A European telecommunications organization is said to have been targeted by a threat actor that aligns with a China-nexus cyber espionage group known as Salt Typhoon.\nThe organization, per Darktrace, was targeted in the first week of July 2025, with the attackers exploiting a Citrix NetScaler Gateway appliance to obtain initial access.\nSalt Typhoon, also known as Earth Estries, FamousSparrow,",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjH1uqqrVb9fKiKp2TAXLGACkDICTIsIazYbw2ok4_DaWSzauAX72ezhEc8SNV_Ml20uhs4ogNtgNg470hX5H1Ipg2D7H0H7cJoit_aYkTn8P9IWjT5AS3fnpGmipoDRC8cTvHPwSo6_LD5sfmjoiBEjT95p9Yntx9JL7W9mzUp41hfTzktNP3Opxme6XG2/s1600/telecom-hacker.jpg"
     },
     {
       "id": "999597392a05f52ef9e68b798d087a170b297e33",
@@ -627,39 +660,6 @@
       "region": "North America",
       "country": "US",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6M2Mk_m5h6N65jjDGVX4AmHsBVW6ou9RQrloE9wFrzWPykoJJtMgqx48QokDdXk6qZUYJh61b_9z0o1z7MorZg-kSeGgsYuGhxVt6LmjvAECLCAVHfo5yL1MI23zoK9eDrrvjWA5ou5_5Vh-Lo2DgcrYHeHP3hBuDepj_xAtDHV_hYhFZVSzgrDHrfF2b/s1600/forta.jpg"
-    },
-    {
-      "id": "c76794197612aec25b37a521897fffd5df187baa",
-      "title": "The AI SOC Stack of 2026: What Sets Top-Tier Platforms Apart?",
-      "url": "https://thehackernews.com/2025/10/the-ai-soc-stack-of-2026-what-sets-top.html",
-      "published": "2025-10-10T11:00:00+00:00",
-      "summary": "The SOC of 2026 will no longer be a human-only battlefield. As organizations scale and threats evolve in sophistication and velocity, a new generation of AI-powered agents is reshaping how Security Operations Centers (SOCs) detect, respond, and adapt.\nBut not all AI SOC platforms are created equal.\nFrom prompt-dependent copilots to autonomous, multi-agent systems, the current market offers",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9E9Gk-E3tAqszpQaTnUcbiDzkBhMI5gfgepK0Q8azLXmHEolhPwrn3gEWDzisFgMW1RLbxgdLGS1rXZvKn35tKNiE7MqF60phyphenhyphentHpcBhKgidflNb3-LUAGfzdJCfevDfGOIJrRkQ2ECt1wrGwnvPMwot3aEqSJjyAoQWDCOBLYpzd8Y6zNiZrZhdcrqs/s1600/_con.jpg"
-    },
-    {
-      "id": "fdf3142955049c57e4a9adc864e178d04157206c",
-      "title": "175 Malicious npm Packages with 26,000 Downloads Used in Credential Phishing Campaign",
-      "url": "https://thehackernews.com/2025/10/175-malicious-npm-packages-with-26000.html",
-      "published": "2025-10-10T10:45:00+00:00",
-      "summary": "Cybersecurity researchers have flagged a new set of 175 malicious packages on the npm registry that have been used to facilitate credential harvesting attacks as part of an unusual campaign.\nThe packages have been collectively downloaded 26,000 times, acting as an infrastructure for a widespread phishing campaign codenamed Beamglea targeting more than 135 industrial, technology, and energy",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQBV8_oOxPwudRj1LYeRYYfTfqGdJNspxDsZdEaik1CN3pwKs_iRvpPO2M94Vg3jRoxTGhUFMsbFVWdKvoBvZMs8Enyz9LRlhw2cNsgDiNLxlOgU4g-ADGcg8yFt6q3pUoxgnBhL_xZdNQUnAwLHyujuVRm4HmBonEiU1A_D3O4vCzTzJVK_M_mwW8f2Mb/s1600/msms.jpg"
-    },
-    {
-      "id": "e8f46ddc342bec1842c5f81d71699c7383c4cacb",
-      "title": "From LFI to RCE: Active Exploitation Detected in Gladinet and TrioFox Vulnerability",
-      "url": "https://thehackernews.com/2025/10/from-lfi-to-rce-active-exploitation.html",
-      "published": "2025-10-10T09:34:00+00:00",
-      "summary": "Cybersecurity company Huntress said it has observed active in-the-wild exploitation of an unpatched security flaw impacting Gladinet CentreStack and TrioFox products.\nThe zero-day vulnerability, tracked as CVE-2025-11371 (CVSS score: 6.1), is an unauthenticated local file inclusion bug that allows unintended disclosure of system files. It impacts all versions of the software prior to and",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFpozHtF1PQTsD-RpUuVO5cSYufG01hWx1-Y8NFgpTTQakZg-HZjSRQBt_2eSZE0zwa_6HGEkxF22vaC0HyEW0e4T0S4Po91yO-PbdjXwcS0foskmlO8x8WXs6WpzuoJFfhIqfwNHv9_BJTxWH-1xgxBm95pmIs4K6602uQmSP2qDftAZJBDNWFgz_mWSI/s1600/glad.jpg"
     },
     {
       "id": "a9a65970b93dd6d702d6bbf0ba9ccaa0c9e59913",
@@ -1212,6 +1212,61 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blteb6e7ee80adc3b23/68e3ff78cca34a802c787962/horse_clopping_catnap_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
+      "id": "9e3be32b319c6d021458cd1b5654777d72b059e0",
+      "title": "Muji's minimalist calm shattered as ransomware takes down logistics partner",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2025/10/21/muji_askul_ransomware/",
+      "published": "2025-10-21T11:15:06+00:00",
+      "summary": "<h4>Japanese retailer halts online orders after attack cripples third-party vendor</h4> <p>Japanese retailer Muji is suspending online orders after logistics partner Askul was knocked offline by a ransomware attack.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "9583b75707f66d6a37ed410e78c2e6387bea0f71",
+      "title": "Feds flag active exploitation of patched Windows SMB vuln",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2025/10/21/cisa_windows_smb_bug/",
+      "published": "2025-10-21T10:27:10+00:00",
+      "summary": "<h4>CISA adds high-severity flaw to KEV list, urges swift updating</h4> <p>Uncle Sam's cyber wardens have warned that a high-severity flaw in Microsoft's Windows SMB client is now being actively exploited \u2013 months after it was patched.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "5d3ea4a1ece26e5b861212ae2de59d07c579cc85",
+      "title": "A shot in the dark: Can malware vaccines stop ransomware's rampage?",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2025/10/21/malware_vaccines/",
+      "published": "2025-10-21T09:04:01+00:00",
+      "summary": "<h4>Security pros explore whether infection-spoofing code can immunize Windows systems against attack</h4> <p><strong>Feature</strong>\u00a0 What's better, prevention or cure? For a long time the global cybersecurity industry has operated by reacting to attacks and computer viruses. But given that ransomware has continued to escalate, more proactive action is needed.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "fb5ef83000b7e28ad1fc2fd118dba5eaf60c6657",
+      "title": "Zero Trust Everywhere: a new era in cybersecurity for European organizations",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2025/10/21/zero_trust_everywhere_new/",
+      "published": "2025-10-21T08:00:14+00:00",
+      "summary": "<h4>Zero trust is the best kind of trust when it comes to securing your organization, says ZScaler</h4> <p><strong>Partner Content</strong>\u00a0 Many organizations across Europe have taken steps to implement Zero Trust principles, securing users, devices, workloads, and applications. But while these efforts are critical, they can leave significant gaps in resilience and security if applied too narrowly.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "4ac94b62cf42391b81df4681a746128dbf4659f4",
+      "title": "Anti-fraud body leaks dozens of email addresses in invite mishap",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2025/10/21/cifas_email_blunder/",
+      "published": "2025-10-21T07:30:10+00:00",
+      "summary": "<h4>Calendar cock-up exposed recipients' details</h4> <p>Anti-fraud nonprofit Cifas was left red-faced after sending out a calendar invite that exposed the email addresses of dozens of individuals working across the fraud space.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "be74435c5035521ad1914e74e8c96d0b4e2f2b2a",
       "title": "UK calls up Armed Forces veterans for digital ID soft launch",
       "url": "https://go.theregister.com/feed/www.theregister.com/2025/10/20/uk_armed_forces_id/",
@@ -1707,61 +1762,6 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "3e2e60a76bd9e09a31eeb14ad0ca26175aedac56",
-      "title": "Apple ices ICE agent tracker app under government heat",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/10/03/apple_iceblock/",
-      "published": "2025-10-03T13:49:48+00:00",
-      "summary": "<h4>Cupertino yanks ICEBlock citing safety risks for law enforcement</h4> <p>Apple has deep-sixed an app that tracks the movements of US Immigration and Customs Enforcement (ICE) agents \u2013 apparently bowing to government pressure.\u2026</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "eb1c582c2463b63df16e581a4da5a84c75f60ee9",
-      "title": "Munich Airport chaos after drone sightings spook air traffic control",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/10/03/munich_airport_drone/",
-      "published": "2025-10-03T12:58:02+00:00",
-      "summary": "<h4>Overnight shutdown leaves thousands stuck as Oktoberfest crowds stretch city security</h4> <p>Munich Airport was temporarily closed last night following reports of drones buzzing around the area.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "44a00a5aef4e766d0e86f9fefb7734a51e231882",
-      "title": "UK government says digital ID won't be compulsory \u2013 honest",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/10/03/uk_digital_id_clarity/",
-      "published": "2025-10-03T12:05:16+00:00",
-      "summary": "<h4>Even spy-tech biz Palantir says 'steady on' as 2.76M Brits demand it be ditched</h4> <p>The British government has finally given more details about the proposed digital ID project, directly responding to the 2.76 million naysayers that signed an online petition calling for it to be ditched.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "8b83fe4af148f6fceaed11cdedfa4c90eec267b3",
-      "title": "Oracle tells Clop-targeted EBS users to apply July patch, problem solved",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/10/03/oracle_ebs_clop_extortion/",
-      "published": "2025-10-03T11:38:37+00:00",
-      "summary": "<h4>Researchers suggest internet-facing portals are exposing 'thousands' of orgs</h4> <p>Oracle has finally broken its silence on those Clop-linked extortion emails, but only to tell customers what they already should have known: patch your damn systems.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "414234d0ff57790f406b8d91d8da72669c6b704f",
-      "title": "Criminals take Renault UK customer data for a joyride",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/10/03/renault_uk_customer_data_breach/",
-      "published": "2025-10-03T08:55:21+00:00",
-      "summary": "<h4>Names, numbers, and reg plates exposed in latest auto industry cyber-shunt</h4> <p>Renault UK customers are being warned their personal data may be in criminal hands after one of its supplier was hacked.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
       "id": "389795cb595d02e3011d0303020899c3d4793e9b",
       "title": "Email Bombs Exploit Lax Authentication in Zendesk",
       "url": "https://krebsonsecurity.com/2025/10/email-bombs-exploit-lax-authentication-in-zendesk/",
@@ -1817,6 +1817,61 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "5fca7d9001efd979ff88696a19219802c78e97ad",
+      "title": "Dataminr to Acquire ThreatConnect for $290 Million",
+      "url": "https://www.securityweek.com/dataminr-to-acquire-threatconnect-for-290-million/",
+      "published": "2025-10-21T12:05:27+00:00",
+      "summary": "<p>The goal is to combine Dataminr\u2019s data signals platform with ThreatConnect\u2019s deep internal data capabilities.</p>\n<p>The post <a href=\"https://www.securityweek.com/dataminr-to-acquire-threatconnect-for-290-million/\">Dataminr to Acquire ThreatConnect for $290 Million</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "c78bc6c5ae52c34ea9e8641ba70e42b71dc453ef",
+      "title": "Supply Chain Attack Targets VS Code Extensions With \u2018GlassWorm\u2019 Malware",
+      "url": "https://www.securityweek.com/supply-chain-attack-targets-vs-code-extensions-with-glassworm-malware/",
+      "published": "2025-10-21T11:21:17+00:00",
+      "summary": "<p>The malware uses invisible Unicode characters to hide its code and blockchain-based infrastructure to prevent takedowns.</p>\n<p>The post <a href=\"https://www.securityweek.com/supply-chain-attack-targets-vs-code-extensions-with-glassworm-malware/\">Supply Chain Attack Targets VS Code Extensions With &#8216;GlassWorm&#8217; Malware</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "d16286d6ea16557523611e18d004a741f663a2bf",
+      "title": "Over 73,000 WatchGuard Firebox Devices Impacted by Recent Critical Flaw",
+      "url": "https://www.securityweek.com/over-73000-watchguard-firebox-devices-impacted-by-recent-critical-flaw/",
+      "published": "2025-10-21T10:00:29+00:00",
+      "summary": "<p>Affecting the Fireware OS iked process, the vulnerability can lead to remote code execution and does not require authentication.</p>\n<p>The post <a href=\"https://www.securityweek.com/over-73000-watchguard-firebox-devices-impacted-by-recent-critical-flaw/\">Over 73,000 WatchGuard Firebox Devices Impacted by Recent Critical Flaw</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "071294df3edae25e2778141a87d69c4992d42d66",
+      "title": "Myanmar Military Shuts Down Major Cybercrime Center and Detains Over 2,000 People",
+      "url": "https://www.securityweek.com/myanmar-military-shuts-down-major-cybercrime-center-and-detains-over-2000-people/",
+      "published": "2025-10-21T09:56:32+00:00",
+      "summary": "<p>Myanmar is notorious for hosting cyberscam operations responsible for bilking people all over the world. </p>\n<p>The post <a href=\"https://www.securityweek.com/myanmar-military-shuts-down-major-cybercrime-center-and-detains-over-2000-people/\">Myanmar Military Shuts Down Major Cybercrime Center and Detains Over 2,000 People</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "bc9affe13af43288ae7669f4c7bc643c491913cd",
+      "title": "CISA Confirms Exploitation of Latest Oracle EBS Vulnerability",
+      "url": "https://www.securityweek.com/cisa-confirms-exploitation-of-latest-oracle-ebs-vulnerability/",
+      "published": "2025-10-21T08:41:43+00:00",
+      "summary": "<p>The cybersecurity agency has added CVE-2025-61884 to its Known Exploited Vulnerabilities (KEV) catalog.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisa-confirms-exploitation-of-latest-oracle-ebs-vulnerability/\">CISA Confirms Exploitation of Latest Oracle EBS Vulnerability\u00a0</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "eeaa66d5fd5f5f2180f341f2083f7ee7905d14a5",
       "title": "South Korea Seeks to Arrest Dozens of Online Scam Suspects Repatriated From Cambodia",
       "url": "https://www.securityweek.com/south-korea-seeks-to-arrest-dozens-of-online-scam-suspects-repatriated-from-cambodia/",
@@ -1866,61 +1921,6 @@
       "url": "https://www.securityweek.com/vulnerability-in-dolby-decoder-can-allow-zero-click-attacks/",
       "published": "2025-10-20T09:49:00+00:00",
       "summary": "<p>On Android, the out-of-bounds write issue can be triggered during the processing of media files without user interaction.</p>\n<p>The post <a href=\"https://www.securityweek.com/vulnerability-in-dolby-decoder-can-allow-zero-click-attacks/\">Vulnerability in Dolby Decoder Can Allow Zero-Click Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "3b2d2535e090e59182cdc8f256286e8e47d7bcca",
-      "title": "NSO Ordered to Stop Hacking WhatsApp, but Damages Cut to $4 Million",
-      "url": "https://www.securityweek.com/nso-ordered-to-stop-hacking-whatsapp-but-damages-cut-to-4-million/",
-      "published": "2025-10-20T09:42:46+00:00",
-      "summary": "<p>The judge ruled that punitive damages of $167 million awarded by a jury were excessive.</p>\n<p>The post <a href=\"https://www.securityweek.com/nso-ordered-to-stop-hacking-whatsapp-but-damages-cut-to-4-million/\">NSO Ordered to Stop Hacking WhatsApp, but Damages Cut to $4 Million</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "6e7121e276b0d9a1b02fafff011c685c16d5ae90",
-      "title": "American Airlines Subsidiary Envoy Air Hit by Oracle Hack",
-      "url": "https://www.securityweek.com/american-airlines-subsidiary-envoy-air-hit-by-oracle-hack/",
-      "published": "2025-10-20T07:40:39+00:00",
-      "summary": "<p>Envoy Air, which operates the American Eagle brand, has confirmed that business information was stolen by hackers.</p>\n<p>The post <a href=\"https://www.securityweek.com/american-airlines-subsidiary-envoy-air-hit-by-oracle-hack/\">American Airlines Subsidiary Envoy Air Hit by Oracle Hack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "a35aae1a8f659d87cc01f82a409e3731e67717ba",
-      "title": "China Accuses US of Cyberattack on National Time Center",
-      "url": "https://www.securityweek.com/china-accuses-us-of-cyberattack-on-national-time-center/",
-      "published": "2025-10-20T00:58:39+00:00",
-      "summary": "<p>The Ministry of State Security alleged that the NSA exploited vulnerabilities in the messaging services of a foreign mobile phone brand to steal sensitive information.</p>\n<p>The post <a href=\"https://www.securityweek.com/china-accuses-us-of-cyberattack-on-national-time-center/\">China Accuses US of Cyberattack on National Time Center</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "6629347d95dff866b0a386ff01be4b43dd9199b6",
-      "title": "Microsoft: Russia, China Increasingly Using AI to Escalate Cyberattacks on the US",
-      "url": "https://www.securityweek.com/microsoft-russia-china-increasingly-using-ai-to-escalate-cyberattacks-on-the-us/",
-      "published": "2025-10-17T16:23:20+00:00",
-      "summary": "<p>The U.S. is the top target for cyberattacks, with criminals and foreign adversaries targeting companies, governments and organizations.</p>\n<p>The post <a href=\"https://www.securityweek.com/microsoft-russia-china-increasingly-using-ai-to-escalate-cyberattacks-on-the-us/\">Microsoft: Russia, China Increasingly Using AI to Escalate Cyberattacks on the US</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "edc78edd0a2f961cd5d753971ee3bfd19e12587c",
-      "title": "In Other News: CrowdStrike Vulnerabilities, CISA Layoffs, Mango Data Breach",
-      "url": "https://www.securityweek.com/in-other-news-crowdstrike-vulnerabilities-cisa-layoffs-mango-data-breach/",
-      "published": "2025-10-17T13:43:04+00:00",
-      "summary": "<p>Other noteworthy stories that might have slipped under the radar: Capita fined \u00a314 million, ICTBroadcast vulnerability exploited, Spyware maker NSO acquired.</p>\n<p>The post <a href=\"https://www.securityweek.com/in-other-news-crowdstrike-vulnerabilities-cisa-layoffs-mango-data-breach/\">In Other News: CrowdStrike Vulnerabilities, CISA Layoffs, Mango Data Breach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
