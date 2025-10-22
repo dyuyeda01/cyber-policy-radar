@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-22T00:42:53.956959+00:00",
+  "generated_at": "2025-10-22T12:17:44.880543+00:00",
   "items": [
     {
       "id": "20ce5c5f69ed81703003922ad765da0f73d34f90",
@@ -110,6 +110,61 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "eaac50f59ac14b104e4a0976b3bc2534f3e0e439",
+      "title": "Bridging the Remediation Gap: Introducing Pentera Resolve",
+      "url": "https://thehackernews.com/2025/10/bridging-remediation-gap-introducing.html",
+      "published": "2025-10-22T11:55:00+00:00",
+      "summary": "From Detection to Resolution: Why the Gap Persists\nA critical vulnerability is identified in an exposed cloud asset. Within hours, five different tools alert you about it: your vulnerability scanner, XDR, CSPM, SIEM, and CMDB each surface the issue in their own way, with different severity levels, metadata, and context.\nWhat\u2019s missing is a system of action. How do you transition from the",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_i87-seKwjH0Cp1DSg8tCCCk-rdCCa6R3aGzrrYQaXtOnCTBiMFmE5pW7F6FsDztRcfYrsPBH6NZgn3dnRjoI5wDDPWWYWOuSHhJWxxBJzUzXRVph2ylTti6wytHpCQwTMzjjdu2ntcV7Exz8pr4D7OC6RrqmV2JtILkvETyyatCC27NJsyIxsKC5pCk/s1600/pentera-main.jpg"
+    },
+    {
+      "id": "259fa739700f45c0d306d022bd034137913273e4",
+      "title": "Why You Should Swap Passwords for Passphrases",
+      "url": "https://thehackernews.com/2025/10/why-you-should-swap-passwords-for.html",
+      "published": "2025-10-22T09:26:00+00:00",
+      "summary": "The advice didn't change for decades: use complex passwords with uppercase, lowercase, numbers, and symbols. The idea is to make passwords harder for hackers to crack via brute force methods. But more recent guidance shows our focus should be on password length, rather than complexity. Length is the more important security factor, and passphrases are the simplest way to get your users to create",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBDAguIG96RALTt26AAiezNmRWKzNP8pz2CTXvpPbIhS4UKIaPVX4hnrWAK9_7kKOLaEWpe2xFhYxcLcBDfsENXOcXOT8k8Td3BgTJCcTcDIZncDXmbkGUNUn6Uk2agLF1GmtR2rCfa1FhDPPGtH4HOJGGQLn7rZXWBL2QxHETrrZTXbUt1dMmFOMzErw/s1600/OUTPOST.jpg"
+    },
+    {
+      "id": "5499bd2e485a1923d8e13fcc44e47a7dbe2f4eca",
+      "title": "Researchers Identify PassiveNeuron APT Using Neursite and NeuralExecutor Malware",
+      "url": "https://thehackernews.com/2025/10/researchers-identify-passiveneuron-apt.html",
+      "published": "2025-10-22T08:58:00+00:00",
+      "summary": "Government, financial, and industrial organizations located in Asia, Africa, and Latin America are the target of a new campaign dubbed PassiveNeuron, according to findings from Kaspersky.\nThe cyber espionage activity was first flagged by the Russian cybersecurity vendor in November 2024, when it disclosed a set of attacks aimed at government entities in Latin America and East Asia in June, using",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9e1ZfYC1sAh1MgxVFJ4ZxDzDvbtFnbZvEunXZDqT9fMT3S00TlDx3qlc1uAUGUzga07_KnR_KkWfJnaUzbTnCVp65j7TPRWF182fSONEd-p_-fGTWSpd3s1_UCYXJgB2XA13vgmC5R6oKVWdAZ8A3KeFSIkPkyJh6SbZUIjmuCNKmMfGCaxmMaOh3RyVG/s1600/cyberattack.jpg"
+    },
+    {
+      "id": "950bbae39d40aa8c5de12a227d43ea340a8a973a",
+      "title": "TARmageddon Flaw in Async-Tar Rust Library Could Enable Remote Code Execution",
+      "url": "https://thehackernews.com/2025/10/tarmageddon-flaw-in-async-tar-rust.html",
+      "published": "2025-10-22T07:05:00+00:00",
+      "summary": "Cybersecurity researchers have disclosed details of a high-severity flaw impacting the popular async-tar Rust library and its forks, including tokio-tar, that could result in remote code execution under certain conditions.\nThe vulnerability, tracked as CVE-2025-62518 (CVSS score: 8.1), has been codenamed TARmageddon by Edera, which discovered the issue in late August 2025. It impacts several",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEvQXfi7V0k5jHKeies5vo2B7kVXw9rX6mKfK5iVxI9lMfAZXdmW9MGNqjQPy6fdI3HMw_rkM_c5Y_evYtx3jjo-bGkPL3Y2apiG1mRy27bUl0Ci04WZz6ZtyBahj2Eajo65gjQnVGuJ4-GTSCZOa0U5jA0NjYeojXpa9VFlRVHleQdUsH9uQmI3k-s6qI/s1600/crates.jpg"
+    },
+    {
+      "id": "14b54ae3594811969c435dd8da43676bfddcd0ec",
+      "title": "TP-Link Patches Four Omada Gateway Flaws, Two Allow Remote Code Execution",
+      "url": "https://thehackernews.com/2025/10/tp-link-patches-four-omada-gateway.html",
+      "published": "2025-10-22T04:38:00+00:00",
+      "summary": "TP-Link has released security updates to address four security flaws impacting Omada gateway devices, including two critical bugs that could result in arbitrary code execution.\nThe vulnerabilities in question are listed below -\n\nCVE-2025-6541 (CVSS score: 8.6) - An operating system command injection vulnerability that could be exploited by an attacker who can log in to the web management",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg909qzwXCVImVBLUJRZFpVi2LmezwwKdilxNhWcxEgJeuaV4wCvv30iepLVY_a6dZ9pJ-4WXAkLf3WUwHdTJQvempUMchfRzpyRqtyxVuworV65sqEhsDcxjfQvvhIcqyrczco6o_Z617Vzrey8YWwEhQD-uy3eDZmM52pUnjoJSvYHHgdlvgGwgtOWeSl/s1600/router.jpg"
     },
     {
       "id": "5c358919527d8e4aa76f71398dc0c8e89d39e089",
@@ -607,59 +662,15 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6lXFt5vj014guQjfcP9IV6J569PKO7QX74BpuGjLtDEUturEMc-8JR4m8aClafR-tIrJ4hL2Bp2fyPreoi121-90AG6egfvp1Qg6CUWfQhhOIE4jXBzocgpkZ6zlLUrZnp2f6yuzqHiE7eh7P0FlG5SMZqKBlZ9L8QMw2_HDqLv_hxqL1wn-ZxsuIoDC2/s1600/github-c2.jpg"
     },
     {
-      "id": "70ffc4f32f609be245c8dc938464ca4eec3e43c9",
-      "title": "New Rust-Based Malware \"ChaosBot\" Uses Discord Channels to Control Victims' PCs",
-      "url": "https://thehackernews.com/2025/10/new-rust-based-malware-chaosbot-hijacks.html",
-      "published": "2025-10-13T05:12:00+00:00",
-      "summary": "Cybersecurity researchers have disclosed details of a new Rust-based backdoor called ChaosBot that can allow operators to conduct reconnaissance and execute arbitrary commands on compromised hosts.\n\"Threat actors leveraged compromised credentials that mapped to both Cisco VPN and an over-privileged Active Directory account named, 'serviceaccount,'\" eSentire said in a technical report published",
-      "source": "The Hacker News",
+      "id": "4a935680204af99489b9f976149c8d18c62c3e38",
+      "title": "Verizon: Mobile Blindspot Leads to Needless Data Breaches",
+      "url": "https://www.darkreading.com/threat-intelligence/verizon-mobile-blindspot-data-breaches",
+      "published": "2025-10-22T10:00:00+00:00",
+      "summary": "People habitually ignore cybersecurity on their phones. Instead of compensating for that, organizations are falling into the very same trap, even though available security options could cut smishing success and breaches in half.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgM3iBS_M1DTXWPqBT43YKsEeEvGS5AfTVvw_RHitAi-w0f-zQkDSW2HffEnKE_fLC-Kj6xp9RNcTle8RIZmltoTGaFvoLwpSRBx6sHBpv7xtpM31lvoif9WagX2eVsIMyYejs4J_8_oXf7lUWFsoKbkwEapbSqkM64pfFvHw9HaGKZyfnE5N3MAMm5cM3B/s1600/Discord.jpg"
-    },
-    {
-      "id": "2da8ad45396a12fc96c04829355ec085167f152e",
-      "title": "New Oracle E-Business Suite Bug Could Let Hackers Access Data Without Login",
-      "url": "https://thehackernews.com/2025/10/new-oracle-e-business-suite-bug-could.html",
-      "published": "2025-10-12T17:24:00+00:00",
-      "summary": "Oracle on Saturday issued a security alert warning of a fresh security flaw impacting its E-Business Suite that it said could allow unauthorized access to sensitive data.\nThe vulnerability, tracked as CVE-2025-61884, carries a CVSS score of 7.5, indicating high severity. It affects versions from 12.2.3 through 12.2.14.\n\"Easily exploitable vulnerability allows an unauthenticated attacker with",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbiOSe5MSzJjlmmn79XDwcJoSUh95PSeVQalNoZwnzlTDwp2UkbB0Zwrp526ZX5iWaXA3oDVvhwPI1Uh2Plj8nnRa3OpE2iuKlAfBUTJw8bb0Vs9XzvQuogwfq-ZIYmCp0WsLm_ULrhOP1D07GuKwVbXlNY_-NQbBuB17QTgv2tI9RjHmRemC3_tNkpfVN/s1600/oracle-flaw-hack.jpg"
-    },
-    {
-      "id": "a631953f1d93cb5b25b07a3c3b8415f39666235b",
-      "title": "Experts Warn of Widespread SonicWall VPN Compromise Impacting Over 100 Accounts",
-      "url": "https://thehackernews.com/2025/10/experts-warn-of-widespread-sonicwall.html",
-      "published": "2025-10-11T13:30:00+00:00",
-      "summary": "Cybersecurity company Huntress on Friday warned of \"widespread compromise\" of SonicWall SSL VPN devices to access multiple customer environments.\n\"Threat actors are authenticating into multiple accounts rapidly across compromised devices,\" it said. \"The speed and scale of these attacks imply that the attackers appear to control valid credentials rather than brute-forcing.\"\nA significant chunk of",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjz8fODIM7k71u9xlKKIpIeQaYuLTZduw0K0cz4iK0_IBO_ngStXEPNuB6WTsJL9sZI0Tiz8NflomVUra3DTSmxxyApil-Kg3_Jjo2iFnrwFJ3U0wHyM6DKHCTVUB30OKPNP9x4rURP6qsuTUcimFYPulsbL5pTrEr_SCVKajw7dPy7lle20f83ql5TAuAQ/s1600/sonicwall.jpg"
-    },
-    {
-      "id": "f84a5db8926921ed09d5840970ece2381ea5551c",
-      "title": "Hackers Turn Velociraptor DFIR Tool Into Weapon in LockBit Ransomware Attacks",
-      "url": "https://thehackernews.com/2025/10/hackers-turn-velociraptor-dfir-tool.html",
-      "published": "2025-10-11T13:04:00+00:00",
-      "summary": "Threat actors are abusing Velociraptor, an open-source digital forensics and incident response (DFIR) tool, in connection with ransomware attacks likely orchestrated by Storm-2603 (aka CL-CRI-1040 or Gold Salem), which is known for deploying the Warlock and LockBit ransomware.\nThe threat actor's use of the security utility was documented by Sophos last month. It's assessed that the attackers",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaJtL8BSUE1GFjWCqBm6u4xyazrLyCXBHI_QrEbUkesBhCwyphi6Y9i1PNwKsdw84MB5pTzn9ZY3nI5PM-OPDPqZ5KdqyGfDllH9nqGTZej1wuTmq8G7hkwXSV44UylYAMloHhsT8fRVUQOnlNaURlpZEzjYrQbR_E4iwFHIHSi4QZQFXrBjcz44iN5Kae/s1600/Velociraptor-DFIR.jpg"
-    },
-    {
-      "id": "5f0eef6edd31b428bbdbf1abffb59e0d78e41327",
-      "title": "Stealit Malware Abuses Node.js Single Executable Feature via Game and VPN Installers",
-      "url": "https://thehackernews.com/2025/10/stealit-malware-abuses-nodejs-single.html",
-      "published": "2025-10-10T14:25:00+00:00",
-      "summary": "Cybersecurity researchers have disclosed details of an active malware campaign called Stealit that has leveraged Node.js' Single Executable Application (SEA) feature as a way to distribute its payloads.\nAccording to Fortinet FortiGuard Labs, select iterations have also employed the open-source Electron framework to deliver the malware. It's assessed that the malware is being propagated through",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjakgVGto_-OqvtF3jAOQ798lNCkt6Q_gm0N0NbfBIlHEGjbhyphenhyphenKudDV3Ol1GISKbuXy0SRlgOISfK2qMv_H7x7ClP7R_d8Nm0ylMp5o7EkHxPCIpIagimxxBAEFasCQe1ZUmmGw4aAOGKQilG-P_PeqJr03SYsTvvbNg08VRwtDwYbXyrvFxYgV5PIavKuu/s1600/nodejs-malware.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt56cb62eb3755454f/68f7e5c7a840901664596224/Verizon_phone-SOPA_Images_Limited-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "id": "c6c495ceb855783334b6e6628b5340e1a8dbc29c",
@@ -1201,15 +1212,26 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt4773fe21fe7a5668/68e551480ac4e814b8c70ad6/2JAH5J6.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "6f3e67c1136f7347dc80499cc8383c0c01ef4f9d",
-      "title": "Medusa Ransomware Actors Exploit Critical Fortra GoAnywhere Flaw",
-      "url": "https://www.darkreading.com/vulnerabilities-threats/medusa-ransomware-exploit-fortra-goanywhere-flaw",
-      "published": "2025-10-07T16:59:27+00:00",
-      "summary": "Researchers say exploitation of CVE-2025-10035 requires a private key, and it's unclear how Storm-1175 threat actors pulled this off.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5fa5a0309b24314a/68e54f8b0b897c61d1337d89/medusa-Zoonar_GmbH-alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "id": "994548079342e8367d2a7324e0a8514e2c48df7e",
+      "title": "Jaguar Land Rover cyber-meltdown tipped to cost the UK almost \u00a32B",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2025/10/22/jaguar_lander_rover_cost/",
+      "published": "2025-10-22T10:29:12+00:00",
+      "summary": "<h4>That's a lot of extended warranties</h4> <p>The Jaguar Land Rover (JLR) cyberattack could end up being the costliest such incident in UK history, billed at an estimated \u00a31.9 billion and affecting over 5,000 organizations.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "cc8f3500ef1bc041c844cb8d622aa279cfe09853",
+      "title": "UK data regulator defends decision not to investigate MoD Afghan data breach",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2025/10/22/ico_afghan_leak_probe/",
+      "published": "2025-10-22T07:15:12+00:00",
+      "summary": "<h4>ICO says probe unnecessary after reviewing ministry's handling of leak</h4> <p>The UK's data protection regulator declined to launch an investigation into a leak at the Ministry of Defence that risked the lives of thousands of Afghans connected with the British Armed Forces.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
       "id": "42a1922d839ab61a85a2ecb9a49fb285bf9d7ae2",
@@ -1740,28 +1762,6 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "3771928e75b6798cc3439011950225655df980c4",
-      "title": "Jaguar Land Rover engines ready to roar again after weeks-long cyber stall",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/10/06/jlr_phased_production/",
-      "published": "2025-10-06T10:28:05+00:00",
-      "summary": "<h4>No confirmed date but workers expected to return in the coming days</h4> <p>Jaguar Land Rover is readying staff to resume manufacturing in the coming days, a company spokesperson confirmed to <em>The Reg</em>.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "a0115b922f1dbbfbcfab2e56ddc3915aacba79ad",
-      "title": "Clop crew hits Oracle E-Business Suite users with fresh zero-day",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/10/06/clop_oracle_ebs_zeroday/",
-      "published": "2025-10-06T09:40:46+00:00",
-      "summary": "<h4>Big Red rushes out patch for 9.8-rated flaw after crooks exploit it for data theft and extortion</h4> <p>Oracle rushed out an emergency fix over the weekend for a zero-day vulnerability in its E-Business Suite (EBS) that criminal crew Clop has already abused for data theft and extortion.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
       "id": "389795cb595d02e3011d0303020899c3d4793e9b",
       "title": "Email Bombs Exploit Lax Authentication in Zendesk",
       "url": "https://krebsonsecurity.com/2025/10/email-bombs-exploit-lax-authentication-in-zendesk/",
@@ -1817,6 +1817,61 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "3495ac5acdb97f963205455b692861cc5347cba4",
+      "title": "Russian APT Switches to New Backdoor After Malware Exposed by Researchers",
+      "url": "https://www.securityweek.com/russian-apt-switches-to-new-backdoor-after-malware-exposed-by-researchers/",
+      "published": "2025-10-22T12:03:06+00:00",
+      "summary": "<p>Star Blizzard started using the NoRobot (BaitSwitch) and MaybeRobot (SimpleFix) malware after public reporting on the LostKeys malware.</p>\n<p>The post <a href=\"https://www.securityweek.com/russian-apt-switches-to-new-backdoor-after-malware-exposed-by-researchers/\">Russian APT Switches to New Backdoor After Malware Exposed by Researchers</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "cb1fc3c075b3243d8b2c0b3f026bf2a3d83c4feb",
+      "title": "What Makes a Great Field CXO: Lessons from the Front Lines",
+      "url": "https://www.securityweek.com/what-makes-a-great-field-cxo-lessons-from-the-front-lines/",
+      "published": "2025-10-22T11:30:00+00:00",
+      "summary": "<p>If you are recruiting for a Field CISO, Field CTO, etc., or are looking to leverage a resource at your company in one of these roles, what are some things you should be aware of?</p>\n<p>The post <a href=\"https://www.securityweek.com/what-makes-a-great-field-cxo-lessons-from-the-front-lines/\">What Makes a Great Field CXO: Lessons from the Front Lines</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "cb91f1c5df9551e90ccfeeb97cd73d54b18c196f",
+      "title": "Fencing and Pet Company Jewett-Cameron Hit by Ransomware",
+      "url": "https://www.securityweek.com/fencing-and-pet-company-jewett-cameron-hit-by-ransomware/",
+      "published": "2025-10-22T11:16:17+00:00",
+      "summary": "<p>Jewett-Cameron Company says hackers stole sensitive information and are threatening to release it unless a ransom is paid.</p>\n<p>The post <a href=\"https://www.securityweek.com/fencing-and-pet-company-jewett-cameron-hit-by-ransomware/\">Fencing and Pet Company Jewett-Cameron Hit by Ransomware</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "bce9656b5401d2adacab15560360778b268398e4",
+      "title": "Oracle Releases October 2025 Patches",
+      "url": "https://www.securityweek.com/oracle-releases-october-2025-patches/",
+      "published": "2025-10-22T10:03:22+00:00",
+      "summary": "<p>The Critical Patch Update contains 374 new security patches that resolve many vulnerabilities.</p>\n<p>The post <a href=\"https://www.securityweek.com/oracle-releases-october-2025-patches/\">Oracle Releases October 2025 Patches</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "ca58576b52ff23c6351c8cf153b9abee55a5181e",
+      "title": "Hackers Earn Over $520,000 on First Day of Pwn2Own Ireland 2025",
+      "url": "https://www.securityweek.com/hackers-earn-over-520000-on-first-day-of-pwn2own-ireland-2025/",
+      "published": "2025-10-22T07:36:32+00:00",
+      "summary": "<p>Participants exploited 34 previously unknown vulnerabilities to hack printers, NAS devices, and smart home products.</p>\n<p>The post <a href=\"https://www.securityweek.com/hackers-earn-over-520000-on-first-day-of-pwn2own-ireland-2025/\">Hackers Earn Over $520,000 on First Day of Pwn2Own Ireland 2025</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "6f6c089fb69e6d57fc7c907b54330e2dee5e434e",
       "title": "Gravwell Closes $15.4M Funding Round\u00a0to Expand Data Analytics and Security Platform",
       "url": "https://www.securityweek.com/gravwell-closes-15-4m-funding-round-to-expand-data-analytics-and-security-platform/",
@@ -1866,61 +1921,6 @@
       "url": "https://www.securityweek.com/veeam-to-acquire-data-security-firm-securiti-ai-for-1-7-billion/",
       "published": "2025-10-21T13:28:11+00:00",
       "summary": "<p>The acquisition will unify data resilience with DSPM, privacy, governance, and AI trust across production and secondary data.</p>\n<p>The post <a href=\"https://www.securityweek.com/veeam-to-acquire-data-security-firm-securiti-ai-for-1-7-billion/\">Veeam to Acquire Data Security Firm Securiti AI for $1.7 Billion</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "ee2d493357cf9a61829e6333f20c61012a6e3445",
-      "title": "CISA Warns of Exploited Apple, Kentico, Microsoft Vulnerabilities",
-      "url": "https://www.securityweek.com/cisa-warns-of-exploited-apple-kentico-microsoft-vulnerabilities/",
-      "published": "2025-10-21T12:40:16+00:00",
-      "summary": "<p>Leading to code execution, authentication bypass, and privilege escalation, the flaws were added to CISA\u2019s KEV list.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisa-warns-of-exploited-apple-kentico-microsoft-vulnerabilities/\">CISA Warns of Exploited Apple, Kentico, Microsoft Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "5fca7d9001efd979ff88696a19219802c78e97ad",
-      "title": "Dataminr to Acquire ThreatConnect for $290 Million",
-      "url": "https://www.securityweek.com/dataminr-to-acquire-threatconnect-for-290-million/",
-      "published": "2025-10-21T12:05:27+00:00",
-      "summary": "<p>The goal is to combine Dataminr\u2019s data signals platform with ThreatConnect\u2019s deep internal data capabilities.</p>\n<p>The post <a href=\"https://www.securityweek.com/dataminr-to-acquire-threatconnect-for-290-million/\">Dataminr to Acquire ThreatConnect for $290 Million</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "c78bc6c5ae52c34ea9e8641ba70e42b71dc453ef",
-      "title": "Supply Chain Attack Targets VS Code Extensions With \u2018GlassWorm\u2019 Malware",
-      "url": "https://www.securityweek.com/supply-chain-attack-targets-vs-code-extensions-with-glassworm-malware/",
-      "published": "2025-10-21T11:21:17+00:00",
-      "summary": "<p>The malware uses invisible Unicode characters to hide its code and blockchain-based infrastructure to prevent takedowns.</p>\n<p>The post <a href=\"https://www.securityweek.com/supply-chain-attack-targets-vs-code-extensions-with-glassworm-malware/\">Supply Chain Attack Targets VS Code Extensions With &#8216;GlassWorm&#8217; Malware</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "d16286d6ea16557523611e18d004a741f663a2bf",
-      "title": "Over 73,000 WatchGuard Firebox Devices Impacted by Recent Critical Flaw",
-      "url": "https://www.securityweek.com/over-73000-watchguard-firebox-devices-impacted-by-recent-critical-flaw/",
-      "published": "2025-10-21T10:00:29+00:00",
-      "summary": "<p>Affecting the Fireware OS iked process, the vulnerability can lead to remote code execution and does not require authentication.</p>\n<p>The post <a href=\"https://www.securityweek.com/over-73000-watchguard-firebox-devices-impacted-by-recent-critical-flaw/\">Over 73,000 WatchGuard Firebox Devices Impacted by Recent Critical Flaw</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "071294df3edae25e2778141a87d69c4992d42d66",
-      "title": "Myanmar Military Shuts Down Major Cybercrime Center and Detains Over 2,000 People",
-      "url": "https://www.securityweek.com/myanmar-military-shuts-down-major-cybercrime-center-and-detains-over-2000-people/",
-      "published": "2025-10-21T09:56:32+00:00",
-      "summary": "<p>Myanmar is notorious for hosting cyberscam operations responsible for bilking people all over the world. </p>\n<p>The post <a href=\"https://www.securityweek.com/myanmar-military-shuts-down-major-cybercrime-center-and-detains-over-2000-people/\">Myanmar Military Shuts Down Major Cybercrime Center and Detains Over 2,000 People</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
