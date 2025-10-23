@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-23T00:41:15.150757+00:00",
+  "generated_at": "2025-10-23T12:17:23.687545+00:00",
   "items": [
     {
       "id": "c2ce82ef07acc5e54f7eb527f1e7cda74b62aa48",
@@ -110,6 +110,50 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "4d259c4e2b7fe4ada21a1f5cf4f1fa0eb86f941c",
+      "title": "Why Organizations Are Abandoning Static Secrets for Managed Identities",
+      "url": "https://thehackernews.com/2025/10/why-organizations-are-abandoning-static.html",
+      "published": "2025-10-23T11:00:00+00:00",
+      "summary": "As machine identities explode across cloud environments, enterprises report dramatic productivity gains from eliminating static credentials. And only legacy systems remain the weak link.\nFor decades, organizations have relied on static secrets, such as API keys, passwords, and tokens, as unique identifiers for workloads. While this approach provides clear traceability, it creates what security",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWQXR3hJJeyu725GU64q2P5FS-Dd_Q0tHPYl3PQ1dCsQSc0mth8d5AZI7OMRrluhhS6WXIWRkVhGwtuA4KJoEv16v7m2v1SqGmByyRUMI_zoB2H0VNri0x4TjuklCtV1K21ZdIPmbr2a6ZwMQNva6rCii54DI2vhn4kRYgtbrKq22MccEK-eeyMy2gvNw/s1600/git.jpg"
+    },
+    {
+      "id": "bfbdb4cba5076b8bfc38e9054a0ddd1bc3768880",
+      "title": "\u201cJingle Thief\u201d Hackers Exploit Cloud Infrastructure to Steal Millions in Gift Cards",
+      "url": "https://thehackernews.com/2025/10/jingle-thief-hackers-exploit-cloud.html",
+      "published": "2025-10-23T07:52:00+00:00",
+      "summary": "Cybersecurity researchers have shed light on a cybercriminal group called Jingle Thief that has been observed targeting cloud environments associated with organizations in the retail and consumer services sectors for gift card fraud.\n\"Jingle Thief attackers use phishing and smishing to steal credentials, to compromise organizations that issue gift cards,\" Palo Alto Networks Unit 42 researchers",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKxmcih1vSk9zV3rxmSlJbG10cSql0qeyBPbcbVx9spXIsuoJ7Fy-WZPMUNrR4lPhCYwjqW7ViGz6j4IIYpeNzVyS9IjYTdKxORB0ggHC-hxh0k9Tx9wvJ8gXSta_kf7O6cfcqE9NzLbm6pzCFMP8ANumFe8XBgiyvXgnV5XDvERHoTg1nX6Bi-0ZSJ2pJ/s1600/giftcardds.jpg"
+    },
+    {
+      "id": "8d44d91bd21c7ec2d95ee0f7900f61346b7776ae",
+      "title": "Over 250 Magento Stores Hit Overnight as Hackers Exploit New Adobe Commerce Flaw",
+      "url": "https://thehackernews.com/2025/10/over-250-magento-stores-hit-overnight.html",
+      "published": "2025-10-23T05:47:00+00:00",
+      "summary": "E-commerce security company Sansec has warned that threat actors have begun to exploit a recently disclosed security vulnerability in Adobe Commerce and Magento Open Source platforms, with more than 250 attack attempts recorded against multiple stores over the past 24 hours.\nThe vulnerability in question is CVE-2025-54236 (CVSS score: 9.1), a critical improper input validation flaw that could be",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgr6q4VXCW0imh0YjZL7pmH95MM5h-ikE4R8DsRsjoP_lAro1YZYsP9B9tnjsje5vW5-Ng-Hmeb8uetlCJy0L6PUAOm0TG4ubjIws_UGxH2jPUoG9YSwpNbR2NQLQQ3jUPs8WXSQW89Yl0BVbykhkRn_Mg34F4OUlhNE5id3Yzq3HA-OmWwqNnrEgfhWYq6/s1600/adobe-flaws.jpg"
+    },
+    {
+      "id": "65eee0a6660b4db8cacb1126f3aebeb1bb0b4507",
+      "title": "Critical Lanscope Endpoint Manager Bug Exploited in Ongoing Cyberattacks, CISA Confirms",
+      "url": "https://thehackernews.com/2025/10/critical-lanscope-endpoint-manager-bug.html",
+      "published": "2025-10-23T05:37:00+00:00",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a critical security flaw impacting Motex Lanscope Endpoint Manager to its Known Exploited Vulnerabilities (KEV) catalog, stating it has been actively exploited in the wild.\nThe vulnerability, CVE-2025-61932 (CVSS v4 score: 9.3), impacts on-premises versions of Lanscope Endpoint Manager, specifically Client",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjF0_anh2D7u1BXDzmTHk1Z2oVOcQvyBSs2KFS9qG34RBu7u3glGB3KzZ4gy3kR9wDSf1BVBM8W2t9Nc3qUMHdlO7tWrZFaOKQQFitA0OuquBHYMqSeIGOEWU2rIbdRYkLYHjq45PM-yCnHQsssYF_C9eganVXF5mEBxBJRVW2N5CrM45Z_P1YPoPXjkBLN/s1600/flaw.jpg"
     },
     {
       "id": "1ca6843f8f980af0426b8521e907ba8b7d475de7",
@@ -618,48 +662,37 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5bfM1yEcw7WZjx2RKEktuieKPwlv2Gh_rraTzrK0iBYOD-OM6VBRfDT-oHF_gTv5ymkrZP7lkdsvLIJnSK_btwdFQttvQvCcBkVXZpD69epbk6n3sxOPbnCTOfQque59TqfdRrRdN4F_MCrIw5TR_r5kqWHjLm-_oL1Kd05Y6CEz-H61ebIZvXJAB1kzG/s1600/android-opt.jpg"
     },
     {
-      "id": "3aa4cc184f0025a95d17169809f39fb7b5a298e2",
-      "title": "What AI Reveals About Web Applications\u2014 and Why It Matters",
-      "url": "https://thehackernews.com/2025/10/what-ai-reveals-about-web-applications.html",
-      "published": "2025-10-14T11:00:00+00:00",
-      "summary": "Before an attacker ever sends a payload, they\u2019ve already done the work of understanding how your environment is built. They look at your login flows, your JavaScript files, your error messages, your API documentation, your GitHub repos. These are all clues that help them understand how your systems behave. AI is significantly accelerating reconnaissance and enabling attackers to map your",
-      "source": "The Hacker News",
+      "id": "9cf8336ca6cc1dc3f39c58945634eb3b2d9b4b67",
+      "title": "Mideast, African Hackers Target Gov'ts, Banks, Small Retailers",
+      "url": "https://www.darkreading.com/cybersecurity-analytics/mea-hackers-govts-finance-smb-retailers",
+      "published": "2025-10-23T06:00:00+00:00",
+      "summary": "In the hotly political Middle East, you'd expect hacktivism and disruption of services. But retail attacks?",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhW7Mjlbpc0lAUpBshNwlfCnaymfSU7Zq7tdye5IB97rku35Ml0Pq3f4a-L1rmj_bapTGV4VBodWJAeKNw59_JoQj4O7REr0fHyG0CqIp3cEncjvwzySWjeusJRmWdrRACdwQ5qsPpt3n6khw4lgT0XoBKmj6bHltQ9GW6SS4aPmSc5EB8dGQEihze8bO0/s1600/pentera.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt92e9b435e94bead4/68f925263ecca3bef3d0188f/Dubai_mall-AGF_Srl-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "8511e9b4997fd2ab52c3b5d875fad2e74bb6d05e",
-      "title": "npm, PyPI, and RubyGems Packages Found Sending Developer Data to Discord Channels",
-      "url": "https://thehackernews.com/2025/10/npm-pypi-and-rubygems-packages-found.html",
-      "published": "2025-10-14T07:09:00+00:00",
-      "summary": "Cybersecurity researchers have identified several malicious packages across npm, Python, and Ruby ecosystems that leverage Discord as a command-and-control (C2) channel to transmit stolen data to actor-controlled webhooks.\nWebhooks on Discord are a way to post messages to channels in the platform without requiring a bot user or authentication, making them an attractive mechanism for attackers to",
-      "source": "The Hacker News",
+      "id": "ea0580590b61b1ec7923a5020e3b9c6820a78e57",
+      "title": "Lazarus Group Hunts European Drone Manufacturing Data",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/lazarus-group-hunts-european-drone-manufacturing-data",
+      "published": "2025-10-23T04:01:00+00:00",
+      "summary": "The campaign is the latest effort by the North Korean threat actor to collect data of strategic interest to Pyongyang.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZzhEf1_tZLt8fgAl6YS7Wah-9L3Z7Tcs0L3zK5ilyxOaEcBFpj0-vA58YFSIEJqBVxCQFLf_JYVjfzRP4VpOUJJxF1qYg3cuLWtupeoMLpZY_f1r2-Yy5Na4taLHsDAS9DeY3yqefQkUs8ltjV4Ckg2vdXTIjDSOr8Sv5AVSEMC8WFzp8wWnddg-0QWDu/s1600/data.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt52f25a412729c385/68f940f5c42be002550f92f2/NK_DC_Studio_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "bdd62d0e122f8d13cb79f9be5073a676df0c979b",
-      "title": "Researchers Expose TA585\u2019s MonsterV2 Malware Capabilities and Attack Chain",
-      "url": "https://thehackernews.com/2025/10/researchers-expose-ta585s-monsterv2.html",
-      "published": "2025-10-14T05:28:00+00:00",
-      "summary": "Cybersecurity researchers have shed light on a previously undocumented threat actor called TA585 that has been observed delivering an off-the-shelf malware called MonsterV2 via phishing campaigns.\nThe Proofpoint Threat Research Team described the threat activity cluster as sophisticated, leveraging web injections and filtering checks as part of its attack chains.\n\"TA585 is notable because it",
-      "source": "The Hacker News",
+      "id": "5044275d215d13b4cd8d489a05dd1305d10c6492",
+      "title": "The Best End User Security Awareness Programs Aren\u2019t About Awareness Anymore",
+      "url": "https://www.darkreading.com/cyber-risk/best-end-user-security-awareness-programs-arent-about-awareness-anymore",
+      "published": "2025-10-22T22:00:15+00:00",
+      "summary": "The goal is to apply psychology principles to security training to change behaviors and security outcomes.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuj2qXooTKDuCllVA-M9rA4zrxasH5zIdp6lm-BsS66td0H5rfmJDpWkHmzBlu72tUzQbvv5VBofkRfhpoU60REAndnUxabWWmQH9Udy8NWuJCWWwVzt1gny0Bu8siufR0XpIwJrkBjwKiQk7sOu4gn76qFA8iqMXWJKyakCk3kSOC9McQEmd7kAF0lx60/s1600/malware-click.jpg"
-    },
-    {
-      "id": "7069ee6bc477a6437bfb7ba6b6054e39bd92cff4",
-      "title": "\u26a1 Weekly Recap: WhatsApp Worm, Critical CVEs, Oracle 0-Day, Ransomware Cartel & More",
-      "url": "https://thehackernews.com/2025/10/weekly-recap-whatsapp-worm-critical.html",
-      "published": "2025-10-13T13:18:00+00:00",
-      "summary": "Every week, the cyber world reminds us that silence doesn\u2019t mean safety. Attacks often begin quietly \u2014 one unpatched flaw, one overlooked credential, one backup left unencrypted. By the time alarms sound, the damage is done.\nThis week\u2019s edition looks at how attackers are changing the game \u2014 linking different flaws, working together across borders, and even turning trusted tools into weapons.",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvKzA6hRzW-Mgk5W9s3gbwP5yMAXyWG2-z41WpJxSie4cmtWmrW2BkCDZOIcgnJG9GmNveauQ_zz_zKDIcYJm94r_n_xfxfcpwTpJUzjhGcx0VpgPc-DxVwd5mFjYk2VBYZ-UjnahfkmkLQIkXO2lRIFd4uotcYPuaE1_s0RToXExibn2ZyMCVtJGNfJAl/s1600/recap.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt460a29426384c86f/68fa1a861641793300c244cb/game-training-2EK810H.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "id": "596f02c1c71aa74f5d2ddd8db95af4a621bedbc4",
@@ -726,6 +759,17 @@
       "region": "North America",
       "country": "US",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltfea2e6e9bc3e850e/68f8ffbc1641795b15c242ea/Phone_lock-Sergio_Delle_Vedove-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
+      "id": "e02c065171e1ff9c5dd4c4d9522a6cf84a0acebb",
+      "title": "Asian Nations Ramp Up Pressure on Cybercrime 'Scam Factories'",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/asian-nations-ramp-up-legal-attacks-cybercrime-factories",
+      "published": "2025-10-22T01:00:00+00:00",
+      "summary": "After a particularly gruesome murder, South Korea issues &quot;code black&quot; travel ban for several regions in Cambodia, while other nations urge more raids.",
+      "source": "DarkReading",
+      "region": "North America",
+      "country": "US",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf9a31e03506d8e24/682cf11744afb6bd8a3b90a5/asia-night-lights-kmls-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "id": "c6c495ceb855783334b6e6628b5340e1a8dbc29c",
@@ -1168,48 +1212,15 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7e80ab080709bd8e/68e7841d2ce1cb062b683015/Ransomware(1800)_Olekcii_Mach_Alamy.png?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "2708a87660ffee4b8cf4a19f96c7d2e63e8b7369",
-      "title": "Vampire Bot Malware Sinks Fangs Into Job Hunters",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/vampire-bot-malware-job-hunters",
-      "published": "2025-10-08T21:02:42+00:00",
-      "summary": "The campaign is the latest by BatShadow, one of a growing number of cybercrime groups operating out of Vietnam.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8b4c6f940f2e116e/68e6c66bc9271fd81a85477b/vampire_n.k.junky_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
-      "id": "a4e7f34794cf8886fcab17e417d68955f6287dc4",
-      "title": "Red Hat Hackers Team Up With Scattered Lapsus$ Hunters",
-      "url": "https://www.darkreading.com/threat-intelligence/red-hat-hackers-team-up-scattered-lapsus-hunters",
-      "published": "2025-10-08T20:40:36+00:00",
-      "summary": "Crimson Collective, which recently breached the GitLab instance of Red Hat Consulting, has teamed up with the notorious cybercriminal collective.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3c759e0b4d766e27/68e6c44474ac395392096358/hackers_JGPhotography_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
-      "id": "3bac3fa459e58384da93afbdeaf2bf297e026a18",
-      "title": "LockBit, Qilin &amp; DragonForce Join Forces in Ransomware 'Cartel'",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/extortion-gangs-join-forces-ransomware-cartel",
-      "published": "2025-10-08T19:56:33+00:00",
-      "summary": "The three extortion gangs also invited other e-crime attackers to join their collaboration to share attack information and resources, in the wake of LockBit 5.0 being released.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt85553c6b654c580a/68e6b0158b00605697757dff/Petes_Dragon_Moviestore_Collection_Ltd_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
-      "id": "b8b7b755f7115e39a5eeb45d8e6384b12b25e4ea",
-      "title": "Framelink Figma MCP Server Opens Orgs to Agentic AI Compromise",
-      "url": "https://www.darkreading.com/vulnerabilities-threats/figma-mcp-server-agentic-ai-compromise",
-      "published": "2025-10-08T17:14:02+00:00",
-      "summary": "Patch now: A bug (CVE-2025-53967) in a third-party option for connecting Figma to agentic AI can lead to remote code execution (RCE).",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltdac6ed6a12f42609/68e692b574ac3958a20962e2/network-Jezper-alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "id": "23c51da7391a11ae6199ec335abfe31183cc2ccd",
+      "title": "SpaceX pulls plug on 2,500 Starlink terminals tied to Myanmar fraud farms",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2025/10/23/spacex_starlink_myanmar/",
+      "published": "2025-10-23T09:22:51+00:00",
+      "summary": "<h4>Criminal outfits had been using Musk's broadband beacons to run cyber-slavery scams across Southeast Asia</h4> <p>SpaceX says it has shut down thousands of Starlink terminals that were powering Myanmar's notorious scam compounds after its satellite network was found to be keeping human trafficking and cyber-fraud operations online in the country's lawless border zones.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
       "id": "6f2d02d2b35d6aaf397a17b066ec155d89b8c2a9",
@@ -1751,17 +1762,6 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "1201adf7a189e6f3ea680086ec66dbd9497daadc",
-      "title": "Scattered Lapsus$ Hunters offering $10 in Bitcoin to 'endlessly harass' execs",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/10/06/scattered_lapsus_bitcoin_reward/",
-      "published": "2025-10-06T15:41:58+00:00",
-      "summary": "<h4>Crime group claims to have already doled out $1K to those in it 'for money and for the love of the game'</h4> <p>Scattered Lapsus$ Hunters has launched an unusual crowdsourced extortion scheme, offering $10 in Bitcoin to anyone willing to help pressure their alleged victims into paying ransoms.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
       "id": "9d44f13dac3335d6f7398aab1268ff50853a4ac6",
       "title": "Canada Fines Cybercrime Friendly Cryptomus $176M",
       "url": "https://krebsonsecurity.com/2025/10/canada-fines-cybercrime-friendly-cryptomus-176m/",
@@ -1828,6 +1828,61 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "1a977936c71f05b2a0f21be68f6a23d1412309a4",
+      "title": "Vibe Coding\u2019s Real Problem Isn\u2019t Bugs\u2014It\u2019s Judgment",
+      "url": "https://www.securityweek.com/vibe-codings-real-problem-isnt-bugs-its-judgment/",
+      "published": "2025-10-23T11:15:00+00:00",
+      "summary": "<p>As AI coding tools flood enterprises with functional but flawed software, researchers urge embedding security checks directly into the AI workflow.</p>\n<p>The post <a href=\"https://www.securityweek.com/vibe-codings-real-problem-isnt-bugs-its-judgment/\">Vibe Coding\u2019s Real Problem Isn\u2019t Bugs\u2014It\u2019s Judgment</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "662f7b5676dda948fbce8158003c9b05c59baea5",
+      "title": "Exploitation of Critical Adobe Commerce Flaw Puts Many eCommerce Sites at Risk",
+      "url": "https://www.securityweek.com/exploitation-of-critical-adobe-commerce-flaw-puts-many-ecommerce-sites-at-risk/",
+      "published": "2025-10-23T11:03:44+00:00",
+      "summary": "<p>Patched in September, the SessionReaper bug could be exploited without authentication to bypass a security feature.</p>\n<p>The post <a href=\"https://www.securityweek.com/exploitation-of-critical-adobe-commerce-flaw-puts-many-ecommerce-sites-at-risk/\">Exploitation of Critical Adobe Commerce Flaw Puts Many eCommerce Sites at Risk</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "84b0044372396700d1146434f677ae375c738e2f",
+      "title": "BIND Updates Address High-Severity Cache Poisoning Flaws",
+      "url": "https://www.securityweek.com/bind-updates-address-high-severity-cache-poisoning-flaws/",
+      "published": "2025-10-23T10:10:47+00:00",
+      "summary": "<p>The vulnerabilities allow attackers to predict source ports and query IDs BIND will use, and to inject forged records into the cache.</p>\n<p>The post <a href=\"https://www.securityweek.com/bind-updates-address-high-severity-cache-poisoning-flaws/\">BIND Updates Address High-Severity Cache Poisoning Flaws</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "922943560cd36e5be79756d0b68644c42874dcd0",
+      "title": "Lanscope Endpoint Manager Zero-Day Exploited in the Wild",
+      "url": "https://www.securityweek.com/lanscope-endpoint-manager-zero-day-exploited-in-the-wild/",
+      "published": "2025-10-23T09:56:54+00:00",
+      "summary": "<p>The bug has been exploited in the wild as a zero-day and the US cybersecurity agency CISA has added it to its KEV catalog.</p>\n<p>The post <a href=\"https://www.securityweek.com/lanscope-endpoint-manager-zero-day-exploited-in-the-wild/\">Lanscope Endpoint Manager Zero-Day Exploited in the Wild</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "47ffe1ebd762ceaa7fcc747ac65d60ecb72e38e8",
+      "title": "Mobile Security: Verizon Says Attacks Soar, AI-Powered Threats Raise Alarm",
+      "url": "https://www.securityweek.com/mobile-security-verizon-says-attacks-soar-ai-powered-threats-raise-alarm/",
+      "published": "2025-10-23T09:21:48+00:00",
+      "summary": "<p>Verizon\u2019s 2025 Mobile Security Index shows that 85% of organizations believe mobile device attacks are on the rise.</p>\n<p>The post <a href=\"https://www.securityweek.com/mobile-security-verizon-says-attacks-soar-ai-powered-threats-raise-alarm/\">Mobile Security: Verizon Says Attacks Soar, AI-Powered Threats Raise Alarm</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "849f833c425dc97002126bc6a9831cf3f09ebae4",
       "title": "TARmageddon Flaw in Popular Rust Library Leads to RCE",
       "url": "https://www.securityweek.com/tarmageddon-flaw-in-popular-rust-library-leads-to-rce/",
@@ -1877,61 +1932,6 @@
       "url": "https://www.securityweek.com/what-makes-a-great-field-cxo-lessons-from-the-front-lines/",
       "published": "2025-10-22T11:30:00+00:00",
       "summary": "<p>If you are recruiting for a Field CISO, Field CTO, etc., or are looking to leverage a resource at your company in one of these roles, what are some things you should be aware of?</p>\n<p>The post <a href=\"https://www.securityweek.com/what-makes-a-great-field-cxo-lessons-from-the-front-lines/\">What Makes a Great Field CXO: Lessons from the Front Lines</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "cb91f1c5df9551e90ccfeeb97cd73d54b18c196f",
-      "title": "Fencing and Pet Company Jewett-Cameron Hit by Ransomware",
-      "url": "https://www.securityweek.com/fencing-and-pet-company-jewett-cameron-hit-by-ransomware/",
-      "published": "2025-10-22T11:16:17+00:00",
-      "summary": "<p>Jewett-Cameron Company says hackers stole sensitive information and are threatening to release it unless a ransom is paid.</p>\n<p>The post <a href=\"https://www.securityweek.com/fencing-and-pet-company-jewett-cameron-hit-by-ransomware/\">Fencing and Pet Company Jewett-Cameron Hit by Ransomware</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "bce9656b5401d2adacab15560360778b268398e4",
-      "title": "Oracle Releases October 2025 Patches",
-      "url": "https://www.securityweek.com/oracle-releases-october-2025-patches/",
-      "published": "2025-10-22T10:03:22+00:00",
-      "summary": "<p>The Critical Patch Update contains 374 new security patches that resolve many vulnerabilities.</p>\n<p>The post <a href=\"https://www.securityweek.com/oracle-releases-october-2025-patches/\">Oracle Releases October 2025 Patches</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "ca58576b52ff23c6351c8cf153b9abee55a5181e",
-      "title": "Hackers Earn Over $520,000 on First Day of Pwn2Own Ireland 2025",
-      "url": "https://www.securityweek.com/hackers-earn-over-520000-on-first-day-of-pwn2own-ireland-2025/",
-      "published": "2025-10-22T07:36:32+00:00",
-      "summary": "<p>Participants exploited 34 previously unknown vulnerabilities to hack printers, NAS devices, and smart home products.</p>\n<p>The post <a href=\"https://www.securityweek.com/hackers-earn-over-520000-on-first-day-of-pwn2own-ireland-2025/\">Hackers Earn Over $520,000 on First Day of Pwn2Own Ireland 2025</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "6f6c089fb69e6d57fc7c907b54330e2dee5e434e",
-      "title": "Gravwell Closes $15.4M Funding Round\u00a0to Expand Data Analytics and Security Platform",
-      "url": "https://www.securityweek.com/gravwell-closes-15-4m-funding-round-to-expand-data-analytics-and-security-platform/",
-      "published": "2025-10-21T16:06:08+00:00",
-      "summary": "<p>The Series A round was led by Two Bear Capital and included participation from Gula Tech Adventures, Next Frontier Capital, and others.</p>\n<p>The post <a href=\"https://www.securityweek.com/gravwell-closes-15-4m-funding-round-to-expand-data-analytics-and-security-platform/\">Gravwell Closes $15.4M Funding Round\u00a0to Expand Data Analytics and Security Platform</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "5fe5155a3b807beab75b9dbcddffdfdddece3127",
-      "title": "SBOM Pioneer Allan Friedman Joins NetRise to Advance Supply Chain Visibility",
-      "url": "https://www.securityweek.com/sbom-pioneer-allan-friedman-joins-netrise-to-advance-supply-chain-visibility/",
-      "published": "2025-10-21T15:16:12+00:00",
-      "summary": "<p>NetRise appointed the former CISA Senior Advisor and Strategist as a Strategic Advisor.</p>\n<p>The post <a href=\"https://www.securityweek.com/sbom-pioneer-allan-friedman-joins-netrise-to-advance-supply-chain-visibility/\">SBOM Pioneer Allan Friedman Joins NetRise to Advance Supply Chain Visibility</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
