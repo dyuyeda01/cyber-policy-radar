@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-24T00:38:34.558100+00:00",
+  "generated_at": "2025-10-24T12:17:12.892935+00:00",
   "items": [
     {
       "id": "09cdac70816024cc86ad5877ef8861a5ae65f5fc",
@@ -112,11 +112,44 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "f6f09ccf2232a9ab3ce32a5183687f4614c3d92b",
+      "title": "The Cybersecurity Perception Gap: Why Executives and Practitioners See Risk Differently",
+      "url": "https://thehackernews.com/2025/10/the-cybersecurity-perception-gap-why.html",
+      "published": "2025-10-24T11:00:00+00:00",
+      "summary": "Does your organization suffer from a cybersecurity perception gap? Findings from the&nbsp;Bitdefender 2025 Cybersecurity Assessment suggest the answer is probably \u201cyes\u201d \u2014 and many leaders may not even realize it.\nThis disconnect matters. Small differences in perception today can evolve into major blind spots tomorrow. After all, perception influences what organizations prioritize, where they",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQVzc_sr-XqhPEurqyN5PP7oW8LrIPQ8ry9ijkZAGE-YdWZRsYhhcP52iWxJ1buNw0vzuaCSDTTfgJO-lAX3YIhKL0abx2Szo9WprfdIFCIu0Hy1dvtpnfuAgxxkwksq1HTI2t1t9zm2sqi6JaqwejgaalOVD1NuQYhCHRXcoVMXwGvMzxviIfrto0MwE/s1600/bd-main.jpg"
+    },
+    {
+      "id": "47a7dfe62d5f95835636861a5abaaf2d281142e8",
+      "title": "3,000 YouTube Videos Exposed as Malware Traps in Massive Ghost Network Operation",
+      "url": "https://thehackernews.com/2025/10/3000-youtube-videos-exposed-as-malware.html",
+      "published": "2025-10-24T10:00:00+00:00",
+      "summary": "A malicious network of YouTube accounts has been observed publishing and promoting videos that lead to malware downloads, essentially abusing the popularity and trust associated with the video hosting platform for propagating malicious payloads.\nActive since 2021, the network has published more than 3,000 malicious videos to date, with the volume of such videos tripling since the start of the",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhh8EaTq-s91jlucVVZYpqJYdk5xQXEy0ylAf-poP2YIxboYThJyShnGQwhh-OORfMy6LnRQlwQfzHP2bf8Ao0JyihddLTI6G4fcLdnxktdgM8vE_02iM1LFvJCgmafz56dDvXjyDLXMWkE8-RxezA8kCpkn4heiMnIZT7pZp72rQXIa00u9YAJadnsKxUm/s1600/youtube.jpg"
+    },
+    {
+      "id": "902f833c60e32ccca0d5526735be141eefc47123",
+      "title": "Self-Spreading 'GlassWorm' Infects VS Code Extensions in Widespread Supply Chain Attack",
+      "url": "https://thehackernews.com/2025/10/self-spreading-glassworm-infects-vs.html",
+      "published": "2025-10-24T07:00:00+00:00",
+      "summary": "Cybersecurity researchers have discovered a self-propagating worm that spreads via Visual Studio Code (VS Code) extensions on the Open VSX Registry and the Microsoft Extension Marketplace, underscoring how developers have become a prime target for attacks.\nThe sophisticated threat, codenamed GlassWorm by Koi Security, is the second such supply chain attack to hit the DevOps space within a span",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghcP3Kooks9KjeygfquG2lCkBRvM1V9_zlYuOlz1vXhgU_qDiAErqbPmukvMP6fFUYJzqjCB5xavFDH8WzPA350BLCWwMXU88eP-ReBZWQGo9sfbgoh_3e5Gw_bp6cuJ2O1vercvYxepJppsOAXPuwK-R4v4WYjmKyYQ1_CpEkUSHEGlpJQu5gQYlFQIZ1/s1600/code-vscode.jpg"
+    },
+    {
       "id": "d0d1c52538105a87d9f15818303e7bde78bdbcf4",
       "title": "North Korean Hackers Lure Defense Engineers With Fake Jobs to Steal Drone Secrets",
       "url": "https://thehackernews.com/2025/10/north-korean-hackers-lure-defense.html",
       "published": "2025-10-23T15:29:00+00:00",
-      "summary": "Threat actors with ties to North Korea have been attributed to a new wave of attacks targeting European companies active in the defense industry as part of a long-running campaign known as Operation Dream Job.\n\"Some of these [companies' are heavily involved in the unmanned aerial vehicle (UAV) sector, suggesting that the operation may be linked to North Korea's current efforts to scale up its",
+      "summary": "Threat actors with ties to North Korea have been attributed to a new wave of attacks targeting European companies active in the defense industry as part of a long-running campaign known as Operation Dream Job.\n\"Some of these [companies] are heavily involved in the unmanned aerial vehicle (UAV) sector, suggesting that the operation may be linked to North Korea's current efforts to scale up its",
       "source": "The Hacker News",
       "region": "North America",
       "country": "US",
@@ -629,37 +662,15 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbStyTHoDcDIi2hOYUUE0gL0ICoN_VfOwuMpKAjzXx2aYFQsNUm4sdBWjCezEi3M33IAhZ_t70GwUVVBcVy5tdU5Qnxcn-OAoOONXq_W-QPvJwR6aOmEBRvpuV-ZHH1a9LXqLbNcTqOpUZ5Bc-FA5uGhVxGq07e71OF7_0ducIZLm8_ScQ4XSE-95Syw0O/s1600/ics-hacking.jpg"
     },
     {
-      "id": "af24df14e3accd998fba4be319a033d59cf27185",
-      "title": "Hackers Target ICTBroadcast Servers via Cookie Exploit to Gain Remote Shell Access",
-      "url": "https://thehackernews.com/2025/10/hackers-target-ictbroadcast-servers-via.html",
-      "published": "2025-10-15T06:16:00+00:00",
-      "summary": "Cybersecurity researchers have disclosed that a critical security flaw impacting ICTBroadcast, an autodialer software from ICT Innovations, has come under active exploitation in the wild.\nThe vulnerability, assigned the CVE identifier CVE-2025-2611 (CVSS score: 9.3), relates to improper input validation that can result in unauthenticated remote code execution due to the fact that the call center",
-      "source": "The Hacker News",
+      "id": "1c6f546d43cc9a753c1fef67c797204d5a545226",
+      "title": "US Crypto Bust Offers Hope in Battle Against Cybercrime Syndicates",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/us-crypto-bust-hope-battle-against-cybercrime-syndicates",
+      "published": "2025-10-24T02:00:00+00:00",
+      "summary": "A $14 billion seizure by US investigators presents a warning for cybercriminals' reliance on bitcoin but is still a positive development for the cryptocurrency industry.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEht-AlrRupsMmlNlQlln5yqtv-DvYv2IfyBuNhgh4zrPXpmewDg_wxCOOk1J9EDKzx4CJCp9gcPGr-d2yXiDE9gAX8BRTdPbrerxnMNA3bXL08JBlDQq_yaEjM6euVOazBKAU3IM-54TtpKaEpp-Qtk-fSsd9B_vfjBv47M7eoe3qQQMCAqtFwXyPrUPO4S/s1600/cookie-shell.jpg"
-    },
-    {
-      "id": "a39e4145a9eaa136ee08b8c6778d7849b396097c",
-      "title": "New SAP NetWeaver Bug Lets Attackers Take Over Servers Without Login",
-      "url": "https://thehackernews.com/2025/10/new-sap-netweaver-bug-lets-attackers.html",
-      "published": "2025-10-15T05:36:00+00:00",
-      "summary": "SAP has rolled out security fixes for 13 new security issues, including additional hardening for a maximum-severity bug in SAP NetWeaver AS Java that could result in arbitrary command execution.\nThe vulnerability, tracked as CVE-2025-42944, carries a CVSS score of 10.0. It has been described as a case of insecure deserialization.\n\"Due to a deserialization vulnerability in SAP NetWeaver, an",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibwMpwIcTESa-J42zco0tMbMURh88KiyZZxXnaPzUZ6sgAtKRFXnDNvDH0yoLrY4a79zexRnTdl7nMm7_zlPTXn76oGndUldnCy9W6TUDUarQLygt0sdeAjFK-xsW18QdL3vUqbCN3s4LozHCVA_A9IADc_XztONXnzCWDmkvpFm8PGpf5tH-BkFJMDfFx/s1600/SAP.jpg"
-    },
-    {
-      "id": "f1d847ecd5ba52ad3ce9eaa694a2bcdb26327bd1",
-      "title": "Chinese Hackers Exploit ArcGIS Server as Backdoor for Over a Year",
-      "url": "https://thehackernews.com/2025/10/chinese-hackers-exploit-arcgis-server.html",
-      "published": "2025-10-14T16:55:00+00:00",
-      "summary": "Threat actors with ties to China have been attributed to a novel campaign that compromised an ArcGIS system and turned it into a backdoor for more than a year.\nThe activity, per ReliaQuest, is the handiwork of a Chinese state-sponsored hacking group called Flax Typhoon, which is also tracked as Ethereal Panda and RedJuliett. According to the U.S. government, it's assessed to be a publicly-traded",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqRSZWxMRER0yVw2hm_uaYvfH3DFKO-dOCU6AUL-VlFHF7lmrq-DCYFHE3U5icBAMhKf3-XjeAoqTIie42qTngwACS-cNm7CF8t01SHoEWhpNdmmZZTDBtuoUv9TZUUze6MU1lfe4NWC5KcJcT_pLGx-1dqjoZm9IJOR1X8zV0zapl05Pux01XLhfHNGk3/s1600/chinese-hackers.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt441e09856649cf2e/68fa9778bb35cf93ae2bfc16/bitcoin-cybercriminals-Billion_Photos-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "id": "48aaf8c245a048e0dd02fc383238b669997517bf",
@@ -1201,15 +1212,37 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt692f1730df7f9381/68e697b669b210173587ba87/GitHub_Copilot-SOPA_Images_Limited-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "1ba872298596c362fa481813a6119aab5348ddc9",
-      "title": "SonicWall: 100% of Firewall Backups Were Breached",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/sonicwall-100-firewall-backups-breached",
-      "published": "2025-10-09T19:10:13+00:00",
-      "summary": "SonicWall said a breach it disclosed last month affected firewall configuration files for all customers who have used SonicWall\u2019s cloud backup service \u2014 up from its previous 5% estimate.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt112ca71e9c02c3f1/68e7e9f2a5e04f20e417da4e/wall_of_fire_Fir_Mamat_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "id": "5c8c4ddad959902b46a2dd6ea523084904778fce",
+      "title": "Digital ID is now less about illegal working, more about rummaging through drawers",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2025/10/24/digital_id_rebrand/",
+      "published": "2025-10-24T11:07:05+00:00",
+      "summary": "<h4>Starmer rebrands unpopular scheme as convenience tool after backlash</h4> <p>UK Prime Minister Keir Starmer has relaunched his digital ID scheme as something that will make people's lives easier, less than four weeks after announcing it as a measure to tackle illegal working.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "44d61f2f96bba8f93a289b8d1319096fbfeed9a8",
+      "title": "Shield AI shows off not-at-all-terrifying autonomous VTOL combat drone",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2025/10/24/shield_ai_x_bat/",
+      "published": "2025-10-24T08:45:08+00:00",
+      "summary": "<h4>Runways? Where we're going, we don't need runways</h4> <p>US defense technology biz Shield AI claims it can build a jet-powered vertical take-off and landing (VTOL) autonomous fighter drone that doesn't need a runway to operate.\u2026</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "9872bfdc8f65a4b3b63979ccde00b8c3cbb43c9d",
+      "title": "Iran's MuddyWater wades into 100+ government networks in latest spying spree",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2025/10/24/iran_muddywater_campaign/",
+      "published": "2025-10-24T05:45:07+00:00",
+      "summary": "<h4>Group-IB says Tehran-linked crew used hijacked mailbox and VPN to sling phishing emails across Middle East</h4> <p>Iran's favorite muddy-footed cyberespionage crew is at it again, this time breaching more than 100 government entities across the Middle East and North Africa, according to researchers at Group-IB.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
       "id": "8880ad1695bbed6d2a43d3865779d5732c1d8347",
@@ -1729,39 +1762,6 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "8904ea5877771d4d679ebbbd62d2ef79224ee05b",
-      "title": "Employees regularly paste company secrets into ChatGPT",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/10/07/gen_ai_shadow_it_secrets/",
-      "published": "2025-10-07T20:18:05+00:00",
-      "summary": "<h4>Microsoft Copilot, not so much</h4> <p>Employees could be opening up to OpenAI in ways that put sensitive data at risk. According to a study by security biz LayerX, a large number of corporate users paste Personally Identifiable Information (PII) or Payment Card Industry (PCI) numbers right into ChatGPT, even if they're using the bot without permission.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "c00b1d24a2b0fd01821b4e09d65a4e7d81e56511",
-      "title": "Nearly a year after attack, US medical scanning biz gets clear image of stolen patient data",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/10/07/10_months_later_us_medical/",
-      "published": "2025-10-07T16:15:06+00:00",
-      "summary": "<h4>No fraud monitoring and no apology after miscreants make off with medical, financial data</h4> <p>Florida-based Doctors Imaging Group has admitted that the sensitive medical and financial data of 171,862 patients was stolen during the course of a November 2024 cyberattack.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "6635321df99f0a7a326f2e138e00678babe3106a",
-      "title": "Police and military radio maker BK Technologies cops to cyber break-in",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/10/07/police_and_military_radio_maker_bk_admits_breach/",
-      "published": "2025-10-07T15:55:54+00:00",
-      "summary": "<h4>Florida comms outfit serving cops, firefighters, and the military says hackers pinched some employee data but insists its systems stayed online</h4> <p>BK Technologies, the Florida-based maker of mission-critical radios for US police, fire, and defense customers, has confessed to a cyber intrusion that briefly rattled its IT systems last month.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
       "id": "9d44f13dac3335d6f7398aab1268ff50853a4ac6",
       "title": "Canada Fines Cybercrime Friendly Cryptomus $176M",
       "url": "https://krebsonsecurity.com/2025/10/canada-fines-cybercrime-friendly-cryptomus-176m/",
@@ -1817,12 +1817,34 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "b2ce42de6e85b681142256d912bb0aadbd4433e1",
-      "title": "Feds Tie \u2018Scattered Spider\u2019 Duo to $115M in Ransoms",
-      "url": "https://krebsonsecurity.com/2025/09/feds-tie-scattered-spider-duo-to-115m-in-ransoms/",
-      "published": "2025-09-24T11:48:31+00:00",
-      "summary": "U.S. prosecutors last week levied criminal hacking charges against 19-year-old U.K. national Thalha Jubair for allegedly being a core member of Scattered Spider, a prolific cybercrime group blamed for extorting at least $115 million in ransom payments from victims. The charges came as Jubair and an alleged co-conspirator appeared in a London court to face accusations of hacking into and extorting several large U.K. retailers, the London transit system, and healthcare providers in the United States.",
-      "source": "Krebs on Security",
+      "id": "2893fa08ebeb056f271eb4f6231807767bb6c576",
+      "title": "Toys \u2018R\u2019 Us Canada Customer Information Leaked Online",
+      "url": "https://www.securityweek.com/toys-r-us-canada-customer-information-leaked-online/",
+      "published": "2025-10-24T11:19:52+00:00",
+      "summary": "<p>The customer information published on the dark web includes names, addresses, phone numbers, and email addresses.</p>\n<p>The post <a href=\"https://www.securityweek.com/toys-r-us-canada-customer-information-leaked-online/\">Toys &#8216;R&#8217; Us Canada Customer Information Leaked Online</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "69fecba3139dfbeced7da30993d737898ba1bbfa",
+      "title": "Microsoft Disables Downloaded File Previews to Block NTLM Hash Leaks",
+      "url": "https://www.securityweek.com/microsoft-disables-downloaded-file-previews-to-block-ntlm-hash-leaks/",
+      "published": "2025-10-24T09:57:30+00:00",
+      "summary": "<p>In files downloaded from the internet, HTML tags referencing external paths could be used to leak NTLM hashes during file previews.</p>\n<p>The post <a href=\"https://www.securityweek.com/microsoft-disables-downloaded-file-previews-to-block-ntlm-hash-leaks/\">Microsoft Disables Downloaded File Previews to Block NTLM Hash Leaks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "c0ceb553e7ffa08a6d2fbd03a722236b1abe73b8",
+      "title": "Pwn2Own WhatsApp Hacker Says Exploit Privately Disclosed to Meta",
+      "url": "https://www.securityweek.com/pwn2own-whatsapp-hacker-says-exploit-privately-reported-to-meta/",
+      "published": "2025-10-24T08:01:42+00:00",
+      "summary": "<p>Questions have been raised over the technical viability of the purported WhatsApp exploit, but the researcher says he wants to keep his identity private.</p>\n<p>The post <a href=\"https://www.securityweek.com/pwn2own-whatsapp-hacker-says-exploit-privately-reported-to-meta/\">Pwn2Own WhatsApp Hacker Says Exploit Privately Disclosed to Meta</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
@@ -1899,39 +1921,6 @@
       "url": "https://www.securityweek.com/mobile-security-verizon-says-attacks-soar-ai-powered-threats-raise-alarm/",
       "published": "2025-10-23T09:21:48+00:00",
       "summary": "<p>Verizon\u2019s 2025 Mobile Security Index shows that 85% of organizations believe mobile device attacks are on the rise.</p>\n<p>The post <a href=\"https://www.securityweek.com/mobile-security-verizon-says-attacks-soar-ai-powered-threats-raise-alarm/\">Mobile Security: Verizon Says Attacks Soar, AI-Powered Threats Raise Alarm</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "849f833c425dc97002126bc6a9831cf3f09ebae4",
-      "title": "TARmageddon Flaw in Popular Rust Library Leads to RCE",
-      "url": "https://www.securityweek.com/tarmageddon-flaw-in-popular-rust-library-leads-to-rce/",
-      "published": "2025-10-22T15:00:15+00:00",
-      "summary": "<p>The vulnerability impacts multiple Rust tar parsers, allowing attackers to smuggle additional archive entries.</p>\n<p>The post <a href=\"https://www.securityweek.com/tarmageddon-flaw-in-popular-rust-library-leads-to-rce/\">TARmageddon Flaw in Popular Rust Library Leads to RCE</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "7b7e63099af9a2882213b6d95ececcd924e0d009",
-      "title": "Critical Vulnerabilities Patched in TP-Link\u2019s Omada Gateways",
-      "url": "https://www.securityweek.com/critical-vulnerabilities-patched-in-tp-links-omada-gateways/",
-      "published": "2025-10-22T13:41:21+00:00",
-      "summary": "<p>One of the flaws can be exploited by remote unauthenticated attackers for arbitrary command execution.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-vulnerabilities-patched-in-tp-links-omada-gateways/\">Critical Vulnerabilities Patched in TP-Link&#8217;s Omada Gateways</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "aa54a63da21b956e38d67502a55005e5c8137ebd",
-      "title": "Keycard Emerges From Stealth Mode With $38 Million in Funding",
-      "url": "https://www.securityweek.com/keycard-emerges-from-stealth-mode-with-38-million-in-funding/",
-      "published": "2025-10-22T12:39:16+00:00",
-      "summary": "<p>The company\u2019s IAM platform identifies AI agents, supports assigning permission to them, and tracks all activity.</p>\n<p>The post <a href=\"https://www.securityweek.com/keycard-emerges-from-stealth-mode-with-38-million-in-funding/\">Keycard Emerges From Stealth Mode With $38 Million in Funding</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
