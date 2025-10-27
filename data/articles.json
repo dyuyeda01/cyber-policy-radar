@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-27T00:45:40.452803+00:00",
+  "generated_at": "2025-10-27T12:17:42.767174+00:00",
   "items": [
     {
       "id": "8be36856b1dce4f8594020db4b2bd29e83d8545c",
@@ -110,6 +110,28 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "3d34a63440923c8ac2f6cd8ce7aa15c2ce3fb8b8",
+      "title": "Qilin Ransomware Combines Linux Payload With BYOVD Exploit in Hybrid Attack",
+      "url": "https://thehackernews.com/2025/10/qilin-ransomware-combines-linux-payload.html",
+      "published": "2025-10-27T08:55:00+00:00",
+      "summary": "The ransomware group known as Qilin (aka Agenda, Gold Feather, and Water Galura) has claimed more than 40 victims every month since the start of 2025, barring January, with the number of postings on its data leak site touching a high of 100 cases in June.\nThe development comes as the ransomware-as-a-service (RaaS) operation has emerged as one of the most active ransomware groups, accounting for",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9EopwQw3Z0ZKEpgBMr6o1NnpTuZh32VqYXhHSIiYfDxDAJaPe2lUu0kTMYDMPwnytqXlofMPn2BNJpl1DEXihvRPAkofRn8kd5HwjaWGaaojcMZl67A3gj1sESX7PYipB5xqcUZt4HPPyv7W5UWFDlBXi7kYlvGP9MJC_N2BqnekOzdRbi2nVx-TFVtrX/s1600/ransomware.jpg"
+    },
+    {
+      "id": "0789325f3312096392b76ab8ce14a67075e376f9",
+      "title": "ChatGPT Atlas Browser Can Be Tricked by Fake URLs into Executing Hidden Commands",
+      "url": "https://thehackernews.com/2025/10/chatgpt-atlas-browser-can-be-tricked-by.html",
+      "published": "2025-10-27T07:29:00+00:00",
+      "summary": "The newly released OpenAI Atlas web browser has been found to be susceptible to a prompt injection attack where its omnibox can be jailbroken by disguising a malicious prompt as a seemingly harmless URL to visit.\n\"The omnibox (combined address/search bar) interprets input either as a URL to navigate to, or as a natural-language command to the agent,\" NeuralTrust said in a report published Friday",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJNBu2Kv_7ZWCpDqM_MBmHWghQSmsUC5dH4E-CGxu7Gv-G1IUDSx8RnR5wGnHO6FyjD3WoV1i1BTRpmqS_6GJBhbHuj0M0VRCjbVHvoK3P2a8t69U4PgUf-dRWXbsgcCyg0c2ZoDeVUnS_4pceIperLn_anC_JX6qTh8MLoUzP0c3GGKOR8cwvp2kYdOHG/s1600/chatgpt-atlas.jpg"
     },
     {
       "id": "384f173976fb210e87ab79927c5ffdd0a91dde9c",
@@ -638,28 +660,6 @@
       "region": "North America",
       "country": "US",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2nykKDi4Kxm3Eu3aSZYa8kFlVKKAB9frynapbWV4g6edks9HwevOZIHND0tnEQVnxl825CByrAZ3bUmKHp8i-VySR95AexY9STYOj-mkJUp5tmLJR08zkhdaDHEz7Rg8_eN5qTWuS6aRqGSs5fxwpcDnXYwavcF1KGjksXpWa-t1HPuHv6Q46mgaiwk8Y/s1600/cyberattacks.jpg"
-    },
-    {
-      "id": "bdcd9122aa8e7ec53e36271a168bed6d39dc21bb",
-      "title": "F5 Breach Exposes BIG-IP Source Code \u2014 Nation-State Hackers Behind Massive Intrusion",
-      "url": "https://thehackernews.com/2025/10/f5-breach-exposes-big-ip-source-code.html",
-      "published": "2025-10-15T16:06:00+00:00",
-      "summary": "U.S. cybersecurity company F5 on Wednesday disclosed that unidentified threat actors broke into its systems and stole files containing some of BIG-IP's source code and information related to undisclosed vulnerabilities in the product.\nIt attributed the activity to a \"highly sophisticated nation-state threat actor,\" adding the adversary maintained long-term, persistent access to its network. The",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJiKneCQua-fXepd4pk7_FxXHgVnZz0RB2vAIU97iXzYWowAYIj09-SjfKhPoYIxmUztJjO6aFiV8Bpnw1d8ewYQSUOTJo_8406FZI2R9gaItb5ia29FsHYaTmk6bbRnwnLhp19T7hvjHfRC647TTjflZhzCpKUm-M4N2J2azSb2vZamS-d-saSgGQwxSR/s1600/f5.png"
-    },
-    {
-      "id": "bbaf099f48598898d766c7969ca131e6f2efe572",
-      "title": "Over 100 VS Code Extensions Exposed Developers to Hidden Supply Chain Risks",
-      "url": "https://thehackernews.com/2025/10/over-100-vs-code-extensions-exposed.html",
-      "published": "2025-10-15T14:16:00+00:00",
-      "summary": "New research has uncovered that publishers of over 100 Visual Studio Code (VS Code) extensions leaked access tokens that could be exploited by bad actors to update the extensions, posing a critical software supply chain risk.\n\"A leaked VSCode Marketplace or Open VSX PAT [personal access token] allows an attacker to directly distribute a malicious extension update across the entire install base,\"",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7nxODcfvRiRGSDL38ckIG0H-EQiEDgbQ7L09l-4hmze6f8fJxdAGx1sTPtM7qq4RJKe-0hvOxWJnxKElwWIem-mteqIPckj3p3LsPg-qWkBMHgS-hhQvOZZTwXvun2IRsLnjJt4d3nu0orFjiZYNDj_frr4wU6zTId8Lli8pr_yq1I4KbDMj18Je21op9/s1600/vscode.jpg"
     },
     {
       "id": "b62b0269770752a60afb8789d42cbd580e933f0b",
@@ -1212,6 +1212,28 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta2f04123dfd36c34/667ebe7ea162b2e4a484cf2e/Robot(1800)_Mopic_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
+      "id": "6d4defab534ceeb3a24fe6986a8537ea86f8578d",
+      "title": "Ex-CISA head thinks AI might fix code so fast we won't need security teams",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2025/10/27/jen_easterly_ai_cybersecurity/",
+      "published": "2025-10-27T11:43:00+00:00",
+      "summary": "<h4>Jen Easterly says most breaches stem from bad software, and smarter tech could finally clean it up</h4> <p>Ex-CISA head Jen Easterly claims AI could spell the end of the cybersecurity industry, as the sloppy software and vulnerabilities that criminals rely on will be tracked down faster than ever.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "3e7c090989bfff5ce4ffc200f5c75e7d2287ef52",
+      "title": "UN Cybercrime Treaty wins dozens of signatories, to go with its many critics",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2025/10/27/un_cybercrime_convention_signed/",
+      "published": "2025-10-27T03:51:36+00:00",
+      "summary": "<h4>Allows surveillance and cross-border evidence sharing, which worries human rights groups</h4> <p>The United Nations on Saturday staged a signing ceremony for the Convention against Cybercrime, the world\u2019s first agreement to combat online crime. And while 72 nations picked up the pen, critics continue to point out the convention\u2019s flaws.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "8086390683895d9a3fc50ed68e9b6601f4768e72",
       "title": "Shaq's new ride gets jaq'ed in haq attaq",
       "url": "https://go.theregister.com/feed/www.theregister.com/2025/10/26/shaq_haq_attaq/",
@@ -1740,28 +1762,6 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "552ea3327421e72c6fcb2566cada32a6ad926631",
-      "title": "Cops nuke BreachForums (again) amid cybercrime supergroup extortion blitz",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/10/10/cops_seize_breachforums/",
-      "published": "2025-10-10T10:19:29+00:00",
-      "summary": "<h4>US and French fuzz pull the plug on Scattered Lapsus$ Hunters' latest leak shop targeting Salesforce</h4> <p>US authorities have seized the latest incarnation of BreachForums, the cybercriminal bazaar recently reborn under the stewardship of the so-called <a href=\"https://www.theregister.com/2025/08/12/scattered_spidershinyhunterslapsus_cybercrime_collab/\" target=\"_blank\">Scattered Lapsus$ Hunters</a>, with help from French cyber cops and the Paris prosecutor's office.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "2a775c0ef30549b327bd398dda24b9cad15bc866",
-      "title": "UK techies' union warns members after breach exposes sensitive personal details",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/10/10/prospect_union_breach/",
-      "published": "2025-10-10T09:41:20+00:00",
-      "summary": "<h4>Prospect apologizes for cyber gaffe affecting up to 160K members</h4> <p>UK trade union Prospect is notifying members of a breach that involved data such as sexual orientation and disabilities.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
       "id": "9d44f13dac3335d6f7398aab1268ff50853a4ac6",
       "title": "Canada Fines Cybercrime Friendly Cryptomus $176M",
       "url": "https://krebsonsecurity.com/2025/10/canada-fines-cybercrime-friendly-cryptomus-176m/",
@@ -1812,6 +1812,50 @@
       "published": "2025-10-07T22:45:35+00:00",
       "summary": "A cybercriminal group that used voice phishing attacks to siphon more than a billion records from Salesforce customers earlier this year has launched a website that threatens to publish data stolen from dozens of Fortune 500 firms if they refuse to pay a ransom. The group also claimed responsibility for a recent breach involving Discord user data, and for stealing terabytes of sensitive files from thousands of customers of the enterprise software maker Red Hat.",
       "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "e7ad7398df82b1d99633b2c2123b080bf4b9bf55",
+      "title": "New Firefox Extensions Required to Disclose Data Collection Practices",
+      "url": "https://www.securityweek.com/new-firefox-extensions-required-to-disclose-data-collection-practices/",
+      "published": "2025-10-27T11:20:42+00:00",
+      "summary": "<p>All new extensions will be required to declare their data collection practices in their manifest file using a specific key.</p>\n<p>The post <a href=\"https://www.securityweek.com/new-firefox-extensions-required-to-disclose-data-collection-practices/\">New Firefox Extensions Required to Disclose Data Collection Practices</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "b92993d2cb3701dba5fc1a954b0a78607225b258",
+      "title": "Year-Old WordPress Plugin Flaws Exploited to Hack Websites",
+      "url": "https://www.securityweek.com/year-old-wordpress-plugin-flaws-exploited-to-hack-websites/",
+      "published": "2025-10-27T10:46:24+00:00",
+      "summary": "<p>Roughly 9 million exploit attempts were observed this month as mass exploitation of the critical vulnerabilities recommenced.</p>\n<p>The post <a href=\"https://www.securityweek.com/year-old-wordpress-plugin-flaws-exploited-to-hack-websites/\">Year-Old WordPress Plugin Flaws Exploited to Hack Websites</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "f095f5a2e7a528c3b1225c92e1a8f85c758b1fd4",
+      "title": "Ransomware Payments Dropped in Q3 2025: Analysis",
+      "url": "https://www.securityweek.com/ransomware-payments-dropped-in-q3-2025-analysis/",
+      "published": "2025-10-27T10:15:37+00:00",
+      "summary": "<p>Coveware has attributed the drop to large enterprises increasingly refusing to pay up and smaller amounts paid by mid-market firms.</p>\n<p>The post <a href=\"https://www.securityweek.com/ransomware-payments-dropped-in-q3-2025-analysis/\">Ransomware Payments Dropped in Q3 2025: Analysis</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "57844cfd175be281cbaba9aae6dab2b0f859a37c",
+      "title": "Chrome Zero-Day Exploitation Linked to Hacking Team Spyware",
+      "url": "https://www.securityweek.com/chrome-zero-day-exploitation-linked-to-hacking-team-spyware/",
+      "published": "2025-10-27T09:33:15+00:00",
+      "summary": "<p>The threat actor behind Operation ForumTroll used the same toolset typically employed in Dante spyware attacks.</p>\n<p>The post <a href=\"https://www.securityweek.com/chrome-zero-day-exploitation-linked-to-hacking-team-spyware/\">Chrome Zero-Day Exploitation Linked to Hacking Team Spyware</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
@@ -1877,50 +1921,6 @@
       "url": "https://www.securityweek.com/in-other-news-ios-26-deletes-spyware-evidence-shadow-escape-attack-cyber-exec-sold-secrets-to-russia/",
       "published": "2025-10-24T12:42:43+00:00",
       "summary": "<p>Other noteworthy stories that might have slipped under the radar: Everest group takes credit for Collins Aerospace hack, Maryland launches VDP, gamers targeted with red teaming tool and RAT.</p>\n<p>The post <a href=\"https://www.securityweek.com/in-other-news-ios-26-deletes-spyware-evidence-shadow-escape-attack-cyber-exec-sold-secrets-to-russia/\">In Other News: iOS 26 Deletes Spyware Evidence, Shadow Escape Attack, Cyber Exec Sold Secrets to Russia</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "2893fa08ebeb056f271eb4f6231807767bb6c576",
-      "title": "Toys \u2018R\u2019 Us Canada Customer Information Leaked Online",
-      "url": "https://www.securityweek.com/toys-r-us-canada-customer-information-leaked-online/",
-      "published": "2025-10-24T11:19:52+00:00",
-      "summary": "<p>The customer information published on the dark web includes names, addresses, phone numbers, and email addresses.</p>\n<p>The post <a href=\"https://www.securityweek.com/toys-r-us-canada-customer-information-leaked-online/\">Toys &#8216;R&#8217; Us Canada Customer Information Leaked Online</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "69fecba3139dfbeced7da30993d737898ba1bbfa",
-      "title": "Microsoft Disables Downloaded File Previews to Block NTLM Hash Leaks",
-      "url": "https://www.securityweek.com/microsoft-disables-downloaded-file-previews-to-block-ntlm-hash-leaks/",
-      "published": "2025-10-24T09:57:30+00:00",
-      "summary": "<p>In files downloaded from the internet, HTML tags referencing external paths could be used to leak NTLM hashes during file previews.</p>\n<p>The post <a href=\"https://www.securityweek.com/microsoft-disables-downloaded-file-previews-to-block-ntlm-hash-leaks/\">Microsoft Disables Downloaded File Previews to Block NTLM Hash Leaks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "c0ceb553e7ffa08a6d2fbd03a722236b1abe73b8",
-      "title": "Pwn2Own WhatsApp Hacker Says Exploit Privately Disclosed to Meta",
-      "url": "https://www.securityweek.com/pwn2own-whatsapp-hacker-says-exploit-privately-reported-to-meta/",
-      "published": "2025-10-24T08:01:42+00:00",
-      "summary": "<p>Questions have been raised over the technical viability of the purported WhatsApp exploit, but the researcher says he wants to keep his identity private.</p>\n<p>The post <a href=\"https://www.securityweek.com/pwn2own-whatsapp-hacker-says-exploit-privately-reported-to-meta/\">Pwn2Own WhatsApp Hacker Says Exploit Privately Disclosed to Meta</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "ddacb7b9f6d5ff00b64eddd5d800087a4da0b0e7",
-      "title": "Russian Government Now Actively Managing Cybercrime Groups: Security Firm",
-      "url": "https://www.securityweek.com/russian-government-now-actively-managing-cybercrime-groups-security-firm/",
-      "published": "2025-10-23T14:46:30+00:00",
-      "summary": "<p>The relationship between the Russian government and cybercriminal groups has evolved from passive tolerance.</p>\n<p>The post <a href=\"https://www.securityweek.com/russian-government-now-actively-managing-cybercrime-groups-security-firm/\">Russian Government Now Actively Managing Cybercrime Groups: Security Firm</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
