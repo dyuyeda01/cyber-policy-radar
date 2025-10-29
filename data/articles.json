@@ -1,12 +1,34 @@
 {
-  "generated_at": "2025-10-28T12:16:51.593516+00:00",
+  "generated_at": "2025-10-29T00:43:54.536994+00:00",
   "items": [
+    {
+      "id": "85a4f63aaaca2a22713bb1dbe30250e3288617cb",
+      "title": "Google probes exploitation of critical Windows service CVE",
+      "url": "https://www.cybersecuritydive.com/news/google-threat-researchers-probe-exploitation-critical-cve-wsus/803985/",
+      "published": "2025-10-28T14:59:10+00:00",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/v5ZwxHS6ZFhwHbLAmpWOWj1Seoc_bnNS6vCuMm05zL4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NaWNyb3NvZnRfR2V0dHlJbWFnZXMtMTUwOTMxMDM4My5qcGc=.webp\" /></div></figure><p>Researchers have traced the threat activity to a newly identified hacker, while separate evidence points to more than one variant.</p>",
+      "source": "Cybersecurity Dive",
+      "region": "North America",
+      "country": "US",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "d0ae66653deb79d5d229447c2ef64efb006336b6",
+      "title": "F5 expects nation-state hack to curb revenues",
+      "url": "https://www.cybersecuritydive.com/news/f5-cyberattack-revenue-hit-forecast/803984/",
+      "published": "2025-10-28T14:58:22+00:00",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/Q6uZdgXjvXvCk8EkEjaDcuJoI3DDphQ6HTdPQ6sW6ms/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9GNS1Ub3dlci1FeHRlcmlvci0wNS5qcGc=.webp\" /></div></figure><p>The company says it could lose new deals because of the intrusion.</p>",
+      "source": "Cybersecurity Dive",
+      "region": "North America",
+      "country": "US",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
     {
       "id": "363c2612d4e9676c68b5411d0a63f7a6388fb64f",
       "title": "Conduent says data breach originally began with 2024 intrusion",
       "url": "https://www.cybersecuritydive.com/news/conduent-data-breach-began-2024-intrusion/803930/",
       "published": "2025-10-27T21:12:33+00:00",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/qBAGm6xQnWrvFslH6BddMs9gYTbLcAPiLgkVWkT1b2M/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTk2MTU2NjQxLmpwZw==.webp\" /></div></figure><p>The cyberattack, which impacted several state agencies, has also impacted multiple insurance providers.</p>",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/qBAGm6xQnWrvFslH6BddMs9gYTbLcAPiLgkVWkT1b2M/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTk2MTU2NjQxLmpwZw==.webp\" /></div></figure><p>The cyberattack, which affected several state agencies, has also impacted multiple insurance providers.</p>",
       "source": "Cybersecurity Dive",
       "region": "North America",
       "country": "US",
@@ -90,26 +112,48 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "c2ce82ef07acc5e54f7eb527f1e7cda74b62aa48",
-      "title": "CISA\u2019s international, industry and academic partnerships slashed",
-      "url": "https://www.cybersecuritydive.com/news/cisa-stakeholder-engagement-division-layoffs-critical-infrastructure-international/803433/",
-      "published": "2025-10-22T14:35:00+00:00",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/lxfs1zJVz8s3b4SHVN6cny7lkrXe3Jnr1HuR27unGIo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9jaXNhX29mZmljZS5qcGc=.webp\" /></div></figure><p>The latest round of sweeping layoffs could hamper the business community&rsquo;s collaboration with the beleaguered cyber agency.</p>",
-      "source": "Cybersecurity Dive",
+      "id": "2d02fbf512efdc69b3740d9ec188bb845a57986c",
+      "title": "New TEE.Fail Side-Channel Attack Extracts Secrets from Intel and AMD DDR5 Secure Enclaves",
+      "url": "https://thehackernews.com/2025/10/new-teefail-side-channel-attack.html",
+      "published": "2025-10-28T19:16:00+00:00",
+      "summary": "A group of academic researchers from Georgia Tech, Purdue University, and Synkhronix have developed a side-channel attack called TEE.Fail that allows for the extraction of secrets from the trusted execution environment (TEE) in a computer's main processor, including Intel's Software Guard eXtensions (SGX) and Trust Domain Extensions (TDX) and AMD's Secure Encrypted Virtualization with Secure",
+      "source": "The Hacker News",
       "region": "North America",
       "country": "US",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7WEENR9AjQZ-WdyQPD5itMbQHGgQu79Ykq0IYfq-vThOrYHX14a_kPBXDW39gvSaT8qQpGHJ9Xb73eCO18CfNSPLOHmnp40IAZ3HDHeCmgMLxaB7sGt8w37KQkuXoFelF4letd03UWYWcFfPYtfA6g-0P7z_qAMbQjI-2Mg4htAyB71nfu7CKlqVVw2Q2/s1600/tee.jpg"
     },
     {
-      "id": "c50b6f2e84826aed99fd665cc841d81f3d18e459",
-      "title": "Jaguar Land Rover attack cost British economy $2.5 billion",
-      "url": "https://www.cybersecuritydive.com/news/jaguar-land-rover-attack-british-economy-25-billion/803491/",
-      "published": "2025-10-22T14:31:09+00:00",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/47DtuVpfmykWSfHZVVOKtd19uWfufBZzOg5HPa5c9zs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy02NDk0Mjc1MzAuanBn.webp\" /></div></figure><p>The Cyber Monitoring Centre warned that losses could rise further if the company's production isn't back to pre-incident levels by January.</p>",
-      "source": "Cybersecurity Dive",
+      "id": "fc1cb3c47672a83c1ae67c1fbdc8eda26929e7d2",
+      "title": "New Android Trojan 'Herodotus' Outsmarts Anti-Fraud Systems by Typing Like a Human",
+      "url": "https://thehackernews.com/2025/10/new-android-trojan-herodotus-outsmarts.html",
+      "published": "2025-10-28T16:33:00+00:00",
+      "summary": "Cybersecurity researchers have disclosed details of a new Android banking trojan called Herodotus that has been observed in active campaigns targeting Italy and Brazil to conduct device takeover (DTO) attacks.\n\"Herodotus is designed to perform device takeover while making first attempts to mimic human behaviour and bypass behaviour biometrics detection,\" ThreatFabric said in a report shared with",
+      "source": "The Hacker News",
       "region": "North America",
       "country": "US",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRqDg4meP42AOosMdpQlHsFbpyLK_CI4zHlECaRACwTo7Dejigq3qACm17aG33bE67yt8pWOUOrz3jbiAAGyTHSRoZAA7wL5bEvXwFLxBKPt9UXZCfxEGOi6ZF5I4AbEm8tgWrBbkMqz4fvXAHOv7R8t6Pxro5eWMJzypdAmItOAXDz_j_5TYZi7VpeylM/s1600/android-malware.jpg"
+    },
+    {
+      "id": "91d217acc153d7d80d5867b79313ed1727289855",
+      "title": "Researchers Expose GhostCall and GhostHire: BlueNoroff's New Malware Chains",
+      "url": "https://thehackernews.com/2025/10/researchers-expose-ghostcall-and.html",
+      "published": "2025-10-28T16:12:00+00:00",
+      "summary": "Threat actors tied to North Korea have been observed targeting the Web3 and blockchain sectors as part of twin campaigns tracked as GhostCall and GhostHire.\nAccording to Kaspersky, the campaigns are part of a broader operation called SnatchCrypto that has been underway since at least 2017. The activity is attributed to a Lazarus Group sub-cluster called BlueNoroff, which is also known as APT38,",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMbkAsrs6YvT6hgAJ1VD5h6DLPGjqLKZoVnv-Y9DUffXGlUHJ13omcv_O1rJJDQB7y_c8akQmP99DzBy1VAWYpxqTqY2fzxZUW0j3ON2wOQGzWt1QCyvCQGg_1R_tpZaeBadjWqFsiGPaY-zLKsWtXMEJfTpWEO2kkv_lvyl_q6Hk2Lx9EcJGCxGcsFLOK/s1600/gjost-hacker.jpg"
+    },
+    {
+      "id": "422a17518f0a1b82bca53c9198869e469559806b",
+      "title": "Why Early Threat Detection Is a Must for Long-Term Business Growth",
+      "url": "https://thehackernews.com/2025/10/why-early-threat-detection-is-must-for.html",
+      "published": "2025-10-28T11:55:00+00:00",
+      "summary": "In cybersecurity, speed isn\u2019t just a win \u2014 it\u2019s a multiplier. The faster you learn about emerging threats, the faster you adapt your defenses, the less damage you suffer, and the more confidently your business keeps scaling. Early threat detection isn\u2019t about preventing a breach someday: it\u2019s about protecting the revenue you\u2019re supposed to earn every day.\nCompanies that treat cybersecurity as a",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjahIAFVAlDP3Fg0ZEiWhBxiZNiuovhyYDTY1yaKWFxZ3inBHxDKuycmzTZMk_vJvOKVrIYlsh6_rR_-kK1VY2bR5V-E7Nw5QWvXm3UTFCUdUJyPyBo6hS5XUE4fpoPYtSzxnMRoyxINGnZeP_qWmO_QxdG4jin0uGtzYcG0qgg2Guqv8x4x7q8yuVlWLQ/s1600/anyrun-main.jpg"
     },
     {
       "id": "0f39e165a5eb99ca55daf345c7e7acbff1c8458c",
@@ -618,48 +662,48 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6wXElZ2cOoqWu0KvQRLkdOMEVEy2OErFfkGWokp1gdNCJH8_MxEnR1RMopVgNuFWuAxiCiP90_YEcQe_XEKxadsliIouePVm63amvt2JV3tORO8EQmNCh2ylwY4eQgJPNWR5aoQMPWdefC1wL_HSYTS1dFnjaAQNF3sXQbkeJxY3q7tCu4j4DaPXpJBPY/s1600/exploit.jpg"
     },
     {
-      "id": "e23f97ca0444c6b5743eb9d0f3197e2ba92b09b0",
-      "title": "Microsoft Revokes 200 Fraudulent Certificates Used in Rhysida Ransomware Campaign",
-      "url": "https://thehackernews.com/2025/10/microsoft-revokes-200-fraudulent.html",
-      "published": "2025-10-17T06:03:00+00:00",
-      "summary": "Microsoft on Thursday disclosed that it revoked more than 200 certificates used by a threat actor it tracks as Vanilla Tempest to fraudulently sign malicious binaries in ransomware attacks.\nThe certificates were \"used in fake Teams setup files to deliver the Oyster backdoor and ultimately deploy Rhysida ransomware,\" the Microsoft Threat Intelligence team said in a post shared on X.\nThe tech",
-      "source": "The Hacker News",
+      "id": "ab85f078c1000129bb1dfcbfd27b85786887fce6",
+      "title": "From Chef to CISO: An Empathy-First Approach to Cybersecurity Leadership",
+      "url": "https://www.darkreading.com/cybersecurity-operations/chef-ciso-empathy-first-cybersecurity-leadership",
+      "published": "2025-10-28T20:51:11+00:00",
+      "summary": "Myke Lyons, CISO at data-processing SaaS company Cribl, shares how he cooked up an unconventional journey from culinary school to cybersecurity leadership.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikW56LsCKHPpyfH2AIVdz2Cuy3x2z7pTgiAMRHiyYU0m-wnbxE-8zGrGaamjCX79Ypc9Hz6-JHph78BvlB56sNwYh20cI5LcVuNLrx8C9izVE7Z3o_d6KgHWpoMNENBjinWUUco_7hzc9NwxFtmC__VF0Cfud9e3q61stbWCaHG_5jDh5QEtrcSf8WsJav/s1600/ransomware-certificate.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt28db566d6300d1b9/68ff8a3e67606e8cf5c16bf3/chef1800_Westend61_GmbH_alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "74a27a043f4a00737dd0743556ec2b7bd5c8d0c1",
-      "title": "North Korean Hackers Use EtherHiding to Hide Malware Inside Blockchain Smart Contracts",
-      "url": "https://thehackernews.com/2025/10/north-korean-hackers-use-etherhiding-to.html",
-      "published": "2025-10-16T14:56:00+00:00",
-      "summary": "A threat actor with ties to the Democratic People's Republic of Korea (aka North Korea) has been observed leveraging the EtherHiding technique to distribute malware and enable cryptocurrency theft, marking the first time a state-sponsored hacking group has embraced the method.\nThe activity has been attributed by Google Threat Intelligence Group (GTIG) to a threat cluster it tracks as UNC5342,",
-      "source": "The Hacker News",
+      "id": "7a3c11831bc1c5b0a122de56330040f2d5528e82",
+      "title": "YouTube Ghost Network Utilizes Spooky Tactics to Target Users",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/youtube-ghost-network-target-users",
+      "published": "2025-10-28T20:22:39+00:00",
+      "summary": "The malware operation uses compromised accounts and bot networks to distribute infostealers and has tripled its output in 2025.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlAkWqyP-kjx3tsDRbhwCbgbYrCfv0bhsscLPeraWfsWXD0mN158-j8SWyraPNsbVa9_Iv_lMsOFckxYCbc6jtrVSE2qvKzDpErsFoHG-kp5NiCwBuPi72zjnxP1WUqdLiGnBfw4JaDD2QKdPy0PAG4YIhFZxuS6IlbfEjpvgtKVlqaKMz2aSSl_gFfOia/s1600/hacker-blockchain.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb89e9b85020e75c6/690123b3ad73935090d9a856/casper_ghost1800_Maximum_Film_alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "1a58c7f62ff3610d8bafc1f0b1b7f89259107d6b",
-      "title": "Hackers Abuse Blockchain Smart Contracts to Spread Malware via Infected WordPress Sites",
-      "url": "https://thehackernews.com/2025/10/hackers-abuse-blockchain-smart.html",
-      "published": "2025-10-16T14:52:00+00:00",
-      "summary": "A financially motivated threat actor codenamed UNC5142 has been observed abusing blockchain smart contracts as a way to facilitate the distribution of information stealers, such as Atomic (AMOS), Lumma, Rhadamanthys (aka RADTHIEF), and Vidar, targeting both Windows and Apple macOS systems.\n\"UNC5142 is characterized by its use of compromised WordPress websites and 'EtherHiding,' a technique used",
-      "source": "The Hacker News",
+      "id": "4b78fd6b57d49b89246a1173f2034129ddbcd317",
+      "title": "Oracle EBS Attack Victims May Be More Numerous Than Expected",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/oracle-ebs-attack-victims-more-numerous-expected",
+      "published": "2025-10-28T20:08:01+00:00",
+      "summary": "Numerous organizations have been attacked via Oracle EBS zero-day CVE-2025-61882, and evidence suggests more like Schneider Electric could be on that list.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0Cqqc3mBcDOatMdIAwK7axB-G3tdExlMXQISJXk_UOZIaHOI8KYKQLB4Z_HoriweeSJIEQrRFRzxMoiM5otP53eXbIbyplVZ2Ozcuw-1Do3iybM2o-Gtm-EM45k6t_vMlMbiCXumAZtQLm56SpTlqsfkkwNCB96RyMyUp8eCHnEInlvKwsyq9FY7tquu1/s1600/blockchain-malware.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt84b397e886b95360/6901186d21c8152e7e2296b9/Schneider_Electric_sign_Kristoffer_Tripplaar_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "8956b56288c74b8aaad714b4ee5c1ac903c83f11",
-      "title": "LinkPro Linux Rootkit Uses eBPF to Hide and Activates via Magic TCP Packets",
-      "url": "https://thehackernews.com/2025/10/linkpro-linux-rootkit-uses-ebpf-to-hide.html",
-      "published": "2025-10-16T14:28:00+00:00",
-      "summary": "An investigation into the compromise of an Amazon Web Services (AWS)-hosted infrastructure has led to the discovery of a new GNU/Linux rootkit dubbed LinkPro, according to findings from Synacktiv.\n\"This backdoor features functionalities relying on the installation of two eBPF [extended Berkeley Packet Filter] modules, on the one hand to conceal itself, and on the other hand to be remotely",
-      "source": "The Hacker News",
+      "id": "926879968ae51d607a1636dc5ec6ca7d1ed2752d",
+      "title": "North Korea's BlueNoroff Expands Scope of Crypto Heists",
+      "url": "https://www.darkreading.com/threat-intelligence/north-korea-bluenoroff-expands-crypto-heists",
+      "published": "2025-10-28T16:10:39+00:00",
+      "summary": "Two campaigns targeting fintech execs and Web3 developers show the APT going cross-platform in financially motivated campaigns that use fake business collaboration and job recruitment lures.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiI-cDOtGBRZfQEbBlDLNhFzLj2mAPT6gHnq3bEnJD-FcJ0ci_C9GdgiHyOIg9S0XYwu6aOX-JPwAtjK953a7yjE-RYyTGziZLHi0nzZJlWsBakdMcDYuI4EVNkx0Xv67lsGmB7S-nJbNn1kcb6PK54WxA5us3KsZrVIyfk579v9SkQpNo_iNadEM_FN09I/s1600/linux.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt57db0c11334bd5df/6900ac3379e29d67ed93d84c/northkorea_DD_Images_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "id": "2c591ae0a4c2db755d668e9cc41be0f00db5199a",
@@ -670,7 +714,7 @@
       "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt766cd9ade612e2d2/68ffcda93805102c1f620688/giftcards_Point_designz_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6dd3a7d51ad2fd2a/6900e08a0473aa12e1362437/jinglebells-Hana_Bartosova-alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "id": "26990a52ed5dcae0eaa80c7d2877af1eb9a72398",
@@ -693,6 +737,17 @@
       "region": "North America",
       "country": "US",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt33360cbc40729951/68ffc2677c34e84dcd9b2694/slip_on_banana_peel_Sean_Prior_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
+      "id": "fab30da8afdaf3ad3561d4ec0ee58be23a1d512a",
+      "title": "Attackers Sell Turnkey Remote Access Trojan 'Atroposia'",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/attackers-sell-turnkey-remote-access-trojan-atroposia",
+      "published": "2025-10-27T19:10:22+00:00",
+      "summary": "Atroposia, a new RAT malware, offers low-level cybercriminal affiliates the ability to utilize sophisticated stealth and persistence capabilities.",
+      "source": "DarkReading",
+      "region": "North America",
+      "country": "US",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt20f233f40774c34c/68ffc53cc47bde160bedf33c/Trojan_Horse_IanDagnall_Computing_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "id": "8238cac39a11e48cc06fb34f57ea8c77201c470e",
@@ -1157,59 +1212,26 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9775c40c2b927984/68eea3a8f2406b460cba70ad/pixel_lcd_crack_Ruslan_Sidorov_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "1800f9afbb333cf2c2bbc2bcbf9ae9b43033db18",
-      "title": "Financial, Other Industries Urged to Prepare for Quantum Computers",
-      "url": "https://www.darkreading.com/cybersecurity-operations/financial-industries-urged-prepare-quantum-computers",
-      "published": "2025-10-13T15:01:28+00:00",
-      "summary": "Despite daunting technical challenges, a quantum computer capable of breaking public-key encryption systems may be only a decade or two off.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2577cacde8c7e223/68e7cf839d1f064e534b072a/quantum-computer-CES-2020-Audio_und_werbung-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "id": "76e1755f336008686db456cccac839bb9231fb2f",
+      "title": "Clearview AI faces criminal heat for ignoring EU data fines",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2025/10/28/noyb_criminal_charges_clearview/",
+      "published": "2025-10-28T14:22:09+00:00",
+      "summary": "<h4>Noyb says New York-based facial recognition biz flouted GDPR orders and kept scraping anyway</h4> <p>Privacy advocates at Noyb filed a criminal complaint against Clearview AI for scraping social media users' faces without consent to train its AI algorithms.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "d0371bf8a1ad9ba4268911b55b052f47c1189f4b",
-      "title": "Critical infrastructure CISOs Can't Ignore 'Back-Office Clutter' Data",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/critical-infrastructure-back-office-data",
-      "published": "2025-10-13T14:00:00+00:00",
-      "summary": "OT and ICS systems indeed hold the crown jewels of critical infrastructure organizations, but unmonitored data sprawl is proving to be pure gold for increasingly brazen nation-state threat actors like Volt Typhoon, Pearce argues.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltdc320484fa633f86/68ee6db8c0d7b116653de2f7/leaky_data_rico_ploeg_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
-      "id": "63d63d82508f2237a33132318f22be0a1ef33350",
-      "title": "Generation AI: Why Today's Tech Graduates Are At a Disadvantage",
-      "url": "https://www.darkreading.com/cybersecurity-operations/ai-tech-graduates-disadvantage",
-      "published": "2025-10-13T13:30:00+00:00",
-      "summary": "With artificial intelligence supplanting entry-level security jobs, new cyber professionals will have to up their game to stay competitive in the industry.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta291ab79db52ed46/6733b80da833ce32052be946/AI_(1800)_Andreas_Prott_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
-      "id": "3377ed7bfdbadf9370b2ed4925ac00065d40e10d",
-      "title": "1Password Addresses Critical AI Browser Agent Security Gap",
-      "url": "https://www.darkreading.com/identity-access-management-security/1password-addresses-critical-ai-browser-agent-security-gap",
-      "published": "2025-10-10T21:27:30+00:00",
-      "summary": "The security company looks to tackle new authentication challenges that could lead to credential leakage, as enterprises increasingly leverage AI browser agents.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt097d7736537417aa/64f153edb87aa7d03b15b08e/credentials-NicoElNino-AdobeStock.jpeg?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
-      "id": "9a835631709c8ae52102d5b6638d8c36372088be",
-      "title": "RondoDox Botnet: an 'Exploit Shotgun' for Edge Vulns",
-      "url": "https://www.darkreading.com/endpoint-security/rondodox-botnet-exploit-edge-vulns",
-      "published": "2025-10-10T19:22:57+00:00",
-      "summary": "RondoDox takes a hit-and-run, shotgun approach to exploiting bugs in consumer edge devices around the world.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt17f1b8e7c374263b/68e944e3647461684294a10f/Shotgun-Norimages-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "id": "5c97f755237cb71519a5612c0716a63dabf005c4",
+      "title": "AI browsers face a security flaw as inevitable as death and taxes",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2025/10/28/ai_browsers_prompt_injection/",
+      "published": "2025-10-28T12:46:59+00:00",
+      "summary": "<h4>Agentic features open the door to data exfiltration or worse</h4> <p><strong>Feature</strong>\u00a0 With great power comes great vulnerability. Several new AI browsers, including OpenAI's Atlas, offer the ability to take actions on the user's behalf, such as opening web pages or even shopping. But these added capabilities create new attack vectors, particularly prompt injection.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
       "id": "787dc3ae7dcf9413d77e629f3273f0bd0bbef15f",
@@ -1740,28 +1762,6 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "043e5ece0a6e51a2b09377bb64d7936ac6adb266",
-      "title": "Mozilla is recruiting beta testers for a free, baked-in Firefox VPN",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/10/14/mozilla_firefox_vpn_beta/",
-      "published": "2025-10-14T13:28:06+00:00",
-      "summary": "<h4>Lucky few randomly selected to trial the feature, which won't fully roll out for several months</h4> <p>Mozilla is working on a built-in VPN for Firefox, with beta tests opening to select users shortly.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "178a73ee7451628b2a1d00038682bc08deffa7bf",
-      "title": "Oracle rushes out another emergency E-Business Suite patch as Clop fallout widens",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/10/14/oracle_rushes_out_another_emergency/",
-      "published": "2025-10-14T12:32:49+00:00",
-      "summary": "<h4>Latest in a long line of EBS flaws leta miscreants remotely compromise enterprise systems to pinch sensitive data</h4> <p>Oracle is rushing out another emergency patch for its embattled E-Business Suite as the fallout from the Clop-linked attacks continues to spread.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
       "id": "9d44f13dac3335d6f7398aab1268ff50853a4ac6",
       "title": "Canada Fines Cybercrime Friendly Cryptomus $176M",
       "url": "https://krebsonsecurity.com/2025/10/canada-fines-cybercrime-friendly-cryptomus-176m/",
@@ -1817,6 +1817,61 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "ff50c399a64c8d13221440359f9c24245cf13683",
+      "title": "Stragglers From Myanmar Scam Center Raided by Army Cross Into Thailand as Buildings are Blown Up",
+      "url": "https://www.securityweek.com/stragglers-from-myanmar-scam-center-raided-by-army-cross-into-thailand-as-buildings-are-blown-up/",
+      "published": "2025-10-28T17:36:19+00:00",
+      "summary": "<p>Witnesses on the Thai side of the border reported hearing explosions and seeing smoke coming from the center over the past several nights starting on Friday.</p>\n<p>The post <a href=\"https://www.securityweek.com/stragglers-from-myanmar-scam-center-raided-by-army-cross-into-thailand-as-buildings-are-blown-up/\">Stragglers From Myanmar Scam Center Raided by Army Cross Into Thailand as Buildings are Blown Up</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "b84698f099ae98adc4fa64c7b05a88c0ac4aa065",
+      "title": "QNAP NetBak PC Agent Affected by Recent ASP.NET Core Vulnerability",
+      "url": "https://www.securityweek.com/qnap-netbak-pc-agent-affected-by-recent-asp-net-core-vulnerability/",
+      "published": "2025-10-28T14:47:41+00:00",
+      "summary": "<p>The critical-severity flaw allows attackers to smuggle HTTP requests and access sensitive data, modify server files, or cause DoS conditions.</p>\n<p>The post <a href=\"https://www.securityweek.com/qnap-netbak-pc-agent-affected-by-recent-asp-net-core-vulnerability/\">QNAP NetBak PC Agent Affected by Recent ASP.NET Core Vulnerability</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "02ced914158bd30e3f3fc640cf40149ad5204f14",
+      "title": "SimSpace Raises $39 Million for Cyber Range Platform",
+      "url": "https://www.securityweek.com/simspace-raises-39-million-for-cyber-range-platform/",
+      "published": "2025-10-28T14:26:02+00:00",
+      "summary": "<p>SimSpace provides realistic cyber ranges where organizations can test attack preparedness and validate defenses.</p>\n<p>The post <a href=\"https://www.securityweek.com/simspace-raises-39-million-for-cyber-range-platform/\">SimSpace Raises $39 Million for Cyber Range Platform</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "e24d646246732121ab72d2258ac3d57e90933a7b",
+      "title": "TurboMirai-Class \u2018Aisuru\u2019 Botnet Blamed for 20+ Tbps DDoS Attacks",
+      "url": "https://www.securityweek.com/turbomirai-class-aisuru-botnet-blamed-for-20-tbps-ddos-attacks/",
+      "published": "2025-10-28T13:55:20+00:00",
+      "summary": "<p>A new class of Mirai-based DDoS botnets have been launching massive attacks, but their inability to spoof traffic enables device remediation.</p>\n<p>The post <a href=\"https://www.securityweek.com/turbomirai-class-aisuru-botnet-blamed-for-20-tbps-ddos-attacks/\">TurboMirai-Class &#8216;Aisuru&#8217; Botnet Blamed for 20+ Tbps DDoS Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "79e18c0b259c98cd48d802d25e14692a5da9e94d",
+      "title": "Sublime Security Raises $150 Million for Email Security Platform",
+      "url": "https://www.securityweek.com/sublime-security-raises-150-million-for-email-security-platform/",
+      "published": "2025-10-28T13:09:25+00:00",
+      "summary": "<p>Sublime Security\u2019s Series C funding round brings the total raised by the company to more than $240 million.</p>\n<p>The post <a href=\"https://www.securityweek.com/sublime-security-raises-150-million-for-email-security-platform/\">Sublime Security Raises $150 Million for Email Security Platform</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "d1ec46d9ff76350747fe953e4ac400c9ad5ec11f",
       "title": "Industrial Giants Schneider Electric and Emerson Named as Victims of Oracle Hack",
       "url": "https://www.securityweek.com/industrial-giants-schneider-electric-and-emerson-named-as-victims-of-oracle-hack/",
@@ -1866,61 +1921,6 @@
       "url": "https://www.securityweek.com/massive-china-linked-smishing-campaign-leveraged-194000-domains/",
       "published": "2025-10-27T13:28:03+00:00",
       "summary": "<p>The malicious Smishing Triad domains were used to collect sensitive information, including Social Security numbers.</p>\n<p>The post <a href=\"https://www.securityweek.com/massive-china-linked-smishing-campaign-leveraged-194000-domains/\">Massive China-Linked Smishing Campaign Leveraged 194,000 Domains</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "e7ad7398df82b1d99633b2c2123b080bf4b9bf55",
-      "title": "New Firefox Extensions Required to Disclose Data Collection Practices",
-      "url": "https://www.securityweek.com/new-firefox-extensions-required-to-disclose-data-collection-practices/",
-      "published": "2025-10-27T11:20:42+00:00",
-      "summary": "<p>All new extensions will be required to declare their data collection practices in their manifest file using a specific key.</p>\n<p>The post <a href=\"https://www.securityweek.com/new-firefox-extensions-required-to-disclose-data-collection-practices/\">New Firefox Extensions Required to Disclose Data Collection Practices</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "b92993d2cb3701dba5fc1a954b0a78607225b258",
-      "title": "Year-Old WordPress Plugin Flaws Exploited to Hack Websites",
-      "url": "https://www.securityweek.com/year-old-wordpress-plugin-flaws-exploited-to-hack-websites/",
-      "published": "2025-10-27T10:46:24+00:00",
-      "summary": "<p>Roughly 9 million exploit attempts were observed this month as mass exploitation of the critical vulnerabilities recommenced.</p>\n<p>The post <a href=\"https://www.securityweek.com/year-old-wordpress-plugin-flaws-exploited-to-hack-websites/\">Year-Old WordPress Plugin Flaws Exploited to Hack Websites</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "f095f5a2e7a528c3b1225c92e1a8f85c758b1fd4",
-      "title": "Ransomware Payments Dropped in Q3 2025: Analysis",
-      "url": "https://www.securityweek.com/ransomware-payments-dropped-in-q3-2025-analysis/",
-      "published": "2025-10-27T10:15:37+00:00",
-      "summary": "<p>Coveware has attributed the drop to large enterprises increasingly refusing to pay up and smaller amounts paid by mid-market firms.</p>\n<p>The post <a href=\"https://www.securityweek.com/ransomware-payments-dropped-in-q3-2025-analysis/\">Ransomware Payments Dropped in Q3 2025: Analysis</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "57844cfd175be281cbaba9aae6dab2b0f859a37c",
-      "title": "Chrome Zero-Day Exploitation Linked to Hacking Team Spyware",
-      "url": "https://www.securityweek.com/chrome-zero-day-exploitation-linked-to-hacking-team-spyware/",
-      "published": "2025-10-27T09:33:15+00:00",
-      "summary": "<p>The threat actor behind Operation ForumTroll used the same toolset typically employed in Dante spyware attacks.</p>\n<p>The post <a href=\"https://www.securityweek.com/chrome-zero-day-exploitation-linked-to-hacking-team-spyware/\">Chrome Zero-Day Exploitation Linked to Hacking Team Spyware</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "63a8a16ef1866bcc03e574876c224a47ba6ec785",
-      "title": "$1M WhatsApp Hack Flops: Only Low-Risk Bugs Disclosed to Meta After Pwn2Own Withdrawal",
-      "url": "https://www.securityweek.com/1m-whatsapp-hack-flops-only-low-risk-bugs-disclosed-to-meta-after-pwn2own-withdrawal/",
-      "published": "2025-10-25T11:36:28+00:00",
-      "summary": "<p>WhatsApp told SecurityWeek that the two low-impact vulnerabilities cannot be used for arbitrary code execution.\u00a0</p>\n<p>The post <a href=\"https://www.securityweek.com/1m-whatsapp-hack-flops-only-low-risk-bugs-disclosed-to-meta-after-pwn2own-withdrawal/\">$1M WhatsApp Hack Flops: Only Low-Risk Bugs Disclosed to Meta After Pwn2Own Withdrawal</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
