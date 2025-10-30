@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-30T00:43:25.321034+00:00",
+  "generated_at": "2025-10-30T12:17:00.008749+00:00",
   "items": [
     {
       "id": "3a9002c9395f323e00b86b3effb46bdca28f8f12",
@@ -110,6 +110,28 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "c38e4f0b5f4f5b9225fe47505a9a469f87609089",
+      "title": "ThreatsDay Bulletin: DNS Poisoning Flaw, Supply-Chain Heist, Rust Malware Trick and New RATs Rising",
+      "url": "https://thehackernews.com/2025/10/threatsday-bulletin-dns-poisoning-flaw.html",
+      "published": "2025-10-30T10:54:00+00:00",
+      "summary": "The comfort zone in cybersecurity is gone. Attackers are scaling down, focusing tighter, and squeezing more value from fewer, high-impact targets. At the same time, defenders face growing blind spots &mdash; from spoofed messages to large-scale social engineering.\nThis week&rsquo;s findings show how that shrinking margin of safety is redrawing the threat landscape. Here&rsquo;s what&rsquo;s",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgFjzmzkNrkKADylrwEMbXfJunGKEjaABUl6du-8jHmRjLcCttz7ppiq6xeoln6n2HiAd84y27XQD1LtPPlGSMbqVOk0S3xfdWlTa9ng7reAU4iAapmmJlorwCam4AyT4Sdw3KiNXyx_KLuuH6_uCdxLBLjyO7fvUzx2OwecJv0_hOR8svqk1aQLrY5O6R/s1600/threatsday-main.jpg"
+    },
+    {
+      "id": "6ddf62cd90f6e2d540b103013347542a99450088",
+      "title": "PhantomRaven Malware Found in 126 npm Packages Stealing GitHub Tokens From Devs",
+      "url": "https://thehackernews.com/2025/10/phantomraven-malware-found-in-126-npm.html",
+      "published": "2025-10-30T10:16:00+00:00",
+      "summary": "Cybersecurity researchers have uncovered yet another active software supply chain attack campaign targeting the npm registry with over 100 malicious packages that can steal authentication tokens, CI/CD secrets, and GitHub credentials from developers' machines.\nThe campaign has been codenamed PhantomRaven by Koi Security. The activity is assessed to have begun in August 2025, when the first",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj31UtIt0Lur5O3mf05d1BdnLD2HsKoFcI_Vaw9588BLmRnbIc-KOZw0fu3zEOBPjuPruB5dQl5meERoueSccVt_u6jjX9Kegwb_eE9Or4tfMxksfhb66Ae8eEcesNFRMwv93aRxrZdvKtFZ1_4VdbYKyOQ7O01bOmo4KeW8y76Rp46ezeMZniD1T63D76n/s1600/github.jpg"
     },
     {
       "id": "403719fe8288d2f6813132864106b1235920c040",
@@ -640,26 +662,15 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiN5kly7iFKUp7UBUq7oHKiUGJ80W3o91xqoevd_txiAmElk-EIlQ0ElPbz3_WlYGw67bLyZJkDPWPIUSGosXJk28DbZU930KYLdyO0p3xzqAcS4tFWCQUq2Q-5HrxdZOcBwuCud9lzkLD4LDecrNp0p6-A4P0w-A0GXBpWyzq9T6bWVTpblMlIpOo_Infg/s1600/recap-main.jpg"
     },
     {
-      "id": "09d6e2317e1d8e23b993467b0cdd0ccc12817d42",
-      "title": "Analysing ClickFix: 3 Reasons Why Copy/Paste Attacks Are Driving Security Breaches",
-      "url": "https://thehackernews.com/2025/10/analysing-clickfix-3-reasons-why.html",
-      "published": "2025-10-20T11:55:00+00:00",
-      "summary": "ClickFix, FileFix, fake CAPTCHA \u2014 whatever you call it, attacks where users interact with malicious scripts in their web browser are a fast-growing source of security breaches.&nbsp;\nClickFix attacks prompt the user to solve some kind of problem or challenge in the browser \u2014 most commonly a CAPTCHA, but also things like fixing an error on a webpage.&nbsp;\nThe name is a little misleading, though",
-      "source": "The Hacker News",
+      "id": "5cdd179b5045271af9b49fa0aacce6bfc7feca56",
+      "title": "Data Leak Outs Students of Iran's MOIS Training Academy",
+      "url": "https://www.darkreading.com/threat-intelligence/data-leak-students-iran-mois-training-academy",
+      "published": "2025-10-30T06:00:00+00:00",
+      "summary": "A school for the Iranian state hackers of tomorrow has itself, ironically, been hacked.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgX5038UqY-M1JonfIYTCdPFsPCsb09z9DKaRKFYnUKX8zHbn3_Sm1REhOYuMZmA-kMjLMSO9b3W9-8IRdWHqb4MDCP4s0o4t1FW7CvWbbCboLOQE8tlewbQ4BxBONZAMKRfJIc4rwCgejK5hp-_zhV9W5cuO44S38f6pVa0TAfKd8F86l5PjAZUel1Xuk/s1600/push.jpg"
-    },
-    {
-      "id": "bf3a14440a9beb570353282be2a56a8d7a0dbf64",
-      "title": "131 Chrome Extensions Caught Hijacking WhatsApp Web for Massive Spam Campaign",
-      "url": "https://thehackernews.com/2025/10/131-chrome-extensions-caught-hijacking.html",
-      "published": "2025-10-20T10:47:00+00:00",
-      "summary": "Cybersecurity researchers have uncovered a coordinated campaign that leveraged 131 rebranded clones of a WhatsApp Web automation extension for Google Chrome to spam Brazilian users at scale.\nThe 131 spamware extensions share the same codebase, design patterns, and infrastructure, according to supply chain security company Socket. The browser add-ons collectively have about 20,905 active users.\n\"",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXakHQ6GIVNqxANLePApKp1lgLfEZJrBJhrZhuDLjh3HVt1QYS9LEa1u9GPp7K_-dD6CLo2sHxW8tbZjUEnq1XcFsdmyomem3hctdRwjIsfi9r4CSWaYrM2zdmeVcE_E8N5RRS6JyVl1v282R3lVGo6nAahd7S1SGG7mWExLdF_VZn8GAc1ahORCjZAg4Q/s1600/whatsapp-web.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltadf85273d19e0ede/68d1ab774c68b01d432a44fa/iran_karen_roach_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "id": "e719bbe3bc407aa5c626c72699a6ed98aa3ae09e",
@@ -1201,15 +1212,37 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt275c856c5fd55702/68f1393c0cb2486cca529171/LastPass-SOPA_Images_Limited-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "8c4702861a8047537220bb2c4e2d5094996dd67b",
-      "title": "Leaks in Microsoft VS Code Marketplace Put Supply Chain at Risk",
-      "url": "https://www.darkreading.com/application-security/leaks-microsoft-vs-code-marketplaces-supply-chain-risks",
-      "published": "2025-10-16T19:54:20+00:00",
-      "summary": "Researchers discovered more than 550 unique secrets exposed in Visual Studio Code marketplaces, prompting Microsoft to bolster security measures.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt780a7006838fc407/68f14617b66afe6feffa3b69/VSCode_Postmodern_Studio_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "id": "91cd67562676878cc1814fb1f6ff0178375e0c3d",
+      "title": "Cyberpunks mess with Canada's water, energy, and farm systems",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2025/10/30/hacktivists_canadian_ics_systems/",
+      "published": "2025-10-30T12:00:41+00:00",
+      "summary": "<h4>Infosec agency warns hacktivists broke into critical infrastructure systems to tamper with controls</h4> <p>Hacktivists have breached Canadian critical infrastructure systems to meddle with controls that could have led to dangerous conditions, marking the latest in a string of real-world intrusions driven by online activists rather than spies.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "4de2a1d8181530c2be7a30f9dd75681fe583e2dd",
+      "title": "Postcode Lottery's lucky dip turns into data slip as players draw each other's info",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2025/10/30/peoples_postcode_lottery_breach/",
+      "published": "2025-10-30T10:54:05+00:00",
+      "summary": "<h4>Biz says 'technical error' caused short-lived leak affecting small number of users</h4> <p>A major UK lottery organization says it has resolved a technical error that exposed customer data to other users.\u2026</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "e1ad2b4be4f8d188a371535895a16615d9bbec6d",
+      "title": "France jacks into the Matrix for state messaging \u2013 and pays too",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2025/10/30/france_matrix/",
+      "published": "2025-10-30T10:15:10+00:00",
+      "summary": "<h4>Governments eye comms alternatives as sovereignty worries mount</h4> <p><strong>Comment</strong>\u00a0 Decentralized communications network Matrix is hoping to be the beneficiary as European public and private sector organizations ponder alternatives to the messaging status quo.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
       "id": "aa5758bac4f308da89987617bc3a64defcabb417",
@@ -1729,39 +1762,6 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "4ad251fff5cb1cdb0659e4465df4c0908b5f2241",
-      "title": "Chinese cyberspies snoop on Russian IT biz in rare east-on-east attack",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/10/16/chinese_russian_cyber_espionage/",
-      "published": "2025-10-16T16:27:21+00:00",
-      "summary": "<h4>Who needs enemies when you have friends like Xi?</h4> <p>China's cyberspies quietly broke into a Russian IT service provider in what researchers say is a rare example of Beijing turning its digital gaze on Moscow.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "6f46d519bc216801c6ebc9495a4cc8c40559bb41",
-      "title": "Locked out of your Gmail account? Google says phone a friend",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/10/16/google_gmail_trusted_contacts/",
-      "published": "2025-10-16T14:10:10+00:00",
-      "summary": "<h4>Recovery feature lets trusted contacts help you get back in when other methods fail</h4> <p>The latest security feature for Gmail enables users to recover their accounts with a little help from their friends.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "7a6af0e57cb9e1748145a59c3ffc5b96224137f8",
-      "title": "Microsoft kills 9.9-rated ASP.NET Core bug \u2013 'our highest ever' score",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/10/16/microsoft_aspnet_core_vulnerability/",
-      "published": "2025-10-16T13:32:10+00:00",
-      "summary": "<h4>Flaw in Kestrel web server allowed request smuggling, impact depends on hosting setup and application code</h4> <p>Microsoft has patched an ASP.NET Core vulnerability with a CVSS score of 9.9, which security program manager Barry Dorrans said was \"our highest ever.\" The flaw is in the Kestrel web server component and enables security bypass.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
       "id": "3b56b31cfa227705e3233f4603500fd71ae1a9a3",
       "title": "Aisuru Botnet Shifts from DDoS to Residential Proxies",
       "url": "https://krebsonsecurity.com/2025/10/aisuru-botnet-shifts-from-ddos-to-residential-proxies/",
@@ -1823,6 +1823,39 @@
       "published": "2025-10-07T22:45:35+00:00",
       "summary": "A cybercriminal group that used voice phishing attacks to siphon more than a billion records from Salesforce customers earlier this year has launched a website that threatens to publish data stolen from dozens of Fortune 500 firms if they refuse to pay a ransom. The group also claimed responsibility for a recent breach involving Discord user data, and for stealing terabytes of sensitive files from thousands of customers of the enterprise software maker Red Hat.",
       "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "fad132c1a14788f9eeb0b952cdab41a2a2fdefa7",
+      "title": "Canada Says Hackers Tampered With ICS at Water Facility, Oil and Gas Firm",
+      "url": "https://www.securityweek.com/canada-says-hackers-tampered-with-ics-at-water-facility-oil-and-gas-firm/",
+      "published": "2025-10-30T11:36:39+00:00",
+      "summary": "<p>The Canadian Centre for Cyber Security has warned CISOs that hacktivists are increasingly targeting internet-exposed ICS.</p>\n<p>The post <a href=\"https://www.securityweek.com/canada-says-hackers-tampered-with-ics-at-water-facility-oil-and-gas-firm/\">Canada Says Hackers Tampered With ICS at Water Facility, Oil and Gas Firm</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "4b03bf494b426dcc6fa22d3a33d19f1e0d08e853",
+      "title": "136 NPM Packages Delivering Infostealers Downloaded 100,000 Times",
+      "url": "https://www.securityweek.com/136-npm-packages-delivering-infostealers-downloaded-100000-times/",
+      "published": "2025-10-30T10:59:33+00:00",
+      "summary": "<p>The packages deployed malicious code harvesting system information, credentials, tokens, API keys, and other sensitive information.</p>\n<p>The post <a href=\"https://www.securityweek.com/136-npm-packages-delivering-infostealers-downloaded-100000-times/\">136 NPM Packages Delivering Infostealers Downloaded 100,000 Times</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "8eb78694c744885e71f180ff89f225a1dba6a1a3",
+      "title": "Former US Defense Contractor Executive Admits to Selling Exploits to Russia",
+      "url": "https://www.securityweek.com/former-defense-contractor-executive-admits-to-selling-exploits-to-russia/",
+      "published": "2025-10-30T09:32:10+00:00",
+      "summary": "<p>Peter Williams stole trade secrets from his US employer and sold them to a Russian cybersecurity tools broker.</p>\n<p>The post <a href=\"https://www.securityweek.com/former-defense-contractor-executive-admits-to-selling-exploits-to-russia/\">Former US Defense Contractor Executive Admits to Selling Exploits to Russia</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
@@ -1899,39 +1932,6 @@
       "url": "https://www.securityweek.com/cisa-warns-of-exploited-delmia-factory-software-vulnerabilities/",
       "published": "2025-10-29T08:24:31+00:00",
       "summary": "<p>Two DELMIA Apriso flaws can be chained together to gain privileged access to the application and execute arbitrary code remotely.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisa-warns-of-exploited-delmia-factory-software-vulnerabilities/\">CISA Warns of Exploited DELMIA Factory Software Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "b734ab4a6f5cdee673d0cefa4ef6bcd44baa8648",
-      "title": "New Attack Targets DDR5 Memory to Steal Keys From Intel and AMD TEEs",
-      "url": "https://www.securityweek.com/new-attack-targets-ddr5-memory-to-steal-keys-from-intel-and-amd-tees/",
-      "published": "2025-10-29T07:45:11+00:00",
-      "summary": "<p>Intel and AMD have published advisories after academics disclosed details of the new TEE.fail attack method.</p>\n<p>The post <a href=\"https://www.securityweek.com/new-attack-targets-ddr5-memory-to-steal-keys-from-intel-and-amd-tees/\">New Attack Targets DDR5 Memory to Steal Keys From Intel and AMD TEEs\u00a0</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "ff50c399a64c8d13221440359f9c24245cf13683",
-      "title": "Stragglers From Myanmar Scam Center Raided by Army Cross Into Thailand as Buildings are Blown Up",
-      "url": "https://www.securityweek.com/stragglers-from-myanmar-scam-center-raided-by-army-cross-into-thailand-as-buildings-are-blown-up/",
-      "published": "2025-10-28T17:36:19+00:00",
-      "summary": "<p>Witnesses on the Thai side of the border reported hearing explosions and seeing smoke coming from the center over the past several nights starting on Friday.</p>\n<p>The post <a href=\"https://www.securityweek.com/stragglers-from-myanmar-scam-center-raided-by-army-cross-into-thailand-as-buildings-are-blown-up/\">Stragglers From Myanmar Scam Center Raided by Army Cross Into Thailand as Buildings are Blown Up</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "b84698f099ae98adc4fa64c7b05a88c0ac4aa065",
-      "title": "QNAP NetBak PC Agent Affected by Recent ASP.NET Core Vulnerability",
-      "url": "https://www.securityweek.com/qnap-netbak-pc-agent-affected-by-recent-asp-net-core-vulnerability/",
-      "published": "2025-10-28T14:47:41+00:00",
-      "summary": "<p>The critical-severity flaw allows attackers to smuggle HTTP requests and access sensitive data, modify server files, or cause DoS conditions.</p>\n<p>The post <a href=\"https://www.securityweek.com/qnap-netbak-pc-agent-affected-by-recent-asp-net-core-vulnerability/\">QNAP NetBak PC Agent Affected by Recent ASP.NET Core Vulnerability</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
