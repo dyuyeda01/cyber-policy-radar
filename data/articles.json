@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-31T00:41:54.327657+00:00",
+  "generated_at": "2025-10-31T12:17:48.771732+00:00",
   "items": [
     {
       "id": "3172ec66c1f9af111ec1920dfccd78c8d531c4ca",
@@ -110,6 +110,61 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "ac825680e3d11f43bc3f9a17b46815717db0c0e4",
+      "title": "The MSP Cybersecurity Readiness Guide: Turning Security into Growth",
+      "url": "https://thehackernews.com/2025/10/the-msp-cybersecurity-readiness-guide.html",
+      "published": "2025-10-31T11:30:00+00:00",
+      "summary": "MSPs are facing rising client expectations for strong cybersecurity and compliance outcomes, while threats grow more complex and regulatory demands evolve. Meanwhile, clients are increasingly seeking comprehensive protection without taking on the burden of managing security themselves.\nThis shift represents a major growth opportunity. By delivering advanced cybersecurity and compliance",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqekRxhqSIMwXW-91BTf99RLxdfwXB5-1vhEwnAeSX55XbaEU2fhjyDONSC1rnBDBMseaqYwmBpe4nYpyDlg7m9cmg5u-934M1hZSWzihqR7Ll0acZ7jqLUcL6m9S8h-KZPMqLDyC5x3kTr4rZ3q6uUA7Lt4nWYlwr3ddJnK4AofUxhkKVl4PI0CJXoI8/s1600/TurnSecurityIntoGrowth.png"
+    },
+    {
+      "id": "0b3554f64a0e9bdd5eda5aff36b87e16af7c679c",
+      "title": "CISA and NSA Issue Urgent Guidance to Secure WSUS and Microsoft Exchange Servers",
+      "url": "https://thehackernews.com/2025/10/cisa-and-nsa-issue-urgent-guidance-to.html",
+      "published": "2025-10-31T08:46:00+00:00",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) and National Security Agency (NSA), along with international partners from Australia and Canada, have released guidance to harden on-premise Microsoft Exchange Server instances from potential exploitation.\n\"By restricting administrative access, implementing multi-factor authentication, enforcing strict transport security",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjA0I1Jx6uIEdkIQQM9RnxL2Ki39vb2gH7eog9Bm7oLXHB3Ia60PLtDJsEuqlPrOsZLL9UJZ3YnnlRxxQv0zGB_pNQcpQvDlxnFR1c6_iN-NzNkRMt3sW38md0OI8cJDfVQ5wp6rvZD32HiKk_NuHiFdTbo0mQRf8BfoNVFmp283z-01nb_Z7oGhyqSdE4P/s1600/ms.jpg"
+    },
+    {
+      "id": "22af6b3b39bbeb530e36711b02d35d4379ff5105",
+      "title": "Eclipse Foundation Revokes Leaked Open VSX Tokens Following Wiz Discovery",
+      "url": "https://thehackernews.com/2025/10/eclipse-foundation-revokes-leaked-open.html",
+      "published": "2025-10-31T08:02:00+00:00",
+      "summary": "Eclipse Foundation, which maintains the open-source Open VSX project, said it has taken steps to revoke a small number of tokens that were leaked within Visual Studio Code (VS Code) extensions published in the marketplace.\nThe action comes following a report from cloud security company Wiz earlier this month, which found several extensions from both Microsoft's VS Code Marketplace and Open VSX",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmAGBrh3pirqFHrsdc4kBfinnWBWhRLbAAwa39k5lyd-X941olCKyizc7VGdYORWLq6aBGn3l6f4zMwwUApVP3pfEk_dzr31Kh1eiBZjzzoqik3-9UrwJmD8eWbjd8OY7clyxw1qqOHcBCarQxd-7hvKhhiLjl6fRbBUl-UV4Dvs5KAWLbHwTNkYxAfIBC/s1600/open.jpg"
+    },
+    {
+      "id": "c71861ff032b1eb33dc581c2aa2f0dafc02f8404",
+      "title": "CISA Flags VMware Zero-Day Exploited by China-Linked Hackers in Active Attacks",
+      "url": "https://thehackernews.com/2025/10/cisa-flags-vmware-zero-day-exploited-by.html",
+      "published": "2025-10-31T07:09:00+00:00",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a high-severity security flaw impacting Broadcom VMware Tools and VMware Aria Operations to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation in the wild.\nThe vulnerability in question is CVE-2025-41244 (CVSS score: 7.8), which could be exploited by an attacker to attain",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgI9b0-qhv23XfDSOcojqy0VRkWHB99nq_dbwTnEfuC2Osi_-aKm2iRqK7rip6h8Gh4C4hP6ySCTTm_OoKVpLRIzNJBPcsoQlVjry-zfmX71nhF4-84Gd4D7XCPhPN8v6CkBo6PJUh5zv-hLSjXQNFi0dW5yS7Dbk03PSNEVCn8nEUGvO6NvV7cDmoYHfaF/s1600/vmware.jpg"
+    },
+    {
+      "id": "2680c6294e08341cd49144ee80d5ed46276c4e72",
+      "title": "A New Security Layer for macOS Takes Aim at Admin Errors Before Hackers Do",
+      "url": "https://thehackernews.com/2025/10/a-new-security-layer-for-macos-takes.html",
+      "published": "2025-10-31T03:37:00+00:00",
+      "summary": "A design firm is editing a new campaign video on a MacBook Pro. The creative director opens a collaboration app that quietly requests microphone and camera permissions. MacOS is supposed to flag that, but in this case, the checks are loose. The app gets access anyway.\nOn another Mac in the same office, file sharing is enabled through an old protocol called SMB version one. It\u2019s fast and",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHpAYTsxkWCgKoj_4IbW-z4a9m9r8KWH6oc0a5N7B68vil9GiBeKNPIHE3HcJY3_VZOqcGA1tLpTkDvB2sMsNMazRRyBT0bxqAQHoojAyY5btgMibphXUZ8GGhfyuzUuvSHuDQpaEpIKNsCGvjbm6yC8E8GDex9TjHtLNLF0jLBLQlL0iXPmF5nUf7W6k/s1600/threatlocker.jpg"
     },
     {
       "id": "0862a8e000c6d0de650eed1901d2052584d787d0",
@@ -402,7 +457,7 @@
       "title": "Newly Patched Critical Microsoft WSUS Flaw Comes Under Active Exploitation",
       "url": "https://thehackernews.com/2025/10/microsoft-issues-emergency-patch-for.html",
       "published": "2025-10-24T16:30:00+00:00",
-      "summary": "Microsoft on Thursday released out-of-band security updates to patch a critical-severity Windows Server Update Service (WSUS) vulnerability with a proof-of-concept (Poc) exploit publicly available and has come under active exploitation in the wild.\nThe vulnerability in question is CVE-2025-59287 (CVSS score: 9.8), a remote code execution flaw in WSUS that was originally fixed by the tech giant",
+      "summary": "Microsoft on Thursday released out-of-band security updates to patch a&nbsp;critical-severity Windows Server Update Services (WSUS) vulnerability with a proof-of-concept (Poc) exploit publicly available and has come under active exploitation in the wild.\nThe vulnerability in question is CVE-2025-59287 (CVSS score: 9.8), a remote code execution flaw in WSUS that was originally fixed by the tech",
       "source": "The Hacker News",
       "region": "North America",
       "country": "US",
@@ -607,59 +662,37 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9e1ZfYC1sAh1MgxVFJ4ZxDzDvbtFnbZvEunXZDqT9fMT3S00TlDx3qlc1uAUGUzga07_KnR_KkWfJnaUzbTnCVp65j7TPRWF182fSONEd-p_-fGTWSpd3s1_UCYXJgB2XA13vgmC5R6oKVWdAZ8A3KeFSIkPkyJh6SbZUIjmuCNKmMfGCaxmMaOh3RyVG/s1600/cyberattack.jpg"
     },
     {
-      "id": "950bbae39d40aa8c5de12a227d43ea340a8a973a",
-      "title": "TARmageddon Flaw in Async-Tar Rust Library Could Enable Remote Code Execution",
-      "url": "https://thehackernews.com/2025/10/tarmageddon-flaw-in-async-tar-rust.html",
-      "published": "2025-10-22T07:05:00+00:00",
-      "summary": "Cybersecurity researchers have disclosed details of a high-severity flaw impacting the popular async-tar Rust library and its forks, including tokio-tar, that could result in remote code execution under certain conditions.\nThe vulnerability, tracked as CVE-2025-62518 (CVSS score: 8.1), has been codenamed TARmageddon by Edera, which discovered the issue in late August 2025. It impacts several",
-      "source": "The Hacker News",
+      "id": "18ac7de013a9c439812e271b89538ef1a9fd41d8",
+      "title": "Cyber's Role in the Rapid Rise of Digital Authoritarianism",
+      "url": "https://www.darkreading.com/cyber-risk/cybers-role-rapid-rise-digital-authoritarianism",
+      "published": "2025-10-31T09:00:00+00:00",
+      "summary": "Dark Reading Confidential Episode 11: Enterprise cyber teams are in prime position to push back against our current &quot;Golden Age of Surveillance,&quot; according to our guests Ronald Deibert from Citizen Lab and David Greene from the EFF.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEvQXfi7V0k5jHKeies5vo2B7kVXw9rX6mKfK5iVxI9lMfAZXdmW9MGNqjQPy6fdI3HMw_rkM_c5Y_evYtx3jjo-bGkPL3Y2apiG1mRy27bUl0Ci04WZz6ZtyBahj2Eajo65gjQnVGuJ4-GTSCZOa0U5jA0NjYeojXpa9VFlRVHleQdUsH9uQmI3k-s6qI/s1600/crates.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0469f94bd17817ff/6642699959fdc64aa5f9c5fa/dark-reading-confidential-logo-sq.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "14b54ae3594811969c435dd8da43676bfddcd0ec",
-      "title": "TP-Link Patches Four Omada Gateway Flaws, Two Allow Remote Code Execution",
-      "url": "https://thehackernews.com/2025/10/tp-link-patches-four-omada-gateway.html",
-      "published": "2025-10-22T04:38:00+00:00",
-      "summary": "TP-Link has released security updates to address four security flaws impacting Omada gateway devices, including two critical bugs that could result in arbitrary code execution.\nThe vulnerabilities in question are listed below -\n\nCVE-2025-6541 (CVSS score: 8.6) - An operating system command injection vulnerability that could be exploited by an attacker who can log in to the web management",
-      "source": "The Hacker News",
+      "id": "265af75ca13a58f1d3932dc5524e0dcf4e9206a7",
+      "title": "Zombie Projects Rise Again to Undermine Security",
+      "url": "https://www.darkreading.com/cyber-risk/zombie-projects-rise-again-undermine-security",
+      "published": "2025-10-30T23:36:51+00:00",
+      "summary": "Companies left them for dead, but the remnants of old infrastructure and failed projects continue to haunt businesses' security teams.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg909qzwXCVImVBLUJRZFpVi2LmezwwKdilxNhWcxEgJeuaV4wCvv30iepLVY_a6dZ9pJ-4WXAkLf3WUwHdTJQvempUMchfRzpyRqtyxVuworV65sqEhsDcxjfQvvhIcqyrczco6o_Z617Vzrey8YWwEhQD-uy3eDZmM52pUnjoJSvYHHgdlvgGwgtOWeSl/s1600/router.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltbc2844be82d24b76/6900e1cc8497234e5847ed4d/zombie-in-a-field-Sergey_Shubin-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "5c358919527d8e4aa76f71398dc0c8e89d39e089",
-      "title": "Meta Rolls Out New Tools to Protect WhatsApp and Messenger Users from Scams",
-      "url": "https://thehackernews.com/2025/10/meta-rolls-out-new-tools-to-protect.html",
-      "published": "2025-10-21T15:03:00+00:00",
-      "summary": "Meta on Tuesday said it's launching new tools to protect Messenger and WhatsApp users from potential scams.\nTo that end, the company said it's introducing new warnings on WhatsApp when users attempt to share their screen with an unknown contact during a video call so as to prevent them from giving away sensitive information like bank details or verification codes.\nOn Messenger, users can opt to",
-      "source": "The Hacker News",
+      "id": "0068897d28399f7f26882747b35987e43ac7d6d7",
+      "title": "An 18-Year-Old Codebase Left Smart Buildings Wide Open",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/18-year-old-codebase-left-smart-buildings-wide-open",
+      "published": "2025-10-30T21:37:43+00:00",
+      "summary": "Researcher Gjoko Krstic\u2019s &quot;Project Brainfog&quot; exposed hundreds of zero-day vulnerabilities in building-automation systems still running hospitals, schools, and offices worldwide.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggN-MPjNW8WCdwSNEANZNgMKFjXP9o2wdrX_lYXxxSHNh2h7-PIkCkGc9H535RnhIEZyQYiBq1lZiC0O0h0Y_t4gEFd4tstPAFMOzMYcanDlq_iDRvhsP0P5FFkUFQsbGj0oqIhijY1JzdIr88E4rF7K0ohazXjTN80SNp5ZUsLVoHWxUkHVOan2nz7Say/s1600/spam.jpg"
-    },
-    {
-      "id": "a20737ad0f7ced8080423ce941648cd826e16e0b",
-      "title": "PolarEdge Targets Cisco, ASUS, QNAP, Synology Routers in Expanding Botnet Campaign",
-      "url": "https://thehackernews.com/2025/10/polaredge-targets-cisco-asus-qnap.html",
-      "published": "2025-10-21T13:47:00+00:00",
-      "summary": "Cybersecurity researchers have shed light on the inner workings of a botnet malware called PolarEdge.\nPolarEdge was first documented by Sekoia in February 2025, attributing it to a campaign targeting routers from Cisco, ASUS, QNAP, and Synology with the goal of corralling them into a network for an as-yet-undetermined purpose.\nThe TLS-based ELF implant, at its core, is designed to monitor",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyKcAsgNTnb5uzcatYsKuGgvPU7aklzYxxG5B-w-kZCNoMD09YJty9-6U7PPYtJAc4PsX-B539OlaWlq8PyWs1wLH84vt1yX8fxhdQ8pMstBogMKpj9UQrQqpIq4AHcQ0VjbY6ni1Jrc5Uu6Sko2WwJOySPDdc4ov4KdtqZGHvJGug2kpjC402k1Fn7kDx/s1600/botnet.jpg"
-    },
-    {
-      "id": "0fac4d9676df5d768baa5d045abf94956a5844e3",
-      "title": "Securing AI to Benefit from AI",
-      "url": "https://thehackernews.com/2025/10/securing-ai-to-benefit-from-ai.html",
-      "published": "2025-10-21T11:00:00+00:00",
-      "summary": "Artificial intelligence (AI) holds tremendous promise for improving cyber defense and making the lives of security practitioners easier. It can help teams cut through alert fatigue, spot patterns faster, and bring a level of scale that human analysts alone can\u2019t match. But realizing that potential depends on securing the systems that make it possible.\nEvery organization experimenting with AI in",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeBVzzbq4N029qf31udLK89vZYg0gBNzRwagRRcMUjxi-GlXm6FmJDgipuN2pj_M5hN6ocvBB8BUnwj32N2f_LlYnNA5M1_z14vNS4_FYhLsu-wIFBYAZmiavILEKqBmks9ie6J2lN0XiyejW0-6ZE52AMg2fJF85cvTEXP1379gTcEeoLhKKLeg6Wf2Y/s1600/secure-ai.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt4a1664197d03c12c/6904a5411e463111912d6bbb/SmartCity_Carloscastilla_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "id": "f991550c3eb018f8a7262ba9a6036d34ed0d927b",
@@ -682,6 +715,17 @@
       "region": "North America",
       "country": "US",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7c9c1cdab23284f0/68fe47916edaf82a00c09917/Neural_network-Eugene_Sergeev-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
+      "id": "009c7a000cf0bd8d04c873be3cbbb390ca6a5c50",
+      "title": "Cloud Outages Highlight the Need for Resilient, Secure Infrastructure Recovery",
+      "url": "https://www.darkreading.com/cloud-security/cloud-outages-highlight-need-resilient-secure-infrastructure-recovery",
+      "published": "2025-10-30T14:21:23+00:00",
+      "summary": "Two massive technical outages over the past year underscore the need for cybersecurity teams to consider how to recover safely from disruptions without creating new security risks.",
+      "source": "DarkReading",
+      "region": "North America",
+      "country": "US",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5e33bef01bb7183f/6902708c684ceaa47bd063df/2XJJYBC.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "id": "5cdd179b5045271af9b49fa0aacce6bfc7feca56",
@@ -1168,48 +1212,37 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt324eb779813c588a/68f6868b7a9cf5059f976bd0/software_deployment_road_signs_Dima_alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "0c90b757604e708cc9de3a0835fed2fd91d4ccfb",
-      "title": "Bombarding Cars With Lasers: Novel Auto Cyberattacks Emerge",
-      "url": "https://www.darkreading.com/ics-ot-security/microchip-tech-vehicles-laser-attacks",
-      "published": "2025-10-20T15:28:45+00:00",
-      "summary": "Hardware attacks using lasers against silicon chips are difficult but possible. A fresh microchip protection approach aims to make it harder.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt59857a7b231243f2/68f4463d52bf966118c10fde/Rick_Moranis_Laser-Pictorial_Press_Ltd-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "id": "4e9799403affa13d5f2cb7e0dcaa351c22689c81",
+      "title": "Resilience, not sovereignty, defines OpenStack's next chapter",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2025/10/31/resilience_openinfra_summit/",
+      "published": "2025-10-31T11:29:13+00:00",
+      "summary": "<h4>Price hikes, politics, and platform fatigue drive organizations back toward open alternatives</h4> <p><strong>OpenInfra Summit</strong>\u00a0 Sovereignty might be the word of the hour, but the OpenStack community has another \u2013 resilience.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "ec8bdc5df5b872585a38f7a658c7ab46ebc2a23d",
-      "title": "Self-Propagating GlassWorm Attacks VS Code Supply Chain",
-      "url": "https://www.darkreading.com/application-security/self-propagating-glassworm-vs-code-supply-chain",
-      "published": "2025-10-20T14:39:48+00:00",
-      "summary": "The sophisticated worm \u2014 which uses invisible code to steal credentials and turn developer systems into criminal proxies \u2014 has so far infected nearly 36k machines.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6f9668c463892069/68f61db46edaf87145c08b93/Worm(1800)_Jukka_Palm_Alamy.png?width=1280&auto=webp&quality=80&disable=upscale"
+      "id": "fa353a3a1e9193fc1bb860a2284ad00b908b7896",
+      "title": "NHS left with sick PCs as suppliers resist Windows 11 treatment",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2025/10/31/nhs_windows_11_issues/",
+      "published": "2025-10-31T07:29:06+00:00",
+      "summary": "<h4>Hospitals told to upgrade, but some medical device makers haven't prescribed compatibility yet</h4> <p>NHS hospitals are being blocked from fully upgrading to Windows 11 by a small number of suppliers that have yet to make their medical devices compatible with Microsoft's latest operating system.\u2026</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "270b151ce89c57c5e18299690fda30a482dffdaa",
-      "title": "Cyber Academy Founder Champions Digital Safety for All",
-      "url": "https://www.darkreading.com/cybersecurity-careers/cyber-academy-founder-champions-digital-safety-for-all",
-      "published": "2025-10-18T08:00:40+00:00",
-      "summary": "Aliyu Ibrahim Usman, founder of the Cyber Cadet Academy in Nigeria, shares his passion for raising cybersecurity awareness in the wake of mounting security concerns worldwide.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltfa04dcd3f104ecc3/68f255748363ac68a1fde6f2/2E3PC9F.jpg?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
-      "id": "8dcbf5febff769184097c893873653df816e7bac",
-      "title": "Microsoft Disrupts Ransomware Campaign Abusing Azure Certificates",
-      "url": "https://www.darkreading.com/threat-intelligence/microsoft-disrupts-ransomware-abusing-azure-certificates",
-      "published": "2025-10-17T18:00:45+00:00",
-      "summary": "Microsoft revoked more than 200 digital certificates that threat actors used to sign fake Teams binaries that set the stage for Rhysida ransomware attacks.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt4f06db0a147590a2/68f286f92ed0ab1f4482027f/ransomware_AndriyPopov_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "id": "da77b807a4f389e58fe2880733556c251fafa3ef",
+      "title": "Europe preps Digital Euro to enter circulation in 2029",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2025/10/31/digital_euro_approved/",
+      "published": "2025-10-31T05:20:23+00:00",
+      "summary": "<h4>Because fewer people like banknotes, and payment sovereignty is a problem</h4> <p>The Governing Council of the European Central Bank (ECB) has decided the bloc needs a digital version of the Euro, and ordered work that could see it enter circulation in 2029.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
       "id": "21254ede6a33b4f21bfdf90bb9d9fece739aa527",
@@ -1729,39 +1762,6 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "fb5ef83000b7e28ad1fc2fd118dba5eaf60c6657",
-      "title": "Zero Trust Everywhere: a new era in cybersecurity for European organizations",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/10/21/zero_trust_everywhere_new/",
-      "published": "2025-10-21T08:00:14+00:00",
-      "summary": "<h4>Zero trust is the best kind of trust when it comes to securing your organization, says ZScaler</h4> <p><strong>Partner Content</strong>\u00a0 Many organizations across Europe have taken steps to implement Zero Trust principles, securing users, devices, workloads, and applications. But while these efforts are critical, they can leave significant gaps in resilience and security if applied too narrowly.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "4ac94b62cf42391b81df4681a746128dbf4659f4",
-      "title": "Anti-fraud body leaks dozens of email addresses in invite mishap",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/10/21/cifas_email_blunder/",
-      "published": "2025-10-21T07:30:10+00:00",
-      "summary": "<h4>Calendar cock-up exposed recipients' details</h4> <p>Anti-fraud nonprofit Cifas was left red-faced after sending out a calendar invite that exposed the email addresses of dozens of individuals working across the fraud space.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "be74435c5035521ad1914e74e8c96d0b4e2f2b2a",
-      "title": "UK calls up Armed Forces veterans for digital ID soft launch",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/10/20/uk_armed_forces_id/",
-      "published": "2025-10-20T07:15:10+00:00",
-      "summary": "<h4>Once more into the, er, breach?</h4> <p>The UK's Armed Forces veterans are being tasked with one last mission \u2013 proving the government can successfully roll out a digital ID card scheme.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
       "id": "3b56b31cfa227705e3233f4603500fd71ae1a9a3",
       "title": "Aisuru Botnet Shifts from DDoS to Residential Proxies",
       "url": "https://krebsonsecurity.com/2025/10/aisuru-botnet-shifts-from-ddos-to-residential-proxies/",
@@ -1828,6 +1828,50 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "50a8b888a47aaf45fcb73b3fa291b4898dcfdb75",
+      "title": "CISA Adds Exploited XWiki, VMware Flaws to KEV Catalog",
+      "url": "https://www.securityweek.com/cisa-adds-exploited-xwiki-vmware-flaws-to-kev-catalog/",
+      "published": "2025-10-31T10:57:42+00:00",
+      "summary": "<p>Broadcom has updated its advisory on CVE-2025-41244 to mention the vulnerability\u2019s in-the-wild exploitation.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisa-adds-exploited-xwiki-vmware-flaws-to-kev-catalog/\">CISA Adds Exploited XWiki, VMware Flaws to KEV Catalog</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "b053dbb39b255426ab73fb166c839af57bfa0bd7",
+      "title": "Jamf to Go Private Following $2.2 Billion Acquisition by Francisco Partners",
+      "url": "https://www.securityweek.com/jamf-to-go-private-following-2-2-billion-acquisition-by-francisco-partners/",
+      "published": "2025-10-31T10:43:52+00:00",
+      "summary": "<p>The private equity firm will purchase the outstanding shares of Jamf common stock for $13 per share in an all-cash transaction.</p>\n<p>The post <a href=\"https://www.securityweek.com/jamf-to-go-private-following-2-2-billion-acquisition-by-francisco-partners/\">Jamf to Go Private Following $2.2 Billion Acquisition by Francisco Partners</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "008ac33102dfa317a21c44e856b178dfc0fbc159",
+      "title": "Chinese APT Exploits Unpatched Windows Flaw in Recent Attacks",
+      "url": "https://www.securityweek.com/chinese-apt-exploits-unpatched-windows-flaw-in-recent-attacks/",
+      "published": "2025-10-31T10:30:06+00:00",
+      "summary": "<p>The Windows shortcut vulnerability has been seen in attacks conducted by Mustang Panda to drop the PlugX malware.</p>\n<p>The post <a href=\"https://www.securityweek.com/chinese-apt-exploits-unpatched-windows-flaw-in-recent-attacks/\">Chinese APT Exploits Unpatched Windows Flaw in Recent Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "03a23792cc1119d4d9787c9d421cd42931f24e1f",
+      "title": "Japan Issues OT Security Guidance for Semiconductor Factories",
+      "url": "https://www.securityweek.com/japan-issues-ot-security-guidance-for-semiconductor-factories/",
+      "published": "2025-10-31T07:54:52+00:00",
+      "summary": "<p>The 130-page document covers several important aspects and it\u2019s available in both Japanese and English.</p>\n<p>The post <a href=\"https://www.securityweek.com/japan-issues-ot-security-guidance-for-semiconductor-factories/\">Japan Issues OT Security Guidance for Semiconductor Factories</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "868ae5412ba8c3eea7c3335281c2ac7083702a4f",
       "title": "Spektrum Labs Emerges From Stealth to Help Companies Prove Resilience",
       "url": "https://www.securityweek.com/spektrum-labs-emerges-from-stealth-to-help-companies-prove-resilience/",
@@ -1851,10 +1895,10 @@
     },
     {
       "id": "df3c8fccd6fb7cc91676d4726ae05ba6f131b94e",
-      "title": "Millions Impacted by Conduent Data Breach",
+      "title": "10 Million Impacted by Conduent Data Breach",
       "url": "https://www.securityweek.com/millions-impacted-by-conduent-data-breach/",
       "published": "2025-10-30T13:01:56+00:00",
-      "summary": "<p>The hackers stole names, addresses, dates of birth, Social Security numbers, and health and insurance information.</p>\n<p>The post <a href=\"https://www.securityweek.com/millions-impacted-by-conduent-data-breach/\">Millions Impacted by Conduent Data Breach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "summary": "<p>The hackers stole names, addresses, dates of birth, Social Security numbers, and health and insurance information.</p>\n<p>The post <a href=\"https://www.securityweek.com/millions-impacted-by-conduent-data-breach/\">10 Million Impacted by Conduent Data Breach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
@@ -1888,50 +1932,6 @@
       "url": "https://www.securityweek.com/136-npm-packages-delivering-infostealers-downloaded-100000-times/",
       "published": "2025-10-30T10:59:33+00:00",
       "summary": "<p>The packages deployed malicious code harvesting system information, credentials, tokens, API keys, and other sensitive information.</p>\n<p>The post <a href=\"https://www.securityweek.com/136-npm-packages-delivering-infostealers-downloaded-100000-times/\">136 NPM Packages Delivering Infostealers Downloaded 100,000 Times</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "8eb78694c744885e71f180ff89f225a1dba6a1a3",
-      "title": "Former US Defense Contractor Executive Admits to Selling Exploits to Russia",
-      "url": "https://www.securityweek.com/former-defense-contractor-executive-admits-to-selling-exploits-to-russia/",
-      "published": "2025-10-30T09:32:10+00:00",
-      "summary": "<p>Peter Williams stole trade secrets from his US employer and sold them to a Russian cybersecurity tools broker.</p>\n<p>The post <a href=\"https://www.securityweek.com/former-defense-contractor-executive-admits-to-selling-exploits-to-russia/\">Former US Defense Contractor Executive Admits to Selling Exploits to Russia</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "dea2752732813220ff7f36b975c6b5dedb45148f",
-      "title": "MITRE Unveils ATT&CK v18 With Updates to Detections, Mobile, ICS",
-      "url": "https://www.securityweek.com/mitre-unveils-attck-v18-with-updates-to-detections-mobile-ics/",
-      "published": "2025-10-29T13:30:57+00:00",
-      "summary": "<p>MITRE has unveiled the latest version of ATT&#038;CK, with the most significant changes in the defensive part of the framework.</p>\n<p>The post <a href=\"https://www.securityweek.com/mitre-unveils-attck-v18-with-updates-to-detections-mobile-ics/\">MITRE Unveils ATT&#038;CK v18 With Updates to Detections, Mobile, ICS</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "378000976b86be6487c5ca760d1daf1ee69b54fd",
-      "title": "AI Security Firm Polygraf Raises $9.5 Million in Seed Funding",
-      "url": "https://www.securityweek.com/ai-security-firm-polygraf-raises-9-5-million-in-seed-funding/",
-      "published": "2025-10-29T12:16:28+00:00",
-      "summary": "<p>Polygraf AI has developed proprietary small language model (SLM) technology designed to help organizations mitigate AI risks.</p>\n<p>The post <a href=\"https://www.securityweek.com/ai-security-firm-polygraf-raises-9-5-million-in-seed-funding/\">AI Security Firm Polygraf Raises $9.5 Million in Seed Funding</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "f001139d1342591387fe8d7280c1153c98b95e9b",
-      "title": "CyberRidge Emerges From Stealth With $26 Million for Photonic Encryption Solution",
-      "url": "https://www.securityweek.com/cyberridge-emerges-from-stealth-with-26-million-for-photonic-encryption-solution/",
-      "published": "2025-10-29T11:42:56+00:00",
-      "summary": "<p>The company has built a plug-and-play photonic layer transmission system that encrypts data in transit to prevent interception.</p>\n<p>The post <a href=\"https://www.securityweek.com/cyberridge-emerges-from-stealth-with-26-million-for-photonic-encryption-solution/\">CyberRidge Emerges From Stealth With $26 Million for Photonic Encryption Solution</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
