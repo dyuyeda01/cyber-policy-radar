@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-04T00:41:57.342596+00:00",
+  "generated_at": "2025-11-04T12:18:31.267800+00:00",
   "items": [
     {
       "id": "6e7c7833e0c1e80d55fe910c789e41b558c3ce8f",
@@ -110,6 +110,61 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "58c16556d6a4660cb34081bb2094ef25d4e9f146",
+      "title": "Ransomware Defense Using the Wazuh Open Source Platform",
+      "url": "https://thehackernews.com/2025/11/ransomware-defense-using-wazuh-open.html",
+      "published": "2025-11-04T11:06:00+00:00",
+      "summary": "Ransomware is malicious software designed to block access to a computer system or encrypt data until a ransom is paid. This cyberattack is one of the most prevalent and damaging threats in the digital landscape, affecting individuals, businesses, and critical infrastructure worldwide.\nA ransomware attack typically begins when the malware infiltrates a system through various vectors such as",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdzDGtHe9Q6e_Oawv8H4Le3i69OhWMTiJwqvdjqsp8o8oZ8gpy7R6cbsTzjncXVNJjI59pr2NENW0IycFha_hD92mziRlVuh_QhAeVo4mtyyz3iwUzD-e5UH6heYCAZGY3pwMJoWctM63QCiZAQe02F0r8KLU0_AkeGS4zxi9g-N5qiT4f5v15nJTMvFk/s1600/wazuh.jpg"
+    },
+    {
+      "id": "330e974da0bfee68f2f76e78f71b84983bd3b7e1",
+      "title": "Operation SkyCloak Deploys Tor-Enabled OpenSSH Backdoor Targeting Defense Sectors",
+      "url": "https://thehackernews.com/2025/11/operation-skycloak-deploys-tor-enabled.html",
+      "published": "2025-11-04T10:49:00+00:00",
+      "summary": "Threat actors are leveraging weaponized attachments distributed via phishing emails to deliver malware likely targeting the defense sector in Russia and Belarus.\nAccording to multiple reports from Cyble and Seqrite Labs, the campaign is designed to deploy a persistent backdoor on compromised hosts that uses OpenSSH in conjunction with a customized Tor hidden service that employs obfs4 for",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6ok6aAygeqft712J7YEd_aBpjlL3SNlIraKZ2za1SW5EEy9HaK6k9fvrr-9WQVO3mbummfoqwbXUg-gbcXAYakGZTCjG3B1q6ur-9JEDP-krL8iq2nv53HY-DTSWSQEdQf1VO2S0msbO2Jj5ict0EjSES6j7nPpgX1Qz5nnN540Gy5EAiwBxidEff3gWe/s1600/russian.jpg"
+    },
+    {
+      "id": "f7c935ad2b2c301811513854b9abeb8173d2582e",
+      "title": "Google\u2019s AI \u2018Big Sleep\u2019 Finds 5 New Vulnerabilities in Apple\u2019s Safari WebKit",
+      "url": "https://thehackernews.com/2025/11/googles-ai-big-sleep-finds-5-new.html",
+      "published": "2025-11-04T08:10:00+00:00",
+      "summary": "Google's artificial intelligence (AI)-powered cybersecurity agent called Big Sleep has been credited by Apple for discovering as many as five different security flaws in the WebKit component used in its Safari web browser that, if successfully exploited, could result in a browser crash or memory corruption.\nThe list of vulnerabilities is as follows -\n\nCVE-2025-43429 - A buffer overflow",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgO90ZGqS1o8oXuQSYe44zmCBkNPE4eZDZy-NJhnRyFZ_ePcN4Tv-OOIuBKoi5Dnp0bN_HpCcxpAgMNYs6t0rCntWspx1JNRJSBbMsvzxDnSXewOvLDls6VU47KVeRxxDO4fHBO7_Ow6P9T3crzMpcwQxBofwQLcX0WKBIQYsHY64MDoazdGW_9ehXK7sXv/s1600/safari-flaw-ai.jpg"
+    },
+    {
+      "id": "0fa8f436a831276c866f53affbd26a18fa8f1f29",
+      "title": "U.S. Prosecutors Indict Cybersecurity Insiders Accused of BlackCat Ransomware Attacks",
+      "url": "https://thehackernews.com/2025/11/us-prosecutors-indict-cybersecurity.html",
+      "published": "2025-11-04T07:45:00+00:00",
+      "summary": "Federal prosecutors in the U.S. have accused a trio of allegedly hacking the networks of five U.S. companies with BlackCat (aka ALPHV) ransomware between May and November 2023 and extorting them.\nRyan Clifford Goldberg, Kevin Tyler Martin, and an unnamed co\u2013conspirator (aka \"Co-Conspirator 1\") based in Florida, all U.S. nationals, are said to have used the ransomware strain against a medical",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9mH0dvGWLCUJm63XD3luQR8ZpHCGiO_stcfyerR37pGHWLvFLC_CiXJ7j6TTTyxIJFx30P0YP2oXxFtMgAZTSfbNd7vL6Vy0lQ6ZR7wAfZIXZbND_xLM5yeejoG_uf-jhr_Wi9UZaSEvhR7XQ0ZcgZRxLQMRT1e8fvt5eVLMkX1l71OHc0jUwiDr1EnhZ/s1600/insider-ransomware.jpg"
+    },
+    {
+      "id": "07f5591337f2b439a11ffd2317d37bb31522d730",
+      "title": "Microsoft Detects \"SesameOp\" Backdoor Using OpenAI's API as a Stealth Command Channel",
+      "url": "https://thehackernews.com/2025/11/microsoft-detects-sesameop-backdoor.html",
+      "published": "2025-11-04T05:58:00+00:00",
+      "summary": "Microsoft has disclosed details of a novel backdoor dubbed SesameOp that uses OpenAI Assistants Application Programming Interface (API) for command-and-control (C2) communications.\n\"Instead of relying on more traditional methods, the threat actor behind this backdoor abuses OpenAI as a C2 channel as a way to stealthily communicate and orchestrate malicious activities within the compromised",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyW72-Rg4bg2ntYrHhAcMLWcUMdg-0COcApiiLP4LsguHFgDgBVZmEh0EigMblA_-TZm9wKArXWY58AqupvM2vpr3anQXEGkmmAtw20_4WOO4qVL8ykulVPadSXRdZTyanhMeEKt-TPI5i5SGpUmjlNlAYEZUepDpzDujBAULaGbzuXSSzP5W6NsPofRXD/s1600/SesameOp-Malware.jpg"
     },
     {
       "id": "9bac8c4f83cddf40e7eb3960aace781184af59ac",
@@ -605,61 +660,6 @@
       "region": "North America",
       "country": "US",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQVzc_sr-XqhPEurqyN5PP7oW8LrIPQ8ry9ijkZAGE-YdWZRsYhhcP52iWxJ1buNw0vzuaCSDTTfgJO-lAX3YIhKL0abx2Szo9WprfdIFCIu0Hy1dvtpnfuAgxxkwksq1HTI2t1t9zm2sqi6JaqwejgaalOVD1NuQYhCHRXcoVMXwGvMzxviIfrto0MwE/s1600/bd-main.jpg"
-    },
-    {
-      "id": "47a7dfe62d5f95835636861a5abaaf2d281142e8",
-      "title": "3,000 YouTube Videos Exposed as Malware Traps in Massive Ghost Network Operation",
-      "url": "https://thehackernews.com/2025/10/3000-youtube-videos-exposed-as-malware.html",
-      "published": "2025-10-24T10:00:00+00:00",
-      "summary": "A malicious network of YouTube accounts has been observed publishing and promoting videos that lead to malware downloads, essentially abusing the popularity and trust associated with the video hosting platform for propagating malicious payloads.\nActive since 2021, the network has published more than 3,000 malicious videos to date, with the volume of such videos tripling since the start of the",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhh8EaTq-s91jlucVVZYpqJYdk5xQXEy0ylAf-poP2YIxboYThJyShnGQwhh-OORfMy6LnRQlwQfzHP2bf8Ao0JyihddLTI6G4fcLdnxktdgM8vE_02iM1LFvJCgmafz56dDvXjyDLXMWkE8-RxezA8kCpkn4heiMnIZT7pZp72rQXIa00u9YAJadnsKxUm/s1600/youtube.jpg"
-    },
-    {
-      "id": "902f833c60e32ccca0d5526735be141eefc47123",
-      "title": "Self-Spreading 'GlassWorm' Infects VS Code Extensions in Widespread Supply Chain Attack",
-      "url": "https://thehackernews.com/2025/10/self-spreading-glassworm-infects-vs.html",
-      "published": "2025-10-24T07:00:00+00:00",
-      "summary": "Cybersecurity researchers have discovered a self-propagating worm that spreads via Visual Studio Code (VS Code) extensions on the Open VSX Registry and the Microsoft Extension Marketplace, underscoring how developers have become a prime target for attacks.\nThe sophisticated threat, codenamed GlassWorm by Koi Security, is the second such supply chain attack to hit the DevOps space within a span",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghcP3Kooks9KjeygfquG2lCkBRvM1V9_zlYuOlz1vXhgU_qDiAErqbPmukvMP6fFUYJzqjCB5xavFDH8WzPA350BLCWwMXU88eP-ReBZWQGo9sfbgoh_3e5Gw_bp6cuJ2O1vercvYxepJppsOAXPuwK-R4v4WYjmKyYQ1_CpEkUSHEGlpJQu5gQYlFQIZ1/s1600/code-vscode.jpg"
-    },
-    {
-      "id": "d0d1c52538105a87d9f15818303e7bde78bdbcf4",
-      "title": "North Korean Hackers Lure Defense Engineers With Fake Jobs to Steal Drone Secrets",
-      "url": "https://thehackernews.com/2025/10/north-korean-hackers-lure-defense.html",
-      "published": "2025-10-23T15:29:00+00:00",
-      "summary": "Threat actors with ties to North Korea have been attributed to a new wave of attacks targeting European companies active in the defense industry as part of a long-running campaign known as Operation Dream Job.\n\"Some of these [companies] are heavily involved in the unmanned aerial vehicle (UAV) sector, suggesting that the operation may be linked to North Korea's current efforts to scale up its",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiK0FPtpkvxFxGAd0hh2wsJHxGCIA0PCJbURwlsS5x93_6Ak68WSe2rbdXj4xRMu5DddZcKeqoTD-VDuHCY9eNqF2IcnjDwm8OAbQs7rgZsTTq-uY9UfNurt5YFv_MuL9ytL5PxwpPWUfTa3_4h8uSr4D5xnIiXlbzQhAYhVnQRnC8xcAp-v1lO2xfT_fjO/s1600/drone-hacking.jpg"
-    },
-    {
-      "id": "b7f748b4fcc137a48658359cffae06d7f9bc7ff6",
-      "title": "Secure AI at Scale and Speed \u2014 Learn the Framework in this Free Webinar",
-      "url": "https://thehackernews.com/2025/10/secure-ai-at-scale-and-speed-learn.html",
-      "published": "2025-10-23T11:55:00+00:00",
-      "summary": "AI is everywhere\u2014and your company wants in. Faster products, smarter systems, fewer bottlenecks. But if you're in security, that excitement often comes with a sinking feeling.\nBecause while everyone else is racing ahead, you're left trying to manage a growing web of AI agents you didn\u2019t create, can\u2019t fully see, and weren\u2019t designed to control.\nJoin our upcoming webinar and learn how to make AI",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGHe6ecCCrv5YeciYpjLs8cTVWBfIwqtIhubmEGeOf3aQxopS2A9usHvEDovFsKOPn21Mb6TbOgK2LtlzZFRksJaAd_TMk6Ew8Y8WGLnom3CmVOqy_DRHZvxNsVcyUJSWzfrUaER-FQNClUteZj5weOUaLSrA8KEQDqrPR-jolax51bY3KoSTM3aMRks6A/s1600/webinar.jpg"
-    },
-    {
-      "id": "1b834238fb3b2f86f6ef7e4b4c9bf4028e6dfc16",
-      "title": "ThreatsDay Bulletin: $176M Crypto Fine, Hacking Formula 1, Chromium Vulns, AI Hijack & More",
-      "url": "https://thehackernews.com/2025/10/threatsday-bulletin-176m-crypto-fine.html",
-      "published": "2025-10-23T11:30:00+00:00",
-      "summary": "Criminals don&rsquo;t need to be clever all the time; they just follow the easiest path in: trick users, exploit stale components, or abuse trusted systems like OAuth and package registries. If your stack or habits make any of those easy, you&rsquo;re already a target.\nThis week&rsquo;s ThreatsDay highlights show exactly how those weak points are being exploited &mdash; from overlooked",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBGI55y_fOIk2ah8f4huRsruWz2X2BQM5tPxTX7pHHQJe06G9V_VpwiP25wvxTQzFoYBn0i45sZ_CG2U269mLKWfOvYg-ng2pXAgDixytL0uZNz1TzmYdsCrcQ0pdCP9nTh2VzyRgV8hPE7hOSLd0BUDN1xrydraGAUUV5T_opmJq88S0Z9C3eQE13RaHQ/s1600/threatsday-ai.jpg"
     },
     {
       "id": "f7ae342bc8d0260508639cda543316b4fc5b23cf",
@@ -1212,6 +1212,39 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltefebeb024d4f1ecb/68f78650d303131cf236a472/Torn_contract-Zoonar_GmbH-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
+      "id": "b6df571a84c372fbc36ce93fce8de8e80ae75bcb",
+      "title": "OpenAI API moonlights as malware HQ in Microsoft\u2019s latest discovery",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2025/11/04/openai_api_moonlights_as_malware/",
+      "published": "2025-11-04T12:08:12+00:00",
+      "summary": "<h4>Redmond uncovers SesameOp, a backdoor hiding its tracks by using OpenAI\u2019s Assistants API as a command channel</h4> <p>Hackers have found a new use for OpenAI's Assistants API \u2013 not to write poems or code, but to secretly control malware.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "db6468440c032397e9afe77da5222af016998aa5",
+      "title": "China's president Xi Jinping jokes about backdoors in Xiaomi smartphones",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2025/11/04/chinas_president_xi_jinping_jokes/",
+      "published": "2025-11-04T06:26:40+00:00",
+      "summary": "<h4>South Korea's president laughed, so perhaps it was funny? Unlike China's censorship and snooping</h4> <p>Chinese president Xi Jinping has joked that smartphones from Xiaomi might include backdoors.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "8f435249c1015a0d267b6d9fa475184738dc57a7",
+      "title": "AN0M, the backdoored \u2018secure\u2019 messaging app for criminals, is still producing arrests after four years",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2025/11/04/an0m_ironside_more_arrests/",
+      "published": "2025-11-04T03:23:14+00:00",
+      "summary": "<h4>55 cuffed last week after court ruled sting operation was legal</h4> <p>Australian police last week made 55 arrests using evidence gathered with a backdoored messaging app that authorities distributed in the criminal community.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "1f03c1d5e3dd8a3ba32df83908742e1a3bea9023",
       "title": "MIT Sloan quietly shelves AI ransomware study after researcher calls BS",
       "url": "https://go.theregister.com/feed/www.theregister.com/2025/11/03/mit_sloan_updates_ai_ransomware_paper/",
@@ -1729,39 +1762,6 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "93e1411ba5b9678ef5148704ad96f70bc534c934",
-      "title": "Playtime\u2019s over: Crooks swipe Toys R Us Canada customer data and dump it online",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/10/23/toysrus_canada_data_leak/",
-      "published": "2025-10-23T21:53:25+00:00",
-      "summary": "<h4>What?! No complimentary credit monitoring?</h4> <p>The Canadian outpost of retailer Toys R Us on Thursday notified customers that attackers accessed a database, stole some of their personal information, then posted the data online.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "a499a895f3195fa8271d081fb9e25bf97b8b937b",
-      "title": "Trump's workforce cuts blamed as America's cyber edge dulls",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/10/23/trumps_workforce_cuts_blamed_in_report/",
-      "published": "2025-10-23T15:57:13+00:00",
-      "summary": "<h4>The Cyberspace Solarium Commission says years of progress are being undone amid current administration's cuts</h4> <p>America's once-ambitious cyber defences are starting to rust, according to the latest annual report from the US Cyberspace Solarium Commission (CSC), which warns that policy momentum has slowed and even slipped backwards thanks to Trump-era workforce and budget cuts.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "34a66eebfb511da9724e10b26a9abbc0e7afb8b5",
-      "title": "Google nukes 3,000 YouTube videos that sowed malware disguised as cracked software",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/10/23/youtube_ghost_network_malware/",
-      "published": "2025-10-23T14:04:19+00:00",
-      "summary": "<h4>Check Point helps exorcise vast 'Ghost Network' that used fake tutorials to push infostealers</h4> <p>Google has taken down thousands of YouTube videos that were quietly spreading password-stealing malware disguised as cracked software and game cheats.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
       "id": "f024f82ee37cb16af535df842f3cf3b3130f3ed0",
       "title": "Alleged Jabber Zeus Coder \u2018MrICQ\u2019 in U.S. Custody",
       "url": "https://krebsonsecurity.com/2025/11/alleged-jabber-zeus-coder-mricq-in-u-s-custody/",
@@ -1839,6 +1839,39 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "89f0c7a916d9d33298fe05b7a12a6dd0fc40d53d",
+      "title": "Apple Patches 19 WebKit Vulnerabilities",
+      "url": "https://www.securityweek.com/apple-patches-19-webkit-vulnerabilities/",
+      "published": "2025-11-04T11:07:37+00:00",
+      "summary": "<p>Apple has released iOS 26.1 and macOS Tahoe 26.1 with patches for over 100 vulnerabilities, including critical flaws.</p>\n<p>The post <a href=\"https://www.securityweek.com/apple-patches-19-webkit-vulnerabilities/\">Apple Patches 19 WebKit Vulnerabilities\u00a0</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "4989e4841283acd4ce6ea7d1876e64baf90199c1",
+      "title": "Zscaler Acquires AI Security Company SPLX",
+      "url": "https://www.securityweek.com/zscaler-acquires-ai-security-company-splx/",
+      "published": "2025-11-04T10:19:45+00:00",
+      "summary": "<p>SPLX red teaming, asset management, and threat inspection technology will enable Zscaler to expand its Zero Trust Exchange platform.</p>\n<p>The post <a href=\"https://www.securityweek.com/zscaler-acquires-ai-security-company-splx/\">Zscaler Acquires AI Security Company SPLX</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "7b15138f17e65e25601a0b097ac514159e385a41",
+      "title": "Android Update Patches Critical Remote Code Execution Flaw",
+      "url": "https://www.securityweek.com/android-update-patches-critical-remote-code-execution-flaw/",
+      "published": "2025-11-04T09:24:31+00:00",
+      "summary": "<p>The November 2025 Android patches resolve two vulnerabilities, both in the platform\u2019s System component.</p>\n<p>The post <a href=\"https://www.securityweek.com/android-update-patches-critical-remote-code-execution-flaw/\">Android Update Patches Critical Remote Code Execution Flaw</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "1be7e39292d9f88bbd34d0c0136ea1e72fe42239",
       "title": "Ukrainian Extradited to US Faces Charges in Jabber Zeus Cybercrime Case",
       "url": "https://www.securityweek.com/ukrainian-extradited-to-us-faces-charges-in-jabber-zeus-cybercrime-case/",
@@ -1910,39 +1943,6 @@
       "url": "https://www.securityweek.com/chinese-apt-uses-airstalk-malware-in-supply-chain-attacks/",
       "published": "2025-11-03T10:27:33+00:00",
       "summary": "<p>PowerShell and .NET variants of the malware abuse AirWatch\u2019s MDM API to establish a C&#038;C communication channel.</p>\n<p>The post <a href=\"https://www.securityweek.com/chinese-apt-uses-airstalk-malware-in-supply-chain-attacks/\">Chinese APT Uses &#8216;Airstalk&#8217; Malware in Supply Chain Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "ec779b471c13477bd3729dee3f21e078bce55282",
-      "title": "Google Pays $100,000 in Rewards for Two Chrome Vulnerabilities",
-      "url": "https://www.securityweek.com/google-pays-100000-in-rewards-for-two-chrome-vulnerabilities/",
-      "published": "2025-11-03T09:13:05+00:00",
-      "summary": "<p>The two bugs are high-severity type confusion and inappropriate implementation issues in the browser\u2019s V8 JavaScript engine.</p>\n<p>The post <a href=\"https://www.securityweek.com/google-pays-100000-in-rewards-for-two-chrome-vulnerabilities/\">Google Pays $100,000 in Rewards for Two Chrome Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "81c85e77bf3d3b065f4e9164a539aa4200f4b9e8",
-      "title": "In Other News: WhatsApp Passkey-Encrypted Backups, Russia Targets Meduza Malware, New Mastercard Solution",
-      "url": "https://www.securityweek.com/in-other-news-whatsapp-passkey-encrypted-backups-russia-targets-meduza-malware-new-mastercard-solution/",
-      "published": "2025-10-31T15:18:59+00:00",
-      "summary": "<p>Other noteworthy stories that might have slipped under the radar: several interesting Android malware families, UN cybercrime treaty, criminal complaint against Clearview AI in Europe.</p>\n<p>The post <a href=\"https://www.securityweek.com/in-other-news-whatsapp-passkey-encrypted-backups-russia-targets-meduza-malware-new-mastercard-solution/\">In Other News: WhatsApp Passkey-Encrypted Backups, Russia Targets Meduza Malware, New Mastercard Solution</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "4d1a643cf035fa39916be93352e4b5f8248266fb",
-      "title": "Ukrainian Man Extradited From Ireland to US Over Conti Ransomware Charges",
-      "url": "https://www.securityweek.com/ukrainian-man-extradited-from-ireland-to-us-over-conti-ransomware-charges/",
-      "published": "2025-10-31T13:20:42+00:00",
-      "summary": "<p>Oleksii Oleksiyovych Lytvynenko is now in the US after being held in custody in Ireland since 2023.</p>\n<p>The post <a href=\"https://www.securityweek.com/ukrainian-man-extradited-from-ireland-to-us-over-conti-ransomware-charges/\">Ukrainian Man Extradited From Ireland to US Over Conti Ransomware Charges</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
