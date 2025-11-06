@@ -1,6 +1,17 @@
 {
-  "generated_at": "2025-11-06T00:42:42.246917+00:00",
+  "generated_at": "2025-11-06T12:17:27.172300+00:00",
   "items": [
+    {
+      "id": "8a72904ca885aa5b2405277d33bce2c3d723a0d1",
+      "title": "Your AI-driven threat hunting is only as good as your data platform and pipeline",
+      "url": "https://www.cybersecuritydive.com/spons/your-ai-driven-threat-hunting-is-only-as-good-as-your-data-platform-and-pip/804789/",
+      "published": "2025-11-06T10:00:00+00:00",
+      "summary": "<p>The data-centric foundation for modern threat hunting.</p>",
+      "source": "Cybersecurity Dive",
+      "region": "North America",
+      "country": "US",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
     {
       "id": "ea172c8fae1dcfd4c0d02b49598ada1b84ef66c9",
       "title": "AI-based malware makes attacks stealthier and more adaptive",
@@ -101,22 +112,44 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "c21dc0ce9cc9f2bce571317fd34bf8496ccbaf0a",
-      "title": "CISA updates guidance and warns security teams on WSUS exploitation",
-      "url": "https://www.cybersecuritydive.com/news/cisa-guidance-warns-security-teams-wsus-exploitation/804257/",
-      "published": "2025-10-30T14:56:19+00:00",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/l0_6iR6xLuWVBUPxZYjHJmqwMnvYTB3SKYv8Gp3RLjA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NaWNyc29mdC1ibGRnLmpwZw==.webp\" /></div></figure><p>The agency urges users to apply emergency patches from Microsoft to counter a serious threat.</p>",
-      "source": "Cybersecurity Dive",
+      "id": "f91e9c3f9c14c10045c6a58c5b084a5176953240",
+      "title": "Bitdefender Named a Representative Vendor in the 2025 Gartner\u00ae Market Guide for Managed Detection and Response",
+      "url": "https://thehackernews.com/2025/11/bitdefender-named-representative-vendor.html",
+      "published": "2025-11-06T10:43:00+00:00",
+      "summary": "Bitdefender has once again been recognized as a Representative Vendor in the Gartner\u00ae Market Guide for Managed Detection and Response (MDR) \u2014 marking the fourth consecutive year of inclusion. According to Gartner, more than 600 providers globally claim to deliver MDR services, yet only a select few meet the criteria to appear in the Market Guide. While inclusion is not a ranking or comparative",
+      "source": "The Hacker News",
       "region": "North America",
       "country": "US",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnzufju5hr_HLeUm1wJnO0Wac-XCbY35dncwtip0-mnLrcGP85GngoccqDhicfNyF9AKCyeKXM3DlKj9nyvmC8X-Zxx6A8ctmsiOguoZ7XjewL1btiT0ydW3EU-6PBexeXtn_6uGhy7nQXhB7eBhFTy1BH_M7sgEpA-CxxkBslSjr5amkwqOKe5y1hf_E/s1600/Bitdefender.png"
+    },
+    {
+      "id": "c5c020b247a0a679aa29bb14d5448aa98cee4ed5",
+      "title": "Hackers Weaponize Windows Hyper-V to Hide Linux VM and Evade EDR Detection",
+      "url": "https://thehackernews.com/2025/11/hackers-weaponize-windows-hyper-v-to.html",
+      "published": "2025-11-06T07:22:00+00:00",
+      "summary": "The threat actor known as Curly COMrades has been observed exploiting virtualization technologies as a way to bypass security solutions and execute custom malware.\nAccording to a new report from Bitdefender, the adversary is said to have enabled the Hyper-V role on selected victim systems to deploy a minimalistic, Alpine Linux-based virtual machine.\n\"This hidden environment, with its lightweight",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGBz7Fh35GCGnvq_75iKz59PN9dxPcO-sdZAGTMvQPVJ9tzq2wM8w5LzPxk1ZR8TITolw6e66VvmGhhE4Mu66MyW71fGIK1jVGkZU0TTOP01chaZWdcGzVYPwPMDz5spgt8ZajT7HOTW8cRBpFmudNWD6XIlQiZto9DdeuUPYUvGh4kOISUNI0TDt7DLq7/s1600/iwndows.jpg"
+    },
+    {
+      "id": "49debecc43cf740b3327a172314c4a3b1a992e6a",
+      "title": "SonicWall Confirms State-Sponsored Hackers Behind September Cloud Backup Breach",
+      "url": "https://thehackernews.com/2025/11/sonicwall-confirms-state-sponsored.html",
+      "published": "2025-11-06T05:40:00+00:00",
+      "summary": "SonicWall has formally implicated state-sponsored threat actors as behind the September security breach that led to the unauthorized exposure of firewall configuration backup files.\n\"The malicious activity \u2013 carried out by a state-sponsored threat actor - was isolated to the unauthorized access of cloud backup files from a specific cloud environment using an API call,\" the company said in a",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCctUHc2OwM5F5Go-oWrnOzWRy5rrZrPA9u_OmYGFNNdrNxWTlUsNxHk134jH39G9AHzVVg_7R7XBXc-T4uGSZQBDiZMsIgC9M5aE3-JER0ftfAvAot8TRt499b_yFXIfYXTcF700DOwAInSqJSTdG33hgMcXrU5wXLTCg-G_q8xFNMs5WGaOeGzfQV2vK/s1600/sonicwall.jpg"
     },
     {
       "id": "384b0ff98fed3297d9c6c8eb657a3f17abfa4405",
       "title": "Google Uncovers PROMPTFLUX Malware That Uses Gemini AI to Rewrite Its Code Hourly",
       "url": "https://thehackernews.com/2025/11/google-uncovers-promptflux-malware-that.html",
       "published": "2025-11-05T15:33:00+00:00",
-      "summary": "Google on Wednesday said it discovered an unknown threat actor using an experimental Visual Basic Script (VB Script) malware dubbed PROMPTFLUX that interacts with its Gemini artificial intelligence (AI) model API to write its own source code for improved obfuscation and evasion.\n\"PROMPTFLUX is written in VBScript and interacts with Gemini's API to request specific VBScript obfuscation and",
+      "summary": "Google on Wednesday said it discovered an unknown threat actor using an experimental Visual Basic Script (VB Script) malware dubbed PROMPTFLUX that interacts with its Gemini artificial intelligence (AI) model API to write its own source code for improved obfuscation and evasion.\n\"PROMPTFLUX is written in VB Script and interacts with Gemini's API to request specific VBScript obfuscation and",
       "source": "The Hacker News",
       "region": "North America",
       "country": "US",
@@ -629,37 +662,26 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRqDg4meP42AOosMdpQlHsFbpyLK_CI4zHlECaRACwTo7Dejigq3qACm17aG33bE67yt8pWOUOrz3jbiAAGyTHSRoZAA7wL5bEvXwFLxBKPt9UXZCfxEGOi6ZF5I4AbEm8tgWrBbkMqz4fvXAHOv7R8t6Pxro5eWMJzypdAmItOAXDz_j_5TYZi7VpeylM/s1600/android-malware.jpg"
     },
     {
-      "id": "91d217acc153d7d80d5867b79313ed1727289855",
-      "title": "Researchers Expose GhostCall and GhostHire: BlueNoroff's New Malware Chains",
-      "url": "https://thehackernews.com/2025/10/researchers-expose-ghostcall-and.html",
-      "published": "2025-10-28T16:12:00+00:00",
-      "summary": "Threat actors tied to North Korea have been observed targeting the Web3 and blockchain sectors as part of twin campaigns tracked as GhostCall and GhostHire.\nAccording to Kaspersky, the campaigns are part of a broader operation called SnatchCrypto that has been underway since at least 2017. The activity is attributed to a Lazarus Group sub-cluster called BlueNoroff, which is also known as APT38,",
-      "source": "The Hacker News",
+      "id": "4f3cb306d598cec14a2f8e0f3307c32e483d0135",
+      "title": "Multiple ChatGPT Security Bugs Allow Rampant Data Theft",
+      "url": "https://www.darkreading.com/application-security/multiple-chatgpt-security-bugs-rampant-data-theft",
+      "published": "2025-11-06T10:00:00+00:00",
+      "summary": "Attackers can use them to inject arbitrary prompts, exfiltrate personal user information, bypass safety mechanisms, and take other malicious actions.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMbkAsrs6YvT6hgAJ1VD5h6DLPGjqLKZoVnv-Y9DUffXGlUHJ13omcv_O1rJJDQB7y_c8akQmP99DzBy1VAWYpxqTqY2fzxZUW0j3ON2wOQGzWt1QCyvCQGg_1R_tpZaeBadjWqFsiGPaY-zLKsWtXMEJfTpWEO2kkv_lvyl_q6Hk2Lx9EcJGCxGcsFLOK/s1600/gjost-hacker.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5e4cc096e6f29a85/690b84a196c0541fffb6173a/openai_PeachY_Photograph_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "422a17518f0a1b82bca53c9198869e469559806b",
-      "title": "Why Early Threat Detection Is a Must for Long-Term Business Growth",
-      "url": "https://thehackernews.com/2025/10/why-early-threat-detection-is-must-for.html",
-      "published": "2025-10-28T11:55:00+00:00",
-      "summary": "In cybersecurity, speed isn\u2019t just a win \u2014 it\u2019s a multiplier. The faster you learn about emerging threats, the faster you adapt your defenses, the less damage you suffer, and the more confidently your business keeps scaling. Early threat detection isn\u2019t about preventing a breach someday: it\u2019s about protecting the revenue you\u2019re supposed to earn every day.\nCompanies that treat cybersecurity as a",
-      "source": "The Hacker News",
+      "id": "9a00ddf3b9b7a06874a9de78aa3cf3ceb3e15760",
+      "title": "APT 'Bronze Butler' Exploits Zero-Day to Root Japan Orgs",
+      "url": "https://www.darkreading.com/application-security/bronze-butler-apt-exploits-zero-day-vuln-root-japan",
+      "published": "2025-11-06T02:00:00+00:00",
+      "summary": "A critical security issue in a popular endpoint manager (CVE-2025-61932) allowed Chinese state-sponsored attackers to backdoor Japanese businesses.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjahIAFVAlDP3Fg0ZEiWhBxiZNiuovhyYDTY1yaKWFxZ3inBHxDKuycmzTZMk_vJvOKVrIYlsh6_rR_-kK1VY2bR5V-E7Nw5QWvXm3UTFCUdUJyPyBo6hS5XUE4fpoPYtSzxnMRoyxINGnZeP_qWmO_QxdG4jin0uGtzYcG0qgg2Guqv8x4x7q8yuVlWLQ/s1600/anyrun-main.jpg"
-    },
-    {
-      "id": "0f39e165a5eb99ca55daf345c7e7acbff1c8458c",
-      "title": "Is Your Google Workspace as Secure as You Think it is?",
-      "url": "https://thehackernews.com/2025/10/is-your-google-workspace-as-secure-as.html",
-      "published": "2025-10-28T10:30:00+00:00",
-      "summary": "The New Reality for Lean Security Teams\nIf you\u2019re the first security or IT hire at a fast-growing startup, you\u2019ve likely inherited a mandate that\u2019s both simple and maddeningly complex: secure the business without slowing it down.\nMost organizations using Google Workspace start with an environment built for collaboration, not resilience. Shared drives, permissive settings, and constant",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyefAwM_xLJ_3Su0-Eqr3MGmfs-wjuOGIjuyyR3Adh4daM2ho6_h6VZVGAVSON8AzQQbskUSrJuBavVYRyKBYFC6AhdHQRqgwpAhebsB179jetDhl-MJl8ZUuE-mSQbBYp4h0ewYpZC7-D5oxWVWTMWmU8Dqc2sK0Tt5_gvOySGgR7umpGc-yJZfWnQ8o/s1600/unnamed.png"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc4fb1e58a83989e5/690bb5e164cd7f024c52e137/butler-Steve_Cukrov-alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "id": "73aa4bd76b07e5c82c341741c22b4370df1ef21f",
@@ -1190,26 +1212,26 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc10bcbab3ad0b3d2/68ff589fbbe1f98bb9e59c94/Ransomware(1800)_Olekcii_Mach_Alamy.png?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "b62b0269770752a60afb8789d42cbd580e933f0b",
-      "title": "Microsoft Issues Emergency Patch for Critical Windows Server Bug",
-      "url": "https://www.darkreading.com/vulnerabilities-threats/microsoft-emergency-patch-windows-server-bug",
-      "published": "2025-10-24T19:34:00+00:00",
-      "summary": "Microsoft initially fixed CVE-2025-59287 in the WSUS update mechanism in the October 2025 Patch Tuesday release, but the company has now issued a second, out-of-band update for the flaw, which is under attack in the wild.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta7a4a2724e18e30a/68fbc965ed1c98ea37a830aa/emergency_RomanMilert_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "id": "0f2cce67fa7c7307bf930dd1a0bde47c6009d526",
+      "title": "Malware-pwned laptop gifts cybercriminals Nikkei's Slack",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2025/11/06/nikkeis_private_chats_go_public/",
+      "published": "2025-11-06T10:51:00+00:00",
+      "summary": "<h4>Stolen creds let miscreants waltz into 17K employees' chats, spilling info on staff and partners</h4> <p>Japanese media behemoth Nikkei has admitted to a data breach after miscreants slipped into its internal Slack workspace, exposing the personal details of more than 17,000 employees and business partners.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "adeeb695e957f99e6dd73700ac66548d9d6c4dcc",
-      "title": "How CISA Layoffs Weaken Civilian Cyber Defense",
-      "url": "https://www.darkreading.com/cybersecurity-operations/cisa-layoffs-weaken-civilian-cyber-defense",
-      "published": "2025-10-24T17:41:33+00:00",
-      "summary": "Cyber teams need to get to work backfilling diminishing federal resources, according to Alexander Garcia-Tobar, who shares clear steps on a path forward for protecting enterprises with less CISA help.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt06df731645de953c/68fbc56481debbca7a5b6cef/CISA-SOPA_Images_Limited_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "id": "06315fcb200b1ee821c86ab2503c00e2afde8f34",
+      "title": "Why UK businesses are paying ICO millions for password mistakes you're probably making right now",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2025/11/06/why_uk_businesses_paying/",
+      "published": "2025-11-06T09:00:09+00:00",
+      "summary": "<h4>Strongly-worded emails to staff telling them to be more careful aren't going to cut it anymore</h4> <p><strong>Partner Content</strong>\u00a0 UK GDPR Article 32 mandates \"appropriate security measures\". The ICO has defined what that means: multi-million-pound fines for password failures. The violations that trigger them? Small, familiar, and happening in your organization right now.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
       "id": "a16a911c206d0a7b1c626983908f57a59cfe8b92",
@@ -1740,25 +1762,14 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "972e221efce837800214c67b8ae071eee4e1ffe8",
-      "title": "You have one week to opt out or become fodder for LinkedIn AI training",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/10/27/linkedin_ai_profile_scraping/",
-      "published": "2025-10-27T15:17:39+00:00",
-      "summary": "<h4>Nations previously exempt from scraping now in the firing line</h4> <p>If you thought living in Europe, Canada, or Hong Kong meant you were protected from having LinkedIn scrape your posts to train its AI, think again. You have a week to opt out before the Microsoft subsidiary assumes you're fine with it.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "8cb0701c9ec888e7e122bd80735de9525a565a34",
-      "title": "Researchers exploit OpenAI's Atlas by disguising prompts as URLs",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/10/27/openai_atlas_prompt_injection/",
-      "published": "2025-10-27T13:54:17+00:00",
-      "summary": "<h4>NeuralTrust shows how agentic browser can interpret bogus links as trusted user commands</h4> <p>Researchers have found more attack vectors for OpenAI's new Atlas web browser \u2013 this time by disguising a potentially malicious prompt as an apparently harmless URL.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
+      "id": "617b1c2d5302199b8cf25a2460a57e8001890c2d",
+      "title": "Cloudflare Scrubs Aisuru Botnet from Top Domains List",
+      "url": "https://krebsonsecurity.com/2025/11/cloudflare-scrubs-aisuru-botnet-from-top-domains-list/",
+      "published": "2025-11-06T02:04:36+00:00",
+      "summary": "For the past week, domains associated with the massive Aisuru botnet have repeatedly usurped Amazon, Apple, Google and Microsoft in Cloudflare's public ranking of the most frequently requested websites. Cloudflare responded by redacting Aisuru domain names from their top websites list. The chief executive at Cloudflare says Aisuru's overlords are using the botnet to boost their malicious domain rankings, while simultaneously attacking the company's domain name system (DNS) service.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
@@ -1839,6 +1850,61 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "bf5354385052b84b254572a8429dfb70c7ec9dc8",
+      "title": "DeFi Protocol Balancer Starts Recovering Funds Stolen in $128 Million Heist",
+      "url": "https://www.securityweek.com/defi-protocol-balancer-starts-recovering-funds-stolen-in-128-million-heist/",
+      "published": "2025-11-06T12:11:52+00:00",
+      "summary": "<p>Hackers drained more cryptocurrency from Balancer by exploiting a rounding function and performing batch swaps.</p>\n<p>The post <a href=\"https://www.securityweek.com/defi-protocol-balancer-starts-recovering-funds-stolen-in-128-million-heist/\">DeFi Protocol Balancer Starts Recovering Funds Stolen in $128 Million Heist</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "6b4dce8f8df4656c50566037329c989c51303568",
+      "title": "Nevada Ransomware Attack Started Months Before It Was Discovered, Per Report",
+      "url": "https://www.securityweek.com/nevada-ransomware-attack-started-months-before-it-was-discovered-per-report/",
+      "published": "2025-11-06T11:54:11+00:00",
+      "summary": "<p>The ransomware attack discovered in August occurred as early as May when a state employee mistakenly downloaded malicious software.</p>\n<p>The post <a href=\"https://www.securityweek.com/nevada-ransomware-attack-started-months-before-it-was-discovered-per-report/\">Nevada Ransomware Attack Started Months Before It Was Discovered, Per Report</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "a42105684f6d69fed79f39a58f66ef7152a45149",
+      "title": "Automotive IT Firm Hyundai AutoEver Discloses Data Breach",
+      "url": "https://www.securityweek.com/automotive-it-firm-hyundai-autoever-discloses-data-breach/",
+      "published": "2025-11-06T11:17:41+00:00",
+      "summary": "<p>Hyundai AutoEver America was hacked in February and the attackers managed to steal SSNs and other personal data.</p>\n<p>The post <a href=\"https://www.securityweek.com/automotive-it-firm-hyundai-autoever-discloses-data-breach/\">Automotive IT Firm Hyundai AutoEver Discloses Data Breach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "9229a4ecfdb5850aa9d17e325442c78c67ada702",
+      "title": "Cisco Patches Critical Vulnerabilities in Contact Center Appliance",
+      "url": "https://www.securityweek.com/cisco-patches-critical-vulnerabilities-in-contact-center-appliance/",
+      "published": "2025-11-06T10:20:31+00:00",
+      "summary": "<p>The flaws allow attackers to execute arbitrary code remotely and elevate their privileges to root on an affected system.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisco-patches-critical-vulnerabilities-in-contact-center-appliance/\">Cisco Patches Critical Vulnerabilities in Contact Center Appliance</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "de3bb9ef94724c2ea2a42d1dc5710acea000208a",
+      "title": "State-Sponsored Hackers Stole SonicWall Cloud Backups in Recent Attack",
+      "url": "https://www.securityweek.com/state-sponsored-hackers-stole-sonicwall-cloud-backups-in-recent-attack/",
+      "published": "2025-11-06T09:51:54+00:00",
+      "summary": "<p>The threat actor stole the firewall configuration files of all SonicWall customers who used the cloud backup service.</p>\n<p>The post <a href=\"https://www.securityweek.com/state-sponsored-hackers-stole-sonicwall-cloud-backups-in-recent-attack/\">State-Sponsored Hackers Stole SonicWall Cloud Backups in Recent Attack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "bc5ce5385124d7d6d9e4d52005fd01551b0f9964",
       "title": "Malware Now Uses AI During Execution to Mutate and Collect Data, Google Warns",
       "url": "https://www.securityweek.com/malware-now-uses-ai-during-execution-to-mutate-and-collect-data-google-warns/",
@@ -1884,65 +1950,10 @@
     },
     {
       "id": "7453c2b5f2a8965290e245bb109f0a7227f50574",
-      "title": "Malanta Emerges from Stealth With $10 Million Seed Funding",
+      "title": "Malanta Emerges From Stealth With $10 Million Seed Funding",
       "url": "https://www.securityweek.com/malanta-emerges-from-stealth-with-10-million-seed-funding/",
       "published": "2025-11-05T13:00:00+00:00",
-      "summary": "<p>Malanta collects and analyzes digital breadcrumbs that attackers leave behind and then forecasts how and when they will be weaponized.</p>\n<p>The post <a href=\"https://www.securityweek.com/malanta-emerges-from-stealth-with-10-million-seed-funding/\">Malanta Emerges from Stealth With $10 Million Seed Funding</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "78ecce334e2215a27c46e604ebb681d6f5229e88",
-      "title": "ConductorOne Raises $79 Million in Series B Funding",
-      "url": "https://www.securityweek.com/conductorone-raises-79-million-in-series-b-funding/",
-      "published": "2025-11-05T12:45:18+00:00",
-      "summary": "<p>Leveraging AI, ConductorOne\u2019s platform secures and manages millions of human, non-human, and AI identities.</p>\n<p>The post <a href=\"https://www.securityweek.com/conductorone-raises-79-million-in-series-b-funding/\">ConductorOne Raises $79 Million in Series B Funding</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "44d8017f80cea2a6c47e46d59c6fedf2ac06dbf8",
-      "title": "Exploited \u2018Post SMTP\u2019 Plugin Flaw Exposes WordPress Sites to Takeover",
-      "url": "https://www.securityweek.com/exploited-post-smtp-plugin-flaw-exposes-wordpress-sites-to-takeover/",
-      "published": "2025-11-05T11:52:55+00:00",
-      "summary": "<p>The critical vulnerability allows attackers to read arbitrary emails, including password reset messages.</p>\n<p>The post <a href=\"https://www.securityweek.com/exploited-post-smtp-plugin-flaw-exposes-wordpress-sites-to-takeover/\">Exploited &#8216;Post SMTP&#8217; Plugin Flaw Exposes WordPress Sites to Takeover\u00a0</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "88cb8b83da587241caeadac28f9358ca7f030652",
-      "title": "Daylight Raises $33 Million for AI-Powered MDR Platform",
-      "url": "https://www.securityweek.com/daylight-raises-33-million-for-ai-powered-mdr-platform/",
-      "published": "2025-11-05T11:32:35+00:00",
-      "summary": "<p>The funding will fuel the development of Daylight\u2019s security operations platform and the launch of new protection modules.</p>\n<p>The post <a href=\"https://www.securityweek.com/daylight-raises-33-million-for-ai-powered-mdr-platform/\">Daylight Raises $33 Million for AI-Powered MDR Platform</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "62faf04e7998f0e8d71081d9a5e1b8ae2fe399ef",
-      "title": "Nikkei Says 17,000 Impacted by Data Breach Stemming From Slack Account Hack",
-      "url": "https://www.securityweek.com/nikkei-says-17000-impacted-by-data-breach-stemming-from-slack-account-hack/",
-      "published": "2025-11-05T11:24:22+00:00",
-      "summary": "<p>The Japanese media giant says compromised Slack credentials were used to steal employee and business partner information. </p>\n<p>The post <a href=\"https://www.securityweek.com/nikkei-says-17000-impacted-by-data-breach-stemming-from-slack-account-hack/\">Nikkei Says 17,000 Impacted by Data Breach Stemming From Slack Account Hack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "be65c1446d3a689cc45d8828bdd0852cd4cf4540",
-      "title": "Portal26 Raises $9 Million for Gen-AI Adoption Platform",
-      "url": "https://www.securityweek.com/portal26-raises-9-million-for-gen-ai-adoption-platform/",
-      "published": "2025-11-05T10:58:15+00:00",
-      "summary": "<p>The gen-AI adoption management platform will invest the funds in accelerating growth and product innovations.</p>\n<p>The post <a href=\"https://www.securityweek.com/portal26-raises-9-million-for-gen-ai-adoption-platform/\">Portal26 Raises $9 Million for Gen-AI Adoption Platform</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "summary": "<p>Malanta collects and analyzes digital breadcrumbs that attackers leave behind and then forecasts how and when they will be weaponized.</p>\n<p>The post <a href=\"https://www.securityweek.com/malanta-emerges-from-stealth-with-10-million-seed-funding/\">Malanta Emerges From Stealth With $10 Million Seed Funding</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
