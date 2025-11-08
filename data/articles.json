@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-08T00:39:41.559381+00:00",
+  "generated_at": "2025-11-08T12:15:03.726416+00:00",
   "items": [
     {
       "id": "f8d3459376e813123dc6cc4eee87dc00944b8d41",
@@ -113,14 +113,14 @@
     },
     {
       "id": "69640e87cb0c3c1675950d6d6103a610fa2e9618",
-      "title": "Samsung Zero-Click Flaw Exploited to Deploy LANDFALL Android Spyware via WhatsApp",
+      "title": "Samsung Mobile Flaw Exploited as Zero-Day to Deploy LANDFALL Android Spyware",
       "url": "https://thehackernews.com/2025/11/samsung-zero-click-flaw-exploited-to.html",
       "published": "2025-11-07T18:00:00+00:00",
       "summary": "A now-patched security flaw in Samsung Galaxy Android devices was exploited as a zero-day to deliver a \"commercial-grade\" Android spyware dubbed LANDFALL in targeted attacks in the Middle East.\nThe activity involved the exploitation of CVE-2025-21042 (CVSS score: 8.8), an out-of-bounds write flaw in the \"libimagecodec.quram.so\" component that could allow remote attackers to execute arbitrary",
       "source": "The Hacker News",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdhOylrNJgPq_bzsvS2qG1AdCinAMndCQNEMDlO3VsOwA6o-VnLrygJWZjT2BQpvpfVQHxBb9yHEtPP808hVW4YtrRVCph0tRxdvxlkXvGbnavRFlic8wBUPh9lUlE5q54kCFWkf7eaLPxUoV5dcgVEvfaIwHZvGKs9xLK1jyslyqIcVuoz22Wv85ZAxLp/s1600/1000031618.jpg"
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxnkLkwZDN9VORq3DEpVtJQh6phis8RMKVCTHdeszGmpt2Ec7PomBirtsbg7ySqLM49GAicSD8lxHN2AhVp4VgNOcpFl2FOLflhe6NqZHfug6F79FBkmakco2bPNOZCffW-oOAzKYevoWB3iNPnn6qbX8e9I98iaNOT3gS3ZD4fKVebHaxXCLjQy4pjCeE/s1600/mobile-exploit.jpg"
     },
     {
       "id": "af5e5ae81498edf5c83f0dd1e569ba622bea81cb",
@@ -1212,6 +1212,17 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1626f421d899df07/690129bd684cea47d8d05f02/omdia-tyler.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
+      "id": "86f3cbea37f2748ec3290c78cc2d460eda3635c4",
+      "title": "Who's watching the watchers? This Mozilla fellow, and her Surveillance Watch map",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2025/11/08/mozilla_fellow_al_shafei/",
+      "published": "2025-11-08T11:08:06+00:00",
+      "summary": "<h4>Esra'a Al Shafei spoke with The Reg about the spy tech 'global trade'</h4> <p><strong>interview</strong>\u00a0 Digital rights activist Esra'a Al Shafei found FinFisher spyware on her device more than a decade ago. Now she's made it her mission to surveil the companies providing surveillanceware, their customers, and their funders.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "cc7d222591a4b848a6fc756f31dcdce650043add",
       "title": "Previously unknown Landfall spyware used in 0-day attacks on Samsung phones",
       "url": "https://go.theregister.com/feed/www.theregister.com/2025/11/07/landfall_spyware_samsung_0days/",
@@ -1745,17 +1756,6 @@
       "url": "https://go.theregister.com/feed/www.theregister.com/2025/10/29/uk_government_cto/",
       "published": "2025-10-29T09:30:07+00:00",
       "summary": "<h4>Dangles \u00a3100K for someone to fix \u00a323B tech mess</h4> <p>The UK government is on the hunt for a new CTO after incumbent David Knott announced his departure, citing family reasons.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "0abe1c1920bc8c6f248ee80fa2fdae1b11cda402",
-      "title": "9 in 10 Exchange servers in Germany still running out-of-support software",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/10/29/germany_exchange_support/",
-      "published": "2025-10-29T08:00:15+00:00",
-      "summary": "<h4>Cybersecurity agency urges organizations to upgrade or risk total network compromise</h4> <p>Germany's infosec office (BSI) is sounding the alarm after finding that 92 percent of the nation's Exchange boxes are still running out-of-support software, a fortnight after Microsoft axed versions 2016 and 2019.\u2026</p>",
       "source": "The Register \u2013 Security",
       "region": "Europe",
       "country": "UK",
