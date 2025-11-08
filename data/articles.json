@@ -1,6 +1,28 @@
 {
-  "generated_at": "2025-11-07T12:16:52.315792+00:00",
+  "generated_at": "2025-11-08T00:39:41.559381+00:00",
   "items": [
+    {
+      "id": "f8d3459376e813123dc6cc4eee87dc00944b8d41",
+      "title": "Nevada ransomware attack traced back to malware download by employee",
+      "url": "https://www.cybersecuritydive.com/news/nevada-ransomware-attack-traced-back-to-malware-download-by-employee/805011/",
+      "published": "2025-11-07T16:36:02+00:00",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/t-fEQDtxshZAbkg-cRaAnn4_LvkuSPMfe4mIIi9yhOY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDQxNTE2NTYwLmpwZw==.webp\" /></div></figure><p>The state refused to pay a ransom and recovered 90% of the impacted data.</p>",
+      "source": "Cybersecurity Dive",
+      "region": "North America",
+      "country": "US",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "6e1e95aa5ef3948524f147d61457c48cab404f7c",
+      "title": "Cyberattacks surge against IoT, mobile devices in critical infrastructure",
+      "url": "https://www.cybersecuritydive.com/news/mobile-iot-attacks-surge-critical-infrastructure-zscaler/805008/",
+      "published": "2025-11-07T15:58:55+00:00",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/4sXKvGIHbz-z0PSL3BRdJQrD3m2pfJqLAES5d7CTXNY/g:nowe:0:42/c:2500:1412/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjI1NzEyNDYxLmpwZw==.webp\" /></div></figure><p>Manufacturing and energy firms saw some of the biggest increases in malware activity targeting connected devices.</p>",
+      "source": "Cybersecurity Dive",
+      "region": "North America",
+      "country": "US",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
     {
       "id": "5e584281fc6178a820d3dad962a28487e5471e07",
       "title": "In financial sector, vendors lag behind customers on cybersecurity",
@@ -90,26 +112,37 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "88b2bcd3de4adc0309ea3eaedec0f9de9b510607",
-      "title": "Cybercrime groups team with organized crime in massive cargo theft campaigns",
-      "url": "https://www.cybersecuritydive.com/news/cybercrime-organized-crime-cargo-theft-campaign/804501/",
-      "published": "2025-11-03T15:44:52+00:00",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/1DEuLV2jk1KGNy1hJBDih7lVnmwEysbb9EaDAmAZHzA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9EU0NfMDA2NC5ORUYuanBn.webp\" /></div></figure><p>Financially motivated hackers are abusing remote monitoring and access tools against trucking and freight companies, Proofpoint warns.</p>",
-      "source": "Cybersecurity Dive",
+      "id": "69640e87cb0c3c1675950d6d6103a610fa2e9618",
+      "title": "Samsung Zero-Click Flaw Exploited to Deploy LANDFALL Android Spyware via WhatsApp",
+      "url": "https://thehackernews.com/2025/11/samsung-zero-click-flaw-exploited-to.html",
+      "published": "2025-11-07T18:00:00+00:00",
+      "summary": "A now-patched security flaw in Samsung Galaxy Android devices was exploited as a zero-day to deliver a \"commercial-grade\" Android spyware dubbed LANDFALL in targeted attacks in the Middle East.\nThe activity involved the exploitation of CVE-2025-21042 (CVSS score: 8.8), an out-of-bounds write flaw in the \"libimagecodec.quram.so\" component that could allow remote attackers to execute arbitrary",
+      "source": "The Hacker News",
       "region": "North America",
       "country": "US",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdhOylrNJgPq_bzsvS2qG1AdCinAMndCQNEMDlO3VsOwA6o-VnLrygJWZjT2BQpvpfVQHxBb9yHEtPP808hVW4YtrRVCph0tRxdvxlkXvGbnavRFlic8wBUPh9lUlE5q54kCFWkf7eaLPxUoV5dcgVEvfaIwHZvGKs9xLK1jyslyqIcVuoz22Wv85ZAxLp/s1600/1000031618.jpg"
     },
     {
-      "id": "ae8cdcd7151fc442738a205c867a9e0ec6b17fb5",
-      "title": "Windows Server Update Service exploitation ensnares at least 50 victims",
-      "url": "https://www.cybersecuritydive.com/news/windows-server-update-service-exploitation-50-victims/804362/",
-      "published": "2025-10-31T11:12:13+00:00",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/v5ZwxHS6ZFhwHbLAmpWOWj1Seoc_bnNS6vCuMm05zL4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NaWNyb3NvZnRfR2V0dHlJbWFnZXMtMTUwOTMxMDM4My5qcGc=.webp\" /></div></figure><p>Researchers say hackers could be gathering intelligence for future attacks, and authorities warn users to apply patches and check for compromise.</p>",
-      "source": "Cybersecurity Dive",
+      "id": "af5e5ae81498edf5c83f0dd1e569ba622bea81cb",
+      "title": "From Log4j to IIS, China\u2019s Hackers Turn Legacy Bugs into Global Espionage Tools",
+      "url": "https://thehackernews.com/2025/11/from-log4j-to-iis-chinas-hackers-turn.html",
+      "published": "2025-11-07T16:07:00+00:00",
+      "summary": "A China-linked threat actor has been attributed to a cyber attack targeting an U.S. non-profit organization with an aim to establish long-term persistence, as part of broader activity aimed at U.S. entities that are linked to or involved in policy issues.\nThe organization, according to a report from Broadcom's Symantec and Carbon Black teams, is \"active in attempting to influence U.S. government",
+      "source": "The Hacker News",
       "region": "North America",
       "country": "US",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghZqCg2FCyFs0KtendNTgM4kewxtAD-fYM5tkn2HDgCT7zqWB-FhYCeJWfm7eeYgQ0ip9aM7jsB1Ix3uGJqIeuJ8R96V4N7fGEOmKsPADGI_yBY5t-PdMm_troy6kaZ6NHtF4fQobzpxaMu9FqSPBvQGeZoVADWx54U9zHT5JvFHQUWdxkY73A2bEPhHg/s1600/1000031591.jpg"
+    },
+    {
+      "id": "a3366fad1f259c8c4b54046f6f675f8ec9ddd69d",
+      "title": "Hidden Logic Bombs in Malware-Laced NuGet Packages Set to Detonate Years After Installation",
+      "url": "https://thehackernews.com/2025/11/hidden-logic-bombs-in-malware-laced.html",
+      "published": "2025-11-07T11:55:00+00:00",
+      "summary": "A set of nine malicious NuGet packages has been identified as capable of dropping time-delayed payloads to sabotage database operations and corrupt industrial control systems.\nAccording to software supply chain security company Socket, the packages were published in 2023 and 2024 by a user named \"shanhai666\" and are designed to run malicious code after specific trigger dates in August 2027 and",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgO8rdEXn4OiPHiiJnsEymue5DlWPMj7u6ZfFy77r6q_HntR6yOsA-4dEQXLqdkPUJNs9TwgPJO4TeBDDz5nsX3QZkIi_I1Be45_AXRqgDkEuMuu8-pvYj0sAQfYCltYGbWMup2aRypVEyCSyAF46haWxabn5UPUPnCl_TnG6H4FvB62Hxa2ITd_vcZRr8X/s1600/countdown-malware.jpg"
     },
     {
       "id": "3e16bc219981dd5cf686f85163904a4b3d9e897e",
@@ -629,37 +662,70 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgFjzmzkNrkKADylrwEMbXfJunGKEjaABUl6du-8jHmRjLcCttz7ppiq6xeoln6n2HiAd84y27XQD1LtPPlGSMbqVOk0S3xfdWlTa9ng7reAU4iAapmmJlorwCam4AyT4Sdw3KiNXyx_KLuuH6_uCdxLBLjyO7fvUzx2OwecJv0_hOR8svqk1aQLrY5O6R/s1600/threatsday-main.jpg"
     },
     {
-      "id": "6ddf62cd90f6e2d540b103013347542a99450088",
-      "title": "PhantomRaven Malware Found in 126 npm Packages Stealing GitHub Tokens From Devs",
-      "url": "https://thehackernews.com/2025/10/phantomraven-malware-found-in-126-npm.html",
-      "published": "2025-10-30T10:16:00+00:00",
-      "summary": "Cybersecurity researchers have uncovered yet another active software supply chain attack campaign targeting the npm registry with over 100 malicious packages that can steal authentication tokens, CI/CD secrets, and GitHub credentials from developers' machines.\nThe campaign has been codenamed PhantomRaven by Koi Security. The activity is assessed to have begun in August 2025, when the first",
-      "source": "The Hacker News",
+      "id": "50c294be980d2a5de59579f0a9d2f565b620e23b",
+      "title": "'Landfall' Malware Targeted Samsung Galaxy Users",
+      "url": "https://www.darkreading.com/mobile-security/landfall-malware-targeted-samsung-galaxy-users",
+      "published": "2025-11-07T21:15:29+00:00",
+      "summary": "The tool let its operators secretly record conversations, track device locations, capture photos, collect contacts, and perform other surveillance on compromised devices.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj31UtIt0Lur5O3mf05d1BdnLD2HsKoFcI_Vaw9588BLmRnbIc-KOZw0fu3zEOBPjuPruB5dQl5meERoueSccVt_u6jjX9Kegwb_eE9Or4tfMxksfhb66Ae8eEcesNFRMwv93aRxrZdvKtFZ1_4VdbYKyOQ7O01bOmo4KeW8y76Rp46ezeMZniD1T63D76n/s1600/github.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltafc10d816f4a797b/690e567abae067cac2a9159e/andoid_Tero_Vesalainen_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "403719fe8288d2f6813132864106b1235920c040",
-      "title": "Experts Reports Sharp Increase in Automated Botnet Attacks Targeting PHP Servers and IoT Devices",
-      "url": "https://thehackernews.com/2025/10/experts-reports-sharp-increase-in.html",
-      "published": "2025-10-29T15:38:00+00:00",
-      "summary": "Cybersecurity researchers are calling attention to a spike in automated attacks targeting PHP servers, IoT devices, and cloud gateways by various botnets such as Mirai, Gafgyt, and Mozi.\n\"These automated campaigns exploit known CVE vulnerabilities and cloud misconfigurations to gain control over exposed systems and expand botnet networks,\" the Qualys Threat Research Unit (TRU) said in a report",
-      "source": "The Hacker News",
+      "id": "97f0e648d704b135e89e0f5b4c27e5432d5ae58c",
+      "title": "'Ransomvibing' Infests Visual Studio Extension Market",
+      "url": "https://www.darkreading.com/application-security/ransomvibing-infests-visual-studio-extension-market",
+      "published": "2025-11-07T20:36:15+00:00",
+      "summary": "A published VS Code extension didn't hide the fact that it encrypts and exfiltrates data and also failed to remove obvious signs it was AI-generated.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivAUs8CWZuMjytXCzRiRr1Njj-R-Sv2PglgPmqZCLMHd71SMJyPl8hh9RPTqhzeZm7OJ7BdDEOO0b5bODPEvOl6uOB4cA1Hobq1j_O6uIsuFSqDMp-lyswH6W3-NIkX3fmGCsvU93B9OlouN-ngLew2lqxLFpQHA5NgedY2CQcyZQ-W4-GEtj-CK01hEb9/s1600/php-site.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf6604e778807e747/690e294e03df7362ac274c88/Locked_laptop_Andreas_Prott_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "898dd0018aec198979c8a368cccfa2b85a3bd472",
-      "title": "New AI-Targeted Cloaking Attack Tricks AI Crawlers Into Citing Fake Info as Verified Facts",
-      "url": "https://thehackernews.com/2025/10/new-ai-targeted-cloaking-attack-tricks.html",
-      "published": "2025-10-29T14:57:00+00:00",
-      "summary": "Cybersecurity researchers have flagged a new security issue in agentic web browsers like OpenAI ChatGPT Atlas that exposes underlying artificial intelligence (AI) models to context poisoning attacks.\nIn the attack devised by AI security company SPLX, a bad actor can set up websites that serve different content to browsers and AI crawlers run by ChatGPT and Perplexity. The technique has been",
-      "source": "The Hacker News",
+      "id": "a5d8376b615679286be1410fecba4a6fbd9177eb",
+      "title": "Microsoft Backs Massive AI Push in UAE, Raising Security Concerns",
+      "url": "https://www.darkreading.com/cyber-risk/microsoft-massive-ai-push-uae-security-concerns",
+      "published": "2025-11-07T20:08:51+00:00",
+      "summary": "In partnership with Emirates tech company G42, Microsoft is building the first stage of a 5-gigawatt US-UAE AI campus using Nvidia GPUs.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7Zf17lOXR_Z03iHmWh_BUjSexeLn117N0KiHTTh8NCcDhuLDju5f6EpPZDtp1uPqHTV-h6-ebxTdZOoRuYRglmJVPig9BfOx-O0k8Yz0ms1Ghk4r8k_9ZVC36xPuvvXpJsT4WFiTUBmLEw-oYCVIpXxINdhOySH0ysqaG40exTNITYuMuIxb3wLNXm71H/s1600/ai-news.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt191e1dba20de4ea9/690e0875a333b01c7b4be2d6/Microsoft-Dubai-office-UAE-tashmetova808-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
+      "id": "71a9d0b6bd57a3c7a81d37bae06919ade6f633c0",
+      "title": "AI Agents Are Going Rogue: Here's How to Rein Them In",
+      "url": "https://www.darkreading.com/cyber-risk/ai-agents-going-rogue",
+      "published": "2025-11-07T15:00:00+00:00",
+      "summary": "Human-centered identity frameworks are incorrectly being applied to AI agents, creating the potential for catastrophe at machine speed, Poghosyan argues.",
+      "source": "DarkReading",
+      "region": "North America",
+      "country": "US",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3c003bbc98535214/690d2d9cb7095674342285e7/rogue_AO_bot_Chris_Light_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
+      "id": "a740384ad62b7d724d0b7aadc957ec6c41dd733e",
+      "title": "AI Security Agents Get Persona Makeovers",
+      "url": "https://www.darkreading.com/cybersecurity-operations/ai-security-agents-get-personas-make-them-more-appealing",
+      "published": "2025-11-07T14:29:08+00:00",
+      "summary": "New synthetic security staffers promise to bring artificial intelligence comfortably into the security operations center, but they will require governance to protect security.",
+      "source": "DarkReading",
+      "region": "North America",
+      "country": "US",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte217b770933bdcd6/690ceee03ce143613d3f62e0/man-selecting-AI-agent-ImageFlow-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
+      "id": "aa46c28774ac910446c3df51dfa127e76e61a101",
+      "title": "Ollama, Nvidia Flaws Put AI Infrastructure at Risk",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/ollama-nvidia-flaws-ai-infrastructure-risk",
+      "published": "2025-11-07T14:00:00+00:00",
+      "summary": "Security researchers discovered multiple vulnerabilities in AI infrastructure products, including one capable of remote code execution.",
+      "source": "DarkReading",
+      "region": "North America",
+      "country": "US",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta70bc9104c4eee83/690ce58246bf1463657b38a9/RCE_concept_MauriceNorbert_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "id": "d5f9a94b343e69513b8b53194097174cb98bbc78",
@@ -1146,70 +1212,37 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1626f421d899df07/690129bd684cea47d8d05f02/omdia-tyler.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "7a3c11831bc1c5b0a122de56330040f2d5528e82",
-      "title": "YouTube Ghost Network Utilizes Spooky Tactics to Target Users",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/youtube-ghost-network-target-users",
-      "published": "2025-10-28T20:22:39+00:00",
-      "summary": "The malware operation uses compromised accounts and bot networks to distribute infostealers and has tripled its output in 2025.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb89e9b85020e75c6/690123b3ad73935090d9a856/casper_ghost1800_Maximum_Film_alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "id": "cc7d222591a4b848a6fc756f31dcdce650043add",
+      "title": "Previously unknown Landfall spyware used in 0-day attacks on Samsung phones",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2025/11/07/landfall_spyware_samsung_0days/",
+      "published": "2025-11-07T21:38:35+00:00",
+      "summary": "<h4>'Precision espionage campaign' began months before the flaw was fixed</h4> <p>A previously unknown Android spyware family called LANDFALL exploited a zero-day in Samsung Galaxy devices for nearly a year, installing surveillance code capable of recording calls, tracking locations, and harvesting photos and logs before Samsung finally patched it in April.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "4b78fd6b57d49b89246a1173f2034129ddbcd317",
-      "title": "Oracle EBS Attack Victims May Be More Numerous Than Expected",
-      "url": "https://www.darkreading.com/vulnerabilities-threats/oracle-ebs-attack-victims-more-numerous-expected",
-      "published": "2025-10-28T20:08:01+00:00",
-      "summary": "Numerous organizations have been attacked via Oracle EBS zero-day CVE-2025-61882, and evidence suggests more like Schneider Electric could be on that list.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt84b397e886b95360/6901186d21c8152e7e2296b9/Schneider_Electric_sign_Kristoffer_Tripplaar_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "id": "83f53d313aa7412b6062172730021533b6acddde",
+      "title": "Cybercrims plant destructive time bomb malware in industrial .NET extensions",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2025/11/07/cybercriminals_plant_destructive_time_bomb/",
+      "published": "2025-11-07T15:26:22+00:00",
+      "summary": "<h4>Multi-year wait for destruction comes to an end for mystery attackers</h4> <p>Security experts have helped remove malicious NuGet packages planted in 2023 that were designed to destroy systems years in advance, with some payloads not due to hit until the latter part of this decade.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "926879968ae51d607a1636dc5ec6ca7d1ed2752d",
-      "title": "North Korea's BlueNoroff Expands Scope of Crypto Heists",
-      "url": "https://www.darkreading.com/threat-intelligence/north-korea-bluenoroff-expands-crypto-heists",
-      "published": "2025-10-28T16:10:39+00:00",
-      "summary": "Two campaigns targeting fintech execs and Web3 developers show the APT going cross-platform in financially motivated campaigns that use fake business collaboration and job recruitment lures.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt57db0c11334bd5df/6900ac3379e29d67ed93d84c/northkorea_DD_Images_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
-      "id": "2c591ae0a4c2db755d668e9cc41be0f00db5199a",
-      "title": "'Jingle Thief' Highlights Retail Cyber Threats",
-      "url": "https://www.darkreading.com/cyber-risk/jingle-thief-highlights-retail-cyber-threats",
-      "published": "2025-10-27T21:10:10+00:00",
-      "summary": "A Morocco-based gift card fraud campaign is a sign of what retailers can expect this holiday season.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6dd3a7d51ad2fd2a/6900e08a0473aa12e1362437/jinglebells-Hana_Bartosova-alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
-      "id": "26990a52ed5dcae0eaa80c7d2877af1eb9a72398",
-      "title": "Memento Spyware Tied to Chrome Zero-Day Attacks",
-      "url": "https://www.darkreading.com/vulnerabilities-threats/memento-spyware-chrome-zero-day-attacks",
-      "published": "2025-10-27T20:02:02+00:00",
-      "summary": "While investigating the cyberattacks, researchers uncovered a new spyware product from Memento Labs, the successor to the infamous Hacking Team.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltdae75cd2e4a25722/68ffca0ab4940c92557cdcf3/memento_Pictorial_Press_Ltd_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
-      "id": "cef84a7ea3778f0c8dd5d8f29e3f324105c9b4ee",
-      "title": "CISOs Finally Get a Seat at the Board's Table \u2014 But There's a Catch",
-      "url": "https://www.darkreading.com/cybersecurity-operations/cisos-finally-get-seat-board-table",
-      "published": "2025-10-27T19:30:08+00:00",
-      "summary": "AI's explosive growth has lifted cybersecurity to the top of the board's agenda. Here's how CISOs can seize the moment, according to Diana Kelley.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt33360cbc40729951/68ffc2677c34e84dcd9b2694/slip_on_banana_peel_Sean_Prior_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "id": "3486f372118bcfc427f9694eaa1faae44d42acb1",
+      "title": "Microsoft's data sovereignty: Now with extra sovereignty!",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2025/11/07/microsoft_announces_strengthening_of_sovereignty/",
+      "published": "2025-11-07T12:22:18+00:00",
+      "summary": "<h4>Under shadow of US CLOUD Act, Redmond releases raft of services to calm customers in the EU</h4> <p>Microsoft is again banging the data sovereignty drum in Europe, months after admitting in a French court it couldn't guarantee that data will not be transmitted to the US government when it is legally required to do so.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
       "id": "755e15bef1902d0dd54ab176a18a7d102cb52a5e",
@@ -1729,39 +1762,6 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "cb0b35fdcd80a739d4b6d808e3fe185cd3d0c584",
-      "title": "Australian police building AI to translate emoji used by \u2018crimefluencers\u2019",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/10/29/afp_ai_commissioner_barrett_speech/",
-      "published": "2025-10-29T03:48:47+00:00",
-      "summary": "<h4>Five Eyes intel alliance has created a team to target these scum who prey on kids</h4> <p>Australia\u2019s Federal Police (AFP) is working on an AI to interpret emojis and the slang used online by Generation Z and Generation Alpha, so it can understand them when they discuss crime online.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "76e1755f336008686db456cccac839bb9231fb2f",
-      "title": "Clearview AI faces criminal heat for ignoring EU data fines",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/10/28/noyb_criminal_charges_clearview/",
-      "published": "2025-10-28T14:22:09+00:00",
-      "summary": "<h4>Noyb says New York-based facial recognition biz flouted GDPR orders and kept scraping anyway</h4> <p>Privacy advocates at Noyb filed a criminal complaint against Clearview AI for scraping social media users' faces without consent to train its AI algorithms.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "5c97f755237cb71519a5612c0716a63dabf005c4",
-      "title": "AI browsers face a security flaw as inevitable as death and taxes",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/10/28/ai_browsers_prompt_injection/",
-      "published": "2025-10-28T12:46:59+00:00",
-      "summary": "<h4>Agentic features open the door to data exfiltration or worse</h4> <p><strong>Feature</strong>\u00a0 With great power comes great vulnerability. Several new AI browsers, including OpenAI's Atlas, offer the ability to take actions on the user's behalf, such as opening web pages or even shopping. But these added capabilities create new attack vectors, particularly prompt injection.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
       "id": "617b1c2d5302199b8cf25a2460a57e8001890c2d",
       "title": "Cloudflare Scrubs Aisuru Botnet from Top Domains List",
       "url": "https://krebsonsecurity.com/2025/11/cloudflare-scrubs-aisuru-botnet-from-top-domains-list/",
@@ -1839,6 +1839,61 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "ee7f689f9bfd357268433dfa661fd5ab35a2618a",
+      "title": "In Other News: Controversial Ransomware Report, Gootloader Returns, More AN0M Arrests",
+      "url": "https://www.securityweek.com/in-other-news-controversial-ransomware-report-gootloader-returns-more-an0m-arrests/",
+      "published": "2025-11-07T16:20:49+00:00",
+      "summary": "<p>Other noteworthy stories that might have slipped under the radar: rogue ransomware negotiators charged, F5 hack prompts OT security guidance, Germany targets Huawei tech.</p>\n<p>The post <a href=\"https://www.securityweek.com/in-other-news-controversial-ransomware-report-gootloader-returns-more-an0m-arrests/\">In Other News: Controversial Ransomware Report, Gootloader Returns, More AN0M Arrests</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "a0033ab97b439cc7ac3f9a821bc142581ad42e8f",
+      "title": "Landfall Android Spyware Targeted Samsung Phones via Zero-Day",
+      "url": "https://www.securityweek.com/landfall-android-spyware-targeted-samsung-phones-via-zero-day/",
+      "published": "2025-11-07T15:29:34+00:00",
+      "summary": "<p>Threat actors exploited CVE-2025-21042 to deliver malware via specially crafted images to users in the Middle East.\u00a0</p>\n<p>The post <a href=\"https://www.securityweek.com/landfall-android-spyware-targeted-samsung-phones-via-zero-day/\">Landfall Android Spyware Targeted Samsung Phones via Zero-Day</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "941319d2bb96c9add6eff47260270132d7e17a41",
+      "title": "Radical Empowerment From Your Leadership: Understood by Few, Essential for All",
+      "url": "https://www.securityweek.com/radical-empowerment-from-your-leadership-understood-by-few-essential-for-all/",
+      "published": "2025-11-07T15:00:00+00:00",
+      "summary": "<p>When leaders redefine power as trust instead of control, teams unlock their potential \u2014 and organizations find their edge.</p>\n<p>The post <a href=\"https://www.securityweek.com/radical-empowerment-from-your-leadership-understood-by-few-essential-for-all/\">Radical Empowerment From Your Leadership: Understood by Few, Essential for All</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "acddca47fc5396666ca16310906faba8ff545a06",
+      "title": "Data Exposure Vulnerability Found in Deep Learning Tool Keras",
+      "url": "https://www.securityweek.com/data-exposure-vulnerability-found-in-deep-learning-tool-keras/",
+      "published": "2025-11-07T13:41:01+00:00",
+      "summary": "<p>The vulnerability is tracked as CVE-2025-12058 and it can be exploited for arbitrary file loading and conducting SSRF attacks.</p>\n<p>The post <a href=\"https://www.securityweek.com/data-exposure-vulnerability-found-in-deep-learning-tool-keras/\">Data Exposure Vulnerability Found in Deep Learning Tool Keras</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "a8c9f35ea6dbb56e802e402389e73797335ab944",
+      "title": "ClickFix Attacks Against macOS Users Evolving",
+      "url": "https://www.securityweek.com/clickfix-attacks-against-macos-users-evolving/",
+      "published": "2025-11-07T13:22:00+00:00",
+      "summary": "<p>ClickFix prompts typically contain instructions for Windows users, but now they are tailored for macOS and they are getting increasingly convincing.</p>\n<p>The post <a href=\"https://www.securityweek.com/clickfix-attacks-against-macos-users-evolving/\">ClickFix Attacks Against macOS Users Evolving</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "b2048ac23515faaa906c4acc0aa988016c5de8be",
       "title": "DOJ Antitrust Review Clears Google\u2019s $32 Billion Acquisition of Wiz",
       "url": "https://www.securityweek.com/doj-antitrust-review-clears-googles-32-billion-acquisition-of-wiz/",
@@ -1888,61 +1943,6 @@
       "url": "https://www.securityweek.com/18-arrested-in-crackdown-on-credit-card-fraud-rings/",
       "published": "2025-11-07T09:13:41+00:00",
       "summary": "<p>Between 2016 and 2021, the suspects defrauded 4.3 million cardholders in 193 countries of \u20ac300 million (~$346 million).</p>\n<p>The post <a href=\"https://www.securityweek.com/18-arrested-in-crackdown-on-credit-card-fraud-rings/\">18 Arrested in Crackdown on Credit Card Fraud Rings</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "0788bca4d039456cd3e3e92edb902fb91973de54",
-      "title": "Researchers Hack ChatGPT Memories and Web Search Features",
-      "url": "https://www.securityweek.com/researchers-hack-chatgpt-memories-and-web-search-features/",
-      "published": "2025-11-06T15:49:00+00:00",
-      "summary": "<p>Tenable researchers discovered seven vulnerabilities, including ones affecting the latest GPT model.</p>\n<p>The post <a href=\"https://www.securityweek.com/researchers-hack-chatgpt-memories-and-web-search-features/\">Researchers Hack ChatGPT Memories and Web Search Features</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "fffb79ea261d823a4d607316e8ff5f1aa3bde0f2",
-      "title": "Truffle Security Raises $25 Million for Secret Scanning Engine",
-      "url": "https://www.securityweek.com/truffle-security-raises-25-million-for-secret-scanning-engine/",
-      "published": "2025-11-06T14:00:00+00:00",
-      "summary": "<p>The investment will fuel the development of Truffle\u2019s enterprise-grade secrets detection, verification, and remediation platform.</p>\n<p>The post <a href=\"https://www.securityweek.com/truffle-security-raises-25-million-for-secret-scanning-engine/\">Truffle Security Raises $25 Million for Secret Scanning Engine</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "088d737dd2232a86f1473cc6756965fa81633575",
-      "title": "Follow Pragmatic Interventions to Keep Agentic AI in Check",
-      "url": "https://www.securityweek.com/follow-pragmatic-interventions-to-keep-agentic-ai-in-check/",
-      "published": "2025-11-06T12:45:00+00:00",
-      "summary": "<p>Agentic AI speeds operations, but requires clear goals, least privilege, auditability, red\u2011teaming, and human oversight to manage opacity, misalignment, and misuse.</p>\n<p>The post <a href=\"https://www.securityweek.com/follow-pragmatic-interventions-to-keep-agentic-ai-in-check/\">Follow Pragmatic Interventions to Keep Agentic AI in Check</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "bf5354385052b84b254572a8429dfb70c7ec9dc8",
-      "title": "DeFi Protocol Balancer Starts Recovering Funds Stolen in $128 Million Heist",
-      "url": "https://www.securityweek.com/defi-protocol-balancer-starts-recovering-funds-stolen-in-128-million-heist/",
-      "published": "2025-11-06T12:11:52+00:00",
-      "summary": "<p>Hackers drained more cryptocurrency from Balancer by exploiting a rounding function and performing batch swaps.</p>\n<p>The post <a href=\"https://www.securityweek.com/defi-protocol-balancer-starts-recovering-funds-stolen-in-128-million-heist/\">DeFi Protocol Balancer Starts Recovering Funds Stolen in $128 Million Heist</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "6b4dce8f8df4656c50566037329c989c51303568",
-      "title": "Nevada Ransomware Attack Started Months Before It Was Discovered, Per Report",
-      "url": "https://www.securityweek.com/nevada-ransomware-attack-started-months-before-it-was-discovered-per-report/",
-      "published": "2025-11-06T11:54:11+00:00",
-      "summary": "<p>The ransomware attack discovered in August occurred as early as May when a state employee mistakenly downloaded malicious software.</p>\n<p>The post <a href=\"https://www.securityweek.com/nevada-ransomware-attack-started-months-before-it-was-discovered-per-report/\">Nevada Ransomware Attack Started Months Before It Was Discovered, Per Report</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
