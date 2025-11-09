@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-08T12:15:03.726416+00:00",
+  "generated_at": "2025-11-09T00:45:25.055712+00:00",
   "items": [
     {
       "id": "f8d3459376e813123dc6cc4eee87dc00944b8d41",
@@ -110,6 +110,17 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "b2937f4ba9d0d7d5d723622a505ba1e55132c2be",
+      "title": "Microsoft Uncovers 'Whisper Leak' Attack That Identifies AI Chat Topics in Encrypted Traffic",
+      "url": "https://thehackernews.com/2025/11/microsoft-uncovers-whisper-leak-attack.html",
+      "published": "2025-11-08T14:29:00+00:00",
+      "summary": "Microsoft has disclosed details of a novel side-channel attack targeting remote language models that could enable a passive adversary with capabilities to observe network traffic to glean details about model\u202fconversation\u202ftopics despite encryption protections under certain circumstances.\nThis leakage of data exchanged between humans and\u202fstreaming-mode language models could pose serious risks to",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpBHsV_c7cesyV98XY3_PW3Ag8I1NBsboj592iw07Rlmy2xCs3QTpBUcZf59rmLBCo4JppU4HFF9GU8H7i_ADzqyvO_IxWj3GZWoVkzsh4GRWHyD1LSPWZgUEii8SnZE_BJxTmJMdG8RfstqNmGNIRcUdshTfQcPTJRVzVUJopn6FrCk5KvI0xc18Vy7bk/s1600/ai-leak.jpg"
     },
     {
       "id": "69640e87cb0c3c1675950d6d6103a610fa2e9618",
@@ -651,17 +662,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQqrUTE7JwhaT1l8F6HjBwdP01VDLqXByApkmlLZGEhMZolJcDB0G5PH8FIAxFMRQvv3u_ZmLSL5yT1tFzPR4Bz3eqiJRmM-mbVPigm_7VKum6Fi2Ja1liklPYRHBlrhx_6VejrLCYNOwf3jnWqAs0WvbUIa7_ygdd2iDJtR-_PjPemPkqHpeaEx_tFwI/s1600/picus.jpg"
     },
     {
-      "id": "c38e4f0b5f4f5b9225fe47505a9a469f87609089",
-      "title": "ThreatsDay Bulletin: DNS Poisoning Flaw, Supply-Chain Heist, Rust Malware Trick and New RATs Rising",
-      "url": "https://thehackernews.com/2025/10/threatsday-bulletin-dns-poisoning-flaw.html",
-      "published": "2025-10-30T10:54:00+00:00",
-      "summary": "The comfort zone in cybersecurity is gone. Attackers are scaling down, focusing tighter, and squeezing more value from fewer, high-impact targets. At the same time, defenders face growing blind spots \u2014 from spoofed messages to large-scale social engineering.\nThis week\u2019s findings show how that shrinking margin of safety is redrawing the threat landscape. Here\u2019s what\u2019s making headlines.",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgFjzmzkNrkKADylrwEMbXfJunGKEjaABUl6du-8jHmRjLcCttz7ppiq6xeoln6n2HiAd84y27XQD1LtPPlGSMbqVOk0S3xfdWlTa9ng7reAU4iAapmmJlorwCam4AyT4Sdw3KiNXyx_KLuuH6_uCdxLBLjyO7fvUzx2OwecJv0_hOR8svqk1aQLrY5O6R/s1600/threatsday-main.jpg"
-    },
-    {
       "id": "50c294be980d2a5de59579f0a9d2f565b620e23b",
       "title": "'Landfall' Malware Targeted Samsung Galaxy Users",
       "url": "https://www.darkreading.com/mobile-security/landfall-malware-targeted-samsung-galaxy-users",
@@ -805,17 +805,6 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc5b74b12e7b26ea5/690b32ca02b19be7e0ce3c3f/wordpress_Primakov_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "60de91dbaffa2ebfa57d7cdb245f18009c8d2799",
-      "title": "Risk 'Comparable' to SolarWinds Incident Lurks in Popular Software Update Tool",
-      "url": "https://www.darkreading.com/application-security/risk-solarwinds-popular-software-tool-update",
-      "published": "2025-11-05T14:00:00+00:00",
-      "summary": "Some of the world's biggest technology companies use a program liable to introduce malware into their software. The potential consequences are staggering, but there's an easy fix.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9011155be84ee1fe/6909f3169c7f6ffee41aca98/Install-B_Christopher-Alamy.jpeg?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
       "id": "ce7e8a52be9792c7a83d8fac03545bac7b92af37",
       "title": "Closing the AI Execution Gap in Cybersecurity \u2014 A CISO Framework",
       "url": "https://www.darkreading.com/cybersecurity-operations/closing-ai-execution-gap-cybersecurity-ciso-framework",
@@ -825,6 +814,17 @@
       "region": "North America",
       "country": "US",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7163035d5b41e3cc/690bb8696baa667c9f4128ee/omdia-adam-e-rik.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
+      "id": "60de91dbaffa2ebfa57d7cdb245f18009c8d2799",
+      "title": "Risk 'Comparable' to SolarWinds Incident Lurks in Popular Software Update Tool",
+      "url": "https://www.darkreading.com/application-security/risk-solarwinds-popular-software-tool-update",
+      "published": "2025-11-05T14:00:00+00:00",
+      "summary": "Some of the world's biggest technology companies use a program liable to introduce malware into their software. The potential consequences are staggering, but there's an easy fix.",
+      "source": "DarkReading",
+      "region": "North America",
+      "country": "US",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9011155be84ee1fe/6909f3169c7f6ffee41aca98/Install-B_Christopher-Alamy.jpeg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "id": "bc1fcf98a5a67fe75c55fa7f4d4d74065652136f",
