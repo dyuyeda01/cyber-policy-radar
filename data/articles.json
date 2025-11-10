@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-10T00:45:09.157496+00:00",
+  "generated_at": "2025-11-10T12:17:32.988896+00:00",
   "items": [
     {
       "id": "f8d3459376e813123dc6cc4eee87dc00944b8d41",
@@ -110,6 +110,28 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "0057254cd6e69fd2b0f2fb8a4309ec2d18dcb1a0",
+      "title": "Large-Scale ClickFix Phishing Attacks Target Hotel Systems with PureRAT Malware",
+      "url": "https://thehackernews.com/2025/11/large-scale-clickfix-phishing-attacks.html",
+      "published": "2025-11-10T09:11:00+00:00",
+      "summary": "Cybersecurity researchers have called attention to a massive phishing campaign targeting the hospitality industry that lures hotel managers to ClickFix-style pages and harvest their credentials by deploying malware like PureRAT.\n\"The attacker's modus operandi involved using a compromised email account to send malicious messages to multiple hotel establishments,\" Sekoia said. \"This campaign",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiV8goc_pldbDLv5iqvwy1lPOMsFiJpxyBnaT86LqU-Cikl8RRxTJ_85lGPLG5gJvW-2xj77n-slDQ_lzrJ3AviPJUPYT4j_P1X0iQ5UHvohnr_OIVlSubxcbNN09PqQurWuIoLI9SCJ1K1hLnT9PzL5YLJEkPTyeKQYpySzXtTrlITtdSAzvBqAblnS4rX/s1600/hotel-hacks.jpg"
+    },
+    {
+      "id": "11fe21233a42ba6102fc2b9e63fac289d3e8c2cb",
+      "title": "GlassWorm Malware Discovered in Three VS Code Extensions with Thousands of Installs",
+      "url": "https://thehackernews.com/2025/11/glassworm-malware-discovered-in-three.html",
+      "published": "2025-11-10T08:51:00+00:00",
+      "summary": "Cybersecurity researchers have disclosed a new set of three extensions associated with the GlassWorm campaign, indicating continued attempts on part of threat actors to target the Visual Studio Code (VS Code) ecosystem.\nThe extensions in question, which are still available for download, are listed below -\n\nai-driven-dev.ai-driven-dev (3,402 downloads)\nadhamu.history-in-sublime-merge (4,057",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEib9KHcsG95CDCZyquDxpW0r7mwKqS02FDVPKQJBLIZO-Xgsak_Ckjpdc3QI4i0oIU0IH9uZXTLmFqVzhUPsouw4BHMzdVsBu26TIdddQNNTx0tHeXh4xWNaT6NWo_UnmwxqRqtaIYB22kbynOZyWCutb5wAYEnhuRVm5rmasUtSq8LE2PB-Q9daDiprSyK/s1600/vscode.jpg"
     },
     {
       "id": "b2937f4ba9d0d7d5d723622a505ba1e55132c2be",
@@ -640,28 +662,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHAemb8q0dPL4UJx7V6h0octnu9dSgvaV0KNS8ctKdDRlcrt51uM9BXud3jaJ7Gkc-NGMJfTfTmShpq9ehcNjW2nh-ncTHD37MRt9iY7ThMZKxp_ULdweMDi6iI0O8m_LkZV0N8Yegr1VWMxRUviU5h8jb3z0wlcxzru3Zu48O0AojPbgLvxLOQ8pEDBlS/s1600/post-install.jpg"
     },
     {
-      "id": "283427ee75dfccfdedf221acf2a1ff8286ebe1da",
-      "title": "New \"Brash\" Exploit Crashes Chromium Browsers Instantly with a Single Malicious URL",
-      "url": "https://thehackernews.com/2025/10/new-brash-exploit-crashes-chromium.html",
-      "published": "2025-10-30T14:45:00+00:00",
-      "summary": "A severe vulnerability disclosed in Chromium's Blink rendering engine can be exploited to crash many Chromium-based browsers within a few seconds.\nSecurity researcher Jose Pino, who disclosed details of the flaw, has codenamed it Brash.\n\"It allows any Chromium browser to collapse in 15-60 seconds by exploiting an architectural flaw in how certain DOM operations are managed,\" Pino said in a",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNPzPbEzMX4dgK-yQVcB_TZXkH8V42XYSGCEGgQzI6P0g0Mm4ozB-fC14LrYJw5mZfhA0swpNl5ZAs86tjzY7ayJGrewr7fH0S8rFsua_8J-C8ImR-04v88SotHPlzODcEHnMTAx_RGrpZHs0g9xYJ_bwsjnHIhDtIm105OhACGkcForfh0W9NmcurastV/s1600/brach.jpg"
-    },
-    {
-      "id": "7df2ed63c6997ef2573642f8a8f712535c4e95b2",
-      "title": "The Death of the Security Checkbox: BAS Is the Power Behind Real Defense",
-      "url": "https://thehackernews.com/2025/10/the-death-of-security-checkbox-bas-is.html",
-      "published": "2025-10-30T11:55:00+00:00",
-      "summary": "Security doesn\u2019t fail at the point of breach. It fails at the point of impact.&nbsp;\nThat line set the tone for this year\u2019s Picus Breach and Simulation (BAS) Summit, where researchers, practitioners, and CISOs all echoed the same theme: cyber defense is no longer about prediction. It's about proof.\nWhen a new exploit drops, scanners scour the internet in minutes. Once attackers gain a foothold,",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQqrUTE7JwhaT1l8F6HjBwdP01VDLqXByApkmlLZGEhMZolJcDB0G5PH8FIAxFMRQvv3u_ZmLSL5yT1tFzPR4Bz3eqiJRmM-mbVPigm_7VKum6Fi2Ja1liklPYRHBlrhx_6VejrLCYNOwf3jnWqAs0WvbUIa7_ygdd2iDJtR-_PjPemPkqHpeaEx_tFwI/s1600/picus.jpg"
-    },
-    {
       "id": "50c294be980d2a5de59579f0a9d2f565b620e23b",
       "title": "'Landfall' Malware Targeted Samsung Galaxy Users",
       "url": "https://www.darkreading.com/mobile-security/landfall-malware-targeted-samsung-galaxy-users",
@@ -805,17 +805,6 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc5b74b12e7b26ea5/690b32ca02b19be7e0ce3c3f/wordpress_Primakov_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "60de91dbaffa2ebfa57d7cdb245f18009c8d2799",
-      "title": "Risk 'Comparable' to SolarWinds Incident Lurks in Popular Software Update Tool",
-      "url": "https://www.darkreading.com/application-security/risk-solarwinds-popular-software-tool-update",
-      "published": "2025-11-05T14:00:00+00:00",
-      "summary": "Some of the world's biggest technology companies use a program liable to introduce malware into their software. The potential consequences are staggering, but there's an easy fix.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9011155be84ee1fe/6909f3169c7f6ffee41aca98/Install-B_Christopher-Alamy.jpeg?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
       "id": "ce7e8a52be9792c7a83d8fac03545bac7b92af37",
       "title": "Closing the AI Execution Gap in Cybersecurity \u2014 A CISO Framework",
       "url": "https://www.darkreading.com/cybersecurity-operations/closing-ai-execution-gap-cybersecurity-ciso-framework",
@@ -825,6 +814,17 @@
       "region": "North America",
       "country": "US",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7163035d5b41e3cc/690bb8696baa667c9f4128ee/omdia-adam-e-rik.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
+      "id": "60de91dbaffa2ebfa57d7cdb245f18009c8d2799",
+      "title": "Risk 'Comparable' to SolarWinds Incident Lurks in Popular Software Update Tool",
+      "url": "https://www.darkreading.com/application-security/risk-solarwinds-popular-software-tool-update",
+      "published": "2025-11-05T14:00:00+00:00",
+      "summary": "Some of the world's biggest technology companies use a program liable to introduce malware into their software. The potential consequences are staggering, but there's an easy fix.",
+      "source": "DarkReading",
+      "region": "North America",
+      "country": "US",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9011155be84ee1fe/6909f3169c7f6ffee41aca98/Install-B_Christopher-Alamy.jpeg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "id": "bc1fcf98a5a67fe75c55fa7f4d4d74065652136f",
@@ -1210,6 +1210,50 @@
       "region": "North America",
       "country": "US",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1626f421d899df07/690129bd684cea47d8d05f02/omdia-tyler.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
+      "id": "7e168816aaabf71ed17a3305e00c33373a97ab69",
+      "title": "Allianz UK joins growing list of Clop\u2019s Oracle E-Business Suite victims",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2025/11/10/allianz_uk_joins_growing_list/",
+      "published": "2025-11-10T09:48:13+00:00",
+      "summary": "<h4>Insurance giant\u2019s UK arm says cybercriminals misattributed the real victim</h4> <p>Allianz UK confirms it was one of the many companies that fell victim to the Clop gang's Oracle E-Business Suite (EBS) attack after crims reported that they had attacked a subsidiary.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "85e30209b1c11f9d4c36646176a48b9fbea0fa52",
+      "title": "As AI enables bad actors, how are 3,000+ teams responding?",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2025/11/10/ai_enables_bad_actors/",
+      "published": "2025-11-10T09:01:20+00:00",
+      "summary": "<h4>Breaking down trends in exposure management with insights from 3,000+ organizations and Intruder's security experts</h4> <p><strong>Partner Content</strong>\u00a0 This year has shown just how quickly new exposures can emerge, with AI-generated code shipped before review, cloud sprawl racing ahead of controls, and shadow IT opening blind spots. Supply chain compromises have disrupted transport, manufacturing, and other critical services. On the attacker side, AI-assisted exploit development is making it faster than ever to turn those weaknesses into working attacks.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "284ec8b4c923dcdc11ab802cb61858a5849e0f7a",
+      "title": "Cisco creating new security model using 30 years of data describing cyber-dramas and saves",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2025/11/10/cisco_new_17bn_parameter_model/",
+      "published": "2025-11-10T06:56:52+00:00",
+      "summary": "<h4>Doubles parameters to over 17 billion, to detect threats and recommend actions</h4> <p><strong>Exclusive</strong>\u00a0 Cisco is working on a new AI model that will more than double the number of parameters used to train its current flagship Foundation-Sec-8B.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "1aeef1aea48d44d6a8db5027d5be442b2a039bda",
+      "title": "Microsoft teases agents that become \u2018independent users within the workforce\u2019",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2025/11/10/microsoft_agentic_users_a365/",
+      "published": "2025-11-10T02:31:21+00:00",
+      "summary": "<h4>Licensing expert worries they\u2019ll be out of control on day one</h4> <p>Microsoft has teased what it\u2019s calling \u201ca new class\u201d of AI agents \u201cthat operate as independent users within the enterprise workforce.\u201d\u2026</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
       "id": "2eebf1a376ddee08659e8167ce246bcc4d7982a9",
@@ -1718,50 +1762,6 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "e1ad2b4be4f8d188a371535895a16615d9bbec6d",
-      "title": "France jacks into the Matrix for state messaging \u2013 and pays too",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/10/30/france_matrix/",
-      "published": "2025-10-30T10:15:10+00:00",
-      "summary": "<h4>Governments eye comms alternatives as sovereignty worries mount</h4> <p><strong>Comment</strong>\u00a0 Decentralized communications network Matrix is hoping to be the beneficiary as European public and private sector organizations ponder alternatives to the messaging status quo.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "aa5758bac4f308da89987617bc3a64defcabb417",
-      "title": "This security hole can crash billions of Chromium browsers, and Google hasn't patched it yet",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/10/29/brash_dos_attack_crashes_chromium/",
-      "published": "2025-10-29T19:50:31+00:00",
-      "summary": "<h4>Edge, Atlas, Brave among those affected</h4> <p><strong>Exclusive</strong>\u00a0 A critical, currently unpatched bug in Chromium's Blink rendering engine can be abused to crash many Chromium-based browsers within seconds, causing a denial-of-service condition \u2013 and, in some tests, freezing the host system.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "1fd2093c0d579efbb6a0770601b6906f0af57827",
-      "title": "EY exposes 4TB+ SQL database to open internet for who knows how long",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/10/29/ey_exposes_4tb_sql_database/",
-      "published": "2025-10-29T16:20:24+00:00",
-      "summary": "<h4>The Big Four biz\u2019s big fat fail exposed a boatload of secrets online</h4> <p>A Dutch cybersecurity outfit says its lead researcher recently stumbled upon a 4TB+ SQL Server backup file belonging to EY exposed to the web, effectively leaking the accounting and consulting megacorp's secrets.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "3d3e2bb870706dab766cc9fed27e78708c9a0e6c",
-      "title": "Marketing giant Dentsu warns staff after Merkle data raid",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/10/29/dentsu_merkle_breach/",
-      "published": "2025-10-29T12:46:06+00:00",
-      "summary": "<h4>Emails confirm payroll and bank details lifted in cyberattack on US subsidiary</h4> <p>Global marketing giant Dentsu is writing to current and former staff after a cyberattack on a subsidiary led to bank, payroll, and other sensitive data being stolen.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
       "id": "bd6488185e52e7ef10d06b19f16a67c940b62c14",
       "title": "Drilling Down on Uncle Sam\u2019s Proposed TP-Link Ban",
       "url": "https://krebsonsecurity.com/2025/11/drilling-down-on-uncle-sams-proposed-tp-link-ban/",
@@ -1839,6 +1839,39 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "97f0b71ca97699d2aac75a890e57fe2e9e856321",
+      "title": "Nearly 30 Alleged Victims of Oracle EBS Hack Named on Cl0p Ransomware Site",
+      "url": "https://www.securityweek.com/nearly-30-alleged-victims-of-oracle-ebs-hack-named-on-cl0p-ransomware-site/",
+      "published": "2025-11-10T11:46:11+00:00",
+      "summary": "<p>The Cl0p website lists major organizations such as Logitech, The Washington Post, Cox Enterprises, Pan American Silver, LKQ Corporation, and Copeland.</p>\n<p>The post <a href=\"https://www.securityweek.com/nearly-30-alleged-victims-of-oracle-ebs-hack-named-on-cl0p-ransomware-site/\">Nearly 30 Alleged Victims of Oracle EBS Hack Named on Cl0p Ransomware Site</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "70d088da3e03fcbc249aa638fd39c64a3592807e",
+      "title": "QNAP Patches Vulnerabilities Exploited at Pwn2Own Ireland",
+      "url": "https://www.securityweek.com/qnap-patches-vulnerabilities-exploited-at-pwn2own-ireland/",
+      "published": "2025-11-10T10:55:50+00:00",
+      "summary": "<p>Multiple vulnerabilities across QNAP\u2019s portfolio could lead to remote code execution, information disclosure, and denial-of-service (DoS) conditions.</p>\n<p>The post <a href=\"https://www.securityweek.com/qnap-patches-vulnerabilities-exploited-at-pwn2own-ireland/\">QNAP Patches Vulnerabilities Exploited at Pwn2Own Ireland</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "dba6f3f748148644e990f9e616a395e23a6251fd",
+      "title": "Australia Sanctions Hackers Supporting North Korea\u2019s Weapons Program",
+      "url": "https://www.securityweek.com/australia-sanctions-hackers-supporting-north-koreas-weapons-program/",
+      "published": "2025-11-10T10:37:19+00:00",
+      "summary": "<p>Australia mirrored the US\u2019s recent sanctions against bankers, financial institutions, and others allegedly involved in laundering funds for North Korea.</p>\n<p>The post <a href=\"https://www.securityweek.com/australia-sanctions-hackers-supporting-north-koreas-weapons-program/\">Australia Sanctions Hackers Supporting North Korea&#8217;s Weapons Program</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "ee7f689f9bfd357268433dfa661fd5ab35a2618a",
       "title": "In Other News: Controversial Ransomware Report, Gootloader Returns, More AN0M Arrests",
       "url": "https://www.securityweek.com/in-other-news-controversial-ransomware-report-gootloader-returns-more-an0m-arrests/",
@@ -1910,39 +1943,6 @@
       "url": "https://www.securityweek.com/the-congressional-budget-office-was-hacked-it-says-it-has-implemented-new-security-measures/",
       "published": "2025-11-07T11:00:00+00:00",
       "summary": "<p>The Congressional Budget Office confirmed it had been hacked, potentially disclosing important government data to malicious actors.</p>\n<p>The post <a href=\"https://www.securityweek.com/the-congressional-budget-office-was-hacked-it-says-it-has-implemented-new-security-measures/\">The Congressional Budget Office Was Hacked. It Says It Has Implemented New Security Measures</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "b993636806744629f8cac0465f147a639c8c47b6",
-      "title": "Chrome 142 Update Patches High-Severity Flaws",
-      "url": "https://www.securityweek.com/chrome-142-update-patches-high-severity-flaws/",
-      "published": "2025-11-07T10:35:59+00:00",
-      "summary": "<p>An out-of-bounds write flaw in WebGPU tracked as CVE-2025-12725 could be exploited for remote code execution.</p>\n<p>The post <a href=\"https://www.securityweek.com/chrome-142-update-patches-high-severity-flaws/\">Chrome 142 Update Patches High-Severity Flaws</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "47e7670e6e35bffd569bfdf307ea401d4981a0e6",
-      "title": "Destructive Russian Cyberattacks on Ukraine Expand to Grain Sector",
-      "url": "https://www.securityweek.com/destructive-russian-cyberattacks-on-ukraine-expand-to-grain-sector/",
-      "published": "2025-11-07T09:29:31+00:00",
-      "summary": "<p>Multiple state-sponsored Russian groups are targeting Ukrainian entities and European countries linked to Ukraine.</p>\n<p>The post <a href=\"https://www.securityweek.com/destructive-russian-cyberattacks-on-ukraine-expand-to-grain-sector/\">Destructive Russian Cyberattacks on Ukraine Expand to Grain Sector</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "ac27b6548902288efdcbeb74da450ab592cf50f2",
-      "title": "18 Arrested in Crackdown on Credit Card Fraud Rings",
-      "url": "https://www.securityweek.com/18-arrested-in-crackdown-on-credit-card-fraud-rings/",
-      "published": "2025-11-07T09:13:41+00:00",
-      "summary": "<p>Between 2016 and 2021, the suspects defrauded 4.3 million cardholders in 193 countries of \u20ac300 million (~$346 million).</p>\n<p>The post <a href=\"https://www.securityweek.com/18-arrested-in-crackdown-on-credit-card-fraud-rings/\">18 Arrested in Crackdown on Credit Card Fraud Rings</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
