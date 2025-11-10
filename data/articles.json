@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-09T12:14:40.363369+00:00",
+  "generated_at": "2025-11-10T00:45:09.157496+00:00",
   "items": [
     {
       "id": "f8d3459376e813123dc6cc4eee87dc00944b8d41",
@@ -1212,6 +1212,28 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1626f421d899df07/690129bd684cea47d8d05f02/omdia-tyler.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
+      "id": "2eebf1a376ddee08659e8167ce246bcc4d7982a9",
+      "title": "Data breach at Chinese infosec firm reveals cyber-weapons and target list",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2025/11/09/asia_tech_news_roundup/",
+      "published": "2025-11-09T23:51:57+00:00",
+      "summary": "<h4>PLUS: India\u2019s tech services exports growing fast; South Korea puts the bite on TXT spam; NTT gets into autonomous vehicles; and more!</h4> <p><strong>Asia In Brief</strong>\u00a0 Chinese infosec blog MXRN last week <a href=\"https://mrxn.net/news/Knownsec-data-leak.html\" target=\"_blank\">reported</a> a data breach at a security company called Knownsec that has ties to Beijing and Chinas military.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "da488a5b6f37a326d125abe620bc282230a08043",
+      "title": "Louvre's pathetic passwords belong in a museum, just not that one",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2025/11/09/infosec_news_in_brief/",
+      "published": "2025-11-09T22:34:07+00:00",
+      "summary": "<h4>PLUS: CISA layoffs continue; Lawmakers criticize camera security; China to execute scammers; And more</h4> <p><strong>Infosec in brief</strong>\u00a0 There's no indication that the brazen bandits who stole jewels from the Louvre attacked the famed French museum's systems, but had they tried, it would have been incredibly easy.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "86f3cbea37f2748ec3290c78cc2d460eda3635c4",
       "title": "Who's watching the watchers? This Mozilla fellow, and her Surveillance Watch map",
       "url": "https://go.theregister.com/feed/www.theregister.com/2025/11/08/mozilla_fellow_al_shafei/",
@@ -1740,25 +1762,14 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "752c211b8a2b3728c8625a084f5e741e7c713dd8",
-      "title": "Sole trader dispatched almost 1M spam texts to hard-up Brits, says watchdog",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/10/29/ico_spam_text_fine/",
-      "published": "2025-10-29T11:46:41+00:00",
-      "summary": "<h4>ICO fined Bharat Singh Chand \u00a3200,000 after receiving 19,138 complaints</h4> <p>Britain's data watchdog has fined a sole trader \u00a3200,000 for nearly a million spam texts targeting people in debt \u2013 almost 20 pence per message.\u2026</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "a766b85f5ad025793265d74c7bcbfc765b50ded6",
-      "title": "UK government on the lookout for bargain-priced CTO",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/10/29/uk_government_cto/",
-      "published": "2025-10-29T09:30:07+00:00",
-      "summary": "<h4>Dangles \u00a3100K for someone to fix \u00a323B tech mess</h4> <p>The UK government is on the hunt for a new CTO after incumbent David Knott announced his departure, citing family reasons.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
+      "id": "bd6488185e52e7ef10d06b19f16a67c940b62c14",
+      "title": "Drilling Down on Uncle Sam\u2019s Proposed TP-Link Ban",
+      "url": "https://krebsonsecurity.com/2025/11/drilling-down-on-uncle-sams-proposed-tp-link-ban/",
+      "published": "2025-11-09T18:14:40+00:00",
+      "summary": "The U.S. government is reportedly preparing to ban the sale of wireless routers and other networking gear from TP-Link Systems, a tech company that currently enjoys an estimated 50% market share among home users and small businesses. Experts say while the proposed ban may have more to do with TP-Link's ties to China than any specific technical threats, much of the rest of the industry serving this market also sources hardware from China and ships products that are insecure fresh out of the box.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
@@ -1822,17 +1833,6 @@
       "url": "https://krebsonsecurity.com/2025/10/patch-tuesday-october-2025-end-of-10-edition/",
       "published": "2025-10-14T22:57:38+00:00",
       "summary": "Microsoft today released software updates to plug a whopping 172 security holes in its Windows operating systems, including at least three vulnerabilities that are already being actively exploited. October's Patch Tuesday also marks the final month that Microsoft will ship security updates for Windows 10 systems. If you're running a Windows 10 PC and you're unable or unwilling to migrate to Windows 11, read on for other options.",
-      "source": "Krebs on Security",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "76f52ca86ad86966d11f59ef9351e3bbaedb804a",
-      "title": "DDoS Botnet Aisuru Blankets US ISPs in Record DDoS",
-      "url": "https://krebsonsecurity.com/2025/10/ddos-botnet-aisuru-blankets-us-isps-in-record-ddos/",
-      "published": "2025-10-10T16:10:43+00:00",
-      "summary": "The world's largest and most disruptive botnet is now drawing a majority of its firepower from compromised Internet-of-Things (IoT) devices hosted on U.S. Internet providers like AT&#038;T, Comcast and Verizon, new evidence suggests. Experts say the heavy concentration of infected devices at U.S. providers is complicating efforts to limit collateral damage from the botnet's attacks, which shattered previous records this week with a brief traffic flood that clocked in at nearly 30 trillion bits of data per second.",
       "source": "Krebs on Security",
       "region": "Global",
       "country": "GL",
