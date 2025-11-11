@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-11T00:43:24.170961+00:00",
+  "generated_at": "2025-11-11T12:17:23.502662+00:00",
   "items": [
     {
       "id": "e1fbb3b7bb166c0222cdd880570f442af72ecebd",
@@ -110,6 +110,39 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "41c0146437a36cf4bccac967e5cbc610f12255ba",
+      "title": "CISO's Expert Guide To AI Supply Chain Attacks",
+      "url": "https://thehackernews.com/2025/11/cisos-expert-guide-to-ai-supply-chain.html",
+      "published": "2025-11-11T11:58:00+00:00",
+      "summary": "AI-enabled supply chain attacks jumped 156% last year. Discover why traditional defenses are failing and what CISOs must do now to protect their organizations.\nDownload the full CISO&rsquo;s expert guide to AI Supply chain attacks here.&nbsp;\nTL;DR\n\nAI-enabled supply chain attacks are exploding in scale and sophistication - Malicious package uploads to open-source repositories jumped 156% in",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi237aSL-o6s_t-xtfun1CAuoHCY2XPJAUUHpQY18pfeww9bVAJ8M1Dtu1gEtk25UoLyeCOHz6k-TFkgBB2FSp_Y3VHQAYwpJNlBy48ffsfJQgA42Jvg1kNdRR6-VBxOZNk0ZFzIB3FrSylKmccKLCnY_olvsBLdOpA2MFqqDUZchxGce_loAbyFqyjHwk/s1600/reflectiz.jpg"
+    },
+    {
+      "id": "a6a80c4301b6d58034f0eb674cc569ced1aa0ace",
+      "title": "Researchers Detect Malicious npm Package Targeting GitHub-Owned Repositories",
+      "url": "https://thehackernews.com/2025/11/researchers-detect-malicious-npm.html",
+      "published": "2025-11-11T11:55:00+00:00",
+      "summary": "Cybersecurity researchers have discovered a malicious npm package named \"@acitons/artifact\" that typosquats the legitimate \"@actions/artifact\" package with the intent to target GitHub-owned repositories.\n\"We think the intent was to have this script execute during a build of a GitHub-owned repository, exfiltrate the tokens available to the build environment, and then use those tokens to publish",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCsz1QgtB3DAorATUJtM4NKEDKSftFK-LplwEwazMvy2CJl8Ua-T_nRLa6hpR968DBP4cjFK1rhd70vBYd_gx4s24AQepRSFpjXkFezP9hKo2lrYQm-WgcHBKvJQrU3AYRBltbe6Qw8xpGCcTFje-h3a24Pb04JtJMlUX3Ug7XtR1inGNz7fVkzpfLT_KZ/s1600/hacker-code.jpg"
+    },
+    {
+      "id": "2cdfa60e3e211bb618dcf6d100642d5d0e8cc6dc",
+      "title": "Android Trojan 'Fantasy Hub' Malware Service Turns Telegram Into a Hub for Hackers",
+      "url": "https://thehackernews.com/2025/11/android-trojan-fantasy-hub-malware.html",
+      "published": "2025-11-11T11:44:00+00:00",
+      "summary": "Cybersecurity researchers have disclosed details of a new Android remote access trojan (RAT) called Fantasy Hub that's sold on Russian-speaking Telegram channels under a Malware-as-a-Service (MaaS) model.\nAccording to its seller, the malware enables device control and espionage, allowing threat actors to collect SMS messages, contacts, call logs, images, and videos, as well as intercept, reply,",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrnztvfc0MS4mXpDjarA_dBNhWyKUYkHkdNF-kNrP6lLQ5-IlH3aQx6_xwLDyyx7qKhcry5c5t3qUNEsAgE4Qp5yxBKVVmgZWtg8F_0RX6bU29uCFoqTw1gdwPvNCdfwjVVapeiSyWW13-ESWpGPgkLiuV8hGMz4Vx5CSlm6JCk0n8CPLSikgtkUSWwn-n/s1600/android-telegram.jpg"
     },
     {
       "id": "08f9f41d507107a992f15f0fe1b2ea6381372001",
@@ -629,41 +662,8 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZykRt-Qg6PRjnYyI3lt6G0Ygf-Pp1Ww03EXTB5nUqaXMBaS1x4f5BxGKAnizBh7wk8gGff5SgLd0j70vJ0-bOdH60rmTctKnWfppbSTWOrdIkTIhga2CReBdSHSeGnPZoIjaZ66GV0hE-6dWnbAIHdM6VukGqhiqPTnrPV5nHpLLNqKE_UKy9xyyw0du7/s1600/warning.jpg"
     },
     {
-      "id": "ac825680e3d11f43bc3f9a17b46815717db0c0e4",
-      "title": "The MSP Cybersecurity Readiness Guide: Turning Security into Growth",
-      "url": "https://thehackernews.com/2025/10/the-msp-cybersecurity-readiness-guide.html",
-      "published": "2025-10-31T11:30:00+00:00",
-      "summary": "MSPs are facing rising client expectations for strong cybersecurity and compliance outcomes, while threats grow more complex and regulatory demands evolve. Meanwhile, clients are increasingly seeking comprehensive protection without taking on the burden of managing security themselves.\nThis shift represents a major growth opportunity. By delivering advanced cybersecurity and compliance",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqekRxhqSIMwXW-91BTf99RLxdfwXB5-1vhEwnAeSX55XbaEU2fhjyDONSC1rnBDBMseaqYwmBpe4nYpyDlg7m9cmg5u-934M1hZSWzihqR7Ll0acZ7jqLUcL6m9S8h-KZPMqLDyC5x3kTr4rZ3q6uUA7Lt4nWYlwr3ddJnK4AofUxhkKVl4PI0CJXoI8/s1600/TurnSecurityIntoGrowth.png"
-    },
-    {
-      "id": "0b3554f64a0e9bdd5eda5aff36b87e16af7c679c",
-      "title": "CISA and NSA Issue Urgent Guidance to Secure WSUS and Microsoft Exchange Servers",
-      "url": "https://thehackernews.com/2025/10/cisa-and-nsa-issue-urgent-guidance-to.html",
-      "published": "2025-10-31T08:46:00+00:00",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) and National Security Agency (NSA), along with international partners from Australia and Canada, have released guidance to harden on-premise Microsoft Exchange Server instances from potential exploitation.\n\"By restricting administrative access, implementing multi-factor authentication, enforcing strict transport security",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjA0I1Jx6uIEdkIQQM9RnxL2Ki39vb2gH7eog9Bm7oLXHB3Ia60PLtDJsEuqlPrOsZLL9UJZ3YnnlRxxQv0zGB_pNQcpQvDlxnFR1c6_iN-NzNkRMt3sW38md0OI8cJDfVQ5wp6rvZD32HiKk_NuHiFdTbo0mQRf8BfoNVFmp283z-01nb_Z7oGhyqSdE4P/s1600/ms.jpg"
-    },
-    {
-      "id": "22af6b3b39bbeb530e36711b02d35d4379ff5105",
-      "title": "Eclipse Foundation Revokes Leaked Open VSX Tokens Following Wiz Discovery",
-      "url": "https://thehackernews.com/2025/10/eclipse-foundation-revokes-leaked-open.html",
-      "published": "2025-10-31T08:02:00+00:00",
-      "summary": "Eclipse Foundation, which maintains the open-source Open VSX project, said it has taken steps to revoke a small number of tokens that were leaked within Visual Studio Code (VS Code) extensions published in the marketplace.\nThe action comes following a report from cloud security company Wiz earlier this month, which found several extensions from both Microsoft's VS Code Marketplace and Open VSX",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmAGBrh3pirqFHrsdc4kBfinnWBWhRLbAAwa39k5lyd-X941olCKyizc7VGdYORWLq6aBGn3l6f4zMwwUApVP3pfEk_dzr31Kh1eiBZjzzoqik3-9UrwJmD8eWbjd8OY7clyxw1qqOHcBCarQxd-7hvKhhiLjl6fRbBUl-UV4Dvs5KAWLbHwTNkYxAfIBC/s1600/open.jpg"
-    },
-    {
       "id": "ce48f9d32b4d22cc4c2896d98ac72d9e25002730",
-      "title": "OWASP Highlights Supply Chain Risks in New Top 10",
+      "title": "OWASP Highlights Supply Chain Risks in New Top 10 List",
       "url": "https://www.darkreading.com/application-security/owasp-highlights-supply-chain-risks-new-top-10",
       "published": "2025-11-10T22:14:09+00:00",
       "summary": "Security misconfiguration jumped to second place while injection vulnerabilities dropped, as organizations improve defenses against traditional coding flaws.",
@@ -838,17 +838,6 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc5b74b12e7b26ea5/690b32ca02b19be7e0ce3c3f/wordpress_Primakov_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "ce7e8a52be9792c7a83d8fac03545bac7b92af37",
-      "title": "Closing the AI Execution Gap in Cybersecurity \u2014 A CISO Framework",
-      "url": "https://www.darkreading.com/cybersecurity-operations/closing-ai-execution-gap-cybersecurity-ciso-framework",
-      "published": "2025-11-05T14:00:00+00:00",
-      "summary": "CISOs must navigate five critical dimensions of AI in cybersecurity: augmenting security with AI, automating security with AI, protecting AI systems, defending against AI-powered threats, and aligning AI strategies with business goals. Neglecting any of these areas is a recipe for disaster.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7163035d5b41e3cc/690bb8696baa667c9f4128ee/omdia-adam-e-rik.jpg?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
       "id": "60de91dbaffa2ebfa57d7cdb245f18009c8d2799",
       "title": "Risk 'Comparable' to SolarWinds Incident Lurks in Popular Software Update Tool",
       "url": "https://www.darkreading.com/application-security/risk-solarwinds-popular-software-tool-update",
@@ -858,6 +847,17 @@
       "region": "North America",
       "country": "US",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9011155be84ee1fe/6909f3169c7f6ffee41aca98/Install-B_Christopher-Alamy.jpeg?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
+      "id": "ce7e8a52be9792c7a83d8fac03545bac7b92af37",
+      "title": "Closing the AI Execution Gap in Cybersecurity \u2014 A CISO Framework",
+      "url": "https://www.darkreading.com/cybersecurity-operations/closing-ai-execution-gap-cybersecurity-ciso-framework",
+      "published": "2025-11-05T14:00:00+00:00",
+      "summary": "CISOs must navigate five critical dimensions of AI in cybersecurity: augmenting security with AI, automating security with AI, protecting AI systems, defending against AI-powered threats, and aligning AI strategies with business goals. Neglecting any of these areas is a recipe for disaster.",
+      "source": "DarkReading",
+      "region": "North America",
+      "country": "US",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7163035d5b41e3cc/690bb8696baa667c9f4128ee/omdia-adam-e-rik.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "id": "bc1fcf98a5a67fe75c55fa7f4d4d74065652136f",
@@ -1210,6 +1210,39 @@
       "region": "North America",
       "country": "US",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd75bc32ae10d0bf4/68eff21cad3dd19483f808c0/AI-hands-generate-code-Summit_Art_Creations-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
+      "id": "1faa47a35708b94020a8e05603caf88f3309fff4",
+      "title": "UK asks cyberspies to probe whether Chinese buses can be switched off remotely",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2025/11/11/uk_probe_china_bus_claim/",
+      "published": "2025-11-11T11:55:38+00:00",
+      "summary": "<h4>Norwegian testers claim maker has remote access, while UK importer says supplier complies with the law</h4> <p>UK governmental is working with the National Cyber Security Centre to understand and \"mitigate\" any risk that China-made imported electric buses could be remotely accessed and potentially disabled.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "5ed5cf120538e0b3d42b1165da373c615b2eff65",
+      "title": "Cyber insurers paid out over twice as much for UK ransomware attacks last year",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2025/11/11/ransomware_surge_fuels_230_increase/",
+      "published": "2025-11-11T11:04:48+00:00",
+      "summary": "<h4>Massive increase in policy claims\u2026 and data doesn\u2019t even cover the major attacks of 2025</h4> <p>The number of successful cyber insurance claims made by UK organizations shot up last year, according to the latest figures from the industry's trade association.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "ea565a64e92f66c29aebf178a78d19047e3f3128",
+      "title": "UK's Ajax fighting vehicle arrives \u2013 years late and still sending crew to hospital",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2025/11/11/uks_ajax_fighting_vehicle_late/",
+      "published": "2025-11-11T10:09:34+00:00",
+      "summary": "<h4>Continuous track of long awaited AFV hits the ground ... and the terrain is pretty bumpy</h4> <p>The British Army just received its first new armored fighting vehicle (AFV) for nearly three decades, but it is years late, hit by rising costs, is still reportedly injuring its crew, and there are questions about whether it remains relevant in the age of drone warfare.\u00a0\u2026</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
       "id": "5fd6abf6ab9dfae44544a56c2f162599dec8e1d7",
@@ -1729,39 +1762,6 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "da77b807a4f389e58fe2880733556c251fafa3ef",
-      "title": "Europe preps Digital Euro to enter circulation in 2029",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/10/31/digital_euro_approved/",
-      "published": "2025-10-31T05:20:23+00:00",
-      "summary": "<h4>Because fewer people like banknotes, and payment sovereignty is a problem</h4> <p>The Governing Council of the European Central Bank (ECB) has decided the bloc needs a digital version of the Euro, and ordered work that could see it enter circulation in 2029.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "21254ede6a33b4f21bfdf90bb9d9fece739aa527",
-      "title": "Suspected Chinese snoops weaponize unpatched Windows flaw to spy on European diplomats",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/10/30/suspected_chinese_snoops_abuse_unpatched/",
-      "published": "2025-10-30T19:20:13+00:00",
-      "summary": "<h4>Expired security cert, real Brussels agenda, plus PlugX malware finish the job</h4> <p>Cyber spies linked to the Chinese government exploited a Windows shortcut vulnerability disclosed in March \u2013 but that Microsoft hasn't fixed yet \u2013 to target European diplomats in an effort to steal defense and national security details.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "f30b07a186f44c85f857ffa2d88c4c46073ae49d",
-      "title": "Proton trains new service to expose corporate infosec cover-ups",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/10/30/proton_data_breach_observatory/",
-      "published": "2025-10-30T18:44:40+00:00",
-      "summary": "<h4>Service will tell on compromised organizations, even if they didn't plan on doing so themselves</h4> <p>Some orgs would rather you not know when they've suffered a cyberattack, but a new platform from privacy-focused tech firm Proton will shine a light on the big breaches that might otherwise stay buried.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
       "id": "bd6488185e52e7ef10d06b19f16a67c940b62c14",
       "title": "Drilling Down on Uncle Sam\u2019s Proposed TP-Link Ban",
       "url": "https://krebsonsecurity.com/2025/11/drilling-down-on-uncle-sams-proposed-tp-link-ban/",
@@ -1834,6 +1834,17 @@
       "published": "2025-10-14T22:57:38+00:00",
       "summary": "Microsoft today released software updates to plug a whopping 172 security holes in its Windows operating systems, including at least three vulnerabilities that are already being actively exploited. October's Patch Tuesday also marks the final month that Microsoft will ship security updates for Windows 10 systems. If you're running a Windows 10 PC and you're unable or unwilling to migrate to Windows 11, read on for other options.",
       "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "de4d62b296bd2ad6e1a217f50dbb711ea41125c7",
+      "title": "\u2018Whisper Leak\u2019 LLM Side-Channel Attack Infers User Prompt Topics",
+      "url": "https://www.securityweek.com/whisper-leak-llm-side-channel-attack-infers-user-prompt-topics/",
+      "published": "2025-11-11T12:10:51+00:00",
+      "summary": "<p>Attackers intercepting network traffic can determine the conversation topic with a chatbot despite end-to-end encrypted communication.</p>\n<p>The post <a href=\"https://www.securityweek.com/whisper-leak-llm-side-channel-attack-infers-user-prompt-topics/\">&#8216;Whisper Leak&#8217; LLM Side-Channel Attack Infers User Prompt Topics</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
@@ -1932,17 +1943,6 @@
       "url": "https://www.securityweek.com/landfall-android-spyware-targeted-samsung-phones-via-zero-day/",
       "published": "2025-11-07T15:29:34+00:00",
       "summary": "<p>Threat actors exploited CVE-2025-21042 to deliver malware via specially crafted images to users in the Middle East.\u00a0</p>\n<p>The post <a href=\"https://www.securityweek.com/landfall-android-spyware-targeted-samsung-phones-via-zero-day/\">Landfall Android Spyware Targeted Samsung Phones via Zero-Day</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "941319d2bb96c9add6eff47260270132d7e17a41",
-      "title": "Radical Empowerment From Your Leadership: Understood by Few, Essential for All",
-      "url": "https://www.securityweek.com/radical-empowerment-from-your-leadership-understood-by-few-essential-for-all/",
-      "published": "2025-11-07T15:00:00+00:00",
-      "summary": "<p>When leaders redefine power as trust instead of control, teams unlock their potential \u2014 and organizations find their edge.</p>\n<p>The post <a href=\"https://www.securityweek.com/radical-empowerment-from-your-leadership-understood-by-few-essential-for-all/\">Radical Empowerment From Your Leadership: Understood by Few, Essential for All</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
