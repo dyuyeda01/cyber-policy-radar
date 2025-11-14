@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-14T00:43:05.594257+00:00",
+  "generated_at": "2025-11-14T12:17:56.674194+00:00",
   "items": [
     {
       "id": "169251c634dfd3ca548e8ffac61f113b6a60e744",
@@ -110,6 +110,39 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "9d336c1baa7f12ee22c018d312f71b7dc2833949",
+      "title": "Ransomware's Fragmentation Reaches a Breaking Point While LockBit Returns",
+      "url": "https://thehackernews.com/2025/11/ransomwares-fragmentation-reaches.html",
+      "published": "2025-11-14T10:37:00+00:00",
+      "summary": "Key Takeaways:\n\n85 active ransomware and extortion groups observed in Q3 2025, reflecting the most decentralized ransomware ecosystem to date.\n1,590 victims disclosed across 85 leak sites, showing high, sustained activity despite law-enforcement pressure.\n14 new ransomware brands launched this quarter, proving how quickly affiliates reconstitute after takedowns.\nLockBit\u2019s reappearance with",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3uOnzefv5B2kTQp_6TWvGzdYVbKeSKfysA_sFwHY_ZwrX14JYItv8p8x1NQwG5wOyRqJT0oaAWfGM0VWHZrsRa0ULtSxxfEAFoMkbd4hFmx7X7K_nWXbF6XaK4PRp2I0Daue7934YaCR1II5aR0H1Ah7kWkW2Izqy4m30VUvtA30a9N1yVuKcSRuGOlk/s1600/main-cover.jpg"
+    },
+    {
+      "id": "8139e1e770846313925963a0556743ea06430384",
+      "title": "Chinese Hackers Use Anthropic's AI to Launch Automated Cyber Espionage Campaign",
+      "url": "https://thehackernews.com/2025/11/chinese-hackers-use-anthropics-ai-to.html",
+      "published": "2025-11-14T09:53:00+00:00",
+      "summary": "State-sponsored threat actors from China used artificial intelligence (AI) technology developed by Anthropic to orchestrate automated cyber attacks as part of a \"highly sophisticated espionage campaign\" in mid-September 2025.\n\"The attackers used AI's 'agentic' capabilities to an unprecedented degree \u2013 using AI not just as an advisor, but to execute the cyber attacks themselves,\" the AI upstart",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgY97QHdgW3A2yfeWB2UxuJM7ifkyjOUt1JChYPaaZbJS5U-bM9KXmk6rhlQ1jzoNZVVBURL6dkmPqi-ysMBfttQo-LLngJy-fQV6bpTQe6o9TcDy2Qsy8GhhUsSQ4ZV7_a6yjc9vcMl7g7EJI1YNNei1lKxzC3jg3UPvyJCYmgCdW9HjyTU7_VubEBAv0X/s1600/ai-hacking.jpg"
+    },
+    {
+      "id": "8402fc4b01e2095376a934b7df12710149d94d8b",
+      "title": "Now-Patched Fortinet FortiWeb Flaw Exploited in Attacks to Create Admin Accounts",
+      "url": "https://thehackernews.com/2025/11/fortinet-fortiweb-flaw-actively.html",
+      "published": "2025-11-14T09:00:00+00:00",
+      "summary": "Cybersecurity researchers are sounding the alert about an authentication bypass vulnerability in Fortinet Fortiweb WAF that could allow an attacker to take over admin accounts and completely compromise a device.\n\"The watchTowr team is seeing active, indiscriminate in-the-wild exploitation of what appears to be a silently patched vulnerability in Fortinet's FortiWeb product,\" Benjamin Harris,",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9W9UTKHr6MEohKLcpKi93cht-_Dh-uEOu4ga5ezZqlce29RSPo1X2cnCAUQijihCPVHaENo8Gz4jfDjcxHd3Gqe6_kqOt3Ff3-GikPzHA6pL-y_JFxlmuMxnRJKakGFfkOgBj7jW23nPrOKj0cz4BwGwbPICUA_ezilNl9UREzSuEixqNnukzxx0q0Aks/s1600/Fortinet-FortiWeb.jpg"
     },
     {
       "id": "9eb3ade2d207476f4f482bc108a075d2b01163a1",
@@ -629,39 +662,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWKwScZjfCjIxjAGc2zRp5CurUdQrWfIyggSAeiGwqm0lISlnUZcukvjR3paESZ4ksOr99jBcbTxgnZmmlkbfAomK_9uRWH5cWfZ1yMHpuTwe2MyrQRAJTqyRHnyq0-JHHI0BRQNRoh_YWiLwIcUolW_n1swUtCoQSkiE2Nf0CsWFXNH6FQrSML5QO7xLu/s1600/crypto-scam.jpg"
     },
     {
-      "id": "5818fa76d99fb59875b65f97055f9acf4137270c",
-      "title": "Critical React Native CLI Flaw Exposed Millions of Developers to Remote Attacks",
-      "url": "https://thehackernews.com/2025/11/critical-react-native-cli-flaw-exposed.html",
-      "published": "2025-11-04T14:24:00+00:00",
-      "summary": "Details have emerged about a now-patched critical security flaw in the popular \"@react-native-community/cli\" npm package that could be potentially exploited to run malicious operating system (OS) commands under certain conditions.\n\"The vulnerability allows remote unauthenticated attackers to easily trigger arbitrary OS command execution on the machine running react-native-community/cli's",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfNjN6vslUO_G4CduAbYSiA-CSV2SWczVdx8dOAdaWXrulZW9P3iJ6fkO1bN_PlrN1g7pExIbB5QdeO9h7yNQE2yVdSzg2OfbL1N6_K-bNhsguE9GHUilLuEuzpfybL2So0N9yP9J3UiTjjZhyphenhyphen571M1PCgZc4nv-woAH4Ja7q8rl8GZ3rQr4I7tPDhQu4p/s1600/code.jpg"
-    },
-    {
-      "id": "81d9d96d152a8bc545c8c9b2face5e55ada3a9f1",
-      "title": "Microsoft Teams Bugs Let Attackers Impersonate Colleagues and Edit Messages Unnoticed",
-      "url": "https://thehackernews.com/2025/11/microsoft-teams-bugs-let-attackers.html",
-      "published": "2025-11-04T14:00:00+00:00",
-      "summary": "Cybersecurity researchers have disclosed details of four security flaws in Microsoft Teams that could have exposed users to serious impersonation and social engineering attacks.\nThe vulnerabilities \"allowed attackers to manipulate conversations, impersonate colleagues, and exploit notifications,\" Check Point said in a report shared with The Hacker News.\nFollowing responsible disclosure in March",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPxhWGZawWeHzNGIbomWP8Nbdh5Dd6tcZRBCwh1fzvzwLRHHrOAdfio4nT7DL5Lq7_v0S8mDZ5JcWhL_B75AVaO8pYvvxHr5UbkNOaALx-O3Xj2msk9pV1vHsgTDQjCYfED7yaajgRNK5Qarl8aAWqwk6W0GYG5DwB9MGPnXdrgRhGpgIyNdu5FYPJtPF5/s1600/ms-teams.jpg"
-    },
-    {
-      "id": "58c16556d6a4660cb34081bb2094ef25d4e9f146",
-      "title": "Ransomware Defense Using the Wazuh Open Source Platform",
-      "url": "https://thehackernews.com/2025/11/ransomware-defense-using-wazuh-open.html",
-      "published": "2025-11-04T11:06:00+00:00",
-      "summary": "Ransomware is malicious software designed to block access to a computer system or encrypt data until a ransom is paid. This cyberattack is one of the most prevalent and damaging threats in the digital landscape, affecting individuals, businesses, and critical infrastructure worldwide.\nA ransomware attack typically begins when the malware infiltrates a system through various vectors such as",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdzDGtHe9Q6e_Oawv8H4Le3i69OhWMTiJwqvdjqsp8o8oZ8gpy7R6cbsTzjncXVNJjI59pr2NENW0IycFha_hD92mziRlVuh_QhAeVo4mtyyz3iwUzD-e5UH6heYCAZGY3pwMJoWctM63QCiZAQe02F0r8KLU0_AkeGS4zxi9g-N5qiT4f5v15nJTMvFk/s1600/wazuh.jpg"
-    },
-    {
       "id": "7ae11be5c87905802edd96da1b51a585714ef2ca",
       "title": "[Dark Reading Virtual Event] Cybersecurity Outlook 2026",
       "url": "https://www.darkreading.com/events/dark-reading-virtual-event-cybersecurity-outlook-2026",
@@ -970,17 +970,6 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc5b74b12e7b26ea5/690b32ca02b19be7e0ce3c3f/wordpress_Primakov_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "60de91dbaffa2ebfa57d7cdb245f18009c8d2799",
-      "title": "Risk 'Comparable' to SolarWinds Incident Lurks in Popular Software Update Tool",
-      "url": "https://www.darkreading.com/application-security/risk-solarwinds-popular-software-tool-update",
-      "published": "2025-11-05T14:00:00+00:00",
-      "summary": "Some of the world's biggest technology companies use a program liable to introduce malware into their software. The potential consequences are staggering, but there's an easy fix.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9011155be84ee1fe/6909f3169c7f6ffee41aca98/Install-B_Christopher-Alamy.jpeg?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
       "id": "ce7e8a52be9792c7a83d8fac03545bac7b92af37",
       "title": "Closing the AI Execution Gap in Cybersecurity \u2014 A CISO Framework",
       "url": "https://www.darkreading.com/cybersecurity-operations/closing-ai-execution-gap-cybersecurity-ciso-framework",
@@ -990,6 +979,17 @@
       "region": "North America",
       "country": "US",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7163035d5b41e3cc/690bb8696baa667c9f4128ee/omdia-adam-e-rik.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
+      "id": "60de91dbaffa2ebfa57d7cdb245f18009c8d2799",
+      "title": "Risk 'Comparable' to SolarWinds Incident Lurks in Popular Software Update Tool",
+      "url": "https://www.darkreading.com/application-security/risk-solarwinds-popular-software-tool-update",
+      "published": "2025-11-05T14:00:00+00:00",
+      "summary": "Some of the world's biggest technology companies use a program liable to introduce malware into their software. The potential consequences are staggering, but there's an easy fix.",
+      "source": "DarkReading",
+      "region": "North America",
+      "country": "US",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9011155be84ee1fe/6909f3169c7f6ffee41aca98/Install-B_Christopher-Alamy.jpeg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "id": "bc1fcf98a5a67fe75c55fa7f4d4d74065652136f",
@@ -1199,6 +1199,28 @@
       "region": "North America",
       "country": "US",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt80ce3a88093a6537/6903d304a693b6580acb6dff/US-china-russia-flags-helloRuby-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
+      "id": "3bfea8c93b719a273d4c80a21bfdc3d4d9fbe48a",
+      "title": "Clop claims it hacked 'the NHS.' Which bit? Your guess is as good as theirs",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2025/11/14/nhs_clop/",
+      "published": "2025-11-14T09:30:14+00:00",
+      "summary": "<h4>Cybercrime crew has ravaged multiple private organizations using Oracle EBS zero-day for months</h4> <p>The UK's National Health Service (NHS) is investigating claims of a cyberattack by extortion crew Clop.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "1e268fc7b5e424fc83f0e6cfb1ad40ccb68a03e6",
+      "title": "Kubernetes overlords decide Ingress NGINX isn\u2019t worth saving",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2025/11/14/nginx_retirement/",
+      "published": "2025-11-14T01:12:45+00:00",
+      "summary": "<h4>Maintenance to end next year after \u2018helpful options\u2019 became \u2018serious security flaws\u2019</h4> <p>Kubernetes maintainers have decided it\u2019s not worth trying to save Ingress NGINX and will instead stop work on the project and retire it in March 2026.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
       "id": "6c139210d329c86b4ab49ddcfd12bdf92cbd9ca6",
@@ -1729,28 +1751,6 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "046966b5a47c716d51e938304ae789dcd6006a2a",
-      "title": "Uncle Sam wants to scan your iris and collect your DNA, citizen or not",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/11/04/dhs_wants_to_collect_biometric_data/",
-      "published": "2025-11-04T22:20:16+00:00",
-      "summary": "<h4>DHS rule would expand biometric collection to immigrants and some citizens linked to them</h4> <p>If you're filing an immigration form - or helping someone who is - the Feds may soon want to look in your eyes, swab your cheek, and scan your face. The US Department of Homeland Security wants to greatly expand biometric data collection for immigration applications, covering immigrants and even some US citizens tied to those cases.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "8ed85e8e391380d5529e01c9180ee231c3c45813",
-      "title": "Russian spies pack custom malware into hidden VMs on Windows machines",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/11/04/russian_spies_pack_custom_malware/",
-      "published": "2025-11-04T18:53:59+00:00",
-      "summary": "<h4>Curly COMrades strike again</h4> <p>Russia's Curly COMrades is abusing Microsoft's Hyper-V hypervisor in compromised Windows machines to create a hidden Alpine Linux-based virtual machine that bypasses endpoint security tools, giving the spies long-term network access to snoop and deploy malware.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
       "id": "ccbd4523f54cf9f331f319eabb7ee913e67564e1",
       "title": "Google Sues to Disrupt Chinese SMS Phishing Triad",
       "url": "https://krebsonsecurity.com/2025/11/google-sues-to-disrupt-chinese-sms-phishing-triad/",
@@ -1828,6 +1828,61 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "be2bea87de949c3eceec729f743920b61156b394",
+      "title": "Akira Ransomware Group Made $244 Million in Ransom Proceeds",
+      "url": "https://www.securityweek.com/akira-ransomware-group-made-244-million-in-ransom-proceeds/",
+      "published": "2025-11-14T12:04:12+00:00",
+      "summary": "<p>Akira was seen exploiting SonicWall vulnerabilities and encrypting Nutanix Acropolis Hypervisor (AHV) VM disk files this year.</p>\n<p>The post <a href=\"https://www.securityweek.com/akira-ransomware-group-made-244-million-in-ransom-proceeds/\">Akira Ransomware Group Made $244 Million in Ransom Proceeds</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "6229e2a946f9451239458610e91ee7aa24591b45",
+      "title": "Amazon Detects 150,000 NPM Packages in Worm-Powered Campaign",
+      "url": "https://www.securityweek.com/amazon-detects-150000-npm-packages-in-worm-powered-campaign/",
+      "published": "2025-11-14T10:40:05+00:00",
+      "summary": "<p>A financially motivated threat actor automated the package publishing process in a coordinated tea.xyz token farming campaign.</p>\n<p>The post <a href=\"https://www.securityweek.com/amazon-detects-150000-npm-packages-in-worm-powered-campaign/\">Amazon Detects 150,000 NPM Packages in Worm-Powered Campaign\u00a0</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "f483f9e96dc446dd9015bea50d324b6fe576b342",
+      "title": "Imunify360 Vulnerability Could Expose Millions of Sites to Hacking",
+      "url": "https://www.securityweek.com/imunify360-vulnerability-could-expose-millions-of-sites-to-hacking/",
+      "published": "2025-11-14T09:35:44+00:00",
+      "summary": "<p>A vulnerability in ImunifyAV can be exploited for arbitrary code execution by uploading a malicious file to shared servers.</p>\n<p>The post <a href=\"https://www.securityweek.com/imunify360-vulnerability-could-expose-millions-of-sites-to-hacking/\">Imunify360 Vulnerability Could Expose Millions of Sites to Hacking</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "6b28c6894ebc87d900ea3a309a18c014b56867e3",
+      "title": "Anthropic Says Claude AI Powered 90% of Chinese Espionage Campaign",
+      "url": "https://www.securityweek.com/anthropic-says-claude-ai-powered-90-of-chinese-espionage-campaign/",
+      "published": "2025-11-14T08:22:53+00:00",
+      "summary": "<p>A state-sponsored threat actor manipulated Claude Code to execute cyberattacks on roughly 30 organizations worldwide.</p>\n<p>The post <a href=\"https://www.securityweek.com/anthropic-says-claude-ai-powered-90-of-chinese-espionage-campaign/\">Anthropic Says Claude AI Powered 90% of Chinese Espionage Campaign</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "adffe599d3429b608d8b53b6b98e73a28c4f8240",
+      "title": "Google Says Chinese \u2018Lighthouse\u2019 Phishing Kit Disrupted Following Lawsuit",
+      "url": "https://www.securityweek.com/google-says-chinese-lighthouse-phishing-kit-disrupted-following-lawsuit/",
+      "published": "2025-11-14T07:38:12+00:00",
+      "summary": "<p>The cybercriminals informed customers that their cloud server was shut down due to complaints.</p>\n<p>The post <a href=\"https://www.securityweek.com/google-says-chinese-lighthouse-phishing-kit-disrupted-following-lawsuit/\">Google Says Chinese &#8216;Lighthouse&#8217; Phishing Kit Disrupted Following Lawsuit\u00a0\u00a0</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "b17e82f86624297675b98293495b4b2a68f4e63e",
       "title": "ChatGPT Vulnerability Exposed Underlying Cloud Infrastructure",
       "url": "https://www.securityweek.com/chatgpt-vulnerability-exposed-underlying-cloud-infrastructure/",
@@ -1877,61 +1932,6 @@
       "url": "https://www.securityweek.com/tens-of-thousands-of-malicious-npm-packages-distribute-self-replicating-worm/",
       "published": "2025-11-13T13:11:17+00:00",
       "summary": "<p>The spam campaign is likely orchestrated by an Indonesian threat actor, based on code comments and the packages\u2019 random names.</p>\n<p>The post <a href=\"https://www.securityweek.com/tens-of-thousands-of-malicious-npm-packages-distribute-self-replicating-worm/\">Tens of Thousands of Malicious NPM Packages Distribute Self-Replicating Worm</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "178cf3868837efa01badc3920f2de24f0997d1f8",
-      "title": "NHS Investigating Oracle EBS Hack Claims as Hackers Name Over 40 Alleged Victims",
-      "url": "https://www.securityweek.com/nhs-investigating-oracle-ebs-hack-claims-as-hackers-name-over-40-alleged-victims/",
-      "published": "2025-11-13T12:54:05+00:00",
-      "summary": "<p>The UK\u2019s national healthcare system is working with the country\u2019s National Cyber Security Centre to investigate the incident.</p>\n<p>The post <a href=\"https://www.securityweek.com/nhs-investigating-oracle-ebs-hack-claims-as-hackers-name-over-40-alleged-victims/\">NHS Investigating Oracle EBS Hack Claims as Hackers Name Over 40 Alleged Victims</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "bc786d08bb531d7b679aa7a87011f0598df619b3",
-      "title": "Critical WatchGuard Firebox Vulnerability Exploited in Attacks",
-      "url": "https://www.securityweek.com/critical-watchguard-firebox-vulnerability-exploited-in-attacks/",
-      "published": "2025-11-13T12:31:37+00:00",
-      "summary": "<p>Tracked as CVE-2025-9242 (CVSS score of 9.3), the flaw leads to unauthenticated, remote code execution on vulnerable firewalls.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-watchguard-firebox-vulnerability-exploited-in-attacks/\">Critical WatchGuard Firebox Vulnerability Exploited in Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "3dc5086fa9fa97d7ebfbc3ba0965b43cff928525",
-      "title": "Synnovis Confirms Patient Information Stolen in Disruptive Ransomware Attack",
-      "url": "https://www.securityweek.com/synnovis-confirms-patient-information-stolen-in-disruptive-ransomware-attack/",
-      "published": "2025-11-13T11:16:43+00:00",
-      "summary": "<p>The ransomware attack on the pathology services provider disrupted operations at several London hospitals.</p>\n<p>The post <a href=\"https://www.securityweek.com/synnovis-confirms-patient-information-stolen-in-disruptive-ransomware-attack/\">Synnovis Confirms Patient Information Stolen in Disruptive Ransomware Attack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "32db01bd1a24a5ee61c86d91f2b755ff47508c28",
-      "title": "Cisco ISE, CitrixBleed 2 Vulnerabilities Exploited as Zero-Days: Amazon",
-      "url": "https://www.securityweek.com/cisco-ise-citrixbleed-2-vulnerabilities-exploited-as-zero-days-amazon/",
-      "published": "2025-11-13T09:50:22+00:00",
-      "summary": "<p>Amazon has seen a threat actor exploiting CVE-2025-20337 and CVE-2025-5777, two critical Cisco and Citrix vulnerabilities, as zero-days.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisco-ise-citrixbleed-2-vulnerabilities-exploited-as-zero-days-amazon/\">Cisco ISE, CitrixBleed 2 Vulnerabilities Exploited as Zero-Days: Amazon</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "431af583b2961eade6571657068e5467871156a3",
-      "title": "Firefox 145 and Chrome 142 Patch High-Severity Flaws in Latest Releases",
-      "url": "https://www.securityweek.com/firefox-145-and-chrome-142-patch-high-severity-flaws-in-latest-releases/",
-      "published": "2025-11-13T05:19:33+00:00",
-      "summary": "<p>Google and Mozilla have released fresh Chrome and Firefox updates that address multiple high-severity security defects.</p>\n<p>The post <a href=\"https://www.securityweek.com/firefox-145-and-chrome-142-patch-high-severity-flaws-in-latest-releases/\">Firefox 145 and Chrome 142 Patch High-Severity Flaws in Latest Releases</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
