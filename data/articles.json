@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-15T12:14:54.602127+00:00",
+  "generated_at": "2025-11-16T00:46:23.091645+00:00",
   "items": [
     {
       "id": "b85e4f6daf43d8c5012a92f678973aabfe3c4864",
@@ -112,8 +112,19 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "034ac7ac8dff801fb61ddb6e8f86940106818ad9",
+      "title": "RondoDox Exploits Unpatched XWiki Servers to Pull More Devices Into Its Botnet",
+      "url": "https://thehackernews.com/2025/11/rondodox-exploits-unpatched-xwiki.html",
+      "published": "2025-11-15T16:35:00+00:00",
+      "summary": "The botnet malware known as RondoDox has been observed targeting unpatched XWiki instances against a critical security flaw that could allow attackers to achieve arbitrary code execution.\nThe vulnerability in question is CVE-2025-24893 (CVSS score: 9.8), an eval injection bug that could allow any guest user to perform arbitrary remote code execution through a request to the \"/bin/get/Main/",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9TCTqd165bW145DBMR-qSAvHA1l2PjOb-YZw0aprmzJb9_qRQsz0ZNFZ6zsnvEDcsv4bMnOJcAUYTiBKOrbVuXOROUZ1ZG7imQnFIp6QouU3F5gG2i_pHkCiDW2khhHHdVN2Ey-0_vDrdtB4AXyArktjeo6JLpAUowA2Lux2AHUarBJTHjcKS3lXz60e4/s1600/botnet.jpg"
+    },
+    {
       "id": "0946a012df1a802c95ba1d38441a3681a7ff3a91",
-      "title": "Five U.S. Citizens Plead Guilty to Helping North Korean IT Workers Infiltrate 136 Companies",
+      "title": "Five Plead Guilty in U.S. for Helping North Korean IT Workers Infiltrate 136 Companies",
       "url": "https://thehackernews.com/2025/11/five-us-citizens-plead-guilty-to.html",
       "published": "2025-11-15T10:21:00+00:00",
       "summary": "The U.S. Department of Justice (DoJ) on Friday announced that five individuals have pleaded guilty to assisting North Korea's illicit revenue generation schemes by enabling information technology (IT) worker fraud in violation of international sanctions.\nThe five individuals are listed below -\n\nAudricus Phagnasay, 24\nJason Salazar, 30\nAlexander Paul Travis, 34\nOleksandr Didenko, 28, and\nErick",
@@ -649,17 +660,6 @@
       "region": "North America",
       "country": "US",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmp-SI1cgUsmlMG3lE9_zYqMARsZ452j97kJNlUe_E0cqUX6QHXfPp6-pMHEQZuKlr8mzJI004vOCYTQVaygW0V7Mlcd2hmwk599TNk-85utedJE9cPyZO_ezKR3E-THcjGP8xeVc3udXnrCz6OFT8OCqVaZY6xry3kbsJmCJmdcq-Gz9lrUigoyNbEWhz/s1600/hacker-uk.jpg"
-    },
-    {
-      "id": "afb3879e013be0bfd7f536fdbe15db70a7d9cddb",
-      "title": "U.S. Sanctions 10 North Korean Entities for Laundering $12.7M in Crypto and IT Fraud",
-      "url": "https://thehackernews.com/2025/11/us-sanctions-10-north-korean-entities.html",
-      "published": "2025-11-05T10:55:00+00:00",
-      "summary": "The U.S. Treasury Department on Tuesday imposed sanctions against eight individuals and two entities within North Korea's global financial network for laundering money for various illicit schemes, including cybercrime and information technology (IT) worker fraud.\n\"North Korean state-sponsored hackers steal and launder money to fund the regime's nuclear weapons program,\" said Under Secretary of",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXIMlJnqx7E3-6UYncV_kGW3LUD3e8ePPnKZ2nWmTSdjlvSMeVGwCwVaJQCYk6KCKcvnmiu1_Ujh_eqgtEJ3JYO2-FVzKTcDFiw5wmXacWEMwFhc3VtV8ZTenImisM-4talaTVCUqZHk1rxXoqY6b4kyHTh53q_OjRYj_MTznsoqhgb_0B8QAVWRc_KVV2/s1600/it-workers.jpg"
     },
     {
       "id": "fb369553fedcc58c5d60c902faadba0e15cc283f",
