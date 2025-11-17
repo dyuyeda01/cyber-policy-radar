@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-16T12:15:08.229540+00:00",
+  "generated_at": "2025-11-17T00:44:38.006063+00:00",
   "items": [
     {
       "id": "b85e4f6daf43d8c5012a92f678973aabfe3c4864",
@@ -1201,6 +1201,17 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6fb72c24fce65e0a/690892719deb159486852cfc/Truffle_Eyewave_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
+      "id": "94c8d6e2275a5972f33034fd8325ad16e3b33108",
+      "title": "Logitech leaks data after zero-day attack",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2025/11/16/infosec_news_in_brief/",
+      "published": "2025-11-16T23:05:52+00:00",
+      "summary": "<h4>PLUS: CISA still sitting on telecoms security report; DoorDash phished again; Lumma stealer returns; and more</h4> <p><strong>INFOSEC IN BRIEF</strong>\u00a0 The US Senate passed a resolution in July to force the US Cybersecurity and Infrastructure Security Agency (CISA) to publish a 2022 report into poor security in the telecommunications industry but the agency has not delivered the document.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "485945373e9b1ea7092150869a3945abe46cff37",
       "title": "Fortinet finally cops to critical make-me-admin bug under active exploitation",
       "url": "https://go.theregister.com/feed/www.theregister.com/2025/11/14/fortinet_active_exploit_cve_2025_64446/",
@@ -1740,14 +1751,14 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "b7ae9d9dfda1df4105e270752506a35ac1c304dc",
-      "title": "AMD red-faced over random-number bug that kills cryptographic security",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/11/05/amd_promises_to_fix_chips/",
-      "published": "2025-11-05T15:01:52+00:00",
-      "summary": "<h4>Local privileges required to exploit flaw in Ryzen and Epyc CPUs. Some patches available, more on the way</h4> <p>AMD will issue a microcode patch for a high-severity vulnerability that could weaken cryptographic keys across Epyc and Ryzen CPUs.\u2026</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
+      "id": "516f12d3c41293e1c1c7570a45ffe41042d6b9ab",
+      "title": "Microsoft Patch Tuesday, November 2025 Edition",
+      "url": "https://krebsonsecurity.com/2025/11/microsoft-patch-tuesday-november-2025-edition/",
+      "published": "2025-11-16T21:47:14+00:00",
+      "summary": "Microsoft this week pushed security updates to fix more than 60 vulnerabilities in its Windows operating systems and supported software, including at least one zero-day bug that is already being exploited. Microsoft also fixed a glitch that prevented some Windows 10 users from taking advantage of an extra year of security updates, which is nice because the zero-day flaw and other critical weaknesses patched today affect all versions of Windows, including Windows 10.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
