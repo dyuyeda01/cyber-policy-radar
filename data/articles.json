@@ -1,6 +1,17 @@
 {
-  "generated_at": "2025-11-17T00:44:38.006063+00:00",
+  "generated_at": "2025-11-17T12:17:35.454963+00:00",
   "items": [
+    {
+      "id": "c08c2fc2cdb57bec917f12c81a1384aed256731b",
+      "title": "AI-driven dynamic endpoint security is redefining trust",
+      "url": "https://www.cybersecuritydive.com/spons/ai-driven-dynamic-endpoint-security-is-redefining-trust/805390/",
+      "published": "2025-11-17T10:00:00+00:00",
+      "summary": "<p>Network perimeters are gone. Modern security solutions must be proactive, dynamic and intelligent.</p>",
+      "source": "Cybersecurity Dive",
+      "region": "North America",
+      "country": "US",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
     {
       "id": "b85e4f6daf43d8c5012a92f678973aabfe3c4864",
       "title": "Anthropic warns state-linked actor abused its AI tool in sophisticated espionage campaign",
@@ -101,15 +112,26 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "23393ab81f9e9f2680b6458a9555ccaa96224756",
-      "title": "Cisco detects new attack variant targeting vulnerable firewalls",
-      "url": "https://www.cybersecuritydive.com/news/cisco-firewall-attack-variant-arcanedoor/805116/",
-      "published": "2025-11-10T14:49:47+00:00",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/HxwcmLWhwWntTJqUm6D5-G1_94ndYepWnhL1SU_sD4c/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzczMzgzMTg5LmpwZ19yZXNpemUuanBn.webp\" /></div></figure><p>Hackers may be able to overload unpatched devices, the company said.</p>",
-      "source": "Cybersecurity Dive",
+      "id": "48b57cec3a5900f4169a34e3ea5a497dc6944f29",
+      "title": "Dragon Breath Uses RONINGLOADER to Disable Security Tools and Deploy Gh0st RAT",
+      "url": "https://thehackernews.com/2025/11/dragon-breath-uses-roningloader-to.html",
+      "published": "2025-11-17T11:20:00+00:00",
+      "summary": "The threat actor known as Dragon Breath has been observed making use of a multi-stage loader codenamed RONINGLOADER to deliver a modified variant of a remote access trojan called Gh0st RAT.\nThe campaign, which is primarily aimed at Chinese-speaking users, employs trojanized NSIS installers masquerading as legitimate like Google Chrome and Microsoft Teams, according to Elastic Security Labs.\n\"The",
+      "source": "The Hacker News",
       "region": "North America",
       "country": "US",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9N_SUrEcfHdyrM_8wzo21DFLFtDBZPlKPLyFLYRfQWYCS8wyhxYLj35JrSqYNFT9739fS9yXd3HSwlcTw4k3j-v96987CW9AWYoaC-BcCCnmTUJ09p7mk07aa1Cn9tYKOuUBS0GQ9oVgoKMfVCbhdWNVF4f5YdAvkAl2PeGDWEKBu1Q3BX58WfqowgUlX/s1600/malware-attack.jpg"
+    },
+    {
+      "id": "c8af924c17ec7c5208ae15b8d2121e9d46b6e49b",
+      "title": "Rust Adoption Drives Android Memory Safety Bugs Below 20% for First Time",
+      "url": "https://thehackernews.com/2025/11/rust-adoption-drives-android-memory.html",
+      "published": "2025-11-17T06:02:00+00:00",
+      "summary": "Google has disclosed that the company's continued adoption of the Rust programming language in Android has resulted in the number of memory safety vulnerabilities falling below 20% of total vulnerabilities for the first time.\n\"We adopted Rust for its security and are seeing a 1000x reduction in memory safety vulnerability density compared to Android\u2019s C and C++ code. But the biggest surprise was",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_qGZvQDuR4AG6uEiMhGDHMsSkL1TLRNfW1kBylVrG6oiDRdisUMsnMb2vjfad2_IywwPHoJsNNX4kuhs_1UPn07KCLnt_z7C0AdmNTfDNKApwOAKnjDtuNuPR84jCFyw6deU-N6D3Jj8kR-BcV9sKidAEvdTxKFZA71P8OmCpvVgekFZCTwmMzoXS9qc2/s1600/android-rust.jpg"
     },
     {
       "id": "034ac7ac8dff801fb61ddb6e8f86940106818ad9",
@@ -638,28 +660,6 @@
       "region": "North America",
       "country": "US",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjc9u8ifBTtqcucAGtnB5BSuB4Zu2PTcSopIDhD1mxnUeFmAtb1KWyJuU3Yb8JAnJ-nQ4jltxhO5YCFzfd-VhbghvU9B8DewcX9kDZ4Wv65q-3Sqnj-tyAtaL2BNI_poMHKzeJMr93cjTv7U9lqZFSpLOgs0mYOjIA0QqYydcxGmxxqZGS-YS8hJUi8sdsJ/s1600/chatgpt-hack.jpg"
-    },
-    {
-      "id": "57396f93c2a32f5ff287e250c9d4cfb7271ac31d",
-      "title": "Securing the Open Android Ecosystem with Samsung Knox",
-      "url": "https://thehackernews.com/2025/11/securing-open-android-ecosystem-with.html",
-      "published": "2025-11-05T11:55:00+00:00",
-      "summary": "Raise your hand if you\u2019ve heard the myth, \u201cAndroid isn\u2019t secure.\u201d\nAndroid phones, such as the Samsung Galaxy, unlock new ways of working. But, as an IT admin, you may worry about the security\u2014after all, work data is critical.\nHowever, outdated concerns can hold your business back from unlocking its full potential. The truth is, with work happening everywhere, every device connected to your",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPd1GerA19wNhABt5LKN6GfthI5rzfkRTbigEYmdoa_xBlhczavPQemf3AG5HSmjAYK3cot1kYKQuceJ90bhNnju1ZD9y_AnwuU_4cPawlBGIJtjtlIO7WnP8PVo4K0UEVJMSayB31YGm0TpferX6BetOhEDyB3v-faGFJB3ehP2Li9g7PpoIEoMLfO5Y/s1600/samsung.jpg"
-    },
-    {
-      "id": "3c698f8e3eb99775e98f8d0f922055b6f1f05cc5",
-      "title": "Mysterious 'SmudgedSerpent' Hackers Target U.S. Policy Experts Amid Iran\u2013Israel Tensions",
-      "url": "https://thehackernews.com/2025/11/mysterious-smudgedserpent-hackers.html",
-      "published": "2025-11-05T11:20:00+00:00",
-      "summary": "A never-before-seen threat activity cluster codenamed UNK_SmudgedSerpent has been attributed as behind a set of cyber attacks targeting academics and foreign policy experts between June and August 2025, coinciding with heightened geopolitical tensions between Iran and Israel.\n\"UNK_SmudgedSerpent leveraged domestic political lures, including societal change in Iran and investigation into the",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmp-SI1cgUsmlMG3lE9_zYqMARsZ452j97kJNlUe_E0cqUX6QHXfPp6-pMHEQZuKlr8mzJI004vOCYTQVaygW0V7Mlcd2hmwk599TNk-85utedJE9cPyZO_ezKR3E-THcjGP8xeVc3udXnrCz6OFT8OCqVaZY6xry3kbsJmCJmdcq-Gz9lrUigoyNbEWhz/s1600/hacker-uk.jpg"
     },
     {
       "id": "fb369553fedcc58c5d60c902faadba0e15cc283f",
@@ -1201,6 +1201,28 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6fb72c24fce65e0a/690892719deb159486852cfc/Truffle_Eyewave_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
+      "id": "1590e7b21063357a51f4ad01b3225c734260d266",
+      "title": "UK prosecutors seize \u00a34.11M in crypto from Twitter mega-hack culprit",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2025/11/17/cps_41m_crypto_twitter/",
+      "published": "2025-11-17T11:56:32+00:00",
+      "summary": "<h4>Civil recovery order targets PlugwalkJoe's illicit gains while he serves US sentence</h4> <p>British prosecutors have secured a civil recovery order to seize crypto assets worth \u00a34.11 million ($5.39 million) from Twitter hacker Joseph James O'Connor, clawing back the proceeds of a scam that used hijacked celebrity accounts to solicit digital currency and threaten high-profile individuals.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "f211cd464f91ecae06dc50740ce3b4ee459eb680",
+      "title": "Jaguar Land Rover hack cost India's Tata Motors around $2.4 billion and counting",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2025/11/17/asia_tech_news_roundup/",
+      "published": "2025-11-17T01:41:51+00:00",
+      "summary": "<h4>PLUS: Active noise cancellation for entire rooms; More trouble for Korea Telecom; The Wiggles apologize for bad batteries; and more</h4> <p><strong>Asia In Brief</strong>\u00a0 India\u2019s Tata Motors, owner of Jaguar Land Rover, has revealed the <a href=\"https://www.theregister.com/2025/11/07/bank_of_england_says_jlrs/\" target=\"_blank\">cyberattack</a> that shut down production in the UK has so far cost it around \u00a31.8 billion ($2.35 billion).\u2026</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "94c8d6e2275a5972f33034fd8325ad16e3b33108",
       "title": "Logitech leaks data after zero-day attack",
       "url": "https://go.theregister.com/feed/www.theregister.com/2025/11/16/infosec_news_in_brief/",
@@ -1729,28 +1751,6 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "06315fcb200b1ee821c86ab2503c00e2afde8f34",
-      "title": "Why UK businesses are paying ICO millions for password mistakes you're probably making right now",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/11/06/why_uk_businesses_paying/",
-      "published": "2025-11-06T09:00:09+00:00",
-      "summary": "<h4>Strongly-worded emails to staff telling them to be more careful aren't going to cut it anymore</h4> <p><strong>Partner Content</strong>\u00a0 UK GDPR Article 32 mandates \"appropriate security measures\". The ICO has defined what that means: multi-million-pound fines for password failures. The violations that trigger them? Small, familiar, and happening in your organization right now.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "a16a911c206d0a7b1c626983908f57a59cfe8b92",
-      "title": "Uncle Sam lets Google take Wiz for $32B",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/11/05/googles_32b_wiz_acquisition_its/",
-      "published": "2025-11-05T17:48:45+00:00",
-      "summary": "<h4>Second time's the charm for after Wiz rejected Google's $23B offer last year</h4> <p>Google's second attempt to acquire cloud security firm Wiz is going a lot better than the first, with the Department of Justice clearing the $32 billion deal, which ranks as Google's largest-ever acquisition.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
       "id": "516f12d3c41293e1c1c7570a45ffe41042d6b9ab",
       "title": "Microsoft Patch Tuesday, November 2025 Edition",
       "url": "https://krebsonsecurity.com/2025/11/microsoft-patch-tuesday-november-2025-edition/",
@@ -1823,6 +1823,28 @@
       "published": "2025-10-22T17:21:36+00:00",
       "summary": "Financial regulators in Canada this week levied $176 million in fines against Cryptomus, a digital payments platform that supports dozens of Russian cryptocurrency exchanges and websites hawking cybercrime services. The penalties for violating Canada's anti money-laundering laws come ten months after KrebsOnSecurity noted that Cryptomus's Vancouver street address was home to dozens of foreign currency dealers, money transfer businesses, and cryptocurrency exchanges \u2014 none of which were physically located there.",
       "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "c881dea34f69dfb530db9dcd7ae72148bcdd3d18",
+      "title": "Logitech Confirms Data Breach Following Designation as Oracle Hack Victim",
+      "url": "https://www.securityweek.com/logitech-confirms-data-breach-following-designation-as-oracle-hack-victim/",
+      "published": "2025-11-17T11:10:44+00:00",
+      "summary": "<p>Logitech was listed on the Cl0p ransomware leak website in early November, but its disclosure does not mention Oracle.</p>\n<p>The post <a href=\"https://www.securityweek.com/logitech-confirms-data-breach-following-designation-as-oracle-hack-victim/\">Logitech Confirms Data Breach Following Designation as Oracle Hack Victim</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "360ac7901ddf6e278247681a25a6352fbff34828",
+      "title": "Widespread Exploitation of XWiki Vulnerability Observed",
+      "url": "https://www.securityweek.com/widespread-exploitation-of-xwiki-vulnerability-observed/",
+      "published": "2025-11-17T11:06:37+00:00",
+      "summary": "<p>The exploitation of the recent XWiki vulnerability has expanded to botnets, cryptocurrency miners, scanners, and custom tools.</p>\n<p>The post <a href=\"https://www.securityweek.com/widespread-exploitation-of-xwiki-vulnerability-observed/\">Widespread Exploitation of XWiki Vulnerability Observed</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
@@ -1910,28 +1932,6 @@
       "url": "https://www.securityweek.com/amazon-detects-150000-npm-packages-in-worm-powered-campaign/",
       "published": "2025-11-14T10:40:05+00:00",
       "summary": "<p>A financially motivated threat actor automated the package publishing process in a coordinated tea.xyz token farming campaign.</p>\n<p>The post <a href=\"https://www.securityweek.com/amazon-detects-150000-npm-packages-in-worm-powered-campaign/\">Amazon Detects 150,000 NPM Packages in Worm-Powered Campaign\u00a0</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "f483f9e96dc446dd9015bea50d324b6fe576b342",
-      "title": "Imunify360 Vulnerability Could Expose Millions of Sites to Hacking",
-      "url": "https://www.securityweek.com/imunify360-vulnerability-could-expose-millions-of-sites-to-hacking/",
-      "published": "2025-11-14T09:35:44+00:00",
-      "summary": "<p>A vulnerability in ImunifyAV can be exploited for arbitrary code execution by uploading a malicious file to shared servers.</p>\n<p>The post <a href=\"https://www.securityweek.com/imunify360-vulnerability-could-expose-millions-of-sites-to-hacking/\">Imunify360 Vulnerability Could Expose Millions of Sites to Hacking</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "6b28c6894ebc87d900ea3a309a18c014b56867e3",
-      "title": "Anthropic Says Claude AI Powered 90% of Chinese Espionage Campaign",
-      "url": "https://www.securityweek.com/anthropic-says-claude-ai-powered-90-of-chinese-espionage-campaign/",
-      "published": "2025-11-14T08:22:53+00:00",
-      "summary": "<p>A state-sponsored threat actor manipulated Claude Code to execute cyberattacks on roughly 30 organizations worldwide.</p>\n<p>The post <a href=\"https://www.securityweek.com/anthropic-says-claude-ai-powered-90-of-chinese-espionage-campaign/\">Anthropic Says Claude AI Powered 90% of Chinese Espionage Campaign</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
