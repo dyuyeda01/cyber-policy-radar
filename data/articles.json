@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-20T00:42:18.835075+00:00",
+  "generated_at": "2025-11-20T12:17:41.476254+00:00",
   "items": [
     {
       "id": "f1682841e80b8ff0bbc761671a8a6343e3c191c2",
@@ -110,6 +110,50 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "3dd5206dae8d727837bfd26eee63b2ec730387a3",
+      "title": "CTM360 Exposes a Global WhatsApp Hijacking Campaign: HackOnChat",
+      "url": "https://thehackernews.com/2025/11/ctm360-exposes-global-whatsapp.html",
+      "published": "2025-11-20T11:30:00+00:00",
+      "summary": "CTM360 has identified a rapidly expanding WhatsApp account-hacking campaign targeting users worldwide via a network of deceptive authentication portals and impersonation pages. The campaign, internally dubbed HackOnChat, abuses WhatsApp\u2019s familiar web interface, using social engineering tactics to trick users into compromising their accounts.\nInvestigators identified thousands of malicious URLs",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjH2aVkVgE_AQcR38boab-hJ6KPZrNbJ2Q12DXvADAqDV8kVqEmRnL4VzFH95VhcRrYxIo0iS-Sb_9NwtZUVm5CxCmk0q0Eywnjik5050X0JPziBgeTK9YSKhKdkOZNvOhm75YitAMspH9sZSEqRXIJurcgfRgOYbCfEqGZBHUwwW7RtOJ3Lw8sg0rX4mI/s1600/ctm360.jpg"
+    },
+    {
+      "id": "f43e39d8e8814057c603d6957d383f82ab79bf9a",
+      "title": "New Sturnus Android Trojan Quietly Captures Encrypted Chats and Hijacks Devices",
+      "url": "https://thehackernews.com/2025/11/new-sturnus-android-trojan-quietly.html",
+      "published": "2025-11-20T11:04:00+00:00",
+      "summary": "Cybersecurity researchers have disclosed details of a new Android banking trojan called Sturnus that enables credential theft and full device takeover to conduct financial fraud.\n\"A key differentiator is its ability to bypass encrypted messaging,\" ThreatFabric said in a report shared with The Hacker News. \"By capturing content directly from the device screen after decryption, Sturnus can monitor",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8I7UV4u8O03jdgw6jpt_ITLXyqrcwoVLRUr_84vWKRe9ctYFLOAhKGvO7poJq_5YZwb7-3a2NzF0smKc5U0KOj6dgRmw5o0jWI0xEtZMjZTZ8KByylPoes-8t_8sXq7wWEyJ_TQtjI81OS1hx-uAG5a3xVCgEd9sqr3JlCemLHuS9ui-ctH6KjH8-uQri/s1600/android-malware.jpg"
+    },
+    {
+      "id": "857d29c0aeb0f1aa7df700cfc2b0769fc69e373b",
+      "title": "Iran-Linked Hackers Mapped Ship AIS Data Days Before Real-World Missile Strike Attempt",
+      "url": "https://thehackernews.com/2025/11/iran-linked-hackers-mapped-ship-ais.html",
+      "published": "2025-11-20T07:35:00+00:00",
+      "summary": "Threat actors with ties to Iran engaged in cyber warfare as part of efforts to facilitate and enhance physical, real-world attacks, a trend that Amazon has called cyber-enabled kinetic targeting.\nThe development is a sign that the lines between state-sponsored cyber attacks and kinetic warfare are increasingly blurring, necessitating the need for a new category of warfare, the tech giant's",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVj8J2nS9lYGZyFEqx7TaQVA9AtDdRKj5kb7gKdT1MipdOYmYLn3fcggw2zKHTxKKMvicuO3N7UFEj-QVsoDO-rcOe8JpfJwSCTjX9LcYQNA9iGxHTvQy3AXyFqJWAjhwf33_AH5bndm7rqeKwlkTwB37MhQ09RRfRB9PdYIvrFFKJl44vcP92df_PStz6/s1600/iran-hackers.jpg"
+    },
+    {
+      "id": "84662c833b6d0e020565d1d8fef800bf7f94ee84",
+      "title": "TamperedChef Malware Spreads via Fake Software Installers in Ongoing Global Campaign",
+      "url": "https://thehackernews.com/2025/11/tamperedchef-malware-spreads-via-fake.html",
+      "published": "2025-11-20T04:06:00+00:00",
+      "summary": "Threat actors are leveraging bogus installers masquerading as popular software to trick users into installing malware as part of a global malvertising campaign dubbed TamperedChef.\nThe end goal of the attacks is to establish persistence and deliver JavaScript malware that facilitates remote access and control, per a new report from Acronis Threat Research Unit (TRU). The campaign, per the",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdYB9Gid2loMKjZaFwuw8YNcXPNMj8a66sEY0z-p0ez7SZf1_vmAIn0fel7zK-zatmZqEc-EssuI89guGsGeOg9G1Vkw6LV7F6QU1W-N1maj6Pws1VrpKl2-sGqrvleq0VF1VTmQHwUzChvzTPcjJPtCIb1pVGT__o4iJoXXYCE0G7h4zb61Y7I-GtLGZn/s1600/software.jpg"
     },
     {
       "id": "092c20c2c6151a3dc2cc263a3b876a0f2beaefad",
@@ -618,50 +662,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCsz1QgtB3DAorATUJtM4NKEDKSftFK-LplwEwazMvy2CJl8Ua-T_nRLa6hpR968DBP4cjFK1rhd70vBYd_gx4s24AQepRSFpjXkFezP9hKo2lrYQm-WgcHBKvJQrU3AYRBltbe6Qw8xpGCcTFje-h3a24Pb04JtJMlUX3Ug7XtR1inGNz7fVkzpfLT_KZ/s1600/hacker-code.jpg"
     },
     {
-      "id": "2cdfa60e3e211bb618dcf6d100642d5d0e8cc6dc",
-      "title": "Android Trojan 'Fantasy Hub' Malware Service Turns Telegram Into a Hub for Hackers",
-      "url": "https://thehackernews.com/2025/11/android-trojan-fantasy-hub-malware.html",
-      "published": "2025-11-11T11:44:00+00:00",
-      "summary": "Cybersecurity researchers have disclosed details of a new Android remote access trojan (RAT) called Fantasy Hub that's sold on Russian-speaking Telegram channels under a Malware-as-a-Service (MaaS) model.\nAccording to its seller, the malware enables device control and espionage, allowing threat actors to collect SMS messages, contacts, call logs, images, and videos, as well as intercept, reply,",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrnztvfc0MS4mXpDjarA_dBNhWyKUYkHkdNF-kNrP6lLQ5-IlH3aQx6_xwLDyyx7qKhcry5c5t3qUNEsAgE4Qp5yxBKVVmgZWtg8F_0RX6bU29uCFoqTw1gdwPvNCdfwjVVapeiSyWW13-ESWpGPgkLiuV8hGMz4Vx5CSlm6JCk0n8CPLSikgtkUSWwn-n/s1600/android-telegram.jpg"
-    },
-    {
-      "id": "08f9f41d507107a992f15f0fe1b2ea6381372001",
-      "title": "Hackers Exploiting Triofox Flaw to Install Remote Access Tools via Antivirus Feature",
-      "url": "https://thehackernews.com/2025/11/hackers-exploiting-triofox-flaw-to.html",
-      "published": "2025-11-10T20:49:00+00:00",
-      "summary": "Google's Mandiant Threat Defense on Monday said it discovered n-day exploitation of a now-patched security flaw in Gladinet's Triofox file-sharing and remote access platform.\nThe critical vulnerability, tracked as CVE-2025-12480 (CVSS score: 9.1), allows an attacker to bypass authentication and access the configuration pages, resulting in the upload and execution of arbitrary payloads.&nbsp;\nThe",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8M2fayypp4tc7l9XXHjTnXQnhElB2WNkkdqTieUwFXlwEx60oLFnbxhHJQDW3kk7TrkYf5s3WrZEjoaRhTEfVhkehsPEgFQQTIs_KH9FgqGP_ozimhhEazGWZCDR7p5CVEyCo5cf-V5_8HlzJCIl0lGMTdArM6v9-U-BPKd5vbkaINt60uHPrqNSidg7j/s1600/hackers.png"
-    },
-    {
-      "id": "a782d1e22822e09837f0b083e86e5a0c7391c719",
-      "title": "Konni Hackers Turn Google\u2019s Find Hub into a Remote Data-Wiping Weapon",
-      "url": "https://thehackernews.com/2025/11/konni-hackers-turn-googles-find-hub.html",
-      "published": "2025-11-10T20:29:00+00:00",
-      "summary": "The North Korea-affiliated threat actor known as Konni (aka Earth Imp, Opal Sleet, Osmium, TA406, and Vedalia) has been attributed to a new set of attacks targeting both Android and Windows devices for data theft and remote control.\n\"Attackers impersonated psychological counselors and North Korean human rights activists, distributing malware disguised as stress-relief programs,\" the Genians",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIpCQ5f-ly7CHt6FDz9ULaJDLRDxJIrT9-GScn1vGk8jXp6zSXDDAMGMMZ-LY2bolu8-7HPoW0BNzFEyouKuyHNukvjbtUF16MiYto_WUV9Ve3x7ZJZYoE0J54qzT0VPtdZ_Bs54xIN53ifzW_Kqrd5QLPAEDEjUgfpUkcLLngM1_KrJaUi44JLAcg5m-f/s1600/hub.jpg"
-    },
-    {
-      "id": "831c3d0c5ec85a27c317f92d3065a2af6508940d",
-      "title": "\u26a1 Weekly Recap: Hyper-V Malware, Malicious AI Bots, RDP Exploits, WhatsApp Lockdown and More",
-      "url": "https://thehackernews.com/2025/11/weekly-recap-hyper-v-malware-malicious.html",
-      "published": "2025-11-10T12:51:00+00:00",
-      "summary": "Cyber threats didn\u2019t slow down last week\u2014and attackers are getting smarter. We\u2019re seeing malware hidden in virtual machines, side-channel leaks exposing AI chats, and spyware quietly targeting Android devices in the wild.\nBut that\u2019s just the surface. From sleeper logic bombs to a fresh alliance between major threat groups, this week\u2019s roundup highlights a clear shift: cybercrime is evolving fast",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihDn-ouAjSamS6qppMqJQp0muEjFRy3-Rs2m4u6iNunhDZUPSbi9CQMC1Ub8r7CFkHVo_7B98nwiZbsLlbg2Xq_Im67d6GvqaEaq3ZILZfZVhYafqJydsDCggwkh_n3q-XDcZJ_JLFalQ7E_KK-nYa9_YrOZl62NnyglLa5vmtdWPF7K9lH07l32yv72CI/s1600/recap-nov.jpg"
-    },
-    {
       "id": "2409a62a273bb896ca4d3235df2f8f34903b538a",
       "title": "Fortinet Woes Continue With Another WAF Zero-Day Flaw",
       "url": "https://www.darkreading.com/vulnerabilities-threats/fortinet-woes-continue-another-waf-zero-day-flaw",
@@ -715,6 +715,17 @@
       "region": "North America",
       "country": "US",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc068f4477738319d/691cd55ae16a280b60a7611e/Toy_train_crash-PRILL_Mediendesign-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
+      "id": "a2f515a9d58bb9e97faf28049a1869f27dfaccf8",
+      "title": "US Creates 'Strike Force' to Take Out SE Asian Scam Centers",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/us-strike-force-southeast-asian-scam-centers",
+      "published": "2025-11-19T02:00:00+00:00",
+      "summary": "The collaborative effort combines multiple federal departments, along with private companies to reduce, if not eliminate, billions lost annually to fraud.",
+      "source": "DarkReading",
+      "region": "North America",
+      "country": "US",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltca3de8d99c5b6037/66687feff311eb30adf48c34/End_ru99-southeast-asia-map-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "id": "17a062b96f54f63dca9c714db656440f7d37e82c",
@@ -1190,15 +1201,37 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt111d40e2e2306743/690bbbd420119eaf33be38d6/nikkei_RobertEvans_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "18bb86de14b4444526158597921214f4069ecda4",
-      "title": "Operational Technology Security Poses Inherent Risks for Manufacturers",
-      "url": "https://www.darkreading.com/ics-ot-security/operational-technology-security-poses-inherent-risks-for-manufacturers",
-      "published": "2025-11-05T15:33:28+00:00",
-      "summary": "Despite increased awareness, manufacturers continue to face an onslaught of attacks.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt001d6740f90bf1c1/667c7ca5dd347269e39e15a9/factory-Moodboard_Stock_Photography-alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "id": "337cbdcab73a47292caf09b68747a695fc7a9e5a",
+      "title": "Palo Alto kit sees massive surge in malicious activity amid mystery traffic flood",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2025/11/20/palo_alto_traffic_flood/",
+      "published": "2025-11-20T11:38:11+00:00",
+      "summary": "<h4>GlobalProtect login endpoints targeted, sparking concern that something bigger may be brewing</h4> <p>Malicious traffic targeting Palo Alto Networks' GlobalProtect portals surged almost 40-fold in the space of 24 hours, hitting a 90-day high and putting defenders on alert for whatever comes next.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "2e271be80562cd6409e7a2d9b7ea624703464022",
+      "title": "Palo Alto CEO tips nation-states to weaponize quantum computing by 2029",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2025/11/20/palo_alto_q1_2026/",
+      "published": "2025-11-20T04:27:37+00:00",
+      "summary": "<h4>Company thinks you\u2019ll contemplate replacing most security kit in the next few years to stay safe</h4> <p>Palo Alto Networks CEO Nikesh Arora has suggested hostile nation-states will possess quantum computers in 2029, or even a little earlier, at which point most security appliances will need to be replaced.\u2026</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "44b03e0391d80da995cc80782fe8e56e5bd2c80b",
+      "title": "US, UK, Australia sanction Lockbit gang\u2019s hosting provider",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2025/11/20/russian_bph_medialand_sanctioned/",
+      "published": "2025-11-20T01:30:04+00:00",
+      "summary": "<h4>\u2018Bulletproof\u2019 hosts partly dodged the last attack of this sort</h4> <p>Cybercrime fighters in the US, UK, and Australia have imposed sanctions on several Russia-linked entities they claim provide hosting services to ransomware gangs Lockbit, BlackSuit, and Play.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
       "id": "48ce5221168a3bcfce8a9623243e29f70d1a494b",
@@ -1718,39 +1751,6 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "5fd6abf6ab9dfae44544a56c2f162599dec8e1d7",
-      "title": "LLM side-channel attack could allow snoops to guess what you're talking about",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/11/11/llm_sidechannel_attack_microsoft_researcher/",
-      "published": "2025-11-11T00:09:48+00:00",
-      "summary": "<h4>Encryption protects content, not context</h4> <p><strong>Updated</strong>\u00a0 Mischief-makers can guess the subjects being discussed with LLMs using a side-channel attack, according to Microsoft researchers. They told <em>The Register</em> that models from some providers, including Anthropic, AWS, DeepSeek, and Google, haven't been fixed, putting both personal users and enterprise communications at risk.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "15c6cca29b911d0eb474ac96bfc72c5077357601",
-      "title": "Critical federal cybersecurity funding set to resume as government shutdown draws to a close - for now",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/11/10/federal_cybersecurity_funding_set_to_resume/",
-      "published": "2025-11-10T19:01:12+00:00",
-      "summary": "<h4>Resolution acquiesced to by 8 Dems includes CISA Act funding, layoff reversals, and could be easily undone</h4> <p>The US Senate voted on Sunday to advance a short-term funding bill for the federal government, moving the country closer to ending its longest-ever shutdown. Part of the spending bill also restores critical cybersecurity programs that lapsed as the shutdown began.\u00a0\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "476fbca847962796ec75e8a5f627f760c0733573",
-      "title": "Phishers try to lure 5K Facebook advertisers with fake business pages",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/11/10/5k_facebook_advertising_customers_phishing/",
-      "published": "2025-11-10T18:34:46+00:00",
-      "summary": "<h4>One company alone was hit with more than 4,200 emails</h4> <p>More than 5,000 businesses that use Facebook for advertising were bombarded by tens of thousands of phishing emails in a credential- and data-stealing campaign.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
       "id": "654024e61e0288ad7c3667dc4521610c8201f8ee",
       "title": "The Cloudflare Outage May Be a Security Roadmap",
       "url": "https://krebsonsecurity.com/2025/11/the-cloudflare-outage-may-be-a-security-roadmap/",
@@ -1839,6 +1839,50 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "6d0ba4c7bb5eca7d0cb2968b068a0150f3f51cdf",
+      "title": "Vulnerability Allowed Scraping of 3.5 Billion WhatsApp Accounts",
+      "url": "https://www.securityweek.com/vulnerability-allowed-scraping-of-3-5-billion-whatsapp-accounts/",
+      "published": "2025-11-20T11:52:50+00:00",
+      "summary": "<p>Researchers demonstrated a now-patched vulnerability that could have been used to enumerate all WhatsApp accounts.</p>\n<p>The post <a href=\"https://www.securityweek.com/vulnerability-allowed-scraping-of-3-5-billion-whatsapp-accounts/\">Vulnerability Allowed Scraping of 3.5 Billion WhatsApp Accounts</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "dcd7953b8b32e3966ed1a449c693f0ffa5602da7",
+      "title": "Recent 7-Zip Vulnerability Exploited in Attacks",
+      "url": "https://www.securityweek.com/recent-7-zip-vulnerability-exploited-in-attacks/",
+      "published": "2025-11-20T10:41:18+00:00",
+      "summary": "<p>A proof-of-concept (PoC) exploit targeting the high-severity remote code execution (RCE) bug exists.</p>\n<p>The post <a href=\"https://www.securityweek.com/recent-7-zip-vulnerability-exploited-in-attacks/\">Recent 7-Zip Vulnerability Exploited in Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "09ec8512a0c4a1c73f26006015c54d49fe84ce1e",
+      "title": "SolarWinds Patches Three Critical Serv-U Vulnerabilities",
+      "url": "https://www.securityweek.com/solarwinds-patches-three-critical-serv-u-vulnerabilities/",
+      "published": "2025-11-20T07:25:39+00:00",
+      "summary": "<p>SolarWinds Serv-U is affected by vulnerabilities that can be exploited for remote code execution.</p>\n<p>The post <a href=\"https://www.securityweek.com/solarwinds-patches-three-critical-serv-u-vulnerabilities/\">SolarWinds Patches Three Critical Serv-U Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "d364d35ac0790de83b50230f83fc139f5aa7cf3b",
+      "title": "Palo Alto Networks to Acquire Observability Platform Chronosphere in $3.35 Billion Deal",
+      "url": "https://www.securityweek.com/palo-alto-networks-to-acquire-observability-platform-chronosphere-in-3-35-billion-deal/",
+      "published": "2025-11-20T02:18:00+00:00",
+      "summary": "<p>The move to acquire Chronosphere is the latest of several acquisitions in recent years and follows a massive $25 billion deal to acquire CyberArk.</p>\n<p>The post <a href=\"https://www.securityweek.com/palo-alto-networks-to-acquire-observability-platform-chronosphere-in-3-35-billion-deal/\">Palo Alto Networks to Acquire Observability Platform Chronosphere in $3.35 Billion Deal</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "2f32e8b19cf5b45796be61e56bbbbf0cae5945cf",
       "title": "Amazon Details Iran\u2019s Cyber-Enabled Kinetic Attacks Linking Digital Spying to Physical Strikes",
       "url": "https://www.securityweek.com/amazon-details-irans-cyber-enabled-kinetic-attacks-linking-digital-spying-to-physical-strikes/",
@@ -1899,50 +1943,6 @@
       "url": "https://www.securityweek.com/ai-is-supercharging-phishing-heres-how-to-fight-back/",
       "published": "2025-11-19T12:00:00+00:00",
       "summary": "<p>AI has given cybercriminals the ability to operate like Fortune\u2011500\u2011scale marketing departments\u2014except their product is account takeover, data theft, and identity fraud. </p>\n<p>The post <a href=\"https://www.securityweek.com/ai-is-supercharging-phishing-heres-how-to-fight-back/\">AI Is Supercharging Phishing: Here\u2019s How to Fight Back</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "10e5ef60ee61a60137902c2b8d871e2593e11ca1",
-      "title": "Largest Azure DDoS Attack Powered by Aisuru Botnet",
-      "url": "https://www.securityweek.com/largest-azure-ddos-attack-powered-by-aisuru-botnet/",
-      "published": "2025-11-19T11:06:54+00:00",
-      "summary": "<p>Microsoft said the DDoS attack was aimed at an endpoint in Australia and reached 15.72 Tbps and 3.64 Bpps.</p>\n<p>The post <a href=\"https://www.securityweek.com/largest-azure-ddos-attack-powered-by-aisuru-botnet/\">Largest Azure DDoS Attack Powered by Aisuru Botnet</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "fafe8499aa51f28b4e677a77d0e4b50b22fab82a",
-      "title": "Fortinet Discloses Second Exploited FortiWeb Zero-Day in a Week",
-      "url": "https://www.securityweek.com/fortinet-discloses-second-exploited-fortiweb-zero-day-in-a-week/",
-      "published": "2025-11-19T09:46:51+00:00",
-      "summary": "<p>An OS command injection flaw, the exploited zero-day allows attackers to execute arbitrary code on the underlying system.</p>\n<p>The post <a href=\"https://www.securityweek.com/fortinet-discloses-second-exploited-fortiweb-zero-day-in-a-week/\">Fortinet Discloses Second Exploited FortiWeb Zero-Day in a Week</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "8516bd3cce04a41e1fb7469f6c4bc90f791331d4",
-      "title": "Microsoft Unveils Security Enhancements for Identity, Defense, Compliance",
-      "url": "https://www.securityweek.com/microsoft-unveils-security-enhancements-for-identity-defense-compliance/",
-      "published": "2025-11-19T07:54:20+00:00",
-      "summary": "<p>Microsoft announced new security capabilities for Defender, Sentinel, Copilot, Intune, Purview, and Entra.\u00a0</p>\n<p>The post <a href=\"https://www.securityweek.com/microsoft-unveils-security-enhancements-for-identity-defense-compliance/\">Microsoft Unveils Security Enhancements for Identity, Defense, Compliance</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "35c9ad396216f5df65b571064905b43d34113445",
-      "title": "Cloudflare Outage Not Caused by Cyberattack",
-      "url": "https://www.securityweek.com/cloudflare-says-highly-disruptive-outage-not-caused-by-attack/",
-      "published": "2025-11-18T18:09:57+00:00",
-      "summary": "<p>Major online services such as ChatGPT, X, and Shopify were disrupted in a global Cloudflare outage on Nov. 18th, as well as transit and city services.\u00a0</p>\n<p>The post <a href=\"https://www.securityweek.com/cloudflare-says-highly-disruptive-outage-not-caused-by-attack/\">Cloudflare Outage Not Caused by Cyberattack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
