@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-22T00:41:24.024898+00:00",
+  "generated_at": "2025-11-22T12:14:29.128012+00:00",
   "items": [
     {
       "id": "8e87cb8434a0917c1f9c1d0f3ebe9c9bcfe5cd9c",
@@ -110,6 +110,28 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "b58a47d3efafff2131d33b5f20636fa9c64a10cc",
+      "title": "Matrix Push C2 Uses Browser Notifications for Fileless, Cross-Platform Phishing Attacks",
+      "url": "https://thehackernews.com/2025/11/matrix-push-c2-uses-browser.html",
+      "published": "2025-11-22T06:47:00+00:00",
+      "summary": "Bad actors are leveraging browser notifications as a vector for phishing attacks to distribute malicious links by means of a new command-and-control (C2) platform called Matrix Push C2.\n\"This browser-native, fileless framework leverages push notifications, fake alerts, and link redirects to target victims across operating systems,\" Blackfog researcher Brenda Robb said in a Thursday report.\nIn",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8zV9hPvOUBQV7bQvL21L0QPcaCbKUW3y1D4puHbsR7Ig3KTf_8W7V52Gs4drcN6P7Ss49eYUSYcC13N10xBKUzA8Pr1cmBpzbUbO5t31wLs9b-Vk1XAxdO5BWz9RxGUsFrSlTPKMKefHVtCI6zkkv-y85B7bPdPQBQkxq78PcrUQQjrfXNLRIsnBwFUeD/s1600/mat-c2.jpg"
+    },
+    {
+      "id": "3e0f67f133ed43b91aadf7a00cd6f925121207b8",
+      "title": "CISA Warns of Actively Exploited Critical Oracle Identity Manager Zero-Day Vulnerability",
+      "url": "https://thehackernews.com/2025/11/cisa-warns-of-actively-exploited.html",
+      "published": "2025-11-22T06:45:00+00:00",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a critical security flaw impacting Oracle Identity Manager to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\nThe vulnerability in question is CVE-2025-61757 (CVSS score: 9.8), a case of missing authentication for a critical function that can result in pre-authenticated",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXwWMS8EhgUJUcX0Z5k9X0VxrwBazuqCRLmma6R5vf1LTby5HJtMpB6eWFTwwh3klO-Hv0fTmp9cCoupTckKOzv_4giyXIgamc63-ILAbZOMsQI3Y7AkO0A4iyScHGdZJl0AYl95YhxB2cYRbVxQDwMvx6qvAga0X95gUyRuFTOdUVtmOjZuGrr9F7ggNJ/s1600/oracle-cyberattack.jpg"
     },
     {
       "id": "66f00a9f49683b7f799493264e26c99435c128f8",
@@ -638,28 +660,6 @@
       "region": "North America",
       "country": "US",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPj6dtQtZKcXl4TjnJfg2t7WniTYLkQ1NLwaQzVB6A-EXj3b3kn6ZGSrAi4AkjkI2HcbdmEGePORP5d1Z7b2awdGjIQD9TCCOPr0YLUUjU4Bazi9LsKY3f0XNvp343duOjEucfDaZaOlkV3tMntsNHp5ilw6Uef2D6_tt2nl3pgbVkQXwH6edgVhUuD8SQ/s1600/firewall1.jpg"
-    },
-    {
-      "id": "aac6d3b5e65cddcdcff584ec0eec5644f2cc7e60",
-      "title": "Over 67,000 Fake npm Packages Flood Registry in Worm-Like Spam Attack",
-      "url": "https://thehackernews.com/2025/11/over-46000-fake-npm-packages-flood.html",
-      "published": "2025-11-13T04:58:00+00:00",
-      "summary": "Cybersecurity researchers are calling attention to a large-scale spam campaign that has flooded the npm registry with thousands of fake packages since early 2024 as part of a likely financially motivated effort.\n\"The packages were systematically published over an extended period, flooding the npm registry with junk packages that survived in the ecosystem for almost two years,\" Endor Labs",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYS26azmd2_hhOZvimLT0xZHe62lE9WVPNiqVvatrXANuYx-pkBp8n1v_eAPLoq4FmVbgv3ACPPlFk_BpqpGAVQ8X-yMGCWcuZjYocPiYlpJDhw6ITx-CXQzdJPF3FM6jbxrcRexNpyEzW4PDjzuLkjSRooPvCoLYaN56M5xWkSOqAIiYV1BetoeqLe1ZN/s1600/npms.jpg"
-    },
-    {
-      "id": "77db49c9fefaed312ab6c874e5d538118d14af6b",
-      "title": "Google Sues China-Based Hackers Behind $1 Billion Lighthouse Phishing Platform",
-      "url": "https://thehackernews.com/2025/11/google-sues-china-based-hackers-behind.html",
-      "published": "2025-11-12T15:48:00+00:00",
-      "summary": "Google has filed a civil lawsuit in the U.S. District Court for the Southern District of New York (SDNY) against China-based hackers who are behind a massive Phishing-as-a-Service (PhaaS) platform called Lighthouse that has ensnared over 1 million users across 120 countries.\nThe PhaaS kit is used to conduct large-scale SMS phishing attacks that exploit trusted brands like E-ZPass and USPS to",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8QizRTvnh2FKfShLUyRGB3nG7j8gwkx9JSvsjDH6VcXmTi9PjdDOHeM-xRjC7uhftMQ097vBryvyFeF0z8tPOWqVEa9qU8vAJxXeppNmdDMAW4ISJScYLrYVS45803vYriSa6qDzZ2mhH0lq00WHCJQhvW7nFIVbYMrTns6Z8rC-yF68QEtar56NWcec1/s1600/google-phishing.jpg"
     },
     {
       "id": "e514888667d8e646803129a837f44f6827eff4ee",
