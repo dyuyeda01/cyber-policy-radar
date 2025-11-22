@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-11-21T12:16:36.064484+00:00",
+  "generated_at": "2025-11-22T00:41:24.024898+00:00",
   "items": [
+    {
+      "id": "8e87cb8434a0917c1f9c1d0f3ebe9c9bcfe5cd9c",
+      "title": "Startup firm called Factory disrupts campaign designed to hijack development platform",
+      "url": "https://www.cybersecuritydive.com/news/factory-disrupts-campaign-AI-development-platform/806180/",
+      "published": "2025-11-21T16:17:47+00:00",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/eV8AdBa3o_GKwCZvAj0j5ZUUB2mNYLyeh3ecxVJYOtk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzU2MzY0MjY4X1NxU1ZWN0UuanBn.webp\" /></div></figure><p>The AI-based firm intercepted a state-linked operation that was abusing resources as part of a criminal cyber-fraud network.</p>",
+      "source": "Cybersecurity Dive",
+      "region": "North America",
+      "country": "US",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
     {
       "id": "0b1a4e2c9a0f69f3b00f1969856a4e5c159c785e",
       "title": "SEC drops civil fraud case against SolarWinds",
       "url": "https://www.cybersecuritydive.com/news/sec-drops-civil-fraud-case-solarwinds/806126/",
       "published": "2025-11-20T23:06:28+00:00",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/Gz5VdTGpVXPgE2pvp0ZKup6f7OYGaXtHL0E4ijRtPFE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9zb2xhcndpbmRzLmpwZw==.webp\" /></div></figure><p>Cybersecurity and legal experts had considered the case a potential precedent-setter for risk disclosure.</p>",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/Gz5VdTGpVXPgE2pvp0ZKup6f7OYGaXtHL0E4ijRtPFE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9zb2xhcndpbmRzLmpwZw==.webp\" /></div></figure><p>Cybersecurity and legal experts considered the case a potential precedent-setter for risk disclosure.</p>",
       "source": "Cybersecurity Dive",
       "region": "North America",
       "country": "US",
@@ -101,15 +112,26 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "3868b9f451431e95b007f79eb4d3c69908504aec",
-      "title": "Jaguar Land Rover reports major earnings impact from cyberattack",
-      "url": "https://www.cybersecuritydive.com/news/jaguar-land-rover-reports-major-earnings-impact-from-cyberattack/805757/",
-      "published": "2025-11-18T03:50:26+00:00",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/1wurEK4OvTYqCFD6yy18l90HYY4Shsj56YaPiis62Ds/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy02NDk0Mjc2NjguanBn.webp\" /></div></figure><p>The automaker set aside hundreds of millions to help stabilize its massive international supply chain.&nbsp;</p>",
-      "source": "Cybersecurity Dive",
+      "id": "66f00a9f49683b7f799493264e26c99435c128f8",
+      "title": "Grafana Patches CVSS 10.0 SCIM Flaw Enabling Impersonation and Privilege Escalation",
+      "url": "https://thehackernews.com/2025/11/grafana-patches-cvss-100-scim-flaw.html",
+      "published": "2025-11-21T15:40:00+00:00",
+      "summary": "Grafana has released security updates to address a maximum severity security flaw that could allow privilege escalation or user impersonation under certain configurations.\nThe vulnerability, tracked as CVE-2025-41115, carries a CVSS score of 10.0. It resides in the System for Cross-domain Identity Management (SCIM) component that allows automated user provisioning and management. First",
+      "source": "The Hacker News",
       "region": "North America",
       "country": "US",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSd96MdjXbbJYSzwIs4CNhCrhOSN5Avm0c3kgMEQVlWBzUPXLbXKs_Kyjk_LhSeKQLjJRbzxyl7SCv62tvd2GEHySWOO__C_f5h2u-5md5Nycx87_WmNUx0CSZ7FCNVEI8LEavtyCoV7cHBFDbdNDaGMrX65oRX0pR17RJcKGIA8PofZ5YhsMrhQV1xpAt/s1600/grafana.jpg"
+    },
+    {
+      "id": "3e1e7367774617651cd44b1fd08b90453665b4fb",
+      "title": "Google Brings AirDrop Compatibility to Android\u2019s Quick Share Using Rust-Hardened Security",
+      "url": "https://thehackernews.com/2025/11/google-adds-airdrop-compatibility-to.html",
+      "published": "2025-11-21T13:00:00+00:00",
+      "summary": "In a surprise move, Google on Thursday announced that it has updated Quick Share, its peer-to-peer file transfer service, to work with Apple's equipment AirDrop, allowing users to more easily share files and photos between Android and iPhone devices.\nThe cross-platform sharing feature is currently limited to the Pixel 10 lineup and works with iPhone, iPad, and macOS devices, with plans to expand",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiId5Cf7YMovzRkPOI6S1tm4fgDKNLcFvdg3ASml-f-mWCwj0rtSAZJ-P4jmORklaJoflcXdYLEVk_EjwXMqcoy7e0c_-fAPSpE_8R5Nvt5cc4VTxf-D1Nh-8qXuAeFjKR6-TcLvZxT1o2D46Iv9dGvkNNWv79ce2E-DzN4FC6XSsQM1QxgylI1fmDMhU4E/s1600/android.jpg"
     },
     {
       "id": "ef4b4a07f3883594ace251123e5cc00052574e9c",
@@ -640,26 +662,70 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8QizRTvnh2FKfShLUyRGB3nG7j8gwkx9JSvsjDH6VcXmTi9PjdDOHeM-xRjC7uhftMQ097vBryvyFeF0z8tPOWqVEa9qU8vAJxXeppNmdDMAW4ISJScYLrYVS45803vYriSa6qDzZ2mhH0lq00WHCJQhvW7nFIVbYMrTns6Z8rC-yF68QEtar56NWcec1/s1600/google-phishing.jpg"
     },
     {
-      "id": "84320878efa97245495b426d089d43465cfe07d5",
-      "title": "Amazon Uncovers Attacks Exploited Cisco ISE and Citrix NetScaler as Zero-Day Flaws",
-      "url": "https://thehackernews.com/2025/11/amazon-uncovers-attacks-exploited-cisco.html",
-      "published": "2025-11-12T14:00:00+00:00",
-      "summary": "Amazon's threat intelligence team on Wednesday disclosed that it observed an advanced threat actor exploiting two then-zero-day security flaws in Cisco Identity Service Engine (ISE) and Citrix NetScaler ADC products as part of attacks designed to deliver custom malware.\n\"This discovery highlights the trend of threat actors focusing on critical identity and network access control infrastructure \u2013",
-      "source": "The Hacker News",
+      "id": "e514888667d8e646803129a837f44f6827eff4ee",
+      "title": "Deja Vu: Salesforce Customers Hacked Again, Via Gainsight",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/salesforce-customers-hacked-gainsight",
+      "published": "2025-11-21T21:22:51+00:00",
+      "summary": "In a repeat of similar attacks during the summer, threat actors affiliated with the ShinyHunters extortion group used a third-party application to steal organizations' Salesforce data.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_sh7XL7mszgdfrNOO_BzjEXspnLIuY2VVyB1VWyIj36nuDhnUiEWJPiy2C7PaZ7Zdqb2DS_mG1NtIRRLpvNRFiPjUZDNKrQmYL9CjNsGZPPCfCK9NgsQiPrv8tvvO3Eb79uCpvdhrSAXcfCV2pwvj6QnUsVxItGQyAimmR5DukNp0aADLaV-UCH6NHRyT/s1600/cisco.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt00fb6e0ca98f1d13/678179317b27f0e9b1e6aa6f/deja_vu-Lobro-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "251d6d5ef340bf1436ba5f628d49cdaebc171fe4",
-      "title": "[Webinar] Learn How Leading Security Teams Reduce Attack Surface Exposure with DASR",
-      "url": "https://thehackernews.com/2025/11/webinar-learn-how-leading-security.html",
-      "published": "2025-11-12T11:55:00+00:00",
-      "summary": "Every day, security teams face the same problem\u2014too many risks, too many alerts, and not enough time. You fix one issue, and three more show up. It feels like you\u2019re always one step behind.\nBut what if there was a smarter way to stay ahead\u2014without adding more work or stress?\nJoin The Hacker News and Bitdefender for a free cybersecurity webinar to learn about a new approach called Dynamic Attack",
-      "source": "The Hacker News",
+      "id": "f13baf8ac6a0390b17981580f050c6eeb96b62c7",
+      "title": "LINE Messaging Bugs Open Asian Users to Cyber Espionage",
+      "url": "https://www.darkreading.com/application-security/line-messaging-bugs-asian-cyber-espionage",
+      "published": "2025-11-21T20:18:01+00:00",
+      "summary": "In a potential gift to geopolitical adversaries, the encrypted messaging app uses a leaky custom protocol that allows message replays, impersonation attacks, and sensitive information exposure from chats.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjb7usGljMR3vSfxxk9XeKY39fUcIRMFDq6GOy0OEA_AK7P4ybAoHwl9Ga45OJ5pZPzpDhwqZ0D6PKEI-IFFifcl-NWBM5ymJ6wcNSyL3bneCMbRbVGz1ca3MIaKDHWbNvOVzK1LinCOt0RLYF1-zb_Zy11bGddkRxowymBu754CFJDpCDIreh4iiGF4loK/s1600/cyberteams.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8a550cb8157232e9/6920adfbbc48dd3d69b0647b/tokyo-mauritius_images_GmbH-alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
+      "id": "455f0103b4cf7191386013bd6b1b8aca9f448743",
+      "title": "Cloudflare's One-Stop-Shop Convenience Takes Down Global Digital Economy",
+      "url": "https://www.darkreading.com/cybersecurity-operations/cloudflares-one-stop-shop-convenience-global-digital-economy",
+      "published": "2025-11-21T20:15:07+00:00",
+      "summary": "Even the most advanced systems like Cloudflare can fall victim to software issues and become a global point of failure, Dr. David Utzke argues, adding that the recent outage should be a warning for enterprises.",
+      "source": "DarkReading",
+      "region": "North America",
+      "country": "US",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2e9218040b184352/692096544887bd66c64667dd/cloudflare_error_message_sjscreens_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
+      "id": "505703e96fbd5048c2b66edede93cef965164130",
+      "title": "Hack the Hackers: 6 Laws for Staying Ahead of the Attackers",
+      "url": "https://www.darkreading.com/cyber-risk/hack-hackers-6-laws-staying-ahead-cyberattackers",
+      "published": "2025-11-21T20:11:28+00:00",
+      "summary": "A new security framework responds to a shift in attackers' tactics, one that allows them to infiltrate enterprises &quot;silently&quot; through their own policies.",
+      "source": "DarkReading",
+      "region": "North America",
+      "country": "US",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1f72cfd8cb2e8f9e/64f17dd16d7cd0c2dc4668fb/lawsuit_Paul_Hill_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
+      "id": "135750eca68c148405aedb7478449962f33825b4",
+      "title": "With AI Reshaping Entry-Level Cyber, What Happens to the Security Talent Pipeline?",
+      "url": "https://www.darkreading.com/cybersecurity-careers/with-ai-reshaping-entry-level-cyber-what-happens-to-the-security-talent-pipeline-",
+      "published": "2025-11-21T15:02:45+00:00",
+      "summary": "Automation is rewriting early-career cybersecurity work, raising urgent questions about how the next generation of security professionals will gain real-world expertise.",
+      "source": "DarkReading",
+      "region": "North America",
+      "country": "US",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8c42c6ba65fdf850/692073697590580557e9dce6/teamworking_Geber86_iStock_000035944166_Medium.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
+      "id": "8098ec4984a201773440be35e8e4ff21eab3520e",
+      "title": "Switching to Offense: US Makes Cyber Strategy Changes",
+      "url": "https://www.darkreading.com/cyber-risk/us-makes-cyber-strategy-changes",
+      "published": "2025-11-21T14:00:00+00:00",
+      "summary": "The US national cyber director describes the next cyber strategy as focusing &quot;on shaping adversary behavior,&quot; adding consequences and aggressive response.",
+      "source": "DarkReading",
+      "region": "North America",
+      "country": "US",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd825c3999cba4256/691f91987c947d7b0e381088/WH-national-cyber-director-sean-cairncross-Aspen-Institute.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "id": "e29bd5a619ba4ae0f2c84df60e290dcfb99cad83",
@@ -673,11 +739,22 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb6c6ecba55de63d0/691f48818c5f3bcf3104019d/US_Iran_image_concept_Zoonar_GmbH_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
+      "id": "b22f06ba0e3a15b19c6bcaede790ec2d130cd1d3",
+      "title": "Securing the Win: What Cybersecurity Can Learn From the Paddock",
+      "url": "https://www.darkreading.com/cybersecurity-operations/securing-win-what-cybersecurity-learn-from-paddock",
+      "published": "2025-11-20T23:23:05+00:00",
+      "summary": "A Formula 1 pit crew demonstrates the basic principles of how modern security teams should work.",
+      "source": "DarkReading",
+      "region": "North America",
+      "country": "US",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt37741e93e49d05eb/69206ce5c761fbfd2c83c577/race-car-wisnu-haryo-yudhanto-alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
       "id": "11eb65f1a8f4af58121b33ba6163603b77fa48af",
-      "title": "Chinese APT Infects Routers to Hijack Software Updates",
+      "title": "China's 'PlushDaemon' Hackers Infect Routers to Hijack Software Updates",
       "url": "https://www.darkreading.com/endpoint-security/chinese-apt-routers-hijack-software-updates",
       "published": "2025-11-20T21:20:32+00:00",
-      "summary": "A unique take on the software update gambit has allowed &quot;PlushDaemon&quot; to evade attention as it mostly targets Chinese organizations.",
+      "summary": "A unique take on the software update gambit has allowed Beijing's state-sponsored advanced persistent threat (APT) to evade attention as it mostly targets Chinese organizations.",
       "source": "DarkReading",
       "region": "North America",
       "country": "US",
@@ -1124,81 +1201,37 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta9ab1ebbf7e0de17/69124bde0cb89be120e94eb7/worm_virus_Vince_Clements_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "0c2b35dfd146a3a61b86fd1b96ad3e0fa3ac85c8",
-      "title": "ClickFix Campaign Targets Hotels, Spurs Secondary Customer Attacks",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/clickfix-targets-hotels-secondary-customer-attacks",
-      "published": "2025-11-10T15:16:58+00:00",
-      "summary": "Attackers compromise hospitality providers with an infostealer and RAT malware and then use stolen data to launch phishing attacks against customers via both email and WhatsApp.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt56ef817a1f232ae9/6911d3af65d9f310204cfea1/booking-Aleksey_Zotov-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "id": "7538f10f4833e64566326dc6eebe80d6acb2a7ca",
+      "title": "ShinyHunters 'does not like Salesforce at all,' claims the crew accessed Gainsight 3 months ago",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2025/11/21/shinyhunters_salesforce_gainsight_breach/",
+      "published": "2025-11-21T19:25:45+00:00",
+      "summary": "<h4>Shiny talks to <i>The Reg</i></h4> <p><strong>EXCLUSIVE</strong>\u00a0 ShinyHunters has claimed responsibility for the Gainsight breach that allowed the data thieves to snarf data from hundreds more Salesforce customers.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "50c294be980d2a5de59579f0a9d2f565b620e23b",
-      "title": "'Landfall' Malware Targets Samsung Galaxy Users",
-      "url": "https://www.darkreading.com/mobile-security/landfall-malware-targeted-samsung-galaxy-users",
-      "published": "2025-11-07T21:15:29+00:00",
-      "summary": "The tool let its operators secretly record conversations, track device locations, capture photos, collect contacts, and perform other surveillance on compromised devices.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltafc10d816f4a797b/690e567abae067cac2a9159e/andoid_Tero_Vesalainen_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "id": "a097cb1338cd4d1549de403015fc5248720d5420",
+      "title": "Four charged over alleged plot to smuggle Nvidia AI chips into China",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2025/11/21/nvidia_china_smuggling_charges/",
+      "published": "2025-11-21T13:58:55+00:00",
+      "summary": "<h4>Prosecutors say front companies, falsified paperwork, and overseas drop points used to dodge US export rules</h4> <p>Four people have been charged in the US with plotting to funnel restricted Nvidia AI chips into China, allegedly relying on shell firms, fake invoices, and covert routing to slip cutting-edge GPUs past American export controls.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "97f0e648d704b135e89e0f5b4c27e5432d5ae58c",
-      "title": "'Ransomvibing' Infests Visual Studio Extension Market",
-      "url": "https://www.darkreading.com/application-security/ransomvibing-infests-visual-studio-extension-market",
-      "published": "2025-11-07T20:36:15+00:00",
-      "summary": "A published VS Code extension didn't hide the fact that it encrypts and exfiltrates data and also failed to remove obvious signs it was AI-generated.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf6604e778807e747/690e294e03df7362ac274c88/Locked_laptop_Andreas_Prott_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
-      "id": "a5d8376b615679286be1410fecba4a6fbd9177eb",
-      "title": "Microsoft Backs Massive AI Push in UAE, Raising Security Concerns",
-      "url": "https://www.darkreading.com/cyber-risk/microsoft-massive-ai-push-uae-security-concerns",
-      "published": "2025-11-07T20:08:51+00:00",
-      "summary": "In partnership with Emirates tech company G42, Microsoft is building the first stage of a 5-gigawatt US-UAE AI campus using Nvidia GPUs.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt191e1dba20de4ea9/690e0875a333b01c7b4be2d6/Microsoft-Dubai-office-UAE-tashmetova808-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
-      "id": "71a9d0b6bd57a3c7a81d37bae06919ade6f633c0",
-      "title": "AI Agents Are Going Rogue: Here's How to Rein Them In",
-      "url": "https://www.darkreading.com/cyber-risk/ai-agents-going-rogue",
-      "published": "2025-11-07T15:00:00+00:00",
-      "summary": "Human-centered identity frameworks are incorrectly being applied to AI agents, creating the potential for catastrophe at machine speed, Poghosyan argues.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3c003bbc98535214/690d2d9cb7095674342285e7/rogue_AO_bot_Chris_Light_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
-      "id": "a740384ad62b7d724d0b7aadc957ec6c41dd733e",
-      "title": "AI Security Agents Get Persona Makeovers",
-      "url": "https://www.darkreading.com/cybersecurity-operations/ai-security-agents-get-personas-make-them-more-appealing",
-      "published": "2025-11-07T14:29:08+00:00",
-      "summary": "New synthetic security staffers promise to bring artificial intelligence comfortably into the security operations center, but they will require governance to protect security.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte217b770933bdcd6/690ceee03ce143613d3f62e0/man-selecting-AI-agent-ImageFlow-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
-      "id": "aa46c28774ac910446c3df51dfa127e76e61a101",
-      "title": "Ollama, Nvidia Flaws Put AI Infrastructure at Risk",
-      "url": "https://www.darkreading.com/vulnerabilities-threats/ollama-nvidia-flaws-ai-infrastructure-risk",
-      "published": "2025-11-07T14:00:00+00:00",
-      "summary": "Security researchers discovered multiple vulnerabilities in AI infrastructure products, including one capable of remote code execution.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta70bc9104c4eee83/690ce58246bf1463657b38a9/RCE_concept_MauriceNorbert_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "id": "49ed582f3f9c13d1e7b87f96b76a177411cc6434",
+      "title": "Russia-linked crooks bought a bank for Christmas to launder cyber loot",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2025/11/21/russia_cybercrime_bank_purchase/",
+      "published": "2025-11-21T13:15:09+00:00",
+      "summary": "<h4>UK cops trace street-level crime to sanctions-busting networks tied to Moscow's war economy</h4> <p>On Christmas Day 2024, a Russian-linked laundering network bought itself a very special present: a controlling stake in a Kyrgyzstan bank, later used to wash cybercrime profits and funnel money into Moscow's war machine, <a href=\"https://www.nationalcrimeagency.gov.uk/news/operation-destabilise-nca-exposes-billion-dollar-money-laundering-network-that-purchased-bank-to-fund-russian-war-effort\" rel=\"nofollow\">according to the UK's National Crime Agency</a> (NCA).\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
       "id": "78579f6b12159afa984447625ba4b20e41760bad",
@@ -1718,39 +1751,6 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "7121bf8bab292cea99cde67608bac5e419bf5f9e",
-      "title": "UK's Cyber Security and Resilience Bill makes Parliamentary debut",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/11/12/uk_cyber_security_and_resilience/",
-      "published": "2025-11-12T10:54:21+00:00",
-      "summary": "<h4>Various touch-ups added as MPs seek greater resilience to attacks on critical sectors</h4> <p>UK government introduced the Cyber Security and Resilience (CSR) Bill to Parliament today, marking a significant overhaul of local cybersecurity legislation to sharpen the security posture of the most critical sectors.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "d686e81380eb15cc94453db973ea7ab0e71afed6",
-      "title": "Aviation watchdog says organized drone attacks will shut UK airports \u2018sooner or later\u2019",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/11/12/uk_aviation_boss_says_organized/",
-      "published": "2025-11-12T10:15:07+00:00",
-      "summary": "<h4>Skies are open for mischief as hard-to-trace drones and fast-moving cyber raids promise new wave of disruption</h4> <p>Britain's aviation watchdog has warned it's only a matter of time before organized drone attacks bring UK airports to a standstill.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "7ed0ad0acb210ef9689283d3962c40dba61074a5",
-      "title": "China hates crypto and scams, but is now outraged USA acquired bitcoin from a scammer",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/11/12/cverc_prince_grou_scam_bitcoin/",
-      "published": "2025-11-12T04:47:45+00:00",
-      "summary": "<h4>A new theory from the agency that brought us \u2018America hacked itself to blame Beijing\u2019</h4> <p>China\u2019s National Computer Virus Emergency Response Center (CVERC) has alleged a nation-state entity, probably the USA, was behind a 2020 attack on a bitcoin mining operation and by doing so has gone into bat for entities that Beijing usually blasts.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
       "id": "578776ac87407943a6d87d4c4fef713d165051a5",
       "title": "Mozilla Says It\u2019s Finally Done With Two-Faced Onerep",
       "url": "https://krebsonsecurity.com/2025/11/mozilla-says-its-finally-done-with-two-faced-onerep/",
@@ -1839,12 +1839,45 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "9d44f13dac3335d6f7398aab1268ff50853a4ac6",
-      "title": "Canada Fines Cybercrime Friendly Cryptomus $176M",
-      "url": "https://krebsonsecurity.com/2025/10/canada-fines-cybercrime-friendly-cryptomus-176m/",
-      "published": "2025-10-22T17:21:36+00:00",
-      "summary": "Financial regulators in Canada this week levied $176 million in fines against Cryptomus, a digital payments platform that supports dozens of Russian cryptocurrency exchanges and websites hawking cybercrime services. The penalties for violating Canada's anti money-laundering laws come ten months after KrebsOnSecurity noted that Cryptomus's Vancouver street address was home to dozens of foreign currency dealers, money transfer businesses, and cryptocurrency exchanges \u2014 none of which were physically located there.",
-      "source": "Krebs on Security",
+      "id": "8e18c37b59a1eff430d1cee6bd9154e2eb223e63",
+      "title": "In Other News: ATM Jackpotting, WhatsApp-NSO Lawsuit Continues, CISA Hiring",
+      "url": "https://www.securityweek.com/in-other-news-atm-jackpotting-whatsapp-nso-lawsuit-continues-cisa-hiring/",
+      "published": "2025-11-21T15:30:00+00:00",
+      "summary": "<p>Other noteworthy stories that might have slipped under the radar: surge in Palo Alto Networks scanning, WEL Companies data breach impacts 120,000 people, AI second-order prompt injection attack.</p>\n<p>The post <a href=\"https://www.securityweek.com/in-other-news-atm-jackpotting-whatsapp-nso-lawsuit-continues-cisa-hiring/\">In Other News: ATM Jackpotting, WhatsApp-NSO Lawsuit Continues, CISA Hiring</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "798be5dd9c495fd47c42583cbed2302fe13b479f",
+      "title": "Critical Oracle Identity Manager Flaw Possibly Exploited as Zero-Day",
+      "url": "https://www.securityweek.com/critical-oracle-identity-manager-flaw-possibly-exploited-as-zero-day/",
+      "published": "2025-11-21T13:46:00+00:00",
+      "summary": "<p>CVE-2025-61757 is an unauthenticated remote code execution vulnerability affecting Oracle Identity Manager.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-oracle-identity-manager-flaw-possibly-exploited-as-zero-day/\">Critical Oracle Identity Manager Flaw Possibly Exploited as Zero-Day</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "22070e4d3e57fd65e49009b2116af38bead00f80",
+      "title": "Over 370 Organizations Take Part in GridEx VIII Grid Security Exercise",
+      "url": "https://www.securityweek.com/over-370-organizations-take-part-in-gridex-viii-grid-security-exercise/",
+      "published": "2025-11-21T13:29:44+00:00",
+      "summary": "<p>The number of participants in the cyber and physical grid security exercise increased by nearly 50% compared to two years ago. </p>\n<p>The post <a href=\"https://www.securityweek.com/over-370-organizations-take-part-in-gridex-viii-grid-security-exercise/\">Over 370 Organizations Take Part in GridEx VIII Grid Security Exercise</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "35da40128489ec561a5ae5c718de9f51fe4f7f40",
+      "title": "SonicWall Patches High-Severity Flaws in Firewalls, Email Security Appliance",
+      "url": "https://www.securityweek.com/sonicwall-patches-high-severity-flaws-in-firewalls-email-security-appliance/",
+      "published": "2025-11-21T12:27:31+00:00",
+      "summary": "<p>The vulnerabilities could be exploited to cause a denial-of-service (DoS) condition, execute arbitrary code, or access arbitrary files and directories.</p>\n<p>The post <a href=\"https://www.securityweek.com/sonicwall-patches-high-severity-flaws-in-firewalls-email-security-appliance/\">SonicWall Patches High-Severity Flaws in Firewalls, Email Security Appliance</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
@@ -1910,50 +1943,6 @@
       "url": "https://www.securityweek.com/new-sturnus-banking-trojan-targets-whatsapp-telegram-signal-messages/",
       "published": "2025-11-20T15:39:24+00:00",
       "summary": "<p>The Android malware is in development and appears to be mainly aimed at users in Europe.</p>\n<p>The post <a href=\"https://www.securityweek.com/new-sturnus-banking-trojan-targets-whatsapp-telegram-signal-messages/\">New Sturnus Banking Trojan Targets WhatsApp, Telegram, Signal Messages</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "4b430586c649a2779311f605cc1ce00180c5d4ea",
-      "title": "Doppel Raises $70 Million at $600 Million Valuation",
-      "url": "https://www.securityweek.com/doppel-raises-70-million-at-600-million-valuation/",
-      "published": "2025-11-20T14:05:06+00:00",
-      "summary": "<p>The AI-native social engineering defense (SED) platform will accelerate product innovation and expand its offerings.</p>\n<p>The post <a href=\"https://www.securityweek.com/doppel-raises-70-million-at-600-million-valuation/\">Doppel Raises $70 Million at $600 Million Valuation</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "37c689f10570b10447e22a90d6ed1b03581240e3",
-      "title": "Over 50,000 Asus Routers Hacked in \u2018Operation WrtHug\u2019",
-      "url": "https://www.securityweek.com/over-50000-asus-routers-hacked-in-operation-wrthug/",
-      "published": "2025-11-20T13:30:20+00:00",
-      "summary": "<p>A Chinese threat actor is exploiting known vulnerabilities in discontinued Asus devices in an Operational Relay Box (ORB) facilitation campaign.</p>\n<p>The post <a href=\"https://www.securityweek.com/over-50000-asus-routers-hacked-in-operation-wrthug/\">Over 50,000 Asus Routers Hacked in &#8216;Operation WrtHug&#8217;</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "96782ccd5db2f1793108b1873a76bec46a96ac8b",
-      "title": "US and Allies Sanction Russian Bulletproof Hosting Service Providers",
-      "url": "https://www.securityweek.com/us-and-allies-sanction-russian-bulletproof-hosting-service-providers/",
-      "published": "2025-11-20T12:53:26+00:00",
-      "summary": "<p>Media Land, Hypercore, and their leadership and employees are allegedly connected to various cybercriminal activities.</p>\n<p>The post <a href=\"https://www.securityweek.com/us-and-allies-sanction-russian-bulletproof-hosting-service-providers/\">US and Allies Sanction Russian Bulletproof Hosting Service Providers</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "6d0ba4c7bb5eca7d0cb2968b068a0150f3f51cdf",
-      "title": "Vulnerability Allowed Scraping of 3.5 Billion WhatsApp Accounts",
-      "url": "https://www.securityweek.com/vulnerability-allowed-scraping-of-3-5-billion-whatsapp-accounts/",
-      "published": "2025-11-20T11:52:50+00:00",
-      "summary": "<p>Researchers demonstrated a now-patched vulnerability that could have been used to enumerate all WhatsApp accounts.</p>\n<p>The post <a href=\"https://www.securityweek.com/vulnerability-allowed-scraping-of-3-5-billion-whatsapp-accounts/\">Vulnerability Allowed Scraping of 3.5 Billion WhatsApp Accounts</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
