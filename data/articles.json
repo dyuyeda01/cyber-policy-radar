@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-24T00:46:19.803075+00:00",
+  "generated_at": "2025-11-24T12:17:59.360650+00:00",
   "items": [
     {
       "id": "8e87cb8434a0917c1f9c1d0f3ebe9c9bcfe5cd9c",
@@ -110,6 +110,28 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "54eb0b6fe86770d4f0307ebf7a5f7404de71c6fb",
+      "title": "Chinese DeepSeek-R1 AI Generates Insecure Code When Prompts Mention Tibet or Uyghurs",
+      "url": "https://thehackernews.com/2025/11/chinese-ai-model-deepseek-r1-generates.html",
+      "published": "2025-11-24T11:07:00+00:00",
+      "summary": "New research from CrowdStrike has revealed that DeepSeek's artificial intelligence (AI) reasoning model DeepSeek-R1 produces more security vulnerabilities in response to prompts that contain topics deemed politically sensitive by China.\n\"We found that when DeepSeek-R1 receives prompts containing topics the Chinese Communist Party (CCP) likely considers politically sensitive, the likelihood of it",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEjQ9rfA8Zp1EdwbbQFYvDatH7IMcqNuAoSBVo1iQqGJydHnGv_87nJSCjLWDtn__fr9-dkGA8qAP4GmcKUP5PcbXorNWwQu9LInQuVansUCmGFVBRD8wkpApqIxUGjlu_wUiwNsr_0dOsHtpsBlpT6J0dNUzDtuOwmu9wnxFj211ockWC6ONvRZMlJKzy/s1600/deep.jpg"
+    },
+    {
+      "id": "093a92af20c0bc172060a2e8367018613051a5f2",
+      "title": "ShadowPad Malware Actively Exploits WSUS Vulnerability for Full System Access",
+      "url": "https://thehackernews.com/2025/11/shadowpad-malware-actively-exploits.html",
+      "published": "2025-11-24T07:18:00+00:00",
+      "summary": "A recently patched security flaw in Microsoft Windows Server Update Services (WSUS) has been exploited by threat actors to distribute malware known as ShadowPad.\n\"The attacker targeted Windows Servers with WSUS enabled, exploiting CVE-2025-59287 for initial access,\" AhnLab Security Intelligence Center (ASEC) said in a report published last week. \"They then used PowerCat, an open-source",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxsc39x1yPzs57au9zzIKqs081R7HZ521J-VDrW9yrbGPCDk0hCt2xIw1jHy62-fL1_v756qJ3R2SvosttSiIfee3RvUKC_HxaigGk_iff0fV0BkU9-_H43EDjx17pdxkEcqqIZ3yngeK0EeePmiTozzbGUPgSBwA__DD_Wx1p5ys93MNQEmFtscjKIdAq/s1600/windows.jpg"
     },
     {
       "id": "697e79ab41a1ac396ac6130fc99108bba3181157",
@@ -638,28 +660,6 @@
       "region": "North America",
       "country": "US",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifX_sGMzSUW1AUV_08r1UPZTqpZXXvAv6Th97yAF1ja5P66mnLefkfQZapkXuvk0LIjdD312TqcZ3DX_ZSnMRjA3FbJSUKNSH1CcjhoGJqfwe7q6ImqOiSTKvZRNNptcqkij0KS_U-k1FmZETxV5DiQlxNjSfAwNvpcvbvrjBgsfbpGiFSt2ePmvEzGgk/s1600/MAIN-action.jpg"
-    },
-    {
-      "id": "653719e07639f2ea4964e893aadc85600418cd6a",
-      "title": "Operation Endgame Dismantles Rhadamanthys, Venom RAT, and Elysium Botnet in Global Crackdown",
-      "url": "https://thehackernews.com/2025/11/operation-endgame-dismantles.html",
-      "published": "2025-11-13T11:16:00+00:00",
-      "summary": "Malware families like Rhadamanthys Stealer, Venom RAT, and the Elysium botnet have been disrupted as part of a coordinated law enforcement operation led by Europol and Eurojust.\nThe activity, which took place between November 10 and 13, 2025, marks Please remove image compression the latest phase of Operation Endgame, an ongoing operation designed to take down criminal infrastructures and combat",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjY00oEG13hfnasBGraI20sE4zXV_Scyf9TwtpMtBdvk4u_OOeWIaCeiUXi-e-rBOypRqVbQP4ydMp9a95qu7LQiUv4Xt-mmGd5eJIWIFp9JGJaDGVyGbMxZ88SJLVfsw7bp2z_6QS0NHt-OL973LypZMemh_1B6kxKW0fycaGBBYU1DkMS9_0JP_0d_EKA/s1600/botnets.jpg"
-    },
-    {
-      "id": "a9e6f099a886e6b326a7aa64c0ed3d7d3198e884",
-      "title": "ThreatsDay Bulletin: Cisco 0-Days, AI Bug Bounties, Crypto Heists, State-Linked Leaks and 20 More Stories",
-      "url": "https://thehackernews.com/2025/11/threatsday-bulletin-cisco-0-days-ai-bug.html",
-      "published": "2025-11-13T10:10:00+00:00",
-      "summary": "Behind every click, there\u2019s a risk waiting to be tested. A simple ad, email, or link can now hide something dangerous. Hackers are getting smarter, using new tools to sneak past filters and turn trusted systems against us.\nBut security teams are fighting back. They\u2019re building faster defenses, better ways to spot attacks, and stronger systems to keep people safe. It\u2019s a constant race \u2014 every",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjcN5gUiUl1dr7wmK15gRPjL2FiB6JcudmfA1-b8FM8m4MeOGl1jiAXwihlPQrYa1nbrs6eupd6Lk5h-XiGIybMkphWiNvv3uBC1eVewDUxQ-Z2WANldO93ilR2OyUlVvXpYMlFRs15S5A6CbDZtudGXbm6sl7gnob6FLPnmO2rAqHLlu9jUWCIuXWchV4/s1600/threatsday-cover.jpg"
     },
     {
       "id": "e514888667d8e646803129a837f44f6827eff4ee",
@@ -1201,6 +1201,39 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta9ab1ebbf7e0de17/69124bde0cb89be120e94eb7/worm_virus_Vince_Clements_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
+      "id": "f359ac430ca66fad50e3e78a56cac90b6e428f34",
+      "title": "Championing cyber security: the national UK cyber team's journey at the European Cyber Security Challenge",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2025/11/24/championing-cyber-security-sans/",
+      "published": "2025-11-24T09:00:13+00:00",
+      "summary": "<h4>Reflections on coaching, collaboration, and the pursuit of excellence in cyber security</h4> <p><strong>Partner Content</strong>\u00a0 From 6th to 10th October 2025, ten exceptional cyber enthusiasts proudly flew the flag for the United Kingdom in the European Cyber Security Challenge (ECSC), held this year in the vibrant setting of Poland.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "f7e10d4f875fa59f6a829f5470e666c69abbf780",
+      "title": "Cryptology boffins\u2019 association to re-run election after losing encryption key needed to count votes",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2025/11/24/cryptologic_research_election_rerun/",
+      "published": "2025-11-24T05:43:21+00:00",
+      "summary": "<h4>The shoemaker\u2019s children have new friends</h4> <p>The International Association for Cryptologic Research will run a second election for new board members and other officers, after it was unable to complete its first poll due to a lost encryption key.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "c2e4dba63f9abb1f3a5e4694521758260725e957",
+      "title": "70-hour work weeks no longer enough for Infosys founder, who praises China\u2019s 996 culture",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2025/11/24/asia_tech_news_roundup/",
+      "published": "2025-11-24T01:16:45+00:00",
+      "summary": "<h4>PLUS: Manga publishers win Cloudflare copyright case; India, EU to link payment systems; Storm over Australia\u2019s weather website; And more!</h4> <p><strong>Asia In Brief</strong>\u00a0 Infosys co-founder Narayana Murthy has suggested Indian citizens should work 72-hour weeks, up from his previous target of 70 hours.\u2026</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "8eafe24f7d66c9035099c4bec958d5f1c2e95ea7",
       "title": "Weaponized file name flaw makes updating glob an urgent job",
       "url": "https://go.theregister.com/feed/www.theregister.com/2025/11/23/infosec_news_in_brief/",
@@ -1718,39 +1751,6 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "e67a2447953db80c220d508f54846a3f9614e2f8",
-      "title": "NHS supplier ends probe into ransomware attack that contributed to patient death",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/11/13/synnovis_qilin_investigation/",
-      "published": "2025-11-13T11:13:54+00:00",
-      "summary": "<h4>Synnovis's 18-month forensic review of Qilin intrusion completed, now affected patients to be notified</h4> <p>Synnovis has finally wrapped up its investigation into the 2024 ransomware attack that crippled pathology services across London, ending an 18-month effort to untangle what the NHS supplier describes as one of the most complex data reconstruction jobs it has ever faced.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "0697702a2ed06d61df8617bbb3abc1547dcf49b4",
-      "title": "Google sues 25 China-based scammers behind Lighthouse 'phishing for dummies' kit",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/11/12/google_sues_25_chinabased_scammers/",
-      "published": "2025-11-12T21:39:24+00:00",
-      "summary": "<h4>600+ phishing websites and 116 of these use a Google logo</h4> <p>Google has filed a lawsuit against 25 unnamed China-based scammers, which it claims have stolen more than 115 million credit card numbers in the US as part of the Lighthouse phishing operation.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "c904af1ea01d53c96a77970d7e7ed77d5759ab69",
-      "title": "Attackers turned Citrix, Cisco 0-day exploits into custom-malware hellscape",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/11/12/amazon_cisco_citrix_0day_exploits/",
-      "published": "2025-11-12T17:16:12+00:00",
-      "summary": "<h4>Vendors (still) keep mum</h4> <p>An \"advanced\" attacker exploited CitrixBleed 2 and a max-severity Cisco Identity Services Engine (ISE) bug as zero-days to deploy custom malware, according to Amazon Chief Information Security Officer CJ Moses.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
       "id": "578776ac87407943a6d87d4c4fef713d165051a5",
       "title": "Mozilla Says It\u2019s Finally Done With Two-Faced Onerep",
       "url": "https://krebsonsecurity.com/2025/11/mozilla-says-its-finally-done-with-two-faced-onerep/",
@@ -1839,6 +1839,39 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "ac808fe36c8f97f199bc2bfc66ea9aec18ebb0bb",
+      "title": "Spanish Airline Iberia Notifies Customers of Data Breach",
+      "url": "https://www.securityweek.com/spanish-airline-iberia-notifies-customers-of-data-breach/",
+      "published": "2025-11-24T12:14:46+00:00",
+      "summary": "<p>The company has notified its customers of the incident roughly a week after a threat actor claimed the theft of 77GB of data from Iberia\u2019s systems.</p>\n<p>The post <a href=\"https://www.securityweek.com/spanish-airline-iberia-notifies-customers-of-data-breach/\">Spanish Airline Iberia Notifies Customers of Data Breach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "190ee80cae5ba63681a6628fa15aefd675d56d2c",
+      "title": "146,000 Impacted by Delta Dental of Virginia Data Breach",
+      "url": "https://www.securityweek.com/146000-impacted-by-delta-dental-of-virginia-data-breach/",
+      "published": "2025-11-24T11:40:35+00:00",
+      "summary": "<p>Names, Social Security numbers, ID numbers, and health information were stolen from a compromised email account.</p>\n<p>The post <a href=\"https://www.securityweek.com/146000-impacted-by-delta-dental-of-virginia-data-breach/\">146,000 Impacted by Delta Dental of Virginia Data Breach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "88920d54ace697648d3a0410ae73f2ffe9c54ab8",
+      "title": "Cox Confirms Oracle EBS Hack as Cybercriminals Name 100 Alleged Victims",
+      "url": "https://www.securityweek.com/cox-confirms-oracle-ebs-hack-as-cybercriminals-name-100-alleged-victims/",
+      "published": "2025-11-24T10:52:36+00:00",
+      "summary": "<p>More than 1.6 Tb of data allegedly stolen from Cox was made public by the hackers.</p>\n<p>The post <a href=\"https://www.securityweek.com/cox-confirms-oracle-ebs-hack-as-cybercriminals-name-100-alleged-victims/\">Cox Confirms Oracle EBS Hack as Cybercriminals Name 100 Alleged Victims</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "8e18c37b59a1eff430d1cee6bd9154e2eb223e63",
       "title": "In Other News: ATM Jackpotting, WhatsApp-NSO Lawsuit Continues, CISA Hiring",
       "url": "https://www.securityweek.com/in-other-news-atm-jackpotting-whatsapp-nso-lawsuit-continues-cisa-hiring/",
@@ -1910,39 +1943,6 @@
       "url": "https://www.securityweek.com/runlayer-emerges-from-stealth-mode-with-11-million-in-funding/",
       "published": "2025-11-21T10:36:26+00:00",
       "summary": "<p>The company has operated in stealth mode for four months and has signed dozens of customers, including eight unicorns.</p>\n<p>The post <a href=\"https://www.securityweek.com/runlayer-emerges-from-stealth-mode-with-11-million-in-funding/\">Runlayer Emerges From Stealth Mode With $11 Million in Funding</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "b34d3ec98fcf5cfd8f17509002ca35e285b4ebaf",
-      "title": "Salesforce Instances Hacked via Gainsight Integrations",
-      "url": "https://www.securityweek.com/salesforce-instances-hacked-via-gainsight-integrations/",
-      "published": "2025-11-21T09:38:19+00:00",
-      "summary": "<p>The infamous ShinyHunters hackers have targeted customer-managed Gainsight-published applications to steal data from Salesforce instances.</p>\n<p>The post <a href=\"https://www.securityweek.com/salesforce-instances-hacked-via-gainsight-integrations/\">Salesforce Instances Hacked via Gainsight Integrations</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "998bb5d6eea40d60cdccfc80c5958b29e5121deb",
-      "title": "Russian Hacking Suspect Wanted by the FBI Arrested on Thai Resort Island",
-      "url": "https://www.securityweek.com/russian-hacking-suspect-wanted-by-the-fbi-arrested-on-thai-resort-island/",
-      "published": "2025-11-20T22:14:56+00:00",
-      "summary": "<p>Thailand\u2019s Cyber Crime Investigation Bureau said an FBI tip that the \u201cworld-class hacker\u201d was traveling to Thailand led to his arrest in Phuket.</p>\n<p>The post <a href=\"https://www.securityweek.com/russian-hacking-suspect-wanted-by-the-fbi-arrested-on-thai-resort-island/\">Russian Hacking Suspect Wanted by the FBI Arrested on Thai Resort Island</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "d675d2e35c9c04614a481d33ca000b4aa6016fd5",
-      "title": "New Sturnus Banking Trojan Targets WhatsApp, Telegram, Signal Messages",
-      "url": "https://www.securityweek.com/new-sturnus-banking-trojan-targets-whatsapp-telegram-signal-messages/",
-      "published": "2025-11-20T15:39:24+00:00",
-      "summary": "<p>The Android malware is in development and appears to be mainly aimed at users in Europe.</p>\n<p>The post <a href=\"https://www.securityweek.com/new-sturnus-banking-trojan-targets-whatsapp-telegram-signal-messages/\">New Sturnus Banking Trojan Targets WhatsApp, Telegram, Signal Messages</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
