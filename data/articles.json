@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-25T00:41:52.210762+00:00",
+  "generated_at": "2025-11-25T12:18:31.303052+00:00",
   "items": [
     {
       "id": "deee9146b57769bd3ceb113879f1752192ecfd98",
@@ -112,6 +112,39 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "d486740d28a833d7250e05ef404c56556ef23dad",
+      "title": "3 SOC Challenges You Need to Solve Before 2026",
+      "url": "https://thehackernews.com/2025/11/3-soc-challenges-you-need-to-solve.html",
+      "published": "2025-11-25T11:30:00+00:00",
+      "summary": "2026 will mark a pivotal shift in cybersecurity. Threat actors are moving from experimenting with AI to making it their primary weapon, using it to scale attacks, automate reconnaissance, and craft hyper-realistic social engineering campaigns.\nThe Storm on the Horizon\nGlobal world instability, coupled with rapid technological advancement, will force security teams to adapt not just their",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiO5j2evccdjHPPJ_5xyuSjPeQIWjxX3nPprgbbjNMMJqK9mMzxniqf9v2GGOLZQ7lkUtpJo8SO4pe72S2wtOV_7XVjE5g02BJxapakZclQ79TmSN-OjtBVouay_vn7bnDebxDiRsJgvlTsP7rz5bOk0QOOji1zn9oZWMG3CFPcUG3dCBRBBhIBH_TnNVs/s1600/soc.jpg"
+    },
+    {
+      "id": "af90ae2fa81d1f8208c00bd1ea3c400eae2e5f28",
+      "title": "Hackers Hijack Blender 3D Assets to Deploy StealC V2 Data-Stealing Malware",
+      "url": "https://thehackernews.com/2025/11/hackers-hijack-blender-3d-assets-to.html",
+      "published": "2025-11-25T11:28:00+00:00",
+      "summary": "Cybersecurity researchers have disclosed details of a new campaign that has leveraged Blender Foundation files to deliver an information stealer known as StealC V2.\n\"This ongoing operation, active for at least six months, involves implanting malicious .blend files on platforms like CGTrader,\" Morphisec researcher Shmuel Uzan said in a report shared with The Hacker News.\n\"Users unknowingly",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRFdtqg4iFeVtSsDgOcgCshEKe9l9m9hw0uYroyMbfEttzophIslNnF67eArn2aTCcTuZ1YB_nusZyDtK43EeOftKRYLU06weYnQqUufk_UJzAN_aV_uFQqzct-TA96nNZdYC3kg8fnjghwd1IduFLjdd3hvY9ok7MZVBus6tkTKdZ5IQfdnEY0_aRLww_/s1600/system-hack.jpg"
+    },
+    {
+      "id": "28eb8c1a31128e00f10b9c204dd69c6574dbc54d",
+      "title": "CISA Warns of Active Spyware Campaigns Hijacking High-Value Signal and WhatsApp Users",
+      "url": "https://thehackernews.com/2025/11/cisa-warns-of-active-spyware-campaigns.html",
+      "published": "2025-11-25T06:42:00+00:00",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday issued an alert warning of bad actors actively leveraging commercial spyware and remote access trojans (RATs) to target users of mobile messaging applications.\n\"These cyber actors use sophisticated targeting and social engineering techniques to deliver spyware and gain unauthorized access to a victim's messaging app,",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyjmpd6o7-HWK7FLfSLWXDI1Y5FeB1NBpBd4vIIk_CddP-R_hMTbVUynU6YynC6tMw-A36Q47s4bAyb7_rgYsf-V4M8gFCerUIDc4IO4tFHdyLWEMvvaaUguvfH6a3gdunla1LzgQVPdk4E9ETUTqlfH-xM-Gx9J2SKQXA2_A9l16PBY2o94m79CPEY4IZ/s1600/apps.jpg"
+    },
+    {
       "id": "986240f8d00887196960dfdc38187890e41bcc13",
       "title": "New Fluent Bit Flaws Expose Cloud to RCE and Stealthy Infrastructure Intrusions",
       "url": "https://thehackernews.com/2025/11/new-fluent-bit-flaws-expose-cloud-to.html",
@@ -127,11 +160,11 @@
       "title": "Second Sha1-Hulud Wave Affects 25,000+ Repositories via npm Preinstall Credential Theft",
       "url": "https://thehackernews.com/2025/11/second-sha1-hulud-wave-affects-25000.html",
       "published": "2025-11-24T13:03:00+00:00",
-      "summary": "Multiple security vendors are sounding the alarm about a second wave of attacks targeting the npm registry in a manner that's reminiscent of the Shai-Hulud attack.\nThe new supply chain campaign, dubbed Sha1-Hulud, has compromised hundreds of npm packages, according to reports from Aikido, HelixGuard, Koi Security, Socket, Step Security, and Wiz.&nbsp;The trojanized npm packages were uploaded to",
+      "summary": "Multiple security vendors are sounding the alarm about a second wave of attacks targeting the npm registry in a manner that's reminiscent of the Shai-Hulud attack.\nThe new supply chain campaign, dubbed Sha1-Hulud, has compromised hundreds of npm packages, according to reports from Aikido, HelixGuard, JFrog, Koi Security, ReversingLabs, SafeDep, Socket, Step Security, and Wiz.&nbsp;The trojanized",
       "source": "The Hacker News",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLSWDs-MFKC4LHjaGHmL2Nm8sV_Vtj1wnJdwLuaZPzdkZCGlh4iKwlgmfgLfIXl39GZoirVgW24U0kpvEi6VWllFeR7Pth08LmNAS9yRQJYVSgQhH3DQn7ocCW9q-p6dvBDiMZRhQLmjn-VHVHtCnaLOwiek4UGrOBUOw3pHeb5y2CgBF4896vDd88CVBc/s1600/git.jpg"
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMa-67ZZISIwWgUdgRgW3UYZPITPvhdI_AgvmlweAyX7XXpWIIJm316uRaadc2qlxaBlvplLhueff-sQ1SUYE1hOZTsumdMnCvwzioWb1S7pfZ6ks9sFRLXtWEMMhyb-a_w0_D1U1dqiHvwDRt3KyZZJ_mLePMMmtjR2VTRqNegyr7BQAY3D22aBeCwzfN/s1600/wiz.png"
     },
     {
       "id": "7498ec167b7a80511039277e02e39409a63841da",
@@ -627,39 +660,6 @@
       "region": "North America",
       "country": "US",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZy2HLaE1qe-Ab4Bld4GiRpAYh0uVDVr3zCE1p400nKomsAs0MdvK9oCnNrJALSYPVvJud59Ik0Ax90X12KX93i97AwzbnUHm262vSL-nelhZHwRQR6WIFNd_u43NOt4QR8yOpzgC9wQUabBhtxfz45S210t-Tw-hb6iJWQ7RQNIfupIRQuvWuDBu1GgWs/s1600/iran-hackers.jpg"
-    },
-    {
-      "id": "9d336c1baa7f12ee22c018d312f71b7dc2833949",
-      "title": "Ransomware's Fragmentation Reaches a Breaking Point While LockBit Returns",
-      "url": "https://thehackernews.com/2025/11/ransomwares-fragmentation-reaches.html",
-      "published": "2025-11-14T10:37:00+00:00",
-      "summary": "Key Takeaways:\n\n85 active ransomware and extortion groups observed in Q3 2025, reflecting the most decentralized ransomware ecosystem to date.\n1,590 victims disclosed across 85 leak sites, showing high, sustained activity despite law-enforcement pressure.\n14 new ransomware brands launched this quarter, proving how quickly affiliates reconstitute after takedowns.\nLockBit\u2019s reappearance with",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3uOnzefv5B2kTQp_6TWvGzdYVbKeSKfysA_sFwHY_ZwrX14JYItv8p8x1NQwG5wOyRqJT0oaAWfGM0VWHZrsRa0ULtSxxfEAFoMkbd4hFmx7X7K_nWXbF6XaK4PRp2I0Daue7934YaCR1II5aR0H1Ah7kWkW2Izqy4m30VUvtA30a9N1yVuKcSRuGOlk/s1600/main-cover.jpg"
-    },
-    {
-      "id": "8139e1e770846313925963a0556743ea06430384",
-      "title": "Chinese Hackers Use Anthropic's AI to Launch Automated Cyber Espionage Campaign",
-      "url": "https://thehackernews.com/2025/11/chinese-hackers-use-anthropics-ai-to.html",
-      "published": "2025-11-14T09:53:00+00:00",
-      "summary": "State-sponsored threat actors from China used artificial intelligence (AI) technology developed by Anthropic to orchestrate automated cyber attacks as part of a \"highly sophisticated espionage campaign\" in mid-September 2025.\n\"The attackers used AI's 'agentic' capabilities to an unprecedented degree \u2013 using AI not just as an advisor, but to execute the cyber attacks themselves,\" the AI upstart",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgY97QHdgW3A2yfeWB2UxuJM7ifkyjOUt1JChYPaaZbJS5U-bM9KXmk6rhlQ1jzoNZVVBURL6dkmPqi-ysMBfttQo-LLngJy-fQV6bpTQe6o9TcDy2Qsy8GhhUsSQ4ZV7_a6yjc9vcMl7g7EJI1YNNei1lKxzC3jg3UPvyJCYmgCdW9HjyTU7_VubEBAv0X/s1600/ai-hacking.jpg"
-    },
-    {
-      "id": "8402fc4b01e2095376a934b7df12710149d94d8b",
-      "title": "Now-Patched Fortinet FortiWeb Flaw Exploited in Attacks to Create Admin Accounts",
-      "url": "https://thehackernews.com/2025/11/fortinet-fortiweb-flaw-actively.html",
-      "published": "2025-11-14T09:00:00+00:00",
-      "summary": "Cybersecurity researchers are sounding the alert about an authentication bypass vulnerability in Fortinet FortiWeb Web Application Firewall (WAF) that could allow an attacker to take over admin accounts and completely compromise a device.\n\"The watchTowr team is seeing active, indiscriminate in-the-wild exploitation of what appears to be a silently patched vulnerability in Fortinet's FortiWeb",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9W9UTKHr6MEohKLcpKi93cht-_Dh-uEOu4ga5ezZqlce29RSPo1X2cnCAUQijihCPVHaENo8Gz4jfDjcxHd3Gqe6_kqOt3Ff3-GikPzHA6pL-y_JFxlmuMxnRJKakGFfkOgBj7jW23nPrOKj0cz4BwGwbPICUA_ezilNl9UREzSuEixqNnukzxx0q0Aks/s1600/Fortinet-FortiWeb.jpg"
     },
     {
       "id": "8f4c0d79d85b3767bff218257de983fe65dcc027",
@@ -1201,6 +1201,39 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt12299f717df56841/6913a839468f86860e81b290/VWbug-Santi_Rodriguez-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
+      "id": "9695cf4fa999ec409d7c9182219633caf1fa67c1",
+      "title": "CISA warns spyware crews are breaking into Signal and WhatsApp accounts",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2025/11/25/cisa_spyware_gangs/",
+      "published": "2025-11-25T11:32:14+00:00",
+      "summary": "<h4>Attackers sidestep encryption with spoofed apps and zero-click exploits to compromise 'high-value' mobile users</h4> <p>CISA has warned that state-backed snoops and cyber-mercenaries are actively abusing commercial spyware to break into Signal and WhatsApp accounts, hijack devices, and quietly rummage through the phones of what the agency calls \"high-value\" users.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "eaba71e5bd090130a43be187a9618a53adc90db1",
+      "title": "Russian spy ship theories sink after Orkney blackout traced to wind farm fault",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2025/11/25/russian_warship_fears_orkney/",
+      "published": "2025-11-25T11:01:14+00:00",
+      "summary": "<h4>Timing of Yantar's visit sparked gossip, but engineers point to a misbehaving protection system</h4> <p>Cock-up beats conspiracy most of the time, but that didn't stop Orkney residents wondering if a Russian warship caused their two-hour power cut.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "eab830bd36ffe787f06f61edc600e1f216122c2b",
+      "title": "ZTE, China Unicom Liaoning and Dalian Changhai Airport launch 5G-A ISAC private network to elevate low-altitude security and airport safety",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2025/11/25/zte-launches-5g-a-isac-network/",
+      "published": "2025-11-25T09:54:01+00:00",
+      "summary": "<h4>Millimeter-wave ISAC and edge AI create unified sensing-communication capabilities for next-generation low-altitude security</h4>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "83cceed4eb20b199eb7e6a7d6d8e9b9951e0ef66",
       "title": "Fresh ClickFix attacks use Windows Update trick-pics to steal credentials",
       "url": "https://go.theregister.com/feed/www.theregister.com/2025/11/24/clickfix_attack_infostealers_images/",
@@ -1290,10 +1323,10 @@
     },
     {
       "id": "f359ac430ca66fad50e3e78a56cac90b6e428f34",
-      "title": "Championing cyber security: the national UK cyber team's journey at the European Cyber Security Challenge",
+      "title": "Championing Cyber Security: the National UK Cyber Team's Journey at the European Cyber Security Challenge",
       "url": "https://go.theregister.com/feed/www.theregister.com/2025/11/24/championing-cyber-security-sans/",
       "published": "2025-11-24T09:00:13+00:00",
-      "summary": "<h4>Reflections on coaching, collaboration, and the pursuit of excellence in cyber security</h4> <p><strong>Partner Content</strong>\u00a0 From 6th to 10th October 2025, ten exceptional cyber enthusiasts proudly flew the flag for the United Kingdom in the European Cyber Security Challenge (ECSC), held this year in the vibrant setting of Poland.\u2026</p>",
+      "summary": "<h4>Reflections on Coaching, Collaboration, and the Pursuit of Excellence in Cyber Security</h4> <p><strong>Partner Content</strong>\u00a0 From 6th to 10th October 2025, ten exceptional cyber enthusiasts proudly flew the flag for the United Kingdom in the European Cyber Security Challenge (ECSC), held this year in the vibrant setting of Poland.\u2026</p>",
       "source": "The Register \u2013 Security",
       "region": "Europe",
       "country": "UK",
@@ -1718,39 +1751,6 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "485945373e9b1ea7092150869a3945abe46cff37",
-      "title": "Fortinet finally cops to critical make-me-admin bug under active exploitation",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/11/14/fortinet_active_exploit_cve_2025_64446/",
-      "published": "2025-11-14T20:39:44+00:00",
-      "summary": "<h4>More than a month after PoC made public</h4> <p>Fortinet finally published a security advisory on Friday for a critical FortiWeb path traversal vulnerability under active exploitation \u2013 but it appears digital intruders got a month's head start.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "aeb4dcb0b924945b4ec4b525eb92c3ec60b2aecd",
-      "title": "Crims poison 150K+ npm packages with token-farming malware",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/11/14/selfreplicating_supplychain_attack_poisons_150k/",
-      "published": "2025-11-14T18:22:47+00:00",
-      "summary": "<h4>Amazon spilled the TEA</h4> <p>Yet another supply chain attack has hit the npm registry in what Amazon describes as \"one of the largest package flooding incidents in open source registry history\" - but with a twist. Instead of injecting credential-stealing code or ransomware into the packages, this one is a token farming campaign.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "eb8e607549036652a7f3fb087fa961b1b2006dbf",
-      "title": "FBI flags scam targeting Chinese speakers with bogus surgery bills",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/11/14/fbi_chinese_speaker_health_insurance/",
-      "published": "2025-11-14T16:16:45+00:00",
-      "summary": "<h4>Crooks spoof US insurers, threaten bogus extradition to pry loose personal data and cash</h4> <p>Chinese speakers in the US are being targeted as part of an aggressive health insurance scam campaign, the FBI warns.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
       "id": "f058bb5da5a3357d6483753809bdf931b5483a19",
       "title": "Is Your Android TV Streaming Box Part of a Botnet?",
       "url": "https://krebsonsecurity.com/2025/11/is-your-android-tv-streaming-box-part-of-a-botnet/",
@@ -1850,6 +1850,39 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "923d3083449b2c1c2dfb78f7427d1d65fef8187d",
+      "title": "Major US Banks Impacted by SitusAMC Hack",
+      "url": "https://www.securityweek.com/major-us-banks-impacted-by-situsamc-hack/",
+      "published": "2025-11-25T12:12:39+00:00",
+      "summary": "<p>Hackers stole corporate data such as accounting records and legal agreements, but did not deploy file-encrypting ransomware.</p>\n<p>The post <a href=\"https://www.securityweek.com/major-us-banks-impacted-by-situsamc-hack/\">Major US Banks Impacted by SitusAMC Hack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "d4e95cb98e5373fb0c169265fe74f3ada0f3ed99",
+      "title": "640 NPM Packages Infected in New \u2018Shai-Hulud\u2019 Supply Chain Attack",
+      "url": "https://www.securityweek.com/640-npm-packages-infected-in-new-shai-hulud-supply-chain-attack/",
+      "published": "2025-11-25T10:45:46+00:00",
+      "summary": "<p>The new self-replicating worm iteration has destructive capabilities, erasing home directory contents if it cannot spread to more repositories.</p>\n<p>The post <a href=\"https://www.securityweek.com/640-npm-packages-infected-in-new-shai-hulud-supply-chain-attack/\">640 NPM Packages Infected in New &#8216;Shai-Hulud&#8217; Supply Chain Attack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "778b9012cff6338648a09e0f85b4a3952dca3124",
+      "title": "Canon Says Subsidiary Impacted by Oracle EBS Hack",
+      "url": "https://www.securityweek.com/canon-says-subsidiary-impacted-by-oracle-ebs-hack/",
+      "published": "2025-11-25T07:22:04+00:00",
+      "summary": "<p>More than 100 alleged victims of the Oracle EBS campaign have been added to the Cl0p ransomware website.</p>\n<p>The post <a href=\"https://www.securityweek.com/canon-says-subsidiary-impacted-by-oracle-ebs-hack/\">Canon Says Subsidiary Impacted by Oracle EBS Hack\u00a0</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "b1495751d023b8cf5c6b9e5a0f91b81f6e7976b2",
       "title": "CISA Confirms Exploitation of Recent Oracle Identity Manager Vulnerability",
       "url": "https://www.securityweek.com/cisa-confirms-exploitation-of-recent-oracle-identity-manager-vulnerability/",
@@ -1921,39 +1954,6 @@
       "url": "https://www.securityweek.com/cox-confirms-oracle-ebs-hack-as-cybercriminals-name-100-alleged-victims/",
       "published": "2025-11-24T10:52:36+00:00",
       "summary": "<p>More than 1.6 Tb of data allegedly stolen from Cox was made public by the hackers.</p>\n<p>The post <a href=\"https://www.securityweek.com/cox-confirms-oracle-ebs-hack-as-cybercriminals-name-100-alleged-victims/\">Cox Confirms Oracle EBS Hack as Cybercriminals Name 100 Alleged Victims</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "8ca6335ad13112812d193b0b63acdfa8fa3d0b57",
-      "title": "Mercedes F1 Team Principal Toto Wolff Sells 15% Stake to CrowdStrike CEO George Kurtz",
-      "url": "https://www.securityweek.com/mercedes-f1-team-principal-toto-wolff-sells-15-stake-to-crowdstrike-ceo-george-kurtz/",
-      "published": "2025-11-21T20:30:00+00:00",
-      "summary": "<p>CrowdStrike became a global partner of Mercedes\u2019 F1 team in 2019, but Kurtz\u2019s purchase into the ownership group was his personally.</p>\n<p>The post <a href=\"https://www.securityweek.com/mercedes-f1-team-principal-toto-wolff-sells-15-stake-to-crowdstrike-ceo-george-kurtz/\">Mercedes F1 Team Principal Toto Wolff Sells 15% Stake to CrowdStrike CEO George Kurtz</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "8e18c37b59a1eff430d1cee6bd9154e2eb223e63",
-      "title": "In Other News: ATM Jackpotting, WhatsApp-NSO Lawsuit Continues, CISA Hiring",
-      "url": "https://www.securityweek.com/in-other-news-atm-jackpotting-whatsapp-nso-lawsuit-continues-cisa-hiring/",
-      "published": "2025-11-21T15:30:00+00:00",
-      "summary": "<p>Other noteworthy stories that might have slipped under the radar: surge in Palo Alto Networks scanning, WEL Companies data breach impacts 120,000 people, AI second-order prompt injection attack.</p>\n<p>The post <a href=\"https://www.securityweek.com/in-other-news-atm-jackpotting-whatsapp-nso-lawsuit-continues-cisa-hiring/\">In Other News: ATM Jackpotting, WhatsApp-NSO Lawsuit Continues, CISA Hiring</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "798be5dd9c495fd47c42583cbed2302fe13b479f",
-      "title": "Critical Oracle Identity Manager Flaw Possibly Exploited as Zero-Day",
-      "url": "https://www.securityweek.com/critical-oracle-identity-manager-flaw-possibly-exploited-as-zero-day/",
-      "published": "2025-11-21T13:46:00+00:00",
-      "summary": "<p>CVE-2025-61757 is an unauthenticated remote code execution vulnerability affecting Oracle Identity Manager.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-oracle-identity-manager-flaw-possibly-exploited-as-zero-day/\">Critical Oracle Identity Manager Flaw Possibly Exploited as Zero-Day</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
