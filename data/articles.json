@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-27T00:42:26.951343+00:00",
+  "generated_at": "2025-11-27T12:17:35.695375+00:00",
   "items": [
     {
       "id": "b4830429dc4d54ce0a5ad442ecf5a4fd72750c64",
@@ -112,11 +112,33 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "2742dd4e0f0419024bdbf982655d792351672ee0",
+      "title": "ThreatsDay Bulletin: AI Malware, Voice Bot Flaws, Crypto Laundering, IoT Attacks \u2014 and 20 More Stories",
+      "url": "https://thehackernews.com/2025/11/threatsday-bulletin-ai-malware-voice.html",
+      "published": "2025-11-27T10:03:00+00:00",
+      "summary": "Hackers have been busy again this week. From fake voice calls and AI-powered malware to huge money-laundering busts and new scams, there\u2019s a lot happening in the cyber world.\nCriminals are getting creative \u2014 using smart tricks to steal data, sound real, and hide in plain sight. But they\u2019re not the only ones moving fast. Governments and security teams are fighting back, shutting down fake",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEht6UhaJKO8B5nl8PUBMTiIxKg_F2ZG2IyUHemsnutwdvUzAoD9LKGyJje58Z40uNuSorotRXHqJPcfW40M1TIoUn9Ncv1wRhCIq5s3jpjvJcCOs-4LHwbUMjYDCLNQXYw_C9ARz65Zk6i9812SiRSL8HoCAhdJJw8H2-pMVQo0xzHPexyOkcZU4ZI59O1E/s1600/threatsday.jpg"
+    },
+    {
+      "id": "e9514246ad42f6c224d8f4c5368254851e099690",
+      "title": "Gainsight Expands Impacted Customer List Following Salesforce Security Alert",
+      "url": "https://thehackernews.com/2025/11/gainsight-expands-impacted-customer.html",
+      "published": "2025-11-27T07:03:00+00:00",
+      "summary": "Gainsight has disclosed that the recent suspicious activity targeting its applications has affected more customers than previously thought.\nThe company said Salesforce initially provided a list of 3 impacted customers and that it has \"expanded to a larger list\" as of November 21, 2025. It did not reveal the exact number of customers who were impacted, but its CEO, Chuck Ganapathi, said \"we",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLmTJUwBQylR2JxQKyRPwiaWc6Ia-71wvno8Z5H4N6-8KX7WBGjZLU2ONRBc4Qd7vpIOcWXWkcrekIsNcFhS75LB7IwPMOvGMQPY3xe2yl0qPlgoly_1tEdy99a_glYDj599U0nR2KHQoBkgx49tGys8tsIT_hosQpkSZsiLSXCUFJkCCDWn26eg_jxMpd/s1600/sales.jpg"
+    },
+    {
       "id": "a89b9556b9e446dfd4bd15fb5138fbc554bf1dba",
-      "title": "Shai-Hulud v2 Campaign Spreads From npm to Maven, Exposing Thousands of Secrets",
+      "title": "Shai-Hulud v2 Spreads From npm to Maven, as Campaign Exposes Thousands of Secrets",
       "url": "https://thehackernews.com/2025/11/shai-hulud-v2-campaign-spreads-from-npm.html",
       "published": "2025-11-26T18:08:00+00:00",
-      "summary": "The second wave of the Shai-Hulud supply chain attack has spilled over to the Maven ecosystem after compromising more than 830 packages in the npm registry.\nThe Socket Research Team said it identified a Maven Central package named org.mvnpm:posthog-node:4.18.1 that embeds the same two components associated with Sha1-Hulud: the \"setup_bun.js\" loader and the main payload \"bun_environment.js.\"\n\"",
+      "summary": "The second wave of the Shai-Hulud supply chain attack has spilled over to the Maven ecosystem after compromising more than 830 packages in the npm registry.\nThe Socket Research Team said it identified a Maven Central package named org.mvnpm:posthog-node:4.18.1 that embeds the same two components associated with Sha1-Hulud: the \"setup_bun.js\" loader and the main payload \"bun_environment.js.\" The",
       "source": "The Hacker News",
       "region": "North America",
       "country": "US",
@@ -638,28 +660,6 @@
       "region": "North America",
       "country": "US",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrQ7iCz7VpB_JXNQKdG7MzL3-W7RzL9PSlbgktyxA2fZYJGJ8lVtKsoJeFD9LgconGlK9MhuRrWUN26eMkd44zv3ro7VmulplS_0L9BxtQCCC1d4HnmwnWjM0cAl9N8ysY9KfG1A4l-cOIiinzlHJLoDOoTeHG2XwgtVh6bw1MPdFyhSTbBUfvOIWK1BaG/s1600/crypto-scams.jpg"
-    },
-    {
-      "id": "6b6bfea47f7ca4056a63164d9e2f3e90f2aa21e0",
-      "title": "Microsoft Mitigates Record 15.72 Tbps DDoS Attack Driven by AISURU Botnet",
-      "url": "https://thehackernews.com/2025/11/microsoft-mitigates-record-572-tbps.html",
-      "published": "2025-11-18T08:17:00+00:00",
-      "summary": "Microsoft on Monday disclosed that it automatically detected and neutralized a distributed denial-of-service (DDoS) attack targeting a single endpoint in Australia that measured 15.72 terabits per second (Tbps) and nearly 3.64 billion packets per second (pps).\nThe tech giant said it was the largest DDoS attack ever observed in the cloud, and that it originated from a TurboMirai-class Internet of",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2dO5PMH9gIwAVDF-XFgn5ydvp3uKTXTcpVHUMVoYtn02VkUCLM3d43lZH2KJMaoDkE2jZeroOAmDeoUnbTP_V7nONKGdkOGG5SlK4VBzY90xNuwT4IUv44rFNMpPo7x2zlFcVa4Kz1tyVMtEjWFCjX0Spsm3YvR8Jl2UlJXmokwESYjLXEzoBWJe07tq3/s1600/ddos.jpg"
-    },
-    {
-      "id": "b41897e721f728489bcf25691eb5d3f8b3c8f470",
-      "title": "Google Issues Security Fix for Actively Exploited Chrome V8 Zero-Day Vulnerability",
-      "url": "https://thehackernews.com/2025/11/google-issues-security-fix-for-actively.html",
-      "published": "2025-11-18T04:44:00+00:00",
-      "summary": "Google on Monday released security updates for its Chrome browser to address two security flaws, including one that has come under active exploitation in the wild.\nThe vulnerability in question is CVE-2025-13223 (CVSS score: 8.8), a type confusion vulnerability in the V8 JavaScript and WebAssembly engine that could be exploited to achieve arbitrary code execution or program crashes.\n\"Type",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCEgNFzAj-mvy7UDCWYkUmxoSH_SYIJy6THFdmON12TKz7oNg_mQSAi4lNK-5NI1tG8106ieRb4dnWK8CNK2mOlkzK0HuyltjU237Z_oNH0sOJa1ZAUHlXQmzVEczd50DCfo4zpTN6nAqdVZoK9ZSqYK8LIgU0SeIgQWyoH7u0KOKTjnXgWga6e7a_ftvh/s1600/chrome-zeroday.jpg"
     },
     {
       "id": "4dd717bccba16767f4c006980105dc4ab14c4287",
@@ -1212,6 +1212,17 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt189c519f85fecfa4/69176e237590586653e9cdc3/C517J2.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
+      "id": "82b682c188e5206688dcb9d5a606145d6b38f135",
+      "title": "Scottish council still rebuilding systems two years after ransomware attack",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2025/11/27/western_isles_ransomware_council/",
+      "published": "2025-11-27T12:15:15+00:00",
+      "summary": "<h4>Audit sympathetic toward Comhairle nan Eilean Siar as staff stretched to capacity trying to recover</h4> <p>Auditors remain concerned about the cyber resilience of a Scottish council as some systems are yet to be fully rebuilt following a ransomware attack in November 2023.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "6f072ff0a12c9d9f95d5b16a52ef4a561eda29bf",
       "title": "Gainsight CEO downplays breach, says only a 'handful' of customers had data stolen",
       "url": "https://go.theregister.com/feed/www.theregister.com/2025/11/26/gainsight_ceos_handful_customers_data_stolen/",
@@ -1751,17 +1762,6 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "c46efb0ddce3a4227e73bb358bb5f3c6f9e459e8",
-      "title": "Take fight to the enemy, US cyber boss says",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/11/18/the_us_wants_to_go/",
-      "published": "2025-11-18T17:48:52+00:00",
-      "summary": "<h4>When? Sean Cairncross wouldn't say</h4> <p>America is fed up with being the prime target for foreign hackers. So US National Cyber Director Sean Cairncross says Uncle Sam is going on the offensive \u2013 he just isn't saying when.\u2026</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
       "id": "fdd42e13e1b6d7a95d618e6e06ebe1501f9e341d",
       "title": "Meet Rey, the Admin of \u2018Scattered Lapsus$ Hunters\u2019",
       "url": "https://krebsonsecurity.com/2025/11/meet-rey-the-admin-of-scattered-lapsus-hunters/",
@@ -1872,6 +1872,17 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "06e55b14b4be4e932d2e322a96b8ae1f25e697c6",
+      "title": "OpenAI User Data Exposed in Mixpanel Hack",
+      "url": "https://www.securityweek.com/openai-user-data-exposed-in-mixpanel-hack/",
+      "published": "2025-11-27T12:09:24+00:00",
+      "summary": "<p>Multiple Mixpanel customers were impacted by a recent cyberattack targeting the product analytics company.\u00a0</p>\n<p>The post <a href=\"https://www.securityweek.com/openai-user-data-exposed-in-mixpanel-hack/\">OpenAI User Data Exposed in Mixpanel Hack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "9e288d96254927e13b744f392f83fe15e96bd883",
       "title": "Clover Security Raises $36 Million to Secure Software by Design",
       "url": "https://www.securityweek.com/clover-security-raises-36-million-to-secure-software-by-design/",
@@ -1965,17 +1976,6 @@
       "url": "https://www.securityweek.com/cisa-warns-of-spyware-targeting-messaging-app-users/",
       "published": "2025-11-25T18:11:46+00:00",
       "summary": "<p>CISA has described the techniques used by attackers and pointed out that the focus is on high-value individuals.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisa-warns-of-spyware-targeting-messaging-app-users/\">CISA Warns of Spyware Targeting Messaging App Users</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "c42d2fd75cadc639641741fe62ced090a75ed74d",
-      "title": "AI Agent Security Firm Vijil Raises $17 Million",
-      "url": "https://www.securityweek.com/ai-agent-security-firm-vijil-raises-17-million/",
-      "published": "2025-11-25T18:01:37+00:00",
-      "summary": "<p>Focusing on improving the resilience of AI agents, the startup will use the funding to accelerate deployments of its platform.</p>\n<p>The post <a href=\"https://www.securityweek.com/ai-agent-security-firm-vijil-raises-17-million/\">AI Agent Security Firm Vijil Raises $17 Million</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
