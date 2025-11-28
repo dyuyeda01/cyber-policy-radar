@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-27T12:17:35.695375+00:00",
+  "generated_at": "2025-11-28T00:41:50.898541+00:00",
   "items": [
     {
       "id": "b4830429dc4d54ce0a5ad442ecf5a4fd72750c64",
@@ -112,6 +112,39 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "16860247d8893f868f86c1ee2979ecd963795b1e",
+      "title": "Bloody Wolf Expands Java-based NetSupport RAT Attacks in Kyrgyzstan and Uzbekistan",
+      "url": "https://thehackernews.com/2025/11/bloody-wolf-expands-java-based.html",
+      "published": "2025-11-27T18:13:00+00:00",
+      "summary": "The threat actor known as Bloody Wolf has been attributed to a cyber attack campaign that has targeted Kyrgyzstan since at least June 2025 with the goal of delivering NetSupport RAT.\nAs of October 2025, the activity has expanded to also single out Uzbekistan, Group-IB researchers Amirbek Kurbanov and Volen Kayo said in a report published in collaboration with Ukuk, a state enterprise under the",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjF1NjcNl0amY7zxe4zJ58EcQQ7cm-HPNA2F3qrnTLAeF1lyBNGx1SvEnmz0Ok5DUV8ZRiOZP0fDBf_tP0LIZRcShjLexQJ6nbXiQsFaBEXc8bSHuTmGjKGscfYjGahNnvbk7Vf0hmdHX5Gca9LrWUwPwIl10Q5qzaPbH6BNHIJNg1s79QJ4BMLD4z6hhN3/s1600/gib.jpg"
+    },
+    {
+      "id": "6289c5b25d8eab6c5d95b22fd19375a6623b2a4c",
+      "title": "Microsoft to Block Unauthorized Scripts in Entra ID Logins with 2026 CSP Update",
+      "url": "https://thehackernews.com/2025/11/microsoft-to-block-unauthorized-scripts.html",
+      "published": "2025-11-27T15:37:00+00:00",
+      "summary": "Microsoft has announced plans to improve the security of Entra ID authentication by blocking unauthorized script injection attacks starting a year from now.\nThe update to its Content Security Policy (CSP) aims to enhance the Entra ID sign-in experience at \"login.microsoftonline[.]com\" by only letting scripts from trusted Microsoft domains run.\n\"This update strengthens security and adds an extra",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggbH_BZ4IWtK9XUQJlVK_lYU-KRFB6bMqJMGZUr640ws6tiDaAcew4Pf9SC_Mc3aUrTo52vkVQ2OGUXwZ1y9M0jRb0mywWeYspEWQ2QyjaRfWz1Z8jTDn1HzsNL87aEZRvaEvsuEzCx0DG4CAGMUbazLVxKSLjPpNh255KfuycID8w7BgOm445sOl4cZt0/s1600/entra-id.jpg"
+    },
+    {
+      "id": "959b92b43b77b39cfd2ab7f560747e4f16a46a73",
+      "title": "Webinar: Learn to Spot Risks and Patch Safely with Community-Maintained Tools",
+      "url": "https://thehackernews.com/2025/11/webinar-learn-to-spot-risks-and-patch.html",
+      "published": "2025-11-27T14:59:00+00:00",
+      "summary": "If you're using community tools like Chocolatey or Winget to keep systems updated, you're not alone. These platforms are fast, flexible, and easy to work with\u2014making them favorites for IT teams. But there\u2019s a catch...\nThe very tools that make your job easier might also be the reason your systems are at risk.\nThese tools are run by the community. That means anyone can add or update packages. Some",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghRvtVjaxNU0fdaFSozjGWEs_xWQjuyBRppTXjPMmjqojoEybF1sK13Xy3B0saOYldj1zfh_G7lNNTKBfZ_m9o7R9ImfAkgcRlCbVeaoYEWHz0DDTB5gIGT7SNYTWAIqVQOevNUIKb6lRW7wJ3ou0TZ64cnxGAd5RgbEfy1cxxcOGRJldJInloOOhVbKu2/s1600/update.jpg"
+    },
+    {
       "id": "2742dd4e0f0419024bdbf982655d792351672ee0",
       "title": "ThreatsDay Bulletin: AI Malware, Voice Bot Flaws, Crypto Laundering, IoT Attacks \u2014 and 20 More Stories",
       "url": "https://thehackernews.com/2025/11/threatsday-bulletin-ai-malware-voice.html",
@@ -165,17 +198,6 @@
       "region": "North America",
       "country": "US",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkw0MmcqqKZNxhyucPZCx6y1I2RgOoB3X4reu6qVkLYeMWCdU4jfxo_lQTdLLwRFdA2bVjxw_0F-QyR0XXpAV-v-commkh3NcxuOr3QOEtD0zkc-fvTavnhG-gO8z7ttXhevDQU9O3hb1Id6iBSjOH4GFmhoNRWPCPpJL8kYR6U5_seYnwxQUnwLWqz48/s1600/million-dollar-soc.jpg"
-    },
-    {
-      "id": "959b92b43b77b39cfd2ab7f560747e4f16a46a73",
-      "title": "Webinar: Learn to Spot Risks and Patch Safely with Community-Maintained Tools",
-      "url": "https://thehackernews.com/2025/11/webinar-learn-to-spot-risks-and-patch.html",
-      "published": "2025-11-26T11:10:00+00:00",
-      "summary": "If you're using community tools like Chocolatey or Winget to keep systems updated, you're not alone. These platforms are fast, flexible, and easy to work with\u2014making them favorites for IT teams. But there\u2019s a catch...\nThe very tools that make your job easier might also be the reason your systems are at risk.\nThese tools are run by the community. That means anyone can add or update packages. Some",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghRvtVjaxNU0fdaFSozjGWEs_xWQjuyBRppTXjPMmjqojoEybF1sK13Xy3B0saOYldj1zfh_G7lNNTKBfZ_m9o7R9ImfAkgcRlCbVeaoYEWHz0DDTB5gIGT7SNYTWAIqVQOevNUIKb6lRW7wJ3ou0TZ64cnxGAd5RgbEfy1cxxcOGRJldJInloOOhVbKu2/s1600/update.jpg"
     },
     {
       "id": "1085708230d0413afd7613feef7d9104b17f4594",
@@ -638,28 +660,6 @@
       "region": "North America",
       "country": "US",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgANn6HS89nO5bbMqMw7uLG3adyrOqaceztN7_QFT7PAalBP3sITkB3y9z_36naCvTv5YRhgusQx6tXEB9nSmQAru_0EV5LNLyj2FWdZwcD55V4ODt_EJtB4KOipfALbQ_U1pklNh50PFR8P4A_G6D6E3ua0sTbk-JIn0ZF5RTFkY51dw5IyzsI7IJGcl3h/s1600/Aerospace-hackers.jpg"
-    },
-    {
-      "id": "8cb2b23dc981d30af2f4af0915ea64997cba3935",
-      "title": "Beyond IAM Silos: Why the Identity Security Fabric is Essential for Securing AI and Non-Human Identities",
-      "url": "https://thehackernews.com/2025/11/beyond-iam-silos-why-identity-security.html",
-      "published": "2025-11-18T11:00:00+00:00",
-      "summary": "Identity security fabric (ISF) is a unified architectural framework that brings together disparate identity capabilities. Through ISF, identity governance and administration (IGA), access management (AM), privileged access management (PAM), and identity threat detection and response (ITDR) are all integrated into a single, cohesive control plane.\nBuilding on Gartner\u2019s definition of \u201cidentity",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgn3vLGW3cKs0sXmT_QUktr7Z215KSU8vCThbvHlJBUE4N6-71iTYrw0cLUuNXDvetFmi6LXIty3NNmvIpTE8BVwIDhyphenhyphenSqbFm0CsolT7lA7I5ai92hcjLp8ew4bJUqhjsx_pY6KKzLz6_UJSSpvdVG_CW9Yau1XmZVZRYuoEIiB3KONNQsy09vhf9D3ySg/s1600/Identity-Security-Fabric.jpg"
-    },
-    {
-      "id": "054df1370ed2a40a3a99d897a855f5a49ed3fc67",
-      "title": "Seven npm Packages Use Adspect Cloaking to Trick Victims Into Crypto Scam Pages",
-      "url": "https://thehackernews.com/2025/11/seven-npm-packages-use-adspect-cloaking.html",
-      "published": "2025-11-18T10:37:00+00:00",
-      "summary": "Cybersecurity researchers have discovered a set of seven npm packages published by a single threat actor that leverages a cloaking service called Adspect to differentiate between real victims and security researchers to ultimately redirect them to sketchy crypto-themed sites.\nThe malicious npm packages, published by a threat actor named \"dino_reborn\" between September and November 2025, are",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrQ7iCz7VpB_JXNQKdG7MzL3-W7RzL9PSlbgktyxA2fZYJGJ8lVtKsoJeFD9LgconGlK9MhuRrWUN26eMkd44zv3ro7VmulplS_0L9BxtQCCC1d4HnmwnWjM0cAl9N8ysY9KfG1A4l-cOIiinzlHJLoDOoTeHG2XwgtVh6bw1MPdFyhSTbBUfvOIWK1BaG/s1600/crypto-scams.jpg"
     },
     {
       "id": "4dd717bccba16767f4c006980105dc4ab14c4287",
@@ -1212,6 +1212,50 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt189c519f85fecfa4/69176e237590586653e9cdc3/C517J2.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
+      "id": "c37a2867dcca910e70d56abe778dc7e97a4afe1b",
+      "title": "Zendesk users targeted as Scattered Lapsus$ Hunters spin up fake support sites",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2025/11/27/scattered_lapsus_hunters_zendesk/",
+      "published": "2025-11-27T16:30:10+00:00",
+      "summary": "<h4>ReliaQuest finds fresh crop of phishing domains and toxic tickets</h4> <p>Scattered Lapsus$ Hunters may be circling Zendesk users for its latest extortion campaign, with new phishing domains and weaponized helpdesk tickets uncovered by ReliaQuest.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "16ac57240f4d80155c24bfe885df2524b55fe9fa",
+      "title": "OpenAI cuts off Mixpanel after analytics leak exposes API users",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2025/11/27/openai_mixpanel_api/",
+      "published": "2025-11-27T15:45:08+00:00",
+      "summary": "<h4>ChatGPT maker places other vendors under review following breach</h4> <p>OpenAI says API users may be affected by a recent breach at its former data analytics provider, Mixpanel.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "6de9d4f0cf44e308fb01586dae000a85a0579c48",
+      "title": "FCC sounds alarm after emergency tones turned into potty-mouthed radio takeover",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2025/11/27/fcc_radio_hijack/",
+      "published": "2025-11-27T14:00:08+00:00",
+      "summary": "<h4>Agency flags hijacks of insecure studio-to-transmitter gear after attackers pipe in fake alerts and vulgar audio</h4> <p>Malicious intruders have hijacked US radio gear to turn emergency broadcast tones into a profanity-laced alarm system.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "8c56a26ea5559e99bda12f577f3e005b967b25ac",
+      "title": "Asahi admits ransomware gang may have spilled almost 2M people's data",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2025/11/27/asahi_ransomware_numbers/",
+      "published": "2025-11-27T13:15:13+00:00",
+      "summary": "<h4>Brewer finally tallies fallout from September attack as it pushes earnings into 2026</h4> <p>Asahi has finally done the sums on September's ransomware attack in Japan, conceding the crooks may have helped themselves to personal data tied to almost 2 million people.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "82b682c188e5206688dcb9d5a606145d6b38f135",
       "title": "Scottish council still rebuilding systems two years after ransomware attack",
       "url": "https://go.theregister.com/feed/www.theregister.com/2025/11/27/western_isles_ransomware_council/",
@@ -1718,50 +1762,6 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "0a9945a809fa297a4e293ea775cb4581dd2c7c7e",
-      "title": "Selling technology investments to the board: a strategic guide for CISOs and CIOs",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/11/19/zscaler-selling-technology-investments/",
-      "published": "2025-11-19T09:00:13+00:00",
-      "summary": "<h4>The C-suite will have zero interest in zero trust without a good business case</h4> <p><strong>Partner Content</strong>\u00a0 In today's enterprise environment, technology investments are no longer judged solely by their technical sophistication. Approval depends on their ability to support business goals, mitigate risk, and create value for shareholders. CIOs and CISOs are expected to present their strategies not as technical upgrades but as business enablers. The challenge is not just making the right investments, but framing them in ways that resonate at the boardroom level.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "1816b2c5a5bb4c1f992a1f17803448669245a0e2",
-      "title": "China recruiting spies in the UK with fake headhunters and \u2018sites like LinkedIn\u2019",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/11/19/mi5_linkedin_china_spy_warning/",
-      "published": "2025-11-19T05:37:24+00:00",
-      "summary": "<h4>MI5 sounds the alarm about attempts to source sensitive information</h4> <p>Chinese spies are using social media and fake recruitment agents to recruit sources with access to sensitive information in the UK.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "250e60f0b0ef0d710d9cb33135e1bc557290b66b",
-      "title": "Self-replicating botnet attacks Ray clusters",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/11/18/selfreplicating_botnet_ray_clusters/",
-      "published": "2025-11-18T21:43:20+00:00",
-      "summary": "<h4>Using AI to attack AI</h4> <p><strong>updated</strong>\u00a0 Malefactors are actively attacking internet-facing Ray clusters and abusing the open source AI framework to spread a self-replicating botnet that mines for cryptocurrency, steals data, and launches distributed denial of service (DDoS) attacks.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "e94b92a5aa9c519cb8ff3f2b0696715980aad099",
-      "title": "FCC looks to torch Biden-era cyber rules sparked by Salt Typhoon mess",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/11/18/fcc_salt_typhoon_rules/",
-      "published": "2025-11-18T18:16:35+00:00",
-      "summary": "<h4>Regulator sides with telcos that claimed new cybersecurity duties were too \u2018burdensome\u2019</h4> <p>The Federal Communications Commission (FCC) will vote this week on whether to scrap Biden-era cybersecurity rules, enacted after the Salt Typhoon attacks came to light in 2024, that required telecom carriers to adopt basic security controls.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
       "id": "fdd42e13e1b6d7a95d618e6e06ebe1501f9e341d",
       "title": "Meet Rey, the Admin of \u2018Scattered Lapsus$ Hunters\u2019",
       "url": "https://krebsonsecurity.com/2025/11/meet-rey-the-admin-of-scattered-lapsus-hunters/",
@@ -1872,6 +1872,17 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "8179e911fab8e79aaf6bef242a11b7d62bceac47",
+      "title": "Asahi Data Breach Impacts 2 Million Individuals",
+      "url": "https://www.securityweek.com/asahi-data-breach-impacts-2-million-individuals/",
+      "published": "2025-11-27T15:52:10+00:00",
+      "summary": "<p>Hackers stole the personal information of customers and employees before deploying ransomware and crippling Asahi\u2019s operations in Japan.</p>\n<p>The post <a href=\"https://www.securityweek.com/asahi-data-breach-impacts-2-million-individuals/\">Asahi Data Breach Impacts 2 Million Individuals</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "06e55b14b4be4e932d2e322a96b8ae1f25e697c6",
       "title": "OpenAI User Data Exposed in Mixpanel Hack",
       "url": "https://www.securityweek.com/openai-user-data-exposed-in-mixpanel-hack/",
@@ -1965,17 +1976,6 @@
       "url": "https://www.securityweek.com/russian-hackers-target-us-engineering-firm-because-of-work-done-for-ukrainian-sister-city/",
       "published": "2025-11-26T00:28:40+00:00",
       "summary": "<p>The attack on the engineering firm was identified by Arctic Wolf in September before it could disrupt the engineering company\u2019s operations or spread further.</p>\n<p>The post <a href=\"https://www.securityweek.com/russian-hackers-target-us-engineering-firm-because-of-work-done-for-ukrainian-sister-city/\">Russian Hackers Target US Engineering Firm Because of Work Done for Ukrainian Sister City</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "39d162eaffe7b9698f590662556ba460a1ac9ada",
-      "title": "CISA Warns of Spyware Targeting Messaging App Users",
-      "url": "https://www.securityweek.com/cisa-warns-of-spyware-targeting-messaging-app-users/",
-      "published": "2025-11-25T18:11:46+00:00",
-      "summary": "<p>CISA has described the techniques used by attackers and pointed out that the focus is on high-value individuals.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisa-warns-of-spyware-targeting-messaging-app-users/\">CISA Warns of Spyware Targeting Messaging App Users</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
