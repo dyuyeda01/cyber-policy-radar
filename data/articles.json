@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-28T00:41:50.898541+00:00",
+  "generated_at": "2025-11-28T12:17:12.486252+00:00",
   "items": [
     {
       "id": "b4830429dc4d54ce0a5ad442ecf5a4fd72750c64",
@@ -110,6 +110,28 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "f1fce507603898894f866e7402c4d091ee5bd770",
+      "title": "Why Organizations Are Turning to RPAM",
+      "url": "https://thehackernews.com/2025/11/why-organizations-are-turning-to-rpam.html",
+      "published": "2025-11-28T11:09:00+00:00",
+      "summary": "As IT environments become increasingly distributed and organizations adopt hybrid and remote work at scale, traditional perimeter-based security models and on-premises Privileged Access Management (PAM) solutions no longer suffice. IT administrators, contractors and third-party vendors now require secure access to critical systems from any location and on any device, without compromising",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhusj8mwC5L9YXaH6bYVNnFLp4wM8q6RJloaKi4WKGtv4v1ys_SUlcI-q69rWXZCwhwDBdG6Uuy-2eb_1_sbK27TtKqlx37mNgxYB3kZ1lnwN9uMKnHVsrDMiEFhM3ObcANB-aSkvyVRkJn-3FAnKq0CD8F4nuZds4BlIAPT5GCCdHP7CNFG3Bwde-amUw/s1600/keeper.jpg"
+    },
+    {
+      "id": "ff2f2dd156d49e4403f81baa26b2d0ead39f0da9",
+      "title": "MS Teams Guest Access Can Remove Defender Protection When Users Join External Tenants",
+      "url": "https://thehackernews.com/2025/11/ms-teams-guest-access-can-remove.html",
+      "published": "2025-11-28T08:33:00+00:00",
+      "summary": "Cybersecurity researchers have shed light on a cross-tenant blind spot that allows attackers to bypass Microsoft Defender for Office 365 protections via the guest access feature in Teams.\n\"When users operate as guests in another tenant, their protections are determined entirely by that hosting environment, not by their home organization,\" Ontinue security researcher Rhys Downing said in a report",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_Md0lsjItddYFH1gCm6LZYxVDobM4ZWOweikeQFAT0yZNSYS8WKfg61LxSRjc49watAPtqESgvWx0UwppGQuw9FU8OMQDf9EOi1fWnVXF_H8L7QNOplD1-vdDAO-oU4cRg9CX2jky45M7SkmAF6b7GGi7UwMZQN4_7wnlG2D1mYl28_sUC7hLta8u37Oa/s1600/msteams.jpg"
     },
     {
       "id": "16860247d8893f868f86c1ee2979ecd963795b1e",
@@ -638,28 +660,6 @@
       "region": "North America",
       "country": "US",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbcnxxrLCNLtK2nayB0ljqkqYjos86JEosexUyndcUIx-1Bq4QIjQ7HEsPubzDGy_ZQiwc8Otm_rOZ94X_R8mDzqhCdwjETneYetBvv54f7askg7riPyV0GEVIYA6RIo6bkbFw8g6HCJPok_liEsSirCMxE3jkrLczdpV_4Sq2vw5NMJzqU2Z8btfgyfY/s1600/webinar.jpg"
-    },
-    {
-      "id": "7fb2fb606c841df740e1b34afe8a39cdb69bdf17",
-      "title": "Researchers Detail Tuoni C2's Role in an Attempted 2025 Real-Estate Cyber Intrusion",
-      "url": "https://thehackernews.com/2025/11/researchers-detail-tuoni-c2s-role-in.html",
-      "published": "2025-11-18T14:00:00+00:00",
-      "summary": "Cybersecurity researchers have disclosed details of a cyber attack targeting a major U.S.-based real-estate company that involved the use of a nascent command-and-control (C2) and red teaming framework known as Tuoni.\n\"The campaign leveraged the emerging Tuoni C2 framework, a relatively new, command-and-control (C2) tool (with a free license) that delivers stealthy, in-memory payloads,\"",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0fEPwtke4h6m4SAYqYOUAQSTCvVaghxz5SGIgAKzQlXlriWAB02H4u9ueIs8oX7vH4a3Xx46gIt-0qC_eEECEMdyBADDmMnoNvbNM-5wIwkVPSo0f88Sy2Ik5bvBQdxtwRWGO6vQvzj_rPWpAYJbfOuGNK0q6yNhyE9QR5h98xsW7d8A6yBQ8p0P5bt4G/s1600/c2.jpg"
-    },
-    {
-      "id": "86d081dc7c997e4e93e985b963f4f27adee14285",
-      "title": "Iranian Hackers Use DEEPROOT and TWOSTROKE Malware in Aerospace and Defense Attacks",
-      "url": "https://thehackernews.com/2025/11/iranian-hackers-use-deeproot-and.html",
-      "published": "2025-11-18T12:54:00+00:00",
-      "summary": "Suspected espionage-driven threat actors from Iran have been observed deploying backdoors like TWOSTROKE and DEEPROOT as part of continued attacks aimed at aerospace, aviation, and defense industries in the Middle East.\nThe activity has been attributed by Google-owned Mandiant to a threat cluster tracked as UNC1549 (aka GalaxyGato, Nimbus Manticore, or Subtle Snail), which was first documented",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgANn6HS89nO5bbMqMw7uLG3adyrOqaceztN7_QFT7PAalBP3sITkB3y9z_36naCvTv5YRhgusQx6tXEB9nSmQAru_0EV5LNLyj2FWdZwcD55V4ODt_EJtB4KOipfALbQ_U1pklNh50PFR8P4A_G6D6E3ua0sTbk-JIn0ZF5RTFkY51dw5IyzsI7IJGcl3h/s1600/Aerospace-hackers.jpg"
     },
     {
       "id": "4dd717bccba16767f4c006980105dc4ab14c4287",
@@ -1212,6 +1212,39 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt189c519f85fecfa4/69176e237590586653e9cdc3/C517J2.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
+      "id": "1d57d63201c9bbd700786cb30be2863bfd650f07",
+      "title": "OBR drags in cyber bigwig after Budget leak blunder",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2025/11/28/obr_ciaran_martin/",
+      "published": "2025-11-28T12:02:10+00:00",
+      "summary": "<h4>Ex-NCSC chief Ciaran Martin asked to examine how forecast ended up online ahead of schedule</h4> <p>The Office for Budget Responsibility (OBR) has drafted in former National Cyber Security Centre (NCSC) chief Ciaran Martin to sniff out how its Budget day forecast wandered onto the open internet before the Chancellor had even reached the dispatch box.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "b8657bb6cf1785b098655251f5ca7ceddf74d40c",
+      "title": "UK digital ID plan gets a price tag at last \u2013 \u00a31.8B",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2025/11/28/digital_id_cost/",
+      "published": "2025-11-28T11:19:52+00:00",
+      "summary": "<h4>OBR says the scheme will cost \u00a3600M a year with no identified savings</h4> <p>The UK government has finally put a \u00a31.8 billion price tag on its digital ID plans \u2013 days after the minister responsible refused to name a figure.\u2026</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "a6c828a72669c9dcafd351c5d1effbddf5303348",
+      "title": "Korean web giant Naver acquired crypto exchange Upbit, which reported a $30m heist a day later",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2025/11/28/naver_upbit_crypto_heist/",
+      "published": "2025-11-28T00:41:58+00:00",
+      "summary": "<h4>Talk about buyer\u2019s remorse</h4> <p>South Korean web giant Naver has had an interesting week, after it acquired a cryptocurrency exchange that the next day revealed it had suffered a serious cyberattack.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "c37a2867dcca910e70d56abe778dc7e97a4afe1b",
       "title": "Zendesk users targeted as Scattered Lapsus$ Hunters spin up fake support sites",
       "url": "https://go.theregister.com/feed/www.theregister.com/2025/11/27/scattered_lapsus_hunters_zendesk/",
@@ -1729,144 +1762,12 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "bebc54086d26d7bf322785b00dab73cde8610d5c",
-      "title": "Amazon security boss: Hostile countries use cyber targeting for physical military strikes",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/11/19/amazon_cso_warfare_cyber_kinetic/",
-      "published": "2025-11-19T18:26:04+00:00",
-      "summary": "<h4>And companies are getting caught in the crossfire</h4> <p><strong>interview</strong>\u00a0 Warfare has become a joint cyber-kinetic endeavor, with nations using cyber operations to scope out targets before launching missiles. And private companies, including shipping, transportation, and electronics manufacturers, are getting caught in the crossfire, according to Amazon.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "071ae203c8aa003b58162d50e1e5d2112a163117",
-      "title": "Researchers claim 'largest leak ever' after uncovering WhatsApp enumeration flaw",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/11/19/whatsapp_enumeration_flaw/",
-      "published": "2025-11-19T13:16:07+00:00",
-      "summary": "<h4>Two-day exploit opened up 3.5 billion users to myriad potential harms</h4> <p>Researchers in Austria used a flaw in WhatsApp to gather the personal data of more than 3.5 billion users in what they believe amounts to the \"largest data leak in history.\"\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "284799f1d3b52a18ef03388a23f26af4ace34739",
-      "title": "Tens of thousands more ASUS routers pwned by suspected, evolving China operation",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/11/19/thousands_more_asus_routers_pwned/",
-      "published": "2025-11-19T09:30:08+00:00",
-      "summary": "<h4>Researchers say attacks are laying the groundwork for stealthy espionage activity</h4> <p>Around 50,000 ASUS routers have been compromised in a sophisticated attack that researchers believe may be linked to China, according to findings released today by SecurityScorecard's STRIKE team.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "fdd42e13e1b6d7a95d618e6e06ebe1501f9e341d",
-      "title": "Meet Rey, the Admin of \u2018Scattered Lapsus$ Hunters\u2019",
-      "url": "https://krebsonsecurity.com/2025/11/meet-rey-the-admin-of-scattered-lapsus-hunters/",
-      "published": "2025-11-26T17:22:36+00:00",
-      "summary": "A prolific cybercriminal group that calls itself \"Scattered LAPSUS$ Hunters\" made headlines regularly this year by stealing data from and publicly mass extorting dozens of major corporations. But the tables seem to have turned somewhat for \"Rey,\" the moniker chosen by the technical operator and public face of the hacker group: Earlier this week, Rey confirmed his real life identity and agreed to an interview after KrebsOnSecurity tracked him down and contacted his father.",
-      "source": "Krebs on Security",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "f058bb5da5a3357d6483753809bdf931b5483a19",
-      "title": "Is Your Android TV Streaming Box Part of a Botnet?",
-      "url": "https://krebsonsecurity.com/2025/11/is-your-android-tv-streaming-box-part-of-a-botnet/",
-      "published": "2025-11-24T18:44:52+00:00",
-      "summary": "On the surface, the Superbox media streaming devices for sale at retailers like BestBuy and Walmart may seem like a steal: They offer unlimited access to more than 2,200 pay-per-view and streaming services like Netflix, ESPN and Hulu, all for a one-time fee of around $400. But security experts warn these TV boxes require intrusive software that forces the user's network to relay Internet traffic for others, traffic that is often tied to cybercrime activity such as advertising fraud and account takeovers.",
-      "source": "Krebs on Security",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "578776ac87407943a6d87d4c4fef713d165051a5",
-      "title": "Mozilla Says It\u2019s Finally Done With Two-Faced Onerep",
-      "url": "https://krebsonsecurity.com/2025/11/mozilla-says-its-finally-done-with-two-faced-onerep/",
-      "published": "2025-11-20T19:06:51+00:00",
-      "summary": "In March 2024, Mozilla said it was winding down its collaboration with Onerep -- an identity protection service offered with the Firefox web browser that promises to remove users from hundreds of people-search sites -- after KrebsOnSecurity revealed Onerep's founder had created dozens of people-search services and was continuing to operate at least one of them. Sixteen months later, however, Mozilla is still promoting Onerep. This week, Mozilla announced their partnership with Onerep will officially end next month.",
-      "source": "Krebs on Security",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "654024e61e0288ad7c3667dc4521610c8201f8ee",
-      "title": "The Cloudflare Outage May Be a Security Roadmap",
-      "url": "https://krebsonsecurity.com/2025/11/the-cloudflare-outage-may-be-a-security-roadmap/",
-      "published": "2025-11-19T14:07:03+00:00",
-      "summary": "An intermittent outage at Cloudflare on Tuesday briefly knocked many of the Internet's top destinations offline. Some affected Cloudflare customers were able to pivot away from the platform temporarily so that visitors could still access their websites. But security experts say doing so may have also triggered an impromptu network penetration test for organizations that have come to rely on Cloudflare to block many types of abusive and malicious traffic.",
-      "source": "Krebs on Security",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "516f12d3c41293e1c1c7570a45ffe41042d6b9ab",
-      "title": "Microsoft Patch Tuesday, November 2025 Edition",
-      "url": "https://krebsonsecurity.com/2025/11/microsoft-patch-tuesday-november-2025-edition/",
-      "published": "2025-11-16T21:47:14+00:00",
-      "summary": "Microsoft this week pushed security updates to fix more than 60 vulnerabilities in its Windows operating systems and supported software, including at least one zero-day bug that is already being exploited. Microsoft also fixed a glitch that prevented some Windows 10 users from taking advantage of an extra year of security updates, which is nice because the zero-day flaw and other critical weaknesses patched today affect all versions of Windows, including Windows 10.",
-      "source": "Krebs on Security",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "ccbd4523f54cf9f331f319eabb7ee913e67564e1",
-      "title": "Google Sues to Disrupt Chinese SMS Phishing Triad",
-      "url": "https://krebsonsecurity.com/2025/11/google-sues-to-disrupt-chinese-sms-phishing-triad/",
-      "published": "2025-11-13T14:47:22+00:00",
-      "summary": "Google is suing more than two dozen unnamed individuals allegedly involved in peddling a popular China-based mobile phishing service that helps scammers impersonate hundreds of trusted brands, blast out text message lures, and convert phished payment card data into mobile wallets from Apple and Google.",
-      "source": "Krebs on Security",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "bd6488185e52e7ef10d06b19f16a67c940b62c14",
-      "title": "Drilling Down on Uncle Sam\u2019s Proposed TP-Link Ban",
-      "url": "https://krebsonsecurity.com/2025/11/drilling-down-on-uncle-sams-proposed-tp-link-ban/",
-      "published": "2025-11-09T18:14:40+00:00",
-      "summary": "The U.S. government is reportedly preparing to ban the sale of wireless routers and other networking gear from TP-Link Systems, a tech company that currently enjoys an estimated 50% market share among home users and small businesses. Experts say while the proposed ban may have more to do with TP-Link's ties to China than any specific technical threats, much of the rest of the industry serving this market also sources hardware from China and ships products that are insecure fresh out of the box.",
-      "source": "Krebs on Security",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "617b1c2d5302199b8cf25a2460a57e8001890c2d",
-      "title": "Cloudflare Scrubs Aisuru Botnet from Top Domains List",
-      "url": "https://krebsonsecurity.com/2025/11/cloudflare-scrubs-aisuru-botnet-from-top-domains-list/",
-      "published": "2025-11-06T02:04:36+00:00",
-      "summary": "For the past week, domains associated with the massive Aisuru botnet have repeatedly usurped Amazon, Apple, Google and Microsoft in Cloudflare's public ranking of the most frequently requested websites. Cloudflare responded by redacting Aisuru domain names from their top websites list. The chief executive at Cloudflare says Aisuru's overlords are using the botnet to boost their malicious domain rankings, while simultaneously attacking the company's domain name system (DNS) service.",
-      "source": "Krebs on Security",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "f024f82ee37cb16af535df842f3cf3b3130f3ed0",
-      "title": "Alleged Jabber Zeus Coder \u2018MrICQ\u2019 in U.S. Custody",
-      "url": "https://krebsonsecurity.com/2025/11/alleged-jabber-zeus-coder-mricq-in-u-s-custody/",
-      "published": "2025-11-02T20:37:24+00:00",
-      "summary": "A Ukrainian man indicted in 2012 for conspiring with a prolific hacking group to steal tens of millions of dollars from U.S. businesses was arrested in Italy and is now in custody in the United States, KrebsOnSecurity has learned.\n\nSources close to the investigation say Yuriy Igorevich Rybtsov, a 41-year-old from the Russia-controlled city of Donetsk, Ukraine, was previously referenced in U.S. federal charging documents only by his online handle \"MrICQ.\" According to a 13-year-old indictment filed by prosecutors in Nebraska, MrICQ was a developer for a cybercrime group known as \"Jabber Zeus.\"",
-      "source": "Krebs on Security",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "3b56b31cfa227705e3233f4603500fd71ae1a9a3",
-      "title": "Aisuru Botnet Shifts from DDoS to Residential Proxies",
-      "url": "https://krebsonsecurity.com/2025/10/aisuru-botnet-shifts-from-ddos-to-residential-proxies/",
-      "published": "2025-10-29T00:51:05+00:00",
-      "summary": "Aisuru, the botnet responsible for a series of record-smashing distributed denial-of-service (DDoS) attacks this year, recently was overhauled to support a more low-key, lucrative and sustainable business: Renting hundreds of thousands of infected Internet of Things (IoT) devices to proxy services that help cybercriminals anonymize their traffic. Experts says a glut of proxies from Aisuru and other sources is fueling large-scale data harvesting efforts tied to various artificial intelligence (AI) projects, helping content scrapers evade detection by routing their traffic through residential connections that appear to be regular Internet users.",
-      "source": "Krebs on Security",
+      "id": "d15180d25b4d9061c29083b33aacfd9b648daf8e",
+      "title": "In Other News: HashJack AI Browser Attack, Charming Kitten Leak, Hacker Unmasked",
+      "url": "https://www.securityweek.com/in-other-news-hashjack-ai-browser-attack-charming-kitten-leak-hacker-unmasked/",
+      "published": "2025-11-28T10:24:24+00:00",
+      "summary": "<p>Other noteworthy stories that might have slipped under the radar: Scattered Spider members plead not guilty, TP-Link sues Netgear, Comcast agrees to $1.5 million fine.</p>\n<p>The post <a href=\"https://www.securityweek.com/in-other-news-hashjack-ai-browser-attack-charming-kitten-leak-hacker-unmasked/\">In Other News: HashJack AI Browser Attack, Charming Kitten Leak, Hacker Unmasked</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
@@ -1965,17 +1866,6 @@
       "url": "https://www.securityweek.com/dartmouth-college-confirms-data-theft-in-oracle-hack/",
       "published": "2025-11-26T08:09:20+00:00",
       "summary": "<p>Dartmouth College has disclosed a data breach after cybercriminals leaked over 226 Gb of files stolen from the university.</p>\n<p>The post <a href=\"https://www.securityweek.com/dartmouth-college-confirms-data-theft-in-oracle-hack/\">Dartmouth College Confirms Data Theft in Oracle Hack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "c6d36687ee2331e6af6a6ed1ae882cc3b1d3cd93",
-      "title": "Russian Hackers Target US Engineering Firm Because of Work Done for Ukrainian Sister City",
-      "url": "https://www.securityweek.com/russian-hackers-target-us-engineering-firm-because-of-work-done-for-ukrainian-sister-city/",
-      "published": "2025-11-26T00:28:40+00:00",
-      "summary": "<p>The attack on the engineering firm was identified by Arctic Wolf in September before it could disrupt the engineering company\u2019s operations or spread further.</p>\n<p>The post <a href=\"https://www.securityweek.com/russian-hackers-target-us-engineering-firm-because-of-work-done-for-ukrainian-sister-city/\">Russian Hackers Target US Engineering Firm Because of Work Done for Ukrainian Sister City</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
