@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-30T00:50:06.182279+00:00",
+  "generated_at": "2025-11-30T12:15:18.551610+00:00",
   "items": [
     {
       "id": "b4830429dc4d54ce0a5ad442ecf5a4fd72750c64",
@@ -110,6 +110,17 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "92d043d217099f8af015a66c95a7e387ee007fdb",
+      "title": "CISA Adds Actively Exploited XSS Bug CVE-2021-26829 in OpenPLC ScadaBR to KEV",
+      "url": "https://thehackernews.com/2025/11/cisa-adds-actively-exploited-xss-bug.html",
+      "published": "2025-11-30T09:23:00+00:00",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has updated its Known Exploited Vulnerabilities (KEV) catalog to include a security flaw impacting OpenPLC ScadaBR, citing evidence of active exploitation.\nThe vulnerability in question is CVE-2021-26829 (CVSS score: 5.4), a cross-site scripting (XSS) flaw that affects Windows and Linux versions of the software via",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgDyMqGZH8Rp4Y4Nt38tsox7FPdyDY1hpVLBuBDSX4Zfz3FlXPCzUR5TIOcLs_e3Q37fkYRyC7M-pdCEOmvqhLxWBvynMu8XUeVjaZzdUX5UlW4rqqGs_504c6rcd-ev02FEmGlGjgTUF8hvjIak9dbLhtbVaSgAdl7a9wDYs7u6NO3jcjb12zbVdPnox4/s1600/cisa.jpg"
     },
     {
       "id": "0ae22882caa260940c4539bdccd75e8645a49e71",
@@ -391,7 +402,7 @@
       "title": "ShadowPad Malware Actively Exploits WSUS Vulnerability for Full System Access",
       "url": "https://thehackernews.com/2025/11/shadowpad-malware-actively-exploits.html",
       "published": "2025-11-24T07:18:00+00:00",
-      "summary": "A recently patched security flaw in Microsoft Windows Server Update Services (WSUS) has been exploited by threat actors to distribute malware known as ShadowPad.\n\"The attacker targeted Windows Servers with WSUS enabled, exploiting CVE-2025-59287 for initial access,\" AhnLab Security Intelligence Center (ASEC) said in a report published last week. \"They then used PowerCat, an open-source",
+      "summary": "A recently patched security flaw in Microsoft Windows Server Update Services (WSUS) has been exploited by threat actors to distribute a malware known as ShadowPad.\n\"The attacker targeted Windows Servers with WSUS enabled, exploiting CVE-2025-59287 for initial access,\" AhnLab Security Intelligence Center (ASEC) said in a report published last week. \"They then used PowerCat, an open-source",
       "source": "The Hacker News",
       "region": "North America",
       "country": "US",
@@ -649,17 +660,6 @@
       "region": "North America",
       "country": "US",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEKdkwpYxJC7o2i7S9wnA23qyb2BohSBPoI9nZSfX-qt7bRgSwxhDKYeogidmxxGNCSI0l-l-cKj8eJsA4bDVEjsUAiQVmw8bK6ZTE7omWqq7kSP0L_DpCG23Q91NjEx-lrepVUjzwSKo2_H6Ke4I-7XOPHZAiGYhdHB3eTOCG8S_ksc1SEJU4PchDAuSM/s1600/fort.jpg"
-    },
-    {
-      "id": "3dbca5323c2d4a4636d7b8d3aa4e290531eb5af8",
-      "title": "Sneaky 2FA Phishing Kit Adds BitB Pop-ups Designed to Mimic the Browser Address Bar",
-      "url": "https://thehackernews.com/2025/11/sneaky-2fa-phishing-kit-adds-bitb-pop.html",
-      "published": "2025-11-18T18:31:00+00:00",
-      "summary": "The malware authors associated with a Phishing-as-a-Service (PhaaS) kit known as Sneaky 2FA have incorporated Browser-in-the-Browser (BitB) functionality into their arsenal, underscoring the continued evolution of such offerings and further making it easier for less-skilled threat actors to mount attacks at scale.\nPush Security, in a report shared with The Hacker News, said it observed the use",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUazxCy3vEGn8LPbdlF5itqaRkz1hHoZICRwrw6N6eOk7fxRbRx1r304KEpLd-LeevEHDIwZ0pLukHppiGlxuU5juewH86IWmXorHFekbgYxQ1R2snVoZE8tqkrFIg4HOu_EaIV5bmVYaad4wUYA2ea9tiqqKaYAfIzj2icwv50ptIREdEy1NS8jPwsLrj/s1600/browser.gif"
     },
     {
       "id": "4dd717bccba16767f4c006980105dc4ab14c4287",
