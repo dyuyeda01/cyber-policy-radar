@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-02T00:44:30.562856+00:00",
+  "generated_at": "2025-12-02T12:18:28.557869+00:00",
   "items": [
     {
       "id": "55be5a0e684ebe4045179859e7dc600fd9fbff11",
@@ -112,11 +112,33 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "a613fdd5a293cc6e653cdc2a0820dc351b2c82fa",
+      "title": "SecAlerts Cuts Through the Noise with a Smarter, Faster Way to Track Vulnerabilities",
+      "url": "https://thehackernews.com/2025/12/secalerts-cuts-through-noise-with.html",
+      "published": "2025-12-02T11:30:00+00:00",
+      "summary": "Vulnerability management is a core component of every cybersecurity strategy. However, businesses often use thousands of software without realising it (when was the last time you checked?), and keeping track of all the vulnerability alerts, notifications, and updates can be a burden on resources and often leads to missed vulnerabilities.&nbsp;\nTaking into account that nearly 10% of",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpI7vVjgeJCTKjXbLZ6lfU0PoAuktjJT2aJh1WzS64x1_1Kj-E-9pLg3ct_4pz9iP4PMlQMwyVv9LuqlCXacECrAADinGfYHTGf5QcnU4IGygdhrqAJAMJfFDghUPG7DOnJfuKUM4ekDT59bDSOFPrvlvUv3YwXmRz5M5HKKaUFE6o-4rSy3FkzzmQyac/s1600/SecAlerts.jpg"
+    },
+    {
+      "id": "4410a5a8d928ee9cfbd88a2da88672a203e91fb4",
+      "title": "Google Patches 107 Android Flaws, Including Two Framework Bugs Exploited in the Wild",
+      "url": "https://thehackernews.com/2025/12/google-patches-107-android-flaws.html",
+      "published": "2025-12-02T07:17:00+00:00",
+      "summary": "Google on Monday released monthly security updates for the Android operating system, including two vulnerabilities that it said have been exploited in the wild.\nThe patch addresses a total of 107 security flaws spanning different components, including Framework, System, Kernel, as well as those from Arm, Imagination Technologies, MediaTek, Qualcomm, and Unison.\nThe two high-severity shortcomings",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjL-2eGLpT-dW3-PbjBoWaQtkVc-dEwO5RtxY532IOybzHPHQWo4lkSaf6fkpNyD_hWyoWtlmgfweLMyDEkBGEyr160z2_8tTVHoo6hRKfUh4yywZ9yMKq5hWSKEIz7OzngxWGy57CIOdHRSn6hHtKqy2R6qAFfDPQ7rEnMUzU236-TbAhwqEjlApSBLLIz/s1600/android-update.jpg"
+    },
+    {
       "id": "0db6b3b8bade8b300c12ebb7fcc2ca9940378d17",
-      "title": "India Orders Phone Makers to Pre-Install Sanchar Saathi App to Tackle Telecom Fraud",
+      "title": "India Orders Phone Makers to Pre-Install Government App to Tackle Telecom Fraud",
       "url": "https://thehackernews.com/2025/12/india-orders-phone-makers-to-pre.html",
       "published": "2025-12-01T17:55:00+00:00",
-      "summary": "India's telecommunications ministry has reportedly asked major mobile device manufacturers to preload a government-backed cybersecurity app named Sanchar Saathi on all new phones within 90 days.\nAccording to a report from Reuters, the app cannot be deleted or disabled from users' devices.\nSanchar Saathi, available on the web and via mobile apps for Android and iOS, allows users to report",
+      "summary": "India's telecommunications ministry has ordered major mobile device manufacturers to preload a government-backed cybersecurity app named Sanchar Saathi on all new phones within 90 days.\nAccording to a report from Reuters, the app cannot be deleted or disabled from users' devices.\nSanchar Saathi, available on the web and via mobile apps for Android and iOS, allows users to report suspected fraud,",
       "source": "The Hacker News",
       "region": "North America",
       "country": "US",
@@ -638,28 +660,6 @@
       "region": "North America",
       "country": "US",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVj8J2nS9lYGZyFEqx7TaQVA9AtDdRKj5kb7gKdT1MipdOYmYLn3fcggw2zKHTxKKMvicuO3N7UFEj-QVsoDO-rcOe8JpfJwSCTjX9LcYQNA9iGxHTvQy3AXyFqJWAjhwf33_AH5bndm7rqeKwlkTwB37MhQ09RRfRB9PdYIvrFFKJl44vcP92df_PStz6/s1600/iran-hackers.jpg"
-    },
-    {
-      "id": "84662c833b6d0e020565d1d8fef800bf7f94ee84",
-      "title": "TamperedChef Malware Spreads via Fake Software Installers in Ongoing Global Campaign",
-      "url": "https://thehackernews.com/2025/11/tamperedchef-malware-spreads-via-fake.html",
-      "published": "2025-11-20T04:06:00+00:00",
-      "summary": "Threat actors are leveraging bogus installers masquerading as popular software to trick users into installing malware as part of a global malvertising campaign dubbed TamperedChef.\nThe end goal of the attacks is to establish persistence and deliver JavaScript malware that facilitates remote access and control, per a new report from Acronis Threat Research Unit (TRU). The campaign, per the",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdYB9Gid2loMKjZaFwuw8YNcXPNMj8a66sEY0z-p0ez7SZf1_vmAIn0fel7zK-zatmZqEc-EssuI89guGsGeOg9G1Vkw6LV7F6QU1W-N1maj6Pws1VrpKl2-sGqrvleq0VF1VTmQHwUzChvzTPcjJPtCIb1pVGT__o4iJoXXYCE0G7h4zb61Y7I-GtLGZn/s1600/software.jpg"
-    },
-    {
-      "id": "092c20c2c6151a3dc2cc263a3b876a0f2beaefad",
-      "title": "NHS Warns of PoC Exploit for 7-Zip Symbolic Link\u2013Based RCE Vulnerability",
-      "url": "https://thehackernews.com/2025/11/hackers-actively-exploiting-7-zip.html",
-      "published": "2025-11-19T16:27:00+00:00",
-      "summary": "Update: The NHS England Digital, in an updated advisory on November 20, 2025, said it has not observed in-the-wild exploitation of CVE-2025-11001, but noted that it's \"aware of a public proof-of-concept exploit.\" It has since removed what it said were \"erroneous references\" to active exploitation.The original story follows below -\n\nA recently disclosed security flaw impacting 7-Zip has come",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivVWRvZll-uPUxEGctC2P333iOd2Fe1IQRsAAs_g4oiJVzgnqb6OQuk2UyD8yBGFxJuuwGgN8QeUluWfvr9nC6GwY6eMqB5xQCBGSu8FP8zrZjdd4yTtytllh4W8NqDAmMCUBet7I1gq1HfFSRgC5oBJGy3x_po-TzYKM3FgGu9Hcjr4WFt5nPRsY5oKMf/s1600/7-zip-exploit.jpg"
     },
     {
       "id": "71c603801c29629a7381e49580b448bcdb9e9bbb",
@@ -1212,6 +1212,17 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt45b4f2f2f8b69096/6917943f43e227caace3ecf6/Akira_film-Pictorial_Press_Ltd-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
+      "id": "21287f7b773fe8b4f75a3001df2333815544185a",
+      "title": "India demands smartphone makers install a government app on every handset",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2025/12/02/india_mandatory_sanchar_saathi_app/",
+      "published": "2025-12-02T03:24:20+00:00",
+      "summary": "<h4>'Sanchar Saathi' shares data to help fight fraud and protect carrier security</h4> <p>India\u2019s government has issued a directive that requires all smartphone manufacturers to install a government app on every handset in the country and has given them 90 days to get the job done \u2013 and to ensure users can\u2019t remove the code.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "45d9131b3bc5c43426859ede75813183946699b0",
       "title": "Stealthy browser extensions waited years before infecting 4.3M Chrome, Edge users with backdoors and spyware",
       "url": "https://go.theregister.com/feed/www.theregister.com/2025/12/01/chrome_edge_malicious_browser_extensions/",
@@ -1751,14 +1762,146 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "78579f6b12159afa984447625ba4b20e41760bad",
-      "title": "ZTE Launches ZXCSec MAF security solution for large model",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/11/21/zte-zxcsec-maf-security-solution/",
-      "published": "2025-11-21T09:19:54+00:00",
-      "summary": "<h4>A multi-layered security framework protecting large-model applications from adversarial threats, data leakage, API abuse, and content risks</h4> <p><strong>Partner Content</strong>\u00a0 At MWC Shanghai 2025, ZTE has officially launched its ZXCSec MAF product, a dedicated application-layer security protection device specifically designed for large model services.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
+      "id": "fdd42e13e1b6d7a95d618e6e06ebe1501f9e341d",
+      "title": "Meet Rey, the Admin of \u2018Scattered Lapsus$ Hunters\u2019",
+      "url": "https://krebsonsecurity.com/2025/11/meet-rey-the-admin-of-scattered-lapsus-hunters/",
+      "published": "2025-11-26T17:22:36+00:00",
+      "summary": "A prolific cybercriminal group that calls itself \"Scattered LAPSUS$ Hunters\" made headlines regularly this year by stealing data from and publicly mass extorting dozens of major corporations. But the tables seem to have turned somewhat for \"Rey,\" the moniker chosen by the technical operator and public face of the hacker group: Earlier this week, Rey confirmed his real life identity and agreed to an interview after KrebsOnSecurity tracked him down and contacted his father.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "f058bb5da5a3357d6483753809bdf931b5483a19",
+      "title": "Is Your Android TV Streaming Box Part of a Botnet?",
+      "url": "https://krebsonsecurity.com/2025/11/is-your-android-tv-streaming-box-part-of-a-botnet/",
+      "published": "2025-11-24T18:44:52+00:00",
+      "summary": "On the surface, the Superbox media streaming devices for sale at retailers like BestBuy and Walmart may seem like a steal: They offer unlimited access to more than 2,200 pay-per-view and streaming services like Netflix, ESPN and Hulu, all for a one-time fee of around $400. But security experts warn these TV boxes require intrusive software that forces the user's network to relay Internet traffic for others, traffic that is often tied to cybercrime activity such as advertising fraud and account takeovers.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "578776ac87407943a6d87d4c4fef713d165051a5",
+      "title": "Mozilla Says It\u2019s Finally Done With Two-Faced Onerep",
+      "url": "https://krebsonsecurity.com/2025/11/mozilla-says-its-finally-done-with-two-faced-onerep/",
+      "published": "2025-11-20T19:06:51+00:00",
+      "summary": "In March 2024, Mozilla said it was winding down its collaboration with Onerep -- an identity protection service offered with the Firefox web browser that promises to remove users from hundreds of people-search sites -- after KrebsOnSecurity revealed Onerep's founder had created dozens of people-search services and was continuing to operate at least one of them. Sixteen months later, however, Mozilla is still promoting Onerep. This week, Mozilla announced their partnership with Onerep will officially end next month.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "654024e61e0288ad7c3667dc4521610c8201f8ee",
+      "title": "The Cloudflare Outage May Be a Security Roadmap",
+      "url": "https://krebsonsecurity.com/2025/11/the-cloudflare-outage-may-be-a-security-roadmap/",
+      "published": "2025-11-19T14:07:03+00:00",
+      "summary": "An intermittent outage at Cloudflare on Tuesday briefly knocked many of the Internet's top destinations offline. Some affected Cloudflare customers were able to pivot away from the platform temporarily so that visitors could still access their websites. But security experts say doing so may have also triggered an impromptu network penetration test for organizations that have come to rely on Cloudflare to block many types of abusive and malicious traffic.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "516f12d3c41293e1c1c7570a45ffe41042d6b9ab",
+      "title": "Microsoft Patch Tuesday, November 2025 Edition",
+      "url": "https://krebsonsecurity.com/2025/11/microsoft-patch-tuesday-november-2025-edition/",
+      "published": "2025-11-16T21:47:14+00:00",
+      "summary": "Microsoft this week pushed security updates to fix more than 60 vulnerabilities in its Windows operating systems and supported software, including at least one zero-day bug that is already being exploited. Microsoft also fixed a glitch that prevented some Windows 10 users from taking advantage of an extra year of security updates, which is nice because the zero-day flaw and other critical weaknesses patched today affect all versions of Windows, including Windows 10.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "ccbd4523f54cf9f331f319eabb7ee913e67564e1",
+      "title": "Google Sues to Disrupt Chinese SMS Phishing Triad",
+      "url": "https://krebsonsecurity.com/2025/11/google-sues-to-disrupt-chinese-sms-phishing-triad/",
+      "published": "2025-11-13T14:47:22+00:00",
+      "summary": "Google is suing more than two dozen unnamed individuals allegedly involved in peddling a popular China-based mobile phishing service that helps scammers impersonate hundreds of trusted brands, blast out text message lures, and convert phished payment card data into mobile wallets from Apple and Google.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "bd6488185e52e7ef10d06b19f16a67c940b62c14",
+      "title": "Drilling Down on Uncle Sam\u2019s Proposed TP-Link Ban",
+      "url": "https://krebsonsecurity.com/2025/11/drilling-down-on-uncle-sams-proposed-tp-link-ban/",
+      "published": "2025-11-09T18:14:40+00:00",
+      "summary": "The U.S. government is reportedly preparing to ban the sale of wireless routers and other networking gear from TP-Link Systems, a tech company that currently enjoys an estimated 50% market share among home users and small businesses. Experts say while the proposed ban may have more to do with TP-Link's ties to China than any specific technical threats, much of the rest of the industry serving this market also sources hardware from China and ships products that are insecure fresh out of the box.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "617b1c2d5302199b8cf25a2460a57e8001890c2d",
+      "title": "Cloudflare Scrubs Aisuru Botnet from Top Domains List",
+      "url": "https://krebsonsecurity.com/2025/11/cloudflare-scrubs-aisuru-botnet-from-top-domains-list/",
+      "published": "2025-11-06T02:04:36+00:00",
+      "summary": "For the past week, domains associated with the massive Aisuru botnet have repeatedly usurped Amazon, Apple, Google and Microsoft in Cloudflare's public ranking of the most frequently requested websites. Cloudflare responded by redacting Aisuru domain names from their top websites list. The chief executive at Cloudflare says Aisuru's overlords are using the botnet to boost their malicious domain rankings, while simultaneously attacking the company's domain name system (DNS) service.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "f024f82ee37cb16af535df842f3cf3b3130f3ed0",
+      "title": "Alleged Jabber Zeus Coder \u2018MrICQ\u2019 in U.S. Custody",
+      "url": "https://krebsonsecurity.com/2025/11/alleged-jabber-zeus-coder-mricq-in-u-s-custody/",
+      "published": "2025-11-02T20:37:24+00:00",
+      "summary": "A Ukrainian man indicted in 2012 for conspiring with a prolific hacking group to steal tens of millions of dollars from U.S. businesses was arrested in Italy and is now in custody in the United States, KrebsOnSecurity has learned.\n\nSources close to the investigation say Yuriy Igorevich Rybtsov, a 41-year-old from the Russia-controlled city of Donetsk, Ukraine, was previously referenced in U.S. federal charging documents only by his online handle \"MrICQ.\" According to a 13-year-old indictment filed by prosecutors in Nebraska, MrICQ was a developer for a cybercrime group known as \"Jabber Zeus.\"",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "49fc639ea7886f212b646962f5128ab9a556bf59",
+      "title": "Saporo Raises $8 Million for Identity Security Platform",
+      "url": "https://www.securityweek.com/saporo-raises-8-million-for-identity-security-platform/",
+      "published": "2025-12-02T12:17:09+00:00",
+      "summary": "<p>The Swiss cybersecurity firm will scale its R&#038;D, sales and marketing teams as it pursues expansion across Europe.</p>\n<p>The post <a href=\"https://www.securityweek.com/saporo-raises-8-million-for-identity-security-platform/\">Saporo Raises $8 Million for Identity Security Platform</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "3d4885ff08bc36e66c841fb39865f77cf2fa0cd3",
+      "title": "Vulnerability in OpenAI Coding Agent Could Facilitate Attacks on Developers",
+      "url": "https://www.securityweek.com/vulnerability-in-openai-coding-agent-could-facilitate-attacks-on-developers/",
+      "published": "2025-12-02T12:02:32+00:00",
+      "summary": "<p>The Codex CLI vulnerability tracked as CVE-2025-61260 can be exploited for command execution.</p>\n<p>The post <a href=\"https://www.securityweek.com/vulnerability-in-openai-coding-agent-could-facilitate-attacks-on-developers/\">Vulnerability in OpenAI Coding Agent Could Facilitate Attacks on Developers</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "c666de1d230faa46ed3304ff2b4307938d24829c",
+      "title": "Personal Information of 33.7 Million Stolen From Coupang",
+      "url": "https://www.securityweek.com/personal-information-of-33-7-million-stolen-from-coupang/",
+      "published": "2025-12-02T10:38:59+00:00",
+      "summary": "<p>Names, addresses, email addresses, and phone numbers were compromised in a five-month-long data breach.</p>\n<p>The post <a href=\"https://www.securityweek.com/personal-information-of-33-7-million-stolen-from-coupang/\">Personal Information of 33.7 Million Stolen From Coupang</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "c5db38e88a44cdcdb3d315936fd9a3287f61eacf",
+      "title": "Android\u2019s December 2025 Updates Patch Two Zero-Days",
+      "url": "https://www.securityweek.com/androids-december-2025-updates-patch-two-zero-days/",
+      "published": "2025-12-02T09:36:46+00:00",
+      "summary": "<p>Google warns that two out of the 107 vulnerabilities patched in Android this month have been exploited in limited, targeted attacks.</p>\n<p>The post <a href=\"https://www.securityweek.com/androids-december-2025-updates-patch-two-zero-days/\">Android&#8217;s December 2025 Updates Patch Two Zero-Days</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
@@ -1822,50 +1965,6 @@
       "url": "https://www.securityweek.com/french-soccer-federation-hit-by-cyberattack-member-data-stolen/",
       "published": "2025-11-28T14:39:14+00:00",
       "summary": "<p>According to the federation, the unauthorized access was carried out using a compromised account.</p>\n<p>The post <a href=\"https://www.securityweek.com/french-soccer-federation-hit-by-cyberattack-member-data-stolen/\">French Soccer Federation Hit by Cyberattack, Member Data Stolen</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "d15180d25b4d9061c29083b33aacfd9b648daf8e",
-      "title": "In Other News: HashJack AI Browser Attack, Charming Kitten Leak, Hacker Unmasked",
-      "url": "https://www.securityweek.com/in-other-news-hashjack-ai-browser-attack-charming-kitten-leak-hacker-unmasked/",
-      "published": "2025-11-28T10:24:24+00:00",
-      "summary": "<p>Other noteworthy stories that might have slipped under the radar: Scattered Spider members plead not guilty, TP-Link sues Netgear, Comcast agrees to $1.5 million fine.</p>\n<p>The post <a href=\"https://www.securityweek.com/in-other-news-hashjack-ai-browser-attack-charming-kitten-leak-hacker-unmasked/\">In Other News: HashJack AI Browser Attack, Charming Kitten Leak, Hacker Unmasked</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "8179e911fab8e79aaf6bef242a11b7d62bceac47",
-      "title": "Asahi Data Breach Impacts 2 Million Individuals",
-      "url": "https://www.securityweek.com/asahi-data-breach-impacts-2-million-individuals/",
-      "published": "2025-11-27T15:52:10+00:00",
-      "summary": "<p>Hackers stole the personal information of customers and employees before deploying ransomware and crippling Asahi\u2019s operations in Japan.</p>\n<p>The post <a href=\"https://www.securityweek.com/asahi-data-breach-impacts-2-million-individuals/\">Asahi Data Breach Impacts 2 Million Individuals</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "06e55b14b4be4e932d2e322a96b8ae1f25e697c6",
-      "title": "OpenAI User Data Exposed in Mixpanel Hack",
-      "url": "https://www.securityweek.com/openai-user-data-exposed-in-mixpanel-hack/",
-      "published": "2025-11-27T12:09:24+00:00",
-      "summary": "<p>Multiple Mixpanel customers were impacted by a recent cyberattack targeting the product analytics company.\u00a0</p>\n<p>The post <a href=\"https://www.securityweek.com/openai-user-data-exposed-in-mixpanel-hack/\">OpenAI User Data Exposed in Mixpanel Hack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "9e288d96254927e13b744f392f83fe15e96bd883",
-      "title": "Clover Security Raises $36 Million to Secure Software by Design",
-      "url": "https://www.securityweek.com/clover-security-raises-36-million-to-secure-software-by-design/",
-      "published": "2025-11-26T14:08:01+00:00",
-      "summary": "<p>The cybersecurity startup embeds AI agents into widely used tools to identify design flaws and eliminate them early.</p>\n<p>The post <a href=\"https://www.securityweek.com/clover-security-raises-36-million-to-secure-software-by-design/\">Clover Security Raises $36 Million to Secure Software by Design</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
