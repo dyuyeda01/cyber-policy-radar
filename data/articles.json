@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-03T00:43:51.833765+00:00",
+  "generated_at": "2025-12-03T12:18:24.427490+00:00",
   "items": [
     {
       "id": "d946b7a242f6926886d6607b7cbab30bd969a05a",
@@ -112,6 +112,39 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "695d7f7a62a75b6182a4842cc0cffdc2252b093a",
+      "title": "Chopping AI Down to Size: Turning Disruptive Technology into a Strategic Advantage",
+      "url": "https://thehackernews.com/2025/12/chopping-ai-down-to-size-turning.html",
+      "published": "2025-12-03T09:56:00+00:00",
+      "summary": "Most people know the story of Paul Bunyan. A giant lumberjack, a trusted axe, and a challenge from a machine that promised to outpace him. Paul doubled down on his old way of working, swung harder, and still lost by a quarter inch. His mistake was not losing the contest. His mistake was assuming that effort alone could outmatch a new kind of tool.\nSecurity professionals are facing a similar",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_4P5ELpACB-FnFxcCiCIcebpFFrXZIu9gkCjCAv4TAmaJTeIdo5zVIdwYukqu-MeZKQheSzmWFedSw-8-0gx5dOfbsdLNyMNglcp_etSWlTZpLuAZd00De4GbsAL-szGMm7P_wIbuM32IPuGGihYzTUJdQuFkOGuBcvFZCtaj2NoQgG4BCPvwfbJvvTk/s1600/ai-work.png"
+    },
+    {
+      "id": "40ecff9d841a47867ffd904814b1ea6931926505",
+      "title": "Picklescan Bugs Allow Malicious PyTorch Models to Evade Scans and Execute Code",
+      "url": "https://thehackernews.com/2025/12/picklescan-bugs-allow-malicious-pytorch.html",
+      "published": "2025-12-03T09:30:00+00:00",
+      "summary": "Three critical security flaws have been disclosed in an open-source utility called Picklescan that could allow malicious actors to execute arbitrary code by loading untrusted PyTorch models, effectively bypassing the tool's protections.\nPicklescan, developed and maintained by Matthieu Maitre (@mmaitre314), is a security scanner that's designed to parse Python pickle files and detect suspicious",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtJ6D3cf9n4d0wB-0nReoF_JEgEraaVECS6V41EWkvsqwoa8YOSI5EnrHQ2MBHew0VbYvNg1pXuVpV7OQKTDKH4IWhlqyPZnVjA7RcLW_drNT2MVy3jupLSFT2ePAxBj0GaI3z3tNd4E2-gCBisHYhFUWXzyXocF0wGQCCLjV5W4Wl8FS5gLJX2GlQdGRZ/s1600/pytorch.jpg"
+    },
+    {
+      "id": "2a880aa61bb49c08c2b0820a77c3347550bdfe88",
+      "title": "Malicious Rust Crate Delivers OS-Specific Malware to Web3 Developer Systems",
+      "url": "https://thehackernews.com/2025/12/malicious-rust-crate-delivers-os.html",
+      "published": "2025-12-03T08:39:00+00:00",
+      "summary": "Cybersecurity researchers have discovered a malicious Rust package that's capable of targeting Windows, macOS, and Linux systems, and features malicious functionality to stealthily execute on developer machines by masquerading as an Ethereum Virtual Machine (EVM) unit helper tool.\nThe Rust crate, named \"evm-units,\" was uploaded to crates.io in mid-April 2025 by a user named \"ablerust,\"",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhV7pMBv7FKpI1ZaejuUm5kIC7Q_Lw7E3o4mfaC-4dY33fF2IlNA7_dcRFmMKSmlyqxrfiZXlAee52u_-OzSTa2hiNLz961dUHKb6Khqw3YSFGIYS2mns-s1BjTRHAOiUBXKI7MM-WC5ydc4RZ0b64IPFvcu9dEFwypyyo4HHEnNqSwpoLVXRYGiewM4Tn6/s1600/crypto-rust.jpg"
+    },
+    {
       "id": "a07fba0e6d6c88441f1772e494e478adb4d10865",
       "title": "India Orders Messaging Apps to Work Only With Active SIM Cards to Prevent Fraud and Misuse",
       "url": "https://thehackernews.com/2025/12/india-orders-messaging-apps-to-work.html",
@@ -157,7 +190,7 @@
     },
     {
       "id": "afe74fc571818bd5be8b5859aac628189ebf0192",
-      "title": "Iran-Linked Hackers Hits Israeli Sectors with New MuddyViper Backdoor in Targeted Attacks",
+      "title": "Iran-Linked Hackers Hit Israeli Sectors with New MuddyViper Backdoor in Targeted Attacks",
       "url": "https://thehackernews.com/2025/12/iran-linked-hackers-hits-israeli_2.html",
       "published": "2025-12-02T13:37:00+00:00",
       "summary": "Israeli entities spanning academia, engineering, local government, manufacturing, technology, transportation, and utilities sectors have emerged as the target of a new set of attacks undertaken by Iranian nation-state actors that have delivered a previously undocumented backdoor called MuddyViper.\nThe activity has been attributed by ESET to a hacking group known as MuddyWater (aka Mango",
@@ -629,37 +662,26 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5fGdXpR7pCeJpEqPu004ib52NeUwcRAWg8rpaNjFnvLAKcXXAJlHX1A4sgAfLJGc08sUQdEJnmnmtTClxO75Mp2evzyrbHLmQdTx0O3UdCbzZdTJAY71PpCj0gweks8UQDik_IpkCA5Pzxe9p8YA7u2ct5k67kFvIqHs18JF6YHSmZTuYsVbZatTsUKZV/s1600/cyberattack.jpg"
     },
     {
-      "id": "f64ac0aa7f872bbe0c54e2f11042be48101b2dd1",
-      "title": "SEC Drops SolarWinds Case After Years of High-Stakes Cybersecurity Scrutiny",
-      "url": "https://thehackernews.com/2025/11/sec-drops-solarwinds-case-after-years.html",
-      "published": "2025-11-21T08:05:00+00:00",
-      "summary": "The U.S. Securities and Exchange Commission (SEC) has abandoned its lawsuit against SolarWinds and its chief information security officer, alleging that the company had misled investors about the security practices that led to the 2020 supply chain attack.\nIn a joint motion filed November 20, 2025, the SEC, along with SolarWinds and its CISO Timothy G. Brown, asked the court to voluntarily",
-      "source": "The Hacker News",
+      "id": "aaa66710153241e5007683fd806b226f6e326502",
+      "title": "China Researches Ways to Disrupt Satellite Internet",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/china-researches-ways-disrupt-satellite-internet",
+      "published": "2025-12-03T02:00:00+00:00",
+      "summary": "While satellite constellations\u00a0\u2014 such as Starlink \u2014 are resilient, 2,000 drones could cut communications to a region the size of Taiwan, researchers find.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbMvEKpOcEVwv6Ij_WSNiYkkN2wWOKLs16pD5v61b2ZqbuN2cadR1ZxO02SgX2XnVdKURTQwnC24frHCV28jknG_GC2hpjotuJIQB7ow6wCvsB-kguy5YJyr3MaTY-d3iMyIIfkWfhtYY3Re19kLkIXBXgBPtvINdqpmmtyBosGYfS9qjzmbNTSmPv2j_t/s1600/solarwinds.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6b77fbe45a055630/692f650ddb48104df183d103/satellite-in-space-Dima_Zel-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "8cbc7863f903f2e1ccfb1b7992a94a03e13206cd",
-      "title": "Salesforce Flags Unauthorized Data Access via Gainsight-Linked OAuth Activity",
-      "url": "https://thehackernews.com/2025/11/salesforce-flags-unauthorized-data.html",
-      "published": "2025-11-21T05:32:00+00:00",
-      "summary": "Salesforce has warned of detected \"unusual activity\" related to Gainsight-published applications connected to the platform.\n\"Our investigation indicates this activity may have enabled unauthorized access to certain customers\u2019 Salesforce data through the app's connection,\" the company said in an advisory.\nThe cloud services firm said it has taken the step of revoking all active access and refresh",
-      "source": "The Hacker News",
+      "id": "54ddbf078228871f81bed9d633891e4468a77517",
+      "title": "While ECH Adoption Is Low, Risks Remain for Enterprises, End Users",
+      "url": "https://www.darkreading.com/data-privacy/while-ech-adoption-is-low-risks-remain-for-enterprises-end-users",
+      "published": "2025-12-02T23:32:08+00:00",
+      "summary": "Is the new privacy protocol helping malicious actors more than Internet users?",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHdytMLXEXAyU2NJK6I9fULfbh3_5LHXiwqUiFrPD9dP1oEttB2sIbilhx2JTfRV70qGw9NTB4a4C3iqkAfnoR5m4lLxxKBNBWTI6DVQYP3wwHPQHFBkAec9GjKXpzFgMrne79uyQeVa31-yB4vx1nG3FDWsCj3ZHxxLUfk17qAx95t0IeqCSPVu47pILv/s1600/salesforce.jpg"
-    },
-    {
-      "id": "1681ac35bd7999d649f794f1eeb173318fae74e9",
-      "title": "ShadowRay 2.0 Exploits Unpatched Ray Flaw to Build Self-Spreading GPU Cryptomining Botnet",
-      "url": "https://thehackernews.com/2025/11/shadowray-20-exploits-unpatched-ray.html",
-      "published": "2025-11-20T17:24:00+00:00",
-      "summary": "Oligo Security has warned of ongoing attacks exploiting a two-year-old security flaw in the Ray open-source artificial intelligence (AI) framework to turn infected clusters with NVIDIA GPUs into a self-replicating cryptocurrency mining botnet.\nThe activity, codenamed ShadowRay 2.0, is an evolution of a prior wave that was observed between September 2023 and March 2024. The attack, at its core,",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjT14rn9vNidJuASiqy00Z9vRhL2TJTbX0JWycjYzO4IMjRmjIUXYYKPW_F9caqm4qWn0bA9iY9h9LN8ZaKhPI-IeWf2vpei5sHpskrH2L6OW-g5GpmbomdG-aTT9gswof2O4jhQJQyVEui8OmK4nJ72lRr92-8lcikB8w9w8V7z3xpQ8qYZaNkoSV8HMNn/s1600/clusture-hacking.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltcc6a66d8e943cf24/692fdcf7d2834637bd079948/blindfold-HA_Photos-alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "id": "22dac3b6fa9fedf41b030f85e21dec11b001ba18",
@@ -682,6 +704,17 @@
       "region": "North America",
       "country": "US",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt4c2ba9ee4c750918/692f418570c7a47616826666/Poetry_Books_Ian_M_Butterfield_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
+      "id": "76caa94da9fed9b204809512766f8ee4f7d6d81c",
+      "title": "New Raptor Framework Uses Agentic Workflows to Create Patches",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/new-raptor-framework-uses-agentic-ai-create-patches",
+      "published": "2025-12-02T15:16:26+00:00",
+      "summary": "Researchers utilized prompts and large language models to develop an open-source AI framework capable of generating both vulnerability exploits and patches.",
+      "source": "DarkReading",
+      "region": "North America",
+      "country": "US",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6b6befff69f22ee6/68f1512d0211fa55d5eb82f8/AI_agent_concept_Brain_light_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "id": "55ae2da84a7843a1ccf8b037e2eff371ac371a66",
@@ -1179,37 +1212,26 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb24a1e6038643a15/691c51f545c2c428067907c0/NPM-Araki-Illustrations-Alamy.png?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "e65b9dab5dd27f48cdb12e15257938859a599ca5",
-      "title": "Bug Bounty Programs Rise as Key Strategic Security Solutions",
-      "url": "https://www.darkreading.com/cybersecurity-operations/bug-bounty-programs-rise-as-key-strategic-security-solutions",
-      "published": "2025-11-18T16:38:19+00:00",
-      "summary": "Bug bounty programs create formal channels for organizations to leverage external security expertise, offering researchers legal protection and financial incentives for ethical vulnerability disclosure.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte167a3b3b53f76b7/690a4f0b0ef6e359c9434bcf/omdia-Elvia-finalle.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "id": "da7a6c39f07d3535a9e3de381117f0b697f586c9",
+      "title": "Here\u2019s your worst nightmare: E-tailer can only resume partial sales 45 days after ransomware attack",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2025/12/03/askul_partial_ransomware_recovery/",
+      "published": "2025-12-03T06:45:07+00:00",
+      "summary": "<h4>Japan\u2019s Askul still can\u2019t run all its sites, but at least the fax line held up OK</h4> <p>Japanese e-tailer Askul has resumed online sales, 45 days after a ransomware attack.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "2c438a0aa704775eb5a300914a3945931a934f0a",
-      "title": "New Startup Mate Launches With AI-Driven Security Operations Platform",
-      "url": "https://www.darkreading.com/cybersecurity-operations/new-startup-mate-launches-with-ai-driven-security-operations-platform",
-      "published": "2025-11-17T23:42:09+00:00",
-      "summary": "Security teams can combat alert fatigue, high rates of false positives, and reduce time spent on manual data collection with Mate's SOC platform, which utilizes AI agents to autonomously investigate and resolve alerts.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf5ae2981cb5cbc98/67a6074e7dd6537daef9a0fa/robot-army-laurent-davoust-alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
-      "id": "addf98b0ff848e530dc0985d75286e1cbc5f6cfb",
-      "title": "Critical Fortinet FortiWeb WAF Bug Exploited in the Wild",
-      "url": "https://www.darkreading.com/application-security/critical-fortinet-fortiweb-waf-bug-exploited-in-wild",
-      "published": "2025-11-17T21:10:01+00:00",
-      "summary": "The vulnerability could allow an unauthenticated attacker to remotely execute administrative commands.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte7827fec4e3931d2/691b81ef720d0a180aeb0dfb/fire_wall_Russell_Kord_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "id": "b492c864dcd6a9b7f03db8987ffd808302ad854c",
+      "title": "Indian government reveals GPS spoofing at eight major airports",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2025/12/03/india_gps_spoofing/",
+      "published": "2025-12-03T02:56:48+00:00",
+      "summary": "<h4>Extra infosec investments are taxiing towards the runway</h4> <p>India\u2019s Civil Aviation Minister has revealed that local authorities have detected GPS spoofing and jamming at eight major airports.\u2026</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
       "id": "136af92ed95623b2fba1081d1b43281c50502894",
@@ -1740,28 +1762,6 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "f359ac430ca66fad50e3e78a56cac90b6e428f34",
-      "title": "Championing Cyber Security: the National UK Cyber Team's Journey at the European Cyber Security Challenge",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/11/24/championing-cyber-security-sans/",
-      "published": "2025-11-24T09:00:13+00:00",
-      "summary": "<h4>Reflections on Coaching, Collaboration, and the Pursuit of Excellence in Cyber Security</h4> <p><strong>Partner Content</strong>\u00a0 From 6th to 10th October 2025, ten exceptional cyber enthusiasts proudly flew the flag for the United Kingdom in the European Cyber Security Challenge (ECSC), held this year in the vibrant setting of Poland.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "f7e10d4f875fa59f6a829f5470e666c69abbf780",
-      "title": "Cryptology boffins\u2019 association to re-run election after losing encryption key needed to count votes",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/11/24/cryptologic_research_election_rerun/",
-      "published": "2025-11-24T05:43:21+00:00",
-      "summary": "<h4>The shoemaker\u2019s children have new friends</h4> <p>The International Association for Cryptologic Research will run a second election for new board members and other officers, after it was unable to complete its first poll due to a lost encryption key.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
       "id": "fdd42e13e1b6d7a95d618e6e06ebe1501f9e341d",
       "title": "Meet Rey, the Admin of \u2018Scattered Lapsus$ Hunters\u2019",
       "url": "https://krebsonsecurity.com/2025/11/meet-rey-the-admin-of-scattered-lapsus-hunters/",
@@ -1850,6 +1850,61 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "c953ecbc2b5d2a805ecbad9c15f5f3b87a29c413",
+      "title": "ServiceNow to Acquire Identity Security Firm Veza in Reported $1 Billion Deal",
+      "url": "https://www.securityweek.com/servicenow-to-acquire-identity-security-firm-veza-in-reported-1-billion-deal/",
+      "published": "2025-12-03T12:01:59+00:00",
+      "summary": "<p>Veza Security was recently valued at more than $800 million after raising $108 million in Series D funding.</p>\n<p>The post <a href=\"https://www.securityweek.com/servicenow-to-acquire-identity-security-firm-veza-in-reported-1-billion-deal/\">ServiceNow to Acquire Identity Security Firm Veza in Reported $1 Billion Deal\u00a0</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "86114d0fc45c4a3abcbe54e9e4556965777596c1",
+      "title": "Penn and Phoenix Universities Disclose Data Breach After Oracle Hack",
+      "url": "https://www.securityweek.com/penn-and-phoenix-universities-disclose-data-breach-after-oracle-hack/",
+      "published": "2025-12-03T11:30:00+00:00",
+      "summary": "<p>The University of Pennsylvania and the University of Phoenix confirm that they are victims of the recent Oracle EBS hacking campaign.</p>\n<p>The post <a href=\"https://www.securityweek.com/penn-and-phoenix-universities-disclose-data-breach-after-oracle-hack/\">Penn and Phoenix Universities Disclose Data Breach After Oracle Hack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "31cdbe8a93d2f0712cb6d4736c5a2a552559088a",
+      "title": "re:Invent 2025: AWS and Security Vendors Unveil New Products and Capabilities",
+      "url": "https://www.securityweek.com/reinvent-2025-aws-and-security-vendors-unveil-new-products-and-capabilities/",
+      "published": "2025-12-03T11:00:00+00:00",
+      "summary": "<p>AWS and cybersecurity vendors have made several announcements at the cloud giant\u2019s re:Invent 2025 event.\u00a0</p>\n<p>The post <a href=\"https://www.securityweek.com/reinvent-2025-aws-and-security-vendors-unveil-new-products-and-capabilities/\">re:Invent 2025: AWS and Security Vendors Unveil New Products and Capabilities\u00a0</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "b7abf746c26d13a518e0e5361f4b44e682595c1a",
+      "title": "Microsoft Silently Mitigated Exploited LNK Vulnerability",
+      "url": "https://www.securityweek.com/microsoft-silently-mitigated-exploited-lnk-vulnerability/",
+      "published": "2025-12-03T10:50:31+00:00",
+      "summary": "<p>Windows now displays in the properties tab of LNK files critical information that could reveal malicious code.</p>\n<p>The post <a href=\"https://www.securityweek.com/microsoft-silently-mitigated-exploited-lnk-vulnerability/\">Microsoft Silently Mitigated Exploited LNK Vulnerability</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "cd3a9cb2cb72d1a0133e79e163ce3ba4318b4a5a",
+      "title": "Chrome 143 Patches High-Severity Vulnerabilities",
+      "url": "https://www.securityweek.com/chrome-143-patches-high-severity-vulnerabilities/",
+      "published": "2025-12-03T08:48:33+00:00",
+      "summary": "<p>Chrome 143 stable was released with patches for 13 vulnerabilities, including a high-severity flaw in the V8 JavaScript engine.</p>\n<p>The post <a href=\"https://www.securityweek.com/chrome-143-patches-high-severity-vulnerabilities/\">Chrome 143 Patches High-Severity Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "1341bef61526a38f55c5bcaf8e81542738b38ddb",
       "title": "Zafran Security Raises $60 Million in Series C Funding",
       "url": "https://www.securityweek.com/zafran-security-raises-60-million-in-series-c-funding/",
@@ -1899,61 +1954,6 @@
       "url": "https://www.securityweek.com/vulnerability-in-openai-coding-agent-could-facilitate-attacks-on-developers/",
       "published": "2025-12-02T12:02:32+00:00",
       "summary": "<p>The Codex CLI vulnerability tracked as CVE-2025-61260 can be exploited for command execution.</p>\n<p>The post <a href=\"https://www.securityweek.com/vulnerability-in-openai-coding-agent-could-facilitate-attacks-on-developers/\">Vulnerability in OpenAI Coding Agent Could Facilitate Attacks on Developers</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "c666de1d230faa46ed3304ff2b4307938d24829c",
-      "title": "Personal Information of 33.7 Million Stolen From Coupang",
-      "url": "https://www.securityweek.com/personal-information-of-33-7-million-stolen-from-coupang/",
-      "published": "2025-12-02T10:38:59+00:00",
-      "summary": "<p>Names, addresses, email addresses, and phone numbers were compromised in a five-month-long data breach.</p>\n<p>The post <a href=\"https://www.securityweek.com/personal-information-of-33-7-million-stolen-from-coupang/\">Personal Information of 33.7 Million Stolen From Coupang</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "c5db38e88a44cdcdb3d315936fd9a3287f61eacf",
-      "title": "Android Zero-Days Patched in December 2025 Security Update",
-      "url": "https://www.securityweek.com/androids-december-2025-updates-patch-two-zero-days/",
-      "published": "2025-12-02T09:36:46+00:00",
-      "summary": "<p>Google warns that two out of the 107 vulnerabilities patched in Android this month have been exploited in limited, targeted attacks.</p>\n<p>The post <a href=\"https://www.securityweek.com/androids-december-2025-updates-patch-two-zero-days/\">Android Zero-Days Patched in December 2025 Security Update</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "780e8b1281d7fcf13cabf67c9b0f84447302d48d",
-      "title": "Facial Recognition\u2019s Trust Problem",
-      "url": "https://www.securityweek.com/facial-recognitions-trust-problem/",
-      "published": "2025-12-01T16:00:00+00:00",
-      "summary": "<p>Two technologies \u2014 one for public safety, one for controlled entry \u2014 show why trust in facial recognition must be earned, not assumed.</p>\n<p>The post <a href=\"https://www.securityweek.com/facial-recognitions-trust-problem/\">Facial Recognition\u2019s Trust Problem</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "6cb3f529041c7ad36e40aa939743b148a1d1c017",
-      "title": "$29 Million Worth of Bitcoin Seized in Cryptomixer Takedown",
-      "url": "https://www.securityweek.com/29-million-worth-of-bitcoin-seized-in-cryptomixer-takedown/",
-      "published": "2025-12-01T15:37:35+00:00",
-      "summary": "<p>Cryptomixer was targeted by law enforcement in Operation Olympia for facilitating cybercrime and money laundering.\u00a0</p>\n<p>The post <a href=\"https://www.securityweek.com/29-million-worth-of-bitcoin-seized-in-cryptomixer-takedown/\">$29 Million Worth of Bitcoin Seized in Cryptomixer Takedown</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "9eb454881f8447ef9c1df2a9cd9a103c10605a38",
-      "title": "New Albiriox Android Malware Developed by Russian Cybercriminals",
-      "url": "https://www.securityweek.com/new-albiriox-android-malware-developed-by-russian-cybercriminals/",
-      "published": "2025-12-01T14:31:12+00:00",
-      "summary": "<p>Albiriox is a banking trojan offered under a malware-as-a-service model for $720 per month.</p>\n<p>The post <a href=\"https://www.securityweek.com/new-albiriox-android-malware-developed-by-russian-cybercriminals/\">New Albiriox Android Malware Developed by Russian Cybercriminals</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
