@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-04T00:44:28.490877+00:00",
+  "generated_at": "2025-12-04T12:18:47.835100+00:00",
   "items": [
     {
       "id": "fd0a91ecffdca2182bb5091c2d3fd7a0199ac779",
@@ -112,11 +112,44 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "07618d843fa95ec27771c799c80a3f15df9c5f99",
+      "title": "5 Threats That Reshaped Web Security This Year [2025]",
+      "url": "https://thehackernews.com/2025/12/5-threats-that-reshaped-web-security.html",
+      "published": "2025-12-04T11:30:00+00:00",
+      "summary": "As 2025 draws to a close, security professionals face a sobering realization: the traditional playbook for web security has become dangerously obsolete. AI-powered attacks, evolving injection techniques, and supply chain compromises affecting hundreds of thousands of websites forced a fundamental rethink of defensive strategies.\nHere are the five threats that reshaped web security this year, and",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQ51hMVtHfFQ2O7pCZYfK5WkypXg1Qury_AA_VudY5f_n7u8S8M4UJAy76w7DM1aBq1faDyuaOO4VJP7bIj1L1-AgNzZjQf0-kZlhU6kH-G4qDMkZFF_7YsL3v5R6d9PkpJcTegD7H01BySWNNs-m5toA_DTqVSVs-sCeLm5n1zJuLzs1_erWdl8asq4k/s1600/reflectiz.jpg"
+    },
+    {
+      "id": "f60ea287aa441779424895f852048ec4bf93159d",
+      "title": "GoldFactory Hits Southeast Asia with Modified Banking Apps Driving 11,000+ Infections",
+      "url": "https://thehackernews.com/2025/12/goldfactory-hits-southeast-asia-with.html",
+      "published": "2025-12-04T09:27:00+00:00",
+      "summary": "Cybercriminals associated with a financially motivated group known as GoldFactory have been observed staging a fresh round of attacks targeting mobile users in Indonesia, Thailand, and Vietnam by impersonating government services.\nThe activity, observed since October 2024, involves distributing modified banking applications that act as a conduit for Android malware, Group-IB said in a technical",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGcQU24FhOc1wko8l0tnt5dDp4T51lLr4nWnciANW8dt5IcWx6j-aj3JoRCtjs2PYSy8wjOjoeHPajxBtiEsq0rGgxcKkZwibmLjh2UXZNA07Fwf75-ArzM0Yyodf2RjHqx9rsKlQJhH5ewcXMM8srmlmIWHjbdvTnz4JGF3qNZ0p6jFOw1mapv2_6zlhG/s1600/banking-apps.jpg"
+    },
+    {
+      "id": "2fb97fb6681b1fb7a905be2a96a0230d0d7be615",
+      "title": "Record 29.7 Tbps DDoS Attack Linked to AISURU Botnet with up to 4 Million Infected Hosts",
+      "url": "https://thehackernews.com/2025/12/record-297-tbps-ddos-attack-linked-to.html",
+      "published": "2025-12-04T06:52:00+00:00",
+      "summary": "Cloudflare on Wednesday said it detected and mitigated the largest ever distributed denial-of-service (DDoS) attack that measured at 29.7 terabits per second (Tbps).\nThe activity, the web infrastructure and security company said, originated from a DDoS botnet-for-hire known as AISURU, which has been linked to a number of hyper-volumetric DDoS attacks over the past year. The attack lasted for 69",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1uVFOoC-TzuWi5Bb4KrNtzUoUwXcRYquCvI_r7-6qu1622KSN6NMDm7YV17AdFd0FF7NIko4bfmivUTNFnBkvumQvYR5Qv0VX4AUVBIQb6jSEM0ARDcEpYw2DU53Ew8dx0zQjm1kfrlBoOlrBn2NWnc3oNeyEgyGC-1pEVkF5-8tmYU4gJIciT6sopGgX/s1600/massive-ddos-attack.jpg"
+    },
+    {
       "id": "6fd2aab019d7b14efc14e82fd405e3093d08b0ca",
       "title": "Critical RSC Bugs in React and Next.js Allow Unauthenticated Remote Code Execution",
       "url": "https://thehackernews.com/2025/12/critical-rsc-bugs-in-react-and-nextjs.html",
       "published": "2025-12-03T18:19:00+00:00",
-      "summary": "A maximum-severity security flaw has been disclosed in React Server Components (RSC) that, if successfully exploited, could result in remote code execution.\nThe vulnerability, tracked as CVE-2025-55182, carries a CVSS score of 10.0.\nIt allows \"unauthenticated remote code execution by exploiting a flaw in how React decodes payloads sent to React Server Function endpoints,\" the React Team said in",
+      "summary": "A maximum-severity security flaw has been disclosed in React Server Components (RSC) that, if successfully exploited, could result in remote code execution.\nThe vulnerability, tracked as CVE-2025-55182, carries a CVSS score of 10.0. The vulnerability has been codenamed React2shell.\nIt allows \"unauthenticated remote code execution by exploiting a flaw in how React decodes payloads sent to React",
       "source": "The Hacker News",
       "region": "North America",
       "country": "US",
@@ -629,37 +662,15 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEjQ9rfA8Zp1EdwbbQFYvDatH7IMcqNuAoSBVo1iQqGJydHnGv_87nJSCjLWDtn__fr9-dkGA8qAP4GmcKUP5PcbXorNWwQu9LInQuVansUCmGFVBRD8wkpApqIxUGjlu_wUiwNsr_0dOsHtpsBlpT6J0dNUzDtuOwmu9wnxFj211ockWC6ONvRZMlJKzy/s1600/deep.jpg"
     },
     {
-      "id": "093a92af20c0bc172060a2e8367018613051a5f2",
-      "title": "ShadowPad Malware Actively Exploits WSUS Vulnerability for Full System Access",
-      "url": "https://thehackernews.com/2025/11/shadowpad-malware-actively-exploits.html",
-      "published": "2025-11-24T07:18:00+00:00",
-      "summary": "A recently patched security flaw in Microsoft Windows Server Update Services (WSUS) has been exploited by threat actors to distribute a malware known as ShadowPad.\n\"The attacker targeted Windows Servers with WSUS enabled, exploiting CVE-2025-59287 for initial access,\" AhnLab Security Intelligence Center (ASEC) said in a report published last week. \"They then used PowerCat, an open-source",
-      "source": "The Hacker News",
+      "id": "beb32a78b2371df463590c198ee0db5358eb1ea3",
+      "title": "'MuddyWater' Hackers Target Israeli Orgs With Retro Game Tactic",
+      "url": "https://www.darkreading.com/threat-intelligence/muddywater-hackers-israeli-orgs-retro-game",
+      "published": "2025-12-04T07:00:00+00:00",
+      "summary": "Iran's top state-sponsored APT is usually rather crass. But in a recent spate of attacks, it tried out some interesting evasion tactics, including delving into Snake, an old-school mobile game.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxsc39x1yPzs57au9zzIKqs081R7HZ521J-VDrW9yrbGPCDk0hCt2xIw1jHy62-fL1_v756qJ3R2SvosttSiIfee3RvUKC_HxaigGk_iff0fV0BkU9-_H43EDjx17pdxkEcqqIZ3yngeK0EeePmiTozzbGUPgSBwA__DD_Wx1p5ys93MNQEmFtscjKIdAq/s1600/windows.jpg"
-    },
-    {
-      "id": "697e79ab41a1ac396ac6130fc99108bba3181157",
-      "title": "China-Linked APT31 Launches Stealthy Cyberattacks on Russian IT Using Cloud Services",
-      "url": "https://thehackernews.com/2025/11/china-linked-apt31-launches-stealthy.html",
-      "published": "2025-11-22T15:19:00+00:00",
-      "summary": "The China-linked advanced persistent threat (APT) group known as APT31 has been attributed to cyber attacks targeting the Russian information technology (IT) sector between 2024 and 2025 while staying undetected for extended periods of time.\n\"In the period from 2024 to 2025, the Russian IT sector, especially companies working as contractors and integrators of solutions for government agencies,",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0ApbbGy1VeM3uMCY8dVuTIzKS2QJ1wsy4n57G1cLRnEfWcZ2UIsRx8AhTUv8lqBkZb3CQPhalZOTRXo1E8A8LR8EHjecR51E7dgfDI_mHhTYmYulkhNmv82ET56xgGl3qaT7so9t02M3e1JB9pxi_0HCX9cRYUP7qPn9wAg9Yv3JBDj8zpY7bPRuO41rc/s1600/russia.jpg"
-    },
-    {
-      "id": "b58a47d3efafff2131d33b5f20636fa9c64a10cc",
-      "title": "Matrix Push C2 Uses Browser Notifications for Fileless, Cross-Platform Phishing Attacks",
-      "url": "https://thehackernews.com/2025/11/matrix-push-c2-uses-browser.html",
-      "published": "2025-11-22T06:47:00+00:00",
-      "summary": "Bad actors are leveraging browser notifications as a vector for phishing attacks to distribute malicious links by means of a new command-and-control (C2) platform called Matrix Push C2.\n\"This browser-native, fileless framework leverages push notifications, fake alerts, and link redirects to target victims across operating systems,\" Blackfog researcher Brenda Robb said in a Thursday report.\nIn",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8zV9hPvOUBQV7bQvL21L0QPcaCbKUW3y1D4puHbsR7Ig3KTf_8W7V52Gs4drcN6P7Ss49eYUSYcC13N10xBKUzA8Pr1cmBpzbUbO5t31wLs9b-Vk1XAxdO5BWz9RxGUsFrSlTPKMKefHVtCI6zkkv-y85B7bPdPQBQkxq78PcrUQQjrfXNLRIsnBwFUeD/s1600/mat-c2.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc9baa8891b84c6b8/69307fe600d62c0cfd4cee12/Snake_game-Designtegrator-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "id": "284ecb421ad46ce7b896f1fb1779ee45f9e8c5bb",
@@ -1201,15 +1212,26 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte9f1aac150228a24/691dafdec761fbbec783c05a/cloudflare1800_ZUMA_Press_Inc._alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "fdf21272b12772eb90060d0d585357434216a0df",
-      "title": "Critical Railway Braking Systems Open to Tampering",
-      "url": "https://www.darkreading.com/ics-ot-security/critical-railway-braking-systems-tampering",
-      "published": "2025-11-19T14:00:00+00:00",
-      "summary": "It only takes recycled cans, copper, and cheap gadgets off the Web to trick a train conductor into doing something dangerous.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc068f4477738319d/691cd55ae16a280b60a7611e/Toy_train_crash-PRILL_Mediendesign-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "id": "a8bbac68acd3b9ec608e79348d235811feff426d",
+      "title": "TLS 1.3 includes welcome improvements, but still allows long-lived secrets",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2025/12/04/tls_13_includes_welcome_improvements/",
+      "published": "2025-12-04T04:30:07+00:00",
+      "summary": "<h4>Tricky tradeoffs are hard to avoid when designing systems, but the choice not to use LLMs for some tasks is clear</h4> <p><strong>Systems Approach</strong>\u00a0 As we neared the finish line for our <a href=\"https://systemsapproach.org/books-html/#securitybook\">network security book</a>, I received a piece of feedback from Brad Karp that my explanation of forward secrecy in the chapter on <a href=\"https://security.systemsapproach.org/tls.html\">TLS</a> (Transport Layer Security) was not quite right.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "daba4160e6ed67be7e65c8c8f8ea5134a363b6d1",
+      "title": "Rust core library partly polished for industrial safety spec",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2025/12/04/rust_core_library_partly_polished/",
+      "published": "2025-12-04T01:11:12+00:00",
+      "summary": "<h4>Ferrous Systems achieves IEC 61508 (SIL 2) certification for systems that demand reliability</h4> <p>Memory-safe Rust code can now be more broadly applied in devices that require electronic system safety, at least as measured by International Electrotechnical Commission (IEC) standards.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
       "id": "1a0369570c7b25e2f11d589959b467780c7ca89c",
@@ -1740,28 +1762,6 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "15a11b9ebc8b692f7eb697b50bed5fe2d790608d",
-      "title": "Shai-Hulud worm returns, belches secrets to 25K GitHub repos",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/11/24/shai_hulud_npm_worm/",
-      "published": "2025-11-24T14:08:37+00:00",
-      "summary": "<h4>Trojanized npm packages spread new variant that executes in pre-install phase, hitting thousands within days</h4> <p>A self-propagating malware targeting node package managers (npm) is back for a second round, according to Wiz researchers who say that more than 25,000 developers had their secrets compromised within three days.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "1f8fd5aa2e2487d0b53584bc403b0800e517565f",
-      "title": "FCC guts post-Salt Typhoon telco rules despite ongoing espionage risk",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/11/24/fcc_salt_typhoon_rules/",
-      "published": "2025-11-24T13:14:05+00:00",
-      "summary": "<h4>Months after China-linked spies burrowed into US networks, regulator tears up its own response</h4> <p>The Federal Communications Commission (FCC) has scrapped a set of telecom cybersecurity rules introduced after the Salt Typhoon espionage campaign, reversing course on measures designed to stop state-backed snoops from slipping back into America's networks.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
       "id": "fdd42e13e1b6d7a95d618e6e06ebe1501f9e341d",
       "title": "Meet Rey, the Admin of \u2018Scattered Lapsus$ Hunters\u2019",
       "url": "https://krebsonsecurity.com/2025/11/meet-rey-the-admin-of-scattered-lapsus-hunters/",
@@ -1850,6 +1850,39 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "82d334df60c935c0d1c6c89cb4b77eb4e86af090",
+      "title": "Personal Information Compromised in Freedom Mobile Data Breach",
+      "url": "https://www.securityweek.com/personal-information-compromised-in-freedom-mobile-data-breach/",
+      "published": "2025-12-04T11:58:49+00:00",
+      "summary": "<p>Freedom Mobile says hackers stole customers\u2019 personal information from its account management platform.</p>\n<p>The post <a href=\"https://www.securityweek.com/personal-information-compromised-in-freedom-mobile-data-breach/\">Personal Information Compromised in Freedom Mobile Data Breach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "9f20c162ca3909c8e42971e9322a8b90b69b1f70",
+      "title": "Marquis Data Breach Impacts Over 780,000 People",
+      "url": "https://www.securityweek.com/marquis-data-breach-impacts-over-780000-people/",
+      "published": "2025-12-04T11:13:42+00:00",
+      "summary": "<p>The compromised personal and financial information includes names, addresses, Social Security numbers, and card numbers.</p>\n<p>The post <a href=\"https://www.securityweek.com/marquis-data-breach-impacts-over-780000-people/\">Marquis Data Breach Impacts Over 780,000 People</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "2694fc9abb859e34eb65177f4524a03a095447ae",
+      "title": "React2Shell: In-the-Wild Exploitation Expected for Critical React Vulnerability",
+      "url": "https://www.securityweek.com/react2shell-in-the-wild-exploitation-expected-for-critical-react-vulnerability/",
+      "published": "2025-12-04T10:06:35+00:00",
+      "summary": "<p>A researcher has pointed out that only instances using a newer feature are impacted by CVE-2025-55182.</p>\n<p>The post <a href=\"https://www.securityweek.com/react2shell-in-the-wild-exploitation-expected-for-critical-react-vulnerability/\">React2Shell: In-the-Wild Exploitation Expected for Critical React Vulnerability</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "d231cde4427d6071608606712dc53b58cd93f5e9",
       "title": "Niobium Raises $23 Million for FHE Hardware Acceleration",
       "url": "https://www.securityweek.com/niobium-raises-23-million-for-fhe-hardware-acceleration/",
@@ -1921,39 +1954,6 @@
       "url": "https://www.securityweek.com/microsoft-silently-mitigated-exploited-lnk-vulnerability/",
       "published": "2025-12-03T10:50:31+00:00",
       "summary": "<p>Windows now displays in the properties tab of LNK files critical information that could reveal malicious code.</p>\n<p>The post <a href=\"https://www.securityweek.com/microsoft-silently-mitigated-exploited-lnk-vulnerability/\">Microsoft Silently Mitigated Exploited LNK Vulnerability</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "cd3a9cb2cb72d1a0133e79e163ce3ba4318b4a5a",
-      "title": "Chrome 143 Patches High-Severity Vulnerabilities",
-      "url": "https://www.securityweek.com/chrome-143-patches-high-severity-vulnerabilities/",
-      "published": "2025-12-03T08:48:33+00:00",
-      "summary": "<p>Chrome 143 stable was released with patches for 13 vulnerabilities, including a high-severity flaw in the V8 JavaScript engine.</p>\n<p>The post <a href=\"https://www.securityweek.com/chrome-143-patches-high-severity-vulnerabilities/\">Chrome 143 Patches High-Severity Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "1341bef61526a38f55c5bcaf8e81542738b38ddb",
-      "title": "Zafran Security Raises $60 Million in Series C Funding",
-      "url": "https://www.securityweek.com/zafran-security-raises-60-million-in-series-c-funding/",
-      "published": "2025-12-02T16:49:10+00:00",
-      "summary": "<p>The cybersecurity startup will use the investment to accelerate product innovation and global expansion.</p>\n<p>The post <a href=\"https://www.securityweek.com/zafran-security-raises-60-million-in-series-c-funding/\">Zafran Security Raises $60 Million in Series C Funding</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "a780a883bef33e47edb9ba7127783e0d11007f38",
-      "title": "The Great Disconnect: Unmasking the \u2018Two Separate Conversations\u2019 in Security",
-      "url": "https://www.securityweek.com/the-great-disconnect-unmasking-the-two-separate-conversations-in-security/",
-      "published": "2025-12-02T14:30:00+00:00",
-      "summary": "<p>When familiar security concepts carry unfamiliar meanings for different audiences, teams talk past each other without even realizing it. This silent disconnect weakens communication, clarity, and outcomes.</p>\n<p>The post <a href=\"https://www.securityweek.com/the-great-disconnect-unmasking-the-two-separate-conversations-in-security/\">The Great Disconnect: Unmasking the &#8216;Two Separate Conversations&#8217; in Security</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
