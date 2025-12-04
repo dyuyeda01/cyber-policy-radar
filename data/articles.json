@@ -1,6 +1,39 @@
 {
-  "generated_at": "2025-12-03T12:18:24.427490+00:00",
+  "generated_at": "2025-12-04T00:44:28.490877+00:00",
   "items": [
+    {
+      "id": "fd0a91ecffdca2182bb5091c2d3fd7a0199ac779",
+      "title": "CISA eliminates pay incentives as it changes how it retains top cyber talent",
+      "url": "https://www.cybersecuritydive.com/news/cisa-eliminate-cyber-pay-incentives-ctms/806981/",
+      "published": "2025-12-03T20:30:10+00:00",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/p1t777lvRYTMuNm-9ZruuRPB3bo1Gk03gNobbnqCDZc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9DSVNBX2hlYWRlci5qcGc=.webp\" /></div></figure><p>Program that auditors described as poorly managed is scrapped as the agency expands another recruitment tool.</p>\n\n<p>&nbsp;</p>",
+      "source": "Cybersecurity Dive",
+      "region": "North America",
+      "country": "US",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "5c89a75453db60eee73b6e49f2cccc81e7a7e540",
+      "title": "DDoS attack volume rises in Q3 as Aisuru botnet fuels record-setting attacks",
+      "url": "https://www.cybersecuritydive.com/news/ddos-rises-q3-aisuru-botnet-record-attack/806922/",
+      "published": "2025-12-03T16:09:30+00:00",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/Kzr8GthN6QMuB-peSp_6CJRNN90Nx3ebaqes-q7bWkE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjI0OTY4NDM5LmpwZw==.webp\" /></div></figure><p>A report by Cloudflare also shows a surge in attacks targeting AI companies.</p>",
+      "source": "Cybersecurity Dive",
+      "region": "North America",
+      "country": "US",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "de08d4e2bd22629e0a457f39397e29a6506c4e08",
+      "title": "Leading surveillance camera vendor signs CISA\u2019s product-security pledge",
+      "url": "https://www.cybersecuritydive.com/news/surveillance-camera-axis-signs-cisa-security-pledge/806907/",
+      "published": "2025-12-03T15:25:46+00:00",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/WXAK63LZdqINy6lRcb-gZY9ikFvhW-rFJN8wlweIG4A/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy00ODkyNTE2MDAuanBn.webp\" /></div></figure><p>Axis Communications is the first major surveillance camera maker to vow to adhere to CISA&rsquo;s security guidelines.</p>",
+      "source": "Cybersecurity Dive",
+      "region": "North America",
+      "country": "US",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
     {
       "id": "d946b7a242f6926886d6607b7cbab30bd969a05a",
       "title": "Fortinet FortiWeb flaws found in unsupported versions of web application firewall",
@@ -79,37 +112,59 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "6f57564a550f2464ef5de5d728d76e4cd021dc8d",
-      "title": "Microsoft tightens cloud login process to prevent common attack",
-      "url": "https://www.cybersecuritydive.com/news/microsoft-change-cloud-login-entra-id-xss/806556/",
-      "published": "2025-11-26T15:38:39+00:00",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/NIh38gtVLKLAb1jllq3qZ3_UARlmP-h-WGdY1ce8kvg/g:nowe:1:0/c:2998:1694/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjA3ODA0MDg0LmpwZw==.webp\" /></div></figure><p>Hackers have spent decades exploiting a ubiquitous type of vulnerability. Microsoft is trying to change that.</p>",
-      "source": "Cybersecurity Dive",
+      "id": "6fd2aab019d7b14efc14e82fd405e3093d08b0ca",
+      "title": "Critical RSC Bugs in React and Next.js Allow Unauthenticated Remote Code Execution",
+      "url": "https://thehackernews.com/2025/12/critical-rsc-bugs-in-react-and-nextjs.html",
+      "published": "2025-12-03T18:19:00+00:00",
+      "summary": "A maximum-severity security flaw has been disclosed in React Server Components (RSC) that, if successfully exploited, could result in remote code execution.\nThe vulnerability, tracked as CVE-2025-55182, carries a CVSS score of 10.0.\nIt allows \"unauthenticated remote code execution by exploiting a flaw in how React decodes payloads sent to React Server Function endpoints,\" the React Team said in",
+      "source": "The Hacker News",
       "region": "North America",
       "country": "US",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9GCiRWt_nzpetB4rbxY-IEBdnQfX50gIjlg82on8OkM-tBrMv_Mt6xTu_yEom3CAZt_KHo0CL5S3siR207cZmw839M_l9Oply6KnuHYelRsMMAqKDhDA0HqnsedjHhsfv6ng77Ah7YPkIZ-Cd3ZuDMqSM8oftGAJ4TaauI9n231fOjCi17uSgWY-Jd9U_/s1600/nextjs-react.jpg"
     },
     {
-      "id": "1d76d17e5b5debc1309991d282825de25994750a",
-      "title": "CISA urges mobile security as it warns of sophisticated spyware attacks",
-      "url": "https://www.cybersecuritydive.com/news/cisa-spyware-alert-messaging-apps-security-warning/806429/",
-      "published": "2025-11-25T16:22:23+00:00",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/VZY068lREoCyeA78D9FW6oFlZJ1sIPMrFge30aCcFqg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjQ2MTQwNjU4LmpwZw==.webp\" /></div></figure><p>The agency&rsquo;s rare warning about spyware activity comes as it updated mobile security guidance to reflect evolving threats.</p>",
-      "source": "Cybersecurity Dive",
+      "id": "98688a89b2b89a3f0a99b28bd7382ef3f4ed6480",
+      "title": "Discover the AI Tools Fueling the Next Cybercrime Wave \u2014 Watch the Webinar",
+      "url": "https://thehackernews.com/2025/12/discover-ai-tools-fueling-next.html",
+      "published": "2025-12-03T17:56:00+00:00",
+      "summary": "Remember when phishing emails were easy to spot? Bad grammar, weird formatting, and requests from a \"Prince\" in a distant country?\nThose days are over.\nToday, a 16-year-old with zero coding skills and a $200 allowance can launch a campaign that rivals state-sponsored hackers. They don't need to be smart; they just need to subscribe to the right AI tool.\nWe are witnessing the industrialization of",
+      "source": "The Hacker News",
       "region": "North America",
       "country": "US",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxESPxb37jzd_NrYS5eE_3cpBnlkxGqHJXXIQie1ZOae6cudWSMn8s8AM6E0npcrXT21zyDMA7h_StlMrfO7uHYBHHjtxKGJUuzN-QzlYNJjVo9eKzETAg1ORiJ8HWMTHoe4ME37KRf5QYSw8RmbFo8WoL28T2__Vg8VDuqO7Mq3LZ7Ao_oYdtWZjD6e3n/s1600/ai-hacking.jpg"
     },
     {
-      "id": "4482f08c9845c0387f810f64267cb57997b2afea",
-      "title": "Russia-aligned hackers target US company in attack linked to Ukraine war effort",
-      "url": "https://www.cybersecuritydive.com/news/russia-hackers-us-company-attack-ukraine-war/806423/",
-      "published": "2025-11-25T15:34:16+00:00",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/zNAZfAmDRhhlMAJ-UnM8x_ytURoM2eugJpDA-iMEza0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzg5OTQzNTI4LmpwZw==.webp\" /></div></figure><p>A threat group called RomCom has a history of cyberattacks against entities connected to the conflict.</p>",
-      "source": "Cybersecurity Dive",
+      "id": "b63ae39c1402b2a6e680780c26ff5cbcb068f284",
+      "title": "Microsoft Silently Patches Windows LNK Flaw After Years of Active Exploitation",
+      "url": "https://thehackernews.com/2025/12/microsoft-silently-patches-windows-lnk.html",
+      "published": "2025-12-03T17:46:36+00:00",
+      "summary": "Microsoft has silently plugged a security flaw that has been exploited by several threat actors since 2017 as part of the company's November 2025 Patch Tuesday updates, according to ACROS Security's 0patch.\nThe vulnerability in question is CVE-2025-9491 (CVSS score: 7.8/7.0), which has been described as a Windows Shortcut (LNK) file UI misinterpretation vulnerability that could lead to remote",
+      "source": "The Hacker News",
       "region": "North America",
       "country": "US",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJ8lCeyLFyNZFfUBtMHvZcuBWjl0_wMxa6EDvL0yCJ56HtMZpYr20dgnTcKGDcgf7OHdxi-yN5eipnPsbVM9oMYLpGAvj3nDfKEb66Y7IOl-9eyGRg5pzgmf7vXXG2ss8feZhUu2gSbWlmckQm3-RvVRcIqA_Ulmx0eAP_FB3GFgcislAUh6AdsIqCfnqR/s1600/windows-update.jpg"
+    },
+    {
+      "id": "0e87e1af4880a616a63b01808b04bd1dcaa0a79f",
+      "title": "WordPress King Addons Flaw Under Active Attack Lets Hackers Make Admin Accounts",
+      "url": "https://thehackernews.com/2025/12/wordpress-king-addons-flaw-under-active.html",
+      "published": "2025-12-03T17:08:00+00:00",
+      "summary": "A critical security flaw impacting a WordPress plugin known as King Addons for Elementor has come under active exploitation in the wild.\nThe vulnerability, CVE-2025-8489 (CVSS score: 9.8), is a case of privilege escalation that allows unauthenticated attackers to grant themselves administrative privileges by simply specifying the administrator user role during registration.\nIt affects versions",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOEUBRBU7yOr4ksYNRA4-5equs6h7KyW_qETUsEQn6G_YqC_Qf7XlkyQ4kr4Ycwj5N97XeMxAppRT_JDyz7IETPajE9USD0YGONtpR0cMK-Zkd8BvJmoTFZ14U-5nj7WScTRyJLngRoOpf72yLTRFxXKST20oeimcv4ktQ0990pcmrOqS4pgWitQMGl66W/s1600/wordpress.jpg"
+    },
+    {
+      "id": "ce46c515511b477f5614057711782c27faecf586",
+      "title": "Brazil Hit by Banking Trojan Spread via WhatsApp Worm and RelayNFC NFC Relay Fraud",
+      "url": "https://thehackernews.com/2025/12/brazil-hit-by-banking-trojan-spread-via.html",
+      "published": "2025-12-03T15:32:00+00:00",
+      "summary": "The threat actor known as Water Saci is actively evolving its tactics, switching to a sophisticated, highly layered infection chain that uses HTML Application (HTA) files and PDFs to propagate via WhatsApp a worm that deploys a banking trojan in attacks targeting users in Brazil.\nThe latest wave is characterized by the attackers shifting from PowerShell to a Python-based variant that spreads the",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaXJGSuca7TOkhpzQSqTtJJWkuBbFzjkm6UDnl04TARRIVqKOvnJmtLCysj9BEt7zm7QmU8RZMFjwiGnVOQUKIxvVle841t-4dv7YGs8Rx4qo9cvYQApnnJnAhmG419Xy-d0_nI8URsb8IQpXQpfBFD5nlOiADT0Mp0ZW0Ze-rxNvgCuQIAGTgNZovCBTN/s1600/brazil-malware.jpg"
     },
     {
       "id": "695d7f7a62a75b6182a4842cc0cffdc2252b093a",
@@ -607,59 +662,70 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8zV9hPvOUBQV7bQvL21L0QPcaCbKUW3y1D4puHbsR7Ig3KTf_8W7V52Gs4drcN6P7Ss49eYUSYcC13N10xBKUzA8Pr1cmBpzbUbO5t31wLs9b-Vk1XAxdO5BWz9RxGUsFrSlTPKMKefHVtCI6zkkv-y85B7bPdPQBQkxq78PcrUQQjrfXNLRIsnBwFUeD/s1600/mat-c2.jpg"
     },
     {
-      "id": "3e0f67f133ed43b91aadf7a00cd6f925121207b8",
-      "title": "CISA Warns of Actively Exploited Critical Oracle Identity Manager Zero-Day Vulnerability",
-      "url": "https://thehackernews.com/2025/11/cisa-warns-of-actively-exploited.html",
-      "published": "2025-11-22T06:45:00+00:00",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a critical security flaw impacting Oracle Identity Manager to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\nThe vulnerability in question is CVE-2025-61757 (CVSS score: 9.8), a case of missing authentication for a critical function that can result in pre-authenticated",
-      "source": "The Hacker News",
+      "id": "284ecb421ad46ce7b896f1fb1779ee45f9e8c5bb",
+      "title": "'ShadyPanda' Hackers Weaponize Millions of Browsers",
+      "url": "https://www.darkreading.com/endpoint-security/shadypanda-hackers-weaponize-browsers",
+      "published": "2025-12-03T22:06:56+00:00",
+      "summary": "The China-based cyber-threat group has been quietly using malicious extensions on the Google Chrome and Microsoft Edge marketplaces to spy on millions of users.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXwWMS8EhgUJUcX0Z5k9X0VxrwBazuqCRLmma6R5vf1LTby5HJtMpB6eWFTwwh3klO-Hv0fTmp9cCoupTckKOzv_4giyXIgamc63-ILAbZOMsQI3Y7AkO0A4iyScHGdZJl0AYl95YhxB2cYRbVxQDwMvx6qvAga0X95gUyRuFTOdUVtmOjZuGrr9F7ggNJ/s1600/oracle-cyberattack.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3d1f8fdab2a47de2/6930ad4e03abeee5cb2b806f/panda_Elen_Marlen_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "66f00a9f49683b7f799493264e26c99435c128f8",
-      "title": "Grafana Patches CVSS 10.0 SCIM Flaw Enabling Impersonation and Privilege Escalation",
-      "url": "https://thehackernews.com/2025/11/grafana-patches-cvss-100-scim-flaw.html",
-      "published": "2025-11-21T15:40:00+00:00",
-      "summary": "Grafana has released security updates to address a maximum severity security flaw that could allow privilege escalation or user impersonation under certain configurations.\nThe vulnerability, tracked as CVE-2025-41115, carries a CVSS score of 10.0. It resides in the System for Cross-domain Identity Management (SCIM) component that allows automated user provisioning and management. First",
-      "source": "The Hacker News",
+      "id": "6bf12621d02954f7880ecf6ade3a0514b73f1420",
+      "title": "Critical React Flaw Triggers Calls for Immediate Action",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/critical-react-flaw-triggers-immediate-action",
+      "published": "2025-12-03T21:51:03+00:00",
+      "summary": "The vulnerability, which was assigned two CVEs with maximum CVSS scores of 10, may affect more than a third of cloud service providers.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSd96MdjXbbJYSzwIs4CNhCrhOSN5Avm0c3kgMEQVlWBzUPXLbXKs_Kyjk_LhSeKQLjJRbzxyl7SCv62tvd2GEHySWOO__C_f5h2u-5md5Nycx87_WmNUx0CSZ7FCNVEI8LEavtyCoV7cHBFDbdNDaGMrX65oRX0pR17RJcKGIA8PofZ5YhsMrhQV1xpAt/s1600/grafana.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6cc9f3be7b3307fc/6930abbf9c83974138ac4920/react_KoshiroK_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "3e1e7367774617651cd44b1fd08b90453665b4fb",
-      "title": "Google Brings AirDrop Compatibility to Android\u2019s Quick Share Using Rust-Hardened Security",
-      "url": "https://thehackernews.com/2025/11/google-adds-airdrop-compatibility-to.html",
-      "published": "2025-11-21T13:00:00+00:00",
-      "summary": "In a surprise move, Google on Thursday announced that it has updated Quick Share, its peer-to-peer file transfer service, to work with Apple's equipment AirDrop, allowing users to more easily share files and photos between Android and iPhone devices.\nThe cross-platform sharing feature is currently limited to the Pixel 10 lineup and works with iPhone, iPad, and macOS devices, with plans to expand",
-      "source": "The Hacker News",
+      "id": "0270924a27c632697c13a388e461571e9d827bd8",
+      "title": "GISEC GLOBAL 2026 \u2013 The Middle East &amp; Africa\u2019s Largest Cybersecurity Event",
+      "url": "https://www.darkreading.com/events/gisec-global",
+      "published": "2026-05-05T11:00:00+00:00",
+      "summary": "",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiId5Cf7YMovzRkPOI6S1tm4fgDKNLcFvdg3ASml-f-mWCwj0rtSAZJ-P4jmORklaJoflcXdYLEVk_EjwXMqcoy7e0c_-fAPSpE_8R5Nvt5cc4VTxf-D1Nh-8qXuAeFjKR6-TcLvZxT1o2D46Iv9dGvkNNWv79ce2E-DzN4FC6XSsQM1QxgylI1fmDMhU4E/s1600/android.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltab3a19d3487258cf/6930b129e8457eb794b997dc/300250.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "ef4b4a07f3883594ace251123e5cc00052574e9c",
-      "title": "Why IT Admins Choose Samsung for Mobile Security",
-      "url": "https://thehackernews.com/2025/11/why-it-admins-choose-samsung-for-mobile.html",
-      "published": "2025-11-21T11:00:00+00:00",
-      "summary": "Ever wonder how some IT teams keep corporate data safe without slowing down employees? Of course you have.\nMobile devices are essential for modern work\u2014but with mobility comes risk. IT admins, like you, juggle protecting sensitive data while keeping teams productive. That\u2019s why more enterprises are turning to Samsung for mobile security.\nHey\u2014you're busy, so here's a quick-read article on what",
-      "source": "The Hacker News",
+      "id": "1fd65b0d2da89d82492e4f59b25e4d9a5810ec23",
+      "title": "Arizona AG Sues Temu Over 'Stealing' User Data",
+      "url": "https://www.darkreading.com/application-security/arizona-ag-temu-stealing-user-data",
+      "published": "2025-12-03T21:00:58+00:00",
+      "summary": "The suit alleges the Chinese retailer's app secretly accesses and harvests users' sensitive information without their knowledge or consent.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilI5_YDygribQzJZg5C74qlMvNYPDbhlWqrYmASyrb9-lTORJ7B0Iuw1i_7M80fHWGgB2ph_w0FoEX0ptY4pTxRNr0kB_rGoJqvp3wd3f80Fc3hjkd5W8CbU1NmXQkf8H1vR8aoJsstZdcEFq7_weKbZQqKpVDBTqRjdL9uMv8WTpkifreXt1EJ7RGDqY/s1600/samsung.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt56e9e9be68b5a627/693094ca216a8333c7cf029b/Temu_App_Koshiro_K_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "5cdb680a1b31fbf663499ec22d78832b195e3f4c",
-      "title": "APT24 Deploys BADAUDIO in Years-Long Espionage Hitting Taiwan and 1,000+ Domains",
-      "url": "https://thehackernews.com/2025/11/apt24-deploys-badaudio-in-years-long.html",
-      "published": "2025-11-21T10:42:00+00:00",
-      "summary": "A China-nexus threat actor known as APT24 has been observed using a previously undocumented malware dubbed BADAUDIO to establish persistent remote access to compromised networks as part of a nearly three-year campaign.\n\"While earlier operations relied on broad strategic web compromises to compromise legitimate websites, APT24 has recently pivoted to using more sophisticated vectors targeting",
-      "source": "The Hacker News",
+      "id": "8d0d43d5e2b591cc363998177b9c8690d44031f4",
+      "title": "The Ransomware Holiday Bind: Burnout or Be Vulnerable",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/the-ransomware-holiday-bind-burnout-or-be-vulnerable",
+      "published": "2025-12-03T13:52:29+00:00",
+      "summary": "Ransomware groups target enterprises during off-hours, weekends, and holidays when security teams are stretched thin and response times lag.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5fGdXpR7pCeJpEqPu004ib52NeUwcRAWg8rpaNjFnvLAKcXXAJlHX1A4sgAfLJGc08sUQdEJnmnmtTClxO75Mp2evzyrbHLmQdTx0O3UdCbzZdTJAY71PpCj0gweks8UQDik_IpkCA5Pzxe9p8YA7u2ct5k67kFvIqHs18JF6YHSmZTuYsVbZatTsUKZV/s1600/cyberattack.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt461cc484d5296000/693045618fc4b475001bbdad/3D71JKD.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
+      "id": "341d0689f55781d21f7e794132b619d1f9bdd6e6",
+      "title": "AI Bolsters Python Variant of Brazilian WhatsApp Attacks",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/ai-python-variant-brazilian-whatsapp-attacks",
+      "published": "2025-12-03T10:56:24+00:00",
+      "summary": "Water Saci has upgraded its self-propagating malware to compromise banks and cryptocurrency exchanges by targeting enterprise users of the popular chat app.",
+      "source": "DarkReading",
+      "region": "North America",
+      "country": "US",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt68430d49f96f0c85/69301c02acfca8c7df8384ad/brazil1800_Lazyllama_alamy.png?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "id": "aaa66710153241e5007683fd806b226f6e326502",
@@ -710,7 +776,7 @@
       "title": "New Raptor Framework Uses Agentic Workflows to Create Patches",
       "url": "https://www.darkreading.com/vulnerabilities-threats/new-raptor-framework-uses-agentic-ai-create-patches",
       "published": "2025-12-02T15:16:26+00:00",
-      "summary": "Researchers utilized prompts and large language models to develop an open-source AI framework capable of generating both vulnerability exploits and patches.",
+      "summary": "Researchers used prompts and large language models to develop an open source AI framework capable of generating both vulnerability exploits and patches.",
       "source": "DarkReading",
       "region": "North America",
       "country": "US",
@@ -1146,70 +1212,15 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc068f4477738319d/691cd55ae16a280b60a7611e/Toy_train_crash-PRILL_Mediendesign-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "a2f515a9d58bb9e97faf28049a1869f27dfaccf8",
-      "title": "US Creates 'Strike Force' to Take Out SE Asian Scam Centers",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/us-strike-force-southeast-asian-scam-centers",
-      "published": "2025-11-19T02:00:00+00:00",
-      "summary": "The collaborative effort combines multiple federal departments, along with private companies to reduce, if not eliminate, billions lost annually to fraud.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltca3de8d99c5b6037/66687feff311eb30adf48c34/End_ru99-southeast-asia-map-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
-      "id": "17a062b96f54f63dca9c714db656440f7d37e82c",
-      "title": "Cloud Break: IoT Devices Open to Silent Takeover Via Firewalls",
-      "url": "https://www.darkreading.com/cybersecurity-operations/cloud-iot-devices-takeover-firewalls",
-      "published": "2025-11-18T21:29:32+00:00",
-      "summary": "IoT devices can be compromised, thanks to gaps in cloud management interfaces for firewalls and routers, even if they're protected by security software or not online.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte4cb2fd7c4a8820b/691cd7e878e5efce34bb2a67/cloud_break-Andy_Sutton-alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
-      "id": "f84f6a23c3d27ce75fb6a53b5b80e668a64af18c",
-      "title": "Can a Global, Decentralized System Save CVE Data?",
-      "url": "https://www.darkreading.com/cybersecurity-operations/can-global-decentralized-system-save-cve-data",
-      "published": "2025-11-18T20:42:12+00:00",
-      "summary": "As vulnerabilities in the Common Vulnerabilities and Exposures ecosystem pile up, one Black Hat Europe presenter hopes for a global, distributed alternative.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt26e1b93fff67686f/691ba3d4bc48ddea20b05aab/vulns-per-year-CVE-icu.jpg?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
-      "id": "5cae5f7b26223786c543763a3add09fdcfdfc664",
-      "title": "Iran-Nexus Threat Actor UNC1549 Takes Aim at Aerospace",
-      "url": "https://www.darkreading.com/cybersecurity-operations/iran-nexus-threat-actor-unc1549-takes-aim-aerospace",
-      "published": "2025-11-18T20:24:20+00:00",
-      "summary": "Researchers say Israel remains a central focus, with UNC1549 targeting aerospace and defense entities in the US, the UAE, Qatar, Spain, and Saudi Arabia.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt12fba0d15cec68b0/691cd806721f4e7d3d6dc556/airplane_Sylvain_Oliveira_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
-      "id": "1b7dea406a79e3b28176caa89650455c8cef5317",
-      "title": "How We Ditched the SaaS Status Quo for Time-Series Telemetry",
-      "url": "https://www.darkreading.com/cybersecurity-operations/how-we-ditched-the-saas-status-quo-for-time-series-telemetry",
-      "published": "2025-11-18T17:25:01+00:00",
-      "summary": "Free the logs! Behind the scenes at InfluxData, which turned to its own in-house security monitoring platform, DiSCO, to protect its supply chain after its third-party tool was breached.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1f981584dc7f1bf5/64f1709dbd96cb9dbd3bfb45/robot-binoculars-Kittipong-Jirasukhanont-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
-      "id": "90bc5c7b3e01abd28cb1d939a380fbeef46a6c4f",
-      "title": "Malicious Npm Packages Abuse Adspect Cloaking in Crypto Scam",
-      "url": "https://www.darkreading.com/application-security/malicious-npm-packages-adspect-cloaking-crypto-scam",
-      "published": "2025-11-18T16:40:12+00:00",
-      "summary": "A malware campaign presents fake websites that can check if a visitor is a potential victim or a security researcher, and then proceed accordingly to defraud or evade.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb24a1e6038643a15/691c51f545c2c428067907c0/NPM-Araki-Illustrations-Alamy.png?width=1280&auto=webp&quality=80&disable=upscale"
+      "id": "1a0369570c7b25e2f11d589959b467780c7ca89c",
+      "title": "'Exploitation is imminent' as 39 percent of cloud environs have max-severity React hole",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2025/12/03/exploitation_is_imminent_react_vulnerability/",
+      "published": "2025-12-03T21:55:37+00:00",
+      "summary": "<h4>Finish reading this, then patch</h4> <p>A maximum-severity flaw in the widely used JavaScript library React, and several React-based frameworks including <a href=\"http://next.js\" rel=\"nofollow\">Next.js</a> allows unauthenticated, remote attackers to execute malicious code on vulnerable instances. The flaw is easy to abuse, and mass exploitation is \"imminent,\" according to security researchers.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
       "id": "da7a6c39f07d3535a9e3de381117f0b697f586c9",
@@ -1751,17 +1762,6 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "d71096d0e14f38cf823611c3e3e0287566b37f2a",
-      "title": "CISA orders feds to patch Oracle Identity Manager zero-day after signs of abuse",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/11/24/cisa_oracle_identity_manager/",
-      "published": "2025-11-24T11:45:08+00:00",
-      "summary": "<h4>Agencies have until December 12 to mitigate flaw that was likely exploited before Big Red released fix</h4> <p>CISA has ordered US federal agencies to patch against an actively exploited Oracle Identity Manager (OIM) flaw within three weeks \u2013 a scramble made more urgent by evidence that attackers may have been abusing the bug months before a fix was released.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
       "id": "fdd42e13e1b6d7a95d618e6e06ebe1501f9e341d",
       "title": "Meet Rey, the Admin of \u2018Scattered Lapsus$ Hunters\u2019",
       "url": "https://krebsonsecurity.com/2025/11/meet-rey-the-admin-of-scattered-lapsus-hunters/",
@@ -1850,6 +1850,39 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "d231cde4427d6071608606712dc53b58cd93f5e9",
+      "title": "Niobium Raises $23 Million for FHE Hardware Acceleration",
+      "url": "https://www.securityweek.com/niobium-raises-23-million-for-fhe-hardware-acceleration/",
+      "published": "2025-12-03T14:03:05+00:00",
+      "summary": "<p>The startup will invest the funds in accelerating development of its second-generation fully homomorphic encryption (FHE) platforms.</p>\n<p>The post <a href=\"https://www.securityweek.com/niobium-raises-23-million-for-fhe-hardware-acceleration/\">Niobium Raises $23 Million for FHE Hardware Acceleration</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "1dd16dc6630219d10df03390e42627662ef2beaa",
+      "title": "Critical King Addons Vulnerability Exploited to Hack WordPress Sites",
+      "url": "https://www.securityweek.com/critical-king-addons-vulnerability-exploited-to-hack-wordpress-sites/",
+      "published": "2025-12-03T13:36:57+00:00",
+      "summary": "<p>A critical-severity vulnerability in the King Addons for Elementor plugin for WordPress has been exploited to take over websites.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-king-addons-vulnerability-exploited-to-hack-wordpress-sites/\">Critical King Addons Vulnerability Exploited to Hack WordPress Sites</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "e68d78cfebf5aee96782894a682a7a980cd77745",
+      "title": "Arizona Attorney General Sues Chinese Online Retailer Temu Over Data Theft Claims",
+      "url": "https://www.securityweek.com/arizona-attorney-general-sues-chinese-online-retailer-temu-over-data-theft-claims/",
+      "published": "2025-12-03T12:24:28+00:00",
+      "summary": "<p>Arizona is the latest state to sue Temu and its parent company PDD Holdings over allegations that the Chinese online retailer is stealing customers\u2019 data.</p>\n<p>The post <a href=\"https://www.securityweek.com/arizona-attorney-general-sues-chinese-online-retailer-temu-over-data-theft-claims/\">Arizona Attorney General Sues Chinese Online Retailer Temu Over Data Theft Claims</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "c953ecbc2b5d2a805ecbad9c15f5f3b87a29c413",
       "title": "ServiceNow to Acquire Identity Security Firm Veza in Reported $1 Billion Deal",
       "url": "https://www.securityweek.com/servicenow-to-acquire-identity-security-firm-veza-in-reported-1-billion-deal/",
@@ -1921,39 +1954,6 @@
       "url": "https://www.securityweek.com/the-great-disconnect-unmasking-the-two-separate-conversations-in-security/",
       "published": "2025-12-02T14:30:00+00:00",
       "summary": "<p>When familiar security concepts carry unfamiliar meanings for different audiences, teams talk past each other without even realizing it. This silent disconnect weakens communication, clarity, and outcomes.</p>\n<p>The post <a href=\"https://www.securityweek.com/the-great-disconnect-unmasking-the-two-separate-conversations-in-security/\">The Great Disconnect: Unmasking the &#8216;Two Separate Conversations&#8217; in Security</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "8399d9eb68d5094c4bba475874f42096da3fafcd",
-      "title": "Chrome, Edge Extensions Caught Tracking Users, Creating Backdoors",
-      "url": "https://www.securityweek.com/chrome-edge-extensions-caught-tracking-users-creating-backdoors/",
-      "published": "2025-12-02T13:48:47+00:00",
-      "summary": "<p>The extensions were seen profiling users, reading cookie data to create unique identifiers, and executing payloads with browser API access.</p>\n<p>The post <a href=\"https://www.securityweek.com/chrome-edge-extensions-caught-tracking-users-creating-backdoors/\">Chrome, Edge Extensions Caught Tracking Users, Creating Backdoors</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "49fc639ea7886f212b646962f5128ab9a556bf59",
-      "title": "Saporo Raises $8 Million for Identity Security Platform",
-      "url": "https://www.securityweek.com/saporo-raises-8-million-for-identity-security-platform/",
-      "published": "2025-12-02T12:17:09+00:00",
-      "summary": "<p>The Swiss cybersecurity firm will scale its R&#038;D, sales and marketing teams as it pursues expansion across Europe.</p>\n<p>The post <a href=\"https://www.securityweek.com/saporo-raises-8-million-for-identity-security-platform/\">Saporo Raises $8 Million for Identity Security Platform</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "3d4885ff08bc36e66c841fb39865f77cf2fa0cd3",
-      "title": "Vulnerability in OpenAI Coding Agent Could Facilitate Attacks on Developers",
-      "url": "https://www.securityweek.com/vulnerability-in-openai-coding-agent-could-facilitate-attacks-on-developers/",
-      "published": "2025-12-02T12:02:32+00:00",
-      "summary": "<p>The Codex CLI vulnerability tracked as CVE-2025-61260 can be exploited for command execution.</p>\n<p>The post <a href=\"https://www.securityweek.com/vulnerability-in-openai-coding-agent-could-facilitate-attacks-on-developers/\">Vulnerability in OpenAI Coding Agent Could Facilitate Attacks on Developers</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
