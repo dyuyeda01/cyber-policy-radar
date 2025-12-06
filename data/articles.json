@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-06T00:42:03.771036+00:00",
+  "generated_at": "2025-12-06T12:15:28.677069+00:00",
   "items": [
     {
       "id": "f2f3f1756d0354c780e2b197ed582fe2604eedbe",
@@ -110,6 +110,17 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "2ecf0ef6d1e9c613365154cbc353e8c1486d360a",
+      "title": "Critical React2Shell Flaw Added to CISA KEV After Confirmed Active Exploitation",
+      "url": "https://thehackernews.com/2025/12/critical-react2shell-flaw-added-to-cisa.html",
+      "published": "2025-12-06T11:40:00+00:00",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday formally added a critical security flaw impacting React Server Components (RSC) to its Known Exploited Vulnerabilities (KEV) catalog following reports of active exploitation in the wild.\nThe vulnerability, CVE-2025-55182 (CVSS score: 10.0), relates to a case of remote code execution that could be triggered by an",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirLapA_bU5QPCfp-MRukDEfXZXrWr6Im2qJaqg7pJ6I_5tq2aD21_Q_-9N83CCdNoZIsThs7oC2SKBLRdK0XbPh-Ork2PYk3Sp5_MGvKmVeo_IPZg_lPDq5VgF3nPj7pRIjcDNIihQG68dlzKqMed-yhg3BFKVcGO1PXUEEB4tfzlcIDXr1vDlnfvbwL8E/s1600/react2shell-exploit.jpg"
     },
     {
       "id": "214d1f3ddb81bd427d83a492b1de716499b56629",
@@ -649,17 +660,6 @@
       "region": "North America",
       "country": "US",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifp-5U7-OH3RwkfuYRMV7dZ0xBPbvmwprx6SOtovCc17OUYWlzXcUP-uZwhh6C03vW_oNO8X_48RWVDCVMChYy27HUw_cRJ3x4em7PQv_eUxr2Jt4BOTgHBCjE4QH4hu-z4m34yLZJA1S-VfuhMXZwQH-yk9gcoekiEYL2jfGDcvRip01iaVJ41aWIlGMO/s1600/deals.jpg"
-    },
-    {
-      "id": "f9ad4ef37459df7aabc0d5eed6a9912654c28048",
-      "title": "Years of JSONFormatter and CodeBeautify Leaks Expose Thousands of Passwords and API Keys",
-      "url": "https://thehackernews.com/2025/11/years-of-jsonformatter-and-codebeautify.html",
-      "published": "2025-11-25T16:49:00+00:00",
-      "summary": "New research has found that organizations in various sensitive sectors, including governments, telecoms, and critical infrastructure, are pasting passwords and credentials into online tools like JSONformatter and CodeBeautify that are used to format and validate code.\nCybersecurity company watchTowr Labs said it captured a dataset of over 80,000 files on these sites, uncovering thousands of",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMOKzumRIbT28KmhxEYK7XbBCh9DFCNL3o9nhJynO8qEPufvtFSaUZ410fDSym6bQyAxTbStDCFnOjDG4QwashtUee4Cclcfu6_MQ_pcWk_cjFhnlzNy_MDFLL4vwI5LOrJnuJUzt96Cdi3E6PevLQn33zrqYBicNRERNKDJ1DYW6JIOU879I4fCSv8NQp/s1600/json.jpg"
     },
     {
       "id": "2c86105b9a73c1e7ca113320b76a11476cdccbc8",
@@ -1212,6 +1212,17 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt37741e93e49d05eb/69206ce5c761fbfd2c83c577/race-car-wisnu-haryo-yudhanto-alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
+      "id": "9ad72a977b29219e754fae163691cb8ae6dde962",
+      "title": "Death to one-time text codes: Passkeys are the new hotness in MFA",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2025/12/06/multifactor_authentication_passkeys/",
+      "published": "2025-12-06T09:11:12+00:00",
+      "summary": "<h4>Wanna know a secret?</h4> <p>Whether you're logging into your bank, health insurance, or even your email, most services today do not live by passwords alone. Now commonplace, multifactor authentication (MFA) requires users to enter a second or third proof of identity. However, not all forms of MFA are created equal, and the one-time passwords orgs send to your phone have holes so big you could drive a truck through them.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "6079b5e35351da8367ecfdf00645abcb764602ef",
       "title": "Crims using social media images, videos in 'virtual kidnapping' scams",
       "url": "https://go.theregister.com/feed/www.theregister.com/2025/12/05/virtual_kidnapping_scam/",
@@ -1751,17 +1762,6 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "3ed8999ee304ac90d4eae6ff466a5c66e3b0535e",
-      "title": "Top five cybersecurity Black Friday deals for businesses 2025",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/11/26/cybersecurity-black-friday-2025/",
-      "published": "2025-11-26T09:00:12+00:00",
-      "summary": "<h4>Smart cybersecurity investments during Black Friday 2025. The best enterprise security deals with up to 60 percent off</h4> <p><strong>Partner Content</strong>\u00a0 The annual Black Friday scramble isn't just for consumers elbowing each other for discounted tellies. For IT directors and CISOs, it's become a strategic procurement window. That narrow slice of the year when security budgets suddenly stretch further, and solutions that were under consideration can finally get approved.\u2026</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
       "id": "d7a671ab61ea5308adda11fbfc85f86fa00c3ad2",
       "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
       "url": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
@@ -1844,17 +1844,6 @@
       "url": "https://krebsonsecurity.com/2025/11/drilling-down-on-uncle-sams-proposed-tp-link-ban/",
       "published": "2025-11-09T18:14:40+00:00",
       "summary": "The U.S. government is reportedly preparing to ban the sale of wireless routers and other networking gear from TP-Link Systems, a tech company that currently enjoys an estimated 50% market share among home users and small businesses. Experts say while the proposed ban may have more to do with TP-Link's ties to China than any specific technical threats, much of the rest of the industry serving this market also sources hardware from China and ships products that are insecure fresh out of the box.",
-      "source": "Krebs on Security",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "617b1c2d5302199b8cf25a2460a57e8001890c2d",
-      "title": "Cloudflare Scrubs Aisuru Botnet from Top Domains List",
-      "url": "https://krebsonsecurity.com/2025/11/cloudflare-scrubs-aisuru-botnet-from-top-domains-list/",
-      "published": "2025-11-06T02:04:36+00:00",
-      "summary": "For the past week, domains associated with the massive Aisuru botnet have repeatedly usurped Amazon, Apple, Google and Microsoft in Cloudflare's public ranking of the most frequently requested websites. Cloudflare responded by redacting Aisuru domain names from their top websites list. The chief executive at Cloudflare says Aisuru's overlords are using the botnet to boost their malicious domain rankings, while simultaneously attacking the company's domain name system (DNS) service.",
       "source": "Krebs on Security",
       "region": "Global",
       "country": "GL",
