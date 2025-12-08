@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-08T00:45:09.579828+00:00",
+  "generated_at": "2025-12-08T12:18:18.525560+00:00",
   "items": [
     {
       "id": "f2f3f1756d0354c780e2b197ed582fe2604eedbe",
@@ -110,6 +110,39 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "52a227bc882ddb2bbb48139240ddb7abe7056a4e",
+      "title": "Android Malware FvncBot, SeedSnatcher, and ClayRat Gain Stronger Data Theft Features",
+      "url": "https://thehackernews.com/2025/12/android-malware-fvncbot-seedsnatcher.html",
+      "published": "2025-12-08T11:00:00+00:00",
+      "summary": "Cybersecurity researchers have disclosed details of two new Android malware families dubbed FvncBot and SeedSnatcher, as another upgraded version of ClayRat has been spotted in the wild.\nThe findings come from Intel 471, CYFIRMA, and Zimperium, respectively.\nFvncBot, which masquerades as a security app developed by mBank, targets mobile banking users in Poland. What's notable about the malware",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZELdaHTFQVkYr0Kyc_yx3kw6Nv6koGQwFisUkrKbPwk3IqNSmbz1ozCRktQ5xW1Ou1b5ZxjjVWcAF8rahSu23xn9UboPllWofT7elGGF6hZCZHzLpBWlXdH2fLpcTRfouUSR66iBFqHdkiu5WMdD5dLD7lyeP0y8zBUVXxXEBkPC8Jz2YVwEuvAiWGbMF/s1600/android-malware.jpg"
+    },
+    {
+      "id": "f2c40bfeb48bcd533d82e3eb985c9fc6b6b672af",
+      "title": "Sneeit WordPress RCE Exploited in the Wild While ICTBroadcast Bug Fuels Frost Botnet Attacks",
+      "url": "https://thehackernews.com/2025/12/sneeit-wordpress-rce-exploited-in-wild.html",
+      "published": "2025-12-08T09:15:00+00:00",
+      "summary": "A critical security flaw in the Sneeit Framework plugin for WordPress is being actively exploited in the wild, per data from Wordfence.\nThe remote code execution vulnerability in question is CVE-2025-6389 (CVSS score: 9.8), which affects all versions of the plugin prior to and including 8.3. It has been patched in version 8.4, released on August 5, 2025. The plugin has more than 1,700 active",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhW436xusfcObfG2LGJplqSv9pCE0mKE4E6ztdzCE5vP2Va7mLqTYxGSyjEZGdw0klXx-7D6kprLyKKumknqgC34zuVXl9tcWzG3ocoK18XcOwDF9hBaX7nqDxTMy8GwsslXMsqd456TEX2JU2LTeP0lVpiMFF7c61b9v2cUpzA4DI2hos7MH9j3E6B6lvk/s1600/wordpresss.jpg"
+    },
+    {
+      "id": "53df54948f245f2b5780d458661c45b6178544f1",
+      "title": "MuddyWater Deploys UDPGangster Backdoor in Targeted Turkey-Israel-Azerbaijan Campaign",
+      "url": "https://thehackernews.com/2025/12/muddywater-deploys-udpgangster-backdoor.html",
+      "published": "2025-12-08T06:46:00+00:00",
+      "summary": "The Iranian hacking group known as MuddyWater has been observed leveraging a new backdoor dubbed UDPGangster that uses the User Datagram Protocol (UDP) for command-and-control (C2) purposes.\nThe cyber espionage activity targeted users in Turkey, Israel, and Azerbaijan, according to a report from Fortinet FortiGuard Labs.\n\"This malware enables remote control of compromised systems by allowing",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYXNboyf2GnxrecT0sKYR0MhunHsxtjogBIhtsNVobnT6Y5JxVFfrYcy4cGoABHSNBKDJTe4fEbi3I9uJ7Rl_HNToAsi6MiMLq53MreR2Eo25VrjlEIxyFz7wbmA2ZXkP-xkTlsEmtA5MTFl1sf_zMOoACofqqbq5pqDA4R0ssFb8b6sEmmaHDoGJ7pEvS/s1600/cyberattack.jpg"
     },
     {
       "id": "06769c58e2f3b0d731256114cba39c3875860b96",
@@ -627,39 +660,6 @@
       "region": "North America",
       "country": "US",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZLFjSSfGkqSN0_JR2Bn3chbdA6ZWeRT-TPvVWvosbR8gqrvxxpndEARBl7kUES8N1hVSuPYweHiF2E3FOCb6VgM5rCmBkzWQTvFABAgr4EaFZ99Z6R9uDzJmPDhfnSCRt33hnJf8gca0PP0jIBg0mnv-Q1jTHV1HfQqQ2ScEBDqZxE4iKXguQtM_VXB77/s1600/raas.jpg"
-    },
-    {
-      "id": "d7c5e40feb915c430e19844f64b54b3ee2ae3d7a",
-      "title": "When Your $2M Security Detection Fails: Can your SOC Save You?",
-      "url": "https://thehackernews.com/2025/11/when-your-2m-security-detection-fails.html",
-      "published": "2025-11-26T11:55:00+00:00",
-      "summary": "Enterprises today are expected to have at least 6-8 detection tools, as detection is considered a standard investment and the first line of defense. Yet security leaders struggle to justify dedicating resources further down the alert lifecycle to their superiors.\nAs a result, most organizations' security investments are asymmetrical, robust detection tools paired with an under-resourced SOC,",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkw0MmcqqKZNxhyucPZCx6y1I2RgOoB3X4reu6qVkLYeMWCdU4jfxo_lQTdLLwRFdA2bVjxw_0F-QyR0XXpAV-v-commkh3NcxuOr3QOEtD0zkc-fvTavnhG-gO8z7ttXhevDQU9O3hb1Id6iBSjOH4GFmhoNRWPCPpJL8kYR6U5_seYnwxQUnwLWqz48/s1600/million-dollar-soc.jpg"
-    },
-    {
-      "id": "1085708230d0413afd7613feef7d9104b17f4594",
-      "title": "Chrome Extension Caught Injecting Hidden Solana Transfer Fees Into Raydium Swaps",
-      "url": "https://thehackernews.com/2025/11/chrome-extension-caught-injecting.html",
-      "published": "2025-11-26T11:10:00+00:00",
-      "summary": "Cybersecurity researchers have discovered a new malicious extension on the Chrome Web Store that's capable of injecting a stealthy Solana transfer into a swap transaction and transferring the funds to an attacker-controlled cryptocurrency wallet.\nThe extension, named Crypto Copilot, was first published by a user named \"sjclark76\" on May 7, 2024. The developer describes the browser add-on as",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh07kZL9gPVO6CAgydSwgWaGQyaeOYAfysQ-YnUzeYR05B9sOlvBzVUPcu4OK-idfpgitAZpvjmqWBSijJ-z0-k8SFvWBB1w9-dX5YP-B7q2R3uNB81yY__MKrdwb8NHlk2y7cJHJllwU5iNOeRxmgKS6WvRZOywql8oU2k7l7IlApYlgf5wjeLfFmA-c9S/s1600/crypto.jpg"
-    },
-    {
-      "id": "a1d29ae53fd3d65a7df6b88340a0159e264b4b7b",
-      "title": "RomCom Uses SocGholish Fake Update Attacks to Deliver Mythic Agent Malware",
-      "url": "https://thehackernews.com/2025/11/romcom-uses-socgholish-fake-update.html",
-      "published": "2025-11-26T08:28:00+00:00",
-      "summary": "The threat actors behind a malware family known as RomCom targeted a U.S.-based civil engineering company via a JavaScript loader dubbed SocGholish to deliver the Mythic Agent.\n\"This is the first time that a RomCom payload has been observed being distributed by SocGholish,\" Arctic Wolf Labs researcher Jacob Faires said in a Tuesday report.\nThe activity has been attributed with medium-to-high",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmBSFa4FVI0KsN6x79w1ISJPMe3RexBvzAM-vy-bml_tD5bSNQYb4nZxHqKLV_lugTTgkVXDdIPqM2G23NT4hCLTqYA3w_fm46xAHjsnHiwc-tXsOR7QrTz6Qw4ZQfdDKo8EGrHLhZII9YOHt4A3u_UDDFAuyM6rm0c6-_mMhY3Ac_aNyZnEDbUrR5EVNg/s1600/mythic.jpg"
     },
     {
       "id": "428d49ba33a404092643b4eb93a7ac348d6b1b3b",
@@ -1212,6 +1212,39 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd825c3999cba4256/691f91987c947d7b0e381088/WH-national-cyber-director-sean-cairncross-Aspen-Institute.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
+      "id": "dcd8419dbac121e4ae2c8e1bf2f92169f0de2b8b",
+      "title": "Barts Health seeks High Court block after Clop pillages NHS trust data",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2025/12/08/barts_health_clop_block/",
+      "published": "2025-12-08T11:12:05+00:00",
+      "summary": "<h4>Body confirms patient and staff details siphoned via Oracle EBS flaw as gang threatens to leak haul</h4> <p>Barts Health NHS Trust has confirmed that patient and staff data was stolen in Clop's mass-exploitation of Oracle's E-Business Suite (EBS), and says it is now taking legal action in an effort to stop the gang publishing any of the snatched information.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "5cbcc8ded7f19d5aaa79fa13565b76006eabdbbd",
+      "title": "Block all AI browsers for the foreseeable future: Gartner",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2025/12/08/gartner_recommends_ai_browser_ban/",
+      "published": "2025-12-08T04:57:17+00:00",
+      "summary": "<h4>Analysts worry lazy users could have agents complete mandatory infosec training, and attackers could do far nastier things</h4> <p>Agentic browsers are too risky for most organizations to use, according to analyst firm Gartner.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "7b5d349db0dfc253b6d66ea2648367c224ccfbb8",
+      "title": "China\u2019s first reusable rocket explodes, but its onboard Ethernet network flew",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2025/12/08/asia_tech_news_roundup/",
+      "published": "2025-12-08T01:56:33+00:00",
+      "summary": "<h4>PLUS: South Korea to strengthen security standards; Canon closes Chinese printer plant; APAC datacenter capacity to triple by 2029; And more</h4> <p><strong>Asia In Brief</strong>\u00a0 Chinese rocketry outfit LandSpace last week flew what it hoped would be the country\u2019s first reusable rocket, only to watch it explode while attempting to land.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "a61ebf987ab54f4c9dbffef2a0d9200ee0c3f832",
       "title": "Apache warns of 10.0-rated flaw in Tika metadata ingestion tool",
       "url": "https://go.theregister.com/feed/www.theregister.com/2025/12/08/infosec_news_in_brief/",
@@ -1729,39 +1762,6 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "e7421aa23e14f4b0034475f79a537b3b3a05fa48",
-      "title": "Mobile industry warns patchwork cyber regs are driving up costs",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/11/26/gsma_global_standards_mobile_industry/",
-      "published": "2025-11-26T17:12:47+00:00",
-      "summary": "<h4>GSMA says fragmented, poorly designed laws add burdens without making networks any safer</h4> <p>Mobile operators' core cybersecurity spending is projected to more than double by 2030 as threats evolve, while poorly designed and fragmented policy frameworks add extra compliance costs, according to industry group the GSMA.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "6ea24837b26c9ac0837d244506f187ebe2a58832",
-      "title": "CodeRED emergency alert system CodeDEAD after INC ransomware attack",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/11/26/codered_emergency_alert_ransomware/",
-      "published": "2025-11-26T14:33:38+00:00",
-      "summary": "<h4>Regions across US affected, and one tore up its contract for the product</h4> <p>Towns and cities across the US are without access to their CodeRED emergency alert system following a cyberattack on vendor Crisis24.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "1164598d7790415df43964af5ef8b2299c13b5ec",
-      "title": "US Navy scuttles Constellation frigate program for being too slow for tomorrow's threats",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/11/26/navy_constellation_frigate/",
-      "published": "2025-11-26T14:10:06+00:00",
-      "summary": "<h4>Service limits 20-ship line to two hulls after redesigns and delays torpedo schedule</h4> <p>The US Navy is scrapping an entire shipbuilding program in an effort to find alternatives that can be delivered faster to counter expected threats.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
       "id": "b5cc053b43f21d90ca307ccf9bf8a197f27105df",
       "title": "Drones to Diplomas: How Russia\u2019s Largest Private University is Linked to a $25M Essay Mill",
       "url": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
@@ -1861,6 +1861,28 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "4cdad3506f4fb84488676ee95b8feae3ec6fcf1e",
+      "title": "Critical Apache Tika Vulnerability Leads to XXE Injection",
+      "url": "https://www.securityweek.com/critical-apache-tika-vulnerability-leads-to-xxe-injection/",
+      "published": "2025-12-08T10:43:46+00:00",
+      "summary": "<p>The bug allows attackers to carry out XML External Entity (XXE) injection attacks via crafted XFA files inside PDF files.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-apache-tika-vulnerability-leads-to-xxe-injection/\">Critical Apache Tika Vulnerability Leads to XXE Injection</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "bbb2623b67179ab239295e07f5fb5144f172d63d",
+      "title": "Exploitation of React2Shell Surges",
+      "url": "https://www.securityweek.com/exploitation-of-react2shell-surges/",
+      "published": "2025-12-08T09:43:11+00:00",
+      "summary": "<p>An increasing number of threat actors have been attempting to exploit the React vulnerability CVE-2025-55182 in their attacks.</p>\n<p>The post <a href=\"https://www.securityweek.com/exploitation-of-react2shell-surges/\">Exploitation of React2Shell Surges</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "aa2d04d9818a536167680f2c17dbb83c10933d70",
       "title": "In Other News: X Fined \u20ac120 Million, Array Flaw Exploited, New Iranian Backdoor",
       "url": "https://www.securityweek.com/in-other-news-x-fined-e120-million-array-flaw-exploited-new-iranian-backdoor/",
@@ -1943,28 +1965,6 @@
       "url": "https://www.securityweek.com/chinese-hackers-exploiting-react2shell-vulnerability/",
       "published": "2025-12-05T07:33:00+00:00",
       "summary": "<p>AWS has seen multiple China-linked threat groups attempting to exploit the React vulnerability CVE-2025-55182.</p>\n<p>The post <a href=\"https://www.securityweek.com/chinese-hackers-exploiting-react2shell-vulnerability/\">Chinese Hackers Exploiting React2Shell Vulnerability</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "74881053b78d4269b8a1491b3c50113cac9f0d2a",
-      "title": "India Rolls Back Order to Preinstall Cybersecurity App on Smartphones",
-      "url": "https://www.securityweek.com/india-rolls-back-order-to-preinstall-cybersecurity-app-on-smartphones/",
-      "published": "2025-12-04T19:10:17+00:00",
-      "summary": "<p>The Ministry of Communications on had asked smartphone makers to install the government\u2019s \u201cSanchar Saathi\u201d app within 90 days and to prevent users from disabling it. </p>\n<p>The post <a href=\"https://www.securityweek.com/india-rolls-back-order-to-preinstall-cybersecurity-app-on-smartphones/\">India Rolls Back Order to Preinstall Cybersecurity App on Smartphones</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "bbcdbbf718d0988080df1377af48063c6283aa28",
-      "title": "Cybersecurity M&A Roundup: 30 Deals Announced in November 2025",
-      "url": "https://www.securityweek.com/cybersecurity-ma-roundup-30-deals-announced-in-november-2025/",
-      "published": "2025-12-04T17:48:42+00:00",
-      "summary": "<p>Significant cybersecurity M&#038;A deals announced by Arctic Wolf, Bugcrowd, Huntress, Palo Alto Networks, and Zscaler.</p>\n<p>The post <a href=\"https://www.securityweek.com/cybersecurity-ma-roundup-30-deals-announced-in-november-2025/\">Cybersecurity M&#038;A Roundup: 30 Deals Announced in November 2025</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
