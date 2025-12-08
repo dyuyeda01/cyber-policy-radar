@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-07T12:15:24.069243+00:00",
+  "generated_at": "2025-12-08T00:45:09.579828+00:00",
   "items": [
     {
       "id": "f2f3f1756d0354c780e2b197ed582fe2604eedbe",
@@ -1212,6 +1212,17 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd825c3999cba4256/691f91987c947d7b0e381088/WH-national-cyber-director-sean-cairncross-Aspen-Institute.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
+      "id": "a61ebf987ab54f4c9dbffef2a0d9200ee0c3f832",
+      "title": "Apache warns of 10.0-rated flaw in Tika metadata ingestion tool",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2025/12/08/infosec_news_in_brief/",
+      "published": "2025-12-08T00:10:04+00:00",
+      "summary": "<h4>PLUS: New kind of DDOS from the Americas; Predator still hunting spyware targets; NIST issues IoT advice; And more!</h4> <p><strong>Infosec in Brief</strong>\u00a0 The Apache Foundation last week warned of a 10.0-rated flaw in its Tika toolkit.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "9ad72a977b29219e754fae163691cb8ae6dde962",
       "title": "Death to one-time text codes: Passkeys are the new hotness in MFA",
       "url": "https://go.theregister.com/feed/www.theregister.com/2025/12/06/multifactor_authentication_passkeys/",
@@ -1751,14 +1762,102 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "d2a9eb3ba463e113589973a45707a277891e200f",
-      "title": "London councils probe cyber incident as shared IT systems knocked offline",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/11/26/cyberattack_london_councils/",
-      "published": "2025-11-26T11:04:09+00:00",
-      "summary": "<h4>Three boroughs confirm investigation amid service outages, disrupted phone lines, and limited online access</h4> <p>Two London councils are scrambling for answers after declaring a cybersecurity issue that began on Monday.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
+      "id": "b5cc053b43f21d90ca307ccf9bf8a197f27105df",
+      "title": "Drones to Diplomas: How Russia\u2019s Largest Private University is Linked to a $25M Essay Mill",
+      "url": "https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/",
+      "published": "2025-12-06T14:45:03+00:00",
+      "summary": "A sprawling academic cheating network turbocharged by Google Ads that has generated nearly $25 million in revenue has curious connections to a Kremlin-connected oligarch whose Russian university builds drones for Russia's war against Ukraine.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "d7a671ab61ea5308adda11fbfc85f86fa00c3ad2",
+      "title": "SMS Phishers Pivot to Points, Taxes, Fake Retailers",
+      "url": "https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/",
+      "published": "2025-12-04T23:02:34+00:00",
+      "summary": "China-based phishing groups blamed for non-stop scam SMS messages about a supposed wayward package or unpaid toll fee are promoting a new offering, just in time for the holiday shopping season: Phishing kits for mass-creating fake but convincing e-commerce websites that convert customer payment card data into mobile wallets from Apple and Google. Experts say these same phishing groups also are now using SMS lures that promise unclaimed tax refunds and mobile rewards points.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "fdd42e13e1b6d7a95d618e6e06ebe1501f9e341d",
+      "title": "Meet Rey, the Admin of \u2018Scattered Lapsus$ Hunters\u2019",
+      "url": "https://krebsonsecurity.com/2025/11/meet-rey-the-admin-of-scattered-lapsus-hunters/",
+      "published": "2025-11-26T17:22:36+00:00",
+      "summary": "A prolific cybercriminal group that calls itself \"Scattered LAPSUS$ Hunters\" made headlines regularly this year by stealing data from and publicly mass extorting dozens of major corporations. But the tables seem to have turned somewhat for \"Rey,\" the moniker chosen by the technical operator and public face of the hacker group: Earlier this week, Rey confirmed his real life identity and agreed to an interview after KrebsOnSecurity tracked him down and contacted his father.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "f058bb5da5a3357d6483753809bdf931b5483a19",
+      "title": "Is Your Android TV Streaming Box Part of a Botnet?",
+      "url": "https://krebsonsecurity.com/2025/11/is-your-android-tv-streaming-box-part-of-a-botnet/",
+      "published": "2025-11-24T18:44:52+00:00",
+      "summary": "On the surface, the Superbox media streaming devices for sale at retailers like BestBuy and Walmart may seem like a steal: They offer unlimited access to more than 2,200 pay-per-view and streaming services like Netflix, ESPN and Hulu, all for a one-time fee of around $400. But security experts warn these TV boxes require intrusive software that forces the user's network to relay Internet traffic for others, traffic that is often tied to cybercrime activity such as advertising fraud and account takeovers.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "578776ac87407943a6d87d4c4fef713d165051a5",
+      "title": "Mozilla Says It\u2019s Finally Done With Two-Faced Onerep",
+      "url": "https://krebsonsecurity.com/2025/11/mozilla-says-its-finally-done-with-two-faced-onerep/",
+      "published": "2025-11-20T19:06:51+00:00",
+      "summary": "In March 2024, Mozilla said it was winding down its collaboration with Onerep -- an identity protection service offered with the Firefox web browser that promises to remove users from hundreds of people-search sites -- after KrebsOnSecurity revealed Onerep's founder had created dozens of people-search services and was continuing to operate at least one of them. Sixteen months later, however, Mozilla is still promoting Onerep. This week, Mozilla announced their partnership with Onerep will officially end next month.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "654024e61e0288ad7c3667dc4521610c8201f8ee",
+      "title": "The Cloudflare Outage May Be a Security Roadmap",
+      "url": "https://krebsonsecurity.com/2025/11/the-cloudflare-outage-may-be-a-security-roadmap/",
+      "published": "2025-11-19T14:07:03+00:00",
+      "summary": "An intermittent outage at Cloudflare on Tuesday briefly knocked many of the Internet's top destinations offline. Some affected Cloudflare customers were able to pivot away from the platform temporarily so that visitors could still access their websites. But security experts say doing so may have also triggered an impromptu network penetration test for organizations that have come to rely on Cloudflare to block many types of abusive and malicious traffic.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "516f12d3c41293e1c1c7570a45ffe41042d6b9ab",
+      "title": "Microsoft Patch Tuesday, November 2025 Edition",
+      "url": "https://krebsonsecurity.com/2025/11/microsoft-patch-tuesday-november-2025-edition/",
+      "published": "2025-11-16T21:47:14+00:00",
+      "summary": "Microsoft this week pushed security updates to fix more than 60 vulnerabilities in its Windows operating systems and supported software, including at least one zero-day bug that is already being exploited. Microsoft also fixed a glitch that prevented some Windows 10 users from taking advantage of an extra year of security updates, which is nice because the zero-day flaw and other critical weaknesses patched today affect all versions of Windows, including Windows 10.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "ccbd4523f54cf9f331f319eabb7ee913e67564e1",
+      "title": "Google Sues to Disrupt Chinese SMS Phishing Triad",
+      "url": "https://krebsonsecurity.com/2025/11/google-sues-to-disrupt-chinese-sms-phishing-triad/",
+      "published": "2025-11-13T14:47:22+00:00",
+      "summary": "Google is suing more than two dozen unnamed individuals allegedly involved in peddling a popular China-based mobile phishing service that helps scammers impersonate hundreds of trusted brands, blast out text message lures, and convert phished payment card data into mobile wallets from Apple and Google.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "bd6488185e52e7ef10d06b19f16a67c940b62c14",
+      "title": "Drilling Down on Uncle Sam\u2019s Proposed TP-Link Ban",
+      "url": "https://krebsonsecurity.com/2025/11/drilling-down-on-uncle-sams-proposed-tp-link-ban/",
+      "published": "2025-11-09T18:14:40+00:00",
+      "summary": "The U.S. government is reportedly preparing to ban the sale of wireless routers and other networking gear from TP-Link Systems, a tech company that currently enjoys an estimated 50% market share among home users and small businesses. Experts say while the proposed ban may have more to do with TP-Link's ties to China than any specific technical threats, much of the rest of the industry serving this market also sources hardware from China and ships products that are insecure fresh out of the box.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
