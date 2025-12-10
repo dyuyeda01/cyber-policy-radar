@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-10T00:45:19.137563+00:00",
+  "generated_at": "2025-12-10T12:18:37.973375+00:00",
   "items": [
     {
       "id": "50bb4c040c7d13d3fd022d65711b19d8ecbfc810",
@@ -112,11 +112,55 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "7f1febd183505b279fa4228db6a127628eceff92",
+      "title": "Webinar: How Attackers Exploit Cloud Misconfigurations Across AWS, AI Models, and Kubernetes",
+      "url": "https://thehackernews.com/2025/12/webinar-how-attackers-exploit-cloud.html",
+      "published": "2025-12-10T11:54:00+00:00",
+      "summary": "Cloud security is changing. Attackers are no longer just breaking down the door; they are finding unlocked windows in your configurations, your identities, and your code.\nStandard security tools often miss these threats because they look like normal activity. To stop them, you need to see exactly how these attacks happen in the real world.\nNext week, the Cortex Cloud team at Palo Alto Networks",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDsLoixGZ0mDDIhc-bQESz8yfEaEGnb6XfD4LAKzu8A1eH2yFNPdTUrVYg-8nT_TUUVST8GMqHlHPfGxMrpmAT9Dj4-zMYWzsCaaAicy1pRxKh8RK1nZHtvv_warN3pAOTJOlp1Yc00f3WB_QMJ2o5eRrxpJ-d9Dh0Y32EIN78iIRDJhDStGji1DJ-72s/s1600/clloudsecurity.jpg"
+    },
+    {
+      "id": "65f7d8d261fef9a5c5398c3a4b417f48622ca304",
+      "title": "Warning: WinRAR Vulnerability CVE-2025-6218 Under Active Attack by Multiple Threat Groups",
+      "url": "https://thehackernews.com/2025/12/warning-winrar-vulnerability-cve-2025.html",
+      "published": "2025-12-10T11:54:00+00:00",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a security flaw impacting the WinRAR file archiver and compression utility to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\nThe vulnerability, tracked as CVE-2025-6218 (CVSS score: 7.8), is a path traversal bug that could enable code execution. However, for exploitation",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhn4WUzO_P0sEPntxbBi-a6uO4dqk0arqJQMhRKYAYj7r8Dbsx3Y7PoeWrMLaEHxK7nMx4vNCTNWFYa6KYRiFFYE2i2Lg3WkD0DO63RN4Nxnt_MSOKAHmb9Z6vsIKaHVVBQLmBTVs0fgsSAomShvnBP25jt1DK11qLYEiqOg0_HsJakDdxnA45GzohEBYT7/s1600/winrar.jpg"
+    },
+    {
+      "id": "42f2d2d73e312ef42a91d4e4cc62693044782a94",
+      "title": "Microsoft Issues Security Fixes for 56 Flaws, Including Active Exploit and Two Zero-Days",
+      "url": "https://thehackernews.com/2025/12/microsoft-issues-security-fixes-for-56.html",
+      "published": "2025-12-10T08:50:00+00:00",
+      "summary": "Microsoft closed out 2025 with patches for 56 security flaws in various products across the Windows platform, including one vulnerability that has been actively exploited in the wild.\nOf the 56 flaws, three are rated Critical, and 53 are rated Important in severity. Two other defects are listed as publicly known at the time of the release. These include 29 privilege escalation, 18 remote code",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIBMHrpsvzLEHZ52J6HNP__PNJC-IjFnM5FpHLkAj5T5-cQN1siRI_E-jKO7T2SYs1XR4g4r5wvPt37dQoCWyqceTNKs1nz7mbnHBtydb4yGtRC4qyOAL4qCNuvCImdE6H62kqb3bUUj14qVg5BGzhywqFJioC3qBIlhFnTDejUFRQRjzXY201Ge2F-IA8/s1600/windows-patch.jpg"
+    },
+    {
+      "id": "930201868b7b12afe0871a204bac76d46a1c93ff",
+      "title": "Fortinet, Ivanti, and SAP Issue Urgent Patches for Authentication and Code Execution Flaws",
+      "url": "https://thehackernews.com/2025/12/fortinet-ivanti-and-sap-issue-urgent.html",
+      "published": "2025-12-10T04:50:00+00:00",
+      "summary": "Fortinet, Ivanti, and SAP have moved to address critical security flaws in their products that, if successfully exploited, could result in an authentication bypass and code execution.\nThe Fortinet vulnerabilities affect FortiOS, FortiWeb, FortiProxy, and FortiSwitchManager and relate to a case of improper verification of a cryptographic signature. They are tracked as CVE-2025-59718 and",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiK0R-QzlGdiLRGA3gSZBJ0bMFvDgCeIgaL7lrq_FTLjhBMQUG6WN0Br_556xWrtqsM1U3814t28KYCkYXcp9CJS4P_jaFPJrLkcku0G1w2N44ocsawmjWgwqog3Uz3ef4kfG6z7F9J56F-O9ReNGWJlVnizYgI-i9PC_GTo2FCnajwj9CBc_-zoaEWwaz-/s1600/sap.jpg"
+    },
+    {
       "id": "b35ca7b4280504c69171a0dbf3da6e317393861f",
       "title": "North Korea-linked Actors Exploit React2Shell to Deploy New EtherRAT Malware",
       "url": "https://thehackernews.com/2025/12/north-korea-linked-actors-exploit.html",
       "published": "2025-12-09T18:25:00+00:00",
-      "summary": "Threat actors with ties to North Korea have likely become the latest to exploit the recently disclosed critical security React2Shell flaw in React Server Components (RSC) to deliver a previously undocumented remote access trojan dubbed EtherRAT.\n\"EtherRAT leverages Ethereum smart contracts for command-and-control (C2) resolution, deploys five independent Linux persistence mechanisms, and",
+      "summary": "Threat actors with ties to North Korea have likely become the latest to exploit the recently disclosed critical React2Shell security flaw in React&nbsp;Server Components (RSC) to deliver a previously undocumented remote access trojan dubbed EtherRAT.\n\"EtherRAT leverages Ethereum smart contracts for command-and-control (C2) resolution, deploys five independent Linux persistence mechanisms, and",
       "source": "The Hacker News",
       "region": "North America",
       "country": "US",
@@ -127,7 +171,7 @@
       "title": "Four Threat Clusters Using CastleLoader as GrayBravo Expands Its Malware Service Infrastructure",
       "url": "https://thehackernews.com/2025/12/four-threat-clusters-using-castleloader.html",
       "published": "2025-12-09T16:01:00+00:00",
-      "summary": "Four distinct threat activity clusters have been observed leveraging a malware loader known as CastleLoader, strengthening the previous assessment that the tool is offered to other threat actors under a malware-as-a-service (MaaS) model.\nThe threat actor behind CastleLoader has been assigned the name GrayBravo by Recorded Future's Insikt Group, which was previously tracking it as TAG-150.",
+      "summary": "Four distinct threat activity clusters have been observed leveraging a malware loader known as CastleLoader, strengthening the previous assessment that the tool is offered to other threat actors under a malware-as-a-service (MaaS) model.\nThe threat actor behind CastleLoader has been assigned the name GrayBravo by Recorded Future's Insikt Group, which was previously tracking it as TAG-150. The",
       "source": "The Hacker News",
       "region": "North America",
       "country": "US",
@@ -616,50 +660,6 @@
       "region": "North America",
       "country": "US",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6WoJCAVDbG57kdVUufW6_tpbnIeKpemxbX50i8MocCexhL1q1yj1epN79uQ925HgHfc00QV22mK6Wz2jkqpxEP_Cnlw2XF-YyHteFuW_ppVBIHUbpcBkmCuWsGpahPBRgUfaRkEZkYWs691YRWFXb3GYij5nt6W4iaKDBVEsufvu2q_9DlPGsnh9YbIDz/s1600/layerx.jpg"
-    },
-    {
-      "id": "27da016179ff5aa9fde1777308006cdcb29b944d",
-      "title": "New Albiriox MaaS Malware Targets 400+ Apps for On-Device Fraud and Screen Control",
-      "url": "https://thehackernews.com/2025/12/new-albiriox-maas-malware-targets-400.html",
-      "published": "2025-12-01T08:45:00+00:00",
-      "summary": "A new Android malware named Albiriox has been advertised under a malware-as-a-service (MaaS) model to offer a \"full spectrum\" of features to facilitate on-device fraud (ODF), screen manipulation, and real-time interaction with infected devices.\nThe malware embeds a hard-coded list comprising over 400 applications spanning banking, financial technology, payment processors, cryptocurrency",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6xz7mWkJclIA4imdNn5zjZkxiRArjemiRQSUONKAKk1aC52C-R6DMyKI09PjF6iBtWNy0Ov_YZjOqovn3RTGYpPyiIlQtKp292GbxH8dfCDSt9HU3m37iItXGp7mgkrCw2i9VWbDKoR6hS_sFPLL-msoj6G1ggeJX2H1llAg4MVjDmqVzBejGwH_4qjHC/s1600/android-malware-1.jpg"
-    },
-    {
-      "id": "eded0b7ee00a85405c77ea29284e5283862647f6",
-      "title": "Tomiris Shifts to Public-Service Implants for Stealthier C2 in Attacks on Government Targets",
-      "url": "https://thehackernews.com/2025/12/tomiris-shifts-to-public-service.html",
-      "published": "2025-12-01T05:07:00+00:00",
-      "summary": "The threat actor known as Tomiris has been attributed to attacks targeting foreign ministries, intergovernmental organizations, and government entities in Russia with an aim to establish remote access and deploy additional tools.\n\"These attacks highlight a notable shift in Tomiris's tactics, namely the increased use of implants that leverage public services (e.g., Telegram and Discord) as",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0Lxoj-jT0lWvAbKZzQ_8tBsiD8CE76EWRKAfG_TID9mVbmf8BoJx5N1fR3ztKD6Yb3B8bRlGyMEArCKaW939VXvJT1G-z2iIxJrjkl_0NBONbMDU3NL8L_vqDzJQWMRIehlO-GiASFU0hTzfxL7_uKhObMFcFHfwv8lRxgFKqNXk-a04Z5gj-Wxvo_nbM/s1600/cyberattacks.jpg"
-    },
-    {
-      "id": "92d043d217099f8af015a66c95a7e387ee007fdb",
-      "title": "CISA Adds Actively Exploited XSS Bug CVE-2021-26829 in OpenPLC ScadaBR to KEV",
-      "url": "https://thehackernews.com/2025/11/cisa-adds-actively-exploited-xss-bug.html",
-      "published": "2025-11-30T09:23:00+00:00",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has updated its Known Exploited Vulnerabilities (KEV) catalog to include a security flaw impacting OpenPLC ScadaBR, citing evidence of active exploitation.\nThe vulnerability in question is CVE-2021-26829 (CVSS score: 5.4), a cross-site scripting (XSS) flaw that affects Windows and Linux versions of the software via",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgDyMqGZH8Rp4Y4Nt38tsox7FPdyDY1hpVLBuBDSX4Zfz3FlXPCzUR5TIOcLs_e3Q37fkYRyC7M-pdCEOmvqhLxWBvynMu8XUeVjaZzdUX5UlW4rqqGs_504c6rcd-ev02FEmGlGjgTUF8hvjIak9dbLhtbVaSgAdl7a9wDYs7u6NO3jcjb12zbVdPnox4/s1600/cisa.jpg"
-    },
-    {
-      "id": "0ae22882caa260940c4539bdccd75e8645a49e71",
-      "title": "Legacy Python Bootstrap Scripts Create Domain-Takeover Risk in Multiple PyPI Packages",
-      "url": "https://thehackernews.com/2025/11/legacy-python-bootstrap-scripts-create.html",
-      "published": "2025-11-28T16:27:00+00:00",
-      "summary": "Cybersecurity researchers have discovered vulnerable code in legacy Python packages that could potentially pave the way for a supply chain compromise on the Python Package Index (PyPI) via a domain takeover attack.\nSoftware supply chain security company ReversingLabs said it found the \"vulnerability\" in bootstrap files provided by a build and deployment automation tool named \"zc.buildout.\"\n\"The",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMdVHqK8sA27WWR3ySGxson4kuqmBaXHQlFm3PSmRaHV6IGdnk_zK0tUvgrFyKepL2COnnm_yiIBdTy-ho7pFKSPQP7cCxkOugoV0s_2k3dUBYC0FI5BkY2tmR3Tsbxktsq7TnQRqzDhiOHe9SjVrRq2XHt5BYU01ctj8yUA8BTv6cDT8zREtEYAdrViUn/s1600/setuptools.jpg"
     },
     {
       "id": "975339afb699d28246cb367edd86ab5eab448fb1",
@@ -1861,6 +1861,61 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "dba721fa9a6c4cb19b107091bc6b16b7ecdb83f3",
+      "title": "Ivanti EPM Update Patches Critical Remote Code Execution Flaw",
+      "url": "https://www.securityweek.com/ivanti-epm-update-patches-critical-remote-code-execution-flaw/",
+      "published": "2025-12-10T11:53:55+00:00",
+      "summary": "<p>The XSS vulnerability could allow remote attackers to execute arbitrary JavaScript code with administrator privileges.</p>\n<p>The post <a href=\"https://www.securityweek.com/ivanti-epm-update-patches-critical-remote-code-execution-flaw/\">Ivanti EPM Update Patches Critical Remote Code Execution Flaw</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "52f296fc61b53e25d57bc0817de67929ef24e202",
+      "title": "SAP Patches Critical Vulnerabilities With December 2025 Security Updates",
+      "url": "https://www.securityweek.com/sap-patches-critical-vulnerabilities-with-december-2025-security-updates/",
+      "published": "2025-12-10T11:08:55+00:00",
+      "summary": "<p>Affecting Solution Manager, Commerce Cloud, and jConnect SDK, the bugs could lead to code injection and remote code execution.</p>\n<p>The post <a href=\"https://www.securityweek.com/sap-patches-critical-vulnerabilities-with-december-2025-security-updates/\">SAP Patches Critical Vulnerabilities With December 2025 Security Updates</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "5470959cf7a21d00c63bb8d0f7c0f9c223d74bb3",
+      "title": "ICS Patch Tuesday: Vulnerabilities Fixed by Siemens, Rockwell, Schneider",
+      "url": "https://www.securityweek.com/ics-patch-tuesday-vulnerabilities-fixed-by-siemens-rockwell-schneider/",
+      "published": "2025-12-10T09:45:32+00:00",
+      "summary": "<p>Dozens of vulnerabilities have been patched by the industrial giants across their products.</p>\n<p>The post <a href=\"https://www.securityweek.com/ics-patch-tuesday-vulnerabilities-fixed-by-siemens-rockwell-schneider/\">ICS Patch Tuesday: Vulnerabilities Fixed by Siemens, Rockwell, Schneider</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "8f342cccb17623c6c970388f80976d68a534a14c",
+      "title": "Intel, AMD Processors Affected by PCIe Vulnerabilities",
+      "url": "https://www.securityweek.com/intel-amd-processors-affected-by-pcie-vulnerabilities/",
+      "published": "2025-12-10T08:02:00+00:00",
+      "summary": "<p>The PCIe flaws, found by Intel employees, can be exploited for information disclosure, escalation of privilege, or DoS.</p>\n<p>The post <a href=\"https://www.securityweek.com/intel-amd-processors-affected-by-pcie-vulnerabilities/\">Intel, AMD Processors Affected by PCIe Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "ce803379895aace5ec6782b4e2e2ab866e3f0fcd",
+      "title": "UK Sanctions Russian and Chinese Firms Suspected of Being \u2018Malign Actors\u2019 in Information Warfare",
+      "url": "https://www.securityweek.com/uk-sanctions-russian-and-chinese-firms-suspected-of-being-malign-actors-in-information-warfare/",
+      "published": "2025-12-10T02:31:12+00:00",
+      "summary": "<p>Britain and its allies face escalating \u201chybrid threats \u2026 designed to weaken critical national infrastructure, undermine our interests and interfere in our democracies.\u201d</p>\n<p>The post <a href=\"https://www.securityweek.com/uk-sanctions-russian-and-chinese-firms-suspected-of-being-malign-actors-in-information-warfare/\">UK Sanctions Russian and Chinese Firms Suspected of Being \u2018Malign Actors\u2019 in Information Warfare</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "decbdba998c51a7117202ff2d0d6d4dcdba4b82a",
       "title": "Adobe Patches Nearly 140 Vulnerabilities",
       "url": "https://www.securityweek.com/adobe-patches-nearly-140-vulnerabilities/",
@@ -1910,61 +1965,6 @@
       "url": "https://www.securityweek.com/webinar-today-inside-the-first-72-hours-of-a-cyber-event/",
       "published": "2025-12-09T16:16:17+00:00",
       "summary": "<p>Learn how GRC and SOC teams can turn shared threat intelligence into faster action, clearer communication, and stronger organizational resilience.</p>\n<p>The post <a href=\"https://www.securityweek.com/webinar-today-inside-the-first-72-hours-of-a-cyber-event/\">Webinar Today: Inside the First 72 hours of a Cyber Event</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "47811a6bd766cc6d3de452f04ee44d55b16981f9",
-      "title": "React2Shell Attacks Linked to North Korean Hackers",
-      "url": "https://www.securityweek.com/react2shell-attacks-linked-to-north-korean-hackers/",
-      "published": "2025-12-09T15:18:11+00:00",
-      "summary": "<p>North Korean threat actors are believed to be behind CVE-2025-55182 exploitation delivering EtherRAT.</p>\n<p>The post <a href=\"https://www.securityweek.com/react2shell-attacks-linked-to-north-korean-hackers/\">React2Shell Attacks Linked to North Korean Hackers</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "74e1a1f16838140db55f0844f0371eb5229a7992",
-      "title": "Identity Security Firm Saviynt Raises $700 Million at $3 Billion Valuation",
-      "url": "https://www.securityweek.com/identity-security-firm-saviynt-raises-700-million-at-3-billion-valuation/",
-      "published": "2025-12-09T14:49:26+00:00",
-      "summary": "<p>The funding round was led by KKR, with participation from Sixth Street Growth, TenEleven, and Carrick Capital Partners.</p>\n<p>The post <a href=\"https://www.securityweek.com/identity-security-firm-saviynt-raises-700-million-at-3-billion-valuation/\">Identity Security Firm Saviynt Raises $700 Million at $3 Billion Valuation\u00a0</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "129b7ff86d760318e9bd657e49b509e070064725",
-      "title": "US Posts $10 Million Bounty for Iranian Hackers",
-      "url": "https://www.securityweek.com/us-posts-10-million-bounty-for-iranian-hackers/",
-      "published": "2025-12-09T12:33:48+00:00",
-      "summary": "<p>The US seeks information on the leader of Emennet Pasargad, Mohammad Bagher Shirinkar, and long-time employee Fatemeh Sedighian Kashi.</p>\n<p>The post <a href=\"https://www.securityweek.com/us-posts-10-million-bounty-for-iranian-hackers/\">US Posts $10 Million Bounty for Iranian Hackers</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "7d1401924f973fbd1f640cd994b3b69993749cf3",
-      "title": "Proofpoint Completes $1.8 Billion Acquisition of Hornetsecurity",
-      "url": "https://www.securityweek.com/proofpoint-completes-1-8-billion-acquisition-of-hornetsecurity/",
-      "published": "2025-12-09T12:20:42+00:00",
-      "summary": "<p>Proofpoint said Hornetsecurity brings in nearly $200 million in annual recurring revenue, with a 20% year-over-year growth rate.</p>\n<p>The post <a href=\"https://www.securityweek.com/proofpoint-completes-1-8-billion-acquisition-of-hornetsecurity/\">Proofpoint Completes $1.8 Billion Acquisition of Hornetsecurity\u00a0</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "460de86c9f4109eaa28f8594a9da19944ce3e143",
-      "title": "New \u2018Broadside\u2019 Botnet Poses Risk to Shipping Companies",
-      "url": "https://www.securityweek.com/new-broadside-botnet-poses-risk-to-shipping-companies/",
-      "published": "2025-12-09T11:48:07+00:00",
-      "summary": "<p>The botnet attempts to steal credentials from infected TBK DVR devices, in addition to abusing them to launch DDoS attacks.</p>\n<p>The post <a href=\"https://www.securityweek.com/new-broadside-botnet-poses-risk-to-shipping-companies/\">New &#8216;Broadside&#8217; Botnet Poses Risk to Shipping Companies</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
