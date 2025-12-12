@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-12T00:45:10.850565+00:00",
+  "generated_at": "2025-12-12T12:18:11.284478+00:00",
   "items": [
     {
       "id": "9a8c3183d9e25c108283a64cedd6f8ecbc71f9e2",
@@ -110,6 +110,50 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "a13beefb5a79e67551d7989e74f6e7d81094c82e",
+      "title": "Securing GenAI in the Browser: Policy, Isolation, and Data Controls That Actually Work",
+      "url": "https://thehackernews.com/2025/12/securing-genai-in-browser-policy.html",
+      "published": "2025-12-12T10:18:00+00:00",
+      "summary": "The browser has become the main interface to GenAI for most enterprises: from web-based LLMs and copilots, to GenAI\u2011powered extensions and agentic browsers like ChatGPT Atlas. Employees are leveraging the power of GenAI to draft emails, summarize documents, work on code, and analyze data, often by copying/pasting sensitive information directly into prompts or uploading files.&nbsp;\nTraditional",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDv3XARtOUivvjEnErljioTinVDnawx7b3HwjUiP4I_0_JvCPo8jro-fI8ZJHESGp8sG0SMYH4BgfZqMQMeGA95kuzhe3z3m6GgMCtBdqRtLJ1WRKUHTJv8XoRLh8H7UXi3wMH0O9BhfsBsLyRFdsv53qh-TYgOwFr3PzpdsKcZ4QryozVIoGGJhVKP_c/s1600/ai.jpg"
+    },
+    {
+      "id": "c2ebc06b03d06ff0cf0d00cd5b789e04f80be147",
+      "title": "New React RSC Vulnerabilities Enable DoS and Source Code Exposure",
+      "url": "https://thehackernews.com/2025/12/new-react-rsc-vulnerabilities-enable.html",
+      "published": "2025-12-12T08:55:00+00:00",
+      "summary": "The React team has released fixes for two new types of flaws in React Server Components (RSC) that, if successfully exploited, could result in denial-of-service (DoS) or source code exposure.\nThe team said the issues were found by the security community while attempting to exploit the patches released for CVE-2025-55182 (CVSS score: 10.0), a critical bug in RSC that has since been weaponized in",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQz6FV9qkD3ZQ34_-_te7LAvOtZNopi3bQRTQq3TCojcBmPoef7tp-tgxFhffuFYyC5kvbdfEJMIBjwMn-rPElYlnpKG9kj89lPIAde8h_lYZRKq6a4mfiH6VWDXwIqFwimchyQ8M7RUvLd2_cAUi2aqcDyXZI_uDJcjfl1SyScuC96LV9RPhcDan3FJpQ/s1600/react-flaws.jpg"
+    },
+    {
+      "id": "a4ca8a99a401871829618582bedfe4ffc7e13b92",
+      "title": "React2Shell Exploitation Escalates into Large-Scale Global Attacks, Forcing Emergency Mitigation",
+      "url": "https://thehackernews.com/2025/12/react2shell-exploitation-escalates-into.html",
+      "published": "2025-12-12T08:41:00+00:00",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has urged federal agencies to patch the recent React2Shell vulnerability by December 12, 2025, amid reports of widespread exploitation.\nThe critical vulnerability, tracked as CVE-2025-55182 (CVSS score: 10.0), affects the React Server Components (RSC) Flight protocol. The underlying cause of the issue is an unsafe deserialization",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhnft_k0pTnAA0gVIW1pPi9QlZ_5qU92WBv8wfMA9644HkYIF5DMGYcdZjGyDmHPm9WA5IoE1uLal-fqzhvX96S5gLUNTS38ggHySqo50T-brLivYF2HW2dDKYqfDJlu8kPGOuN5zVpy9w8kuC51Zz6Nsq3gQCdZ19snMvA-tfDAsFGryH6Qa1C1HMwS8M/s1600/react2shell-hacking.jpg"
+    },
+    {
+      "id": "96512c0625e8567281e8aacad55f44315e776cbb",
+      "title": "CISA Flags Actively Exploited GeoServer XXE Flaw in Updated KEV Catalog",
+      "url": "https://thehackernews.com/2025/12/cisa-flags-actively-exploited-geoserver.html",
+      "published": "2025-12-12T05:01:00+00:00",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a high-severity security flaw impacting OSGeo GeoServer to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation in the wild.\nThe vulnerability in question is CVE-2025-58360 (CVSS score: 8.2), an unauthenticated XML External Entity (XXE) flaw that affects all versions prior to",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBN5buANAAdi4AundLfRH7dgLMFWvHQosALn-UulNEQC0ZZxUmTJUHQyS3meXA8rVRya72n3Wl-DsJRMM6VluFoSZSdm4Ha5SijPW09wRzOE2rpQmfh0JW113iEosXFEiel84OVcf-KWHWf4IjtWwxRd0lqdzPfsvf5qrP9bKcG6TCVEEy12h24ncJChnL/s1600/geo-server.jpg"
     },
     {
       "id": "1d1f2671374a8cb8809c8cde0933b6bf9eb73732",
@@ -618,48 +662,15 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaXJGSuca7TOkhpzQSqTtJJWkuBbFzjkm6UDnl04TARRIVqKOvnJmtLCysj9BEt7zm7QmU8RZMFjwiGnVOQUKIxvVle841t-4dv7YGs8Rx4qo9cvYQApnnJnAhmG419Xy-d0_nI8URsb8IQpXQpfBFD5nlOiADT0Mp0ZW0Ze-rxNvgCuQIAGTgNZovCBTN/s1600/brazil-malware.jpg"
     },
     {
-      "id": "695d7f7a62a75b6182a4842cc0cffdc2252b093a",
-      "title": "Chopping AI Down to Size: Turning Disruptive Technology into a Strategic Advantage",
-      "url": "https://thehackernews.com/2025/12/chopping-ai-down-to-size-turning.html",
-      "published": "2025-12-03T09:56:00+00:00",
-      "summary": "Most people know the story of Paul Bunyan. A giant lumberjack, a trusted axe, and a challenge from a machine that promised to outpace him. Paul doubled down on his old way of working, swung harder, and still lost by a quarter inch. His mistake was not losing the contest. His mistake was assuming that effort alone could outmatch a new kind of tool.\nSecurity professionals are facing a similar",
-      "source": "The Hacker News",
+      "id": "7542f20ac9a8ce7abf26e46a59880cd3354e1b2c",
+      "title": "Hamas-Linked Hackers Probe Middle Eastern Diplomats",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/hamas-hackers-middle-eastern-diplomats",
+      "published": "2025-12-12T07:00:00+00:00",
+      "summary": "Hamas's best hackers have been maturing, building better malware, and spreading their attacks more widely across the region.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_4P5ELpACB-FnFxcCiCIcebpFFrXZIu9gkCjCAv4TAmaJTeIdo5zVIdwYukqu-MeZKQheSzmWFedSw-8-0gx5dOfbsdLNyMNglcp_etSWlTZpLuAZd00De4GbsAL-szGMm7P_wIbuM32IPuGGihYzTUJdQuFkOGuBcvFZCtaj2NoQgG4BCPvwfbJvvTk/s1600/ai-work.png"
-    },
-    {
-      "id": "40ecff9d841a47867ffd904814b1ea6931926505",
-      "title": "Picklescan Bugs Allow Malicious PyTorch Models to Evade Scans and Execute Code",
-      "url": "https://thehackernews.com/2025/12/picklescan-bugs-allow-malicious-pytorch.html",
-      "published": "2025-12-03T09:30:00+00:00",
-      "summary": "Three critical security flaws have been disclosed in an open-source utility called Picklescan that could allow malicious actors to execute arbitrary code by loading untrusted PyTorch models, effectively bypassing the tool's protections.\nPicklescan, developed and maintained by Matthieu Maitre (@mmaitre314), is a security scanner that's designed to parse Python pickle files and detect suspicious",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtJ6D3cf9n4d0wB-0nReoF_JEgEraaVECS6V41EWkvsqwoa8YOSI5EnrHQ2MBHew0VbYvNg1pXuVpV7OQKTDKH4IWhlqyPZnVjA7RcLW_drNT2MVy3jupLSFT2ePAxBj0GaI3z3tNd4E2-gCBisHYhFUWXzyXocF0wGQCCLjV5W4Wl8FS5gLJX2GlQdGRZ/s1600/pytorch.jpg"
-    },
-    {
-      "id": "2a880aa61bb49c08c2b0820a77c3347550bdfe88",
-      "title": "Malicious Rust Crate Delivers OS-Specific Malware to Web3 Developer Systems",
-      "url": "https://thehackernews.com/2025/12/malicious-rust-crate-delivers-os.html",
-      "published": "2025-12-03T08:39:00+00:00",
-      "summary": "Cybersecurity researchers have discovered a malicious Rust package that's capable of targeting Windows, macOS, and Linux systems, and features malicious functionality to stealthily execute on developer machines by masquerading as an Ethereum Virtual Machine (EVM) unit helper tool.\nThe Rust crate, named \"evm-units,\" was uploaded to crates.io in mid-April 2025 by a user named \"ablerust,\"",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhV7pMBv7FKpI1ZaejuUm5kIC7Q_Lw7E3o4mfaC-4dY33fF2IlNA7_dcRFmMKSmlyqxrfiZXlAee52u_-OzSTa2hiNLz961dUHKb6Khqw3YSFGIYS2mns-s1BjTRHAOiUBXKI7MM-WC5ydc4RZ0b64IPFvcu9dEFwypyyo4HHEnNqSwpoLVXRYGiewM4Tn6/s1600/crypto-rust.jpg"
-    },
-    {
-      "id": "a07fba0e6d6c88441f1772e494e478adb4d10865",
-      "title": "India Orders Messaging Apps to Work Only With Active SIM Cards to Prevent Fraud and Misuse",
-      "url": "https://thehackernews.com/2025/12/india-orders-messaging-apps-to-work.html",
-      "published": "2025-12-02T17:46:00+00:00",
-      "summary": "India's Department of Telecommunications (DoT) has issued directions to app-based communication service providers to ensure that the platforms cannot be used without an active SIM card linked to the user's mobile number.\nTo that end, messaging apps like WhatsApp, Telegram, Snapchat, Arattai, Sharechat, Josh, JioChat, and Signal that use an Indian mobile number for uniquely identifying their",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgW5V9zIXz0yEWJ5vdZLEwaeXiwkUb61vkrjHH1aYKIQ7uLnBxnaczfZ2saDpBrY468ov_AduMQFVmMwbfbpEpuZTLbCXHC6z0LROb6wRnc0vMb2gHl_JC1huwaEfpFtrjRTZjU7W5sdzRQ5DtApUByf_1c-JaHuYWgi3IOx7fMoQmfCUPZhIYsQvngrXaf/s1600/whatsapp-sim.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt60aa118a62258b6f/693b2e2634e2d68b87652d80/Hamas_logo-Ralf_Liebhold-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "id": "f62484ad69c7e080aeec16720cbef6abf15e5e36",
@@ -1201,15 +1212,26 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltef7b4ec1e1c7853d/692626d3d3d2e2547daa1fea/iran-digital-flag-Skorzewiak-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "aa15cb473a3d0dc5d82520385f7a59fdfe0564e8",
-      "title": "Advanced Security Isn't Stopping Ancient Phishing Tactics",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/advanced-security-phishing-tactics",
-      "published": "2025-11-25T22:23:05+00:00",
-      "summary": "New research reveals that sophisticated phishing attacks consistently bypass traditional enterprise security measures.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt80311dc5b400ae84/6925ea35acfca804a4837ddd/fish-Hoxton-alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "id": "c3ef7b32620770d64e55adfac2b7c264ebc33946",
+      "title": "Half of exposed React servers remain unpatched amid active exploitation",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2025/12/12/vulnerable_react_instances_unpatched/",
+      "published": "2025-12-12T11:31:09+00:00",
+      "summary": "<h4>Wiz says React2Shell attacks accelerating, ranging from cryptominers to state-linked crews</h4> <p>Half of the internet-facing systems vulnerable to a fast-moving React remote code execution flaw remain unpatched, even as exploitation has exploded into more than a dozen active attack clusters ranging from bargain-basement cryptominers to state-linked intrusion tooling.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "932561b854c9522b8a77ce0b6c76da1751a98ef5",
+      "title": "Crypto-crasher Do Kwon jailed for 15 years over $40bn UST bust",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2025/12/12/do_kwon_sentenced/",
+      "published": "2025-12-12T01:53:15+00:00",
+      "summary": "<h4>Judge said his fraud was on 'epic, generational scale'</h4> <p>Terraform Labs founder Do Kwon will spend 15 years in jail after pleading guilty to committing fraud.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
       "id": "7198fd26b2050cda9e633a5569441de04c497b5b",
@@ -1740,28 +1762,6 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "659b4342c4e4a79cbcff8338e5c6697f42c06151",
-      "title": "Kensington and Chelsea confirms IT outage was a data breach after all",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/12/02/london_councils_data_breach/",
-      "published": "2025-12-02T15:18:01+00:00",
-      "summary": "<h4>Borough says attackers copied 'historical' info as three-council cyber woes drag on</h4> <p>Kensington and Chelsea Council has admitted that data was quietly lifted from its systems during last week's cyber meltdown, confirming that the outage was not just an IT faceplant but a bona fide data breach.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "92495f6728234df980f8aa7950c766643a472b25",
-      "title": "FTC schools edtech outfit after intruder walked off with 10M student records",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/12/02/ftc_illuminate/",
-      "published": "2025-12-02T14:09:37+00:00",
-      "summary": "<h4>Regulator says Illuminate ignored years of warnings, stored kids' data in plain text, and kept districts in the dark</h4> <p>US edtech provider Illuminate Education just got dinged by the Federal Trade Commission for allegedly failing to keep an attacker from pilfering data on 10 million students.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
       "id": "6c5536fe0a2cf116770b51ec277e721893a47db6",
       "title": "Microsoft Patch Tuesday, December 2025 Edition",
       "url": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
@@ -1861,6 +1861,72 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "b8f40b4106bea2bde164d14e0293b051cd1c1836",
+      "title": "Recent GeoServer Vulnerability Exploited in Attacks",
+      "url": "https://www.securityweek.com/recent-geoserver-vulnerability-exploited-in-attacks/",
+      "published": "2025-12-12T12:13:10+00:00",
+      "summary": "<p>Because user input is not sufficiently sanitized, attackers could exploit the flaw to define external entities within an XML request.</p>\n<p>The post <a href=\"https://www.securityweek.com/recent-geoserver-vulnerability-exploited-in-attacks/\">Recent GeoServer Vulnerability Exploited in Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "f354c724046b3dc7458265d267f358f71d555cbf",
+      "title": "MITRE Releases 2025 List of Top 25 Most Dangerous Software Vulnerabilities",
+      "url": "https://www.securityweek.com/mitre-releases-2025-list-of-top-25-most-dangerous-software-vulnerabilities/",
+      "published": "2025-12-12T12:00:01+00:00",
+      "summary": "<p>XSS remains the top software weakness, followed by SQL injection and CSRF. Buffer overflow issues and improper access control make it to top 25.</p>\n<p>The post <a href=\"https://www.securityweek.com/mitre-releases-2025-list-of-top-25-most-dangerous-software-vulnerabilities/\">MITRE Releases 2025 List of Top 25 Most Dangerous Software Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "554643da5d0fdac9e6d58fb189883db8b2d897ef",
+      "title": "Microsoft Bug Bounty Program Expanded to Third-Party Code",
+      "url": "https://www.securityweek.com/microsoft-bug-bounty-program-expanded-to-third-party-code/",
+      "published": "2025-12-12T11:01:04+00:00",
+      "summary": "<p>All critical vulnerabilities in Microsoft, third-party, and open source code are eligible for rewards if they impact Microsoft services.</p>\n<p>The post <a href=\"https://www.securityweek.com/microsoft-bug-bounty-program-expanded-to-third-party-code/\">Microsoft Bug Bounty Program Expanded to Third-Party Code</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "9630a33e3b911873e19ae2741ac77d8919bac776",
+      "title": "Notepad++ Patches Updater Flaw After Reports of Traffic Hijacking",
+      "url": "https://www.securityweek.com/notepad-patches-updater-flaw-after-reports-of-traffic-hijacking/",
+      "published": "2025-12-12T10:50:41+00:00",
+      "summary": "<p>Notepad++ found a vulnerability in the way the software updater authenticates update files.\u00a0</p>\n<p>The post <a href=\"https://www.securityweek.com/notepad-patches-updater-flaw-after-reports-of-traffic-hijacking/\">Notepad++ Patches Updater Flaw After Reports of Traffic Hijacking</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "108b9be05da306dc15cf3dbf34b61117ec5a4065",
+      "title": "$320,000 Paid Out at Zeroday.Cloud for Open Source Software Exploits",
+      "url": "https://www.securityweek.com/320000-paid-out-at-zeroday-cloud-for-open-source-software-exploits/",
+      "published": "2025-12-12T07:41:41+00:00",
+      "summary": "<p>Participants earned rewards at the hacking competition for Grafana, Linux Kernel, Redis, MariaDB, and PostgreSQL vulnerabilities.</p>\n<p>The post <a href=\"https://www.securityweek.com/320000-paid-out-at-zeroday-cloud-for-open-source-software-exploits/\">$320,000 Paid Out at Zeroday.Cloud for Open Source Software Exploits</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "cccb16b3376e3445a00ff814d2281c0154874e02",
+      "title": "Trump Signs Executive Order to Block State AI Regulations",
+      "url": "https://www.securityweek.com/trump-signs-executive-order-to-block-state-ai-regulations/",
+      "published": "2025-12-12T02:44:28+00:00",
+      "summary": "<p>Members of Congress from both parties have pushed for more regulations on AI, saying there is not enough oversight for the powerful technology.</p>\n<p>The post <a href=\"https://www.securityweek.com/trump-signs-executive-order-to-block-state-ai-regulations/\">Trump Signs Executive Order to Block State AI Regulations</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "3281ee957116fd758ce9f4f598b234324a746501",
       "title": "Virtual Event Today: Cyber AI & Automation Summit Day 2",
       "url": "https://www.securityweek.com/virtual-event-today-cyber-ai-automation-summit-day-2/",
@@ -1899,72 +1965,6 @@
       "url": "https://www.securityweek.com/pierce-county-library-data-breach-impacts-340000/",
       "published": "2025-12-11T13:00:07+00:00",
       "summary": "<p>In April 2025, hackers stole personal information belonging to patrons and employees and their family members.</p>\n<p>The post <a href=\"https://www.securityweek.com/pierce-county-library-data-breach-impacts-340000/\">Pierce County Library Data Breach Impacts 340,000</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "00983477b508aefb310e6fc19474a3a0d4284c0c",
-      "title": "Wide Range of Malware Delivered in React2Shell Attacks",
-      "url": "https://www.securityweek.com/wide-range-of-malware-delivered-in-react2shell-attacks/",
-      "published": "2025-12-11T12:12:17+00:00",
-      "summary": "<p>Security firms have seen cryptocurrency miners, Linux backdoors, botnet malware, and various post-exploitation implants in React2Shell attacks.</p>\n<p>The post <a href=\"https://www.securityweek.com/wide-range-of-malware-delivered-in-react2shell-attacks/\">Wide Range of Malware Delivered in React2Shell Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "9029b18f7acb2dde49b3e49e449ab2b343ecbedf",
-      "title": "Unpatched Gogs Zero-Day Exploited for Months",
-      "url": "https://www.securityweek.com/unpatched-gogs-zero-day-exploited-for-months/",
-      "published": "2025-12-11T12:01:28+00:00",
-      "summary": "<p>The exploited flaw allows attackers to overwrite files outside the repository, leading to remote code execution.</p>\n<p>The post <a href=\"https://www.securityweek.com/unpatched-gogs-zero-day-exploited-for-months/\">Unpatched Gogs Zero-Day Exploited for Months</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "64c479c6ef63040b831650ec17e32d6624222558",
-      "title": "IBM Patches Over 100 Vulnerabilities",
-      "url": "https://www.securityweek.com/ibm-patches-over-100-vulnerabilities/",
-      "published": "2025-12-11T10:23:28+00:00",
-      "summary": "<p>Most of the 100 vulnerabilities resolved this week, including critical flaws, were in third-party dependencies.</p>\n<p>The post <a href=\"https://www.securityweek.com/ibm-patches-over-100-vulnerabilities/\">IBM Patches Over 100 Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "c307094b9071cee23dc80b0649df614628b77fd9",
-      "title": "Google Patches Mysterious Chrome Zero-Day Exploited in the Wild",
-      "url": "https://www.securityweek.com/google-patches-mysterious-chrome-zero-day-exploited-in-the-wild/",
-      "published": "2025-12-11T07:43:22+00:00",
-      "summary": "<p>The Chrome zero-day does not have a CVE and it's unclear who reported it and which browser component it affects.</p>\n<p>The post <a href=\"https://www.securityweek.com/google-patches-mysterious-chrome-zero-day-exploited-in-the-wild/\">Google Patches Mysterious Chrome Zero-Day Exploited in the Wild</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "dd0036b1466936becd58ff612081cbe2ffd64fc7",
-      "title": "Israeli Cybersecurity Funding Hits $4.4 Billion Record High",
-      "url": "https://www.securityweek.com/israeli-cybersecurity-funding-hits-4-4-billion-record-high/",
-      "published": "2025-12-10T15:38:00+00:00",
-      "summary": "<p>Over the past decade, overall funding in Israeli cybersecurity companies has increased by more than 500%, according to YL Ventures.\u00a0</p>\n<p>The post <a href=\"https://www.securityweek.com/israeli-cybersecurity-funding-hits-4-4-billion-record-high/\">Israeli Cybersecurity Funding Hits $4.4 Billion Record High</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "6f133e6f2e68b22a150129953b401c1cf5f8a35b",
-      "title": "Virtual Event Today: Cyber AI & Automation Summit",
-      "url": "https://www.securityweek.com/virtual-event-today-cyber-ai-automation-summit-3/",
-      "published": "2025-12-10T15:14:25+00:00",
-      "summary": "<p>Join to access sessions aimed at educating, inspiring, and provoking new ways of thinking about the hype and promise surrounding AI-powered enterprise security solutions and the threats posed by adversarial use of AI.</p>\n<p>The post <a href=\"https://www.securityweek.com/virtual-event-today-cyber-ai-automation-summit-3/\">Virtual Event Today: Cyber AI &amp; Automation Summit</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
