@@ -1,6 +1,28 @@
 {
-  "generated_at": "2025-12-12T12:18:11.284478+00:00",
+  "generated_at": "2025-12-13T00:43:06.175928+00:00",
   "items": [
+    {
+      "id": "8a0f926c7000406f6f8a79b2bc2e8ca4333e623f",
+      "title": "React issues new patches after security researchers flag additional flaws",
+      "url": "https://www.cybersecuritydive.com/news/react-issues-new-patches-after-security-researchers-flag-additional-flaws/807776/",
+      "published": "2025-12-12T15:37:58+00:00",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/Vi3PE553lEyUSZE_fbvS0Mzsb5xnK9yYdFA1jQRgOC4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy01NDIzMDg1MDYuanBn.webp\" /></div></figure><p>Researchers warn that critical infrastructure providers and government sites are being targeted by state-linked attackers.</p>",
+      "source": "Cybersecurity Dive",
+      "region": "North America",
+      "country": "US",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "75291ae351a9b1ae58e0572c25f5670e2b22efff",
+      "title": "CISA updates cybersecurity benchmarks for critical infrastructure organizations",
+      "url": "https://www.cybersecuritydive.com/news/cisa-cybersecurity-performance-goals-update/807766/",
+      "published": "2025-12-12T15:11:45+00:00",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/p1t777lvRYTMuNm-9ZruuRPB3bo1Gk03gNobbnqCDZc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9DSVNBX2hlYWRlci5qcGc=.webp\" /></div></figure><p>The agency streamlines and supplements goals it first issued in 2022.</p>",
+      "source": "Cybersecurity Dive",
+      "region": "North America",
+      "country": "US",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
     {
       "id": "9a8c3183d9e25c108283a64cedd6f8ecbc71f9e2",
       "title": "Cyberattacks force small firms to raise prices: ITRC",
@@ -90,26 +112,26 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "f2f3f1756d0354c780e2b197ed582fe2604eedbe",
-      "title": "State-linked groups target critical vulnerability in React Server Components",
-      "url": "https://www.cybersecuritydive.com/news/state-linked-critical-vulnerability-react-server/807228/",
-      "published": "2025-12-05T22:17:06+00:00",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/Vi3PE553lEyUSZE_fbvS0Mzsb5xnK9yYdFA1jQRgOC4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy01NDIzMDg1MDYuanBn.webp\" /></div></figure><p>China-nexus threat groups have already begun targeting the flaw, creating widespread risk as nearly 40% of cloud environments are potentially impacted.</p>",
-      "source": "Cybersecurity Dive",
+      "id": "f36e007418843fe7fd5397fa8b1e2cd9502579cf",
+      "title": "Fake OSINT and GPT Utility GitHub Repos Spread PyStoreRAT Malware Payloads",
+      "url": "https://thehackernews.com/2025/12/fake-osint-and-gpt-utility-github-repos.html",
+      "published": "2025-12-12T18:50:00+00:00",
+      "summary": "Cybersecurity researchers are calling attention to a new campaign that's leveraging GitHub-hosted Python repositories to distribute a previously undocumented JavaScript-based Remote Access Trojan (RAT) dubbed PyStoreRAT.\n\"These repositories, often themed as development utilities or OSINT tools, contain only a few lines of code responsible for silently downloading a remote HTA file and executing",
+      "source": "The Hacker News",
       "region": "North America",
       "country": "US",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYgcFxpYG91gB_qImBj80xopP9yPiTuHXJwTeIXOS92Fsj6dtv4A2LK3aQxVQGKfA6sJ7T5WfeX5CEFBFrPNNH96PY7qjHCbyb7yDH5WrATaFflCN3YgQxQZJlOlKaQLK0nDtbzGwlS0FrwBVm7CwEvPkr_qSbBR1fvXX-xxIZn6XdUspYS7k2c1j87330/s1600/git.jpg"
     },
     {
-      "id": "0f14c650dd05d74cb8cc9c4e17e1994223a6512a",
-      "title": "China-nexus actor targets multiple US entities with Brickstorm malware",
-      "url": "https://www.cybersecuritydive.com/news/china-actor-us-entities-brickstorm-malware/807166/",
-      "published": "2025-12-05T16:22:14+00:00",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/kgB0WAmJI6rCGnPgptD2JhYayz3v2bEYIHHfqfc4iV0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTg5NzgxODY0LnBuZw==.webp\" /></div></figure><p>Researchers outline a campaign targeting U.S. companies, and CISA warns of attacks on government services and IT firms.</p>",
-      "source": "Cybersecurity Dive",
+      "id": "b5618c11e1275aa8e5f9e09bcea6d908b31af59f",
+      "title": "New Advanced Phishing Kits Use AI and MFA Bypass Tactics to Steal Credentials at Scale",
+      "url": "https://thehackernews.com/2025/12/new-advanced-phishing-kits-use-ai-and.html",
+      "published": "2025-12-12T14:04:00+00:00",
+      "summary": "Cybersecurity researchers have documented four new phishing kits named BlackForce, GhostFrame, InboxPrime AI, and Spiderman that are capable of facilitating credential theft at scale.\nBlackForce, first detected in August 2025, is designed to steal credentials and perform Man-in-the-Browser (MitB) attacks to capture one-time passwords (OTPs) and bypass multi-factor authentication (MFA). The kit",
+      "source": "The Hacker News",
       "region": "North America",
       "country": "US",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4a8r1ltQRVAHGAuHpS5vuzkIAKVgEgZQt0hi_nLCDg6akixRXUC_2sswGCHs8tFV2oLmaZd-YAwL-Yu09qMZMC64PZ2EQNycGfpxLzqwqGXaf1mPfKRZtx4XWLOKPXc1uyH_zVni2tBfNkiOUQL0Cdy4qqTRGu99eo6jDQbNq6O1-lvaZ8ZmKI3r9EG0c/s1600/1000039728.jpg"
     },
     {
       "id": "a13beefb5a79e67551d7989e74f6e7d81094c82e",
@@ -640,26 +662,70 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJ8lCeyLFyNZFfUBtMHvZcuBWjl0_wMxa6EDvL0yCJ56HtMZpYr20dgnTcKGDcgf7OHdxi-yN5eipnPsbVM9oMYLpGAvj3nDfKEb66Y7IOl-9eyGRg5pzgmf7vXXG2ss8feZhUu2gSbWlmckQm3-RvVRcIqA_Ulmx0eAP_FB3GFgcislAUh6AdsIqCfnqR/s1600/windows-update.jpg"
     },
     {
-      "id": "0e87e1af4880a616a63b01808b04bd1dcaa0a79f",
-      "title": "WordPress King Addons Flaw Under Active Attack Lets Hackers Make Admin Accounts",
-      "url": "https://thehackernews.com/2025/12/wordpress-king-addons-flaw-under-active.html",
-      "published": "2025-12-03T17:08:00+00:00",
-      "summary": "A critical security flaw impacting a WordPress plugin known as King Addons for Elementor has come under active exploitation in the wild.\nThe vulnerability, CVE-2025-8489 (CVSS score: 9.8), is a case of privilege escalation that allows unauthenticated attackers to grant themselves administrative privileges by simply specifying the administrator user role during registration.\nIt affects versions",
-      "source": "The Hacker News",
+      "id": "2b7a44a3ce0186ea0764d1ab22fe987db1de164f",
+      "title": "The CISO-COO Partnership: Protecting Operational Excellence",
+      "url": "https://www.darkreading.com/cybersecurity-operations/the-ciso-coo-partnership-protecting-operational-excellence",
+      "published": "2025-12-12T21:12:13+00:00",
+      "summary": "Digital transformation has made cybersecurity preparation part of operational resilience for most organizations. This calls for a new relationship between CISO and COO.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOEUBRBU7yOr4ksYNRA4-5equs6h7KyW_qETUsEQn6G_YqC_Qf7XlkyQ4kr4Ycwj5N97XeMxAppRT_JDyz7IETPajE9USD0YGONtpR0cMK-Zkd8BvJmoTFZ14U-5nj7WScTRyJLngRoOpf72yLTRFxXKST20oeimcv4ktQ0990pcmrOqS4pgWitQMGl66W/s1600/wordpress.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta3333d537098516d/685a9a201bca8cffb68be5b9/teamwork-_Brain_light-alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "ce46c515511b477f5614057711782c27faecf586",
-      "title": "Brazil Hit by Banking Trojan Spread via WhatsApp Worm and RelayNFC NFC Relay Fraud",
-      "url": "https://thehackernews.com/2025/12/brazil-hit-by-banking-trojan-spread-via.html",
-      "published": "2025-12-03T15:32:00+00:00",
-      "summary": "The threat actor known as Water Saci is actively evolving its tactics, switching to a sophisticated, highly layered infection chain that uses HTML Application (HTA) files and PDFs to propagate via WhatsApp a worm that deploys a banking trojan in attacks targeting users in Brazil.\nThe latest wave is characterized by the attackers shifting from PowerShell to a Python-based variant that spreads the",
-      "source": "The Hacker News",
+      "id": "a406046eec97ff94fb86cd14c0037ccf7a38d875",
+      "title": "React2Shell Exploits Flood the Internet as Attacks Continue",
+      "url": "https://www.darkreading.com/threat-intelligence/react2shell-exploits-flood-internet-attacks-continue",
+      "published": "2025-12-12T20:11:43+00:00",
+      "summary": "As exploitation activity against CVE-2025-55182 ramps up, researchers are finding some proof-of-concept exploits contain bypasses for web application firewall (WAF) rules.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaXJGSuca7TOkhpzQSqTtJJWkuBbFzjkm6UDnl04TARRIVqKOvnJmtLCysj9BEt7zm7QmU8RZMFjwiGnVOQUKIxvVle841t-4dv7YGs8Rx4qo9cvYQApnnJnAhmG419Xy-d0_nI8URsb8IQpXQpfBFD5nlOiADT0Mp0ZW0Ze-rxNvgCuQIAGTgNZovCBTN/s1600/brazil-malware.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2f423e90264d26a8/693c77db12ca300e247b043b/maliciouscode_Victor_Koldunov_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
+      "id": "b0e4e60be7516a4a55800553727524ff34e47e59",
+      "title": "Vibe Coding: Innovation Demands Vigilance",
+      "url": "https://www.darkreading.com/application-security/vibe-coding-innovation-demands-vigilance",
+      "published": "2025-12-12T20:07:23+00:00",
+      "summary": "Unmanaged coding is indeed an alluring idea, but can introduce a host of significant cybersecurity dangers, Constantine warns.",
+      "source": "DarkReading",
+      "region": "North America",
+      "country": "US",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8359f9fc3c8cb3a1/693c70cd516b719f628b72c3/office_worker_blindfold_Elnur_Amikishiyev_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
+      "id": "3dcf3158a58c2364979042da6724d2f6e732e2f6",
+      "title": "Microsoft Will Bundle Security Copilot With M365 Enterprise Licenses",
+      "url": "https://www.darkreading.com/cybersecurity-operations/microsoft-bundle-security-copilot-m365-enterprise-license",
+      "published": "2025-12-12T19:32:42+00:00",
+      "summary": "The move aims to expand the use of Security Copilot and comes with the launch of 12 new agents from Microsoft at the company's Ignite conference last week.",
+      "source": "DarkReading",
+      "region": "North America",
+      "country": "US",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt42df7ca896592a2e/6751ee3d47226cf59b96d81d/SOC_(1800)_Dragos_Condrea_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
+      "id": "119fd64a6f41d4814dc771651823fb84c960cfa0",
+      "title": "Supply Chain Attacks Targeting GitHub Actions Increased in 2025",
+      "url": "https://www.darkreading.com/application-security/supply-chain-attacks-targeting-github-actions-increased-in-2025",
+      "published": "2025-12-12T18:37:53+00:00",
+      "summary": "At this week's Black Hat Europe conference, two researchers urged developers to adopt a shared responsibility model for open source software and not leave it all up to GitHub to handle.",
+      "source": "DarkReading",
+      "region": "North America",
+      "country": "US",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltcaeb14971d491b65/693c63ed866c62aa4b94c373/collaboration-BullRun-AdobeStock_302947168CP.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
+      "id": "2f9fcba18744637dda92ffb8e406a176a4fc8563",
+      "title": "Are Trade Concerns Trumping US Cybersecurity?",
+      "url": "https://www.darkreading.com/cyber-risk/trade-concerns-trumping-cybersecurity",
+      "published": "2025-12-12T14:00:00+00:00",
+      "summary": "The Trump administration appears to have dropped sanctions against Chinese actors for the Salt Typhoon attacks on US telecoms; but focusing on diplomacy alone misses the full picture, experts say.",
+      "source": "DarkReading",
+      "region": "North America",
+      "country": "US",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt81971806f6f2a3c4/685dafc030ac794556cdd521/china-us-flags-conflict-helloRuby-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "id": "7542f20ac9a8ce7abf26e46a59880cd3354e1b2c",
@@ -671,6 +737,28 @@
       "region": "North America",
       "country": "US",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt60aa118a62258b6f/693b2e2634e2d68b87652d80/Hamas_logo-Ralf_Liebhold-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
+      "id": "1a5199b00b78b500c11c9f160707d645c1302a3c",
+      "title": "Money Mules Require Banks to Switch from Defense to Offense",
+      "url": "https://www.darkreading.com/threat-intelligence/money-mules-require-banks-to-switch-from-defense-to-offense",
+      "published": "2025-12-11T23:13:38+00:00",
+      "summary": "Financial institutions need to be proactive when identifying and mentally preventing fraudulent activity. Here's what to watch for.",
+      "source": "DarkReading",
+      "region": "North America",
+      "country": "US",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb73f88f57745b899/670ed4947eeb84b5c2247d6d/atm1800_Panther_Media_GmbH_alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
+      "id": "a7da4790d953691209e366adba064a04620c99b0",
+      "title": "Encouraging Industry Voices to Write for the Commentary Section",
+      "url": "https://www.darkreading.com/cybersecurity-operations/encouraging-industry-voices-write-commentary-section",
+      "published": "2025-12-11T22:48:10+00:00",
+      "summary": "Dark Reading will continue to publish Tech Talks and Ask the Expert pieces in the Commentary section. Read on for submission guidelines.",
+      "source": "DarkReading",
+      "region": "North America",
+      "country": "US",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blteaddff6b65ae38b4/67aa4fae2d58507b08e941c4/newspaper1800_Radharc_Images_alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "id": "f62484ad69c7e080aeec16720cbef6abf15e5e36",
@@ -1124,92 +1212,59 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt063c51989f06089a/692e03fb23e4c55d0aa2da49/redemergencylight_MLPearson_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "7a98e55be995ebac18283c4182a151668c68fc47",
-      "title": "Police Disrupt 'Cryptomixer,' Seize Millions in Crypto",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/police-disrupt-cryptomixer-seize-millions-crypto",
-      "published": "2025-12-01T20:07:00+00:00",
-      "summary": "Multiple European law enforcement agencies recently disrupted Cryptomixer, a service allegedly used by cybercriminals to launder ill-gotten gains from ransomware and other cyber activities.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5202efd1ce51a018/692de37a0cb02e6e04ddd678/Bitcoin_over_dollar_RobertAx_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "id": "b2eae0f9ca770b792b3f99b49c64e7804da33d3b",
+      "title": "Microsoft RasMan DoS 0-day gets unofficial patch - and a working exploit",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2025/12/12/microsoft_windows_rasman_dos_0day/",
+      "published": "2025-12-12T22:29:33+00:00",
+      "summary": "<h4>Exploit hasn't been picked up by any malware detection engines, CEO tells The Reg</h4> <p>A Microsoft zero-day vulnerability that allows an unprivileged user to crash the Windows Remote Access Connection Manager (RasMan) service now has a free, unofficial patch - with no word as to when Redmond plans to release an official one - along with a working exploit circulating online.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "05a88d10be069dc5bfacaf26917c01a357ff3cdd",
-      "title": "Shai-hulud 2.0 Variant Threatens Cloud Ecosystem",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/shai-hulud-variant-cloud-ecosystem",
-      "published": "2025-12-01T11:10:12+00:00",
-      "summary": "The latest attack from the self-replicating npm-package poisoning worm can also steal credentials and secrets from AWS, Google Cloud Platform, and Azure.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb8849a8f2a92bc4c/692d94ec1d42742fc26a7316/sandworms_FlixPix_Alamy.png?width=1280&auto=webp&quality=80&disable=upscale"
+      "id": "27ad4fc0e09092ee15d5c1d12c98fcdc96ea7167",
+      "title": "New React vulns leak secrets, invite DoS attacks",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2025/12/12/new_react_secretleak_bugs/",
+      "published": "2025-12-12T18:23:30+00:00",
+      "summary": "<h4>And the earlier React2Shell patch is vulnerable</h4> <p>If you're running React Server Components, you just can't catch a break. In addition to already-reported flaws, newly discovered bugs allow attackers to hang vulnerable servers and potentially leak Server Function source code, so anyone using RSC or frameworks that support it should patch quickly.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "4dd717bccba16767f4c006980105dc4ab14c4287",
-      "title": "Digital Fraud at Industrial Scale: 2025 Wasn't Great",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/digital-fraud-industrial-scale-2025",
-      "published": "2025-11-26T17:06:03+00:00",
-      "summary": "Advanced fraud attacks surged 180% in 2025 as cyber scammers used generative AI to churn out flawless IDs, deepfakes, and autonomous bots at levels never before seen.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte55409a6550edb64/692733d90d20b45f1cb67c8d/fraud_Quality_Pixel_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "id": "b2d3d306e2032140f02064ac6d82152b6eda1ecd",
+      "title": "Microsoft promises more bug payouts, with or without a bounty program",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2025/12/12/microsoft_more_bug_payouts/",
+      "published": "2025-12-12T13:35:12+00:00",
+      "summary": "<h4>Critical vulnerabilities found in third-party applications eligible for award under 'in scope by default' move</h4> <p>Microsoft is overhauling its bug bounty program to reward exploit hunters for finding vulnerabilities across all its products and services, even those without established bounty schemes.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "a525fdd6cb17ebd048b188a2773e681c9951a0de",
-      "title": "'Dark LLMs' Aid Petty Criminals, But Underwhelm Technically",
-      "url": "https://www.darkreading.com/threat-intelligence/dark-llms-petty-criminals",
-      "published": "2025-11-26T16:01:35+00:00",
-      "summary": "As in the wider world, AI is not quite living up to the hype in the cyber underground. But it's definitely helping low-level cybercriminals do competent work.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltfe2f0b22851444aa/692724ce78ef59f0d2f22646/WormGPT-Palo_Alto_Networks_Unit_42.png?width=1280&auto=webp&quality=80&disable=upscale"
+      "id": "67cc547a25d5e1c38c7f19b25fd9bc458958f4f8",
+      "title": "Uncle Sam sues ex-Accenture manager over Army cloud security claims",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2025/12/12/us_sues_accenture_exec/",
+      "published": "2025-12-12T13:25:09+00:00",
+      "summary": "<h4>Justice Department alleges federal auditors were misled over compliance with FedRAMP and DoD requirements</h4> <p>The US is suing a former senior manager at Accenture for allegedly misleading the government about the security of an Army cloud platform.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "9388755d2663ce2c499cb4747102e3ddabc3aa14",
-      "title": "Prompt Injections Loom Large Over ChatGPT's Atlas Browser",
-      "url": "https://www.darkreading.com/application-security/prompt-injections-loom-large-over-chatgpt-atlas-launch",
-      "published": "2025-11-26T15:52:49+00:00",
-      "summary": "It's the law of unintended consequences: equipping browsers with agentic AI opens the door to an exponential volume of prompt injections.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt773b39b569af50a2/6925fbb1db48105c9783cb0f/Atlas_Michael_Brooks_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
-      "id": "1c215719535456013d98688388a2cd8888ba6c93",
-      "title": "How Malware Authors Are Incorporating LLMs to Evade Detection",
-      "url": "https://www.darkreading.com/threat-intelligence/malware-authors-incorporate-llms-evade-detection",
-      "published": "2025-11-26T15:12:05+00:00",
-      "summary": "Cyberattackers are integrating large language models (LLMs) into malware, running prompts at runtime to evade detection and augment their code on demand.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1d8de38d5860c7e9/69273208b82d541521d6c169/misuse-of-ai-GTIG.jpg?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
-      "id": "b75d2884c01d3d694b570d104b3ef64c12869b24",
-      "title": "Enterprises Aren't Confident They Can Secure Non-Human Identities (NHIs)",
-      "url": "https://www.darkreading.com/identity-access-management-security/enterprise-not-confident-secure-non-human-identities",
-      "published": "2025-11-26T15:00:00+00:00",
-      "summary": "More than half of organizations surveyed aren't sure they can secure non-human identities (NHIs), underscoring the lag between the rollout of these identities and the tools to protect them.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5db5ab5d5397f957/668d3825792bbe77be9dd24e/Don_Tait(1300)_2023.png?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
-      "id": "19c1595af7d36b0b612043003e123c1bad46273e",
-      "title": "Iran Exploits Cyber Domain to Aid Kinetic Strikes",
-      "url": "https://www.darkreading.com/threat-intelligence/iran-exploits-cyber-domain-kinetic-strikes",
-      "published": "2025-11-26T05:30:00+00:00",
-      "summary": "The country deploys &quot;cyber-enabled kinetic targeting&quot; prior to \u2014 and following \u2014 real-world missile attacks against ships and land-based targets.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltef7b4ec1e1c7853d/692626d3d3d2e2547daa1fea/iran-digital-flag-Skorzewiak-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "id": "550dea7f8b7bac41506aab59fea12bb877323762",
+      "title": "UK watchdog urged to probe GDPR failures in Home Office eVisa rollout",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2025/12/12/ico_home_office_evisa/",
+      "published": "2025-12-12T12:36:34+00:00",
+      "summary": "<h4>Rights groups say digital-only record is leaking data and courting trouble</h4> <p>Civil society groups are urging the UK's data watchdog to investigate whether the Home Office's digital-only eVisa scheme is breaching GDPR, sounding the alarm about systemic data errors and design failures that are exposing sensitive personal information while leaving migrants unable to prove their lawful status.\u2026</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
       "id": "c3ef7b32620770d64e55adfac2b7c264ebc33946",
@@ -1323,10 +1378,10 @@
     },
     {
       "id": "1c73a3767f6d715af0af18a7ac9a8b8e71df8a21",
-      "title": "Microsoft won\u2019t fix .NET RCE bug affecting slew of enterprise apps, researchers say",
+      "title": "Microsoft won't fix .NET RCE bug affecting slew of enterprise apps, researchers say",
       "url": "https://go.theregister.com/feed/www.theregister.com/2025/12/10/microsoft_wont_fix_net_rce/",
       "published": "2025-12-10T17:30:39+00:00",
-      "summary": "<h4>Devs and users should know better, Microsoft tells watchTowr</h4> <p>Security researchers have revealed a .NET security flaw thought to affect a host of enterprise-grade products that they say Microsoft refuses to fix.\u2026</p>",
+      "summary": "<h4>Devs and users should know better, Microsoft tells watchTowr</h4> <p><strong>Updated</strong>\u00a0 Security researchers have revealed a .NET security flaw thought to affect a host of enterprise-grade products that they say Microsoft refuses to fix.\u2026</p>",
       "source": "The Register \u2013 Security",
       "region": "Europe",
       "country": "UK",
@@ -1359,7 +1414,7 @@
       "title": "Microsoft reports 7.8-rated zero day, plus 56 more in December Patch Tuesday",
       "url": "https://go.theregister.com/feed/www.theregister.com/2025/12/09/december_2025_patch_tuesday/",
       "published": "2025-12-09T23:42:11+00:00",
-      "summary": "<h4>Plus critical critical Notepad++, Ivanti, and Fortinet updates, and one of these patches an under-attack security hole</h4> <p>Happy December Patch Tuesday to all who celebrate. This month's patch party includes one Microsoft flaw under exploitation, plus two others listed as publicly known \u2013 but just 57 CVEs in total from Redmond.\u2026</p>",
+      "summary": "<h4>Plus critical critical Notepad++, Ivanti, and Fortinet updates, and one of these patches an under-attack security hole</h4> <p><strong>Updated</strong>\u00a0 Happy December Patch Tuesday to all who celebrate. This month's patch party includes one Microsoft flaw under exploitation, plus two others listed as publicly known \u2013 but just 57 CVEs in total from Redmond.\u2026</p>",
       "source": "The Register \u2013 Security",
       "region": "Europe",
       "country": "UK",
@@ -1707,61 +1762,6 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "da7a6c39f07d3535a9e3de381117f0b697f586c9",
-      "title": "Here\u2019s your worst nightmare: E-tailer can only resume partial sales 45 days after ransomware attack",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/12/03/askul_partial_ransomware_recovery/",
-      "published": "2025-12-03T06:45:07+00:00",
-      "summary": "<h4>Japan\u2019s Askul still can\u2019t run all its sites, but at least the fax line held up OK</h4> <p>Japanese e-tailer Askul has resumed online sales, 45 days after a ransomware attack.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "b492c864dcd6a9b7f03db8987ffd808302ad854c",
-      "title": "Indian government reveals GPS spoofing at eight major airports",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/12/03/india_gps_spoofing/",
-      "published": "2025-12-03T02:56:48+00:00",
-      "summary": "<h4>Extra infosec investments are taxiing towards the runway</h4> <p>India\u2019s Civil Aviation Minister has revealed that local authorities have detected GPS spoofing and jamming at eight major airports.\u2026</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "136af92ed95623b2fba1081d1b43281c50502894",
-      "title": "Two Android 0-day bugs disclosed and fixed, plus 105 more to patch",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/12/02/android_0_days/",
-      "published": "2025-12-02T18:47:48+00:00",
-      "summary": "<h4>Christmas comes early for attackers this year</h4> <p>Two high-severity Android bugs were exploited as zero-days before Google issued a fix, according to its December Android security bulletin.\u00a0\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "21ff86707af943fe616b16cd236baf50084745cf",
-      "title": "University of Pennsylvania joins list of victims from Clop's Oracle EBS raid",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/12/02/clop_university_of_pennsylvania/",
-      "published": "2025-12-02T17:50:09+00:00",
-      "summary": "<h4>Ivy League school warns more than 1,400 people after attackers siphon data via zero-day</h4> <p>The University of Pennsylvania has become the latest victim of Clop's smash-and-grab spree against Oracle's E-Business Suite (EBS) customers, with the Ivy League school now warning more than a thousand individuals that their personal data was siphoned from its systems.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "ce994890db8ac118bd8359c8e7d8ebf8f45d9875",
-      "title": "Europol nukes Cryptomixer laundering hub, seizing \u20ac25M in Bitcoin",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/12/02/europol_cryptomixer/",
-      "published": "2025-12-02T16:20:29+00:00",
-      "summary": "<h4>Operation Olympia pulls Swiss servers offline and scoops up 12TB of data in latest crime infrastructure crackdown</h4> <p>Law enforcement agencies in Germany and Switzerland have shut down cryptocurrency laundering platform Cryptomixer in Europe's latest pushback against cybercrime infrastructure.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
       "id": "6c5536fe0a2cf116770b51ec277e721893a47db6",
       "title": "Microsoft Patch Tuesday, December 2025 Edition",
       "url": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
@@ -1861,6 +1861,39 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "bb37a0d8d20c0766a6859269a519a6a79e6dca7b",
+      "title": "In Other News: PromptPwnd Attack, macOS Bounty Complaints, Chinese Hackers Trained in Cisco Academy",
+      "url": "https://www.securityweek.com/in-other-news-promptpwnd-attack-small-macos-bounties-chinese-hackers-trained-in-cisco-academy/",
+      "published": "2025-12-12T15:39:35+00:00",
+      "summary": "<p>Other noteworthy stories that might have slipped under the radar: Pentagon orders accelerated move to PQC, US shuts down scheme to smuggle GPUs to China, DroidLock Android ransomware.</p>\n<p>The post <a href=\"https://www.securityweek.com/in-other-news-promptpwnd-attack-small-macos-bounties-chinese-hackers-trained-in-cisco-academy/\">In Other News: PromptPwnd Attack, macOS Bounty Complaints, Chinese Hackers Trained in Cisco Academy</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "0c606f389582f4d20eeb991ec904d2b7b9908a13",
+      "title": "Gladinet CentreStack Flaw Exploited to Hack Organizations",
+      "url": "https://www.securityweek.com/gladinet-centrestack-flaw-exploited-to-hack-organizations/",
+      "published": "2025-12-12T13:49:35+00:00",
+      "summary": "<p>Threat actors have hacked at least nine organizations by exploiting the recently patched Gladinet CentreStack flaw.</p>\n<p>The post <a href=\"https://www.securityweek.com/gladinet-centrestack-flaw-exploited-to-hack-organizations/\">Gladinet CentreStack Flaw Exploited to Hack Organizations</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "29b8cc7cf3c753b777ecd99fd9cbc84778b31ae0",
+      "title": "Fieldtex Data Breach Impacts 238,000",
+      "url": "https://www.securityweek.com/fieldtex-data-breach-impacts-238000/",
+      "published": "2025-12-12T13:12:33+00:00",
+      "summary": "<p>The Akira ransomware group took credit for the Fieldtex Products hack in November, claiming to have stolen 14 Gb of data.</p>\n<p>The post <a href=\"https://www.securityweek.com/fieldtex-data-breach-impacts-238000/\">Fieldtex Data Breach Impacts 238,000</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "b8f40b4106bea2bde164d14e0293b051cd1c1836",
       "title": "Recent GeoServer Vulnerability Exploited in Attacks",
       "url": "https://www.securityweek.com/recent-geoserver-vulnerability-exploited-in-attacks/",
@@ -1932,39 +1965,6 @@
       "url": "https://www.securityweek.com/virtual-event-today-cyber-ai-automation-summit-day-2/",
       "published": "2025-12-11T15:55:00+00:00",
       "summary": "<p>Day two of the Cyber AI &#038; Automation Summit kicks off at 11AM ET. If you weren't able to attend yesterday, all Day One sessions are already available on-demand.</p>\n<p>The post <a href=\"https://www.securityweek.com/virtual-event-today-cyber-ai-automation-summit-day-2/\">Virtual Event Today: Cyber AI &amp; Automation Summit Day 2</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "38c91654d19cfb7b956bdef9ba94042a118a10bd",
-      "title": "Former Accenture Employee Charged Over Cybersecurity Fraud",
-      "url": "https://www.securityweek.com/former-accenture-employee-charged-over-cybersecurity-fraud/",
-      "published": "2025-12-11T14:09:28+00:00",
-      "summary": "<p>Danielle Hillmer allegedly concealed the fact that her employer\u2019s cloud platform did not meet DoD requirements.</p>\n<p>The post <a href=\"https://www.securityweek.com/former-accenture-employee-charged-over-cybersecurity-fraud/\">Former Accenture Employee Charged Over Cybersecurity Fraud</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "fc5fe55b2a53186b8cd52db46856d46102a42c86",
-      "title": "MITRE Posts Results of 2025 ATT&CK Enterprise Evaluations",
-      "url": "https://www.securityweek.com/mitre-posts-results-of-2025-attck-enterprise-evaluations/",
-      "published": "2025-12-11T13:50:44+00:00",
-      "summary": "<p>Eleven companies took part in the evaluations and several have boasted 100% detection and coverage rates. </p>\n<p>The post <a href=\"https://www.securityweek.com/mitre-posts-results-of-2025-attck-enterprise-evaluations/\">MITRE Posts Results of 2025 ATT&amp;CK Enterprise Evaluations</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "5fdc199302797224d40e2961102f05b17bcc8353",
-      "title": "Pierce County Library Data Breach Impacts 340,000",
-      "url": "https://www.securityweek.com/pierce-county-library-data-breach-impacts-340000/",
-      "published": "2025-12-11T13:00:07+00:00",
-      "summary": "<p>In April 2025, hackers stole personal information belonging to patrons and employees and their family members.</p>\n<p>The post <a href=\"https://www.securityweek.com/pierce-county-library-data-breach-impacts-340000/\">Pierce County Library Data Breach Impacts 340,000</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
