@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-13T00:43:06.175928+00:00",
+  "generated_at": "2025-12-13T12:15:52.824386+00:00",
   "items": [
     {
       "id": "8a0f926c7000406f6f8a79b2bc2e8ca4333e623f",
@@ -110,6 +110,17 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "33b2faeaa94e8bfeeb304d62577e6a585a0865dc",
+      "title": "Apple Issues Security Updates After Two WebKit Flaws Found Exploited in the Wild",
+      "url": "https://thehackernews.com/2025/12/apple-issues-security-updates-after-two.html",
+      "published": "2025-12-13T05:32:00+00:00",
+      "summary": "Apple on Friday released security updates for iOS, iPadOS, macOS, tvOS, watchOS, visionOS, and its Safari web browser to address two security flaws that it said have been exploited in the wild, one of which is the same flaw that was patched by Google in Chrome earlier this week.\nThe vulnerabilities are listed below -\n\nCVE-2025-43529 (CVSS score: N/A) - A use-after-free vulnerability in WebKit",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSwTglRfB0k1FqqL7L502b4j1rqLa9StbW7akfVevnbqc0QsQHryjXRBajtpcOdiOOSUX119hpFSCGkZFuqxXH85aKyUMN2DwE0fKVDojo7uhXkZfEmf80438Wyd6Br5gASDHw6mLQxMc_fDPNGlgA1Op-YDJz8gYx6jqJhB_a9bKY66wuph0plkZdakTm/s1600/apple-update.jpg"
     },
     {
       "id": "f36e007418843fe7fd5397fa8b1e2cd9502579cf",
@@ -649,17 +660,6 @@
       "region": "North America",
       "country": "US",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxESPxb37jzd_NrYS5eE_3cpBnlkxGqHJXXIQie1ZOae6cudWSMn8s8AM6E0npcrXT21zyDMA7h_StlMrfO7uHYBHHjtxKGJUuzN-QzlYNJjVo9eKzETAg1ORiJ8HWMTHoe4ME37KRf5QYSw8RmbFo8WoL28T2__Vg8VDuqO7Mq3LZ7Ao_oYdtWZjD6e3n/s1600/ai-hacking.jpg"
-    },
-    {
-      "id": "b63ae39c1402b2a6e680780c26ff5cbcb068f284",
-      "title": "Microsoft Silently Patches Windows LNK Flaw After Years of Active Exploitation",
-      "url": "https://thehackernews.com/2025/12/microsoft-silently-patches-windows-lnk.html",
-      "published": "2025-12-03T17:46:36+00:00",
-      "summary": "Microsoft has silently plugged a security flaw that has been exploited by several threat actors since 2017 as part of the company's November 2025 Patch Tuesday updates, according to ACROS Security's 0patch.\nThe vulnerability in question is CVE-2025-9491 (CVSS score: 7.8/7.0), which has been described as a Windows Shortcut (LNK) file UI misinterpretation vulnerability that could lead to remote",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJ8lCeyLFyNZFfUBtMHvZcuBWjl0_wMxa6EDvL0yCJ56HtMZpYr20dgnTcKGDcgf7OHdxi-yN5eipnPsbVM9oMYLpGAvj3nDfKEb66Y7IOl-9eyGRg5pzgmf7vXXG2ss8feZhUu2gSbWlmckQm3-RvVRcIqA_Ulmx0eAP_FB3GFgcislAUh6AdsIqCfnqR/s1600/windows-update.jpg"
     },
     {
       "id": "2b7a44a3ce0186ea0764d1ab22fe987db1de164f",
