@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-13T12:15:52.824386+00:00",
+  "generated_at": "2025-12-14T00:50:22.066735+00:00",
   "items": [
     {
       "id": "8a0f926c7000406f6f8a79b2bc2e8ca4333e623f",
@@ -110,6 +110,17 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "f6a667cb2fa67c44027b04f3939b75ba5d89721c",
+      "title": "CISA Adds Actively Exploited Sierra Wireless Router Flaw Enabling RCE Attacks",
+      "url": "https://thehackernews.com/2025/12/cisa-adds-actively-exploited-sierra.html",
+      "published": "2025-12-13T12:33:00+00:00",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a high-severity flaw impacting Sierra Wireless AirLink ALEOS routers to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation in the wild.\nCVE-2018-4063 (CVSS score: 8.8/9.9) refers to an unrestricted file upload vulnerability that could be exploited to achieve remote code",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEge8ZMStOlyoSh88jViO8HEQmAAac6HNtoVoR-ufVglteBHxv-YilKP9B3sA-BJRw19H_Bflza7JA59RvM0gq34FzgFeagwBFQeuh5OfQqBbXzRbP5cXA4NRhO8ybwpIJDQEmL1rF7TIPG5xHPhFZBxKfbI4Lr5jhllzl0AbElbRUTUypn89gpVj-esiu7Q/s1600/routers.jpg"
     },
     {
       "id": "33b2faeaa94e8bfeeb304d62577e6a585a0865dc",
@@ -649,17 +660,6 @@
       "region": "North America",
       "country": "US",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9GCiRWt_nzpetB4rbxY-IEBdnQfX50gIjlg82on8OkM-tBrMv_Mt6xTu_yEom3CAZt_KHo0CL5S3siR207cZmw839M_l9Oply6KnuHYelRsMMAqKDhDA0HqnsedjHhsfv6ng77Ah7YPkIZ-Cd3ZuDMqSM8oftGAJ4TaauI9n231fOjCi17uSgWY-Jd9U_/s1600/nextjs-react.jpg"
-    },
-    {
-      "id": "98688a89b2b89a3f0a99b28bd7382ef3f4ed6480",
-      "title": "Discover the AI Tools Fueling the Next Cybercrime Wave \u2014 Watch the Webinar",
-      "url": "https://thehackernews.com/2025/12/discover-ai-tools-fueling-next.html",
-      "published": "2025-12-03T17:56:00+00:00",
-      "summary": "Remember when phishing emails were easy to spot? Bad grammar, weird formatting, and requests from a \"Prince\" in a distant country?\nThose days are over.\nToday, a 16-year-old with zero coding skills and a $200 allowance can launch a campaign that rivals state-sponsored hackers. They don't need to be smart; they just need to subscribe to the right AI tool.\nWe are witnessing the industrialization of",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxESPxb37jzd_NrYS5eE_3cpBnlkxGqHJXXIQie1ZOae6cudWSMn8s8AM6E0npcrXT21zyDMA7h_StlMrfO7uHYBHHjtxKGJUuzN-QzlYNJjVo9eKzETAg1ORiJ8HWMTHoe4ME37KRf5QYSw8RmbFo8WoL28T2__Vg8VDuqO7Mq3LZ7Ao_oYdtWZjD6e3n/s1600/ai-hacking.jpg"
     },
     {
       "id": "2b7a44a3ce0186ea0764d1ab22fe987db1de164f",
@@ -1844,17 +1844,6 @@
       "url": "https://krebsonsecurity.com/2025/11/microsoft-patch-tuesday-november-2025-edition/",
       "published": "2025-11-16T21:47:14+00:00",
       "summary": "Microsoft this week pushed security updates to fix more than 60 vulnerabilities in its Windows operating systems and supported software, including at least one zero-day bug that is already being exploited. Microsoft also fixed a glitch that prevented some Windows 10 users from taking advantage of an extra year of security updates, which is nice because the zero-day flaw and other critical weaknesses patched today affect all versions of Windows, including Windows 10.",
-      "source": "Krebs on Security",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "ccbd4523f54cf9f331f319eabb7ee913e67564e1",
-      "title": "Google Sues to Disrupt Chinese SMS Phishing Triad",
-      "url": "https://krebsonsecurity.com/2025/11/google-sues-to-disrupt-chinese-sms-phishing-triad/",
-      "published": "2025-11-13T14:47:22+00:00",
-      "summary": "Google is suing more than two dozen unnamed individuals allegedly involved in peddling a popular China-based mobile phishing service that helps scammers impersonate hundreds of trusted brands, blast out text message lures, and convert phished payment card data into mobile wallets from Apple and Google.",
       "source": "Krebs on Security",
       "region": "Global",
       "country": "GL",
