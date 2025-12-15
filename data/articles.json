@@ -1,6 +1,28 @@
 {
-  "generated_at": "2025-12-15T00:48:51.524408+00:00",
+  "generated_at": "2025-12-15T12:19:40.994700+00:00",
   "items": [
+    {
+      "id": "b4868336a770036ad81b7a0818acf53aa692ed7a",
+      "title": "Fighting AI with AI: How midmarket teams can turn the tables on smarter threats",
+      "url": "https://www.cybersecuritydive.com/spons/fighting-ai-with-ai-how-midmarket-teams-can-turn-the-tables-on-smarter-thr/807609/",
+      "published": "2025-12-15T10:00:00+00:00",
+      "summary": "Ever since generative AI exploded into mainstream use, it has become both a critical business enabler &hellip; and one of the greatest security threats. Eighty-four percent of midmarket organizations are now using generative AI within core business processes to improve productivity and accelerate...",
+      "source": "Cybersecurity Dive",
+      "region": "North America",
+      "country": "US",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "c804546d0c2dd500aec8c8f639308ad3feb3a18a",
+      "title": "The new frontline: How AI and automation are securing the supply chain",
+      "url": "https://www.cybersecuritydive.com/spons/the-new-frontline-how-ai-and-automation-are-securing-the-supply-chain/807541/",
+      "published": "2025-12-15T10:00:00+00:00",
+      "summary": "<p>In today&rsquo;s digital economy, trust isn&rsquo;t a given, it&rsquo;s engineered across the entire supply chain.</p>",
+      "source": "Cybersecurity Dive",
+      "region": "North America",
+      "country": "US",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
     {
       "id": "8a0f926c7000406f6f8a79b2bc2e8ca4333e623f",
       "title": "React issues new patches after security researchers flag additional flaws",
@@ -90,26 +112,26 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "2338cbd223611a71fa86ae7c23e249e41f8c8b7a",
-      "title": "Ransomware peaked in 2023 prior to law enforcement actions",
-      "url": "https://www.cybersecuritydive.com/news/ransomware-peaked-2023-enforcement-decrease/807291/",
-      "published": "2025-12-08T16:02:37+00:00",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/9JLqBPxDjRDhhcg1_32HlHyGcp_DZHMbSXhPJSJJvI8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDczMjQwNTU3LmpwZw==.webp\" /></div></figure><p>U.S. Treasury report shows drop in threat activity in the wake of aggressive takedown efforts.</p>",
-      "source": "Cybersecurity Dive",
+      "id": "eb26fdc40f9cfb22ec03cfdfc1a57bd727769d37",
+      "title": "Phantom Stealer Spread by ISO Phishing Emails Hitting Russian Finance Sector",
+      "url": "https://thehackernews.com/2025/12/phantom-stealer-spread-by-iso-phishing.html",
+      "published": "2025-12-15T09:24:00+00:00",
+      "summary": "Cybersecurity researchers have disclosed details of an active phishing campaign that's targeting a wide range of sectors in Russia with phishing emails that deliver Phantom Stealer via malicious ISO optical disc images.\nThe activity, codenamed Operation MoneyMount-ISO by Seqrite Labs, has primarily singled out finance and accounting entities, with those in the procurement, legal, payroll",
+      "source": "The Hacker News",
       "region": "North America",
       "country": "US",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglC802fHbjYDV11Y3NmxnCVUJfKSNEDRXAtOM722x09s0GmNQF11fP-r7betDJE1NOMAXe9DcIyEGYlWLMFf8S2B3pMRcLtLuGqqYovFNSGfnruQbydlAzRhpYQgKTZrYR68RcpYTJRjUEHTBDLDANrBWUx2zYhtcm28f7njmIuqHXI36W9omWtuD8AeFC/s1600/email.jpg"
     },
     {
-      "id": "254220bda25c0a151a7dd5d564da2749b5d03049",
-      "title": "Major drug research company confirms cyberattack compromised employee and partner data",
-      "url": "https://www.cybersecuritydive.com/news/inotiv-confirm-cyberattack-data-theft/807277/",
-      "published": "2025-12-08T15:25:14+00:00",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/KTnVHSUSHXdf9zaKnks-AhWpGDvdZDbu9uJbg8d_hvM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy04NDM3NjUyMjAuanBn.webp\" /></div></figure><p>Indiana-based Inotiv said it was still evaluating the hack&rsquo;s impact on its business.</p>",
-      "source": "Cybersecurity Dive",
+      "id": "da5f1a8e42b1342347a86c6c4002a66e23981029",
+      "title": "VolkLocker Ransomware Exposed by Hard-Coded Master Key Allowing Free Decryption",
+      "url": "https://thehackernews.com/2025/12/volklocker-ransomware-exposed-by-hard.html",
+      "published": "2025-12-15T05:33:00+00:00",
+      "summary": "The pro-Russian hacktivist group known as CyberVolk (aka GLORIAMIST) has resurfaced with a new ransomware-as-a-service (RaaS) offering called VolkLocker that suffers from implementation lapses in test artifacts, allowing users to decrypt files without paying an extortion fee.\nAccording to SentinelOne, VolkLocker (aka CyberVolk 2.x) emerged in August 2025 and is capable of targeting both Windows",
+      "source": "The Hacker News",
       "region": "North America",
       "country": "US",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZP3WUgrypoDpL5dUk1TlTjzyLA_HKMjawrIv9xe9Aq6_K1u7ikP5Y7ehR-VuYhvQkb5ZHaKrz2WH_uXqmB5YaQm_t4byXd8uFCIMAqYcx15Zog3Wwt4JLdtlvCwm3nPMFI9eBNdni-5Ac7XjIrJ8JjN1D5MFRIer-S1XyPlIpw1s9ybXB_Lgt4UwJ_UJW/s1600/ransomware-key.jpg"
     },
     {
       "id": "f6a667cb2fa67c44027b04f3939b75ba5d89721c",
@@ -638,28 +660,6 @@
       "region": "North America",
       "country": "US",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGcQU24FhOc1wko8l0tnt5dDp4T51lLr4nWnciANW8dt5IcWx6j-aj3JoRCtjs2PYSy8wjOjoeHPajxBtiEsq0rGgxcKkZwibmLjh2UXZNA07Fwf75-ArzM0Yyodf2RjHqx9rsKlQJhH5ewcXMM8srmlmIWHjbdvTnz4JGF3qNZ0p6jFOw1mapv2_6zlhG/s1600/banking-apps.jpg"
-    },
-    {
-      "id": "2fb97fb6681b1fb7a905be2a96a0230d0d7be615",
-      "title": "Record 29.7 Tbps DDoS Attack Linked to AISURU Botnet with up to 4 Million Infected Hosts",
-      "url": "https://thehackernews.com/2025/12/record-297-tbps-ddos-attack-linked-to.html",
-      "published": "2025-12-04T06:52:00+00:00",
-      "summary": "Cloudflare on Wednesday said it detected and mitigated the largest ever distributed denial-of-service (DDoS) attack that measured at 29.7 terabits per second (Tbps).\nThe activity, the web infrastructure and security company said, originated from a DDoS botnet-for-hire known as AISURU, which has been linked to a number of hyper-volumetric DDoS attacks over the past year. The attack lasted for 69",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1uVFOoC-TzuWi5Bb4KrNtzUoUwXcRYquCvI_r7-6qu1622KSN6NMDm7YV17AdFd0FF7NIko4bfmivUTNFnBkvumQvYR5Qv0VX4AUVBIQb6jSEM0ARDcEpYw2DU53Ew8dx0zQjm1kfrlBoOlrBn2NWnc3oNeyEgyGC-1pEVkF5-8tmYU4gJIciT6sopGgX/s1600/massive-ddos-attack.jpg"
-    },
-    {
-      "id": "6fd2aab019d7b14efc14e82fd405e3093d08b0ca",
-      "title": "Critical RSC Bugs in React and Next.js Allow Unauthenticated Remote Code Execution",
-      "url": "https://thehackernews.com/2025/12/critical-rsc-bugs-in-react-and-nextjs.html",
-      "published": "2025-12-03T18:19:00+00:00",
-      "summary": "A maximum-severity security flaw has been disclosed in React Server Components (RSC) that, if successfully exploited, could result in remote code execution.\nThe vulnerability, tracked as CVE-2025-55182, carries a CVSS score of 10.0. The vulnerability has been codenamed React2shell.\nIt allows \"unauthenticated remote code execution by exploiting a flaw in how React decodes payloads sent to React",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9GCiRWt_nzpetB4rbxY-IEBdnQfX50gIjlg82on8OkM-tBrMv_Mt6xTu_yEom3CAZt_KHo0CL5S3siR207cZmw839M_l9Oply6KnuHYelRsMMAqKDhDA0HqnsedjHhsfv6ng77Ah7YPkIZ-Cd3ZuDMqSM8oftGAJ4TaauI9n231fOjCi17uSgWY-Jd9U_/s1600/nextjs-react.jpg"
     },
     {
       "id": "2b7a44a3ce0186ea0764d1ab22fe987db1de164f",
@@ -1212,6 +1212,61 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt063c51989f06089a/692e03fb23e4c55d0aa2da49/redemergencylight_MLPearson_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
+      "id": "a9f1e3ed06a0fa3b36d05083a236951b04aa8a10",
+      "title": "JLR: Payroll data stolen in cybercrime that shook UK economy",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2025/12/15/jlr_payroll_data_stolen_in/",
+      "published": "2025-12-15T12:08:20+00:00",
+      "summary": "<h4>Automaker admits raid that crippled its factories in August led to the theft of sensitive info</h4> <p>Jaguar Land Rover (JLR) has reportedly told staff the cyber raid that crippled its operations in August didn't just bring production to a screeching halt \u2013 it also walked off with the personal payroll data of thousands of employees.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "f06bf104bb499aa1d19c14f205cd324546736104",
+      "title": "Apple, Google forced to issue emergency 0-day patches",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2025/12/15/apple_follows_google_by_emergency/",
+      "published": "2025-12-15T11:01:11+00:00",
+      "summary": "<h4>Both admit attackers were already exploiting the bugs, with scant detail and hints of spyware-grade abuse</h4> <p>Apple and Google have both issued emergency patches after zero-day bugs were caught being actively exploited in what the companies describe as \"sophisticated\" real-world attacks.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "12c8221b8af5957397b91a756b0761221bb765ee",
+      "title": "Denmark takes a Viking swing at VPN-enabled piracy",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2025/12/15/denmark_vpn_ban/",
+      "published": "2025-12-15T10:40:06+00:00",
+      "summary": "<h4>Minister insists 'modest' bill is not an assault on privacy-preserving tech</h4> <p>The Danish government wants the public to weigh in on its proposed laws restricting use of VPNs to access certain corners of the internet.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "8802b829144bca3255e69bb8048d0f474610fc06",
+      "title": "Legal protection for ethical hacking under Computer Misuse Act is only the first step",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2025/12/15/cma_update_opinion/",
+      "published": "2025-12-15T09:30:15+00:00",
+      "summary": "<h4>I'm dreaming of a white hat mass</h4> <p><strong>Opinion</strong>\u00a0 It was 40 years ago that four young British hackers set about changing the law, although they didn't know it at the time. It was a cross-platform attack including a ZX Spectrum, a BBC Micro, and a Tatung Einstein slamming British Telecom's Prestel service over dial-up modems at 75 bits per second.\u2026</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "b44d310831256696b7f570efba266729f02acd0d",
+      "title": "Starlink claims Chinese launch came within 200 meters of broadband satellite",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2025/12/15/asia_tech_news_roundup/",
+      "published": "2025-12-15T02:02:22+00:00",
+      "summary": "<h4>PLUS: Drugs found in ink cartridges; Censorship fighters criticize Vultr; Coupang CEO resigns; And more!</h4> <p><strong>Asia In Brief</strong>\u00a0 A SpaceX executive has claimed that a Chinese satellite launch came within 200 meters of hitting a Starlink satellite.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "81b4082d8ca39fb91557ef6bde74fe70d3493cde",
       "title": "Honeypots can help defenders, or damn them if implemented badly",
       "url": "https://go.theregister.com/feed/www.theregister.com/2025/12/14/infosec_news_in_brief/",
@@ -1707,61 +1762,6 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "2ea9487cc861bbe04d0364d2c3b9c5e2b3e3665b",
-      "title": "Twins who hacked State Dept hired to work for gov again, now charged with deleting databases",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/12/04/twin_brothers_charged_with_deleting_databases/",
-      "published": "2025-12-04T19:48:14+00:00",
-      "summary": "<h4>And then they asked an AI to help cover their tracks</h4> <p>Vetting staff who handle sensitive government systems is wise, and so is cutting off their access the moment they're fired. Prosecutors say a federal contractor learned this the hard way when twin brothers previously convicted of hacking-related offenses allegedly used lingering access to delete nearly 100 government databases, including systems tied to Homeland Security and other agencies, within minutes of being terminated.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "929aa6ffdc415fbca2016c3176827fac9d2b5467",
-      "title": "Microsoft quietly shuts down Windows shortcut flaw after years of espionage abuse",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/12/04/microsoft_lnk_bug_fix/",
-      "published": "2025-12-04T15:01:04+00:00",
-      "summary": "<h4>Silent Patch Tuesday mitigation ends ability to hide malicious commands in .lnk files</h4> <p>Microsoft has quietly closed off a critical Windows shortcut file bug long abused by espionage and cybercrime networks.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "4988356c04747e9740fc51d80973e1b4a837e214",
-      "title": "Aisuru botnet turns Q3 into a terabit-scale stress test for the entire internet",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/12/04/cloudflare_aisuru_botnet/",
-      "published": "2025-12-04T13:07:02+00:00",
-      "summary": "<h4>Cloudflare data shows 29.7 Tbps record-breaker landed amid 87% surge in network-layer attacks</h4> <p>The internet has spent the past three months ducking for cover as the Aisuru botnet hurled record-shattering DDoS barrages from an army of up to 4 million infected machines.\u2026</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "a8bbac68acd3b9ec608e79348d235811feff426d",
-      "title": "TLS 1.3 includes welcome improvements, but still allows long-lived secrets",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/12/04/tls_13_includes_welcome_improvements/",
-      "published": "2025-12-04T04:30:07+00:00",
-      "summary": "<h4>Tricky tradeoffs are hard to avoid when designing systems, but the choice not to use LLMs for some tasks is clear</h4> <p><strong>Systems Approach</strong>\u00a0 As we neared the finish line for our <a href=\"https://systemsapproach.org/books-html/#securitybook\">network security book</a>, I received a piece of feedback from Brad Karp that my explanation of forward secrecy in the chapter on <a href=\"https://security.systemsapproach.org/tls.html\">TLS</a> (Transport Layer Security) was not quite right.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "daba4160e6ed67be7e65c8c8f8ea5134a363b6d1",
-      "title": "Rust core library partly polished for industrial safety spec",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/12/04/rust_core_library_partly_polished/",
-      "published": "2025-12-04T01:11:12+00:00",
-      "summary": "<h4>Ferrous Systems achieves IEC 61508 (SIL 2) certification for systems that demand reliability</h4> <p>Memory-safe Rust code can now be more broadly applied in devices that require electronic system safety, at least as measured by International Electrotechnical Commission (IEC) standards.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
       "id": "6c5536fe0a2cf116770b51ec277e721893a47db6",
       "title": "Microsoft Patch Tuesday, December 2025 Edition",
       "url": "https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/",
@@ -1850,6 +1850,61 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "5c81e592d66fc82f8bdf54e448b2eabc960d4094",
+      "title": "Soverli Raises $2.6 Million for Secure Smartphone OS",
+      "url": "https://www.securityweek.com/soverli-raises-2-6-million-for-secure-smartphone-os/",
+      "published": "2025-12-15T11:50:02+00:00",
+      "summary": "<p>The sovereign smartphone OS runs along Android or iOS, allowing users to switch between secure, isolated environments.</p>\n<p>The post <a href=\"https://www.securityweek.com/soverli-raises-2-6-million-for-secure-smartphone-os/\">Soverli Raises $2.6 Million for Secure Smartphone OS</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "31f3ff5096d4664ebe3ad620d722d406ebe0e077",
+      "title": "Atlassian Patches Critical Apache Tika Flaw",
+      "url": "https://www.securityweek.com/atlassian-patches-critical-apache-tika-flaw/",
+      "published": "2025-12-15T11:00:46+00:00",
+      "summary": "<p>Atlassian has released software updates for Bamboo, Bitbucket, Confluence, Crowd, Fisheye/Crucible, and Jira.</p>\n<p>The post <a href=\"https://www.securityweek.com/atlassian-patches-critical-apache-tika-flaw/\">Atlassian Patches Critical Apache Tika Flaw</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "e5e37115c4d7548315d83d83dd189fcf6ddcfa4c",
+      "title": "Third DraftKings Hacker Pleads Guilty",
+      "url": "https://www.securityweek.com/third-draftkings-hacker-pleads-guilty/",
+      "published": "2025-12-15T10:31:54+00:00",
+      "summary": "<p>Nathan Austad admitted in court to launching a credential stuffing attack against a fantasy sports and betting website.</p>\n<p>The post <a href=\"https://www.securityweek.com/third-draftkings-hacker-pleads-guilty/\">Third DraftKings Hacker Pleads Guilty</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "bad322487bf3efedfa1f328300fdd3e074cb6801",
+      "title": "700Credit Data Breach Impacts 5.8 Million Individuals",
+      "url": "https://www.securityweek.com/700credit-data-breach-impacts-5-8-million-individuals/",
+      "published": "2025-12-15T09:21:39+00:00",
+      "summary": "<p>Hackers stole names, addresses, dates of birth, and Social Security numbers from the credit report and identity verification services provider.</p>\n<p>The post <a href=\"https://www.securityweek.com/700credit-data-breach-impacts-5-8-million-individuals/\">700Credit Data Breach Impacts 5.8 Million Individuals</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "99867fa4bd0c485611145afec2aaddb6db7b9a85",
+      "title": "Apple Patches Two Zero-Days Tied to Mysterious Exploited Chrome Flaw",
+      "url": "https://www.securityweek.com/apple-patches-two-zero-days-tied-to-mysterious-exploited-chrome-flaw/",
+      "published": "2025-12-15T08:47:26+00:00",
+      "summary": "<p>Apple has released macOS and iOS updates to patch two WebKit zero-days exploited in an \u201cextremely sophisticated\u201d attack.</p>\n<p>The post <a href=\"https://www.securityweek.com/apple-patches-two-zero-days-tied-to-mysterious-exploited-chrome-flaw/\">Apple Patches Two Zero-Days Tied to Mysterious Exploited Chrome Flaw</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "bb37a0d8d20c0766a6859269a519a6a79e6dca7b",
       "title": "In Other News: PromptPwnd Attack, macOS Bounty Complaints, Chinese Hackers Trained in Cisco Academy",
       "url": "https://www.securityweek.com/in-other-news-promptpwnd-attack-small-macos-bounties-chinese-hackers-trained-in-cisco-academy/",
@@ -1899,61 +1954,6 @@
       "url": "https://www.securityweek.com/mitre-releases-2025-list-of-top-25-most-dangerous-software-vulnerabilities/",
       "published": "2025-12-12T12:00:01+00:00",
       "summary": "<p>XSS remains the top software weakness, followed by SQL injection and CSRF. Buffer overflow issues and improper access control make it to top 25.</p>\n<p>The post <a href=\"https://www.securityweek.com/mitre-releases-2025-list-of-top-25-most-dangerous-software-vulnerabilities/\">MITRE Releases 2025 List of Top 25 Most Dangerous Software Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "554643da5d0fdac9e6d58fb189883db8b2d897ef",
-      "title": "Microsoft Bug Bounty Program Expanded to Third-Party Code",
-      "url": "https://www.securityweek.com/microsoft-bug-bounty-program-expanded-to-third-party-code/",
-      "published": "2025-12-12T11:01:04+00:00",
-      "summary": "<p>All critical vulnerabilities in Microsoft, third-party, and open source code are eligible for rewards if they impact Microsoft services.</p>\n<p>The post <a href=\"https://www.securityweek.com/microsoft-bug-bounty-program-expanded-to-third-party-code/\">Microsoft Bug Bounty Program Expanded to Third-Party Code</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "9630a33e3b911873e19ae2741ac77d8919bac776",
-      "title": "Notepad++ Patches Updater Flaw After Reports of Traffic Hijacking",
-      "url": "https://www.securityweek.com/notepad-patches-updater-flaw-after-reports-of-traffic-hijacking/",
-      "published": "2025-12-12T10:50:41+00:00",
-      "summary": "<p>Notepad++ found a vulnerability in the way the software updater authenticates update files.\u00a0</p>\n<p>The post <a href=\"https://www.securityweek.com/notepad-patches-updater-flaw-after-reports-of-traffic-hijacking/\">Notepad++ Patches Updater Flaw After Reports of Traffic Hijacking</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "108b9be05da306dc15cf3dbf34b61117ec5a4065",
-      "title": "$320,000 Paid Out at Zeroday.Cloud for Open Source Software Exploits",
-      "url": "https://www.securityweek.com/320000-paid-out-at-zeroday-cloud-for-open-source-software-exploits/",
-      "published": "2025-12-12T07:41:41+00:00",
-      "summary": "<p>Participants earned rewards at the hacking competition for Grafana, Linux Kernel, Redis, MariaDB, and PostgreSQL vulnerabilities.</p>\n<p>The post <a href=\"https://www.securityweek.com/320000-paid-out-at-zeroday-cloud-for-open-source-software-exploits/\">$320,000 Paid Out at Zeroday.Cloud for Open Source Software Exploits</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "cccb16b3376e3445a00ff814d2281c0154874e02",
-      "title": "Trump Signs Executive Order to Block State AI Regulations",
-      "url": "https://www.securityweek.com/trump-signs-executive-order-to-block-state-ai-regulations/",
-      "published": "2025-12-12T02:44:28+00:00",
-      "summary": "<p>Members of Congress from both parties have pushed for more regulations on AI, saying there is not enough oversight for the powerful technology.</p>\n<p>The post <a href=\"https://www.securityweek.com/trump-signs-executive-order-to-block-state-ai-regulations/\">Trump Signs Executive Order to Block State AI Regulations</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "3281ee957116fd758ce9f4f598b234324a746501",
-      "title": "Virtual Event Today: Cyber AI & Automation Summit Day 2",
-      "url": "https://www.securityweek.com/virtual-event-today-cyber-ai-automation-summit-day-2/",
-      "published": "2025-12-11T15:55:00+00:00",
-      "summary": "<p>Day two of the Cyber AI &#038; Automation Summit kicks off at 11AM ET. If you weren't able to attend yesterday, all Day One sessions are already available on-demand.</p>\n<p>The post <a href=\"https://www.securityweek.com/virtual-event-today-cyber-ai-automation-summit-day-2/\">Virtual Event Today: Cyber AI &amp; Automation Summit Day 2</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
