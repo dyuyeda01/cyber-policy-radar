@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-17T00:42:20.726759+00:00",
+  "generated_at": "2025-12-17T12:18:42.125469+00:00",
   "items": [
     {
       "id": "0d486ec04697db49255b331ab6e21270523150a6",
@@ -110,6 +110,39 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "077ac1a22047c8c29c3eabb0f0b68744890314cf",
+      "title": "Fix SOC Blind Spots: See Threats to Your Industry & Country in Real Time",
+      "url": "https://thehackernews.com/2025/12/fix-soc-blind-spots-see-threats-to-your.html",
+      "published": "2025-12-17T11:30:00+00:00",
+      "summary": "Modern security teams often feel like they\u2019re driving through fog with failing headlights. Threats accelerate, alerts multiply, and SOCs struggle to understand which dangers matter right now for their business. Breaking out of reactive defense is no longer optional. It\u2019s the difference between preventing incidents and cleaning up after them.\nBelow is the path from reactive firefighting to a",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiglAo-MBBYaWayNY0Hzg8QFcOCw_ylI8JM8RcOED0_buLBNU32LM_ftRfE_rS9VknflDViF5hMZsAI4jzWvAemNsTcL71ICA1dAneg-gBrrb3j98XsCSyuLFFCU2QScf0Uw6WhhdQHntSHOnscMG4bXidDQiU4lq0Nv5zlvnHSyctJqHOFCARwGjPXuHk/s1600/anyrun.jpg"
+    },
+    {
+      "id": "014c71730aec62059dc703934748bb5591f68d54",
+      "title": "China-Linked Ink Dragon Hacks Governments Using ShadowPad and FINALDRAFT Malware",
+      "url": "https://thehackernews.com/2025/12/china-linked-ink-dragon-hacks.html",
+      "published": "2025-12-17T11:12:00+00:00",
+      "summary": "The threat actor known as Jewelbug has been increasingly focusing on government targets in Europe since July 2025, even as it continues to attack entities located in Southeast Asia and South America.\nCheck Point Research is tracking the cluster under the name Ink Dragon. It's also referenced by the broader cybersecurity community under the names CL-STA-0049, Earth Alux, and REF7707. The",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBqWp3MxMTIJGzJ80yzXzhZCQc_ohjdhk1BJaVaIWvIQgGba88Xra_FRs2FH4JFse3UIBgw9gtP0TinJmcYKJJm_gol3V0OVgNCiJc61rCvRfcLDXv0RFp9h8PluVcWQhNswpfkch27yK9eUcUek1DN2Rw39UroiwJfTaX8SdYv-Dld7upAcKnDV4l1VnI/s1600/cpcp.jpg"
+    },
+    {
+      "id": "f16f448fd80d30e23a310c51759a9a5d8c8a3bcd",
+      "title": "GhostPoster Malware Found in 17 Firefox Add-ons with 50,000+ Downloads",
+      "url": "https://thehackernews.com/2025/12/ghostposter-malware-found-in-17-firefox.html",
+      "published": "2025-12-17T08:14:00+00:00",
+      "summary": "A new campaign named GhostPoster has leveraged logo files associated with 17 Mozilla Firefox browser add-ons to embed malicious JavaScript code designed to hijack affiliate links, inject tracking code, and commit click and ad fraud.\nThe extensions have been collectively downloaded over 50,000 times, according to Koi Security, which discovered the campaign. The add-ons are no longer available.",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSvPHdkrpjZsxg3pztc2gN7T9O0W5B1C3B6v7G-ep4OPWtLats1XsDkFfgorwPpwIwHAanQiLirNnsFMYVh0BrLu8Y_c6LjGbTHefFNAHFgDJ9hM-Iv7LI81eXSxjO8mz1tmAny6Bif9UNwSQaFrBvIGGPDFmB1Eon3nW1NYYvwaD5tY15ItYCa0RmMZs-/s1600/firefox.jpg"
     },
     {
       "id": "8be549b12a521ef026809e1182dd59b8b4c09dd2",
@@ -629,37 +662,26 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhW436xusfcObfG2LGJplqSv9pCE0mKE4E6ztdzCE5vP2Va7mLqTYxGSyjEZGdw0klXx-7D6kprLyKKumknqgC34zuVXl9tcWzG3ocoK18XcOwDF9hBaX7nqDxTMy8GwsslXMsqd456TEX2JU2LTeP0lVpiMFF7c61b9v2cUpzA4DI2hos7MH9j3E6B6lvk/s1600/wordpresss.jpg"
     },
     {
-      "id": "53df54948f245f2b5780d458661c45b6178544f1",
-      "title": "MuddyWater Deploys UDPGangster Backdoor in Targeted Turkey-Israel-Azerbaijan Campaign",
-      "url": "https://thehackernews.com/2025/12/muddywater-deploys-udpgangster-backdoor.html",
-      "published": "2025-12-08T06:46:00+00:00",
-      "summary": "The Iranian hacking group known as MuddyWater has been observed leveraging a new backdoor dubbed UDPGangster that uses the User Datagram Protocol (UDP) for command-and-control (C2) purposes.\nThe cyber espionage activity targeted users in Turkey, Israel, and Azerbaijan, according to a report from Fortinet FortiGuard Labs.\n\"This malware enables remote control of compromised systems by allowing",
-      "source": "The Hacker News",
+      "id": "8853430dd51f2681243e263c01e3ae25749f9da1",
+      "title": "Afripol Focuses on Regional Cyber Challenges, Deepening Cooperation",
+      "url": "https://www.darkreading.com/cybersecurity-operations/afripol-focuses-regional-cyber-challenges-deepening-cooperation",
+      "published": "2025-12-17T07:00:00+00:00",
+      "summary": "Rapid digitization, uneven cybersecurity know-how, and growing cybercriminal syndicates in the region have challenged law enforcement and prosecutors.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYXNboyf2GnxrecT0sKYR0MhunHsxtjogBIhtsNVobnT6Y5JxVFfrYcy4cGoABHSNBKDJTe4fEbi3I9uJ7Rl_HNToAsi6MiMLq53MreR2Eo25VrjlEIxyFz7wbmA2ZXkP-xkTlsEmtA5MTFl1sf_zMOoACofqqbq5pqDA4R0ssFb8b6sEmmaHDoGJ7pEvS/s1600/cyberattack.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb4c65d47c0d24849/6941c932211d3e71d9e91c27/white-rhinos-in-africa-Jurgens_Potgieter-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "06769c58e2f3b0d731256114cba39c3875860b96",
-      "title": "Researcher Uncovers 30+ Flaws in AI Coding Tools Enabling Data Theft and RCE Attacks",
-      "url": "https://thehackernews.com/2025/12/researchers-uncover-30-flaws-in-ai.html",
-      "published": "2025-12-06T15:24:00+00:00",
-      "summary": "Over 30 security vulnerabilities have been disclosed in various artificial intelligence (AI)-powered Integrated Development Environments (IDEs) that combine prompt injection primitives with legitimate features to achieve data exfiltration and remote code execution.\nThe security shortcomings have been collectively named IDEsaster by security researcher Ari Marzouk (MaccariTA), who discovered them",
-      "source": "The Hacker News",
+      "id": "d2441d5ff9712187a6a02bc07be893a7f22e6620",
+      "title": "Why You Should Train Your SOC Like a Triathlete",
+      "url": "https://www.darkreading.com/cybersecurity-operations/why-you-should-train-your-soc-like-triathlete",
+      "published": "2025-12-16T22:20:33+00:00",
+      "summary": "The key elements in a security operations center's strategy map very closely to the swim/bike/run events in a triathlon. SOCs, like triathletes, perform well when their &quot;inputs&quot; are strong.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyOpPc8ucnigXsFagXjVCnBwywXC-OOemw_QXXkGAPjAa1YKv0ViLZEPg0AtaGss65NKfl2M7gR9XwjgbFHgxPliOMkLEJ14VEXyLuuqwvqkH0Hj4aCDGKBbRtKuX3j3hmHCD05EKU1K74YgR8m4TdZu2_CZ_cqnWLZRmuvitlyjUW6wE2suxA8Y8oHGNY/s1600/ai-coding.jpg"
-    },
-    {
-      "id": "2ecf0ef6d1e9c613365154cbc353e8c1486d360a",
-      "title": "Critical React2Shell Flaw Added to CISA KEV After Confirmed Active Exploitation",
-      "url": "https://thehackernews.com/2025/12/critical-react2shell-flaw-added-to-cisa.html",
-      "published": "2025-12-06T11:40:00+00:00",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday formally added a critical security flaw impacting React Server Components (RSC) to its Known Exploited Vulnerabilities (KEV) catalog following reports of active exploitation in the wild.\nThe vulnerability, CVE-2025-55182 (CVSS score: 10.0), relates to a case of remote code execution that could be triggered by an",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirLapA_bU5QPCfp-MRukDEfXZXrWr6Im2qJaqg7pJ6I_5tq2aD21_Q_-9N83CCdNoZIsThs7oC2SKBLRdK0XbPh-Ork2PYk3Sp5_MGvKmVeo_IPZg_lPDq5VgF3nPj7pRIjcDNIihQG68dlzKqMed-yhg3BFKVcGO1PXUEEB4tfzlcIDXr1vDlnfvbwL8E/s1600/react2shell-exploit.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0ddc5f78fbb40924/694299f6211d3e3993e91d11/racing-H18PDW_Photography-alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "id": "bc0e365a81ac5c7735cb33ccfd6bbb8c2a570881",
@@ -696,7 +718,7 @@
     },
     {
       "id": "8314b7008290b437222a3cd154bebfd6b6267788",
-      "title": "Enterprises Gear Up for 2026\u2019s IT Transformation",
+      "title": "Enterprises Gear Up Ahead of 2026's IT Transformation Shift",
       "url": "https://www.darkreading.com/cybersecurity-operations/enterprises-gear-up-for-2026-s-it-transformation",
       "published": "2025-12-16T15:08:23+00:00",
       "summary": "Experts predict big changes are coming for IT infrastructure in 2026 driven by AI adoption, hybrid cloud strategies, and evolving security demands.",
@@ -1190,26 +1212,15 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt56e9e9be68b5a627/693094ca216a8333c7cf029b/Temu_App_Koshiro_K_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "8d0d43d5e2b591cc363998177b9c8690d44031f4",
-      "title": "The Ransomware Holiday Bind: Burnout or Be Vulnerable",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/the-ransomware-holiday-bind-burnout-or-be-vulnerable",
-      "published": "2025-12-03T13:52:29+00:00",
-      "summary": "Ransomware groups target enterprises during off-hours, weekends, and holidays when security teams are stretched thin and response times lag.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt461cc484d5296000/693045618fc4b475001bbdad/3D71JKD.jpg?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
-      "id": "341d0689f55781d21f7e794132b619d1f9bdd6e6",
-      "title": "AI Bolsters Python Variant of Brazilian WhatsApp Attacks",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/ai-python-variant-brazilian-whatsapp-attacks",
-      "published": "2025-12-03T10:56:24+00:00",
-      "summary": "Water Saci has upgraded its self-propagating malware to compromise banks and cryptocurrency exchanges by targeting enterprise users of the popular chat app.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt68430d49f96f0c85/69301c02acfca8c7df8384ad/brazil1800_Lazyllama_alamy.png?width=1280&auto=webp&quality=80&disable=upscale"
+      "id": "1044c5bfbf643e5e1fd7895369a893eb09e91806",
+      "title": "England keeping pen and paper exams despite limited digital expansion",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2025/12/17/england_pen_paper_exams/",
+      "published": "2025-12-17T10:15:08+00:00",
+      "summary": "<h4>Regulator proposes strict limits on screen-based testing, cites infrastructure concerns and lack of evidence for benefits</h4> <p>Most students taking school and college GCSE, A-level, and AS-level exams in England will continue to use pen and paper, according to proposals from the sector's regulator for a very limited expansion of screen-based assessments.\u2026</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
       "id": "facc7ef3089a69ff266f5ced974f52916f207db7",
@@ -1751,17 +1762,6 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "a61ebf987ab54f4c9dbffef2a0d9200ee0c3f832",
-      "title": "Apache warns of 10.0-rated flaw in Tika metadata ingestion tool",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/12/08/infosec_news_in_brief/",
-      "published": "2025-12-08T00:10:04+00:00",
-      "summary": "<h4>PLUS: New kind of DDOS from the Americas; Predator still hunting spyware targets; NIST issues IoT advice; And more!</h4> <p><strong>Infosec in Brief</strong>\u00a0 The Apache Foundation last week warned of a 10.0-rated flaw in its Tika toolkit.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
       "id": "391a22db8ea8ff89d4116d357112d558278dfb73",
       "title": "Most Parked Domains Now Serving Malicious Content",
       "url": "https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/",
@@ -1850,6 +1850,61 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "3cefb8ef810c17aba3933392c8eab0ce3c495d64",
+      "title": "Five Cybersecurity Predictions for 2026: Identity, AI, and the Collapse of Perimeter Thinking",
+      "url": "https://www.securityweek.com/five-cybersecurity-predictions-for-2026-identity-ai-and-the-collapse-of-perimeter-thinking/",
+      "published": "2025-12-17T12:00:00+00:00",
+      "summary": "<p>The perimeter is gone. Credentials are no longer sufficient. And security can no longer rely on static controls in a dynamic threat environment.</p>\n<p>The post <a href=\"https://www.securityweek.com/five-cybersecurity-predictions-for-2026-identity-ai-and-the-collapse-of-perimeter-thinking/\">Five Cybersecurity Predictions for 2026: Identity, AI, and the Collapse of Perimeter Thinking</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "67d993cd18589e0e5de48dfdd410fb065ad18f89",
+      "title": "Adaptive Security Raises $81 Million in Series B Funding",
+      "url": "https://www.securityweek.com/adaptive-security-raises-81-million-in-series-b-funding/",
+      "published": "2025-12-17T11:18:29+00:00",
+      "summary": "<p>Led by Bain Capital Ventures, the investment round brings the total raised by the company to $146.5 million.</p>\n<p>The post <a href=\"https://www.securityweek.com/adaptive-security-raises-81-million-in-series-b-funding/\">Adaptive Security Raises $81 Million in Series B Funding</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "23eed571bccb452a4dd1dc7271315acc61b68721",
+      "title": "GhostPoster Firefox Extensions Hide Malware in Icons",
+      "url": "https://www.securityweek.com/ghostposter-firefox-extensions-hide-malware-in-icons/",
+      "published": "2025-12-17T10:40:19+00:00",
+      "summary": "<p>The malware hijacks purchase commissions, tracks users, removes security headers, injects hidden iframes, and bypasses CAPTCHA.</p>\n<p>The post <a href=\"https://www.securityweek.com/ghostposter-firefox-extensions-hide-malware-in-icons/\">GhostPoster Firefox Extensions Hide Malware in Icons</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "5b808b2b14ba9e5674fc41e5161b3fbbf773872d",
+      "title": "Auto Parts Giant LKQ Confirms Oracle EBS Breach",
+      "url": "https://www.securityweek.com/auto-parts-giant-lkq-confirms-oracle-ebs-breach/",
+      "published": "2025-12-17T09:11:03+00:00",
+      "summary": "<p>LKQ said the personal information of thousands of individuals was compromised as a result of the hacker attack.</p>\n<p>The post <a href=\"https://www.securityweek.com/auto-parts-giant-lkq-confirms-oracle-ebs-breach/\">Auto Parts Giant LKQ Confirms Oracle EBS Breach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "423793a5eeb9440878ee24ddeee81547fe8951c0",
+      "title": "Dux Emerges From Stealth Mode With $9 Million in Funding",
+      "url": "https://www.securityweek.com/dux-emerges-from-stealth-mode-with-9-million-in-funding/",
+      "published": "2025-12-17T07:17:18+00:00",
+      "summary": "<p>The startup takes an agentic approach to preventing vulnerability exploitation by uncovering exposure across assets.</p>\n<p>The post <a href=\"https://www.securityweek.com/dux-emerges-from-stealth-mode-with-9-million-in-funding/\">Dux Emerges From Stealth Mode With $9 Million in Funding</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "c5c09a9235380ee12881fc1929ada2a9a9073b42",
       "title": "From Open Source to OpenAI: The Evolution of Third-Party Risk",
       "url": "https://www.securityweek.com/from-open-source-to-openai-the-evolution-of-third-party-risk/",
@@ -1899,61 +1954,6 @@
       "url": "https://www.securityweek.com/verisoul-raises-8-8-million-for-fraud-prevention/",
       "published": "2025-12-16T14:00:00+00:00",
       "summary": "<p>The company plans to accelerate product development, scale go-to-market efforts, and hire new talent.</p>\n<p>The post <a href=\"https://www.securityweek.com/verisoul-raises-8-8-million-for-fraud-prevention/\">Verisoul Raises $8.8 Million for Fraud Prevention</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "58667809f86ffbf324be16e84f354cb3c3e1f8fd",
-      "title": "Amazon: Russian Hackers Now Favor Misconfigurations in Critical Infrastructure Attacks",
-      "url": "https://www.securityweek.com/amazon-russian-hackers-now-favor-misconfigurations-in-critical-infrastructure-attacks/",
-      "published": "2025-12-16T13:22:11+00:00",
-      "summary": "<p>After years of exploiting zero-day and n-day vulnerabilities, Russian state-sponsored threat actors are shifting to misconfigured devices.</p>\n<p>The post <a href=\"https://www.securityweek.com/amazon-russian-hackers-now-favor-misconfigurations-in-critical-infrastructure-attacks/\">Amazon: Russian Hackers Now Favor Misconfigurations in Critical Infrastructure Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "a4edd6900bada25923d243dc3a4fb200174c84e3",
-      "title": "JumpCloud Remote Assist Vulnerability Can Expose Systems to Takeover",
-      "url": "https://www.securityweek.com/jumpcloud-remote-assist-vulnerability-can-expose-systems-to-takeover/",
-      "published": "2025-12-16T11:39:54+00:00",
-      "summary": "<p>The issue allows attackers to write arbitrary data to any file, or delete arbitrary files to obtain System privileges.</p>\n<p>The post <a href=\"https://www.securityweek.com/jumpcloud-remote-assist-vulnerability-can-expose-systems-to-takeover/\">JumpCloud Remote Assist Vulnerability Can Expose Systems to Takeover</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "5400a933f4957b0bc465d74d04c27ad407eb3fec",
-      "title": "User Data Compromised in SoundCloud Hack",
-      "url": "https://www.securityweek.com/user-data-compromised-in-soundcloud-hack/",
-      "published": "2025-12-16T10:47:58+00:00",
-      "summary": "<p>SoundCloud said the information of 20% of users was accessed by hackers who breached its systems.</p>\n<p>The post <a href=\"https://www.securityweek.com/user-data-compromised-in-soundcloud-hack/\">User Data Compromised in SoundCloud Hack\u00a0</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "76910784191eb7efd59f3544a8c7a6706d5a7a76",
-      "title": "In-the-Wild Exploitation of Fresh Fortinet Flaws Begins",
-      "url": "https://www.securityweek.com/in-the-wild-exploitation-of-fresh-fortinet-flaws-begins/",
-      "published": "2025-12-16T09:27:20+00:00",
-      "summary": "<p>Threat actors are exploiting the two critical authentication bypass vulnerabilities against FortiGate appliances.</p>\n<p>The post <a href=\"https://www.securityweek.com/in-the-wild-exploitation-of-fresh-fortinet-flaws-begins/\">In-the-Wild Exploitation of Fresh Fortinet Flaws Begins</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "0cbca8ec6fbe429a3bf25dba18e5e83db2c71713",
-      "title": "Militant Groups Are Experimenting With AI, and the Risks Are Expected to Grow",
-      "url": "https://www.securityweek.com/militant-groups-are-experimenting-with-ai-and-the-risks-are-expected-to-grow/",
-      "published": "2025-12-15T17:28:17+00:00",
-      "summary": "<p>AI can be used by extremist groups to pump out propaganda or deepfakes at scale, widening their reach and expanding their influence.</p>\n<p>The post <a href=\"https://www.securityweek.com/militant-groups-are-experimenting-with-ai-and-the-risks-are-expected-to-grow/\">Militant Groups Are Experimenting With AI, and the Risks Are Expected to Grow</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
