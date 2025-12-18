@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-18T00:42:06.785201+00:00",
+  "generated_at": "2025-12-18T12:18:27.158966+00:00",
   "items": [
     {
       "id": "0f80f2ff9f154c5753f7ab0422003e790c76460c",
@@ -110,6 +110,50 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "b42fc01984f4b61144a0c776d68e2725bae73766",
+      "title": "The Case for Dynamic AI-SaaS Security as Copilots Scale",
+      "url": "https://thehackernews.com/2025/12/the-case-for-dynamic-ai-saas-security.html",
+      "published": "2025-12-18T11:30:00+00:00",
+      "summary": "Within the past year, artificial intelligence copilots and agents have quietly permeated the SaaS applications businesses use every day. Tools like Zoom, Slack, Microsoft 365, Salesforce, and ServiceNow now come with built-in AI assistants or agent-like features. Virtually every major SaaS vendor has rushed to embed AI into their offerings.\nThe result is an explosion of AI capabilities across",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRAVPr4nxCDAf4euDWVcFXtlRMe6lkY8T4OCHznoMF2p0khf6nxt_vCRd6ucmLfQ1mNk4DbL1AFBWwtJLyAKTtBrHGq7klKPhXr34anEfsJI54GfilYo01uu7hIV3RBYNTL7_nsvxxY1yUv1gxZUZamoHEqmBK_Z4Mfbx2aljfv5-oj7Kj0BTuKn7atUi_/s1600/reco-main.jpg"
+    },
+    {
+      "id": "d38d01741a9c49db526aefe947635203f44c9aaf",
+      "title": "Kimsuky Spreads DocSwap Android Malware via QR Phishing Posing as Delivery App",
+      "url": "https://thehackernews.com/2025/12/kimsuky-spreads-docswap-android-malware.html",
+      "published": "2025-12-18T07:43:00+00:00",
+      "summary": "The North Korean threat actor known as Kimsuky has been linked to a new campaign that distributes a new variant of Android malware called DocSwap via QR codes hosted on phishing sites mimicking Seoul-based logistics firm CJ Logistics (formerly CJ Korea Express).\n\"The threat actor leveraged QR codes and notification pop-ups to lure victims into installing and executing the malware on their mobile",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXfvLiKFsryuDZrfr2qiAYePwlVAsyejJM2t1Z_kDfiC3UESmR-QuVtIsdDQxuak0MBFgJg6k5RVzWmR5nBCJ3RSuqfCB1XgWie0qQow6mg3DhBx5E5sjd9zWtfPc5FnXt4omgsICqKhlMl5Lr-mbvKj-KDQhSR6g0Xho1Myzphu9uWYYJujfZRUxTMYMU/s1600/android-qr-code.jpg"
+    },
+    {
+      "id": "4b1d3828a03cccb65c1e4fefdbd087db44b0da51",
+      "title": "CISA Flags Critical ASUS Live Update Flaw After Evidence of Active Exploitation",
+      "url": "https://thehackernews.com/2025/12/cisa-flags-critical-asus-live-update.html",
+      "published": "2025-12-18T05:01:00+00:00",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a critical flaw impacting ASUS Live Update to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\nThe vulnerability, tracked as CVE-2025-59374 (CVSS score: 9.3), has been described as an \"embedded malicious code vulnerability\" introduced by means of a supply chain compromise",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEictGhjT_9OZJTuEYOqE7telpBLN4MwLPN-_JQ47nzM7kRB30tNAxJZTj9G4_et941pBqOhHYsMelUkkFuHr4YpaSePmF2yI9HlFtjucfPOrUBLygp2yn9Si1RTNOhFOwXOD1i4R1pn7tF5wF5tTWCt6yOHKOzogpgTJKsnLqPMZeqSei3woebqNCrukUTm/s1600/asus-update.jpg"
+    },
+    {
+      "id": "387b5e1eacf7976abf7e18477a40780e0900be08",
+      "title": "Cisco Warns of Active Attacks Exploiting Unpatched 0-Day in AsyncOS Email Security Appliances",
+      "url": "https://thehackernews.com/2025/12/cisco-warns-of-active-attacks.html",
+      "published": "2025-12-18T04:10:00+00:00",
+      "summary": "Cisco has alerted users to a maximum-severity zero-day flaw in Cisco AsyncOS software that has been actively exploited by a China-nexus advanced persistent threat (APT) actor codenamed UAT-9686 in attacks targeting Cisco Secure Email Gateway and Cisco Secure Email and Web Manager.\nThe networking equipment major said it became aware of the intrusion campaign on December 10, 2025, and that it",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpjMjZETJCJzsn3zNMvhFcueq4Jg-O7GD4cD5JoRzRRlP5TeeoxTkjVNrFJsNM1AGDrsTu6cTS21FhA5IeCIFA8lv1T7T2tzKp7gax2Iqkuw2NQ62cIdlsRPoRuLZLieDm1CvaNg688pPbY0k50cG2RbDWWtv_GvAGfAFtJwJ_r43qsp42vNdJ8YPvrmL-/s1600/cisco.jpg"
     },
     {
       "id": "c692048a0a8a87f0701c8109d2b5a04bc6c727fa",
@@ -618,50 +662,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiH2Vp1tGLWh8MZqrb8A89wnY6EiB7tOnSURBp8iBE-pmJOwkrBSOUU1ixEDZjfWbEEv3Vp5KjxLS6qKJHLRJ2R2diF4aAC43LxRwN4nTlnJIXGGhA0V4O9ny-KSUh3__yMn1rA01CjTAKQqaQFQPvSBgTcfL0t0xN6N_3v_wlo1pwJaVm5Qz_TTn4dAeM/s1600/tines.jpg"
     },
     {
-      "id": "cb0c3e3062f17e4da0fedd4e83d245b4f506b7a6",
-      "title": "Google Adds Layered Defenses to Chrome to Block Indirect Prompt Injection Threats",
-      "url": "https://thehackernews.com/2025/12/google-adds-layered-defenses-to-chrome.html",
-      "published": "2025-12-09T11:14:00+00:00",
-      "summary": "Google on Monday announced a set of new security features in Chrome, following the company's addition of agentic artificial intelligence (AI) capabilities to the web browser.\nTo that end, the tech giant said it has implemented layered defenses to make it harder for bad actors to exploit indirect prompt injections that arise as a result of exposure to untrusted web content and inflict harm.\nChief",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuzTTpUhFNugGRa1jc7w-4LTjvLeZ-OaYTZ9C_zymrAnY-oQP-X_hyphenhyphenE8zVTX6KJTp7B6nrbrptzuDPClEEODKyC757npjyoRrIVIGUOkCw-5m-wx7jiFVeGXm5PlLuAq4D1rrSWDgAErrpGCdMLnrQHREtMLhl13arje9O0uWsQEu2VSNacaU7AJ0qb1_e/s1600/chrome-browser.jpg"
-    },
-    {
-      "id": "cc7b08f15947033c33eb776c84c30733cec98787",
-      "title": "STAC6565 Targets Canada in 80% of Attacks as Gold Blade Deploys QWCrypt Ransomware",
-      "url": "https://thehackernews.com/2025/12/stac6565-targets-canada-in-80-of.html",
-      "published": "2025-12-09T09:35:00+00:00",
-      "summary": "Canadian organizations have emerged as the focus of a targeted cyber campaign orchestrated by a threat activity cluster known as STAC6565.\nCybersecurity company Sophos said it investigated almost 40 intrusions linked to the threat actor between February 2024 and August 2025. The campaign is assessed with high confidence to share overlaps with a hacking group known as Gold Blade, which is also",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjphpAuB7upf9tTuLU23nSlTYUqCjWgSf4MeO2-6_3Ktq-AqmWskEd31kIUG0A0YPzS5vJS-PjURT9Zhqen4IK_yVdMhI21GIPXXjGfAuT2JAbP29DAN1hUDhMv42hqAvCEoCv6hL0xbvY9V9DltewHFuH7XxhH4fWR_c8cmelUSv9LgkA4hFmniQ0ZhZ1N/s1600/ransomware.jpg"
-    },
-    {
-      "id": "aa1a8e1cef8c32fb7e81e51ff71d62f0f4c0991e",
-      "title": "Researchers Find Malicious VS Code, Go, npm, and Rust Packages Stealing Developer Data",
-      "url": "https://thehackernews.com/2025/12/researchers-find-malicious-vs-code-go.html",
-      "published": "2025-12-09T08:07:00+00:00",
-      "summary": "Cybersecurity researchers have discovered two new extensions on Microsoft Visual Studio Code (VS Code) Marketplace that are designed to infect developer machines with stealer malware.\nThe VS Code extensions masquerade as a premium dark theme and an artificial intelligence (AI)-powered coding assistant, but, in actuality, harbor covert functionality to download additional payloads, take",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEio8tVeCj4jvHcVJWmXP6jxvW38aUyE_3XFLbB_0g-DluSuxqf0PN5g9TIWTsiAeeBYm99_RsY9Bi_lpQnOZWtfECGdtKZ36-0oVSNHgjwWIAia6bo_3_oFdMkMLWbyu7MknPOkBQ_vafKrLGCQEfbyh66vg7bIhFAUgZ9eaz_-IQSmR0uc-wqr71aDa5zD/s1600/software-malware.jpg"
-    },
-    {
-      "id": "a7799dde22b7e86330cdaf48474f5bb1fae1acd4",
-      "title": "Experts Confirm JS#SMUGGLER Uses Compromised Sites to Deploy NetSupport RAT",
-      "url": "https://thehackernews.com/2025/12/experts-confirm-jssmuggler-uses.html",
-      "published": "2025-12-08T17:37:00+00:00",
-      "summary": "Cybersecurity researchers are calling attention to a new campaign dubbed JS#SMUGGLER that has been observed leveraging compromised websites as a distribution vector for a remote access trojan named NetSupport RAT.\nThe attack chain, analyzed by Securonix, involves three main moving parts: An obfuscated JavaScript loader injected into a website, an HTML Application (HTA) that runs encrypted",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCgAhdt5sz3PXhLRrV59c310Qk-9hJwShYKfrpg9cq5fdx7FH4hzseiqnNqE8X0_skZaT476KMf0GzbvSRJjQeO15Ra468a4l5C71u-nXGm3IrRQXlDzgf-_lYNldneG0WwsR81AK7jSvkeaO49RZlYoWTbATFVSAFDIl1NOogHhOUpzyc3IXTsQz6WyMv/s1600/hacked-website.jpg"
-    },
-    {
       "id": "29795a431088cb7413909c35b3d88345b67324da",
       "title": "Critical Fortinet Flaws Under Active Attack",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/critical-fortinet-flaws-under-active-attack",
@@ -695,6 +695,28 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltae6cc546088441dc/694308b02971fdc120a5e4f2/mouse_trap_phone_Igor_Sarozhkov_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
+      "id": "ec8557888cbc8e202ad7f06f524b5bf133bd4b8d",
+      "title": "Securing the Network Edge: A Comprehensive Framework for Modern Cybersecurity",
+      "url": "https://www.darkreading.com/endpoint-security/securing-network-edge-comprehensive-framework-modern-cybersecurity",
+      "published": "2025-12-17T21:14:12+00:00",
+      "summary": "The future of cybersecurity means defending everywhere. Securing IoT, cloud, and remote work requires a unified edge-to-cloud strategy. First in a three-part series.",
+      "source": "DarkReading",
+      "region": "North America",
+      "country": "US",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf995e3c549288720/6943e39e33e98d0582ff41cd/edge_computing_ArtemisDiani_Alamy_.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
+      "id": "7a2e22da64d09deeaa7a568078b8c68308197ad3",
+      "title": "Securing the Future: Building Quantum-Safe Networks Today",
+      "url": "https://www.darkreading.com/endpoint-security/securing-future-building-quantum-safe-networks-today",
+      "published": "2025-12-17T20:46:43+00:00",
+      "summary": "As quantum computing advances, interoperable standards will be the key to making QKD practical, trusted, and future-proof.",
+      "source": "DarkReading",
+      "region": "North America",
+      "country": "US",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2152db397dbc068e/67f674413959ee0d3cb2a4eb/Quantum_(1800)_jvphoto_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
       "id": "6c0fcb826c25d6041889e2be359da1d769b5345b",
       "title": "Attackers Use Stolen AWS Credentials in Cryptomining Campaign",
       "url": "https://www.darkreading.com/cloud-security/attackers-use-stolen-aws-credentials-cryptomining",
@@ -704,6 +726,17 @@
       "region": "North America",
       "country": "US",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3a236ccff7c67f78/6942a53e8e60df1b35afc905/Cryptocurrency_Klaus_Ohlenschlaeger_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
+      "id": "ff6adc7e1f4ce53e6f311ab992daa8ad3426d950",
+      "title": "&quot;Fake Proof&quot; and AI Slop Hobble Defenders",
+      "url": "https://www.darkreading.com/application-security/fake-proof-ai-slop-hobble-defenders",
+      "published": "2025-12-17T14:58:31+00:00",
+      "summary": "In the React2Shell saga, non-working and trivial proof-of-concept exploits led to confusion and perhaps a false sense of security. Can the onslaught of PoCs be tamed?",
+      "source": "DarkReading",
+      "region": "North America",
+      "country": "US",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt63c9aceacc8d1918/6941751f19b0236a75b03f3e/failed-security-checks-AI-tadamichi-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "id": "8853430dd51f2681243e263c01e3ae25749f9da1",
@@ -1179,37 +1212,37 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb4b9ab59bde157e0/6931fcd9a4d05c98983cde9c/bricks_FrankieAngel_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "4e4d1f381bfe052039b1cc2ea1aa5a2e38b71050",
-      "title": "CISA Publishes Security Guidance for Using AI in OT",
-      "url": "https://www.darkreading.com/cybersecurity-operations/cisa-publishes-security-guidance-ai-ot",
-      "published": "2025-12-04T20:46:27+00:00",
-      "summary": "Global cybersecurity agencies published guidance regarding AI deployments in operational technology, a backbone of critical infrastructure.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9e75fc81b0e5f130/6931e3ffd6582cd18d49a60b/OT_environment_ElenaBs_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "id": "192eff1be6fb0e0eb662c617baa4c9cc6bfd6fe3",
+      "title": "React2Shell exploitation spreads as Microsoft counts hundreds of hacked machines",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2025/12/18/react2shell_exploitation_spreads_as_microsoft/",
+      "published": "2025-12-18T11:42:39+00:00",
+      "summary": "<h4>Security boffins warn flaw is now being used for ransomware attacks against live networks</h4> <p>Microsoft says attackers have already compromised \"several hundred machines across a diverse set of organizations\" via the React2Shell flaw, using the access to execute code, deploy malware, and, in some cases, deliver ransomware.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "f24403abcb43f1a82f97ecd0a6707db0634e3aac",
-      "title": "ServiceNow's Acquisition of NHI Provider Veza Strengthens Governance Portfolio",
-      "url": "https://www.darkreading.com/cyber-risk/servicenow-acquire-nhi-provider-veza-strengthen-governance-portfolio",
-      "published": "2025-12-04T15:29:11+00:00",
-      "summary": "The deal, believed to be valued at $1 billion, will bring nonhuman identity access control of agents and machines to ServiceNow's offerings, including its new AI Control Tower.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt623e9c094f6b87c3/66951d7d24bd25490eec57cc/Merger(1800)_Mohd_Izzuan_Roslan_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "id": "ebfc644603eb91b829cd3511d6f60b3487fcee59",
+      "title": "DVSA's clapped-out booking system gets bot slapped as new boss rides in",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2025/12/18/dvsa_bot_booking/",
+      "published": "2025-12-18T09:38:26+00:00",
+      "summary": "<h4>18-year-old platform crumbles under 94M daily requests while resellers flog \u00a362 tests for \u00a3500</h4> <p>The UK's Driver and Vehicle Standards Agency (DVSA) has appointed a new chief exec to tackle spiraling waits for practical driving tests with bots overrunning its aging booking system.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "205a4d6ffc18bef94c2473c6b8dff58717b88ab3",
-      "title": "Student Sells Gov't, University Sites to Chinese Actors",
-      "url": "https://www.darkreading.com/threat-intelligence/govt-university-sites-chinese-actors",
-      "published": "2025-12-04T14:00:00+00:00",
-      "summary": "It's the best deal going in cybercrime: fully compromised websites belonging to high-value organizations, for just a couple hundred bucks each.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltab061c1df1dd252a/6928d48fc384e51aa1296777/Bangladesh_lock-Ink_Drop-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "id": "5bc0e6ebbdc3ff03d3d712f0f56b81a4fd01aa6a",
+      "title": "UK surveillance law still full of holes, watchdog warns",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2025/12/18/snoopers_charter_loopholes/",
+      "published": "2025-12-18T09:15:12+00:00",
+      "summary": "<h4>Investigatory Powers Commissioner says reforms have failed to close oversight gaps</h4> <p>The UK's Investigatory Powers Act 2016 (IPA) has several regulatory gaps that must be plugged in future legislative reforms, according to Investigatory Powers Commissioner (IPC) Sir Brian Leveson.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
       "id": "e56267cd153dc3050ee2effd6a2996fb1b6fd324",
@@ -1729,39 +1762,6 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "ba1801c6bef5c40a6a5d25a0c0c7b1ad7ddfbf62",
-      "title": "UK finally vows to look at 35-year-old Computer Misuse Act",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/12/09/uk_computer_misuse_act/",
-      "published": "2025-12-09T10:15:13+00:00",
-      "summary": "<h4>As Portugal gives researchers a pass under cybersecurity law</h4> <p>Portugal has become the latest country to carve out protections for researchers under its cybersecurity law.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "8a3615b1efd243e82f223e074413436f5fd09b47",
-      "title": "Whitehall rejects \u00a31.8B digital ID price tag \u2013 but won't say what it will cost",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/12/09/uk_digital_id_costs/",
-      "published": "2025-12-09T09:30:09+00:00",
-      "summary": "<h4>Officials insist OBR relied on 'early estimate' and real figure won't emerge until next year</h4> <p>The head of the department delivering the UK government's digital identity scheme has rejected the \u00a31.8 billion cost forecast by the Office for Budget Responsibility (OBR), but is not willing to provide an alternative until after a delayed consultation on the plans.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "6fd9ce44257dc9d777008fc7b6c37cb7ae97271d",
-      "title": "Researchers spot 700 percent increase in hypervisor ransomware attacks",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/12/09/hypervisor_ransomware_attacks_increasing/",
-      "published": "2025-12-09T06:41:27+00:00",
-      "summary": "<h4>Get your Hyper-V and VMware ESXi setups in order, people</h4> <p>Researchers at security software vendor Huntress say they\u2019ve noticed a huge increase in ransomware attacks on hypervisors and urged users to ensure they\u2019re as secure as can be and properly backed up.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
       "id": "391a22db8ea8ff89d4116d357112d558278dfb73",
       "title": "Most Parked Domains Now Serving Malicious Content",
       "url": "https://krebsonsecurity.com/2025/12/most-parked-domains-now-serving-malicious-content/",
@@ -1850,6 +1850,61 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "79fd9dc576038715803a081426e83127cc145762",
+      "title": "113,000 Impacted by Data Breach at Virginia Mental Health Authority",
+      "url": "https://www.securityweek.com/113000-impacted-by-data-breach-at-virginia-mental-health-authority/",
+      "published": "2025-12-18T11:05:02+00:00",
+      "summary": "<p>Threat actors stole names, Social Security numbers, and financial and health information, and deployed ransomware on RBHA\u2019s systems.</p>\n<p>The post <a href=\"https://www.securityweek.com/113000-impacted-by-data-breach-at-virginia-mental-health-authority/\">113,000 Impacted by Data Breach at Virginia Mental Health Authority</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "0b4993e7560f6cffd0d6eaef5540406fcceddc51",
+      "title": "IoT Security Firm Exein Raises \u20ac100 Million",
+      "url": "https://www.securityweek.com/iot-security-firm-exein-raises-e100-million/",
+      "published": "2025-12-18T10:34:51+00:00",
+      "summary": "<p>The Italian company has raised nearly $200 million in 2025 for its widely used embedded cybersecurity platform.</p>\n<p>The post <a href=\"https://www.securityweek.com/iot-security-firm-exein-raises-e100-million/\">IoT Security Firm Exein Raises \u20ac100 Million</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "35c87c16e29294d2a062e41b2509068d3a507615",
+      "title": "France Probes \u2018Foreign Interference\u2019 After Remote Control Malware Found on Passenger Ferry",
+      "url": "https://www.securityweek.com/france-probes-foreign-interference-after-remote-control-malware-found-on-passenger-ferry/",
+      "published": "2025-12-18T10:05:50+00:00",
+      "summary": "<p>France\u2019s counterespionage agency is investigating a suspected cyberattack plot targeting an international passenger ferry</p>\n<p>The post <a href=\"https://www.securityweek.com/france-probes-foreign-interference-after-remote-control-malware-found-on-passenger-ferry/\">France Probes &#8216;Foreign Interference&#8217; After Remote Control Malware Found on Passenger Ferry</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "ea65634d4b16110cc04e52e04ec2e627d68f2014",
+      "title": "SonicWall Patches Exploited SMA 1000 Zero-Day",
+      "url": "https://www.securityweek.com/sonicwall-patches-exploited-sma-1000-zero-day/",
+      "published": "2025-12-18T09:10:03+00:00",
+      "summary": "<p>The medium-severity flaw has been exploited in combination with a critical bug for remote code execution.</p>\n<p>The post <a href=\"https://www.securityweek.com/sonicwall-patches-exploited-sma-1000-zero-day/\">SonicWall Patches Exploited SMA 1000 Zero-Day</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "67df30a5f4212fd9d01d09544fd58276e22cf035",
+      "title": "China-Linked Hackers Exploiting Zero-Day in Cisco Security Gear",
+      "url": "https://www.securityweek.com/china-linked-hackers-exploiting-zero-day-in-cisco-security-gear/",
+      "published": "2025-12-18T07:12:31+00:00",
+      "summary": "<p>The critical zero-day is tracked as CVE-2025-20393 and it impacts Secure Email Gateway and Secure Email and Web Manager appliances.</p>\n<p>The post <a href=\"https://www.securityweek.com/china-linked-hackers-exploiting-zero-day-in-cisco-security-gear/\">China-Linked Hackers Exploiting Zero-Day in Cisco Security Gear</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "f058d6b44e2e3852b8aa72def0d6cd290d44bff5",
       "title": "NMFTA Warns of Surge and Sophistication of Cyber-Enabled Cargo Theft",
       "url": "https://www.securityweek.com/nmfta-warns-of-surge-and-sophistication-of-cyber-enabled-cargo-theft/",
@@ -1862,10 +1917,10 @@
     },
     {
       "id": "821d972399babfb2cb478f180efc4c4abd9c0ca3",
-      "title": "Hacker Conversations: Alex Hall, One-time Fraudster",
+      "title": "Hacker Conversations: Alex Hall, One-Time Fraudster",
       "url": "https://www.securityweek.com/hacker-conversations-alex-hall-one-time-fraudster/",
       "published": "2025-12-17T13:00:00+00:00",
-      "summary": "<p>A first-person journey from undetected fraud to defending trust\u2014how life events, neurodiversity, and hard-won insight shaped a former fraudster into a fraud fighter.</p>\n<p>The post <a href=\"https://www.securityweek.com/hacker-conversations-alex-hall-one-time-fraudster/\">Hacker Conversations: Alex Hall, One-time Fraudster</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "summary": "<p>A first-person journey from undetected fraud to defending trust\u2014how life events, neurodiversity, and hard-won insight shaped a former fraudster into a fraud fighter.</p>\n<p>The post <a href=\"https://www.securityweek.com/hacker-conversations-alex-hall-one-time-fraudster/\">Hacker Conversations: Alex Hall, One-Time Fraudster</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
@@ -1899,61 +1954,6 @@
       "url": "https://www.securityweek.com/adaptive-security-raises-81-million-in-series-b-funding/",
       "published": "2025-12-17T11:18:29+00:00",
       "summary": "<p>Led by Bain Capital Ventures, the investment round brings the total raised by the company to $146.5 million.</p>\n<p>The post <a href=\"https://www.securityweek.com/adaptive-security-raises-81-million-in-series-b-funding/\">Adaptive Security Raises $81 Million in Series B Funding</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "23eed571bccb452a4dd1dc7271315acc61b68721",
-      "title": "GhostPoster Firefox Extensions Hide Malware in Icons",
-      "url": "https://www.securityweek.com/ghostposter-firefox-extensions-hide-malware-in-icons/",
-      "published": "2025-12-17T10:40:19+00:00",
-      "summary": "<p>The malware hijacks purchase commissions, tracks users, removes security headers, injects hidden iframes, and bypasses CAPTCHA.</p>\n<p>The post <a href=\"https://www.securityweek.com/ghostposter-firefox-extensions-hide-malware-in-icons/\">GhostPoster Firefox Extensions Hide Malware in Icons</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "5b808b2b14ba9e5674fc41e5161b3fbbf773872d",
-      "title": "Auto Parts Giant LKQ Confirms Oracle EBS Breach",
-      "url": "https://www.securityweek.com/auto-parts-giant-lkq-confirms-oracle-ebs-breach/",
-      "published": "2025-12-17T09:11:03+00:00",
-      "summary": "<p>LKQ said the personal information of thousands of individuals was compromised as a result of the hacker attack.</p>\n<p>The post <a href=\"https://www.securityweek.com/auto-parts-giant-lkq-confirms-oracle-ebs-breach/\">Auto Parts Giant LKQ Confirms Oracle EBS Breach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "423793a5eeb9440878ee24ddeee81547fe8951c0",
-      "title": "Dux Emerges From Stealth Mode With $9 Million in Funding",
-      "url": "https://www.securityweek.com/dux-emerges-from-stealth-mode-with-9-million-in-funding/",
-      "published": "2025-12-17T07:17:18+00:00",
-      "summary": "<p>The startup takes an agentic approach to preventing vulnerability exploitation by uncovering exposure across assets.</p>\n<p>The post <a href=\"https://www.securityweek.com/dux-emerges-from-stealth-mode-with-9-million-in-funding/\">Dux Emerges From Stealth Mode With $9 Million in Funding</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "c5c09a9235380ee12881fc1929ada2a9a9073b42",
-      "title": "From Open Source to OpenAI: The Evolution of Third-Party Risk",
-      "url": "https://www.securityweek.com/from-open-source-to-openai-the-evolution-of-third-party-risk/",
-      "published": "2025-12-16T18:00:00+00:00",
-      "summary": "<p>From open source libraries to AI-powered coding assistants, speed-driven development is introducing new third-party risks that threat actors are increasingly exploiting.</p>\n<p>The post <a href=\"https://www.securityweek.com/from-open-source-to-openai-the-evolution-of-third-party-risk/\">From Open Source to OpenAI: The Evolution of Third-Party Risk</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "76e10f16097644f24ea141c5602eb94793ef7f62",
-      "title": "CISO Communities \u2013 Cybersecurity\u2019s Secret Weapon",
-      "url": "https://www.securityweek.com/ciso-communities-cybersecuritys-secret-weapon/",
-      "published": "2025-12-16T15:00:00+00:00",
-      "summary": "<p>Closed CISO communities act as an information exchange, advice center, pressure valve, and safe haven from critical oversight.</p>\n<p>The post <a href=\"https://www.securityweek.com/ciso-communities-cybersecuritys-secret-weapon/\">CISO Communities \u2013 Cybersecurity\u2019s Secret Weapon</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
