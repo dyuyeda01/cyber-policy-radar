@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-21T00:50:23.679266+00:00",
+  "generated_at": "2025-12-21T12:16:17.332518+00:00",
   "items": [
     {
       "id": "9f7b2cc5c8e2478b59bcd135b900281e6cac69ec",
@@ -110,6 +110,17 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "8c5c0cf6cb8d9224101a2e9a193e544a84378fd5",
+      "title": "Iranian Infy APT Resurfaces with New Malware Activity After Years of Silence",
+      "url": "https://thehackernews.com/2025/12/iranian-infy-apt-resurfaces-with-new.html",
+      "published": "2025-12-21T04:22:00+00:00",
+      "summary": "Threat hunters have discerned new activity associated with an Iranian threat actor known as Infy (aka Prince of Persia), nearly five years after the hacking group was observed targeting victims in Sweden, the Netherlands, and Turkey.\n\"The scale of Prince of Persia's activity is more significant than we originally anticipated,\" Tomer Bar, vice president of security research at SafeBreach, said",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHegtv-omZYW79shLsEk_Vh8OqZ0lziJ2eEH1ADUh6S26O4zAQVpJ0RPi4Y8sOn1QCZNMVMwJoz8_9KxEGiDsef2EUlIPqPEakq3DA5gNpJGlqRHspRCVBRtZM-9ur6CtAPdwtj57Acs2U3HXg2IV6RWyK51gp-L6VZywbKe3GHWqSyeXzi8UZSkFkmtd6/s1600/desk.jpg"
     },
     {
       "id": "c8c9425ed1a9c28b600510f0117a42e0817667bd",
@@ -649,17 +660,6 @@
       "region": "North America",
       "country": "US",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvEmCUTZR13OKl6vXoeTWYwDRRUGP8q1UrkZB0zRzaRSgcOuQptkjkU2_XOxvXMN1dCR3Y7JAxl2I78_flC_DM42KwDKyLqkpHH9kOlvaH9DJ0-_mvVVQ8j8NoBhaf33znWJyvm4tbVhRX7f_jFVwiSu9eBffQK8YZqhMOXGp82xAUNShX-8o9ghBs__T0/s1600/keys.jpg"
-    },
-    {
-      "id": "394919f469c93b0b4c4224a6dd5511ad3b30aef9",
-      "title": "React2Shell Exploitation Delivers Crypto Miners and New Malware Across Multiple Sectors",
-      "url": "https://thehackernews.com/2025/12/react2shell-exploitation-delivers.html",
-      "published": "2025-12-10T20:19:00+00:00",
-      "summary": "React2Shell continues to witness heavy exploitation, with threat actors leveraging the maximum-severity security flaw in React Server Components (RSC) to deliver cryptocurrency miners and an array of previously undocumented malware families, according to new findings from Huntress.\nThis includes a Linux backdoor called PeerBlight, a reverse proxy tunnel named CowTunnel, and a Go-based",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgY81AEgJ3ys1RM_RunP7NBgyQpMKIzdUIbHOklJNtO27j45TCOaOxwkZsUKIgHOmE1M4jQnzFy4C8Z3Lb-z1KNGhdgmUunavK91bX3Ep4YTRRuPVgqrMb7CraGl_DSXN5k_6_aCHskDMlbLHRbOyWnzz02cqH4he47nzYqo-8XIgCpGo6T0ZEwi2ko9Umr/s1600/react-hacking.jpg"
     },
     {
       "id": "e8842f63a717a0cc01f09e66e570063e40a0a876",
@@ -1212,6 +1212,17 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt09b314c3b170f28a/6920e3cd71c6a5d346cf58f7/rust-on-nuts-and-bolts-Jirik_V-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
+      "id": "52f7488a5954619322f2abc5cf58b60fee2d4f33",
+      "title": "NIST tried to pull the pin on NTP servers after blackout caused atomic clock drift",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2025/12/21/nist_ntp_outage_warning/",
+      "published": "2025-12-21T07:40:41+00:00",
+      "summary": "<h4>A rare case of deliberately trying to induce an outage</h4> <p>A staffer at the USA\u2019s National Institute of Standards and Technology (NIST) tried to disable backup generators powering some of its Network Time Protocol infrastructure, after a power outage around Boulder, Colorado, led to errors.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "ad6cb7d74c078da702e4db10313f6f19f885578e",
       "title": "ATM jackpotting gang accused of unleashing Ploutus malware across US",
       "url": "https://go.theregister.com/feed/www.theregister.com/2025/12/19/tren_de_aragua_atm/",
@@ -1745,17 +1756,6 @@
       "url": "https://go.theregister.com/feed/www.theregister.com/2025/12/12/do_kwon_sentenced/",
       "published": "2025-12-12T01:53:15+00:00",
       "summary": "<h4>Judge said his fraud was on 'epic, generational scale'</h4> <p>Terraform Labs founder Do Kwon will spend 15 years in jail after pleading guilty to committing fraud.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "7198fd26b2050cda9e633a5569441de04c497b5b",
-      "title": "Russian hackers debut simple ransomware service, but store keys in plain text",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/12/11/cybervolk_ransomware_is_back/",
-      "published": "2025-12-11T20:56:37+00:00",
-      "summary": "<h4>Operators accidentally left a way for you to get your data back</h4> <p>CyberVolk, a pro-Russian hacktivist crew, is back after months of silence with a new ransomware service. There's some bad news and some good news here.\u2026</p>",
       "source": "The Register \u2013 Security",
       "region": "Europe",
       "country": "UK",
