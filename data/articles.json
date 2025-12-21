@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-20T12:15:37.878843+00:00",
+  "generated_at": "2025-12-21T00:50:23.679266+00:00",
   "items": [
     {
       "id": "9f7b2cc5c8e2478b59bcd135b900281e6cac69ec",
@@ -110,6 +110,17 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "c8c9425ed1a9c28b600510f0117a42e0817667bd",
+      "title": "U.S. DOJ Charges 54 in ATM Jackpotting Scheme Using Ploutus Malware",
+      "url": "https://thehackernews.com/2025/12/us-doj-charges-54-in-atm-jackpotting.html",
+      "published": "2025-12-20T13:48:00+00:00",
+      "summary": "The U.S. Department of Justice (DoJ) this week announced the indictment of 54 individuals in connection with a multi-million dollar ATM jackpotting scheme.\nThe large-scale conspiracy involved deploying malware named Ploutus to hack into automated teller machines (ATMs) across the U.S. and force them to dispense cash. The indicted members are alleged to be part of Tren de Aragua (TdA, Spanish for",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgK2cP9lHpEiLS7JATicmiwWuw1qs3WctK2ZALMrG43Z51JnhNcBG2QyRtbyIAsN032vYBZh7-GFDQ-d5R92xrf3hTBuU2cuSUpB0bPD8lnytywyG1harMel1KgOneMliCPammT3TNDZL7mvqpqkdQiFddGGX65iGzM0SLcaPNBQyeSKgK-7P6Bf5XAFIzb/s1600/atm.jpg"
     },
     {
       "id": "5bfa18fab150c1ea3910f9ed10af986150dca1c4",
@@ -649,17 +660,6 @@
       "region": "North America",
       "country": "US",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgY81AEgJ3ys1RM_RunP7NBgyQpMKIzdUIbHOklJNtO27j45TCOaOxwkZsUKIgHOmE1M4jQnzFy4C8Z3Lb-z1KNGhdgmUunavK91bX3Ep4YTRRuPVgqrMb7CraGl_DSXN5k_6_aCHskDMlbLHRbOyWnzz02cqH4he47nzYqo-8XIgCpGo6T0ZEwi2ko9Umr/s1600/react-hacking.jpg"
-    },
-    {
-      "id": "4a27cf66942d12daf2449d40d9ad0466a1e8f456",
-      "title": ".NET SOAPwn Flaw Opens Door for File Writes and Remote Code Execution via Rogue WSDL",
-      "url": "https://thehackernews.com/2025/12/net-soapwn-flaw-opens-door-for-file.html",
-      "published": "2025-12-10T19:21:00+00:00",
-      "summary": "New research has uncovered exploitation primitives in the .NET Framework that could be leveraged against enterprise-grade applications to achieve remote code execution.\nWatchTowr Labs, which has codenamed the \"invalid cast vulnerability\" SOAPwn, said the issue impacts Barracuda Service Center RMM, Ivanti Endpoint Manager (EPM), and Umbraco 8. But the number of affected vendors is likely to be",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinnS9vb2LFKF6s5fAoVyttBrJ95yYGilrXcgWROlH3mnc3beTVNzu1Km1jBS92RliRTTah0jkHemQXiksFryQVbwuifWpzWqz1uN4JFrqiEEKM3_kB2xdKhRydMPYkn4lwrN9v2deQDGeM44_9B-2KMk1pvRHNA-PW7G7QoPYUzZDFmuNFW7lCEjJyyIUp/s1600/ms.net.jpg"
     },
     {
       "id": "e8842f63a717a0cc01f09e66e570063e40a0a876",
@@ -1833,17 +1833,6 @@
       "url": "https://krebsonsecurity.com/2025/11/is-your-android-tv-streaming-box-part-of-a-botnet/",
       "published": "2025-11-24T18:44:52+00:00",
       "summary": "On the surface, the Superbox media streaming devices for sale at retailers like BestBuy and Walmart may seem like a steal: They offer unlimited access to more than 2,200 pay-per-view and streaming services like Netflix, ESPN and Hulu, all for a one-time fee of around $400. But security experts warn these TV boxes require intrusive software that forces the user's network to relay Internet traffic for others, traffic that is often tied to cybercrime activity such as advertising fraud and account takeovers.",
-      "source": "Krebs on Security",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "578776ac87407943a6d87d4c4fef713d165051a5",
-      "title": "Mozilla Says It\u2019s Finally Done With Two-Faced Onerep",
-      "url": "https://krebsonsecurity.com/2025/11/mozilla-says-its-finally-done-with-two-faced-onerep/",
-      "published": "2025-11-20T19:06:51+00:00",
-      "summary": "In March 2024, Mozilla said it was winding down its collaboration with Onerep -- an identity protection service offered with the Firefox web browser that promises to remove users from hundreds of people-search sites -- after KrebsOnSecurity revealed Onerep's founder had created dozens of people-search services and was continuing to operate at least one of them. Sixteen months later, however, Mozilla is still promoting Onerep. This week, Mozilla announced their partnership with Onerep will officially end next month.",
       "source": "Krebs on Security",
       "region": "Global",
       "country": "GL",
