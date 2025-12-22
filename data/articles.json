@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-22T00:48:57.497948+00:00",
+  "generated_at": "2025-12-22T12:19:05.027678+00:00",
   "items": [
     {
       "id": "9f7b2cc5c8e2478b59bcd135b900281e6cac69ec",
@@ -110,6 +110,17 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "65f678520f9d174616447c7277224e8eb730e19a",
+      "title": "Android Malware Operations Merge Droppers, SMS Theft, and RAT Capabilities at Scale",
+      "url": "https://thehackernews.com/2025/12/android-malware-operations-merge.html",
+      "published": "2025-12-22T06:11:00+00:00",
+      "summary": "Threat actors have been observed leveraging malicious dropper apps masquerading as legitimate applications to deliver an Android SMS stealer dubbed Wonderland in mobile attacks targeting users in Uzbekistan.\n\"Previously, users received 'pure' Trojan APKs that acted as malware immediately upon installation,\" Group-IB said in an analysis published last week. \"Now, adversaries increasingly deploy",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWVgGSYLL-YP_SSvlO7Ggd4xXBMYcq1VWwMSfYjL9s9_o6ewyRXjm9RP0L5EgFMKw8b5azDKhpu66hiT10OeIa54lrYOMcZtk8c8MfbNcq4NSWE4T9pkOyxN6P_yt4sGBdqI6XEFKbLboV1irfJsJO79eyzrN8JavCACeRUv7IoTujepK4K6G9-0S2ua4m/s1600/android-malware.jpg"
     },
     {
       "id": "8c5c0cf6cb8d9224101a2e9a193e544a84378fd5",
@@ -649,17 +660,6 @@
       "region": "North America",
       "country": "US",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNd3_BqdqJgn7flH6fG1M3tV5v9R11ajUrmoh0iY1DOpD7PDvDhrCjFJCBrChqzUb_KF7U0isWGqBx63S_qQDpYlqMI2pyGX7VF36gIltrjYF9k6InQTES7GLwLHwykls9JhDCCYJLTll-xJK4xSoTH4QAMN2ZZfEUhtVxBxILLnvF1XuyV3iRAzfNQNAF/s1600/chrome-exploit.jpg"
-    },
-    {
-      "id": "cc008370bf572f6d51eaadce3e1da4359a9f5d08",
-      "title": "Active Attacks Exploit Gladinet's Hard-Coded Keys for Unauthorized Access and Code Execution",
-      "url": "https://thehackernews.com/2025/12/hard-coded-gladinet-keys-let-attackers.html",
-      "published": "2025-12-11T05:56:00+00:00",
-      "summary": "Huntress is warning of a new actively exploited vulnerability in Gladinet's CentreStack and Triofox products stemming from the use of hard-coded cryptographic keys that have affected nine organizations so far.\n\"Threat actors can potentially abuse this as a way to access the web.config file, opening the door for deserialization and remote code execution,\" security researcher Bryan Masters said.",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvEmCUTZR13OKl6vXoeTWYwDRRUGP8q1UrkZB0zRzaRSgcOuQptkjkU2_XOxvXMN1dCR3Y7JAxl2I78_flC_DM42KwDKyLqkpHH9kOlvaH9DJ0-_mvVVQ8j8NoBhaf33znWJyvm4tbVhRX7f_jFVwiSu9eBffQK8YZqhMOXGp82xAUNShX-8o9ghBs__T0/s1600/keys.jpg"
     },
     {
       "id": "e8842f63a717a0cc01f09e66e570063e40a0a876",
@@ -1212,6 +1212,28 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt09b314c3b170f28a/6920e3cd71c6a5d346cf58f7/rust-on-nuts-and-bolts-Jirik_V-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
+      "id": "19175482106885917e62c1771a88746c5671ced4",
+      "title": "Around 1,000 systems compromised in ransomware attack on Romanian water agency",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2025/12/22/around_1000_systems_compromised_in/",
+      "published": "2025-12-22T12:13:10+00:00",
+      "summary": "<h4>On-site staff keep key systems working while all but one region battles with encrypted PCs</h4> <p>Romania's cybersecurity agency confirms a major ransomware attack on the country's water management administration has compromised around 1,000 systems, with work to remediate them still ongoing.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "a87a7127362b454eff338a3d158e1a6c3b0d1e54",
+      "title": "There\u2019s so much stolen data in the world, South Korea will require face scans to buy a SIM",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2025/12/22/south_korea_facial_verification/",
+      "published": "2025-12-22T04:11:51+00:00",
+      "summary": "<h4>SK Telecom's epic infosec fail will cost it another $1.5 billion</h4> <p>South Korea's government on Friday announced it will require local mobile carriers to verify the identity of new customers with facial recognition scans, in the hope of reducing scams.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "57286ef0b0fbcfcf8fb856d7d8597f8e435336c9",
       "title": "Through gritted teeth, Apple and Google allow alternative app stores in Japan",
       "url": "https://go.theregister.com/feed/www.theregister.com/2025/12/22/asia_tech_news_roundup/",
@@ -1238,7 +1260,7 @@
       "title": "NIST tried to pull the pin on NTP servers after blackout caused atomic clock drift",
       "url": "https://go.theregister.com/feed/www.theregister.com/2025/12/21/nist_ntp_outage_warning/",
       "published": "2025-12-21T07:40:41+00:00",
-      "summary": "<h4>A rare case of deliberately trying to induce an outage</h4> <p>A staffer at the USA\u2019s National Institute of Standards and Technology (NIST) tried to disable backup generators powering some of its Network Time Protocol infrastructure, after a power outage around Boulder, Colorado, led to errors.\u2026</p>",
+      "summary": "<h4>A rare case of deliberately trying to induce an outage</h4> <p><strong>UPDATED</strong>\u00a0 A staffer at the USA\u2019s National Institute of Standards and Technology (NIST) tried to disable backup generators powering some of its Network Time Protocol infrastructure, after a power outage around Boulder, Colorado, led to errors.\u2026</p>",
       "source": "The Register \u2013 Security",
       "region": "Europe",
       "country": "UK",
@@ -1740,28 +1762,6 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "67cc547a25d5e1c38c7f19b25fd9bc458958f4f8",
-      "title": "Uncle Sam sues ex-Accenture manager over Army cloud security claims",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/12/12/us_sues_accenture_exec/",
-      "published": "2025-12-12T13:25:09+00:00",
-      "summary": "<h4>Justice Department alleges federal auditors were misled over compliance with FedRAMP and DoD requirements</h4> <p>The US is suing a former senior manager at Accenture for allegedly misleading the government about the security of an Army cloud platform.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "550dea7f8b7bac41506aab59fea12bb877323762",
-      "title": "UK watchdog urged to probe GDPR failures in Home Office eVisa rollout",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/12/12/ico_home_office_evisa/",
-      "published": "2025-12-12T12:36:34+00:00",
-      "summary": "<h4>Rights groups say digital-only record is leaking data and courting trouble</h4> <p>Civil society groups are urging the UK's data watchdog to investigate whether the Home Office's digital-only eVisa scheme is breaching GDPR, sounding the alarm about systemic data errors and design failures that are exposing sensitive personal information while leaving migrants unable to prove their lawful status.\u2026</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
       "id": "ac0f7d3f594d542c8ea6fe072cd0b9d731d43b42",
       "title": "Dismantling Defenses: Trump 2.0 Cyber Year in Review",
       "url": "https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/",
@@ -1839,6 +1839,50 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "a1b66cdbbe28c3457319a2b1c47f82ba541b082b",
+      "title": "Gambit Cyber Raises $3.4 Million in Seed Funding",
+      "url": "https://www.securityweek.com/gambit-cyber-raises-3-4-million-in-seed-funding/",
+      "published": "2025-12-22T12:15:28+00:00",
+      "summary": "<p>The cybersecurity startup will use the funds to accelerate platform improvements, global expansion, and partnerships.</p>\n<p>The post <a href=\"https://www.securityweek.com/gambit-cyber-raises-3-4-million-in-seed-funding/\">Gambit Cyber Raises $3.4 Million in Seed Funding</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "dab0dcfb379a588845d4dda6150dc792b72a03a4",
+      "title": "Ukrainian Nefilim Ransomware Affiliate Pleads Guilty in US",
+      "url": "https://www.securityweek.com/ukrainian-nefilim-ransomware-affiliate-pleads-guilty-in-us/",
+      "published": "2025-12-22T10:56:32+00:00",
+      "summary": "<p>Artem Stryzhak pleaded guilty to conspiracy to commit computer fraud after he was extradited earlier this year.</p>\n<p>The post <a href=\"https://www.securityweek.com/ukrainian-nefilim-ransomware-affiliate-pleads-guilty-in-us/\">Ukrainian Nefilim Ransomware Affiliate Pleads Guilty in US</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "0c7ec8ddedccd13f00d11d417ae690c7365b7f83",
+      "title": "WatchGuard Patches Firebox Zero-Day Exploited in the Wild",
+      "url": "https://www.securityweek.com/watchguard-patches-firebox-zero-day-exploited-in-the-wild/",
+      "published": "2025-12-22T09:44:19+00:00",
+      "summary": "<p>The critical-severity bug in the Fireware OS\u2019s iked process leads to unauthenticated remote code execution.</p>\n<p>The post <a href=\"https://www.securityweek.com/watchguard-patches-firebox-zero-day-exploited-in-the-wild/\">WatchGuard Patches Firebox Zero-Day Exploited in the Wild</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "b9f999748706a21ed0016c8ac58ec9b9b33dc488",
+      "title": "UK Government Acknowledges It Is Investigating Cyber Incident After Media Reports",
+      "url": "https://www.securityweek.com/uk-government-acknowledges-it-is-investigating-cyber-incident-after-media-reports/",
+      "published": "2025-12-22T09:01:16+00:00",
+      "summary": "<p>The British government is investigating a \u201ccyber incident\u201d following news reports that hackers linked to China have gained access to thousands of confidential documents.</p>\n<p>The post <a href=\"https://www.securityweek.com/uk-government-acknowledges-it-is-investigating-cyber-incident-after-media-reports/\">UK Government Acknowledges It Is Investigating Cyber Incident After Media Reports</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "eafe940a64caa215b209ed962f5a2edea7cfce4a",
       "title": "Thailand Conference Launches International Initiative to Fight Online Scams",
       "url": "https://www.securityweek.com/thailand-conference-launches-international-initiative-to-fight-online-scams/",
@@ -1899,50 +1943,6 @@
       "url": "https://www.securityweek.com/chinese-apt-longnosedgoblin-targeting-asian-governments/",
       "published": "2025-12-19T14:35:59+00:00",
       "summary": "<p>The hacking group has been using Group Policy to deploy cyberespionage tools on governmental networks.</p>\n<p>The post <a href=\"https://www.securityweek.com/chinese-apt-longnosedgoblin-targeting-asian-governments/\">Chinese APT &#8216;LongNosedGoblin&#8217; Targeting Asian Governments</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "d640bebae32361c35295432e100bd120592a9197",
-      "title": "Docker Makes 1,000 Hardened Images Free and Open Source",
-      "url": "https://www.securityweek.com/docker-makes-1000-hardened-images-free-and-open-source/",
-      "published": "2025-12-19T13:33:57+00:00",
-      "summary": "<p>Millions of developers can now use the secure, production-ready images made by Docker.</p>\n<p>The post <a href=\"https://www.securityweek.com/docker-makes-1000-hardened-images-free-and-open-source/\">Docker Makes 1,000 Hardened Images Free and Open Source</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "712af65b663152a463e26f1eabb49b8485a2031f",
-      "title": "US Shuts Down Crypto Exchange E-Note, Charges Russian Administrator",
-      "url": "https://www.securityweek.com/us-shuts-down-crypto-exchange-e-note-charges-russian-administrator/",
-      "published": "2025-12-19T13:03:39+00:00",
-      "summary": "<p>The exchange has been allegedly involved in laundering money for ransomware groups and other transnational cybercriminal organizations.</p>\n<p>The post <a href=\"https://www.securityweek.com/us-shuts-down-crypto-exchange-e-note-charges-russian-administrator/\">US Shuts Down Crypto Exchange E-Note, Charges Russian Administrator</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "3bfd579a73a557211aff5443b717c9668baea66f",
-      "title": "University of Sydney Data Breach Affects 27,000 Individuals",
-      "url": "https://www.securityweek.com/university-of-sydney-data-breach-affects-27000-individuals/",
-      "published": "2025-12-19T11:59:57+00:00",
-      "summary": "<p>Downloaded from a code library, the information pertains to current and former staff and affiliates, and to alumni and students.</p>\n<p>The post <a href=\"https://www.securityweek.com/university-of-sydney-data-breach-affects-27000-individuals/\">University of Sydney Data Breach Affects 27,000 Individuals\u00a0</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "99848a3ae54901bf0fb89658a33b9dc21e3cf871",
-      "title": "\u2018Kimwolf\u2019 Android Botnet Ensnares 1.8 Million Devices",
-      "url": "https://www.securityweek.com/kimwolf-android-botnet-ensnares-1-8-million-devices/",
-      "published": "2025-12-19T11:48:49+00:00",
-      "summary": "<p>Linked to the Aisuru IoT botnet, Kimwolf was seen launching over 1.7 billion DDoS attack commands and increasing its C&#038;C domain\u2019s popularity.</p>\n<p>The post <a href=\"https://www.securityweek.com/kimwolf-android-botnet-ensnares-1-8-million-devices/\">&#8216;Kimwolf&#8217; Android Botnet Ensnares 1.8 Million Devices</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
