@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-23T00:45:20.640423+00:00",
+  "generated_at": "2025-12-23T12:18:54.484861+00:00",
   "items": [
     {
       "id": "1275d12fc5a8e44ee4359c5e53484170e5f328b1",
@@ -110,6 +110,61 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "ab03343da637eda2ab3c37e86e434d1f386b96ae",
+      "title": "INTERPOL Arrests 574 in Africa; Ukrainian Ransomware Affiliate Pleads Guilty",
+      "url": "https://thehackernews.com/2025/12/interpol-arrests-574-in-africa.html",
+      "published": "2025-12-23T11:35:00+00:00",
+      "summary": "A law enforcement operation coordinated by INTERPOL has led to the recovery of $3 million and the arrest of 574 suspects by authorities from 19 countries, amidst a continued crackdown on cybercrime networks in Africa.\nThe coordinated effort, named Operation Sentinel, took place between October 27 and November 27, 2025, and mainly focused on business email compromise (BEC), digital extortion, and",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFfCHIDoU0Y0gTgtyYOReNQ25Fbk3iSVfFgc4C2n8KtajPh773Ap4QVIdosJI0I61aVqcUprFNgBXGdjQJuZLyKzZKylPrm1HlSSKMTeyt3AL75pAULMPnxGTZFZHoCVf7iBjDH3C1tn-Qc7CH5b9PtKMTgI9Lq_86Js9aTmAq5521JepCW7D_-4VXZ0cG/s1600/hackersss.jpg"
+    },
+    {
+      "id": "5bae27798940da217ccae740dd551b1c1c80d1dc",
+      "title": "Passwd: A walkthrough of the Google Workspace Password Manager",
+      "url": "https://thehackernews.com/2025/12/passwd-walkthrough-of-google-workspace.html",
+      "published": "2025-12-23T11:30:00+00:00",
+      "summary": "Passwd is designed specifically for organizations operating within Google Workspace. Rather than competing as a general consumer password manager, its purpose is narrow, and business-focused: secure credential storage, controlled sharing, and seamless Workspace integration. The platform emphasizes practicality over feature overload, aiming to provide a reliable system for teams that already rely",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLhfDeq_7RfPzgo2DCfamOFNy5Am9tnj1DD30TuuoStmiD8t12kh21heOGP1BvCX1ggrZe6UydxBkRH9KsK8hx-kJ09pGJ86aWrMqwQmuc1HdQEtnCwf5XtNb4Utdz6nnrLi1MgWBfxo196GOEVdA1UAG1bRHot3WHSRtgqbvnqW54gWh9_z60x-Pel-Q/s1600/passwd-main.png"
+    },
+    {
+      "id": "fbb178addc27c1d5c3ee57ba2f045955b0b8ed5c",
+      "title": "U.S. DoJ Seizes Fraud Domain Behind $14.6 Million Bank Account Takeover Scheme",
+      "url": "https://thehackernews.com/2025/12/us-doj-seizes-fraud-domain-behind-146.html",
+      "published": "2025-12-23T08:15:00+00:00",
+      "summary": "The U.S. Justice Department (DoJ) on Monday announced the seizure of a web domain and database that it said was used to further a criminal scheme designed to target and defraud Americans by means of bank account takeover fraud.\nThe domain in question, web3adspanels[.]org, was used as a backend web panel to host and manipulate illegally harvested bank login credentials. Users to the website are",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxgSipnO1JBRGQ3pPkg6-wpwn7iiEERxPO37SJuXCWagEsDSQeMts_6ZrP-b08mlBs4p4Gaa1pNj-VKDdt4gPr1VObwse-z6wHsSXct3TdJXbOhSJ7ZmG8BpC1uFp64KPMrK1lUNTdmAcObxY_v67D0Zs8XsYQJ2MXik_NduT1zGdxVXI-h-bn4wMCYdM9/s1600/fraud-domain.jpg"
+    },
+    {
+      "id": "434bd30d33ce55d138c76c047f4928077e7ad824",
+      "title": "Critical n8n Flaw (CVSS 9.9) Enables Arbitrary Code Execution Across Thousands of Instances",
+      "url": "https://thehackernews.com/2025/12/critical-n8n-flaw-cvss-99-enables.html",
+      "published": "2025-12-23T07:34:00+00:00",
+      "summary": "A critical security vulnerability has been disclosed in the n8n workflow automation platform that, if successfully exploited, could result in arbitrary code execution under certain circumstances.\nThe vulnerability, tracked as CVE-2025-68613, carries a CVSS score of 9.9 out of a maximum of 10.0. The package has about 57,000 weekly downloads, according to statistics on npm.\n\"Under certain",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBiYnSQwGn-M1HD3JnvekqTc6yRC-xmKXBpGn1C-amAc8WPnk-PSGRPabQbJogN7oijKSF8v_3u00bGvP3BUcKToSIRc4W0V5xuXlWCR1Cv3jbqnMF4oZPr9r4j4bDNabp3j5AYeaE7EQQTVqMC-1ZIUbJvA5C6HeHcnb8coA_WISNeq5xj5MIA0bUx3Q4/s1600/n8n.jpg"
+    },
+    {
+      "id": "f8cc97265766e1c421a81fa4e3d96967d52a349f",
+      "title": "FCC Bans Foreign-Made Drones and Key Parts Over U.S. National Security Risks",
+      "url": "https://thehackernews.com/2025/12/fcc-bans-foreign-made-drones-and-key.html",
+      "published": "2025-12-23T06:58:00+00:00",
+      "summary": "The U.S. Federal Communications Commission (FCC) on Monday announced a ban on all drones and critical components made in a foreign country, citing national security concerns.\nTo that end, the agency has added to its Covered List Uncrewed aircraft systems (UAS) and UAS critical components produced in a foreign country, and all communications and video surveillance equipment and services pursuant",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjy3bMJ_cKP4TrAH-KOWY46y-1GTQUXi_PiX9TE8l1moOLMKbIVaQ74Mv13u_tWRqHgm0YREjioC7i3BzYY_ng40nEJbStz33KNYx4L0vuzX8wSQxCQAkFwmDSBDMTJqm9c_qZ5d6zYbQifH196F0flM_gpWNUWRTtorflGdqUt55HYBjHqmOS210KZEMCs/s1600/drone.jpg"
     },
     {
       "id": "09b34a526d4412f8220074cddf8438c608381d02",
@@ -605,61 +660,6 @@
       "region": "North America",
       "country": "US",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQz6FV9qkD3ZQ34_-_te7LAvOtZNopi3bQRTQq3TCojcBmPoef7tp-tgxFhffuFYyC5kvbdfEJMIBjwMn-rPElYlnpKG9kj89lPIAde8h_lYZRKq6a4mfiH6VWDXwIqFwimchyQ8M7RUvLd2_cAUi2aqcDyXZI_uDJcjfl1SyScuC96LV9RPhcDan3FJpQ/s1600/react-flaws.jpg"
-    },
-    {
-      "id": "a4ca8a99a401871829618582bedfe4ffc7e13b92",
-      "title": "React2Shell Exploitation Escalates into Large-Scale Global Attacks, Forcing Emergency Mitigation",
-      "url": "https://thehackernews.com/2025/12/react2shell-exploitation-escalates-into.html",
-      "published": "2025-12-12T08:41:00+00:00",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has urged federal agencies to patch the recent React2Shell vulnerability by December 12, 2025, amid reports of widespread exploitation.\nThe critical vulnerability, tracked as CVE-2025-55182 (CVSS score: 10.0), affects the React Server Components (RSC) Flight protocol. The underlying cause of the issue is an unsafe deserialization",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhnft_k0pTnAA0gVIW1pPi9QlZ_5qU92WBv8wfMA9644HkYIF5DMGYcdZjGyDmHPm9WA5IoE1uLal-fqzhvX96S5gLUNTS38ggHySqo50T-brLivYF2HW2dDKYqfDJlu8kPGOuN5zVpy9w8kuC51Zz6Nsq3gQCdZ19snMvA-tfDAsFGryH6Qa1C1HMwS8M/s1600/react2shell-hacking.jpg"
-    },
-    {
-      "id": "96512c0625e8567281e8aacad55f44315e776cbb",
-      "title": "CISA Flags Actively Exploited GeoServer XXE Flaw in Updated KEV Catalog",
-      "url": "https://thehackernews.com/2025/12/cisa-flags-actively-exploited-geoserver.html",
-      "published": "2025-12-12T05:01:00+00:00",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a high-severity security flaw impacting OSGeo GeoServer to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation in the wild.\nThe vulnerability in question is CVE-2025-58360 (CVSS score: 8.2), an unauthenticated XML External Entity (XXE) flaw that affects all versions prior to",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBN5buANAAdi4AundLfRH7dgLMFWvHQosALn-UulNEQC0ZZxUmTJUHQyS3meXA8rVRya72n3Wl-DsJRMM6VluFoSZSdm4Ha5SijPW09wRzOE2rpQmfh0JW113iEosXFEiel84OVcf-KWHWf4IjtWwxRd0lqdzPfsvf5qrP9bKcG6TCVEEy12h24ncJChnL/s1600/geo-server.jpg"
-    },
-    {
-      "id": "1d1f2671374a8cb8809c8cde0933b6bf9eb73732",
-      "title": "ThreatsDay Bulletin: Spyware Alerts, Mirai Strikes, Docker Leaks, ValleyRAT Rootkit \u2014 and 20 More Stories",
-      "url": "https://thehackernews.com/2025/12/threatsday-bulletin-spyware-alerts.html",
-      "published": "2025-12-11T13:40:00+00:00",
-      "summary": "This week\u2019s cyber stories show how fast the online world can turn risky. Hackers are sneaking malware into movie downloads, browser add-ons, and even software updates people trust. Tech giants and governments are racing to plug new holes while arguing over privacy and control. And researchers keep uncovering just how much of our digital life is still wide open.\nThe new Threatsday Bulletin",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcBEIOMDHFHbMxpqG8wwxxLRZJ4TavL-Z4AoU09ldjKg_8LpfxabE_BKPBfWUHK8GClxPJ2r3BRs078HZ8KwPrMHVHS1m5ZcCdPNR9mtUD5SZfz6WE3FLp6KnoT6HY2UhC-uV7CxqoFYiPyJw_4V0r0A5-vgSI0Znq74OKWlQxr6morZEwQUBaZd89AVg9/s1600/threatsday.jpg"
-    },
-    {
-      "id": "e1f402ee6eb246744eb64073eb34bdb5b5e5c2cb",
-      "title": "NANOREMOTE Malware Uses Google Drive API for Hidden Control on Windows Systems",
-      "url": "https://thehackernews.com/2025/12/nanoremote-malware-uses-google-drive.html",
-      "published": "2025-12-11T13:16:00+00:00",
-      "summary": "Cybersecurity researchers have disclosed details of a new fully-featured Windows backdoor called NANOREMOTE that uses the Google Drive API for command-and-control (C2) purposes.\nAccording to a report from Elastic Security Labs, the malware shares code similarities with another implant codenamed FINALDRAFT (aka Squidoor) that employs Microsoft Graph API for C2. FINALDRAFT is attributed to a",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsKOtWgjKbDTJ_bQIFriTn7SS-6j1OkejHAL8qQ8rAg03gXgLRrv0-qYN2W_QQI8BqUBcmOxNFqni0N9fU5QpzCQdVFPybji0uX397JN_RP1BeefHSJr5Z5LcAhT15toz_P7LJLhz2T7U_xsTG0yzGsUdA4NaJnLvk7gyPjPw8lEFgKu87aGj8cIt_1xyy/s1600/gdrive.jpg"
-    },
-    {
-      "id": "08f4496801ba0ed691869c2153fb03956d7b2e97",
-      "title": "The Impact of Robotic Process Automation (RPA) on Identity and Access Management",
-      "url": "https://thehackernews.com/2025/12/the-impact-of-robotic-process.html",
-      "published": "2025-12-11T11:30:00+00:00",
-      "summary": "As enterprises refine their strategies for handling Non-Human Identities (NHIs), Robotic Process Automation (RPA) has become a powerful tool for streamlining operations and enhancing security. However, since RPA bots have varying levels of access to sensitive information, enterprises must be prepared to mitigate a variety of challenges. In large organizations, bots are starting to outnumber",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkHa_ZsEZyIsKJkBKWhgZBt2Oo3VGKY_5ZeOaoO74V_TbabWN-GlLYtOPjpjnqS63ufmXSWt2jnwRglhgFqzJTGGHqOO04K3wn6V3lN6IJdsNupy7M1V9yKe5895zGyjmnme7207WatecL_hIzgwWMYo5AvT3ecXh7PYHwDCAZw5NjY5iDiIFWkzO7pmw/s1600/keeper.jpg"
     },
     {
       "id": "6cf72cb4690c78f30f77548cb3876a210248bf4c",
@@ -1839,6 +1839,72 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "a3575bb4066fc7130efc7a475d3dc313fc28e1c7",
+      "title": "Feds Seize Password Database Used in Massive Bank Account Takeover Scheme",
+      "url": "https://www.securityweek.com/feds-seize-password-database-used-in-massive-bank-account-takeover-scheme/",
+      "published": "2025-12-23T12:15:29+00:00",
+      "summary": "<p>The cybercriminals attempted to steal $28 million from compromised bank accounts through phishing.</p>\n<p>The post <a href=\"https://www.securityweek.com/feds-seize-password-database-used-in-massive-bank-account-takeover-scheme/\">Feds Seize Password Database Used in Massive Bank Account Takeover Scheme</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "bde57da347d408a315faa815c56be30531ec83d4",
+      "title": "NPM Package With 56,000 Downloads Steals WhatsApp Credentials, Data",
+      "url": "https://www.securityweek.com/npm-package-with-56000-downloads-steals-whatsapp-credentials-data/",
+      "published": "2025-12-23T10:52:05+00:00",
+      "summary": "<p>The package provides legitimate functionality to evade detection, while stealing users\u2019 data and deploying a backdoor.</p>\n<p>The post <a href=\"https://www.securityweek.com/npm-package-with-56000-downloads-steals-whatsapp-credentials-data/\">NPM Package With 56,000 Downloads Steals WhatsApp Credentials, Data</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "83b05e5e9573a38c37ab6a61f66a039028deffb6",
+      "title": "Italy Antitrust Agency Fines Apple $116 Million Over Privacy Feature; Apple Announces Appeal",
+      "url": "https://www.securityweek.com/italy-antitrust-agency-fines-apple-116-million-over-privacy-feature-apple-announces-appeal/",
+      "published": "2025-12-23T10:11:25+00:00",
+      "summary": "<p>Italy\u2019s antitrust authority fined Apple $116 million after determining that operating one of its privacy features restricted App Store competition.</p>\n<p>The post <a href=\"https://www.securityweek.com/italy-antitrust-agency-fines-apple-116-million-over-privacy-feature-apple-announces-appeal/\">Italy Antitrust Agency Fines Apple $116 Million Over Privacy Feature; Apple Announces Appeal</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "0c11b72a30d3c71f8883c1423ba625f52884927b",
+      "title": "574 Arrested, $3 Million Seized in Crackdown on African Cybercrime Rings",
+      "url": "https://www.securityweek.com/574-arrested-3-million-seized-in-crackdown-on-african-cybercrime-rings/",
+      "published": "2025-12-23T09:31:17+00:00",
+      "summary": "<p>Authorities in Senegal, Ghana, Benin, and Cameroon dismantled BEC, ransomware, and other cyber-fraud networks.</p>\n<p>The post <a href=\"https://www.securityweek.com/574-arrested-3-million-seized-in-crackdown-on-african-cybercrime-rings/\">574 Arrested, $3 Million Seized in Crackdown on African Cybercrime Rings</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "7a090bd15dab551d1d56dc07fcee6b2867560e94",
+      "title": "3.5 Million Affected by University of Phoenix Data Breach",
+      "url": "https://www.securityweek.com/3-5-million-affected-by-university-of-phoenix-data-breach/",
+      "published": "2025-12-23T07:24:43+00:00",
+      "summary": "<p>The University of Phoenix is one of the many victims of the recent Oracle EBS hacking campaign attributed to the Cl0p ransomware group.</p>\n<p>The post <a href=\"https://www.securityweek.com/3-5-million-affected-by-university-of-phoenix-data-breach/\">3.5 Million Affected by University of Phoenix Data Breach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "2e9008578bf8470297669b71bc6eb0f69187249e",
+      "title": "Cyberattack Disrupts France\u2019s Postal Service and Banking During Christmas Rush",
+      "url": "https://www.securityweek.com/cyberattack-disrupts-frances-postal-service-and-banking-during-christmas-rush/",
+      "published": "2025-12-23T05:48:22+00:00",
+      "summary": "<p>A cyberattack knocked France\u2019s national postal service offline, blocking and delaying package deliveries and online payments.</p>\n<p>The post <a href=\"https://www.securityweek.com/cyberattack-disrupts-frances-postal-service-and-banking-during-christmas-rush/\">Cyberattack Disrupts France&#8217;s Postal Service and Banking During Christmas Rush</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "220d75fe707c8b6428a923cc0d412f29beeafd33",
       "title": "Rising Tides: When Cybersecurity Becomes Personal \u2013 Inside the Work of an OSINT Investigator",
       "url": "https://www.securityweek.com/rising-tides-when-cybersecurity-becomes-personal-inside-the-work-of-an-osint-investigator/",
@@ -1877,72 +1943,6 @@
       "url": "https://www.securityweek.com/gambit-cyber-raises-3-4-million-in-seed-funding/",
       "published": "2025-12-22T12:15:28+00:00",
       "summary": "<p>The cybersecurity startup will use the funds to accelerate platform improvements, global expansion, and partnerships.</p>\n<p>The post <a href=\"https://www.securityweek.com/gambit-cyber-raises-3-4-million-in-seed-funding/\">Gambit Cyber Raises $3.4 Million in Seed Funding</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "dab0dcfb379a588845d4dda6150dc792b72a03a4",
-      "title": "Ukrainian Nefilim Ransomware Affiliate Pleads Guilty in US",
-      "url": "https://www.securityweek.com/ukrainian-nefilim-ransomware-affiliate-pleads-guilty-in-us/",
-      "published": "2025-12-22T10:56:32+00:00",
-      "summary": "<p>Artem Stryzhak pleaded guilty to conspiracy to commit computer fraud after he was extradited earlier this year.</p>\n<p>The post <a href=\"https://www.securityweek.com/ukrainian-nefilim-ransomware-affiliate-pleads-guilty-in-us/\">Ukrainian Nefilim Ransomware Affiliate Pleads Guilty in US</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "0c7ec8ddedccd13f00d11d417ae690c7365b7f83",
-      "title": "WatchGuard Patches Firebox Zero-Day Exploited in the Wild",
-      "url": "https://www.securityweek.com/watchguard-patches-firebox-zero-day-exploited-in-the-wild/",
-      "published": "2025-12-22T09:44:19+00:00",
-      "summary": "<p>The critical-severity bug in the Fireware OS\u2019s iked process leads to unauthenticated remote code execution.</p>\n<p>The post <a href=\"https://www.securityweek.com/watchguard-patches-firebox-zero-day-exploited-in-the-wild/\">WatchGuard Patches Firebox Zero-Day Exploited in the Wild</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "b9f999748706a21ed0016c8ac58ec9b9b33dc488",
-      "title": "UK Government Acknowledges It Is Investigating Cyber Incident After Media Reports",
-      "url": "https://www.securityweek.com/uk-government-acknowledges-it-is-investigating-cyber-incident-after-media-reports/",
-      "published": "2025-12-22T09:01:16+00:00",
-      "summary": "<p>The British government is investigating a \u201ccyber incident\u201d following news reports that hackers linked to China have gained access to thousands of confidential documents.</p>\n<p>The post <a href=\"https://www.securityweek.com/uk-government-acknowledges-it-is-investigating-cyber-incident-after-media-reports/\">UK Government Acknowledges It Is Investigating Cyber Incident After Media Reports</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "eafe940a64caa215b209ed962f5a2edea7cfce4a",
-      "title": "Thailand Conference Launches International Initiative to Fight Online Scams",
-      "url": "https://www.securityweek.com/thailand-conference-launches-international-initiative-to-fight-online-scams/",
-      "published": "2025-12-19T19:14:24+00:00",
-      "summary": "<p>Similar pledges to fight scam networks were made by members of the Association of Southeast Asian Nations in the months leading up to the Bangkok conference.</p>\n<p>The post <a href=\"https://www.securityweek.com/thailand-conference-launches-international-initiative-to-fight-online-scams/\">Thailand Conference Launches International Initiative to Fight Online Scams</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "4d3beeddb60c560d4f634bc0b480fa7ba2fc31be",
-      "title": "In Other News: Docker AI Attack, Google Sues Chinese Cybercriminals, Coupang Hacked by Employee",
-      "url": "https://www.securityweek.com/in-other-news-docker-ai-attack-google-sues-chinese-cybercriminals-coupang-hacked-by-employee/",
-      "published": "2025-12-19T16:04:05+00:00",
-      "summary": "<p>Other noteworthy stories that might have slipped under the radar: Trump could use private firms for cyber offensive, China threat to US power grid, RaccoonO365 suspect arrested in Nigeria.</p>\n<p>The post <a href=\"https://www.securityweek.com/in-other-news-docker-ai-attack-google-sues-chinese-cybercriminals-coupang-hacked-by-employee/\">In Other News: Docker AI Attack, Google Sues Chinese Cybercriminals, Coupang Hacked by Employee</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "f951d5c9730803be4bbf4b18d1e16872d76e452e",
-      "title": "Palo Alto Networks, Google Cloud Strike Multibillion-Dollar AI and Cloud Security Deal",
-      "url": "https://www.securityweek.com/palo-alto-networks-google-cloud-strike-multibillion-dollar-ai-and-cloud-security-deal/",
-      "published": "2025-12-19T15:51:05+00:00",
-      "summary": "<p>The agreement strengthens technical and commercial ties as Palo Alto migrates workloads and adopts Google\u2019s Vertex AI and Gemini models.</p>\n<p>The post <a href=\"https://www.securityweek.com/palo-alto-networks-google-cloud-strike-multibillion-dollar-ai-and-cloud-security-deal/\">Palo Alto Networks, Google Cloud Strike Multibillion-Dollar AI and Cloud Security Deal</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
