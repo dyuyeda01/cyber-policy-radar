@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-24T12:17:50.499502+00:00",
+  "generated_at": "2025-12-25T00:45:18.083859+00:00",
   "items": [
     {
       "id": "d9f580896d119bcf48cc6aefc30e7a248120e69b",
@@ -110,6 +110,28 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "27f31df1b6a61aae8708c9cfb41de558ffc7d98f",
+      "title": "New MacSync macOS Stealer Uses Signed App to Bypass Apple Gatekeeper",
+      "url": "https://thehackernews.com/2025/12/new-macsync-macos-stealer-uses-signed.html",
+      "published": "2025-12-24T16:23:00+00:00",
+      "summary": "Cybersecurity researchers have discovered a new variant of a macOS information stealer called MacSync that's delivered by means of a digitally signed, notarized Swift application masquerading as a messaging app installer to bypass Apple's Gatekeeper checks.\n\"Unlike earlier MacSync Stealer variants that primarily rely on drag-to-terminal or ClickFix-style techniques, this sample adopts a more",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjm_PuMhZ0HFVFeZcWU-pTmZixk1HyEXwA1hMDHRyhd3_vUKfniwEMpjAW60vTPiDnzD9yNm9zITdAQswlvy0Uc2MyvAmjJHkTuEe1n_hAvfyrUD_1KUGcGVS2jyV_gH90K8Ji1dvIe6zMvY4zdMZASLUZRSP-WyILYIah2n3peSJpumHgOx9YnSo00gTeD/s1600/apple-macos.jpg"
+    },
+    {
+      "id": "d0226f4bf0a78b4cd83ba215cafb209377e02cfb",
+      "title": "Nomani Investment Scam Surges 62% Using AI Deepfake Ads on Social Media",
+      "url": "https://thehackernews.com/2025/12/nomani-investment-scam-surges-62-using.html",
+      "published": "2025-12-24T13:08:00+00:00",
+      "summary": "The fraudulent investment scheme known as Nomani has witnessed an increase by 62%, according to data from ESET, as campaigns distributing the threat have also expanded beyond Facebook to include other social media platforms, such as YouTube.\nThe Slovak cybersecurity company said it blocked over 64,000 unique URLs associated with the threat this year. A majority of the detections originated from",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2aPel78Nr5STfEXJNS6ffZryQXLfsfK_28p7uP87APKCUPSSltwQpz3bJ0JkicC47kinWvbbx7O1f8Ln8ihh50e8PjUVZlE0gqxnmUBR4oWUXTZCDt2wj7eU1p10UoJJXIrMrIfyYLqlDJ4SorQGFqzoDMqjtgCmSneHfAvOImN4lak7ZfDRtxKp6ihWn/s1600/invest.jpg"
     },
     {
       "id": "26cf515e1f923745faa058ad30c21320a716d6c4",
@@ -638,28 +660,6 @@
       "region": "North America",
       "country": "US",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZP3WUgrypoDpL5dUk1TlTjzyLA_HKMjawrIv9xe9Aq6_K1u7ikP5Y7ehR-VuYhvQkb5ZHaKrz2WH_uXqmB5YaQm_t4byXd8uFCIMAqYcx15Zog3Wwt4JLdtlvCwm3nPMFI9eBNdni-5Ac7XjIrJ8JjN1D5MFRIer-S1XyPlIpw1s9ybXB_Lgt4UwJ_UJW/s1600/ransomware-key.jpg"
-    },
-    {
-      "id": "f6a667cb2fa67c44027b04f3939b75ba5d89721c",
-      "title": "CISA Adds Actively Exploited Sierra Wireless Router Flaw Enabling RCE Attacks",
-      "url": "https://thehackernews.com/2025/12/cisa-adds-actively-exploited-sierra.html",
-      "published": "2025-12-13T12:33:00+00:00",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a high-severity flaw impacting Sierra Wireless AirLink ALEOS routers to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation in the wild.\nCVE-2018-4063 (CVSS score: 8.8/9.9) refers to an unrestricted file upload vulnerability that could be exploited to achieve remote code",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEge8ZMStOlyoSh88jViO8HEQmAAac6HNtoVoR-ufVglteBHxv-YilKP9B3sA-BJRw19H_Bflza7JA59RvM0gq34FzgFeagwBFQeuh5OfQqBbXzRbP5cXA4NRhO8ybwpIJDQEmL1rF7TIPG5xHPhFZBxKfbI4Lr5jhllzl0AbElbRUTUypn89gpVj-esiu7Q/s1600/routers.jpg"
-    },
-    {
-      "id": "33b2faeaa94e8bfeeb304d62577e6a585a0865dc",
-      "title": "Apple Issues Security Updates After Two WebKit Flaws Found Exploited in the Wild",
-      "url": "https://thehackernews.com/2025/12/apple-issues-security-updates-after-two.html",
-      "published": "2025-12-13T05:32:00+00:00",
-      "summary": "Apple on Friday released security updates for iOS, iPadOS, macOS, tvOS, watchOS, visionOS, and its Safari web browser to address two security flaws that it said have been exploited in the wild, one of which is the same flaw that was patched by Google in Chrome earlier this week.\nThe vulnerabilities are listed below -\n\nCVE-2025-43529 (CVSS score: N/A) - A use-after-free vulnerability in WebKit",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSwTglRfB0k1FqqL7L502b4j1rqLa9StbW7akfVevnbqc0QsQHryjXRBajtpcOdiOOSUX119hpFSCGkZFuqxXH85aKyUMN2DwE0fKVDojo7uhXkZfEmf80438Wyd6Br5gASDHw6mLQxMc_fDPNGlgA1Op-YDJz8gYx6jqJhB_a9bKY66wuph0plkZdakTm/s1600/apple-update.jpg"
     },
     {
       "id": "5689bd1a5473f8d330b3a50ea3535b0171e906fc",
@@ -1212,6 +1212,28 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt20142003e27df603/69376ba971c6a5cf15cf65d3/Unitree_humanoid_robot-Xinhua-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
+      "id": "4ef5a8b08affe5627d56636a3b5b3e0556e2fc5a",
+      "title": "Pen testers accused of 'blackmail' after reporting Eurostar chatbot flaws",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2025/12/24/pentesters_reported_eurostar_chatbot_flaws/",
+      "published": "2025-12-24T18:22:31+00:00",
+      "summary": "<h4>AI goes off the rails \u2026 because of shoddy guardrails</h4> <p>Researchers at Pen Test Partners found four flaws in Eurostar's public AI chatbot that, among other security issues, could allow an attacker to inject malicious HTML content or trick the bot into leaking system prompts.\u00a0Their thank you from the company: being accused of \"blackmail.\"\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "bdafe655959546e04c12b0ef5d0f1b3346c766a5",
+      "title": "US shuts down phisherfolk\u2019s $14.6M password-hoarding platform",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2025/12/24/us_shutters_phishermens_146m_passwordhording/",
+      "published": "2025-12-24T15:07:43+00:00",
+      "summary": "<h4>Crooks used platform to scoop up and store banking credentials for big-money thefts</h4> <p>The US says it has shut down a platform used by cybercriminals to break into Americans' bank accounts.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "dc548a4112179e46f2f400535a63b86f4ea62036",
       "title": "Microsoft wants to replace its entire C and C++ codebase, perhaps by 2030",
       "url": "https://go.theregister.com/feed/www.theregister.com/2025/12/24/microsoft_rust_codebase_migration/",
@@ -1740,28 +1762,6 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "00d5a70a8120d38c228fa81ad5bf87288760fb58",
-      "title": "China, Iran are having a field day with React2Shell, Google warns",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/12/15/react2shell_flaw_china_iran/",
-      "published": "2025-12-15T17:53:52+00:00",
-      "summary": "<h4>Who hasn't exploited this max-severity flaw?</h4> <p>At least five more Chinese spy crews, Iran-linked goons, and financially motivated criminals are now attacking React2Shell, a maximum-severity flaw in the widely used React JavaScript library, according to Google.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "6f52a8127b8bd870966fe6d97ba8da2a60d8614d",
-      "title": "Delay to European Central Bank messaging project cost the Bank of England \u00a323M",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/12/15/ecb_messaging_project/",
-      "published": "2025-12-15T12:50:09+00:00",
-      "summary": "<h4>Watchdog links schedule change to replanning of UK payments system overhaul</h4> <p>The European Central Bank's (ECB) decision to delay its move to a new messaging standard in 2022 ended up costing the Bank of England \u00a323 million as it was forced to adjust migration to a new settlement system to avoid compounding risks.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
       "id": "ac0f7d3f594d542c8ea6fe072cd0b9d731d43b42",
       "title": "Dismantling Defenses: Trump 2.0 Cyber Year in Review",
       "url": "https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/",
@@ -1828,12 +1828,12 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "f058bb5da5a3357d6483753809bdf931b5483a19",
-      "title": "Is Your Android TV Streaming Box Part of a Botnet?",
-      "url": "https://krebsonsecurity.com/2025/11/is-your-android-tv-streaming-box-part-of-a-botnet/",
-      "published": "2025-11-24T18:44:52+00:00",
-      "summary": "On the surface, the Superbox media streaming devices for sale at retailers like BestBuy and Walmart may seem like a steal: They offer unlimited access to more than 2,200 pay-per-view and streaming services like Netflix, ESPN and Hulu, all for a one-time fee of around $400. But security experts warn these TV boxes require intrusive software that forces the user's network to relay Internet traffic for others, traffic that is often tied to cybercrime activity such as advertising fraud and account takeovers.",
-      "source": "Krebs on Security",
+      "id": "d2a3ce5d1eeac31191325a84db9871dd424cef77",
+      "title": "Pro-Russian Hackers Claim Cyberattack on French Postal Service",
+      "url": "https://www.securityweek.com/pro-russian-hackers-claim-cyberattack-on-french-postal-service/",
+      "published": "2025-12-24T14:35:05+00:00",
+      "summary": "<p>Central computer systems at French national postal service La Poste were knocked offline Monday in DDoS attack.</p>\n<p>The post <a href=\"https://www.securityweek.com/pro-russian-hackers-claim-cyberattack-on-french-postal-service/\">Pro-Russian Hackers Claim Cyberattack on French Postal Service</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
@@ -1932,17 +1932,6 @@
       "url": "https://www.securityweek.com/rising-tides-when-cybersecurity-becomes-personal-inside-the-work-of-an-osint-investigator/",
       "published": "2025-12-22T15:00:00+00:00",
       "summary": "<p>Shannon Miller shares her approach to creating domestic safety and a call to the cyber community to help reduce harm.</p>\n<p>The post <a href=\"https://www.securityweek.com/rising-tides-when-cybersecurity-becomes-personal-inside-the-work-of-an-osint-investigator/\">Rising Tides: When Cybersecurity Becomes Personal &#8211; Inside the Work of an OSINT Investigator</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "7c86f311860cd33ea2dc9c1d51f42bc950e92bc6",
-      "title": "ATM Hackers Using \u2018Ploutus\u2019 Malware Charged in US",
-      "url": "https://www.securityweek.com/54-charged-in-us-over-atm-attacks-involving-ploutus-malware/",
-      "published": "2025-12-22T13:53:02+00:00",
-      "summary": "<p>The Department of Justice charged 54 individuals, including leaders and members of the Venezuelan crime syndicate Tren de Aragua.</p>\n<p>The post <a href=\"https://www.securityweek.com/54-charged-in-us-over-atm-attacks-involving-ploutus-malware/\">ATM Hackers Using &#8216;Ploutus&#8217; Malware Charged in US</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
