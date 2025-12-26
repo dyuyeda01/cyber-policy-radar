@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-26T00:45:35.373638+00:00",
+  "generated_at": "2025-12-26T12:17:47.326343+00:00",
   "items": [
     {
       "id": "d9f580896d119bcf48cc6aefc30e7a248120e69b",
@@ -110,6 +110,17 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "8be375e6b8b3c328f573fbd9a37de21a38adc1f5",
+      "title": "Critical LangChain Core Vulnerability Exposes Secrets via Serialization Injection",
+      "url": "https://thehackernews.com/2025/12/critical-langchain-core-vulnerability.html",
+      "published": "2025-12-26T09:27:00+00:00",
+      "summary": "A critical security flaw has been disclosed in LangChain Core that could be exploited by an attacker to steal sensitive secrets and even influence large language model (LLM) responses through prompt injection.\nLangChain Core (i.e., langchain-core) is a core Python package that's part of the LangChain ecosystem, providing the core interfaces and model-agnostic abstractions for building",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0BFnjQXtbmQXOq0oqe3ZVSI5MmeHtzjLyjTEEX3oJrDGGVYcdHlYnhwuJdxNKQEP-0yZ_V_3Q2Ph3tTbnrT7Bfvs1YJBqpjhinaGuLSjhcjnkd_y_egHM22tk8kJSyc8CVQtnAd3_CWjzw6HlsbiPc8ZFRuyFDv8CeA1H4xtGZZi_x6dXI3IIXA2Mx3Yu/s1600/langchain.jpg"
     },
     {
       "id": "c8d359991e79324f05c8a571d6999b51f5e70485",
@@ -651,15 +662,15 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXHTpJtgXoQfYQN62WgKv5VQG11DDmx38k3E0UeuLONeGHcNFQXzppCq-HGBEG9kJNyW_2O5q7VAuvoR7aEzUpW1i3iC4PWFxF31qypiXtp8zJqKVCDF6FyxVU8_UTZUU2OKeO6lA-KkXXOk6ASt3KVG4jQ0vuwldlLYHrkeZyoVVr64i5o_nC3Jkpcqyt/s1600/chat-stealer.jpg"
     },
     {
-      "id": "a484395c2856313bb7be7f69a7276014f7148e74",
-      "title": "FreePBX Patches Critical SQLi, File-Upload, and AUTHTYPE Bypass Flaws Enabling RCE",
-      "url": "https://thehackernews.com/2025/12/freepbx-authentication-bypass-exposed.html",
-      "published": "2025-12-15T14:32:00+00:00",
-      "summary": "Multiple security vulnerabilities have been disclosed in the open-source private branch exchange (PBX) platform FreePBX, including a critical flaw that could result in an authentication bypass under certain configurations.\nThe shortcomings, discovered by Horizon3.ai and reported to the project maintainers on September 15, 2025, are listed below -\n\nCVE-2025-61675 (CVSS score: 8.6) - Numerous",
-      "source": "The Hacker News",
+      "id": "c7bb568cc3e5a8aecbca0dc19d08e290beabc71f",
+      "title": "Dark Reading Opens The State of Application Security Survey",
+      "url": "https://www.darkreading.com/application-security/dark-reading-opens-state-appsec-survey",
+      "published": "2025-12-26T12:00:48+00:00",
+      "summary": "Take part in the new survey from Dark Reading and help uncover trends, challenges, and solutions shaping the future of application security.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgv01p712eomGjpG3imw4Fow3C_gFqZq2RwuHvosDk7WWN08kcB3sVc9ZCeOyic9zqqYml63fAppF-DF0gDBXnwMBbtFE7mr81Trn8IQVOmCn4Msnx5pL87XopJicEYXlyFchV5u0hToNbvtRYR0rhG0y5S0cK06UGK8_7HFAbNJylUxYV4BDG3ZupUNh7b/s1600/zeroday.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte32ef2932d7a4117/66a95345fd20b827be022197/survey(1800)_Yuri_Arcurs_alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "id": "5689bd1a5473f8d330b3a50ea3535b0171e906fc",
@@ -1199,17 +1210,6 @@
       "region": "North America",
       "country": "US",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt106cbfeefae4fbb6/693877e012cab143d61f4f6c/Packing_B_Christopher_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
-      "id": "45e8d7e4ba49b2ddda3028d89b8d184135287435",
-      "title": "Analysts Warn of Cybersecurity Risks in Humanoid Robots",
-      "url": "https://www.darkreading.com/ics-ot-security/cybersecurity-risks-humanoid-robots",
-      "published": "2025-12-09T16:41:27+00:00",
-      "summary": "Think &quot;Blade Runner,&quot; but the robots can be hacked more easily than your home computer.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt20142003e27df603/69376ba971c6a5cf15cf65d3/Unitree_humanoid_robot-Xinhua-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "id": "4ef5a8b08affe5627d56636a3b5b3e0556e2fc5a",
