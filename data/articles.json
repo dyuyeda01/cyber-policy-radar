@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-27T00:44:28.967015+00:00",
+  "generated_at": "2025-12-27T12:15:51.255306+00:00",
   "items": [
     {
       "id": "d9f580896d119bcf48cc6aefc30e7a248120e69b",
@@ -110,6 +110,17 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "01b9dbf5d844b52f11d9b3058cfdd50caa3da0c8",
+      "title": "New MongoDB Flaw Lets Unauthenticated Attackers Read Uninitialized Memory",
+      "url": "https://thehackernews.com/2025/12/new-mongodb-flaw-lets-unauthenticated.html",
+      "published": "2025-12-27T07:52:00+00:00",
+      "summary": "A high-severity security flaw has been disclosed in MongoDB that could allow unauthenticated users to read uninitialized heap memory.\nThe vulnerability, tracked as CVE-2025-14847 (CVSS score: 8.7), has been described as a case of improper handling of length parameter inconsistency, which arises when a program fails to appropriately tackle scenarios where a length field is inconsistent with the",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyT_32t0dBjwnGTamsqSrB1jdPxZFMFb_GMzemmxXBm3HbtqrnJNx4VqVUF8tMKdHStEwTAU-PLcOHDKsbHvF9SSVig_OGEnWFKl81BORRb5h34UUFitJuYJOF-Trvrq-nFm5m-AzFe_dQRWYJgCOTJvzVnSzXCRgEAshv0EHR35OKUxGHr3qYg-M1vQHV/s1600/mongodb.jpg"
     },
     {
       "id": "75635303250f722882936da943d1cf54ca02bd7d",
@@ -649,17 +660,6 @@
       "region": "North America",
       "country": "US",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQJ_qq1hYIZDr0BJrkSi2LLidWTwFd6Hulhty9DbaKd-4PuGyZcmRDQDMyMfHj0dsS87KDoQba3ZEo7ohgSpjNCziDz5NasZQ-qleWrf5lZduSbw8Ptjx_uX_V8SgFrp4k8fUFR5mQCtFhFBeu8ykYU_dUhuW6R27KQQQk_tpDOB-DZ-XIK9gWEW2TJLdT/s1600/fortinet.jpg"
-    },
-    {
-      "id": "43a700a9a94255e1282972f62d6669811e5cef3d",
-      "title": "React2Shell Vulnerability Actively Exploited to Deploy Linux Backdoors",
-      "url": "https://thehackernews.com/2025/12/react2shell-vulnerability-actively.html",
-      "published": "2025-12-16T08:21:00+00:00",
-      "summary": "The security vulnerability known as React2Shell is being exploited by threat actors to deliver malware families like KSwapDoor and ZnDoor, according to findings from Palo Alto Networks Unit 42 and NTT Security.\n\"KSwapDoor is a professionally engineered remote access tool designed with stealth in mind,\" Justin Moore, senior manager of threat intel research at Palo Alto Networks Unit 42, said in a",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqg2tvd82cFFoP9fNpNuDszfardhiBBzcifDtDUT_i9drL-KsIC4EbSpgVNLI4HSZX6ZVfWVFzLybe34ZDzRwAnz7YSDhmr8YshApqbBV3pJhLGr2EhW-_2ygh5s80-Tpq9v8uFrPQk9ZZpZCjYqiIsY1ev-nG4YTMsHl-uF4SGEo7v5UjIkUoHp6miC4X/s1600/linux-react.jpg"
     },
     {
       "id": "e2094c1b6c987a23f78e1ba41453478f5ab22eaa",
