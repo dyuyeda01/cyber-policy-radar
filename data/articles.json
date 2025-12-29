@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-29T00:51:47.724326+00:00",
+  "generated_at": "2025-12-29T12:19:19.269760+00:00",
   "items": [
     {
       "id": "d9f580896d119bcf48cc6aefc30e7a248120e69b",
@@ -110,6 +110,39 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "961041badfadfa7c42a6f4f9d8561ebabb46ff06",
+      "title": "MongoDB Vulnerability CVE-2025-14847 Under Active Exploitation Worldwide",
+      "url": "https://thehackernews.com/2025/12/mongodb-vulnerability-cve-2025-14847.html",
+      "published": "2025-12-29T09:46:00+00:00",
+      "summary": "A recently disclosed security vulnerability in MongoDB has come under active exploitation in the wild, with over 87,000 potentially susceptible instances identified across the world.\nThe vulnerability in question is CVE-2025-14847 (CVSS score: 8.7), which allows an unauthenticated attacker to remotely leak sensitive data from the MongoDB server memory. It has been codenamed MongoBleed.\n\"A flaw",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNiZRABqAp7GJHhqKTlxX3mAmNX9ySsz9docL7x7bhIaRThcg3I-nlQu1UaXaS6t8T2lQCRhw9xrLkB8neLx4H_a4cJtoOBkvRsUFg29lg6TsqSjCga61QB0xU4H72eeXjXvfRepZGXIpcLWVrcqNpu3_dCwaSbusP2AJc11PIkYmWmxrW5b_6SOlJPivt/s1600/mongodb-exploit.jpg"
+    },
+    {
+      "id": "e1cce26ad8d151579fef0f7031a8a3c37daeb138",
+      "title": "27 Malicious npm Packages Used as Phishing Infrastructure to Steal Login Credentials",
+      "url": "https://thehackernews.com/2025/12/27-malicious-npm-packages-used-as.html",
+      "published": "2025-12-29T09:44:00+00:00",
+      "summary": "Cybersecurity researchers have disclosed details of what has been described as a \"sustained and targeted\" spear-phishing campaign that has published over two dozen packages to the npm registry to facilitate credential theft.\nThe activity, which involved uploading 27 npm packages from six different npm aliases, has primarily targeted sales and commercial personnel at critical",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbarqmk-H0SfVP8X3eR-wcY-UAzQs4vgDfk6mZCaOhgsKNAmf1pLBT_CfB6bMSHARl1UMwvkmd1SL9INOF4KyHSMr7eCO4lWF6745uHql2CwA4iWIGik-6yynnmPNOjdNi9FMXD6pCx3GIJ8T8em0Y6kvg-98a8AuatSM9Ql4zgApKEPOP1pySjfOrblmd/s1600/npm-login.jpg"
+    },
+    {
+      "id": "54a8b531f4a9bd5333520ef6098aaa74f9f2ea4d",
+      "title": "Traditional Security Frameworks Leave Organizations Exposed to AI-Specific Attack Vectors",
+      "url": "https://thehackernews.com/2025/12/traditional-security-frameworks-leave.html",
+      "published": "2025-12-29T06:34:00+00:00",
+      "summary": "In December 2024, the popular Ultralytics AI library was compromised, installing malicious code that hijacked system resources for cryptocurrency mining. In August 2025, malicious Nx packages leaked 2,349 GitHub, cloud, and AI credentials. Throughout 2024, ChatGPT vulnerabilities allowed unauthorized extraction of user data from AI memory.\nThe result: 23.77 million secrets were leaked through AI",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiomGjDLekFSBoR01Dq_fed3Ka4xlF2C7QEUPeyjySDg6tHRMKyjzilC9TfZYd4xTzwrsSAKhDZ8hpMGjiEZ-APKcq9cCLPtkHHWvaJeWXTNG5D63C3dDvJVd_8Ws6z8PdrwDpHxUOfgVC4xIs6OeUk1YLO6M8Zx9gXTmJy9oDl6hoJ-oCVQ52qt5cC-BiQ/s1600/main.jpg"
     },
     {
       "id": "01b9dbf5d844b52f11d9b3058cfdd50caa3da0c8",
@@ -627,39 +660,6 @@
       "region": "North America",
       "country": "US",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEia6FxrdzMepgwKkHbdQyn-9xpiZ9an3eTxENAvy8AZ8sKO43S3KW5Lum4lXXo9PU8NbrVcoTYI4pEoX6MCEJjHPgh4qk5N7wjclH_8IrY_h_2mByqU7H-e8GsRgsJeXcB9bBNDFdkFOLtmqBidpS5YLn1Jbgu4bL9I3yuG8WFT58zGVDNCua4K_6yOHUnT/s1600/nuget.jpg"
-    },
-    {
-      "id": "059cc57aaa59c80ac10507fd9cfce1f58b3ee186",
-      "title": "Amazon Exposes Years-Long GRU Cyber Campaign Targeting Energy and Cloud Infrastructure",
-      "url": "https://thehackernews.com/2025/12/amazon-exposes-years-long-gru-cyber.html",
-      "published": "2025-12-16T12:27:00+00:00",
-      "summary": "Amazon's threat intelligence team has disclosed details of a \"years-long\" Russian state-sponsored campaign that targeted Western critical infrastructure between 2021 and 2025.\nTargets of the campaign included energy sector organizations across Western nations, critical infrastructure providers in North America and Europe, and entities with cloud-hosted network infrastructure. The activity has",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmP5wc4kQ_fstR7DVyxpp7nwoP36IRuDO6oBSyghPEx9VCjLCy2LPOoIYBHvfUELKpnhUQTWFtfCW8RiceJj5qgDVJpptVCfGNA9eeOi0vvbPCX9FFxF-kcTRnZN49Gqw0x71mloL7e2gN-I0lW0pFIkttwupJhJp5LMWc94ozebd-Yu9k-b8CUpJvFDpY/s1600/russian.gif"
-    },
-    {
-      "id": "2541fb136208139d14b9a8312548156896a025d4",
-      "title": "Why Data Security and Privacy Need to Start in Code",
-      "url": "https://thehackernews.com/2025/12/why-data-security-and-privacy-need-to.html",
-      "published": "2025-12-16T11:30:00+00:00",
-      "summary": "AI-assisted coding and AI app generation platforms have created an unprecedented surge in software development. Companies are now facing rapid growth in both the number of applications and the pace of change within those applications. Security and privacy teams are under significant pressure as the surface area they must cover is expanding quickly while their staffing levels remain largely",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheLe0xus43fBC5WVlloIHxChsFoGH2XkRBVCinnA2bHl3CWBF3dSk16c_8SwEnq0I4PTXEn9ddR4c2zSpbtCDlvVrV4_cfw3YHZPi53COc7qWcispxF1AQ8UXYh4CPh1oRkoTg1KH6UPZjKc_Pa-C4MB3BGsqhemVAteYmXrMpp8mUlbCUxcjnt4adsdE/s1600/shift.jpg"
-    },
-    {
-      "id": "fa56b589583ab2e1e38701f080401ced87f468dd",
-      "title": "Fortinet FortiGate Under Active Attack Through SAML SSO Authentication Bypass",
-      "url": "https://thehackernews.com/2025/12/fortinet-fortigate-under-active-attack.html",
-      "published": "2025-12-16T10:58:00+00:00",
-      "summary": "Threat actors have begun to exploit two newly disclosed security flaws in Fortinet FortiGate devices, less than a week after public disclosure.\nCybersecurity company Arctic Wolf said it observed active intrusions involving malicious single sign-on (SSO) logins on FortiGate appliances on December 12, 2025. The attacks exploit two critical authentication bypasses (CVE-2025-59718 and CVE-2025-59719",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQJ_qq1hYIZDr0BJrkSi2LLidWTwFd6Hulhty9DbaKd-4PuGyZcmRDQDMyMfHj0dsS87KDoQba3ZEo7ohgSpjNCziDz5NasZQ-qleWrf5lZduSbw8Ptjx_uX_V8SgFrp4k8fUFR5mQCtFhFBeu8ykYU_dUhuW6R27KQQQk_tpDOB-DZ-XIK9gWEW2TJLdT/s1600/fortinet.jpg"
     },
     {
       "id": "e2094c1b6c987a23f78e1ba41453478f5ab22eaa",
@@ -1212,6 +1212,28 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt98c40cb7cdc73ed2/69389c1dbef8d5b8954929c7/tokyo-rain-tbbstudio-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
+      "id": "b6238113520113f0a7dbc1449a9e326da7442eca",
+      "title": "Europe's cloud challenge: Building an Airbus for the digital age",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2025/12/29/europes_cloud_challenge_building_an/",
+      "published": "2025-12-29T09:23:07+00:00",
+      "summary": "<h4>Countries that banded together to challenge Boeing in the air try to do the same to AWS, Microsoft, and Google on the ground</h4> <p><strong>Feature</strong>\u00a0 More than half a century ago, a consortium of European aerospace businesses from the UK, France, Germany and Spain joined forces to take on America's Boeing. Fast forward to the 21st century and the countries are applying the same model needs to the world of cloud computing, giving the continent a fighting chance to reduce the digital domination of Big Tech.\u2026</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "4f7eb7800098bdd541020c8728830ec9086ee7cd",
+      "title": "Accused data thief threw MacBook into a river to destroy evidence",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2025/12/29/coupang_perpetrator_theft_details/",
+      "published": "2025-12-29T04:06:31+00:00",
+      "summary": "<h4>Former staffer of Korean e-tailer Coupang accessed 33 million records but may have done less damage than feared</h4> <p>Korean e-tailer Coupang claims a former employee has admitted to improperly <a href=\"https://www.theregister.com/2025/12/01/coupang_breach/\" target=\"_blank\">accessing</a> data describing 33 million of its customers, but says the accused deleted the stolen data.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "b71dd8ff4d3a8b3ff22c2621f0a6d9a75bb5d5cf",
       "title": "Death, torture, and amputation: How cybercrime shook the world in 2025",
       "url": "https://go.theregister.com/feed/www.theregister.com/2025/12/28/death_torture_and_amputation_how/",
@@ -1740,28 +1762,6 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "797cbda2090cf8b640faf6b1494634f48bc790bf",
-      "title": "From pr0n to playlists and paperclips, trio of breaches spills data of millions",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/12/16/trio_of_breaches/",
-      "published": "2025-12-16T12:33:50+00:00",
-      "summary": "<h4>Adult site, streaming platform, and Japanese retailer expose user info, but not credentials</h4> <p>Three very different companies have now confirmed data breaches affecting millions of users \u2013 each insisting the damage stopped well short of passwords and payment details.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "2a464051fb07c3934c6d44de78ac9fc422c2696f",
-      "title": "MI6 chief: We'll be as fluent in Python as we are in Russian",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/12/16/mi6_chief_well_be_as/",
-      "published": "2025-12-16T11:45:23+00:00",
-      "summary": "<h4>New spy boss says officers must master code alongside tradecraft as agency navigates 'space between peace and war'</h4> <p>New MI6 chief Blaise Metreweli outlined her vision for technology-augmented intelligence gathering in her first public speech on December 15, warning that the UK operates \"in a space between peace and war.\"\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
       "id": "ac0f7d3f594d542c8ea6fe072cd0b9d731d43b42",
       "title": "Dismantling Defenses: Trump 2.0 Cyber Year in Review",
       "url": "https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/",
@@ -1817,6 +1817,61 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "8ba0200ebea7162e8f041c1ffbeaf50f857a6785",
+      "title": "Coupang to Issue $1.17 Billion in Vouchers Over Data Breach",
+      "url": "https://www.securityweek.com/coupang-to-issue-1-17-billion-in-vouchers-over-data-breach/",
+      "published": "2025-12-29T12:13:11+00:00",
+      "summary": "<p>The ecommerce giant will provide purchase vouchers to the 33.7 million individuals impacted by the incident.</p>\n<p>The post <a href=\"https://www.securityweek.com/coupang-to-issue-1-17-billion-in-vouchers-over-data-breach/\">Coupang to Issue $1.17 Billion in Vouchers Over Data Breach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "3cef4d5f53f7b059409091c282e708806b9eb62f",
+      "title": "22 Million Affected by Aflac Data Breach",
+      "url": "https://www.securityweek.com/22-million-affected-by-aflac-data-breach/",
+      "published": "2025-12-29T11:57:08+00:00",
+      "summary": "<p>Hackers stole names, addresses, Social Security numbers, ID numbers, and medical and health insurance information from Aflac\u2019s systems.</p>\n<p>The post <a href=\"https://www.securityweek.com/22-million-affected-by-aflac-data-breach/\">22 Million Affected by Aflac Data Breach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "5e5be762613ef7bdf54cb2d90a6d697d516c9ec0",
+      "title": "Infostealer Malware Delivered in EmEditor Supply Chain Attack",
+      "url": "https://www.securityweek.com/infostealer-malware-delivered-in-emeditor-supply-chain-attack/",
+      "published": "2025-12-29T11:21:22+00:00",
+      "summary": "<p>The \u2018download\u2019 button on the official EmEditor website served a malicious installer.</p>\n<p>The post <a href=\"https://www.securityweek.com/infostealer-malware-delivered-in-emeditor-supply-chain-attack/\">Infostealer Malware Delivered in EmEditor Supply Chain Attack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "1afb212562dbff4edee1f87e0ce3753e4cde84ee",
+      "title": "Fresh MongoDB Vulnerability Exploited in Attacks",
+      "url": "https://www.securityweek.com/fresh-mongodb-vulnerability-exploited-in-attacks/",
+      "published": "2025-12-29T09:54:15+00:00",
+      "summary": "<p>Dubbed MongoBleed, the high-severity flaw allows unauthenticated, remote attackers to leak sensitive information from MongoDB servers.</p>\n<p>The post <a href=\"https://www.securityweek.com/fresh-mongodb-vulnerability-exploited-in-attacks/\">Fresh MongoDB Vulnerability Exploited in Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "96a1bf49638f58838dcd627e04c917fcbdb73418",
+      "title": "Hacker Claims Theft of 40 Million Cond\u00e9 Nast Records After Wired Data Leak",
+      "url": "https://www.securityweek.com/hacker-claims-theft-of-40-million-conde-nast-records-after-wired-data-leak/",
+      "published": "2025-12-29T09:30:11+00:00",
+      "summary": "<p>A hacker named Lovely made public 2.3 million records representing Wired subscriber information.</p>\n<p>The post <a href=\"https://www.securityweek.com/hacker-claims-theft-of-40-million-conde-nast-records-after-wired-data-leak/\">Hacker Claims Theft of 40 Million Cond\u00e9 Nast Records After Wired Data Leak</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "d2a3ce5d1eeac31191325a84db9871dd424cef77",
       "title": "Pro-Russian Hackers Claim Cyberattack on French Postal Service",
       "url": "https://www.securityweek.com/pro-russian-hackers-claim-cyberattack-on-french-postal-service/",
@@ -1866,61 +1921,6 @@
       "url": "https://www.securityweek.com/npm-package-with-56000-downloads-steals-whatsapp-credentials-data/",
       "published": "2025-12-23T10:52:05+00:00",
       "summary": "<p>The package provides legitimate functionality to evade detection, while stealing users\u2019 data and deploying a backdoor.</p>\n<p>The post <a href=\"https://www.securityweek.com/npm-package-with-56000-downloads-steals-whatsapp-credentials-data/\">NPM Package With 56,000 Downloads Steals WhatsApp Credentials, Data</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "83b05e5e9573a38c37ab6a61f66a039028deffb6",
-      "title": "Italy Antitrust Agency Fines Apple $116 Million Over Privacy Feature; Apple Announces Appeal",
-      "url": "https://www.securityweek.com/italy-antitrust-agency-fines-apple-116-million-over-privacy-feature-apple-announces-appeal/",
-      "published": "2025-12-23T10:11:25+00:00",
-      "summary": "<p>Italy\u2019s antitrust authority fined Apple $116 million after determining that operating one of its privacy features restricted App Store competition.</p>\n<p>The post <a href=\"https://www.securityweek.com/italy-antitrust-agency-fines-apple-116-million-over-privacy-feature-apple-announces-appeal/\">Italy Antitrust Agency Fines Apple $116 Million Over Privacy Feature; Apple Announces Appeal</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "0c11b72a30d3c71f8883c1423ba625f52884927b",
-      "title": "574 Arrested, $3 Million Seized in Crackdown on African Cybercrime Rings",
-      "url": "https://www.securityweek.com/574-arrested-3-million-seized-in-crackdown-on-african-cybercrime-rings/",
-      "published": "2025-12-23T09:31:17+00:00",
-      "summary": "<p>Authorities in Senegal, Ghana, Benin, and Cameroon dismantled BEC, ransomware, and other cyber-fraud networks.</p>\n<p>The post <a href=\"https://www.securityweek.com/574-arrested-3-million-seized-in-crackdown-on-african-cybercrime-rings/\">574 Arrested, $3 Million Seized in Crackdown on African Cybercrime Rings</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "7a090bd15dab551d1d56dc07fcee6b2867560e94",
-      "title": "3.5 Million Affected by University of Phoenix Data Breach",
-      "url": "https://www.securityweek.com/3-5-million-affected-by-university-of-phoenix-data-breach/",
-      "published": "2025-12-23T07:24:43+00:00",
-      "summary": "<p>The University of Phoenix is one of the many victims of the recent Oracle EBS hacking campaign attributed to the Cl0p ransomware group.</p>\n<p>The post <a href=\"https://www.securityweek.com/3-5-million-affected-by-university-of-phoenix-data-breach/\">3.5 Million Affected by University of Phoenix Data Breach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "2e9008578bf8470297669b71bc6eb0f69187249e",
-      "title": "Cyberattack Disrupts France\u2019s Postal Service and Banking During Christmas Rush",
-      "url": "https://www.securityweek.com/cyberattack-disrupts-frances-postal-service-and-banking-during-christmas-rush/",
-      "published": "2025-12-23T05:48:22+00:00",
-      "summary": "<p>A cyberattack knocked France\u2019s national postal service offline, blocking and delaying package deliveries and online payments.</p>\n<p>The post <a href=\"https://www.securityweek.com/cyberattack-disrupts-frances-postal-service-and-banking-during-christmas-rush/\">Cyberattack Disrupts France&#8217;s Postal Service and Banking During Christmas Rush</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "220d75fe707c8b6428a923cc0d412f29beeafd33",
-      "title": "Rising Tides: When Cybersecurity Becomes Personal \u2013 Inside the Work of an OSINT Investigator",
-      "url": "https://www.securityweek.com/rising-tides-when-cybersecurity-becomes-personal-inside-the-work-of-an-osint-investigator/",
-      "published": "2025-12-22T15:00:00+00:00",
-      "summary": "<p>Shannon Miller shares her approach to creating domestic safety and a call to the cyber community to help reduce harm.</p>\n<p>The post <a href=\"https://www.securityweek.com/rising-tides-when-cybersecurity-becomes-personal-inside-the-work-of-an-osint-investigator/\">Rising Tides: When Cybersecurity Becomes Personal &#8211; Inside the Work of an OSINT Investigator</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
