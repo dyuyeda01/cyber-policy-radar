@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-30T00:45:56.044459+00:00",
+  "generated_at": "2025-12-30T12:18:53.703717+00:00",
   "items": [
     {
       "id": "d9f580896d119bcf48cc6aefc30e7a248120e69b",
@@ -110,6 +110,39 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "82219451f2d9e9e56b119d2ac86a82d68e488933",
+      "title": "Silver Fox Targets Indian Users With Tax-Themed Emails Delivering ValleyRAT Malware",
+      "url": "https://thehackernews.com/2025/12/silver-fox-targets-indian-users-with.html",
+      "published": "2025-12-30T10:46:00+00:00",
+      "summary": "The threat actor known as Silver Fox has turned its focus to India, using income tax-themed lures in phishing campaigns to distribute a modular remote access trojan called ValleyRAT (aka Winos 4.0).\n\"This sophisticated attack leverages a complex kill chain involving DLL hijacking and the modular Valley RAT to ensure persistence,\" CloudSEK researchers Prajwal Awasthi and Koushik Pal said in an",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTjxYF8a3raCHDKDawUyyfucLX4__gbjxE1-iVkP7DWO6wmxAz_c8HjKmGT5LIc3owZvwIoEpNMFg7ahikG0vgK1ccyTXlw6bE8bFcDrXoyPzm9yfCDMJqbEIgwowlGFggrhjvinRXfk0A4NTtPqaGYazaABx6QUESPUcm2kuazYtNq01dWgPHpiadpySF/s1600/email.jpg"
+    },
+    {
+      "id": "6b5194b0e4e6b89b4bd4a51dd6ff461683a948ca",
+      "title": "How to Integrate AI into Modern SOC Workflows",
+      "url": "https://thehackernews.com/2025/12/how-to-integrate-ai-into-modern-soc.html",
+      "published": "2025-12-30T09:30:00+00:00",
+      "summary": "Artificial intelligence (AI) is making its way into security operations quickly, but many practitioners are still struggling to turn early experimentation into consistent operational value. This is because SOCs are adopting AI without an intentional approach to operational integration. Some teams treat it as a shortcut for broken processes. Others attempt to apply machine learning to problems",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeQsyuyYxxOLBhyphenhyphenPUOI-UHGn8mxloyzn4GBFnuh7p3h7XUB7Z2K2kWdI2A-k0v5GKJqRANeUQ8NZknDo1M5zTdqyYyTC3vAKThq201gtemBUHiFq1GjWc1VrfMPKS7knIFoV7mO-l20SaKKVbHs-t86wVFDEqjUz-VQkVXOiB6hD5QlzLVWdQYml3tPww/s1600/sans.jpg"
+    },
+    {
+      "id": "c9458aa1feea6dca3e9458b3e53fd8a618bb669a",
+      "title": "Mustang Panda Uses Signed Kernel-Mode Rootkit to Load TONESHELL Backdoor",
+      "url": "https://thehackernews.com/2025/12/mustang-panda-uses-signed-kernel-driver.html",
+      "published": "2025-12-30T08:35:00+00:00",
+      "summary": "The Chinese hacking group known as Mustang Panda has leveraged a previously undocumented kernel-mode rootkit driver to deliver a new variant of backdoor dubbed TONESHELL in a cyber attack detected in mid-2025 targeting an unspecified entity in Asia.\nThe findings come from Kaspersky, which observed the new backdoor variant in cyber espionage campaigns mounted by the hacking group targeting",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjecDtf2H25Vece2raxEXtqLjCcgahGUR7FG5NIKWeyx6uIvaFtMlBZUrxC3Yz7RKWiVsbXyllunwBYTBEHgct6q99xvKtNR3U9SvdxMOnfbiU4UN8UgO_CLq5yowN3ZwYvw0oI5Hv7K8A14kLHv4EJaLZzowPdhSNBCE86fJF8G30qcTYYmBWCY4mMSEoh/s1600/rootkit.jpg"
     },
     {
       "id": "fa9bf352bc7ef4024035ff756937dcb353394791",
@@ -627,39 +660,6 @@
       "region": "North America",
       "country": "US",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiglAo-MBBYaWayNY0Hzg8QFcOCw_ylI8JM8RcOED0_buLBNU32LM_ftRfE_rS9VknflDViF5hMZsAI4jzWvAemNsTcL71ICA1dAneg-gBrrb3j98XsCSyuLFFCU2QScf0Uw6WhhdQHntSHOnscMG4bXidDQiU4lq0Nv5zlvnHSyctJqHOFCARwGjPXuHk/s1600/anyrun.jpg"
-    },
-    {
-      "id": "014c71730aec62059dc703934748bb5591f68d54",
-      "title": "China-Linked Ink Dragon Hacks Governments Using ShadowPad and FINALDRAFT Malware",
-      "url": "https://thehackernews.com/2025/12/china-linked-ink-dragon-hacks.html",
-      "published": "2025-12-17T11:12:00+00:00",
-      "summary": "The threat actor known as Jewelbug has been increasingly focusing on government targets in Europe since July 2025, even as it continues to attack entities located in Southeast Asia and South America.\nCheck Point Research is tracking the cluster under the name Ink Dragon. It's also referenced by the broader cybersecurity community under the names CL-STA-0049, Earth Alux, and REF7707. The",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBqWp3MxMTIJGzJ80yzXzhZCQc_ohjdhk1BJaVaIWvIQgGba88Xra_FRs2FH4JFse3UIBgw9gtP0TinJmcYKJJm_gol3V0OVgNCiJc61rCvRfcLDXv0RFp9h8PluVcWQhNswpfkch27yK9eUcUek1DN2Rw39UroiwJfTaX8SdYv-Dld7upAcKnDV4l1VnI/s1600/cpcp.jpg"
-    },
-    {
-      "id": "f16f448fd80d30e23a310c51759a9a5d8c8a3bcd",
-      "title": "GhostPoster Malware Found in 17 Firefox Add-ons with 50,000+ Downloads",
-      "url": "https://thehackernews.com/2025/12/ghostposter-malware-found-in-17-firefox.html",
-      "published": "2025-12-17T08:14:00+00:00",
-      "summary": "A new campaign named GhostPoster has leveraged logo files associated with 17 Mozilla Firefox browser add-ons to embed malicious JavaScript code designed to hijack affiliate links, inject tracking code, and commit click and ad fraud.\nThe extensions have been collectively downloaded over 50,000 times, according to Koi Security, which discovered the campaign. The add-ons are no longer available.",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSvPHdkrpjZsxg3pztc2gN7T9O0W5B1C3B6v7G-ep4OPWtLats1XsDkFfgorwPpwIwHAanQiLirNnsFMYVh0BrLu8Y_c6LjGbTHefFNAHFgDJ9hM-Iv7LI81eXSxjO8mz1tmAny6Bif9UNwSQaFrBvIGGPDFmB1Eon3nW1NYYvwaD5tY15ItYCa0RmMZs-/s1600/firefox.jpg"
-    },
-    {
-      "id": "8be549b12a521ef026809e1182dd59b8b4c09dd2",
-      "title": "Compromised IAM Credentials Power a Large AWS Crypto Mining Campaign",
-      "url": "https://thehackernews.com/2025/12/compromised-iam-credentials-power-large.html",
-      "published": "2025-12-16T16:35:00+00:00",
-      "summary": "An ongoing campaign has been observed targeting Amazon Web Services (AWS) customers using compromised Identity and Access Management (IAM) credentials to enable cryptocurrency mining.\nThe activity, first detected by Amazon's GuardDuty managed threat detection service and its automated security monitoring systems on November 2, 2025, employs never-before-seen persistence techniques to hamper",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidILz5c0w2u5MowpqpDcKaSi80yphNWTH5E6d3P9RbsKmrW49tTXLVGax2PmBg1tqbV05p_KchUWn15gqUmKNvzGPFUTa8QpmLO5zAAdT91Gcs0SbpZlMLPrf7cRmAoA_zULMCb1nIVGPp1w_yLPRclMOLJUQgH-safnADcwg3SkHT_Qfn3xbcKlDkOiub/s1600/aws.jpg"
     },
     {
       "id": "ad111d3f8f8eb36bf0b8f929d71b3a9bc84a0c06",
@@ -1212,6 +1212,17 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltaf43c1a757f10921/6939df202c22c144a8f8af8b/attacker_holwichaikawee_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
+      "id": "c859e511779d2f87af33dfb9e8276972d1e057fb",
+      "title": "Korean telco failed at femtocell security, exposed customers to snooping and fraud",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2025/12/30/kt_telecom_femtocell_security_fail/",
+      "published": "2025-12-30T03:34:46+00:00",
+      "summary": "<h4>One cert, in plaintext, on thousands of devices, led to what looks like years of crime</h4> <p>South Korea\u2019s Ministry of Science and ICT has found that local carrier Korea Telecom (KT) deployed thousands of badly secured femtocells, leading to an attack that enabled micropayments fraud and snooping on customers\u2019 communications \u2013 maybe for years.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "dbd20768def64c3a7245439dbaca061c64d51713",
       "title": "Indian cops cuff ex-Coinbase rep over selling customer info to crims",
       "url": "https://go.theregister.com/feed/www.theregister.com/2025/12/29/indian_cops_cuff_coinbase_exrep/",
@@ -1751,17 +1762,6 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "9dac153d06acd45295ebc1b88829c9161fd4bc77",
-      "title": "Analytics provider: We didn't expose smut site data to crims",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/12/16/mixpanel_breach_leak_denial/",
-      "published": "2025-12-16T21:48:17+00:00",
-      "summary": "<h4>An employee of the adult site could be responsible.</h4> <p>Analytics vendor Mixpanel says it is not the source of data stolen from Pornhub and says the info was last accessed by an employee of the adult site.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
       "id": "cade45bd05cff881c7e23c6ca712511510b4cb9b",
       "title": "Happy 16th Birthday, KrebsOnSecurity.com!",
       "url": "https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/",
@@ -1823,6 +1823,28 @@
       "published": "2025-12-04T23:02:34+00:00",
       "summary": "China-based phishing groups blamed for non-stop scam SMS messages about a supposed wayward package or unpaid toll fee are promoting a new offering, just in time for the holiday shopping season: Phishing kits for mass-creating fake but convincing e-commerce websites that convert customer payment card data into mobile wallets from Apple and Google. Experts say these same phishing groups also are now using SMS lures that promise unclaimed tax refunds and mobile rewards points.",
       "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "2ee6e2e8231f8d5ebdfffa1c27cdce8deb9a386e",
+      "title": "Chinese APT Mustang Panda Caught Using Kernel-Mode Rootkit",
+      "url": "https://www.securityweek.com/chinese-apt-mustang-panda-caught-using-kernel-mode-rootkit/",
+      "published": "2025-12-30T10:08:45+00:00",
+      "summary": "<p>The threat actor uses a signed driver file containing two user-mode shellcodes to execute its ToneShell backdoor.</p>\n<p>The post <a href=\"https://www.securityweek.com/chinese-apt-mustang-panda-caught-using-kernel-mode-rootkit/\">Chinese APT Mustang Panda Caught Using Kernel-Mode Rootkit</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "17f4abe07c1d39ef009495630c1d573d89edb52e",
+      "title": "Korean Air Data Compromised in Oracle EBS Hack",
+      "url": "https://www.securityweek.com/korean-air-data-compromised-in-oracle-ebs-hack/",
+      "published": "2025-12-30T08:50:15+00:00",
+      "summary": "<p>Roughly 30,000 Korean Air employees had their data stolen by hackers in a breach at former subsidiary KC&#038;D.</p>\n<p>The post <a href=\"https://www.securityweek.com/korean-air-data-compromised-in-oracle-ebs-hack/\">Korean Air Data Compromised in Oracle EBS Hack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
@@ -1910,28 +1932,6 @@
       "url": "https://www.securityweek.com/pro-russian-hackers-claim-cyberattack-on-french-postal-service/",
       "published": "2025-12-24T14:35:05+00:00",
       "summary": "<p>Central computer systems at French national postal service La Poste were knocked offline Monday in DDoS attack.</p>\n<p>The post <a href=\"https://www.securityweek.com/pro-russian-hackers-claim-cyberattack-on-french-postal-service/\">Pro-Russian Hackers Claim Cyberattack on French Postal Service</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "85762a47c3a5a411de5cb6359186256057675abf",
-      "title": "ServiceNow to Acquire Armis for $7.75 Billion in Cash",
-      "url": "https://www.securityweek.com/servicenow-to-acquire-armis-for-7-75-billion-in-cash/",
-      "published": "2025-12-23T14:28:42+00:00",
-      "summary": "<p>Rumors of a possible buyout surfaced earlier this month, with the official announcement coming just weeks after Armis announced raising $435 million.</p>\n<p>The post <a href=\"https://www.securityweek.com/servicenow-to-acquire-armis-for-7-75-billion-in-cash/\">ServiceNow to Acquire Armis for $7.75 Billion in Cash</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "1ef6014fb8737fb850f1ce8a3e6dd70be90991dc",
-      "title": "Nissan Confirms Impact From Red Hat Data Breach",
-      "url": "https://www.securityweek.com/nissan-confirms-impact-from-red-hat-data-breach/",
-      "published": "2025-12-23T12:26:28+00:00",
-      "summary": "<p>The personal information of 21,000 customers was stolen after hackers compromised Red Hat\u2019s GitLab instances.</p>\n<p>The post <a href=\"https://www.securityweek.com/nissan-confirms-impact-from-red-hat-data-breach/\">Nissan Confirms Impact From Red Hat Data Breach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
