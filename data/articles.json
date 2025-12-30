@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-29T12:19:19.269760+00:00",
+  "generated_at": "2025-12-30T00:45:56.044459+00:00",
   "items": [
     {
       "id": "d9f580896d119bcf48cc6aefc30e7a248120e69b",
@@ -110,6 +110,17 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "fa9bf352bc7ef4024035ff756937dcb353394791",
+      "title": "\u26a1 Weekly Recap: MongoDB Attacks, Wallet Breaches, Android Spyware, Insider Crime & More",
+      "url": "https://thehackernews.com/2025/12/weekly-recap-mongodb-attacks-wallet.html",
+      "published": "2025-12-29T13:38:00+00:00",
+      "summary": "Last week\u2019s cyber news in 2025 was not about one big incident. It was about many small cracks opening at the same time. Tools people trust every day behave in unexpected ways. Old flaws resurfaced. New ones were used almost immediately.\nA common theme ran through it all in 2025. Attackers moved faster than fixes. Access meant for work, updates, or support kept getting abused. And damage did not",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrlyxi5CiR5jY-vAJtPcjpGz_L8q6_hbThbQ6ZRXd0HLNpNxG4_KNwle_7EXt_ecUGABpDmjxO2bLwLPfjUmWKfTwuP0Lh910lNr4TE6q2MAm44XQzS2k0b9RJTr1aA74Q_aNkz9frFFNZjlGuafhIChvMiOpQhzD7OfEpXZZhh_GRntRLqmRtmsdrW1NX/s1600/recap.jpg"
     },
     {
       "id": "961041badfadfa7c42a6f4f9d8561ebabb46ff06",
@@ -651,15 +662,26 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidILz5c0w2u5MowpqpDcKaSi80yphNWTH5E6d3P9RbsKmrW49tTXLVGax2PmBg1tqbV05p_KchUWn15gqUmKNvzGPFUTa8QpmLO5zAAdT91Gcs0SbpZlMLPrf7cRmAoA_zULMCb1nIVGPp1w_yLPRclMOLJUQgH-safnADcwg3SkHT_Qfn3xbcKlDkOiub/s1600/aws.jpg"
     },
     {
-      "id": "0658990f23f25c47b2c45699fd6ce40d501d19bf",
-      "title": "Rogue NuGet Package Poses as Tracer.Fody, Steals Cryptocurrency Wallet Data",
-      "url": "https://thehackernews.com/2025/12/rogue-nuget-package-poses-as-tracerfody.html",
-      "published": "2025-12-16T15:39:00+00:00",
-      "summary": "Cybersecurity researchers have discovered a new malicious NuGet package that typosquats and impersonates the popular .NET tracing library and its author to sneak in a cryptocurrency wallet stealer.\nThe malicious package, named \"Tracer.Fody.NLog,\" remained on the repository for nearly six years. It was published by a user named \"csnemess\" on February 26, 2020. It masquerades as \"Tracer.Fody,\"",
-      "source": "The Hacker News",
+      "id": "ad111d3f8f8eb36bf0b8f929d71b3a9bc84a0c06",
+      "title": "SBOMs in 2026: Some Love, Some Hate, Much Ambivalence",
+      "url": "https://www.darkreading.com/application-security/sboms-in-2026-some-love-some-hate-much-ambivalence",
+      "published": "2025-12-29T14:51:59+00:00",
+      "summary": "With a new year upon us, software and cybersecurity experts disagree on the utility of software bill of materials \u2014\u00a0in theory, SBOMs are great, but in practice, they're a mess.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEia6FxrdzMepgwKkHbdQyn-9xpiZ9an3eTxENAvy8AZ8sKO43S3KW5Lum4lXXo9PU8NbrVcoTYI4pEoX6MCEJjHPgh4qk5N7wjclH_8IrY_h_2mByqU7H-e8GsRgsJeXcB9bBNDFdkFOLtmqBidpS5YLn1Jbgu4bL9I3yuG8WFT58zGVDNCua4K_6yOHUnT/s1600/nuget.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt46619776480dde9e/688cd655f2380213a4df6ab7/programmer-writing-code-Gorodenkoff-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
+      "id": "25d9a955a567a904c45dc3e8d39258580414285f",
+      "title": "5 Threats That Defined Security in 2025",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/five-threats-that-defined-security-2025",
+      "published": "2025-12-29T14:00:00+00:00",
+      "summary": "2025 included a number of monumental threats, from the global attacks of Salt Typhoon to dangerous vulnerabilities like React2Shell.",
+      "source": "DarkReading",
+      "region": "North America",
+      "country": "US",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt66798250e0578f0c/6944474d51157e853543c19c/Threat_imageBROKER_com_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "id": "e2094c1b6c987a23f78e1ba41453478f5ab22eaa",
@@ -825,6 +847,17 @@
       "region": "North America",
       "country": "US",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3a53b56efae849fd/6944748f866c62ded294d0da/Sonicwall_RemusRigo_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
+      "id": "31d56cefd607b5497345fd8c498db533d5153948",
+      "title": "Dark Reading Confidential: Stop Secrets Creep Across Developer Platforms",
+      "url": "https://www.darkreading.com/cybersecurity-operations/stop-secrets-creep-across-developer-platforms",
+      "published": "2025-12-18T18:55:13+00:00",
+      "summary": "Dark Reading Confidential Episode 13: Developers are exposing their organizations' most sensitive information; our guests explain why it's happening and how to stop it.",
+      "source": "DarkReading",
+      "region": "North America",
+      "country": "US",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0469f94bd17817ff/6642699959fdc64aa5f9c5fa/dark-reading-confidential-logo-sq.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "id": "eef7c235b89562fd68da4154d1a98e7e8cf13a18",
@@ -1179,37 +1212,26 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltaf43c1a757f10921/6939df202c22c144a8f8af8b/attacker_holwichaikawee_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "44a0e4dd200349964f52aa4ec225e388999f00ec",
-      "title": "ClickFix Style Attack Uses Grok, ChatGPT for Malware Delivery",
-      "url": "https://www.darkreading.com/vulnerabilities-threats/clickfix-style-attack-grok-chatgpt-malware",
-      "published": "2025-12-10T21:02:30+00:00",
-      "summary": "A new twist on the social engineering tactic is making waves, combining SEO poisoning and legitimate AI domains to install malware on victims' computers.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte910aa8b173e84ea/6939c866465bc6f4b7803182/OpenAI_Screenshot_Ascannio_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "id": "dbd20768def64c3a7245439dbaca061c64d51713",
+      "title": "Indian cops cuff ex-Coinbase rep over selling customer info to crims",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2025/12/29/indian_cops_cuff_coinbase_exrep/",
+      "published": "2025-12-29T21:16:13+00:00",
+      "summary": "<h4>There's more where that came from, CEO says</h4> <p>Rogue insiders suspected of taking bribes to hand over Coinbase customer records to criminals are beginning to face justice, according to CEO Brian Armstrong.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "d83ce357dbb0cc6fafef6e182283d70eee82478b",
-      "title": "Feds: Pro-Russia Hacktivists Target US Critical Infrastructure",
-      "url": "https://www.darkreading.com/threat-intelligence/hactivists-target-critical-infrastructure",
-      "published": "2025-12-10T12:56:02+00:00",
-      "summary": "So far the attacks, which compromise virtual network computing (VNC) connections in OT systems, have not been particularly destructive, but this could change as they evolve.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltbaeec429a34c1139/693970af459cb20bfe096d17/ics-Yuri_Arcurs-alamy.png?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
-      "id": "975339afb699d28246cb367edd86ab5eab448fb1",
-      "title": "Japanese Firms Suffer Long Tail of Ransomware Damage",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/japanese-firms-suffer-long-tail-ransomware-damage",
-      "published": "2025-12-10T00:00:00+00:00",
-      "summary": "Ransomware actors have targeted manufacturers, retailers, and the Japanese government, with many organizations requiring months to recover.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt98c40cb7cdc73ed2/69389c1dbef8d5b8954929c7/tokyo-rain-tbbstudio-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "id": "c651e6171ea4550b3bb63ad26ad6a73f9e757821",
+      "title": "Crims disconnect Wired subscribers from their privacy, publish deets online",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2025/12/29/wired_hack_subscriber_info_leaked/",
+      "published": "2025-12-29T19:23:37+00:00",
+      "summary": "<h4>Extortion group Lovely claims to have stolen 40 million pieces of info from publisher Conde Nast</h4> <p>A criminal group is beating Conde Nast over the head for not responding sooner to its extortion attempt by posting stolen subscribers' email and home addresses and warning the publisher of Wired, The New Yorker, Vanity Fair, and Teen Vogue that it has 40 million more entries.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
       "id": "b6238113520113f0a7dbc1449a9e326da7442eca",
@@ -1740,25 +1762,14 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "9a6d233cbb43f09c13c79e24d71f5f87890d0747",
-      "title": "Browser 'privacy' extensions have eye on your AI, log all your chats",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/12/16/chrome_edge_privacy_extensions_quietly/",
-      "published": "2025-12-16T21:03:54+00:00",
-      "summary": "<h4>More than 8 million people have installed extensions that eavesdrop on chatbot interactions</h4> <p>Ad blockers and VPNs are supposed to protect your privacy, but four popular browser extensions have been doing just the opposite. According to research from Koi Security, these pernicious plug-ins have been harvesting the text of chatbot conversations from more than 8 million people and sending them back to the developers.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "e13e4cf2615d13a3f0562c562bac1d47ca8d1ae8",
-      "title": "SantaStealer stuffs credentials, crypto wallets into a brand new bag",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/12/16/santastealer_stuffs_users_credentials_crypto/",
-      "published": "2025-12-16T18:58:42+00:00",
-      "summary": "<h4>All I want for Christmas \u2026 is all of your data</h4> <p>A new, modular infostealer called SantaStealer, advertised on Telegram with a basic tier priced at $175 per month, promises to make criminals' Christmas dreams come true. It boasts that it can run \"fully undetected\" even on systems with the \"strictest AntiVirus\" and those belonging to governments, financial institutions, and other prime targets.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
+      "id": "cade45bd05cff881c7e23c6ca712511510b4cb9b",
+      "title": "Happy 16th Birthday, KrebsOnSecurity.com!",
+      "url": "https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/",
+      "published": "2025-12-29T20:23:26+00:00",
+      "summary": "KrebsOnSecurity.com celebrates its 16th anniversary today! A huge \"thank you\" to all of our readers -- newcomers, long-timers and drive-by critics alike. Your engagement this past year here has been tremendous and truly a salve on a handful of dark days. Happily, comeuppance was a strong theme running through our coverage in 2025, with a primary focus on entities that enabled complex and globally-dispersed cybercrime services.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
@@ -1812,6 +1823,28 @@
       "published": "2025-12-04T23:02:34+00:00",
       "summary": "China-based phishing groups blamed for non-stop scam SMS messages about a supposed wayward package or unpaid toll fee are promoting a new offering, just in time for the holiday shopping season: Phishing kits for mass-creating fake but convincing e-commerce websites that convert customer payment card data into mobile wallets from Apple and Google. Experts say these same phishing groups also are now using SMS lures that promise unclaimed tax refunds and mobile rewards points.",
       "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "0ed2aabb3702a8e33a9026e44ab3aefa11ad0850",
+      "title": "Top US Accounting Firm Sax Discloses 2024 Data Breach Impacting 220,000",
+      "url": "https://www.securityweek.com/top-us-accounting-firm-sax-discloses-2024-data-breach-impacting-220000/",
+      "published": "2025-12-29T15:40:36+00:00",
+      "summary": "<p>It took Sax well over a year to complete its investigation after detecting hackers on its network.</p>\n<p>The post <a href=\"https://www.securityweek.com/top-us-accounting-firm-sax-discloses-2024-data-breach-impacting-220000/\">Top US Accounting Firm Sax Discloses 2024 Data Breach Impacting 220,000</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "470a24d4ec9c1fb1fa94e6e8ff56fe3284efaf40",
+      "title": "Fortinet Warns of New Attacks Exploiting Old Vulnerability",
+      "url": "https://www.securityweek.com/fortinet-warns-of-new-attacks-exploiting-old-vulnerability/",
+      "published": "2025-12-29T12:52:49+00:00",
+      "summary": "<p>Tracked as CVE-2020-12812, the exploited FortiOS flaw allows threat actors to bypass two-factor authentication.</p>\n<p>The post <a href=\"https://www.securityweek.com/fortinet-warns-of-new-attacks-exploiting-old-vulnerability/\">Fortinet Warns of New Attacks Exploiting Old Vulnerability</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
@@ -1899,28 +1932,6 @@
       "url": "https://www.securityweek.com/nissan-confirms-impact-from-red-hat-data-breach/",
       "published": "2025-12-23T12:26:28+00:00",
       "summary": "<p>The personal information of 21,000 customers was stolen after hackers compromised Red Hat\u2019s GitLab instances.</p>\n<p>The post <a href=\"https://www.securityweek.com/nissan-confirms-impact-from-red-hat-data-breach/\">Nissan Confirms Impact From Red Hat Data Breach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "a3575bb4066fc7130efc7a475d3dc313fc28e1c7",
-      "title": "Feds Seize Password Database Used in Massive Bank Account Takeover Scheme",
-      "url": "https://www.securityweek.com/feds-seize-password-database-used-in-massive-bank-account-takeover-scheme/",
-      "published": "2025-12-23T12:15:29+00:00",
-      "summary": "<p>The cybercriminals attempted to steal $28 million from compromised bank accounts through phishing.</p>\n<p>The post <a href=\"https://www.securityweek.com/feds-seize-password-database-used-in-massive-bank-account-takeover-scheme/\">Feds Seize Password Database Used in Massive Bank Account Takeover Scheme</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "bde57da347d408a315faa815c56be30531ec83d4",
-      "title": "NPM Package With 56,000 Downloads Steals WhatsApp Credentials, Data",
-      "url": "https://www.securityweek.com/npm-package-with-56000-downloads-steals-whatsapp-credentials-data/",
-      "published": "2025-12-23T10:52:05+00:00",
-      "summary": "<p>The package provides legitimate functionality to evade detection, while stealing users\u2019 data and deploying a backdoor.</p>\n<p>The post <a href=\"https://www.securityweek.com/npm-package-with-56000-downloads-steals-whatsapp-credentials-data/\">NPM Package With 56,000 Downloads Steals WhatsApp Credentials, Data</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
