@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-30T12:18:53.703717+00:00",
+  "generated_at": "2025-12-31T00:46:51.929309+00:00",
   "items": [
     {
       "id": "d9f580896d119bcf48cc6aefc30e7a248120e69b",
@@ -110,6 +110,17 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "3e1fd418beebe437cd6f2603a440e62da4136001",
+      "title": "CSA Issues Alert on Critical SmarterMail Bug Allowing Remote Code Execution",
+      "url": "https://thehackernews.com/2025/12/csa-issues-alert-on-critical.html",
+      "published": "2025-12-30T16:28:00+00:00",
+      "summary": "The Cyber Security Agency of Singapore (CSA) has issued a bulletin warning of a maximum-severity security flaw in SmarterTools SmarterMail email software that could be exploited to achieve remote code execution.\nThe vulnerability, tracked as CVE-2025-52691, carries a CVSS score of 10.0. It relates to a case of arbitrary file upload that could enable code execution without requiring any",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDGmYwQ8c2eXwEoxAV4oGX21DPSHEpPLFUcOpQPAs7kXyKyG-bd41diqFVSWAm_kERqHzynIxLke6Aj4JU9LxRVyC3CB-dsq3Rm4B8KHyNUd7y_5uQvl3rgizk8dmhwQLWDVuvGCTKH6c83Etx9Bwtvr_hvPhIq35iFNgRLLFCGON5cTSwj3KlYk5C25Fh/s1600/mail.jpg"
     },
     {
       "id": "82219451f2d9e9e56b119d2ac86a82d68e488933",
@@ -651,15 +662,15 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiov02Hir3n9ONPKRPyGJ5w_YYyqS6kxqhe2VXSqr3ygQOj5xZn8llZI9YbUgM1ups321geaVj2vlJ6wolU0byZi5XzE1E38f8x42ZjzlcRfLsixdFin2PVWGxleHHa_ESlMNo7Zhq11PVraCIkAylXOhVV_Ez2eZSSx6sfkZ0iZK2nx0J_ERgOkuHbHFY4/s1600/ops.jpg"
     },
     {
-      "id": "077ac1a22047c8c29c3eabb0f0b68744890314cf",
-      "title": "Fix SOC Blind Spots: See Threats to Your Industry & Country in Real Time",
-      "url": "https://thehackernews.com/2025/12/fix-soc-blind-spots-see-threats-to-your.html",
-      "published": "2025-12-17T11:30:00+00:00",
-      "summary": "Modern security teams often feel like they\u2019re driving through fog with failing headlights. Threats accelerate, alerts multiply, and SOCs struggle to understand which dangers matter right now for their business. Breaking out of reactive defense is no longer optional. It\u2019s the difference between preventing incidents and cleaning up after them.\nBelow is the path from reactive firefighting to a",
-      "source": "The Hacker News",
+      "id": "001a16072985ae36d123dfc1dede8be299866197",
+      "title": "New Tech Deployments That Cyber Insurers Recommend for 2026",
+      "url": "https://www.darkreading.com/cyber-risk/cybersecurity-tech-recommended-by-cyber-insurer-claims-data",
+      "published": "2025-12-30T13:56:23+00:00",
+      "summary": "An analysis of cyber-insurance claims data shows which cyber defenses actually work for policyholders. Here are six technologies that will pay off for companies in 2026.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiglAo-MBBYaWayNY0Hzg8QFcOCw_ylI8JM8RcOED0_buLBNU32LM_ftRfE_rS9VknflDViF5hMZsAI4jzWvAemNsTcL71ICA1dAneg-gBrrb3j98XsCSyuLFFCU2QScf0Uw6WhhdQHntSHOnscMG4bXidDQiU4lq0Nv5zlvnHSyctJqHOFCARwGjPXuHk/s1600/anyrun.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt589adff292f66ec0/6938442c5b08896025888bb4/cyber-insurance-products-Photon_photo-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "id": "ad111d3f8f8eb36bf0b8f929d71b3a9bc84a0c06",
@@ -677,7 +688,7 @@
       "title": "5 Threats That Defined Security in 2025",
       "url": "https://www.darkreading.com/vulnerabilities-threats/five-threats-that-defined-security-2025",
       "published": "2025-12-29T14:00:00+00:00",
-      "summary": "2025 included a number of monumental threats, from the global attacks of Salt Typhoon to dangerous vulnerabilities like React2Shell.",
+      "summary": "2025 included a number of monumental threats, from global nation-state attacks to a critical vulnerability under widespread exploitation.",
       "source": "DarkReading",
       "region": "North America",
       "country": "US",
@@ -699,7 +710,7 @@
       "title": "As More Coders Adopt AI Agents, Security Pitfalls Lurk in 2026",
       "url": "https://www.darkreading.com/application-security/coders-adopt-ai-agents-security-pitfalls-lurk-2026",
       "published": "2025-12-26T13:04:07+00:00",
-      "summary": "Developers are leaning more heavily on AI for code generation, but in 2026, the development pipeline and security need to be prioritized.",
+      "summary": "Developers are leaning more heavily on AI for code generation, but in 2026 the development pipeline and security need to be prioritized.",
       "source": "DarkReading",
       "region": "North America",
       "country": "US",
@@ -732,7 +743,7 @@
       "title": "ServiceNow Buys Armis for $7.75B, Boosts 'AI Control Tower'",
       "url": "https://www.darkreading.com/cybersecurity-operations/servicenow-buys-armis-gets-ai-control-tower",
       "published": "2025-12-23T20:03:15+00:00",
-      "summary": "Its latest cybersecurity acquisition will help further ServiceNow's plans for autonomous cybersecurity, and building a security stack to proactively manage AI.",
+      "summary": "Its latest cybersecurity acquisition will help further ServiceNow's plans for autonomous cybersecurity and building a security stack to proactively manage AI.",
       "source": "DarkReading",
       "region": "North America",
       "country": "US",
@@ -1201,15 +1212,26 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt75773ff51f6e981f/6939d4d15b08893ee9889088/Copilot-dpa_picture_alliance-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "50572469afd7531fc3a77fd2d7dad7c5141b6ba2",
-      "title": "Storm-0249 Abuses EDR Processes in Stealthy Attacks",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/storm-0249-edr-processes-stealthy-attacks",
-      "published": "2025-12-10T21:59:32+00:00",
-      "summary": "The initial access broker has been weaponizing endpoint detection and response (EDR) platforms and Windows utilities in recent high-precision attacks.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltaf43c1a757f10921/6939df202c22c144a8f8af8b/attacker_holwichaikawee_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "id": "74122f08d9f9065c78939bbdd873002f2c96510a",
+      "title": "New York\u2019s incoming mayor bans Raspberry Pi at his inauguration party",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2025/12/31/zohran_mamdani_raspberry_pi_ban/",
+      "published": "2025-12-31T00:31:45+00:00",
+      "summary": "<h4>Zohran Mamdani appears not to understand that smartphones can be used for evil</h4> <p>New York\u2019s mayor-elect Zohran Mamdani has invited the city\u2019s residents to join him at a block party to celebrate his inauguration but told attendees not to bring a Raspberry Pi to the event.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "5227051ec81587737409c726a459626a5f2cb68a",
+      "title": "An early end to the holidays: 'Heartbleed of MongoDB' is now under active exploit",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2025/12/30/mongodb_vuln_exploited_cve_2025_14847/",
+      "published": "2025-12-30T19:27:54+00:00",
+      "summary": "<h4>You didn't think you'd get to enjoy your time off without a major cybersecurity incident, did you?</h4> <p>A high-severity MongoDB Server vulnerability, for which proofs of concept emerged over Christmas week, is now under active exploitation, according to the US Cybersecurity and Infrastructure Security Agency.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
       "id": "c859e511779d2f87af33dfb9e8276972d1e057fb",
@@ -1740,28 +1762,6 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "1044c5bfbf643e5e1fd7895369a893eb09e91806",
-      "title": "England keeping pen and paper exams despite limited digital expansion",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/12/17/england_pen_paper_exams/",
-      "published": "2025-12-17T10:15:08+00:00",
-      "summary": "<h4>Regulator proposes strict limits on screen-based testing, cites infrastructure concerns and lack of evidence for benefits</h4> <p>Most students taking school and college GCSE, A-level, and AS-level exams in England will continue to use pen and paper, according to proposals from the sector's regulator for a very limited expansion of screen-based assessments.\u2026</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "facc7ef3089a69ff266f5ced974f52916f207db7",
-      "title": "China's Ink Dragon hides out in European government networks",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/12/16/chinas_ink_dragon_hides_out/",
-      "published": "2025-12-16T23:19:08+00:00",
-      "summary": "<h4>Misconfigured servers are in, 0-days out</h4> <p>Chinese espionage crew Ink Dragon has expanded its snooping activities into European government networks, using compromised servers to create illicit relay nodes for future operations.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
       "id": "cade45bd05cff881c7e23c6ca712511510b4cb9b",
       "title": "Happy 16th Birthday, KrebsOnSecurity.com!",
       "url": "https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/",
@@ -1823,6 +1823,17 @@
       "published": "2025-12-04T23:02:34+00:00",
       "summary": "China-based phishing groups blamed for non-stop scam SMS messages about a supposed wayward package or unpaid toll fee are promoting a new offering, just in time for the holiday shopping season: Phishing kits for mass-creating fake but convincing e-commerce websites that convert customer payment card data into mobile wallets from Apple and Google. Experts say these same phishing groups also are now using SMS lures that promise unclaimed tax refunds and mobile rewards points.",
       "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "7d4ffd9b6fe2dbe60ca324b91c0cc6a2a9fd1e1f",
+      "title": "8 Cybersecurity Acquisitions Surpassed $1 Billion Mark in 2025",
+      "url": "https://www.securityweek.com/8-cybersecurity-acquisitions-surpassed-1-billion-mark-in-2025/",
+      "published": "2025-12-30T12:29:26+00:00",
+      "summary": "<p>The total disclosed value for all the cybersecurity M&#038;A deals announced in 2025 exceeded $84 billion.</p>\n<p>The post <a href=\"https://www.securityweek.com/8-cybersecurity-acquisitions-surpassed-1-billion-mark-in-2025/\">8 Cybersecurity Acquisitions Surpassed $1 Billion Mark in 2025</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
@@ -1921,17 +1932,6 @@
       "url": "https://www.securityweek.com/hacker-claims-theft-of-40-million-conde-nast-records-after-wired-data-leak/",
       "published": "2025-12-29T09:30:11+00:00",
       "summary": "<p>A hacker named Lovely made public 2.3 million records representing Wired subscriber information.</p>\n<p>The post <a href=\"https://www.securityweek.com/hacker-claims-theft-of-40-million-conde-nast-records-after-wired-data-leak/\">Hacker Claims Theft of 40 Million Cond\u00e9 Nast Records After Wired Data Leak</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "d2a3ce5d1eeac31191325a84db9871dd424cef77",
-      "title": "Pro-Russian Hackers Claim Cyberattack on French Postal Service",
-      "url": "https://www.securityweek.com/pro-russian-hackers-claim-cyberattack-on-french-postal-service/",
-      "published": "2025-12-24T14:35:05+00:00",
-      "summary": "<p>Central computer systems at French national postal service La Poste were knocked offline Monday in DDoS attack.</p>\n<p>The post <a href=\"https://www.securityweek.com/pro-russian-hackers-claim-cyberattack-on-french-postal-service/\">Pro-Russian Hackers Claim Cyberattack on French Postal Service</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
