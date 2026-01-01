@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-31T12:18:19.219277+00:00",
+  "generated_at": "2026-01-01T00:53:40.141535+00:00",
   "items": [
     {
       "id": "d9f580896d119bcf48cc6aefc30e7a248120e69b",
@@ -110,6 +110,50 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "4adaacd96fc80ba0cc89a8b3d39c1bdafca14ca2",
+      "title": "Trust Wallet Chrome Extension Hack Drains $8.5M via Shai-Hulud Supply Chain Attack",
+      "url": "https://thehackernews.com/2025/12/trust-wallet-chrome-extension-hack.html",
+      "published": "2025-12-31T16:29:00+00:00",
+      "summary": "Trust Wallet on Tuesday revealed that the second iteration of the Shai-Hulud (aka Sha1-Hulud) supply chain outbreak in November 2025 was likely responsible for the hack of its Google Chrome extension, ultimately resulting in the theft of approximately $8.5 million in assets.\n\"Our Developer GitHub secrets were exposed in the attack, which gave the attacker access to our browser extension source",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMbGd5gZt4LivTf91n0rkIqb96QTFiXAPUGZIjWetmK58EeBHuQNFM6PQ1WHeNdTsg5GmtM9qWLoNz1jXn9S1t_zbP02pp62aPKYqruzZ81_fqujiRFvpj1MTxKP9VA6jeNk2Xw4Szx1UJ3ndXXEaV9-T9e0uFqieAuvHlmLRiU2RjTEkDf-Ft9YL6pyx-/s1600/crypto.jpg"
+    },
+    {
+      "id": "d676ea9291db580f5608bd249ec79912227ab281",
+      "title": "DarkSpectre Browser Extension Campaigns Exposed After Impacting 8.8 Million Users Worldwide",
+      "url": "https://thehackernews.com/2025/12/darkspectre-browser-extension-campaigns.html",
+      "published": "2025-12-31T16:14:00+00:00",
+      "summary": "The threat actor behind two malicious browser extension campaigns, ShadyPanda and GhostPoster, has been attributed to a third attack campaign codenamed DarkSpectre that has impacted 2.2 million users of Google Chrome, Microsoft Edge, and Mozilla Firefox.\nThe activity is assessed to be the work of a Chinese threat actor that Koi Security is tracking under the moniker DarkSpectre. In all, the",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3BlrabuZMmyZXh7mVD8BfgxW1K7DaJwh4FqMKyPBod0SCwsR2L24g7oYk4e4hJnScEHlg4HMWEZ2041ZzwMnbs9gEQ0bNcCIu38ZhNtum_YNF01PEJBOI-O_qd4wSLxmYvrAvlnLugMGX9uolGrhsRvWT5uYX1p2z8YgwbY6qdgmJZcp5yPn6RlAhIMe2/s1600/browser.jpg"
+    },
+    {
+      "id": "8092869e6f08e7f7452b643d8780c05cade2c31d",
+      "title": "IBM Warns of Critical API Connect Bug Allowing Remote Authentication Bypass",
+      "url": "https://thehackernews.com/2025/12/ibm-warns-of-critical-api-connect-bug.html",
+      "published": "2025-12-31T13:37:00+00:00",
+      "summary": "IBM has disclosed details of a critical security flaw in API Connect that could allow attackers to gain remote access to the application.\nThe vulnerability, tracked as CVE-2025-13915, is rated 9.8 out of a maximum of 10.0 on the CVSS scoring system. It has been described as an authentication bypass flaw.\n\"IBM API Connect could allow a remote attacker to bypass authentication mechanisms and gain",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_6aF_LtBQsxfp7ziJZ57TatgdnnjgWwDKQRdgCbPqj8o5Fk-wS94TV1LNcXqTTAr6sgpty7xjiZ58uFabTBr7az46u52ETTgROTfakpeYBSRAXMjrNkyWdCtJehPjCZGGFalG59NRL8VPfQbe-F9R8ZLmGQ0EBXw0bgh0XStROWKpyIio2-3MOK3qH1Z2/s1600/ibm.jpg"
+    },
+    {
+      "id": "a1ac091c010c71a00d43b905f284c2ac2e3e1075",
+      "title": "Researchers Spot Modified Shai-Hulud Worm Testing Payload on npm Registry",
+      "url": "https://thehackernews.com/2025/12/researchers-spot-modified-shai-hulud.html",
+      "published": "2025-12-31T13:29:00+00:00",
+      "summary": "Cybersecurity researchers have disclosed details of what appears to be a new strain of Shai Hulud on the npm registry with slight modifications from the previous wave observed last month.\nThe npm package that embeds the novel Shai Hulud strain is \"@vietmoney/react-big-calendar,\" which was uploaded to npm back in March 2021 by a user named \"hoquocdat.\" It was updated for the first time on",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLzpeFOZHp8C7GZ0cMe57PMU10zY3RqrxkvwgczNMI5wgXFupY9-FWJ9YcOxsXyp8CS2DeqAPdzbyWgRIORNHw07bTMNOSidgkAI7CHrQ58iw8E027cxPGaxNmpQYEooO2OyRlWRe96ebuX1wSLsqOB7doUZaKELDsTn-vh3ht6Ti2RN1VTnTfsTtu13gA/s1600/npm.jpg"
     },
     {
       "id": "6d7d2c7b935e4ad636f5e84106fbb928f32568eb",
@@ -618,48 +662,48 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEictGhjT_9OZJTuEYOqE7telpBLN4MwLPN-_JQ47nzM7kRB30tNAxJZTj9G4_et941pBqOhHYsMelUkkFuHr4YpaSePmF2yI9HlFtjucfPOrUBLygp2yn9Si1RTNOhFOwXOD1i4R1pn7tF5wF5tTWCt6yOHKOzogpgTJKsnLqPMZeqSei3woebqNCrukUTm/s1600/asus-update.jpg"
     },
     {
-      "id": "387b5e1eacf7976abf7e18477a40780e0900be08",
-      "title": "Cisco Warns of Active Attacks Exploiting Unpatched 0-Day in AsyncOS Email Security Appliances",
-      "url": "https://thehackernews.com/2025/12/cisco-warns-of-active-attacks.html",
-      "published": "2025-12-18T04:10:00+00:00",
-      "summary": "Cisco has alerted users to a maximum-severity zero-day flaw in Cisco AsyncOS software that has been actively exploited by a China-nexus advanced persistent threat (APT) actor codenamed UAT-9686 in attacks targeting Cisco Secure Email Gateway and Cisco Secure Email and Web Manager.\nThe networking equipment major said it became aware of the intrusion campaign on December 10, 2025, and that it",
-      "source": "The Hacker News",
+      "id": "ff75da6c87322775384543238c79a522bc114688",
+      "title": "Sunken Ships: Will Orgs Learn From Ivanti EPMM Attacks?",
+      "url": "https://www.darkreading.com/cyber-risk/sunken-ships-ivanti-epmm-attacks",
+      "published": "2025-12-31T17:35:27+00:00",
+      "summary": "The April/May zero-day exploitations of Ivanti's mobile device management platform meant unprecedented pwning of thousands of orgs by a Chinese APT \u2014 and history will probably repeat itself.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpjMjZETJCJzsn3zNMvhFcueq4Jg-O7GD4cD5JoRzRRlP5TeeoxTkjVNrFJsNM1AGDrsTu6cTS21FhA5IeCIFA8lv1T7T2tzKp7gax2Iqkuw2NQ62cIdlsRPoRuLZLieDm1CvaNg688pPbY0k50cG2RbDWWtv_GvAGfAFtJwJ_r43qsp42vNdJ8YPvrmL-/s1600/cisco.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1b1f18324a311ce1/69556122b3a3849fe0bc4ff1/ChineseShip-Everett_Collection_Historical-alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "c692048a0a8a87f0701c8109d2b5a04bc6c727fa",
-      "title": "SonicWall Fixes Actively Exploited CVE-2025-40602 in SMA 100 Appliances",
-      "url": "https://thehackernews.com/2025/12/sonicwall-fixes-actively-exploited-cve.html",
-      "published": "2025-12-17T18:17:00+00:00",
-      "summary": "SonicWall has rolled out fixes to address a security flaw in Secure Mobile Access (SMA) 100 series appliances that it said has been actively exploited in the wild.\nThe vulnerability, tracked as CVE-2025-40602 (CVSS score: 6.6), concerns a case of local privilege escalation that arises as a result of insufficient authorization in the appliance management console (AMC).\nIt affects the following",
-      "source": "The Hacker News",
+      "id": "28eb18083a5a47a1e51fe6ef93a890b423baf16d",
+      "title": "When the Cloud Rains on Everyone's IoT Parade",
+      "url": "https://www.darkreading.com/iot/when-cloud-rains-on-everyone-iot-parade",
+      "published": "2025-12-31T14:31:37+00:00",
+      "summary": "What happens to all of those always-connected devices when the cloud goes down? Disruptions to sleep, school, and smart homes, just to name a few issues.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOyrg8g1G4OnVQ36TFxAz4aVSNLSYRl241I2Ai7LGLTf0mkviQL2ZhBpoQRKS-lb3lRuwQJKKEeAfNVzzujNLnZzQEseWLaeoiSmUfbmUCdhaw6w4tJXr2uFCtvqgptfsQ7THnLXNvcIBz94pa0ge6SEKZ3WuOL18fufKJKRKTKP0Xt8YjDugU6930oPg4/s1600/sonicwall.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8f3cabb4053c4833/654e396c625482040ad585cc/Rainy_day_Zoonar_GmbH_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "5c83ee4a7a676b7b2caea0171590594eb97f8bf0",
-      "title": "Kimwolf Botnet Hijacks 1.8 Million Android TVs, Launches Large-Scale DDoS Attacks",
-      "url": "https://thehackernews.com/2025/12/kimwolf-botnet-hijacks-18-million.html",
-      "published": "2025-12-17T18:09:00+00:00",
-      "summary": "A new distributed denial-of-service (DDoS) botnet known as Kimwolf has enlisted a massive army of no less than 1.8 million infected devices comprising Android-based TVs, set-top boxes, and tablets, and may be associated with another botnet known as AISURU, according to findings from QiAnXin XLab.\n\"Kimwolf is a botnet compiled using the NDK [Native Development Kit],\" the company said in a report",
-      "source": "The Hacker News",
+      "id": "a52c3db6339f077ed7c183afcdb3ea73e0c0afc1",
+      "title": "Identity Security 2026: Four Predictions &amp; Recommendations",
+      "url": "https://www.darkreading.com/identity-access-management-security/identity-security-2026-predictions-and-recommendations",
+      "published": "2025-12-31T14:00:58+00:00",
+      "summary": "Agentic AI adoption and identity security risks, IGA expands in mid-market, SOC-identity team collaboration, and identity platform consolidation\u2014this 2026 predictions post previews identity trends.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6-q5Xa6KgWXYqaE_Gb7hCK-lfm5MRlkicK1xFVL8HwS5-jHv0MAY5YYAyTmuRfITo4hEjKmhAnfXMpWLSpqS5jQkSMFVw2DSPnu_CvTCpwTrFBUwN_wWoPF8NqrPJo7GR7cUYEQ4AIz339JY4MqyGx6OZk7GQih_fGBPu9S5RrYPXSMRbnRHuJnhNEQa5/s1600/android-tvs.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6820a838ed160c35/694ae4ceec15802bd5c05f8f/digital_identity.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "b49bb03b0ec487a2c49a8baf7d6fd976bf91ab88",
-      "title": "APT28 Targets Ukrainian UKR-net Users in Long-Running Credential Phishing Campaign",
-      "url": "https://thehackernews.com/2025/12/apt28-targets-ukrainian-ukr-net-users.html",
-      "published": "2025-12-17T15:30:00+00:00",
-      "summary": "The Russian state-sponsored threat actor known as APT28 has been attributed to what has been described as a \"sustained\" credential-harvesting campaign targeting users of UKR[.]net, a webmail and news service popular in Ukraine.\nThe activity, observed by Recorded Future's Insikt Group between June 2024 and April 2025, builds upon prior findings from the cybersecurity company in May 2024 that",
-      "source": "The Hacker News",
+      "id": "2cb5ba521aff6b25a2741a956008cfc6ba814e8d",
+      "title": "Contrarians No More: AI Skepticism Is on the Rise",
+      "url": "https://www.darkreading.com/cybersecurity-operations/contrarians-no-more-ai-skepticism",
+      "published": "2025-12-31T14:00:00+00:00",
+      "summary": "Concerns about an economic bubble bursting, along with doubts regarding return on investment, suggest the tide may be turning for the artificial intelligence industry.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQLzd6YnWyQ56Xbt_HlhI75xek4Jz48-N00eU2I6DGqA6KBmlo-vE932Zz6ASRHE9KetD1kl8j4_5BoGhhYRNWFFyamUMFWugIxQ9YIAx1ZLsXqqqYz7-tiAcSIAz1H5mmzZtqnCRlSB4aksTWjZ_jWIVBp9F4J60tOrVZyKBr1DHILd5o7y8DLmINuWHO/s1600/action.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt98c8a5621535152e/69444fc56f8345f06e1cc60b/aibubble_Brainlight_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "id": "3adb5d9e8add9f5df9b78363bf4b34c7becf4d57",
@@ -682,6 +726,17 @@
       "region": "North America",
       "country": "US",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt589adff292f66ec0/6938442c5b08896025888bb4/cyber-insurance-products-Photon_photo-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
+      "id": "31d56cefd607b5497345fd8c498db533d5153948",
+      "title": "Dark Reading Confidential: Stop Secrets Creep Across Developer Platforms",
+      "url": "https://www.darkreading.com/cybersecurity-operations/stop-secrets-creep-across-developer-platforms",
+      "published": "2025-12-29T18:55:13+00:00",
+      "summary": "Dark Reading Confidential Episode 13: Developers are exposing their organizations' most sensitive information; our guests explain why it's happening and how to stop it.",
+      "source": "DarkReading",
+      "region": "North America",
+      "country": "US",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0469f94bd17817ff/6642699959fdc64aa5f9c5fa/dark-reading-confidential-logo-sq.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "id": "ad111d3f8f8eb36bf0b8f929d71b3a9bc84a0c06",
@@ -707,7 +762,7 @@
     },
     {
       "id": "e2094c1b6c987a23f78e1ba41453478f5ab22eaa",
-      "title": "Mentorship and Diversity: Shaping the Next Generation of Cyber Experts",
+      "title": "Mentorship &amp; Diversity: Shaping the Next Generation of Cyber Experts",
       "url": "https://www.darkreading.com/cybersecurity-careers/mentorship-and-diversity-shaping-the-next-generation-of-cyber-experts",
       "published": "2025-12-26T15:15:00+00:00",
       "summary": "Patricia Voight, CISO at Webster Bank, shares her expertise on advancing cybersecurity careers, combating financial crimes, and championing diversity in a rapidly changing industry.",
@@ -729,7 +784,7 @@
     },
     {
       "id": "c7bb568cc3e5a8aecbca0dc19d08e290beabc71f",
-      "title": "Dark Reading Opens The State of Application Security Survey",
+      "title": "Dark Reading Opens State of Application Security Survey",
       "url": "https://www.darkreading.com/application-security/dark-reading-opens-state-appsec-survey",
       "published": "2025-12-26T12:00:48+00:00",
       "summary": "Take part in the new survey from Dark Reading and help uncover trends, challenges, and solutions shaping the future of application security.",
@@ -869,17 +924,6 @@
       "region": "North America",
       "country": "US",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3a53b56efae849fd/6944748f866c62ded294d0da/Sonicwall_RemusRigo_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
-      "id": "31d56cefd607b5497345fd8c498db533d5153948",
-      "title": "Dark Reading Confidential: Stop Secrets Creep Across Developer Platforms",
-      "url": "https://www.darkreading.com/cybersecurity-operations/stop-secrets-creep-across-developer-platforms",
-      "published": "2025-12-18T18:55:13+00:00",
-      "summary": "Dark Reading Confidential Episode 13: Developers are exposing their organizations' most sensitive information; our guests explain why it's happening and how to stop it.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0469f94bd17817ff/6642699959fdc64aa5f9c5fa/dark-reading-confidential-logo-sq.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "id": "eef7c235b89562fd68da4154d1a98e7e8cf13a18",
@@ -1168,48 +1212,15 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt60aa118a62258b6f/693b2e2634e2d68b87652d80/Hamas_logo-Ralf_Liebhold-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "1a5199b00b78b500c11c9f160707d645c1302a3c",
-      "title": "Money Mules Require Banks to Switch From Defense to Offense",
-      "url": "https://www.darkreading.com/threat-intelligence/money-mules-require-banks-to-switch-from-defense-to-offense",
-      "published": "2025-12-11T23:13:38+00:00",
-      "summary": "Financial institutions must be proactive when identifying and preventing fraudulent activity. Here are five &quot;mule personas&quot; to watch for.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb73f88f57745b899/670ed4947eeb84b5c2247d6d/atm1800_Panther_Media_GmbH_alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
-      "id": "a7da4790d953691209e366adba064a04620c99b0",
-      "title": "Encouraging Industry Voices to Write for the Commentary Section",
-      "url": "https://www.darkreading.com/cybersecurity-operations/encouraging-industry-voices-write-commentary-section",
-      "published": "2025-12-11T22:48:10+00:00",
-      "summary": "Dark Reading will continue to publish Tech Talks and Ask the Expert pieces in the Commentary section. Read on for submission guidelines.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blteaddff6b65ae38b4/67aa4fae2d58507b08e941c4/newspaper1800_Radharc_Images_alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
-      "id": "f62484ad69c7e080aeec16720cbef6abf15e5e36",
-      "title": "Attackers Exploited Gogs Zero-Day Flaw for Months",
-      "url": "https://www.darkreading.com/vulnerabilities-threats/attackers-exploited-gogs-zero-day-months",
-      "published": "2025-12-11T20:11:43+00:00",
-      "summary": "Wiz disclosed a still-unpatched vulnerability in self-hosted Git service Gogs, which is a bypass for a previous RCE bug disclosed last year.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7ac491a683a3de45/693b06292c22c16797f8b3d6/Zero_Day_Jun_Li_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
-      "id": "ec6cc4c16b5fd8f6a5cf19c727733e683caebd1d",
-      "title": "AI in OT Sparks Cascade of Complex Challenges",
-      "url": "https://www.darkreading.com/ics-ot-security/ai-ot-too-incompatible-work-securely",
-      "published": "2025-12-11T14:50:59+00:00",
-      "summary": "Using artificial intelligence in operational technology environments could be a bumpy ride full of trust issues and security challenges.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7923c579bab7c392/6932e6f3c23f653dc027c2b9/2X8EYCK.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "id": "ea0019dbcf48097dbb3fa85d6a249fd87f1fe200",
+      "title": "European Space Agency hit again as cybercrims claim 200 GB data up for sale",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2025/12/31/european_space_agency_hacked/",
+      "published": "2025-12-31T16:55:48+00:00",
+      "summary": "<h4>As in past incidents, ESA says the impact was limited to external systems</h4> <p>The European Space Agency has suffered yet another security incident and, in keeping with past practice, says the impact is limited. Meanwhile, miscreants boast that they've made off with a trove of data, including what they claim are confidential documents, credentials, and source code.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
       "id": "9fc77455112231a284357b5e48ce53e0fc17dbd9",
@@ -1745,17 +1756,6 @@
       "url": "https://go.theregister.com/feed/www.theregister.com/2025/12/17/nomad_ftc_settlement/",
       "published": "2025-12-17T16:03:39+00:00",
       "summary": "<h4>Regulator makes various additional demands over alleged cybersecurity failings</h4> <p>In proposing a settlement agreement, the Federal Trade Commission (FTC) says that Illusory Systems must repay users funds lost in a 2022 cyberattack.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "63ca59bbb98e79bf720b2a0e3138ce8f788d8755",
-      "title": "PwC on securing AI: building trust, compliance and confidence at scale",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/12/17/pwc_securing_ai_building/",
-      "published": "2025-12-17T16:01:33+00:00",
-      "summary": "<h4>Buckle up to innovate at speed, says PwC</h4> <p><strong>Sponsored Post</strong>\u00a0 As AI spreads across the enterprise, so too do the security and compliance risks. Regulations are evolving, risk postures are shifting, and organizations must find a way to innovate responsibly without slowing down.\u2026</p>",
       "source": "The Register \u2013 Security",
       "region": "Europe",
       "country": "UK",
