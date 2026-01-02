@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-02T00:47:11.245473+00:00",
+  "generated_at": "2026-01-02T12:17:53.541285+00:00",
   "items": [
     {
       "id": "d9f580896d119bcf48cc6aefc30e7a248120e69b",
@@ -110,6 +110,28 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "b358cb0ff700e0fae7617a13ed49ecb184d4b5b1",
+      "title": "The ROI Problem in Attack Surface Management",
+      "url": "https://thehackernews.com/2026/01/the-roi-problem-in-attack-surface.html",
+      "published": "2026-01-02T11:30:00+00:00",
+      "summary": "Attack Surface Management (ASM) tools promise reduced risk. What they usually deliver is more information.&nbsp;\nSecurity teams deploy ASM, asset inventories grow, alerts start flowing, and dashboards fill up. There is visible activity and measurable output. But when leadership asks a simple question, \u201cIs this reducing incidents?\u201d the answer is often unclear.&nbsp;\nThis gap between effort and",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOgqxWyZ5k1mEMGQ8sCbC-M19ff7_TVyt69pnktcYU9wNBJttxeAp9Cw3dzhrTdYwKNCYNPwOa_GV1OND0GP9cqYCLMO7A2vGJS14t32VoYAvv_R4NBlh1Jk7Cv8h3B_tp8uuHak1rB0vLwYycZHbpZc3KlWLQRXy5mg7Y_J7mC6zqepPwbuRNlArMGLE7/s1600/main.jpg"
+    },
+    {
+      "id": "65ff0022b0283b72dcd568884f26d8b0aadba3fc",
+      "title": "Cybercriminals Abuse Google Cloud Email Feature in Multi-Stage Phishing Campaign",
+      "url": "https://thehackernews.com/2026/01/cybercriminals-abuse-google-cloud-email.html",
+      "published": "2026-01-02T09:14:00+00:00",
+      "summary": "Cybersecurity researchers have disclosed details of a phishing campaign that involves the attackers impersonating legitimate Google-generated messages by abusing Google Cloud's Application Integration service to distribute emails.\nThe activity, Check Point said, takes advantage of the trust associated with Google Cloud infrastructure to send the messages from a legitimate email address (\"",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYs3DrTLoxNKDEunQc4yjZyAmnuhSyJGccrpxhneZyB6iJ29zkbfcoDpsPZlJYL59ZNTX09BS4FmbV_Yv2WjkB-mptBp_vVyYa4PpPY5jk73XydEvhAdyS-oHdUzSmbCobA7Gnnf6Iogvs3YdR2yC0XkkCGzdz3e9PQ3qg5kaVRVmn3OKxLbfaT2b0SIld/s1600/phishing-email.jpg"
     },
     {
       "id": "f2d6db28b3bdcd47e5de100c9ba246b6f30ffff1",
@@ -237,7 +259,7 @@
       "title": "Mustang Panda Uses Signed Kernel-Mode Rootkit to Load TONESHELL Backdoor",
       "url": "https://thehackernews.com/2025/12/mustang-panda-uses-signed-kernel-driver.html",
       "published": "2025-12-30T08:35:00+00:00",
-      "summary": "The Chinese hacking group known as Mustang Panda has leveraged a previously undocumented kernel-mode rootkit driver to deliver a new variant of backdoor dubbed TONESHELL in a cyber attack detected in mid-2025 targeting an unspecified entity in Asia.\nThe findings come from Kaspersky, which observed the new backdoor variant in cyber espionage campaigns mounted by the hacking group targeting",
+      "summary": "The Chinese hacking group known as Mustang Panda (aka HoneyMyte) has leveraged a previously undocumented kernel-mode rootkit driver to deliver a new variant of backdoor dubbed TONESHELL in a cyber attack detected in mid-2025 targeting an unspecified entity in Asia.\nThe findings come from Kaspersky, which observed the new backdoor variant in cyber espionage campaigns mounted by the hacking group",
       "source": "The Hacker News",
       "region": "North America",
       "country": "US",
@@ -638,28 +660,6 @@
       "region": "North America",
       "country": "US",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhH806nHTdXt51O7PVip7PNV2XCDB4KCOygYB69A4vwOOjVyK1B_3cNesAvljNSzuj-lAmCe8AgIgrwQtK7fuOckkB4hj1QQ-tYq4OI8lrvsz30cNzfjrOF8b5qiT_wEpAlsvEGa68zHG0dtl2CZK6hz7MpW-W6ZlPRgj7PGMIa-n38VlwbOhHfip4cTTrY/s1600/hpe.jpg"
-    },
-    {
-      "id": "68ec926dd3bc3b010e17790a6eed2708b122ead9",
-      "title": "ThreatsDay Bulletin: WhatsApp Hijacks, MCP Leaks, AI Recon, React2Shell Exploit and 15 More Stories",
-      "url": "https://thehackernews.com/2025/12/threatsday-bulletin-whatsapp-hijacks.html",
-      "published": "2025-12-18T13:10:00+00:00",
-      "summary": "This week\u2019s ThreatsDay Bulletin tracks how attackers keep reshaping old tools and finding new angles in familiar systems. Small changes in tactics are stacking up fast, and each one hints at where the next big breach could come from.\nFrom shifting infrastructures to clever social hooks, the week\u2019s activity shows just how fluid the threat landscape has become.\nHere\u2019s the full rundown of what",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNeJtuRy-gjytN_j0MAXAb1xvnGYRgQ0DDQnZzdAo5jaT8C8zPIYpYrEBrJykOsYixevHoF4rfux8jhSgmKdO0_URETDCJwbVdLzdyj2tsOVobmrROO8OUZb9UGqThi3ah-T1tqvl-EsIInns9yOxYA-PJzupTJlRne0bAIqDS8PA6EJjzG8qQf1vYOpsI/s1600/threatsday-main.jpg"
-    },
-    {
-      "id": "416ffdd1f7abfece7eff8f469280cf6fbe594a03",
-      "title": "North Korea-Linked Hackers Steal $2.02 Billion in 2025, Leading Global Crypto Theft",
-      "url": "https://thehackernews.com/2025/12/north-korea-linked-hackers-steal-202.html",
-      "published": "2025-12-18T13:00:00+00:00",
-      "summary": "Threat actors with ties to the Democratic People's Republic of Korea (DPRK or North Korea) have been instrumental in driving a surge in global cryptocurrency theft in 2025, accounting for at least $2.02 billion out of more than $3.4 billion stolen from January through early December.\nThe figure represents a 51% increase year-over-year and $681 million more than 2024, when the threat actors stole",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMHTdmzsADACELwHA_CbIZVsam4MNGitGEgbHD2jOysPFLnZerWmRSZtTJzSkOJagPS8pmFni0SE8Jp63CEMJFDTjnNx51ND6Px3RCC5W37i61m_PrgB7T5KoghRqtVCvy6A0Bx4LVnZFEm8CijNS2RxOlxeC_3roMiJRqe9bWn2N92dj77mjYsGptVWUS/s1600/north-korean-hackers.jpg"
     },
     {
       "id": "ff75da6c87322775384543238c79a522bc114688",
@@ -1212,6 +1212,17 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt60aa118a62258b6f/693b2e2634e2d68b87652d80/Hamas_logo-Ralf_Liebhold-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
+      "id": "18e29f8e22b5e6311f4cd92b265619aba9e255b3",
+      "title": "Cisco XDR in 30: Turning Security Signals Into Confident Action",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/01/02/cisco-xdr-in-30/",
+      "published": "2026-01-02T08:00:14+00:00",
+      "summary": "<h4>How network-led Cisco XDR helps teams see threats clearly and respond faster</h4> <p><strong>Sponsored Post</strong>\u00a0 Security teams are being asked to do more with less, while the environments they protect continue to grow in size and complexity. Alerts arrive from dozens of tools, each offering a partial view of risk. The real challenge is no longer finding potential threats, but deciding which ones matter and how quickly to act.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "ea0019dbcf48097dbb3fa85d6a249fd87f1fe200",
       "title": "European Space Agency hit again as cybercrims claim 200 GB data up for sale",
       "url": "https://go.theregister.com/feed/www.theregister.com/2025/12/31/european_space_agency_hacked/",
@@ -1751,17 +1762,6 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "b2ffc1d60cd7f89819c628b6da690e817c680895",
-      "title": "Blockchain company Nomad to repay users under FTC deal after $186M cyberattack",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/12/17/nomad_ftc_settlement/",
-      "published": "2025-12-17T16:03:39+00:00",
-      "summary": "<h4>Regulator makes various additional demands over alleged cybersecurity failings</h4> <p>In proposing a settlement agreement, the Federal Trade Commission (FTC) says that Illusory Systems must repay users funds lost in a 2022 cyberattack.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
       "id": "cade45bd05cff881c7e23c6ca712511510b4cb9b",
       "title": "Happy 16th Birthday, KrebsOnSecurity.com!",
       "url": "https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/",
@@ -1828,6 +1828,50 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "09f2874f58a066f4c8fd6dbd77db84d7e161407d",
+      "title": "Two US Cybersecurity Pros Plead Guilty Over Ransomware Attacks",
+      "url": "https://www.securityweek.com/two-us-cybersecurity-pros-plead-guilty-over-ransomware-attacks/",
+      "published": "2026-01-02T12:08:33+00:00",
+      "summary": "<p>Ryan Goldberg and Kevin Martin have admitted being affiliates of the BlackCat/Alphv ransomware group.</p>\n<p>The post <a href=\"https://www.securityweek.com/two-us-cybersecurity-pros-plead-guilty-over-ransomware-attacks/\">Two US Cybersecurity Pros Plead Guilty Over Ransomware Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "cea5897803648d6207dfd3abe59335efa8d32801",
+      "title": "RondoDox Botnet Exploiting React2Shell Vulnerability",
+      "url": "https://www.securityweek.com/rondodox-botnet-exploiting-react2shell-vulnerability/",
+      "published": "2026-01-02T11:12:02+00:00",
+      "summary": "<p>In December, the botnet\u2019s operators focused on weaponizing the flaw to compromise vulnerable Next.js servers.</p>\n<p>The post <a href=\"https://www.securityweek.com/rondodox-botnet-exploiting-react2shell-vulnerability/\">RondoDox Botnet Exploiting React2Shell Vulnerability</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "672d0f96525a533bb1df3205c647e9c2748a9077",
+      "title": "Covenant Health Data Breach Impacts 478,000 Individuals",
+      "url": "https://www.securityweek.com/covenant-health-data-breach-impacts-478000-individuals/",
+      "published": "2026-01-02T10:20:06+00:00",
+      "summary": "<p>The Qilin ransomware group hacked the healthcare organization and stole data from its systems in May 2025.\u00a0</p>\n<p>The post <a href=\"https://www.securityweek.com/covenant-health-data-breach-impacts-478000-individuals/\">Covenant Health Data Breach Impacts 478,000 Individuals</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "8d4e574c9f39fa0f32dd500f0ea05567b0d71204",
+      "title": "Adobe ColdFusion Servers Targeted in Coordinated Campaign",
+      "url": "https://www.securityweek.com/adobe-coldfusion-servers-targeted-in-coordinated-campaign/",
+      "published": "2026-01-02T10:11:04+00:00",
+      "summary": "<p>GreyNoise has observed thousands of requests targeting a dozen vulnerabilities in Adobe ColdFusion during the Christmas 2025 holiday.</p>\n<p>The post <a href=\"https://www.securityweek.com/adobe-coldfusion-servers-targeted-in-coordinated-campaign/\">Adobe ColdFusion Servers Targeted in Coordinated Campaign</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "29f9c123bd373c86da368426ee509f328d93a3dc",
       "title": "Shai-Hulud Supply Chain Attack Led to $8.5 Million Trust Wallet Heist",
       "url": "https://www.securityweek.com/shai-hulud-supply-chain-attack-led-to-8-5-million-trust-wallet-heist/",
@@ -1888,50 +1932,6 @@
       "url": "https://www.securityweek.com/top-us-accounting-firm-sax-discloses-2024-data-breach-impacting-220000/",
       "published": "2025-12-29T15:40:36+00:00",
       "summary": "<p>It took Sax well over a year to complete its investigation after detecting hackers on its network.</p>\n<p>The post <a href=\"https://www.securityweek.com/top-us-accounting-firm-sax-discloses-2024-data-breach-impacting-220000/\">Top US Accounting Firm Sax Discloses 2024 Data Breach Impacting 220,000</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "470a24d4ec9c1fb1fa94e6e8ff56fe3284efaf40",
-      "title": "Fortinet Warns of New Attacks Exploiting Old Vulnerability",
-      "url": "https://www.securityweek.com/fortinet-warns-of-new-attacks-exploiting-old-vulnerability/",
-      "published": "2025-12-29T12:52:49+00:00",
-      "summary": "<p>Tracked as CVE-2020-12812, the exploited FortiOS flaw allows threat actors to bypass two-factor authentication.</p>\n<p>The post <a href=\"https://www.securityweek.com/fortinet-warns-of-new-attacks-exploiting-old-vulnerability/\">Fortinet Warns of New Attacks Exploiting Old Vulnerability</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "8ba0200ebea7162e8f041c1ffbeaf50f857a6785",
-      "title": "Coupang to Issue $1.17 Billion in Vouchers Over Data Breach",
-      "url": "https://www.securityweek.com/coupang-to-issue-1-17-billion-in-vouchers-over-data-breach/",
-      "published": "2025-12-29T12:13:11+00:00",
-      "summary": "<p>The ecommerce giant will provide purchase vouchers to the 33.7 million individuals impacted by the incident.</p>\n<p>The post <a href=\"https://www.securityweek.com/coupang-to-issue-1-17-billion-in-vouchers-over-data-breach/\">Coupang to Issue $1.17 Billion in Vouchers Over Data Breach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "3cef4d5f53f7b059409091c282e708806b9eb62f",
-      "title": "22 Million Affected by Aflac Data Breach",
-      "url": "https://www.securityweek.com/22-million-affected-by-aflac-data-breach/",
-      "published": "2025-12-29T11:57:08+00:00",
-      "summary": "<p>Hackers stole names, addresses, Social Security numbers, ID numbers, and medical and health insurance information from Aflac\u2019s systems.</p>\n<p>The post <a href=\"https://www.securityweek.com/22-million-affected-by-aflac-data-breach/\">22 Million Affected by Aflac Data Breach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "5e5be762613ef7bdf54cb2d90a6d697d516c9ec0",
-      "title": "Infostealer Malware Delivered in EmEditor Supply Chain Attack",
-      "url": "https://www.securityweek.com/infostealer-malware-delivered-in-emeditor-supply-chain-attack/",
-      "published": "2025-12-29T11:21:22+00:00",
-      "summary": "<p>The \u2018download\u2019 button on the official EmEditor website served a malicious installer.</p>\n<p>The post <a href=\"https://www.securityweek.com/infostealer-malware-delivered-in-emeditor-supply-chain-attack/\">Infostealer Malware Delivered in EmEditor Supply Chain Attack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
