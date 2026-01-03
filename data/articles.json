@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-02T12:17:53.541285+00:00",
+  "generated_at": "2026-01-03T00:43:51.589565+00:00",
   "items": [
     {
       "id": "d9f580896d119bcf48cc6aefc30e7a248120e69b",
@@ -110,6 +110,17 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "213da710e699a769eaeb83ccff5c0a6a275af2f3",
+      "title": "Transparent Tribe Launches New RAT Attacks Against Indian Government and Academia",
+      "url": "https://thehackernews.com/2026/01/transparent-tribe-launches-new-rat.html",
+      "published": "2026-01-02T13:52:00+00:00",
+      "summary": "The threat actor known as Transparent Tribe has been attributed to a fresh set of attacks targeting Indian governmental, academic, and strategic entities with a remote access trojan (RAT) that grants them persistent control over compromised hosts.\n\"The campaign employs deceptive delivery techniques, including a weaponized Windows shortcut (LNK) file masquerading as a legitimate PDF document",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaFyRmyuVgO_C0sj1T6dS6xOHtQzLfUUckXuj31BDmfIdvD6xMza5hxryu06NflKvAWIOrqiIl5qZRQRuiTXiRoGkzSSCmfffHmkoW6w1yu7wWkXbk3YnnPQojFwLfDhnCvmjU063dxagQoIPFtiyxLoBP-V36reDJ7__kmAZQ5UD4Ybva-cvjDryruo2W/s1600/india.jpg"
     },
     {
       "id": "b358cb0ff700e0fae7617a13ed49ecb184d4b5b1",
@@ -651,15 +662,26 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJfevEjiw45l8FjqjN4eMMwYTeqYN2gxYbOh_-KfWdfb01nRTY2z1Qa0FQkQr6wLEeHJIvzIeqTKjynV1U01qxNNV3XhJbxkMYJnQflKTRgkdFsRezoOlVq_XVGOCq1aIh57xMt8xSUQeVLx3Mvyn0fZORpICrNdkRDbbmgVmqXnMMHzIw9_WsAM4MO_As/s1600/chinese-hackers.jpg"
     },
     {
-      "id": "105add5a6f7d9d13d38ba1a0b870e6b89840a77f",
-      "title": "HPE OneView Flaw Rated CVSS 10.0 Allows Unauthenticated Remote Code Execution",
-      "url": "https://thehackernews.com/2025/12/hpe-oneview-flaw-rated-cvss-100-allows.html",
-      "published": "2025-12-18T14:39:00+00:00",
-      "summary": "Hewlett Packard Enterprise (HPE) has resolved a maximum-severity security flaw in OneView Software that, if successfully exploited, could result in remote code execution.\nThe critical vulnerability, assigned the CVE identifier CVE-2025-37164, carries a CVSS score of 10.0. HPE OneView is an IT infrastructure management software that streamlines IT operations and controls all systems via a",
-      "source": "The Hacker News",
+      "id": "9d7676956e93280744b1e9b26a03442de89716aa",
+      "title": "Cybersecurity Predictions for 2026: Navigating the Future of Digital Threats",
+      "url": "https://www.darkreading.com/threat-intelligence/cybersecurity-predictions-for-2026-navigating-the-future-of-digital-threats",
+      "published": "2026-01-02T14:00:00+00:00",
+      "summary": "Cybersecurity experts discuss 2026 predictions, highlighting the rise of AI-driven threats, the shift to resilience over prevention, and the urgent need for advanced security measures to combat evolving risks",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhH806nHTdXt51O7PVip7PNV2XCDB4KCOygYB69A4vwOOjVyK1B_3cNesAvljNSzuj-lAmCe8AgIgrwQtK7fuOckkB4hj1QQ-tYq4OI8lrvsz30cNzfjrOF8b5qiT_wEpAlsvEGa68zHG0dtl2CZK6hz7MpW-W6ZlPRgj7PGMIa-n38VlwbOhHfip4cTTrY/s1600/hpe.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1b218e107bc27d9c/6944ce944152047a75f028fd/back2thefuture1800_Pictorial_Press_Ltd_alamy_2.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
+      "id": "cffc41464a0aecc21861b7c927803f7003d2b812",
+      "title": "CTO New Year Resolutions for a More Secure 2026",
+      "url": "https://www.darkreading.com/cyber-risk/cto-new-year-resolutions-for-a-more-secure-2026",
+      "published": "2026-01-02T13:55:02+00:00",
+      "summary": "From securing MCPs and supply chain defenses to formal AI and quantum governance, experts share their wish lists for cyber safety in 2026.",
+      "source": "DarkReading",
+      "region": "North America",
+      "country": "US",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt97a141212ba04f79/6957c64d6eb3d1b0a75e8357/sparklers-resolutions-free-photos-pixabay.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "id": "ff75da6c87322775384543238c79a522bc114688",
@@ -688,7 +710,7 @@
       "title": "Identity Security 2026: Four Predictions &amp; Recommendations",
       "url": "https://www.darkreading.com/identity-access-management-security/identity-security-2026-predictions-and-recommendations",
       "published": "2025-12-31T14:00:58+00:00",
-      "summary": "Agentic AI adoption and identity security risks, IGA expands in mid-market, SOC-identity team collaboration, and identity platform consolidation\u2014this 2026 predictions post previews identity trends.",
+      "summary": "Agentic AI adoption and identity security risks, IGA expands in mid-market, SOC-identity team collaboration, and identity platform consolidation \u2014 this 2026 predictions post previews identity trends.",
       "source": "DarkReading",
       "region": "North America",
       "country": "US",
@@ -1190,26 +1212,48 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltcaeb14971d491b65/693c63ed866c62aa4b94c373/collaboration-BullRun-AdobeStock_302947168CP.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "2f9fcba18744637dda92ffb8e406a176a4fc8563",
-      "title": "Are Trade Concerns Trumping US Cybersecurity?",
-      "url": "https://www.darkreading.com/cyber-risk/trade-concerns-trumping-cybersecurity",
-      "published": "2025-12-12T14:00:00+00:00",
-      "summary": "The Trump administration appears to have dropped sanctions against Chinese actors for the Salt Typhoon attacks on US telecoms; but focusing on diplomacy alone misses the full picture, experts say.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt81971806f6f2a3c4/685dafc030ac794556cdd521/china-us-flags-conflict-helloRuby-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "id": "23557a8a4553030388d0d22d248d035cbd975848",
+      "title": "Bitfinex crypto thief who was serving five years thanks Trump for early release",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/01/02/bitfinex_crypto_thief_released/",
+      "published": "2026-01-02T20:22:04+00:00",
+      "summary": "<h4>Netflix documentary part 2 in the works?</h4> <p>Ilya Lichtenstein, who pleaded guilty to money-laundering charges tied to the 2016 theft of about 120,000 bitcoins from the Bitfinex exchange and was sentenced to five years in prison, has been released after roughly 14 months in the slammer.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "7542f20ac9a8ce7abf26e46a59880cd3354e1b2c",
-      "title": "Hamas-Linked Hackers Probe Middle Eastern Diplomats",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/hamas-hackers-middle-eastern-diplomats",
-      "published": "2025-12-12T07:00:00+00:00",
-      "summary": "Hamas's best hackers have been maturing, building better malware, and spreading their attacks more widely across the region.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt60aa118a62258b6f/693b2e2634e2d68b87652d80/Hamas_logo-Ralf_Liebhold-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "id": "b7960770dd6c27d76d1379e349924fef6fd0283e",
+      "title": "Cybercrook claims to be selling infrastructure info about three major US utilities",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/01/02/critical_utility_files_for_sale/",
+      "published": "2026-01-02T18:34:24+00:00",
+      "summary": "<h4>For the bargain price of 6.5 bitcoin</h4> <p>A cybercrook claims to have breached Pickett and Associates, a Florida-based engineering firm whose clients include major US utilities, and is selling what they claim to be about 139 GB of engineering data about Tampa Electric Company, Duke Energy Florida, and American Electric Power.\u00a0The price is 6.5 bitcoin, which amounts to about $585,000.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "17bf3df31076b2f879deb9dfa8c108b12299f4b6",
+      "title": "Brit lands invite-only Aussie visa after uncovering vuln in government systems",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/01/02/brit_security_australia_visa/",
+      "published": "2026-01-02T16:11:53+00:00",
+      "summary": "<h4>Jacob Riggs is set to swap London for Sydney some time in the next year</h4> <p>A British security researcher has secured Australia's strictest, invite-only visa after discovering a critical vulnerability in a government system.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "238393faaf61971818c126df60fd5d38f119e929",
+      "title": "LockBit takedown architect gets New Year award from King Charles",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/01/02/nca_new_year_honours/",
+      "published": "2026-01-02T12:26:06+00:00",
+      "summary": "<h4>Gavin Webb orchestrated Operation Cronos as it pulled off the legendary disruption sting</h4> <p>A senior British crimefighter has been awarded one of the country's highest tributes for public service for his role in the 2024 LockBit ransomware takedown.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
       "id": "18e29f8e22b5e6311f4cd92b265619aba9e255b3",
@@ -1718,47 +1762,14 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "ebfc644603eb91b829cd3511d6f60b3487fcee59",
-      "title": "DVSA's clapped-out booking system gets bot slapped as new boss rides in",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/12/18/dvsa_bot_booking/",
-      "published": "2025-12-18T09:38:26+00:00",
-      "summary": "<h4>18-year-old platform crumbles under 94M daily requests while resellers flog \u00a362 tests for \u00a3500</h4> <p>The UK's Driver and Vehicle Standards Agency (DVSA) has appointed a new chief exec to tackle spiraling waits for practical driving tests with bots overrunning its aging booking system.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "5bc0e6ebbdc3ff03d3d712f0f56b81a4fd01aa6a",
-      "title": "UK surveillance law still full of holes, watchdog warns",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/12/18/snoopers_charter_loopholes/",
-      "published": "2025-12-18T09:15:12+00:00",
-      "summary": "<h4>Investigatory Powers Commissioner says reforms have failed to close oversight gaps</h4> <p>The UK's Investigatory Powers Act 2016 (IPA) has several regulatory gaps that must be plugged in future legislative reforms, according to Investigatory Powers Commissioner (IPC) Sir Brian Leveson.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "e56267cd153dc3050ee2effd6a2996fb1b6fd324",
-      "title": "Attacks pummeling Cisco AsyncOS 0-day since late November",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/12/17/attacks_pummeling_cisco_0day/",
-      "published": "2025-12-17T22:51:46+00:00",
-      "summary": "<h4>No timeline for a patch</h4> <p>Suspected Chinese-government-linked threat actors have been battering a maximum-severity Cisco AsyncOS zero-day vulnerability in some Secure Email Gateway (SEG) and Secure Email and Web Manager (SEWM) appliances for nearly a month, and there's no timeline for a fix.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "30309ed72c3178e9195754293f9acf4551da756d",
-      "title": "CEO spills the Tea about massive token farming campaigns",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/12/17/tea_ceo_fends_off_token_farmers/",
-      "published": "2025-12-17T22:29:10+00:00",
-      "summary": "<h4>Plus: automated SBOMs, $250,000 bounties ahead</h4> <p><strong>interview</strong>\u00a0 No good idea - like rewarding open source software developers and maintainers for their contributions - goes unabused by cybercriminals, and this was the case with the Tea Protocol and two token farming campaigns.\u2026</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
+      "id": "952bf7ba348eb8e2086e37a1cf1b8ef8c6fcc1b2",
+      "title": "The Kimwolf Botnet is Stalking Your Local Network",
+      "url": "https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/",
+      "published": "2026-01-02T14:20:10+00:00",
+      "summary": "The story you are reading is a series of scoops nestled inside a far more urgent Internet-wide security advisory. The vulnerability at issue has been exploited for months already, and it's time for a broader awareness of the threat. The short version is that everything you thought you knew about the security of the internal network behind your Internet router probably is now dangerously out of date.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
