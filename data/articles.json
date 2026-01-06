@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-06T00:47:22.123647+00:00",
+  "generated_at": "2026-01-06T12:19:02.245711+00:00",
   "items": [
     {
       "id": "92f677332ff77737f79431c1cc5f7a47d4e1fc7d",
@@ -110,6 +110,39 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "7046c0d0b8178ca236f6aa07c6a26972e5d939b5",
+      "title": "What is Identity Dark Matter?",
+      "url": "https://thehackernews.com/2026/01/what-is-identity-dark-matter.html",
+      "published": "2026-01-06T11:30:00+00:00",
+      "summary": "The Invisible Half of the Identity Universe\nIdentity used to live in one place - an LDAP directory, an HR system, a single IAM portal.\nNot anymore. Today, identity is fragmented across SaaS, on-prem, IaaS, PaaS, home-grown, and shadow applications. Each of these environments carries its own accounts, permissions, and authentication flows.\nTraditional IAM and IGA tools govern only the nearly",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimEQJzjgjvmRoxiOvQDswNk4aPb0STZSmlm6rBFlVh7oIWzu0XT-hTarbOhpjAkrNk5HK6JM4WG0zm0JoofGChmxAyJRgYpPghychWIhMDkl1s_LlWzaeYjEcjAPaJI0vZFsBVYEaxtzeYvJljHwLH_6r9Hp5pysms3sNK5NSVtK6CENQWAS0fVxFpXDo/s1600/main.gif"
+    },
+    {
+      "id": "9fdd385e63e6da61f7824a61bdd7045b027f852c",
+      "title": "New n8n Vulnerability (9.9 CVSS) Lets Authenticated Users Execute System Commands",
+      "url": "https://thehackernews.com/2026/01/new-n8n-vulnerability-99-cvss-lets.html",
+      "published": "2026-01-06T05:08:00+00:00",
+      "summary": "A new critical security vulnerability has been disclosed in n8n, an open-source workflow automation platform, that could enable an authenticated attacker to execute arbitrary system commands on the underlying host.\nThe vulnerability, tracked as CVE-2025-68668, is rated 9.9 on the CVSS scoring system. It has been described as a case of a protection mechanism failure.\nIt affects n8n versions from",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjh4kfbdw2kmRhvFRiWagiGm-NomgkxXOVp915lPhU1nQ5FwQq4P08SOOLN7uVSAoojBSuz_sAI7rcgwWvp53esgON2dDVqB7C9EhkxGd5dz6IsZJ-xMLegtI9mAbJBRsidXMjRX3TUBTtPl1iY7Jnh0KhPcJnRggbC8WFgr0w3Fm6zTfIjZYWKBrMZZHna/s1600/flaw-n8n.jpg"
+    },
+    {
+      "id": "9e79634feeab3b7360cb2e7cdfda2661ceee5b00",
+      "title": "Critical AdonisJS Bodyparser Flaw (CVSS 9.2) Enables Arbitrary File Write on Servers",
+      "url": "https://thehackernews.com/2026/01/critical-adonisjs-bodyparser-flaw-cvss.html",
+      "published": "2026-01-06T03:30:00+00:00",
+      "summary": "Users of the \"@adonisjs/bodyparser\" npm package are being advised to update to the latest version following the disclosure of a critical security vulnerability that, if successfully exploited, could allow a remote attacker to write arbitrary files on the server.\nTracked as CVE-2026-21440 (CVSS score: 9.2), the flaw has been described as a path traversal issue affecting the AdonisJS multipart",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzO1cc-SgAdpaPJsJZj5THeCL4mn7tPUZbghNoDdS-5-NM8bsS9s-Rrp3VwPIm0bEP0qP4kasNmPfuo4Thkd1gWc-8tjPHwjb1lfacgHdfFvtPz2RXzqD-Ny9LecUi5kU4NHXxYkjzuAKSvToFOfBQjSwHcA43UzcfY__3PwwgO8muoNhYJ7Qr6qrOSP_U/s1600/adonis-security.jpg"
     },
     {
       "id": "a259942b394956c4d08f0ac958d3917ca84329e7",
@@ -627,39 +660,6 @@
       "region": "North America",
       "country": "US",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDqayh8eTBNeu3P7DDfaRLyYy7oXoTFadgcbgmSHwjlUYyGh8ZxACjv52OqcE-BjUZkFVjd8Fj-Vo49W4o6b2uXa4OkNR1vAB3LOCsrp5SptD9HhO_9dNvOfxH2Zp-QUBUFz94h9mKNDB_lIUvdDMu1v2Pf_ETEGWvYNqfetmTIN0Jppl_QU1M7ycBUAI/s1600/1.jpg"
-    },
-    {
-      "id": "65f678520f9d174616447c7277224e8eb730e19a",
-      "title": "Android Malware Operations Merge Droppers, SMS Theft, and RAT Capabilities at Scale",
-      "url": "https://thehackernews.com/2025/12/android-malware-operations-merge.html",
-      "published": "2025-12-22T06:11:00+00:00",
-      "summary": "Threat actors have been observed leveraging malicious dropper apps masquerading as legitimate applications to deliver an Android SMS stealer dubbed Wonderland in mobile attacks targeting users in Uzbekistan.\n\"Previously, users received 'pure' Trojan APKs that acted as malware immediately upon installation,\" Group-IB said in an analysis published last week. \"Now, adversaries increasingly deploy",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWVgGSYLL-YP_SSvlO7Ggd4xXBMYcq1VWwMSfYjL9s9_o6ewyRXjm9RP0L5EgFMKw8b5azDKhpu66hiT10OeIa54lrYOMcZtk8c8MfbNcq4NSWE4T9pkOyxN6P_yt4sGBdqI6XEFKbLboV1irfJsJO79eyzrN8JavCACeRUv7IoTujepK4K6G9-0S2ua4m/s1600/android-malware.jpg"
-    },
-    {
-      "id": "8c5c0cf6cb8d9224101a2e9a193e544a84378fd5",
-      "title": "Iranian Infy APT Resurfaces with New Malware Activity After Years of Silence",
-      "url": "https://thehackernews.com/2025/12/iranian-infy-apt-resurfaces-with-new.html",
-      "published": "2025-12-21T04:22:00+00:00",
-      "summary": "Threat hunters have discerned new activity associated with an Iranian threat actor known as Infy (aka Prince of Persia), nearly five years after the hacking group was observed targeting victims in Sweden, the Netherlands, and Turkey.\n\"The scale of Prince of Persia's activity is more significant than we originally anticipated,\" Tomer Bar, vice president of security research at SafeBreach, said",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHegtv-omZYW79shLsEk_Vh8OqZ0lziJ2eEH1ADUh6S26O4zAQVpJ0RPi4Y8sOn1QCZNMVMwJoz8_9KxEGiDsef2EUlIPqPEakq3DA5gNpJGlqRHspRCVBRtZM-9ur6CtAPdwtj57Acs2U3HXg2IV6RWyK51gp-L6VZywbKe3GHWqSyeXzi8UZSkFkmtd6/s1600/desk.jpg"
-    },
-    {
-      "id": "c8c9425ed1a9c28b600510f0117a42e0817667bd",
-      "title": "U.S. DOJ Charges 54 in ATM Jackpotting Scheme Using Ploutus Malware",
-      "url": "https://thehackernews.com/2025/12/us-doj-charges-54-in-atm-jackpotting.html",
-      "published": "2025-12-20T13:48:00+00:00",
-      "summary": "The U.S. Department of Justice (DoJ) this week announced the indictment of 54 individuals in connection with a multi-million dollar ATM jackpotting scheme.\nThe large-scale conspiracy involved deploying malware named Ploutus to hack into automated teller machines (ATMs) across the U.S. and force them to dispense cash. The indicted members are alleged to be part of Tren de Aragua (TdA, Spanish for",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgK2cP9lHpEiLS7JATicmiwWuw1qs3WctK2ZALMrG43Z51JnhNcBG2QyRtbyIAsN032vYBZh7-GFDQ-d5R92xrf3hTBuU2cuSUpB0bPD8lnytywyG1harMel1KgOneMliCPammT3TNDZL7mvqpqkdQiFddGGX65iGzM0SLcaPNBQyeSKgK-7P6Bf5XAFIzb/s1600/atm.jpg"
     },
     {
       "id": "1fa22f92be499aa225f3580979b0045d3b38b1b4",
@@ -1212,6 +1212,39 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2f423e90264d26a8/693c77db12ca300e247b043b/maliciouscode_Victor_Koldunov_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
+      "id": "7720a48abc7b7f7db35cfcf3ffc4df8667c46754",
+      "title": "Students bag extended Christmas break after cyber hit on school IT",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/01/06/nuneaton_school_cyberattack/",
+      "published": "2026-01-06T10:55:08+00:00",
+      "summary": "<h4>Phones, email, and core systems knocked out at Higham Lane in Nuneaton</h4> <p>Students at a school in Warwickshire, England, have scored an extended Christmas break after a cyberattack crippled its IT systems, forcing classrooms to close and staff to summon government incident responders.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "02746e93cd0e296382d316d00c69e1d9e59758b0",
+      "title": "UK injects just \u00a3210M into cyber plan to stop Whitehall getting pwnd",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/01/06/government_cyber_action_plan/",
+      "published": "2026-01-06T10:37:45+00:00",
+      "summary": "<h4>Central government will supposedly be as secure as energy facilities and datacenters under new proposals</h4> <p>The UK today launches its Government Cyber Action Plan, committing \u00a3210 million ($282 million) to strengthen defenses across digital public services and hold itself to the same cybersecurity standards it's imposing on critical infrastructure operators.\u2026</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "ad5a5d4b8f5b8cf569c85233775adf8a6a288f84",
+      "title": "One criminal, 50 hacked organizations, and all because MFA wasn't turned on",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/01/06/50_global_orgs_hacked/",
+      "published": "2026-01-06T07:01:06+00:00",
+      "summary": "<h4>Crim used infostealer to get cloud credentials</h4> <p>If you don't say \"yes way\" to MFA, the consequences can be disastrous. Sensitive data belonging to about 50 global enterprises is listed for sale \u2013 and, in some cases, has already been sold \u2013 on the dark web following a major infostealer campaign, with apparent victims including American utility engineering firm Pickett and Associates; Japan's homebuilding giant Sekisui House; and Spain's largest airline Iberia.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "14bbc58b5f991b3c4b322c7bfdb917697d8f84cd",
       "title": "Congrats, cybercrims: You just fell into a honeypot",
       "url": "https://go.theregister.com/feed/www.theregister.com/2026/01/05/resecurity_honeypot_shinyhunters/",
@@ -1729,39 +1762,6 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "2ea76065d3e36b0c86ef8ba0ef5cbec38d675635",
-      "title": "China turns on a vast experimental network it says is an heir to ARPANET",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/12/19/china_environment_for_network_innovation/",
-      "published": "2025-12-19T02:59:34+00:00",
-      "summary": "<h4>Beijing wants to 'seize the initiative in the international competition in cyberspace'</h4> <p>Chinese authorities on Thursday certified the China Environment for Network Innovation (CENI), a vast research network that Beijing hopes will propel the country to the forefront of networking research.\u2026</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "1f9e7bdc1497370a4b137898d57ca3b20a73e719",
-      "title": "Amazon blocked 1,800 suspected North Korean scammers seeking jobs",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/12/18/amazon_blocked_fake_dprk_workers/",
-      "published": "2025-12-18T23:39:13+00:00",
-      "summary": "<h4>Plus: Lazarus Group has a brand new BeaverTail</h4> <p>Even Amazon isn't immune to North Korean scammers who try to score remote jobs at tech companies so they can funnel their wages to Kim Jong Un's coffers.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "689aed42b433d588e156f7aec3af9f9d53d8d9ba",
-      "title": "Your car\u2019s web browser may be on the road to cyber ruin",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/12/18/web_browsers_in_devices_security_vulnerabilities/",
-      "published": "2025-12-18T20:13:00+00:00",
-      "summary": "<h4>Study finds built-in browsers across gadgets often ship years out of date</h4> <p>Web browsers for desktop and mobile devices tend to receive regular security updates, but that often isn't the case for those that reside within game consoles, televisions, e-readers, cars, and other devices. These outdated, embedded browsers can leave you open to phishing and other security vulnerabilities.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
       "id": "952bf7ba348eb8e2086e37a1cf1b8ef8c6fcc1b2",
       "title": "The Kimwolf Botnet is Stalking Your Local Network",
       "url": "https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/",
@@ -1812,6 +1812,28 @@
       "published": "2025-12-09T23:18:29+00:00",
       "summary": "Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software. This final Patch Tuesday of 2025 tackles one zero-day bug that is already being exploited, as well as two publicly disclosed vulnerabilities.",
       "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "d78dfc071d2d03de0f4837920e8d61cd96f6e410",
+      "title": "NordVPN Denies Breach After Hacker Leaks Data",
+      "url": "https://www.securityweek.com/nordvpn-denies-breach-after-hacker-leaks-data/",
+      "published": "2026-01-06T11:24:11+00:00",
+      "summary": "<p>The VPN company has conducted an investigation after a threat actor claimed to have hacked its systems.\u00a0</p>\n<p>The post <a href=\"https://www.securityweek.com/nordvpn-denies-breach-after-hacker-leaks-data/\">NordVPN Denies Breach After Hacker Leaks Data</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "411e26bc2c8d37e838f93b426ece739712cc6006",
+      "title": "Cybersecurity M&A Roundup: 30 Deals Announced in December 2025",
+      "url": "https://www.securityweek.com/cybersecurity-ma-roundup-30-deals-announced-in-december-2025/",
+      "published": "2026-01-06T09:02:06+00:00",
+      "summary": "<p>Significant cybersecurity M&#038;A deals announced by Akamai, Red Hat, Checkmarx, Silent Push, and ServiceNow.</p>\n<p>The post <a href=\"https://www.securityweek.com/cybersecurity-ma-roundup-30-deals-announced-in-december-2025/\">Cybersecurity M&#038;A Roundup: 30 Deals Announced in December 2025</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
@@ -1899,28 +1921,6 @@
       "url": "https://www.securityweek.com/two-us-cybersecurity-pros-plead-guilty-over-ransomware-attacks/",
       "published": "2026-01-02T12:08:33+00:00",
       "summary": "<p>Ryan Goldberg and Kevin Martin have admitted being affiliates of the BlackCat/Alphv ransomware group.</p>\n<p>The post <a href=\"https://www.securityweek.com/two-us-cybersecurity-pros-plead-guilty-over-ransomware-attacks/\">Two US Cybersecurity Pros Plead Guilty Over Ransomware Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "cea5897803648d6207dfd3abe59335efa8d32801",
-      "title": "RondoDox Botnet Exploiting React2Shell Vulnerability",
-      "url": "https://www.securityweek.com/rondodox-botnet-exploiting-react2shell-vulnerability/",
-      "published": "2026-01-02T11:12:02+00:00",
-      "summary": "<p>In December, the botnet\u2019s operators focused on weaponizing the flaw to compromise vulnerable Next.js servers.</p>\n<p>The post <a href=\"https://www.securityweek.com/rondodox-botnet-exploiting-react2shell-vulnerability/\">RondoDox Botnet Exploiting React2Shell Vulnerability</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "672d0f96525a533bb1df3205c647e9c2748a9077",
-      "title": "Covenant Health Data Breach Impacts 478,000 Individuals",
-      "url": "https://www.securityweek.com/covenant-health-data-breach-impacts-478000-individuals/",
-      "published": "2026-01-02T10:20:06+00:00",
-      "summary": "<p>The Qilin ransomware group hacked the healthcare organization and stole data from its systems in May 2025.\u00a0</p>\n<p>The post <a href=\"https://www.securityweek.com/covenant-health-data-breach-impacts-478000-individuals/\">Covenant Health Data Breach Impacts 478,000 Individuals</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
