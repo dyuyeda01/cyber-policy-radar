@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-07T00:46:53.329177+00:00",
+  "generated_at": "2026-01-07T12:19:30.250099+00:00",
   "items": [
     {
       "id": "bd1961212fe37424ab94f789c00b7c5e642787b1",
@@ -110,6 +110,72 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "62fd477654d8becc7fdd6e9592dfc7bd4711ae6a",
+      "title": "Webinar: Learn How AI-Powered Zero Trust Detects Attacks with No Files or Indicators",
+      "url": "https://thehackernews.com/2026/01/webinar-learn-how-ai-powered-zero-trust.html",
+      "published": "2026-01-07T11:55:00+00:00",
+      "summary": "Security teams are still catching malware. The problem is what they're not catching.\nMore attacks today don't arrive as files. They don't drop binaries. They don't trigger classic alerts. Instead, they run quietly through tools that already exist inside the environment \u2014 scripts, remote access, browsers, and developer workflows.\nThat shift is creating a blind spot.\nJoin us for a deep-dive",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhi9E2QJsYrvm3dqEopONz5kjVfdtq2x9G7xmpCyYyijQ9R0NbcGLLX4GJypIXBWFVLBIflmcF47QObTpLJxoqP-cE20PgR9v9Of_BhpD9tEVBkuF_RpiAufDanr3ClW-ivhdfr1oh7a8r2gO-N8m7M1Mv3ztVK6cjQD_ARlJKdDjBV30C7v9x4QMa4uolg/s1600/cyberthreat.jpg"
+    },
+    {
+      "id": "c4163baf07c87a0be704de9542502bc13d15a6b3",
+      "title": "n8n Warns of CVSS 10.0 RCE Vulnerability Affecting Self-Hosted and Cloud Versions",
+      "url": "https://thehackernews.com/2026/01/n8n-warns-of-cvss-100-rce-vulnerability.html",
+      "published": "2026-01-07T11:26:00+00:00",
+      "summary": "Open-source workflow automation platform n8n has warned of a maximum-severity security flaw that, if successfully exploited, could result in authenticated remote code execution (RCE).\nThe vulnerability, which has been assigned the CVE identifier CVE-2026-21877, is rated 10.0 on the CVSS scoring system.\n\"Under certain conditions, an authenticated user may be able to cause untrusted code to be",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiafpcLSwwnkKivk1KL4R92i5R3wIeXrHe7OiXMYG6qyx9YZAxl74FH1pnaNUgjwJZ-XUHw4fCoDufnEbb9B_dMNH4qsjmDAe9afDJc_YpTi-vKpxcbnwVWtadtkoJL_Dtqg_piby9p9LULtjk3jrgZTYunG5D5_mQuAJQa1SHPHnP5zgGMOIPa7vg005c7/s1600/n8n.jpg"
+    },
+    {
+      "id": "3d2e90d3eaf9b5bc55c28197e0efcbd09d05bb60",
+      "title": "The Future of Cybersecurity Includes Non-Human Employees",
+      "url": "https://thehackernews.com/2026/01/the-future-of-cybersecurity-includes.html",
+      "published": "2026-01-07T11:00:00+00:00",
+      "summary": "Non-human employees are becoming the future of cybersecurity, and enterprises need to prepare accordingly. As organizations scale Artificial Intelligence (AI) and cloud automation, there is exponential growth in Non-Human Identities (NHIs), including bots, AI agents, service accounts and automation scripts. In fact, 51% of respondents in ConductorOne\u2019s 2025 Future of Identity Security Report",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkiUvCH8FmVQqzbY2bGi6CJGsbrnr5MZ3rJH6vFxhyIAeuPvl-sx7ZUtjbaIbfJMjZkpHRYY8d2GBtobRF8W8JAinRMQ1JImmAKzS696J2gkYBuXFkkh1Hi0VLFVx9ARSlEPD-52BAZDGWD2QcCRQvOXmbDAycx4zRbULCNCcBUgG2sP6YSzQshZdbKRs/s1600/non-human-employees.jpg"
+    },
+    {
+      "id": "715db2893ee196f5347272af468f3caa23ab216e",
+      "title": "Veeam Patches Critical RCE Vulnerability with CVSS 9.0 in Backup & Replication",
+      "url": "https://thehackernews.com/2026/01/veeam-patches-critical-rce.html",
+      "published": "2026-01-07T10:41:00+00:00",
+      "summary": "Veeam has released security updates to address multiple flaws in its Backup &amp; Replication software, including a \"critical\" issue that could result in remote code execution (RCE).\nThe vulnerability, tracked as CVE-2025-59470, carries a CVSS score of 9.0.\n\"This vulnerability allows a Backup or Tape Operator to perform remote code execution (RCE) as the postgres user by sending a malicious",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYNBaEaqMpnYMFHKFEedrGcP4HSZ_2-sa5EjqnE0U1Hh_9-d2iu_UtCTxHavvjHYZq54fIa9Q3lyaXdHSH25-vn5kLz97muKX6Y8k8U4PG4Wer42axNEzxMsOeRq_1x4SUKvZCRQ4fBAmx7zWu2z2IkE5RTD8oW69YnKwn_K8AtXuC1eK2juaOVxg5QqeV/s1600/veeam.jpg"
+    },
+    {
+      "id": "9ae123d99d4c1b7ddd9121c9207d326704d936d4",
+      "title": "Microsoft Warns Misconfigured Email Routing Can Enable Internal Domain Phishing",
+      "url": "https://thehackernews.com/2026/01/microsoft-warns-misconfigured-email.html",
+      "published": "2026-01-07T09:42:00+00:00",
+      "summary": "Threat actors engaging in phishing attacks are exploiting routing scenarios and misconfigured spoof protections to impersonate organizations' domains and distribute emails that appear as if they have been sent internally.\n\"Threat actors have leveraged this vector to deliver a wide variety of phishing messages related to various phishing-as-a-service (PhaaS) platforms such as Tycoon 2FA,\" the",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHZJ_x-tDf2JaX7jVZDlS1KTcw7PnwLR03qRgpIHRBtIvLNIybJd8Gw058LyQyjV73UUJy39rcTziPgH9B1cqkTeOMF5zn7GstRSXG-MV1kWEfbnsACIM7VDbodevFXrvnYQjZjQMmicjj16dM6nb1tUEhsoDSQ5UOFAGpaG3P0XCpR5s5nazAf9npmgge/s1600/email-phishing.jpg"
+    },
+    {
+      "id": "2f2be6ed6c58590c4f0827a827245dd6d7d15ea8",
+      "title": "Ongoing Attacks Exploiting Critical RCE Vulnerability in Legacy D-Link DSL Routers",
+      "url": "https://thehackernews.com/2026/01/active-exploitation-hits-legacy-d-link.html",
+      "published": "2026-01-07T04:31:00+00:00",
+      "summary": "A newly discovered critical security flaw in legacy D-Link DSL gateway routers has come under active exploitation in the wild.\nThe vulnerability, tracked as CVE-2026-0625 (CVSS score: 9.3), concerns a case of command injection in the \"dnscfg.cgi\" endpoint that arises as a result of improper sanitization of user-supplied DNS configuration parameters.\n\"An unauthenticated remote attacker can inject",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheWL4H_fZgt293fAWAIgIuiEKOwhrhBh7P6E26EPey9tV-t5-5uSIW-84Jfg6Uq3UOP8R3RqBC_lj-kBq_X2JnthYUqbpX8pX6zVTLtORbMk_M4OEJp2OHqEpHtVXJrW12DpkgtSrl5vcu-goQ2s9iAAbBMBc6oTWzTzUUvQYABY8bVsNXJ08lQhY60xw2/s1600/router.jpg"
     },
     {
       "id": "b8b546808f4f45f642257cdfbb7ee543029554ca",
@@ -594,72 +660,6 @@
       "region": "North America",
       "country": "US",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_rxN2olFlFlcGsNMy3As2bk-d-rLBC3NwCMPnRM4r5J_zZ2eRFO_XIoavtIONaORSVczKz8bzZP_4bjw_I9qPUvo-bek_ggNDECUHk4kE6Irf26TEjsmuRzWR5b6XvDwRov96e-tXvdTQfTM4Y_-sVi41EAaaOqZ_DchnLSMGWqWfcq4ULi-yznDe2ane/s1600/farud.jpg"
-    },
-    {
-      "id": "b692e1b20b3855ba14e1160a09fa799c9555a2ef",
-      "title": "Italy Fines Apple \u20ac98.6 Million Over ATT Rules Limiting App Store Competition",
-      "url": "https://thehackernews.com/2025/12/italy-fines-apple-986-million-over-att.html",
-      "published": "2025-12-24T06:15:00+00:00",
-      "summary": "Apple has been fined \u20ac98.6 million ($116 million) by Italy's antitrust authority after finding that the company's App Tracking Transparency (ATT) privacy framework restricted App Store competition.\nThe Italian Competition Authority (Autorit\u00e0 Garante della Concorrenza e del Mercato, or AGCM) said the company's \"absolute dominant position\" in app distribution allowed it to \"unilaterally impose\"",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-yTMxyqhDKJOHubGmtYjNDzRluX2F22WXjaSmLgJwG6j0Yna4sk9hTY5HWBTix2_9Zv31mOWkqmP7OlAWR8taN8deV6TJFLG6yYU1Tex4FOx4NQv13_WY0rOWCwDCjYZRI300g0407UzkLZ4uoNX_0EsTE5BnQ-WqCv2CWnpxyNMOSDqic4rCcRtUr9I4/s1600/apple.jpg"
-    },
-    {
-      "id": "853a9e3dc18ad645f816b1983f20246f11b4c18a",
-      "title": "Two Chrome Extensions Caught Secretly Stealing Credentials from Over 170 Sites",
-      "url": "https://thehackernews.com/2025/12/two-chrome-extensions-caught-secretly.html",
-      "published": "2025-12-23T14:42:00+00:00",
-      "summary": "Cybersecurity researchers have discovered two malicious Google Chrome extensions with the same name and published by the same developer that come with capabilities to intercept traffic and capture user credentials.\nThe extensions are advertised as a \"multi-location network speed test plug-in\" for developers and foreign trade personnel. Both the browser add-ons are available for download as of",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4__5ctB3AEUyx20JMtYNXVZZluGKRNFfjiUFh6x6DKegzNVsYHnd5W0aB_Khw7lDQRw5TzJak2NX5GyMwiCfOuvWMREsEwfnSrqgYnheHYUMamMNgJANAZWCKbkjlozi1ARLOWxjGOEAxaUo8_k5V2EweQQy8MBnxrSoNUGigeg5HOoPBWSSN5jHGfem5/s1600/chrome-passwords.jpg"
-    },
-    {
-      "id": "ab03343da637eda2ab3c37e86e434d1f386b96ae",
-      "title": "INTERPOL Arrests 574 in Africa; Ukrainian Ransomware Affiliate Pleads Guilty",
-      "url": "https://thehackernews.com/2025/12/interpol-arrests-574-in-africa.html",
-      "published": "2025-12-23T11:35:00+00:00",
-      "summary": "A law enforcement operation coordinated by INTERPOL has led to the recovery of $3 million and the arrest of 574 suspects by authorities from 19 countries, amidst a continued crackdown on cybercrime networks in Africa.\nThe coordinated effort, named Operation Sentinel, took place between October 27 and November 27, 2025, and mainly focused on business email compromise (BEC), digital extortion, and",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFfCHIDoU0Y0gTgtyYOReNQ25Fbk3iSVfFgc4C2n8KtajPh773Ap4QVIdosJI0I61aVqcUprFNgBXGdjQJuZLyKzZKylPrm1HlSSKMTeyt3AL75pAULMPnxGTZFZHoCVf7iBjDH3C1tn-Qc7CH5b9PtKMTgI9Lq_86Js9aTmAq5521JepCW7D_-4VXZ0cG/s1600/hackersss.jpg"
-    },
-    {
-      "id": "5bae27798940da217ccae740dd551b1c1c80d1dc",
-      "title": "Passwd: A walkthrough of the Google Workspace Password Manager",
-      "url": "https://thehackernews.com/2025/12/passwd-walkthrough-of-google-workspace.html",
-      "published": "2025-12-23T11:30:00+00:00",
-      "summary": "Passwd is designed specifically for organizations operating within Google Workspace. Rather than competing as a general consumer password manager, its purpose is narrow, and business-focused: secure credential storage, controlled sharing, and seamless Workspace integration. The platform emphasizes practicality over feature overload, aiming to provide a reliable system for teams that already rely",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLhfDeq_7RfPzgo2DCfamOFNy5Am9tnj1DD30TuuoStmiD8t12kh21heOGP1BvCX1ggrZe6UydxBkRH9KsK8hx-kJ09pGJ86aWrMqwQmuc1HdQEtnCwf5XtNb4Utdz6nnrLi1MgWBfxo196GOEVdA1UAG1bRHot3WHSRtgqbvnqW54gWh9_z60x-Pel-Q/s1600/passwd-main.png"
-    },
-    {
-      "id": "fbb178addc27c1d5c3ee57ba2f045955b0b8ed5c",
-      "title": "U.S. DoJ Seizes Fraud Domain Behind $14.6 Million Bank Account Takeover Scheme",
-      "url": "https://thehackernews.com/2025/12/us-doj-seizes-fraud-domain-behind-146.html",
-      "published": "2025-12-23T08:15:00+00:00",
-      "summary": "The U.S. Justice Department (DoJ) on Monday announced the seizure of a web domain and database that it said was used to further a criminal scheme designed to target and defraud Americans by means of a bank account takeover scheme.\nThe domain in question, web3adspanels[.]org, was used as a backend web panel to host and manipulate illegally harvested bank login credentials. Users to the website",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxgSipnO1JBRGQ3pPkg6-wpwn7iiEERxPO37SJuXCWagEsDSQeMts_6ZrP-b08mlBs4p4Gaa1pNj-VKDdt4gPr1VObwse-z6wHsSXct3TdJXbOhSJ7ZmG8BpC1uFp64KPMrK1lUNTdmAcObxY_v67D0Zs8XsYQJ2MXik_NduT1zGdxVXI-h-bn4wMCYdM9/s1600/fraud-domain.jpg"
-    },
-    {
-      "id": "434bd30d33ce55d138c76c047f4928077e7ad824",
-      "title": "Critical n8n Flaw (CVSS 9.9) Enables Arbitrary Code Execution Across Thousands of Instances",
-      "url": "https://thehackernews.com/2025/12/critical-n8n-flaw-cvss-99-enables.html",
-      "published": "2025-12-23T07:34:00+00:00",
-      "summary": "A critical security vulnerability has been disclosed in the n8n workflow automation platform that, if successfully exploited, could result in arbitrary code execution under certain circumstances.\nThe vulnerability, tracked as CVE-2025-68613, carries a CVSS score of 9.9 out of a maximum of 10.0. Security researcher Fatih \u00c7elik has been credited with discovering and reporting the flaw. The package",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBiYnSQwGn-M1HD3JnvekqTc6yRC-xmKXBpGn1C-amAc8WPnk-PSGRPabQbJogN7oijKSF8v_3u00bGvP3BUcKToSIRc4W0V5xuXlWCR1Cv3jbqnMF4oZPr9r4j4bDNabp3j5AYeaE7EQQTVqMC-1ZIUbJvA5C6HeHcnb8coA_WISNeq5xj5MIA0bUx3Q4/s1600/n8n.jpg"
     },
     {
       "id": "75ee9fe2a0e98aede7750893c09ad5bf536a3fc9",
@@ -1212,6 +1212,28 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta75787bee51209ca/6940d0ceeaf13f52d784d119/insurancetech-_Rawpixel_Ltd-alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
+      "id": "08d5724535f80a7deedab31980f92b190bc0c370",
+      "title": "Jaguar Land Rover wholesale volumes plummet 43% in cyberattack aftermath",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/01/07/jlr_wholesale_volumes/",
+      "published": "2026-01-07T11:50:46+00:00",
+      "summary": "<h4>Production halts and supply-chain disruption left luxury automaker reeling in fiscal Q3</h4> <p>Brit luxury automaker Jaguar Land Rover has reported devastating preliminary Q3 results that lay bare the cascading consequences of a crippling cyberattack, revealing wholesale volumes collapsed more than two-fifths year-on-year.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "054a316f13998d255da4d2813f7b312f05ff3b0d",
+      "title": "HSBC app takes a dim view of sideloaded Bitwarden installations",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/01/07/hsbc_bitwarden_sideloaded/",
+      "published": "2026-01-07T10:13:11+00:00",
+      "summary": "<h4>Customers report being locked out after grabbing the password manager via F-Droid</h4> <p>Some HSBC mobile banking customers in the UK report being locked out of the bank's app after installing the Bitwarden password manager via an open source app catalog.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "184a3c126b91fbd003302ecf792de5e1f548c647",
       "title": "HackerOne 'ghosted' me for months over $8,500 bug bounty, says researcher",
       "url": "https://go.theregister.com/feed/www.theregister.com/2026/01/07/hackerone_ghosted_researcher/",
@@ -1740,28 +1762,6 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "4345d0a864cd290cd285486d6d0eb1930fd8b1bf",
-      "title": "WatchGuard sounds alarm as critical Firebox flaw comes under active attack",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/12/19/watchguard_firebox/",
-      "published": "2025-12-19T18:16:06+00:00",
-      "summary": "<h4>Newly disclosed vulnerability already being abused, users urged to lock down exposed firewalls</h4> <p>WatchGuard is in emergency patch mode after confirming that a critical remote code execution flaw in its Firebox firewalls is under active attack.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "d52ff7aab90f693f6449d1c3fdabea4013f849fe",
-      "title": "Sydney Uni data goes walkabout after criminals raid code repo",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/12/19/sydney_uni_breach/",
-      "published": "2025-12-19T17:06:14+00:00",
-      "summary": "<h4>Attackers helped themselves to historical personal info on 27K people</h4> <p>The University of Sydney is ringing around thousands of current and former staff and students after admitting attackers helped themselves to historical personal data stashed inside one of its online code repositories.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
       "id": "952bf7ba348eb8e2086e37a1cf1b8ef8c6fcc1b2",
       "title": "The Kimwolf Botnet is Stalking Your Local Network",
       "url": "https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/",
@@ -1812,6 +1812,17 @@
       "published": "2025-12-09T23:18:29+00:00",
       "summary": "Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software. This final Patch Tuesday of 2025 tackles one zero-day bug that is already being exploited, as well as two publicly disclosed vulnerabilities.",
       "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "ef991f0aaf5101de358d17e52ffb4413d1bb5ed2",
+      "title": "Complex Routing, Misconfigurations Exploited for Domain Spoofing in Phishing Attacks",
+      "url": "https://www.securityweek.com/complex-routing-misconfigurations-exploited-for-domain-spoofing-in-phishing-attacks/",
+      "published": "2026-01-07T11:29:23+00:00",
+      "summary": "<p>Threat actors spoof legitimate domains to make their phishing emails appear to have been sent internally.</p>\n<p>The post <a href=\"https://www.securityweek.com/complex-routing-misconfigurations-exploited-for-domain-spoofing-in-phishing-attacks/\">Complex Routing, Misconfigurations Exploited for Domain Spoofing in Phishing Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
@@ -1910,17 +1921,6 @@
       "url": "https://www.securityweek.com/cyberattack-unlikely-in-communications-failure-that-grounded-flights-in-greece/",
       "published": "2026-01-05T17:49:18+00:00",
       "summary": "<p>Flights across Greece were impacted for several hours after noise was reported on multiple air traffic communication channels.</p>\n<p>The post <a href=\"https://www.securityweek.com/cyberattack-unlikely-in-communications-failure-that-grounded-flights-in-greece/\">Cyberattack Unlikely in Communications Failure That Grounded Flights in Greece</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "583e7e29c65c3efe7c9554ab172d47ed088700fa",
-      "title": "Brightspeed Investigating Cyberattack",
-      "url": "https://www.securityweek.com/brightspeed-investigating-cyberattack/",
-      "published": "2026-01-05T17:43:13+00:00",
-      "summary": "<p>The hacking group Crimson Collective has claimed the theft of personal information pertaining to over 1 million Brightspeed customers.</p>\n<p>The post <a href=\"https://www.securityweek.com/brightspeed-investigating-cyberattack/\">Brightspeed Investigating Cyberattack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
