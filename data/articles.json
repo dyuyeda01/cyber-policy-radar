@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-08T00:47:29.083919+00:00",
+  "generated_at": "2026-01-08T12:19:58.511099+00:00",
   "items": [
     {
       "id": "a4c1c85f80c7ec0f4fdababbcf9b845e86012ab5",
@@ -110,6 +110,72 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "64f4ef0912f681b0bf79d12858ad901b8ca0b5b9",
+      "title": "The State of Trusted Open Source",
+      "url": "https://thehackernews.com/2026/01/the-state-of-trusted-open-source.html",
+      "published": "2026-01-08T11:50:00+00:00",
+      "summary": "Chainguard, the trusted source for open source, has a unique view into how modern organizations actually consume open source software and where they run into risk and operational burdens. Across a growing customer base and an extensive catalog of over 1800 container image projects, 148,000 versions, 290,000 images, and 100,000 language libraries, and almost half a billion builds, they can see",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZoKSxRFayxkvrH0IbQJcIVluEGBHP48Adp3NIQ48I_QbNUy3N91tDM6UFfvq-OrbLJkBz91GjwO9Qb_iEtDHgha1j6IYbWqtemdZ19MF0cdUrdtRfZDwf_3QT_gJk1BkqUdxer3wz80NZUw6-hHGdr_hA6LRwSo1zYxa4Q34tGLLCnxiv-xtnSAQYj58/s1600/Chainguard.jpg"
+    },
+    {
+      "id": "6244863914b8ad6dbec5535dfdcc91281870c62c",
+      "title": "Cisco Patches ISE Security Vulnerability After Public PoC Exploit Release",
+      "url": "https://thehackernews.com/2026/01/cisco-patches-ise-security.html",
+      "published": "2026-01-08T10:44:00+00:00",
+      "summary": "Cisco has released updates to address a medium-severity security flaw in Identity Services Engine (ISE) and ISE Passive Identity Connector (ISE-PIC) with a public proof-of-concept (PoC) exploit.\nThe vulnerability, tracked as CVE-2026-20029 (CVSS score: 4.9), resides in the licensing feature and could allow an authenticated, remote attacker with administrative privileges to gain access to",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjybuSkMzO3sPyC2aweCyQ7gBCiWeZ0MKZORj98gSkWfOtEBpzOFHt7hqNsdT1eqWpHyhQfiHHUw9U6sMvAI5Nj7JYfXd-BbxZYhV7AFPY6orjs-g0asPZceU4bBweF1odEupcmfSvxXx8Jsci1v8alq87jE0FJPaE6uYHy39KIBaoYd97VqDPQELznEpwJ/s1600/cisco.jpg"
+    },
+    {
+      "id": "01ae9c4f870198b7af28c3173ca2c6b12976bf78",
+      "title": "Researchers Uncover NodeCordRAT Hidden in npm Bitcoin-Themed Packages",
+      "url": "https://thehackernews.com/2026/01/researchers-uncover-nodecordrat-hidden.html",
+      "published": "2026-01-08T10:31:00+00:00",
+      "summary": "Cybersecurity researchers have discovered three malicious npm packages that are designed to deliver a previously undocumented malware called NodeCordRAT.\nThe names of the packages, all of which were taken down as of November 2025, are listed below. They were uploaded by a user named \"wenmoonx.\"\n\nbitcoin-main-lib (2,300 Downloads)\nbitcoin-lib-js (193 Downloads)\nbip40 (970 Downloads)\n\n\"The",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtexcKpvH8t1IN9Taxc25I-ykg1l98ahAsVYMYGLTw9Yy7W9ULsjlRNgMG0yUOpKRueTn5N36hOYSrgYP_-vZBuUYCzGgVleyQk0bZULbbIPYrfJxLPsZkJBQDjwooYWOllT3ifqBb5_T-JW6WywfZFvtKB2LQPySRO2kmhIfTQgxUSshZwyBNoC1J2nNv/s1600/npm-malware.jpg"
+    },
+    {
+      "id": "2b72ce2c055cdd41f497e77ecdc7cf13c7e16b7e",
+      "title": "Coolify Discloses 11 Critical Flaws Enabling Full Server Compromise on Self-Hosted Instances",
+      "url": "https://thehackernews.com/2026/01/coolify-discloses-11-critical-flaws.html",
+      "published": "2026-01-08T09:53:00+00:00",
+      "summary": "Cybersecurity researchers have disclosed details of multiple critical-severity security flaws affecting Coolify, an open-source, self-hosting platform, that could result in authentication bypass and remote code execution.\nThe list of vulnerabilities is as follows -\n\nCVE-2025-66209 (CVSS score: 10.0) - A command injection vulnerability in the database backup functionality allows any authenticated",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiTPlT13VFHh6Gnrmg0ozwHRlYaVFKySt-BBjowr5Az7KwqG4PXVrH9n_1YTLZpuJHf02fu1TJBTeHKLnDJ3UTzhZR_8ldCYcHRoSoUaqhmj1vrBqDGn3StC_LYhVzLI5S-iFELOqLhnet3zlgB91h5KehCfvyoQ9IQc_MZt_bE-Y3SJ0fvVUAkLVqx6zw/s1600/coolify.jpg"
+    },
+    {
+      "id": "a5e359c7625fcc1cf87a7bdb4dc4b642ccc53d65",
+      "title": "OpenAI Launches ChatGPT Health with Isolated, Encrypted Health Data Controls",
+      "url": "https://thehackernews.com/2026/01/openai-launches-chatgpt-health-with.html",
+      "published": "2026-01-08T06:57:00+00:00",
+      "summary": "Artificial intelligence (AI) company OpenAI on Wednesday announced the launch of ChatGPT Health, a dedicated space that allows users to have conversations with the chatbot about their health.\nTo that end, the sandboxed experience offers users the optional ability to securely connect medical records and wellness apps, including Apple Health, Function, MyFitnessPal, Weight Watchers, AllTrails,",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiG4JjVzaUBhtnt0VrEKyVRib_UrgTLXJAKDFh5laNkMyFhaeJl8PqEHGpBEh34MW4YwNxIDbftlhHFHI56gxVW2RWWYnT9f9dlRpKsuWNFIqV4Xgn9xZegMmow-NFkNUPye8J0iT1nN1QikfsAuSbA2Qi3ZqPEdcEL6sFKl1cgRrxbhWB-Jm9XLAwwwtmy/s1600/chatgpt-health.jpg"
+    },
+    {
+      "id": "f813ed0113af2aa8447b1e08355b71936befb1c2",
+      "title": "CISA Flags Microsoft Office and HPE OneView Bugs as Actively Exploited",
+      "url": "https://thehackernews.com/2026/01/cisa-flags-microsoft-office-and-hpe.html",
+      "published": "2026-01-08T04:52:00+00:00",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added two security flaws impacting Microsoft Office and Hewlett Packard Enterprise (HPE) OneView to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\nThe vulnerabilities are listed below -\n\nCVE-2009-0556 (CVSS score: 8.8) - A code injection vulnerability in Microsoft Office",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEga4BuY0cfkZtUBEs_clNF6tMFR1KPmYrO-dUbtA75BQSRTRHiV294UlhyHIcAHpTJd9iQVHEF4oDBCal-yAZvcRPofh22MzIqcyEA-JA2C1syuAiWdspPmKG6f1Hrr_kOdcg0PLHh75t9x1-ubtcj_QhpA5g5nHkZEkG58dGFGBuzaZ0DJgVG6AWwjV2J8/s1600/cisa.jpg"
     },
     {
       "id": "62fd477654d8becc7fdd6e9592dfc7bd4711ae6a",
@@ -594,72 +660,6 @@
       "region": "North America",
       "country": "US",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0BFnjQXtbmQXOq0oqe3ZVSI5MmeHtzjLyjTEEX3oJrDGGVYcdHlYnhwuJdxNKQEP-0yZ_V_3Q2Ph3tTbnrT7Bfvs1YJBqpjhinaGuLSjhcjnkd_y_egHM22tk8kJSyc8CVQtnAd3_CWjzw6HlsbiPc8ZFRuyFDv8CeA1H4xtGZZi_x6dXI3IIXA2Mx3Yu/s1600/langchain.jpg"
-    },
-    {
-      "id": "c8d359991e79324f05c8a571d6999b51f5e70485",
-      "title": "ThreatsDay Bulletin: Stealth Loaders, AI Chatbot Flaws AI Exploits, Docker Hack, and 15 More Stories",
-      "url": "https://thehackernews.com/2025/12/threatsday-bulletin-stealth-loaders-ai.html",
-      "published": "2025-12-25T14:01:00+00:00",
-      "summary": "It\u2019s getting harder to tell where normal tech ends and malicious intent begins. Attackers are no longer just breaking in \u2014 they\u2019re blending in, hijacking everyday tools, trusted apps, and even AI assistants. What used to feel like clear-cut \u201chacker stories\u201d now looks more like a mirror of the systems we all use.\nThis week\u2019s findings show a pattern: precision, patience, and persuasion. The",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLTZCBlcEQIEbZWXU3RR3B77xiWfU3KJqq8DjknH8ZNZtgGBsLgiYBO4BthMryQeog4ZEmsXaMCh6BUUCdWfibXHZ_NtEq40tdV5iiFUgpVRplI3zeRnRUm95-KlXosv-v08bOFoEL6IKWJdV0yB0OW5SFl0lE0R4D224pArrKv0Vverh8qRZrYEFALQx9/s1600/threatsday.jpg"
-    },
-    {
-      "id": "fd06f2e28a9f0eee4161fc897ba3c4e29be8a8d9",
-      "title": "LastPass 2022 Breach Led to Years-Long Cryptocurrency Thefts, TRM Labs Finds",
-      "url": "https://thehackernews.com/2025/12/lastpass-2022-breach-led-to-years-long.html",
-      "published": "2025-12-25T12:46:00+00:00",
-      "summary": "The encrypted vault backups stolen from the 2022 LastPass data breach have enabled bad actors to take advantage of weak master passwords to crack them open and drain cryptocurrency assets as recently as late 2025, according to new findings from TRM Labs.\nThe blockchain intelligence firm said evidence points to the involvement of Russian cybercriminal actors in the activity, with one of the",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGPo1Nkc3YmPhTvA9OPV5_RDokzlpE21PlIAMbT-8lz9peQpzT9LFWm59cX18EDEtnh2ecJD6iOzVl3-vxmNEsmXs77r32k0Xmjrqv2HlVnIIyE4VU76I6a79deBG7Fe-Bpdb3TdLNLqoN2vIsEf_iuqSpb4LXXhpCTHroURBkzXAghUD3RKEXPjE7CemD/s1600/passwords.jpg"
-    },
-    {
-      "id": "fd5ec33f2c8c5e4ef9863c1d4b176aec5bf11c2a",
-      "title": "Fortinet Warns of Active Exploitation of FortiOS SSL VPN 2FA Bypass Vulnerability",
-      "url": "https://thehackernews.com/2025/12/fortinet-warns-of-active-exploitation.html",
-      "published": "2025-12-25T08:22:00+00:00",
-      "summary": "Fortinet on Wednesday said it observed \"recent abuse\" of a five-year-old security flaw in FortiOS SSL VPN in the wild under certain configurations.\nThe vulnerability in question is CVE-2020-12812 (CVSS score: 5.2), an improper authentication vulnerability in SSL VPN in FortiOS that could allow a user to log in successfully without being prompted for the second factor of authentication if the",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWq72oFKp6biq3Hf_tsdl9xZeVhxI_BGzBaKfw1DiMD2ldey-KGb8qk27HJH9rt-pys9Ga94wnpRZfAYUdFW9g5_-ncNfIBaYtzsHD-GpGk0LtMaSZ0yD83PqptSkQlIuFNwa94qWlQvk3Yqz-eSpFchaeTh3VbYOXgRJ96sDTRz7dy-_ShXQu1jnzQXhx/s1600/fortinet-exploit.jpg"
-    },
-    {
-      "id": "cd42a4766d00e263b2df7e6ce93ce1ba6560e941",
-      "title": "CISA Flags Actively Exploited Digiever NVR Vulnerability Allowing Remote Code Execution",
-      "url": "https://thehackernews.com/2025/12/cisa-flags-actively-exploited-digiever.html",
-      "published": "2025-12-25T08:07:00+00:00",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added a security flaw impacting Digiever DS-2105 Pro network video recorders (NVRs) to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\nThe vulnerability, tracked as CVE-2023-52163 (CVSS score: 8.8), relates to a case of command injection that allows post-authentication remote code",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiy1j0ppiPjhfsUfYcYQ36krQ1Jgau1SvfX5zWM4gmFxvKhVhMOxhDQIfz5nBtExAH9NBv6bv2XJAs0SJJdvXlg-bIWNibSo8kHvtDTPOxTU5B8eqPt2NlI4FtA0-0ri2T3ueDhQbyiJ_TS7IZALghzlOckTrk8zOuZhPPu3nRT4EiAvr65exPrrbmtui0x/s1600/digiever.jpg"
-    },
-    {
-      "id": "27f31df1b6a61aae8708c9cfb41de558ffc7d98f",
-      "title": "New MacSync macOS Stealer Uses Signed App to Bypass Apple Gatekeeper",
-      "url": "https://thehackernews.com/2025/12/new-macsync-macos-stealer-uses-signed.html",
-      "published": "2025-12-24T16:23:00+00:00",
-      "summary": "Cybersecurity researchers have discovered a new variant of a macOS information stealer called MacSync that's delivered by means of a digitally signed, notarized Swift application masquerading as a messaging app installer to bypass Apple's Gatekeeper checks.\n\"Unlike earlier MacSync Stealer variants that primarily rely on drag-to-terminal or ClickFix-style techniques, this sample adopts a more",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjm_PuMhZ0HFVFeZcWU-pTmZixk1HyEXwA1hMDHRyhd3_vUKfniwEMpjAW60vTPiDnzD9yNm9zITdAQswlvy0Uc2MyvAmjJHkTuEe1n_hAvfyrUD_1KUGcGVS2jyV_gH90K8Ji1dvIe6zMvY4zdMZASLUZRSP-WyILYIah2n3peSJpumHgOx9YnSo00gTeD/s1600/apple-macos.jpg"
-    },
-    {
-      "id": "d0226f4bf0a78b4cd83ba215cafb209377e02cfb",
-      "title": "Nomani Investment Scam Surges 62% Using AI Deepfake Ads on Social Media",
-      "url": "https://thehackernews.com/2025/12/nomani-investment-scam-surges-62-using.html",
-      "published": "2025-12-24T13:08:00+00:00",
-      "summary": "The fraudulent investment scheme known as Nomani has witnessed an increase by 62%, according to data from ESET, as campaigns distributing the threat have also expanded beyond Facebook to include other social media platforms, such as YouTube.\nThe Slovak cybersecurity company said it blocked over 64,000 unique URLs associated with the threat this year. A majority of the detections originated from",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2aPel78Nr5STfEXJNS6ffZryQXLfsfK_28p7uP87APKCUPSSltwQpz3bJ0JkicC47kinWvbbx7O1f8Ln8ihh50e8PjUVZlE0gqxnmUBR4oWUXTZCDt2wj7eU1p10UoJJXIrMrIfyYLqlDJ4SorQGFqzoDMqjtgCmSneHfAvOImN4lak7ZfDRtxKp6ihWn/s1600/invest.jpg"
     },
     {
       "id": "cd63c90693f6c9bc77725954b7aaa5a3f7f6464e",
@@ -1212,6 +1212,61 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0ddc5f78fbb40924/694299f6211d3e3993e91d11/racing-H18PDW_Photography-alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
+      "id": "1ae6ba18c160352e912b425ca89fae6debff68cb",
+      "title": "Maximum-severity n8n flaw lets randos run your automation server",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/01/08/n8n_rce_bug/",
+      "published": "2026-01-08T11:40:15+00:00",
+      "summary": "<h4>Unauthenticated RCE means anyone on the network can seize full control</h4> <p>A maximum-severity bug in the popular automation platform n8n has left an estimated 100,000 servers wide open to complete takeover, courtesy of a flaw so bad it doesn't even require logging in.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "0c158c2a2df758d41cd77c775fce506d3892816c",
+      "title": "OpenAI putting bandaids on bandaids as prompt injection problems keep festering",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/01/08/openai_chatgpt_prompt_injection/",
+      "published": "2026-01-08T11:01:28+00:00",
+      "summary": "<h4>Happy Groundhog Day!</h4> <p>Security researchers at Radware say they've identified several vulnerabilities in OpenAI's ChatGPT service that allow the exfiltration of personal information.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "07e67df3ecfb76044aff81f36aa683ab959cacf2",
+      "title": "Are criminals vibe coding malware? All signs point to yes",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/01/08/criminals_vibe_coding_malware/",
+      "published": "2026-01-08T11:00:11+00:00",
+      "summary": "<h4>They also hallucinate when writing ransomware code</h4> <p><strong>Interview</strong>\u00a0 With everyone from would-be developers to <a href=\"https://www.theregister.com/2025/12/03/ai_has_made_ip_violations/e\" target=\"_blank\">six-year-old kids</a> jumping on the vibe coding bandwagon, it shouldn't be surprising that criminals like automated coding tools too.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "37784677e3e5cc28c3df8eba5b89f40bf24796e8",
+      "title": "Logitech macOS mouse mayhem traced to expired dev certificate",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/01/08/logitech_mouse_chaos/",
+      "published": "2026-01-08T09:30:12+00:00",
+      "summary": "<h4>Company says it dropped the ball, apologizes for wasting people's time</h4> <p>Logitech says an expired developer certificate is to blame after swaths of customers were left infuriated when their mice malfunctioned.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "72e3dd3b8287e2d668d4a6f9a883637f02aa894a",
+      "title": "Cloudflare pours cold water on \u2018BGP weirdness preceded US attack on Venezuela\u2019 theory",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/01/08/cloudflare_venezuela_bgp_attack_theory/",
+      "published": "2026-01-08T06:00:20+00:00",
+      "summary": "<h4>Suggests rotten routing, not evidence of a cyber-strike before kinetic action</h4> <p>Cloudflare has poured cold water on a theory that the USA\u2019s incursion into Venezuela coincided with a cyberattack on telecoms infrastructure.\u2026</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "56f08e9486e8d9b453ae38dbcf4d4b5c925e55b8",
       "title": "IBM's AI agent Bob easily duped to run malware, researchers show",
       "url": "https://go.theregister.com/feed/www.theregister.com/2026/01/07/ibm_bob_vulnerability/",
@@ -1707,61 +1762,6 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "8edfa6e72cd5fd9f0a3d2ea55363dcfa0c4b1fa5",
-      "title": "Palo Alto's new Google Cloud deal boosts AI integration, could save on cloud costs",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/12/22/palo_alto_google_cloud_ai_integration/",
-      "published": "2025-12-22T21:19:51+00:00",
-      "summary": "<h4>SEC filings show the outfit cut projected 2027 cloud purchase commitments by $114M</h4> <p>Security vendor Palo Alto Networks is expanding its Google Cloud partnership, saying it will move \"key internal workloads\" onto the Chocolate Factory's infrastructure. The outfit also claims it is tightening integrations between its security tools and Google Cloud to deliver what it calls a \"unified\" security experience. At the same time, Palo Alto may trim its own cloud purchase commitments.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "0e608ea1c1eed51823ce92a504c5382d0f3b4947",
-      "title": "Spy turned startup CEO: 'The WannaCry of AI will happen'",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/12/22/zafran_security_ceo/",
-      "published": "2025-12-22T19:39:58+00:00",
-      "summary": "<h4>Ah, the good old days when 0-day development took a year</h4> <p><strong>Interview</strong>\u00a0 \"In my past life, it would take us 360 days to develop an amazing zero day,\" Zafran Security CEO Sanaz Yashar said.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "c0de8c2bf746e9aee40111be8367f5df023a9c1e",
-      "title": "Hacktivists scrape 86M Spotify tracks, claim their aim is to preserve culture",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/12/22/hacktivists_scrape_songs_spotify/",
-      "published": "2025-12-22T17:24:49+00:00",
-      "summary": "<h4>Anna\u2019s Archive\u2019s idealism doesn\u2019t quite survive its own blog post</h4> <p>What would happen to the world's music collections if streaming services disappeared? One hacktivist group says it has a solution: scrape around 300 terabytes of music and metadata from Spotify and offer it up for free as what it calls the world\u2019s first \u201cfully open\u201d music preservation archive.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "db61c13be6da498690438ee257589f7b0f8708dc",
-      "title": "Conman and wannabe MI6 agent must repay \u00a3125k to romance scam victim",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/12/22/career_conman_and_wannabe_mi6/",
-      "published": "2025-12-22T16:37:09+00:00",
-      "summary": "<h4>Judge says former most-wanted fugitive Mark Acklom will likely never return to the UK</h4> <p>The UK's Crown Prosecution Service (CPS) says a fraudster who claimed to be part of MI6 must repay \u00a3125,000 ($168,000) to a former love interest that he conned.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "19175482106885917e62c1771a88746c5671ced4",
-      "title": "Around 1,000 systems compromised in ransomware attack on Romanian water agency",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/12/22/around_1000_systems_compromised_in/",
-      "published": "2025-12-22T12:13:10+00:00",
-      "summary": "<h4>On-site staff keep key systems working while all but one region battles with encrypted PCs</h4> <p>Romania's cybersecurity agency confirms a major ransomware attack on the country's water management administration has compromised around 1,000 systems, with work to remediate them still ongoing.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
       "id": "952bf7ba348eb8e2086e37a1cf1b8ef8c6fcc1b2",
       "title": "The Kimwolf Botnet is Stalking Your Local Network",
       "url": "https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/",
@@ -1812,6 +1812,17 @@
       "published": "2025-12-09T23:18:29+00:00",
       "summary": "Microsoft today pushed updates to fix at least 56 security flaws in its Windows operating systems and supported software. This final Patch Tuesday of 2025 tackles one zero-day bug that is already being exploited, as well as two publicly disclosed vulnerabilities.",
       "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "72df55a61973a96efad19ecbccfd994b38e9a1c4",
+      "title": "Critical HPE OneView Vulnerability Exploited in Attacks",
+      "url": "https://www.securityweek.com/critical-hpe-oneview-vulnerability-exploited-in-attacks/",
+      "published": "2026-01-08T11:09:03+00:00",
+      "summary": "<p>The maximum-severity code injection flaw can be exploited without authentication for remote code execution.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-hpe-oneview-vulnerability-exploited-in-attacks/\">Critical HPE OneView Vulnerability Exploited in Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
@@ -1910,17 +1921,6 @@
       "url": "https://www.securityweek.com/cyber-risk-trends-for-2026-building-resilience-not-just-defenses/",
       "published": "2026-01-06T14:45:00+00:00",
       "summary": "<p>We can\u2019t outpace the adversary by trying to stop every attack, but we can outlast them by engineering systems and culture to take a punch and try to quickly rebound.</p>\n<p>The post <a href=\"https://www.securityweek.com/cyber-risk-trends-for-2026-building-resilience-not-just-defenses/\">Cyber Risk Trends for 2026: Building Resilience, Not Just Defenses</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "b90535e232ab6c82f3676f301f97d5b690534674",
-      "title": "Researchers Trap Scattered Lapsus$ Hunters in Honeypot",
-      "url": "https://www.securityweek.com/researchers-trap-scattered-lapsus-hunters-in-honeypot/",
-      "published": "2026-01-06T14:03:12+00:00",
-      "summary": "<p>Using fake accounts and synthetic data to lure the hackers, the researchers gathered information on their servers.</p>\n<p>The post <a href=\"https://www.securityweek.com/researchers-trap-scattered-lapsus-hunters-in-honeypot/\">Researchers Trap Scattered Lapsus$ Hunters in Honeypot</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
