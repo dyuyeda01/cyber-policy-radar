@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-10T00:45:48.512105+00:00",
+  "generated_at": "2026-01-10T12:16:15.706707+00:00",
   "items": [
     {
       "id": "9b839a1f425e0f12ff561f03a2be21b2fa9ec153",
@@ -110,6 +110,28 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "4e5c388d082c3736fb2190f74712356ba66b4927",
+      "title": "MuddyWater Launches RustyWater RAT via Spear-Phishing Across Middle East Sectors",
+      "url": "https://thehackernews.com/2026/01/muddywater-launches-rustywater-rat-via.html",
+      "published": "2026-01-10T10:35:00+00:00",
+      "summary": "The Iranian threat actor known as MuddyWater has been attributed to a spear-phishing campaign targeting diplomatic, maritime, financial, and telecom entities in the Middle East with a Rust-based implant codenamed RustyWater.\n\"The campaign uses icon spoofing and malicious Word documents to deliver Rust based implants capable of asynchronous C2, anti-analysis, registry persistence, and modular",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJ8l0NucKedkyhQLr7E5BKEvF8JlDztA0fBd3dL1lku0PJHK4PqEpa1mkpxpWhYKq4MpxuL1fr9p6NbpkU8GfhFTct25hVf6bMPsTJDTfQz71Y_aQD0gv0ln0gYFDYMEbTQ1s-52sSJz0OgoVjhaDkq1TExIJzTdIrLUjmZPwe1tzKEHDO_7-JKV9_BDRQ/s1600/1000046762.jpg"
+    },
+    {
+      "id": "9ef0b8ac77bf2617f762477c673b014abfbd24e5",
+      "title": "Europol Arrests 34 Black Axe Members in Spain Over \u20ac5.9M Fraud and Organized Crime",
+      "url": "https://thehackernews.com/2026/01/europol-arrests-34-black-axe-members-in.html",
+      "published": "2026-01-10T08:59:00+00:00",
+      "summary": "Europol on Friday announced the arrest of 34 individuals in Spain who are alleged to be part of an international criminal organization called Black Axe.\nAs part of an operation conducted by the Spanish National Police, in coordination with the Bavarian State Criminal Police Office and Europol, 28 arrests were made in Seville, along with three others in Madrid, two in M\u00e1laga, and one in Barcelona",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2wiOQx_WqaJOurFU70JNrticSZpssdRy9WR9QT13NyeILmm4U_apbN1YxO-67pfJqcF-z1SuLhcNagwr2FJXlvWz_wRa2CLxWZc6pPvEe60nCQKm8mek1mabnBvfkpNnZSe8CzwERR3wPp18oH48tZ9TXSnMYf_PIvBUAC0-mbdCrC6Q7yafFVfQxfQU2/s1600/euro.jpg"
     },
     {
       "id": "dbf49b3ae81cb22d3fb1124384f84548670a1239",
@@ -638,28 +660,6 @@
       "region": "North America",
       "country": "US",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDGmYwQ8c2eXwEoxAV4oGX21DPSHEpPLFUcOpQPAs7kXyKyG-bd41diqFVSWAm_kERqHzynIxLke6Aj4JU9LxRVyC3CB-dsq3Rm4B8KHyNUd7y_5uQvl3rgizk8dmhwQLWDVuvGCTKH6c83Etx9Bwtvr_hvPhIq35iFNgRLLFCGON5cTSwj3KlYk5C25Fh/s1600/mail.jpg"
-    },
-    {
-      "id": "82219451f2d9e9e56b119d2ac86a82d68e488933",
-      "title": "Silver Fox Targets Indian Users With Tax-Themed Emails Delivering ValleyRAT Malware",
-      "url": "https://thehackernews.com/2025/12/silver-fox-targets-indian-users-with.html",
-      "published": "2025-12-30T10:46:00+00:00",
-      "summary": "The threat actor known as Silver Fox has turned its focus to India, using income tax-themed lures in phishing campaigns to distribute a modular remote access trojan called ValleyRAT (aka Winos 4.0).\n\"This sophisticated attack leverages a complex kill chain involving DLL hijacking and the modular Valley RAT to ensure persistence,\" CloudSEK researchers Prajwal Awasthi and Koushik Pal said in an",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTjxYF8a3raCHDKDawUyyfucLX4__gbjxE1-iVkP7DWO6wmxAz_c8HjKmGT5LIc3owZvwIoEpNMFg7ahikG0vgK1ccyTXlw6bE8bFcDrXoyPzm9yfCDMJqbEIgwowlGFggrhjvinRXfk0A4NTtPqaGYazaABx6QUESPUcm2kuazYtNq01dWgPHpiadpySF/s1600/email.jpg"
-    },
-    {
-      "id": "6b5194b0e4e6b89b4bd4a51dd6ff461683a948ca",
-      "title": "How to Integrate AI into Modern SOC Workflows",
-      "url": "https://thehackernews.com/2025/12/how-to-integrate-ai-into-modern-soc.html",
-      "published": "2025-12-30T09:30:00+00:00",
-      "summary": "Artificial intelligence (AI) is making its way into security operations quickly, but many practitioners are still struggling to turn early experimentation into consistent operational value. This is because SOCs are adopting AI without an intentional approach to operational integration. Some teams treat it as a shortcut for broken processes. Others attempt to apply machine learning to problems",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeQsyuyYxxOLBhyphenhyphenPUOI-UHGn8mxloyzn4GBFnuh7p3h7XUB7Z2K2kWdI2A-k0v5GKJqRANeUQ8NZknDo1M5zTdqyYyTC3vAKThq201gtemBUHiFq1GjWc1VrfMPKS7knIFoV7mO-l20SaKKVbHs-t86wVFDEqjUz-VQkVXOiB6hD5QlzLVWdQYml3tPww/s1600/sans.jpg"
     },
     {
       "id": "c52f70799905c5baa9165b264efcf3f03e93aa7f",
@@ -1212,6 +1212,17 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8497ff5ba464f933/6943172f8d0bea2fbc0e4978/AI_apps_hacker-Matt_Fowler-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
+      "id": "8ce995bd25c29579fb91a33f5b89da10adbc4bea",
+      "title": "UK government exempting itself from flagship cyber law inspires little confidence",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/01/10/csr_bill_analysis/",
+      "published": "2026-01-10T09:29:07+00:00",
+      "summary": "<h4>Ministers promise equivalent standards just without the legal obligation</h4> <p><strong>ANALYSIS</strong>\u00a0 From May's <a href=\"https://www.theregister.com/2025/05/19/legal_aid_agency_data_theft/\" target=\"_blank\">cyberattack on the Legal Aid Agency</a> to the <a href=\"https://www.theregister.com/2025/12/19/uk_foreign_office_hack/\" target=\"_blank\">Foreign Office breach</a> months later, cyber incidents have become increasingly common in UK government.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "95a74f6aeb5f12eb9d45a7875c6f8ef957c7e5e7",
       "title": "How hackers are fighting back against ICE surveillance tech",
       "url": "https://go.theregister.com/feed/www.theregister.com/2026/01/09/hackers_fight_back_against_ice/",
@@ -1745,17 +1756,6 @@
       "url": "https://go.theregister.com/feed/www.theregister.com/2025/12/29/wired_hack_subscriber_info_leaked/",
       "published": "2025-12-29T19:23:37+00:00",
       "summary": "<h4>Extortion group Lovely claims to have stolen 40 million pieces of info from publisher Conde Nast</h4> <p>A criminal group is beating Conde Nast over the head for not responding sooner to its extortion attempt by posting stolen subscribers' email and home addresses and warning the publisher of Wired, The New Yorker, Vanity Fair, and Teen Vogue that it has 40 million more entries.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "b6238113520113f0a7dbc1449a9e326da7442eca",
-      "title": "Europe's cloud challenge: Building an Airbus for the digital age",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/12/29/europes_cloud_challenge_building_an/",
-      "published": "2025-12-29T09:23:07+00:00",
-      "summary": "<h4>Countries that banded together to challenge Boeing in the air try to do the same to AWS, Microsoft, and Google on the ground</h4> <p><strong>Feature</strong>\u00a0 More than half a century ago, a consortium of European aerospace businesses from the UK, France, Germany and Spain joined forces to take on America's Boeing. Fast forward to the 21st century and the countries are applying the same model needs to the world of cloud computing, giving the continent a fighting chance to reduce the digital domination of Big Tech.\u2026</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
       "source": "The Register \u2013 Security",
       "region": "Europe",
       "country": "UK",
