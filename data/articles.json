@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-01-12T00:51:23.476647+00:00",
+  "generated_at": "2026-01-12T12:20:52.361617+00:00",
   "items": [
+    {
+      "id": "a3b10e7165fe5b00a7f01d845baee04ae9817086",
+      "title": "How to stop insider-driven data loss in browser sessions",
+      "url": "https://www.cybersecuritydive.com/spons/how-to-stop-insider-driven-data-loss-in-browser-sessions/808445/",
+      "published": "2026-01-12T10:00:00+00:00",
+      "summary": "<p>Midmarket teams turn to secure browsers capable of providing deep visibility and enforcing granular user controls during user browsing sessions, the goal being to prevent intentional or unintentional leaks without adding friction to the user experience.</p>",
+      "source": "Cybersecurity Dive",
+      "region": "North America",
+      "country": "US",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
     {
       "id": "9b839a1f425e0f12ff561f03a2be21b2fa9ec153",
       "title": "Telecom sector sees steady rise in ransomware attacks",
@@ -101,15 +112,37 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "4e705013ce8e066d384fa8fde6536c274fa86f2c",
-      "title": "Cyber risks grow as manufacturers turn to AI and cloud systems",
-      "url": "https://www.cybersecuritydive.com/news/manufacturing-cyber-risk-ai-cloud/808730/",
-      "published": "2026-01-05T15:40:00+00:00",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/c0LpsB-vIKaY_0IEoHWz7iJcb9UPAzHinuk_HlE9XbM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy02NDk0Mjc2NDguanBn.webp\" /></div></figure><p>Manufacturing has been the most-attacked sector for four years straight, according to a recent IBM report.</p>",
-      "source": "Cybersecurity Dive",
+      "id": "5a9807523ce8366a4fafd7762d93e1681848132c",
+      "title": "GoBruteforcer Botnet Targets Crypto Project Databases by Exploiting Weak Credentials",
+      "url": "https://thehackernews.com/2026/01/gobruteforcer-botnet-targets-crypto.html",
+      "published": "2026-01-12T10:48:00+00:00",
+      "summary": "A new wave of GoBruteforcer attacks has targeted databases of cryptocurrency and blockchain projects to co-opt them into a botnet that's capable of brute-forcing user passwords for services such as FTP, MySQL, PostgreSQL, and phpMyAdmin on Linux servers.\n\"The current wave of campaigns is driven by two factors: the mass reuse of AI-generated server deployment examples that propagate common",
+      "source": "The Hacker News",
       "region": "North America",
       "country": "US",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-QNOjf4TVLf-q_dbb5g-hf4E4UjlFOOK5YAqVzx7MjPKi8yBuDxhMV34BhS8j_2G1Pyc54-wnEssVbtX7I2m-tTz8-sYtURpMRet1G83UIOgdbNw5TnuokdfQXqtd2DXeVjtM6lthXMyMP3BrHzha9fMdzLbrWrmEmAdUj-rhblxC_FMF9nwbcOrpMRtl/s1600/brute.jpg"
+    },
+    {
+      "id": "98347e7b3fa1584dc5b91f4f39a40d9c6f019732",
+      "title": "Anthropic Launches Claude AI for Healthcare with Secure Health Record Access",
+      "url": "https://thehackernews.com/2026/01/anthropic-launches-claude-ai-for.html",
+      "published": "2026-01-12T08:37:00+00:00",
+      "summary": "Anthropic has become the latest Artificial intelligence (AI) company to announce a new suite of features that allows users of its Claude platform to better understand their health information.\nUnder an initiative called Claude for Healthcare, the company said U.S. subscribers of Claude Pro and Max plans can opt to give Claude secure access to their lab results and health records by connecting to",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBsWnWcWrV4eZwbF35H11zf4qjfCNl3bUZgrkSqhaYuyIXID6DpEY1XojOah8CUzZhvs-c33uelCSfZ1MuOMPoP4i4chKkblzMPNIdY4AbQ7iusK97HXg5NPwoc3Dc_DcuKuGZhwc8OxxOvBcnxOlHYSSl1ugILGsbfqg7fA00uZ5w14595CpY8_uoyEj2/s1600/claude.jpg"
+    },
+    {
+      "id": "d8bcc32501c5d463b94a0e4c9dddf54657425b18",
+      "title": "Researchers Uncover Service Providers Fueling Industrial-Scale Pig Butchering Fraud",
+      "url": "https://thehackernews.com/2026/01/researchers-uncover-service-providers.html",
+      "published": "2026-01-12T07:34:00+00:00",
+      "summary": "Cybersecurity researchers have shed light on two service providers that supply online criminal networks with the necessary tools and infrastructure to fuel the pig butchering-as-a-service (PBaaS) economy.\nAt least since 2016, Chinese-speaking criminal groups have erected industrial-scale scam centers across Southeast Asia, creating special economic zones that are devoted to fraudulent investment",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQyKVtigWO-DozabIH5s8zl3i7M9z2LC95xA87vaakxWs8JFZrEEeGwievwIgbry0kWZ93VfzSfbvhdFXo1FN8p_nIZf0DsILlsD1oNlqOuMvsNIHVq3YVIe2NzW8CYQ2VVC63nnEJK_m74PGZkEGWyrBAcihNfuSWgsQV6YNumesUqSp5a149kt9v3sjF/s1600/sites.jpg"
     },
     {
       "id": "4e5c388d082c3736fb2190f74712356ba66b4927",
@@ -149,7 +182,7 @@
       "title": "Russian APT28 Runs Credential-Stealing Campaign Targeting Energy and Policy Organizations",
       "url": "https://thehackernews.com/2026/01/russian-apt28-runs-credential-stealing.html",
       "published": "2026-01-09T15:28:00+00:00",
-      "summary": "Russian state-sponsored threat actors have been linked to a fresh set of credential harvesting attacks targeting individuals associated with a Turkish energy and nuclear research agency, as well as staff affiliated with a European think tank and organizations in North Macedonia and Uzbekistan.\nThe activity has been attributed to APT28 (aka BlueDelta), which was attributed to a \"sustained\"",
+      "summary": "Russian state-sponsored threat actors have been linked to a fresh set of credential harvesting attacks targeting individuals associated with a Turkish energy and nuclear research agency, as well as staff affiliated with a European think tank and organizations in North Macedonia and Uzbekistan.\nThe activity has been attributed to APT28 (aka BlueDelta), which was tied to a \"sustained\"",
       "source": "The Hacker News",
       "region": "North America",
       "country": "US",
@@ -627,39 +660,6 @@
       "region": "North America",
       "country": "US",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_6aF_LtBQsxfp7ziJZ57TatgdnnjgWwDKQRdgCbPqj8o5Fk-wS94TV1LNcXqTTAr6sgpty7xjiZ58uFabTBr7az46u52ETTgROTfakpeYBSRAXMjrNkyWdCtJehPjCZGGFalG59NRL8VPfQbe-F9R8ZLmGQ0EBXw0bgh0XStROWKpyIio2-3MOK3qH1Z2/s1600/ibm.jpg"
-    },
-    {
-      "id": "a1ac091c010c71a00d43b905f284c2ac2e3e1075",
-      "title": "Researchers Spot Modified Shai-Hulud Worm Testing Payload on npm Registry",
-      "url": "https://thehackernews.com/2025/12/researchers-spot-modified-shai-hulud.html",
-      "published": "2025-12-31T13:29:00+00:00",
-      "summary": "Cybersecurity researchers have disclosed details of what appears to be a new strain of Shai Hulud on the npm registry with slight modifications from the previous wave observed last month.\nThe npm package that embeds the novel Shai Hulud strain is \"@vietmoney/react-big-calendar,\" which was uploaded to npm back in March 2021 by a user named \"hoquocdat.\" It was updated for the first time on",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLzpeFOZHp8C7GZ0cMe57PMU10zY3RqrxkvwgczNMI5wgXFupY9-FWJ9YcOxsXyp8CS2DeqAPdzbyWgRIORNHw07bTMNOSidgkAI7CHrQ58iw8E027cxPGaxNmpQYEooO2OyRlWRe96ebuX1wSLsqOB7doUZaKELDsTn-vh3ht6Ti2RN1VTnTfsTtu13gA/s1600/npm.jpg"
-    },
-    {
-      "id": "6d7d2c7b935e4ad636f5e84106fbb928f32568eb",
-      "title": "U.S. Treasury Lifts Sanctions on Three Individuals Linked to Intellexa and Predator Spyware",
-      "url": "https://thehackernews.com/2025/12/us-treasury-lifts-sanctions-on-three.html",
-      "published": "2025-12-31T05:17:00+00:00",
-      "summary": "The U.S. Department of the Treasury's Office of Foreign Assets Control (OFAC) on Tuesday removed three individuals linked to the Intellexa Consortium, the holding company behind a commercial spyware known as Predator, from the specially designated nationals list.\nThe names of the individuals are as follows -\n\nMerom Harpaz\nAndrea Nicola Constantino Hermes Gambazzi\nSara Aleksandra Fayssal Hamou",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjV9iYApTtWG0KxgphidiTj5byahP3v542tKMm1cMrVGsc4_KDJKA41BBDM0BbaiusYU-zCVytBp99VDpal0qJpvdyWinLrCLitoGYeMQ4FI1Bb-kJppiAUPSBMeMFNRre-m0NZ-ZFSjCIiPbo2DVFBa7K8qJnsRAl7eZ37tAhVmKLb7B5YLUdyLJgJDE8S/s1600/spy.jpg"
-    },
-    {
-      "id": "3e1fd418beebe437cd6f2603a440e62da4136001",
-      "title": "CSA Issues Alert on Critical SmarterMail Bug Allowing Remote Code Execution",
-      "url": "https://thehackernews.com/2025/12/csa-issues-alert-on-critical.html",
-      "published": "2025-12-30T16:28:00+00:00",
-      "summary": "The Cyber Security Agency of Singapore (CSA) has issued a bulletin warning of a maximum-severity security flaw in SmarterTools SmarterMail email software that could be exploited to achieve remote code execution.\nThe vulnerability, tracked as CVE-2025-52691, carries a CVSS score of 10.0. It relates to a case of arbitrary file upload that could enable code execution without requiring any",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDGmYwQ8c2eXwEoxAV4oGX21DPSHEpPLFUcOpQPAs7kXyKyG-bd41diqFVSWAm_kERqHzynIxLke6Aj4JU9LxRVyC3CB-dsq3Rm4B8KHyNUd7y_5uQvl3rgizk8dmhwQLWDVuvGCTKH6c83Etx9Bwtvr_hvPhIq35iFNgRLLFCGON5cTSwj3KlYk5C25Fh/s1600/mail.jpg"
     },
     {
       "id": "c52f70799905c5baa9165b264efcf3f03e93aa7f",
@@ -1212,6 +1212,39 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8497ff5ba464f933/6943172f8d0bea2fbc0e4978/AI_apps_hacker-Matt_Fowler-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
+      "id": "ea339527d2c5b53d6a53112d58719f865eb67dbc",
+      "title": "Tories vow to boot under-16s off social media and ban phones in schools",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/01/12/conservatives_social_media_ban/",
+      "published": "2026-01-12T10:25:23+00:00",
+      "summary": "<h4>Opposition leader Kemi Badenoch pitches age limits and classroom curbs as fixes for behavior and mental health</h4> <p>The Tories have pledged to kick under-16s off social media, betting that banning teens from TikTok and Instagram will fix what they see as a growing crisis in kids' mental health and classroom behavior.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "320b60b371eb741df5276d20f77afdbaf2b554c2",
+      "title": "India\u2019s government denies it plans to demand smartphone source code",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/01/12/india_mobile_security/",
+      "published": "2026-01-12T04:37:04+00:00",
+      "summary": "<h4>Says ongoing talks about security are about understanding best practice, not strong-arming vendors</h4> <p>India\u2019s government has denied that it is working on rules that would require smartphone manufacturers to provide access to their source code.\u2026</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "b396d7cadf6291dbe4f782aea88eaf5f65508879",
+      "title": "Malaysia and Indonesia block X over failure to curb deepfake smut",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/01/12/asia_tech_news_roundup/",
+      "published": "2026-01-12T01:29:36+00:00",
+      "summary": "<h4>PLUS: Cambodia arrests alleged scam camp boss; Baidu spins out chip biz; Panasonic\u2019s noodle shop plan; And more!</h4> <p><strong>Asia in Brief</strong>\u00a0 The governments of Malaysia and Indonesia have suspended access to social network X, on grounds that it allows users to produce sexual imagery without users\u2019 consent.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "ea11b34b6e26693cee9fca86e763ba8b473f87d1",
       "title": "Meta admits to Instagram password reset mess, denies data leak",
       "url": "https://go.theregister.com/feed/www.theregister.com/2026/01/11/infosec_news_in_brief/",
@@ -1729,39 +1762,6 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "5227051ec81587737409c726a459626a5f2cb68a",
-      "title": "An early end to the holidays: 'Heartbleed of MongoDB' is now under active exploit",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/12/30/mongodb_vuln_exploited_cve_2025_14847/",
-      "published": "2025-12-30T19:27:54+00:00",
-      "summary": "<h4>You didn't think you'd get to enjoy your time off without a major cybersecurity incident, did you?</h4> <p>A high-severity MongoDB Server vulnerability, for which proofs of concept emerged over Christmas week, is now under active exploitation, according to the US Cybersecurity and Infrastructure Security Agency.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "c859e511779d2f87af33dfb9e8276972d1e057fb",
-      "title": "Korean telco failed at femtocell security, exposed customers to snooping and fraud",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/12/30/kt_telecom_femtocell_security_fail/",
-      "published": "2025-12-30T03:34:46+00:00",
-      "summary": "<h4>One cert, in plaintext, on thousands of devices, led to what looks like years of crime</h4> <p>South Korea\u2019s Ministry of Science and ICT has found that local carrier Korea Telecom (KT) deployed thousands of badly secured femtocells, leading to an attack that enabled micropayments fraud and snooping on customers\u2019 communications \u2013 maybe for years.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "dbd20768def64c3a7245439dbaca061c64d51713",
-      "title": "Indian cops cuff ex-Coinbase rep over selling customer info to crims",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2025/12/29/indian_cops_cuff_coinbase_exrep/",
-      "published": "2025-12-29T21:16:13+00:00",
-      "summary": "<h4>There's more where that came from, CEO says</h4> <p>Rogue insiders suspected of taking bribes to hand over Coinbase customer records to criminals are beginning to face justice, according to CEO Brian Armstrong.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
       "id": "479496e784d1b1bac8f0d4ec7e6ba8338ab2cf58",
       "title": "Who Benefited from the Aisuru and Kimwolf Botnets?",
       "url": "https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/",
@@ -1812,6 +1812,50 @@
       "published": "2025-12-16T14:14:48+00:00",
       "summary": "Direct navigation -- the act of visiting a website by manually typing a domain name in a web browser -- has never been riskier: A new study finds the vast majority of \"parked\" domains -- mostly expired or dormant domain names, or common misspellings of popular websites -- are now configured to redirect visitors to sites that foist scams and malware.",
       "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "325f8778529af0545d41aaad883eb05eefcb5126",
+      "title": "LLMs in Attacker Crosshairs, Warns Threat Intel Firm",
+      "url": "https://www.securityweek.com/llms-in-attacker-crosshairs-warns-threat-intel-firm/",
+      "published": "2026-01-12T11:53:02+00:00",
+      "summary": "<p>Threat actors are hunting for misconfigured proxy servers to gain access to APIs for various LLMs.</p>\n<p>The post <a href=\"https://www.securityweek.com/llms-in-attacker-crosshairs-warns-threat-intel-firm/\">LLMs in Attacker Crosshairs, Warns Threat Intel Firm</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "465736399a7d0dbfb43466591bc54dcd52883974",
+      "title": "EU Sets February Deadline for Verdict on Google\u2019s $32B Wiz Acquisition",
+      "url": "https://www.securityweek.com/eu-sets-february-deadline-for-verdict-on-googles-32b-wiz-acquisition/",
+      "published": "2026-01-12T10:37:12+00:00",
+      "summary": "<p>The record-breaking deal has already received a green light from the US government.</p>\n<p>The post <a href=\"https://www.securityweek.com/eu-sets-february-deadline-for-verdict-on-googles-32b-wiz-acquisition/\">EU Sets February Deadline for Verdict on Google&#8217;s $32B Wiz Acquisition</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "5dcc58cb0002a9385a94222aac3a91a2b3ad45cf",
+      "title": "Torq Raises $140 Million at $1.2 Billion Valuation",
+      "url": "https://www.securityweek.com/torq-raises-140-million-at-1-2-billion-valuation/",
+      "published": "2026-01-12T08:26:15+00:00",
+      "summary": "<p>The company will use the investment to accelerate platform adoption and expansion into the federal market.</p>\n<p>The post <a href=\"https://www.securityweek.com/torq-raises-140-million-at-1-2-billion-valuation/\">Torq Raises $140 Million at $1.2 Billion Valuation</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "38ba6a6df50224226bd9357feb33446f55cb2092",
+      "title": "Hackers Accessed University of Hawaii Cancer Center Patient Data; They Weren\u2019t Immediately Notified",
+      "url": "https://www.securityweek.com/hackers-accessed-university-of-hawaii-cancer-center-patient-data-they-werent-immediately-notified/",
+      "published": "2026-01-12T02:09:09+00:00",
+      "summary": "<p>UH officials refused to provide key information, including which cancer research project had been affected or how much UH paid the hackers to regain access to files.</p>\n<p>The post <a href=\"https://www.securityweek.com/hackers-accessed-university-of-hawaii-cancer-center-patient-data-they-werent-immediately-notified/\">Hackers Accessed University of Hawaii Cancer Center Patient Data; They Weren\u2019t Immediately Notified</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
@@ -1877,50 +1921,6 @@
       "url": "https://www.securityweek.com/zombieagent-attack-let-researchers-take-over-chatgpt/",
       "published": "2026-01-09T12:41:40+00:00",
       "summary": "<p>Radware bypassed ChatGPT\u2019s protections to exfiltrate user data and implant a persistent logic into the agent\u2019s long-term memory.</p>\n<p>The post <a href=\"https://www.securityweek.com/zombieagent-attack-let-researchers-take-over-chatgpt/\">&#8216;ZombieAgent&#8217; Attack Let Researchers Take Over ChatGPT</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "b642a69356dda10c1f2f70d7e65e92d4f99e9ee6",
-      "title": "377,000 Impacted by Data Breach at Texas Gas Station Firm",
-      "url": "https://www.securityweek.com/377000-impacted-by-data-breach-at-texas-gas-station-firm/",
-      "published": "2026-01-09T12:06:25+00:00",
-      "summary": "<p>Gulshan Management Services has informed authorities about a recent data breach resulting from a ransomware attack.</p>\n<p>The post <a href=\"https://www.securityweek.com/377000-impacted-by-data-breach-at-texas-gas-station-firm/\">377,000 Impacted by Data Breach at Texas Gas Station Firm</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "8d8873cc520e938cb5df9720d962638ca7c7834a",
-      "title": "Exploit for VMware Zero-Day Flaws Likely Built a Year Before Public Disclosure",
-      "url": "https://www.securityweek.com/exploit-for-vmware-zero-day-flaws-likely-built-a-year-before-public-disclosure/",
-      "published": "2026-01-09T11:34:47+00:00",
-      "summary": "<p>Fresh attacks targeted three VMware ESXi vulnerabilities that were disclosed in March 2025 as zero-days.</p>\n<p>The post <a href=\"https://www.securityweek.com/exploit-for-vmware-zero-day-flaws-likely-built-a-year-before-public-disclosure/\">Exploit for VMware Zero-Day Flaws Likely Built a Year Before Public Disclosure</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "9bf6daf8b6c166815e5ef841703b8f801f0bb319",
-      "title": "UK Government Unveils New Cyber Action Plan",
-      "url": "https://www.securityweek.com/uk-government-unveils-new-cyber-action-plan/",
-      "published": "2026-01-08T16:33:23+00:00",
-      "summary": "<p>The UK government\u2019s cyber action plan is by the government for the government, and has no advice for the private sector nor CNI.</p>\n<p>The post <a href=\"https://www.securityweek.com/uk-government-unveils-new-cyber-action-plan/\">UK Government Unveils New Cyber Action Plan</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "f51d2cc0d33128b3bfbcbc9125db62384aca6d79",
-      "title": "CrowdStrike to Buy Identity Security Firm SGNL for $740 Million in Cash",
-      "url": "https://www.securityweek.com/crowdstrike-to-buy-identity-security-firm-sgnl-for-740-million-in-cash/",
-      "published": "2026-01-08T15:32:44+00:00",
-      "summary": "<p>The deal aims to bolster CrowdStrike's Falcon platform with \"continuous identity\" protection to secure human and AI-driven access in real-time.</p>\n<p>The post <a href=\"https://www.securityweek.com/crowdstrike-to-buy-identity-security-firm-sgnl-for-740-million-in-cash/\">CrowdStrike to Buy Identity Security Firm SGNL for $740 Million in Cash</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
