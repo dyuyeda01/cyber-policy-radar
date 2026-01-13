@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-13T00:42:52.534574+00:00",
+  "generated_at": "2026-01-13T12:19:55.710431+00:00",
   "items": [
     {
       "id": "75e04942d81acda1ca39e508324b55528837aece",
@@ -110,6 +110,50 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "091e4267b116dd8aa2f2fba9d485a8e085acf62c",
+      "title": "What Should We Learn From How Attackers Leveraged AI in 2025?",
+      "url": "https://thehackernews.com/2026/01/what-should-we-learn-from-how-attackers.html",
+      "published": "2026-01-13T11:55:00+00:00",
+      "summary": "Old Playbook, New Scale: While defenders are chasing trends, attackers are optimizing the basics\nThe security industry loves talking about \"new\" threats. AI-powered attacks. Quantum-resistant encryption. Zero-trust architectures. But looking around, it seems like the most effective attacks in 2025 are pretty much the same as they were in 2015. Attackers are exploiting the same entry points that",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg11caZQqhaS0OyoXT_GpH_CIUPoC00sjkeg4ycrORRwI75LWELCfMCO0yyfL1FoKf8jrX6NJZsGVFZ2m1o_H3VFdFtBJprczhcQn5bbS5YH65k4I1PVoGAJGZP4N2NHfj_m2VjXJPmO8k-GfaZFUcIXSN9lLuOZ3Dnl8cqQkwkMEWHWY0cYuu4QIBKXVE/s1600/AI.jpg"
+    },
+    {
+      "id": "5a6563984e6f0e55af5f0591e5d503a44e42d26f",
+      "title": "ServiceNow Patches Critical AI Platform Flaw Allowing Unauthenticated User Impersonation",
+      "url": "https://thehackernews.com/2026/01/servicenow-patches-critical-ai-platform.html",
+      "published": "2026-01-13T11:47:00+00:00",
+      "summary": "ServiceNow has disclosed details of a now-patched critical security flaw impacting its ServiceNow AI Platform that could enable an unauthenticated user to impersonate another user and perform arbitrary actions as that user.\nThe vulnerability, tracked as CVE-2025-12420, carries a CVSS score of 9.3 out of 10.0\n\"This issue [...] could enable an unauthenticated user to impersonate another user and",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxZu-BM7xxcFqhj3Vi07lWWCcD8kJgOH3JTQ4oV6Q3Ngd6GmylXsA52gk2aqSCIfEEHxsmev5EbQPxMr4fWFMLFrvwj1U8VKilr46bj6oN01nCbN08tV9bkft9WpFgSZHVXd_-jrbSTTvlpKrPpvqazA_Cwoh8XUjLKK0SC-r1Plq-2KCpdlDgTHBg1e4H/s1600/SERVICENOW-AI.jpg"
+    },
+    {
+      "id": "02267342b2e9347bf1082cb213401c6c8d94f58d",
+      "title": "New Malware Campaign Delivers Remcos RAT Through Multi-Stage Windows Attack",
+      "url": "https://thehackernews.com/2026/01/new-malware-campaign-delivers-remcos.html",
+      "published": "2026-01-13T09:08:00+00:00",
+      "summary": "Cybersecurity researchers have disclosed details of a new campaign dubbed SHADOW#REACTOR that employs an evasive multi-stage attack chain to deliver a commercially available remote administration tool called Remcos RAT and establish persistent, covert remote access.\n\"The infection chain follows a tightly orchestrated execution path: an obfuscated VBS launcher executed via wscript.exe invokes a",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrT2CE7EREKiOTLCxBZbOT5xpjY0b5h3VOXn4tm20sYQg6zpq9eoFyAx5SPdxrhILjE6Kh9JWLtHqLPNiknTbtfrOIqHyZsssQhwO_avd53c24jx6pK75xCKHtExGq-3nNypZrks9oV7TWw11xhwAW0z54_XrxVDMsbtMlwpqJgf3Gr7TgTtPLHkcIDMZ4/s1600/windows-malware.jpg"
+    },
+    {
+      "id": "065f9c3916fc22ca8da595e5289f0c43c54f8cfb",
+      "title": "CISA Warns of Active Exploitation of Gogs Vulnerability Enabling Code Execution",
+      "url": "https://thehackernews.com/2026/01/cisa-warns-of-active-exploitation-of.html",
+      "published": "2026-01-13T07:15:00+00:00",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has warned of active exploitation of a high-severity security flaw impacting Gogs by adding it to its Known Exploited Vulnerabilities (KEV) catalog.\nThe vulnerability, tracked as CVE-2025-8110 (CVSS score: 8.7), relates to a case of path traversal in the repository file editor that could result in code execution.\n\"Gogs Path",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMUjMXRdyCtI2xikoJSDeGIvViooZx5iY3VaL-JJKo4_S9mFaMjovvMIiSzEzzOMDm8H40sBeHQqs_kLbmkACCDc4BdhtYctddKvyo14C-RTPlx0Cl3fVhppAS5-wZ3ZfletweMZPMp5sI5AgpDmFri8LIqIxakNLNygHDkJisJRv39ouXv6qntGei9EVx/s1600/gogs.png"
     },
     {
       "id": "1e048aef950b37b5f9f14f1e775329ea3a49ca85",
@@ -616,50 +660,6 @@
       "region": "North America",
       "country": "US",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYs3DrTLoxNKDEunQc4yjZyAmnuhSyJGccrpxhneZyB6iJ29zkbfcoDpsPZlJYL59ZNTX09BS4FmbV_Yv2WjkB-mptBp_vVyYa4PpPY5jk73XydEvhAdyS-oHdUzSmbCobA7Gnnf6Iogvs3YdR2yC0XkkCGzdz3e9PQ3qg5kaVRVmn3OKxLbfaT2b0SIld/s1600/phishing-email.jpg"
-    },
-    {
-      "id": "f2d6db28b3bdcd47e5de100c9ba246b6f30ffff1",
-      "title": "ThreatsDay Bulletin: GhostAd Drain, macOS Attacks, Proxy Botnets, Cloud Exploits, and 12+ Stories",
-      "url": "https://thehackernews.com/2026/01/threatsday-bulletin-ghostad-drain-macos.html",
-      "published": "2026-01-01T15:52:00+00:00",
-      "summary": "The first ThreatsDay Bulletin of 2026 lands on a day that already feels symbolic \u2014 new year, new breaches, new tricks. If the past twelve months taught defenders anything, it\u2019s that threat actors don\u2019t pause for holidays or resolutions. They just evolve faster. This week\u2019s round-up shows how subtle shifts in behavior, from code tweaks to job scams, are rewriting what \u201ccybercrime\u201d looks like in",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpopD3Sr47ByE_zUhbMp2X-Y6mYwjadauTKcWNbN0U0__mj7sWOxknQhTJ1O4n97vYFSsGrJ4NR1jA1GGpqNDWDqiZkBcJF9BXJ9GB6nkjqlizHrxSyd37gCO87MwUOcjLnCicQv5htud-3JzoTZeDO6qxHAtiFfbE4y7IK1QQnos0LYbrs4b3qZ2gq3Zk/s1600/threatsday.jpg"
-    },
-    {
-      "id": "fcbcb6e2d4a5b27bf0ee49f38c890642f70c39ee",
-      "title": "RondoDox Botnet Exploits Critical React2Shell Flaw to Hijack IoT Devices and Web Servers",
-      "url": "https://thehackernews.com/2026/01/rondodox-botnet-exploits-critical.html",
-      "published": "2026-01-01T09:19:00+00:00",
-      "summary": "Cybersecurity researchers have disclosed details of a persistent nine-month-long campaign that has targeted Internet of Things (IoT) devices and web applications to enroll them into a botnet known as RondoDox.\nAs of December 2025, the activity has been observed leveraging the recently disclosed React2Shell (CVE-2025-55182, CVSS score: 10.0) flaw as an initial access vector, CloudSEK said in an",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQtdlV7ySzud6pktbmLsSyAnWoLz3a-ROUuyJ1mvoIfcbCrlQkb2dQJ9TqxDFk3dtTqO7H2XEFznwMmOoM2CEGaU41loeAh4MYXWm5L3rVdUCH4WyVZlp68Z-dTthmsTAcrS3l9LIDxrmEIYkMGDgVAQYtfXgVPes9kB2F_ilQxWd8qeK0JCJbo1JUmQ6d/s1600/botnet.jpg"
-    },
-    {
-      "id": "e82db3ad1ac2b2b5ecc0a33ce415c2be96166287",
-      "title": "How To Browse Faster and Get More Done Using Adapt Browser",
-      "url": "https://thehackernews.com/2026/01/how-to-browse-fast-using-a-lightweight-browser.html",
-      "published": "2026-01-01T05:47:00+00:00",
-      "summary": "As web browsers evolve into all-purpose platforms, performance and productivity often suffer.&nbsp;\nFeature overload, excessive background processes, and fragmented workflows can slow down browsing sessions and introduce unnecessary friction, especially for users who rely on the browser as a primary work environment.\nThis article explores how adopting a lightweight, task-focused browser, like",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnDpKmYVs9DYVDTIoNJ6wSiYevAaijgex61A45HMDxbdkAalpZ1mSASedoeAmX_e4awoOaZZzk2n5T99g86HGLcDYdtL36XZV8PELawX4OGSp0yv_i38oa7AdbbisS2I6m9FveLDI1dIc_ia6TPZ-STx-xQdouaxCBAgtoZ-8Nsg0C6JLMf7MXTLpSiKB_/s1600/1.jpg"
-    },
-    {
-      "id": "4adaacd96fc80ba0cc89a8b3d39c1bdafca14ca2",
-      "title": "Trust Wallet Chrome Extension Hack Drains $8.5M via Shai-Hulud Supply Chain Attack",
-      "url": "https://thehackernews.com/2025/12/trust-wallet-chrome-extension-hack.html",
-      "published": "2025-12-31T16:29:00+00:00",
-      "summary": "Trust Wallet on Tuesday revealed that the second iteration of the Shai-Hulud (aka Sha1-Hulud) supply chain outbreak in November 2025 was likely responsible for the hack of its Google Chrome extension, ultimately resulting in the theft of approximately $8.5 million in assets.\n\"Our Developer GitHub secrets were exposed in the attack, which gave the attacker access to our browser extension source",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMbGd5gZt4LivTf91n0rkIqb96QTFiXAPUGZIjWetmK58EeBHuQNFM6PQ1WHeNdTsg5GmtM9qWLoNz1jXn9S1t_zbP02pp62aPKYqruzZ81_fqujiRFvpj1MTxKP9VA6jeNk2Xw4Szx1UJ3ndXXEaV9-T9e0uFqieAuvHlmLRiU2RjTEkDf-Ft9YL6pyx-/s1600/crypto.jpg"
     },
     {
       "id": "c3220b3e16e7aacd490b350c3408bb6ca97a4412",
@@ -1212,6 +1212,39 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd88005a39d050fee/69456dab587e50963b32ed03/2AXGYFG.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
+      "id": "158a6f784a21850f0d8d335c53b0acaa62cfb58a",
+      "title": "Court tosses appeal by hacker who opened port to coke smugglers with malware",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/01/13/dutch_port_hacker_appeal/",
+      "published": "2026-01-13T12:10:08+00:00",
+      "summary": "<h4>Dutchman fails to convince judges his trial was unfair because cops read his encrypted chats</h4> <p>A Dutch appeals court has kept a seven-year prison sentence in place for a man who hacked port IT systems with malware-stuffed USB sticks to help cocaine smugglers move containers, brushing off claims that police shouldn't have been reading his encrypted chats.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "a23e9fa5da8b782d02aaa040a7852d250ea81b93",
+      "title": "Britain goes shopping for a rapid-fire missile to help Ukraine hit back",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/01/13/mod_project_nightfall/",
+      "published": "2026-01-13T10:15:13+00:00",
+      "summary": "<h4>Project Nightfall aims to deliver a UK-built long-range strike capability at speed</h4> <p>The British government is asking defense firms to rapidly produce a new ground-launched ballistic missile to aid Ukraine's fight against Russia - hardware that might also be adopted by UK's armed forces in future.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "f6137fa0532701a151ef8273ae5c48307ebc03be",
+      "title": "India demands crypto outfits geolocate customers, get a selfie to prove they\u2019re real",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/01/13/india_crypto_kyc_aml_update/",
+      "published": "2026-01-13T02:48:06+00:00",
+      "summary": "<h4>Government is fed up with bad actors using digi-cash to fund dodgy deeds</h4> <p>India\u2019s government has updated the regulations it imposes on cryptocurrency services providers, as part of its efforts to combat fraud, money laundering, and terrorism.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "1625e07b56728e9610736111a13b0788bc9cd8de",
       "title": "No fire sale for firewalls as memory shortages could push prices higher",
       "url": "https://go.theregister.com/feed/www.theregister.com/2026/01/12/no_fire_sale_on_firewalls/",
@@ -1729,39 +1762,6 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "23557a8a4553030388d0d22d248d035cbd975848",
-      "title": "Bitfinex crypto thief who was serving five years thanks Trump for early release",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/01/02/bitfinex_crypto_thief_released/",
-      "published": "2026-01-02T20:22:04+00:00",
-      "summary": "<h4>Netflix documentary part 2 in the works?</h4> <p>Ilya Lichtenstein, who pleaded guilty to money-laundering charges tied to the 2016 theft of about 120,000 bitcoins from the Bitfinex exchange and was sentenced to five years in prison, has been released after roughly 14 months in the slammer.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "b7960770dd6c27d76d1379e349924fef6fd0283e",
-      "title": "Cybercrook claims to be selling infrastructure info about three major US utilities",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/01/02/critical_utility_files_for_sale/",
-      "published": "2026-01-02T18:34:24+00:00",
-      "summary": "<h4>For the bargain price of 6.5 bitcoin</h4> <p>A cybercrook claims to have breached Pickett and Associates, a Florida-based engineering firm whose clients include major US utilities, and is selling what they claim to be about 139 GB of engineering data about Tampa Electric Company, Duke Energy Florida, and American Electric Power.\u00a0The price is 6.5 bitcoin, which amounts to about $585,000.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "17bf3df31076b2f879deb9dfa8c108b12299f4b6",
-      "title": "Brit lands invite-only Aussie visa after uncovering vuln in government systems",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/01/02/brit_security_australia_visa/",
-      "published": "2026-01-02T16:11:53+00:00",
-      "summary": "<h4>Jacob Riggs is set to swap London for Sydney some time in the next year</h4> <p>A British security researcher has secured Australia's strictest, invite-only visa after discovering a critical vulnerability in a government system.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
       "id": "479496e784d1b1bac8f0d4ec7e6ba8338ab2cf58",
       "title": "Who Benefited from the Aisuru and Kimwolf Botnets?",
       "url": "https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/",
@@ -1812,6 +1812,39 @@
       "published": "2025-12-16T14:14:48+00:00",
       "summary": "Direct navigation -- the act of visiting a website by manually typing a domain name in a web browser -- has never been riskier: A new study finds the vast majority of \"parked\" domains -- mostly expired or dormant domain names, or common misspellings of popular websites -- are now configured to redirect visitors to sites that foist scams and malware.",
       "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "bb68cd9275b7f55bf320003a2813db351a50af96",
+      "title": "Dutch Port Hacker Sentenced to Prison",
+      "url": "https://www.securityweek.com/dutch-port-hacker-sentenced-to-prison/",
+      "published": "2026-01-13T11:50:23+00:00",
+      "summary": "<p>The 44-year-old individual planted remote access malware on a logistics firm\u2019s systems, with help from employees.</p>\n<p>The post <a href=\"https://www.securityweek.com/dutch-port-hacker-sentenced-to-prison/\">Dutch Port Hacker Sentenced to Prison</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "08b17523ea83781c41321331adc6ca690c19fec7",
+      "title": "Spanish Energy Company Endesa Hacked",
+      "url": "https://www.securityweek.com/spanish-energy-company-endesa-hacked/",
+      "published": "2026-01-13T10:40:57+00:00",
+      "summary": "<p>Hackers stole complete customer information, including contact details, national identity numbers, and payment details.</p>\n<p>The post <a href=\"https://www.securityweek.com/spanish-energy-company-endesa-hacked/\">Spanish Energy Company Endesa Hacked</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "ff1fd468c9d6b5045b077fbf9e07bba4dc0fea96",
+      "title": "Cyber Fraud Overtakes Ransomware as Top CEO Concern: WEF",
+      "url": "https://www.securityweek.com/cyber-fraud-overtakes-ransomware-as-top-ceo-concern-wef/",
+      "published": "2026-01-13T08:16:57+00:00",
+      "summary": "<p>Ransomware remains the biggest concern for CISOs in 2026, according to WEF\u2019s Global Cybersecurity Outlook 2026 report.</p>\n<p>The post <a href=\"https://www.securityweek.com/cyber-fraud-overtakes-ransomware-as-top-ceo-concern-wef/\">Cyber Fraud Overtakes Ransomware as Top CEO Concern: WEF\u00a0</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
@@ -1888,39 +1921,6 @@
       "url": "https://www.securityweek.com/hackers-accessed-university-of-hawaii-cancer-center-patient-data-they-werent-immediately-notified/",
       "published": "2026-01-12T02:09:09+00:00",
       "summary": "<p>UH officials refused to provide key information, including which cancer research project had been affected or how much UH paid the hackers to regain access to files.</p>\n<p>The post <a href=\"https://www.securityweek.com/hackers-accessed-university-of-hawaii-cancer-center-patient-data-they-werent-immediately-notified/\">Hackers Accessed University of Hawaii Cancer Center Patient Data; They Weren\u2019t Immediately Notified</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "b4e0e318504d66b4f99f060cd6e089c3bc454cd3",
-      "title": "In Other News: 8,000 Ransomware Attacks, China Hacked US Gov Emails, IDHS Breach Impacts 700k",
-      "url": "https://www.securityweek.com/in-other-news-8000-ransomware-attacks-china-hacked-us-gov-emails-idhs-breach-impacts-700k/",
-      "published": "2026-01-09T15:58:37+00:00",
-      "summary": "<p>Other noteworthy stories that might have slipped under the radar: Jaguar Land Rover sales crash, hundreds of gen-AI data policy violations, and Chinese cyberattacks against Taiwan intensified.</p>\n<p>The post <a href=\"https://www.securityweek.com/in-other-news-8000-ransomware-attacks-china-hacked-us-gov-emails-idhs-breach-impacts-700k/\">In Other News: 8,000 Ransomware Attacks, China Hacked US Gov Emails, IDHS Breach Impacts 700k</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "f316335da7e04bce2d8bd8146933212de3e17f57",
-      "title": "Tim Kosiba Named NSA Deputy Director",
-      "url": "https://www.securityweek.com/tim-kosiba-named-nsa-deputy-director/",
-      "published": "2026-01-09T15:18:50+00:00",
-      "summary": "<p>Kosiba, a veteran of the Intelligence Community with over 30 years of federal service, returns to the agency as its most senior civilian leader. </p>\n<p>The post <a href=\"https://www.securityweek.com/tim-kosiba-named-nsa-deputy-director/\">Tim Kosiba Named NSA Deputy Director</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "526c0952a857e70b86b0e903e199efd413378f7d",
-      "title": "FBI: North Korean Spear-Phishing Attacks Use Malicious QR Codes",
-      "url": "https://www.securityweek.com/fbi-north-korean-spear-phishing-attacks-use-malicious-qr-codes/",
-      "published": "2026-01-09T14:56:09+00:00",
-      "summary": "<p>The North Korean state-sponsored espionage group Kimsuky has targeted government organizations, think tanks, and academic institutions.</p>\n<p>The post <a href=\"https://www.securityweek.com/fbi-north-korean-spear-phishing-attacks-use-malicious-qr-codes/\">FBI: North Korean Spear-Phishing Attacks Use Malicious QR Codes</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
