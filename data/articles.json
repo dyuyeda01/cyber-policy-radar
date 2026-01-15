@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-15T00:44:40.818956+00:00",
+  "generated_at": "2026-01-15T12:19:11.640681+00:00",
   "items": [
     {
       "id": "c916cf7a3d0a6c517d915bc3fab767a525961ee6",
@@ -112,6 +112,39 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "02e577dd856ca4bf019ff5852702da1ff6892954",
+      "title": "4 Outdated Habits Destroying Your SOC's MTTR in 2026",
+      "url": "https://thehackernews.com/2026/01/4-outdated-habits-destroying-your-socs.html",
+      "published": "2026-01-15T11:00:00+00:00",
+      "summary": "It\u2019s 2026, yet many SOCs are still operating the way they did years ago, using tools and processes designed for a very different threat landscape. Given the growth in volumes and complexity of cyber threats, outdated practices no longer fully support analysts\u2019 needs, staggering investigations and incident response.\nBelow are four limiting habits that may be preventing your SOC from evolving at",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLFWLON6Sb5l1X4m1NB6waPUcKnXCUUYcBnqw9AwkTbX4m2LYQqvC7SrpCvMsYuzAvb6HZkJ_EyA1ow6sL-oIFCKdn1wZN6EXxYH-ZmnAcmQW7adxUTGEkkw1SSeMCJgdandr0AqC6JDYW6Mxx2FxyTSz6kpAMbRMF1E7uLR1jvFYBekOkv8S-560C8pI/s1600/anyrun-main.jpg"
+    },
+    {
+      "id": "6b35016a61d7ae6e33c382f5a7b135753be4b60e",
+      "title": "Microsoft Legal Action Disrupts RedVDS Cybercrime Infrastructure Used for Online Fraud",
+      "url": "https://thehackernews.com/2026/01/microsoft-legal-action-disrupts-redvds.html",
+      "published": "2026-01-15T09:37:00+00:00",
+      "summary": "Microsoft on Wednesday announced that it has taken a \"coordinated legal action\" in the U.S. and the U.K. to disrupt a cybercrime subscription service called RedVDS that has allegedly fueled millions in fraud losses.\nThe effort, per the tech giant, is part of a broader law enforcement effort in collaboration with law enforcement authorities that has allowed it to confiscate the malicious",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCVLDhpz3tBZUhh-88mVPvKY16J7ws-ofqjwN_YUNINRU2YeXG0zA5O39KqPKDWa2cN-QOht-WHJ6BmfwrPCR0DUMQFUJ2Gr9DjSjF0Kmk31Sc8nGh9ciUWfpbv-SJFkwgHeBVh3b4s6PuqLvjeqAbAJvve7PksGugF9p0ESp9jrEmNweKeXCQFC_SS7Tp/s1600/ms-fraud-servers.jpg"
+    },
+    {
+      "id": "0bbd61031bce641af5f12aab137602c9d58323fa",
+      "title": "Palo Alto Fixes GlobalProtect DoS Flaw That Can Crash Firewalls Without Login",
+      "url": "https://thehackernews.com/2026/01/palo-alto-fixes-globalprotect-dos-flaw.html",
+      "published": "2026-01-15T08:18:00+00:00",
+      "summary": "Palo Alto Networks has released security updates for a high-severity security flaw impacting GlobalProtect Gateway and Portal, for which it said there exists a proof-of-concept (PoC) exploit.\nThe vulnerability, tracked as CVE-2026-0227 (CVSS score: 7.7), has been described as a denial-of-service (DoS) condition impacting GlobalProtect PAN-OS software arising as a result of an improper check for",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYIgBhmpBELPnR-WkdX1gKhf8lt6aLh_vFl7l4w8GVDOFcvbF8Vwrvt0vTwAqX5q51ybv3o8qPzMre3pF1PwDCnX0aYUmKBKHusgttSMK07Pbh20nSIq4hqwA_1dumI3Jhop44Dxh1uUkCzg-9CRT7b3BrWLGfgAyVP9o65XkuRkUASszfh1ljMyr-aiDP/s1600/paloalto.jpg"
+    },
+    {
       "id": "e6462446c5b11d1068b16ca75ced2bddc5787e8b",
       "title": "Researchers Null-Route Over 550 Kimwolf and Aisuru Botnet Command Servers",
       "url": "https://thehackernews.com/2026/01/kimwolf-botnet-infected-over-2-million.html",
@@ -124,10 +157,10 @@
     },
     {
       "id": "f466d28a14720284136967bc36d6830b35c0b683",
-      "title": "AI Agents Are Becoming Privilege Escalation Paths",
+      "title": "AI Agents Are Becoming Authorization Bypass Paths",
       "url": "https://thehackernews.com/2026/01/ai-agents-are-becoming-privilege.html",
       "published": "2026-01-14T15:07:00+00:00",
-      "summary": "AI agents have quickly moved from experimental tools to core components of daily workflows across security, engineering, IT, and operations. What began as individual productivity aids, like personal code assistants, chatbots, and copilots, has evolved into shared, organization-wide agents embedded in critical processes. These agents can orchestrate workflows across multiple systems, for example:",
+      "summary": "Not long ago, AI agents were harmless. They wrote snippets of code. They answered questions. They helped individuals move a little faster.\nThen organizations got ambitious.\nInstead of personal copilots, companies started deploying shared organizational AI agents - agents embedded into HR, IT, engineering, customer support, and operations. Agents that don&rsquo;t just suggest, but act. Agents",
       "source": "The Hacker News",
       "region": "North America",
       "country": "US",
@@ -629,37 +662,15 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilyYADOHMjVaRNmtGaBfZPuBBjV_zLAAmQ5LxnNXcpM_sHfQYws0W0gowwIgUC9-LBYr-y4eb5HK1cyqC857lCqKz1M_EHugfrzmkAL2vW-0SoRCdJpYsbZv8fd6-5EK8awrdD7a4eCaTZTJB9BLLDdYZlKNZQJ4Pwp7aok-jQ793kB7ft_A5pIgtCqvuQ/s1600/chrome.jpg"
     },
     {
-      "id": "b4fe34ac16d5814ca52c3659088368a8c18c01e5",
-      "title": "Unpatched Firmware Flaw Exposes TOTOLINK EX200 to Full Remote Device Takeover",
-      "url": "https://thehackernews.com/2026/01/unpatched-firmware-flaw-exposes.html",
-      "published": "2026-01-06T15:47:00+00:00",
-      "summary": "The CERT Coordination Center (CERT/CC) has disclosed details of an unpatched security flaw impacting TOTOLINK EX200 wireless range extender that could allow a remote authenticated attacker to gain full control of the device.\nThe flaw, CVE-2025-65606 (CVSS score: N/A), has been characterized as a flaw in the firmware-upload error-handling logic, which could cause the device to inadvertently start",
-      "source": "The Hacker News",
+      "id": "afa449c83b48a935aa90a290c5e9abf91436aa83",
+      "title": "Trio of Critical Bugs Spotted in Delta Industrial PLCs",
+      "url": "https://www.darkreading.com/ics-ot-security/critical-bugs-delta-industrial-plcs",
+      "published": "2026-01-15T11:00:00+00:00",
+      "summary": "Experts disagree on whether the vulnerabilities in a programmable logic controller from Delta are a five-alarm fire or not much to worry over.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyTFwLjAZvcGODxR0B7hv5Irv_LIjhCSSiF42fD71qFULdTLWFdJzYSWaMPwXThxT7CocXe9IdvNCU6-9F5fwrHyNMN9AjbhpOLxOzUXDFYHO0Uaypv6wTJ9O4vOmbC_OfBTwBvvXFHAQfTWg4Q_dM5aelJtqTPy7HkRl2E8q1D9bx6hoa1PKMkUkxTqsw/s1600/totolink.jpg"
-    },
-    {
-      "id": "813a19f806d3a2f10f0e64ff181247c79b3d3ce2",
-      "title": "Fake Booking Emails Redirect Hotel Staff to Fake BSoD Pages Delivering DCRat",
-      "url": "https://thehackernews.com/2026/01/fake-booking-emails-redirect-hotel.html",
-      "published": "2026-01-06T12:13:00+00:00",
-      "summary": "Source: Securonix\nCybersecurity researchers have disclosed details of a new campaign dubbed PHALT#BLYX that has leveraged ClickFix-style lures to display fixes for fake blue screen of death (BSoD) errors in attacks targeting the European hospitality sector.\nThe end goal of the multi-stage campaign is to deliver a remote access trojan known as DCRat, according to cybersecurity company Securonix.",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlFgZ371OJLB7x0fK_3a34h710DpAHQLeyLQyaBpp1jhfsFyRD0-tmkLhXAvv0VD1XnU_WK8g5O16VUob1aHIyQf2smhkn6llIaC_H5_6MwogFRD11Hfp-w2kPc9vgiBUTlnftXM7VuCMsFmBPwxtyvAokqOJbgSAndESDU3qZV6-R9SH6meqbyuyoFk8n/s1600/windows.jpg"
-    },
-    {
-      "id": "7046c0d0b8178ca236f6aa07c6a26972e5d939b5",
-      "title": "What is Identity Dark Matter?",
-      "url": "https://thehackernews.com/2026/01/what-is-identity-dark-matter.html",
-      "published": "2026-01-06T11:30:00+00:00",
-      "summary": "The Invisible Half of the Identity Universe\nIdentity used to live in one place - an LDAP directory, an HR system, a single IAM portal.\nNot anymore. Today, identity is fragmented across SaaS, on-prem, IaaS, PaaS, home-grown, and shadow applications. Each of these environments carries its own accounts, permissions, and authentication flows.\nTraditional IAM and IGA tools govern only the nearly",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimEQJzjgjvmRoxiOvQDswNk4aPb0STZSmlm6rBFlVh7oIWzu0XT-hTarbOhpjAkrNk5HK6JM4WG0zm0JoofGChmxAyJRgYpPghychWIhMDkl1s_LlWzaeYjEcjAPaJI0vZFsBVYEaxtzeYvJljHwLH_6r9Hp5pysms3sNK5NSVtK6CENQWAS0fVxFpXDo/s1600/main.gif"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8181392fb86595df/6967fde2c0d7175dbe65a3b6/PLC-genkur-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "id": "e85b34d939235f941b8e5711996c4f01bc191fc4",
@@ -1201,15 +1212,37 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt66798250e0578f0c/6944474d51157e853543c19c/Threat_imageBROKER_com_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "e2094c1b6c987a23f78e1ba41453478f5ab22eaa",
-      "title": "Mentorship &amp; Diversity: Shaping the Next Generation of Cyber Experts",
-      "url": "https://www.darkreading.com/cybersecurity-careers/mentorship-and-diversity-shaping-the-next-generation-of-cyber-experts",
-      "published": "2025-12-26T15:15:00+00:00",
-      "summary": "Patricia Voight, CISO at Webster Bank, shares her expertise on advancing cybersecurity careers, combating financial crimes, and championing diversity in a rapidly changing industry.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8e5cfc50a562f286/69456796bbf6bc28b7111ebb/plants1800_Perry_van_Munster_alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "id": "f91f70fcf87994b5022ec77544daa68a6e42e5b7",
+      "title": "Microsoft taps UK courts to dismantle cybercrime host RedVDS",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/01/15/microsoft_uk_courts_redvds/",
+      "published": "2026-01-15T11:32:06+00:00",
+      "summary": "<h4>Redmond says cheap virtual desktops powered a global wave of phishing and fraud</h4> <p>Microsoft has taken its cybercrime fight to the UK in its first major civil action outside the US, moving to shut down RedVDS, a virtual desktop service used to power phishing and fraud at global scale.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "177f178db54a9ddf44f06a03288ba8a93f1a06be",
+      "title": "Ofcom keeps X under the microscope despite Grok 'nudify' fix",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/01/15/ofcom_grok_probe/",
+      "published": "2026-01-15T11:18:14+00:00",
+      "summary": "<h4>Cold milk poured over 'spicy mode,' but it might not be enough to escape a huge fine</h4> <p>Ofcom is continuing with its investigation into X, despite the social media platform saying it will block Grok from digitally undressing people.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "632be4c1bea3f26ab8b31aa26249f19487443691",
+      "title": "AWS flips switch on Euro cloud as customers fret about digital sovereignty",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/01/15/aws_european_sovereign_cloud/",
+      "published": "2026-01-15T09:30:09+00:00",
+      "summary": "<h4>EU-only ops, German subsidiaries, and a pinky promise your data won't end up in Uncle Sam's hands</h4> <p>Amid continued trade and geopolitical volatility between Europe and the US, Amazon Web Services is making its European Sovereign Cloud generally available today and plans to expand so-called Dedicated Local Zones.\u2026</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
       "id": "77eb2d676eb948cbb8e48a00a04492c90f0875a4",
@@ -1729,39 +1762,6 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "2678c864489841a0fc71ebfc8d34cd4c91f167b5",
-      "title": "Microsoft scraps Exchange Online spam clamp after customers cry foul",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/01/07/exchange_online_recipient_rate/",
-      "published": "2026-01-07T15:25:50+00:00",
-      "summary": "<h4>Negative feedback sinks Redmond's plan to cap outbound email recipients</h4> <p>Microsoft has backed away from planned changes to Exchange Online after customers objected to limits designed to curb outbound email abuse.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "cb31c2044c73919a8f5bbf91726ca762428c7e09",
-      "title": "Ministry of Justice splurged \u00a350M on security \u2013 still missed Legal Aid Agency cyberattack",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/01/07/legal_aid_agency_attack/",
-      "published": "2026-01-07T12:28:43+00:00",
-      "summary": "<h4>High-risk system compromised long before intrusion was finally spotted</h4> <p><strong>Updated</strong>\u00a0 The UK's Ministry of Justice spent \u00a350 million ($67 million) on cybersecurity improvements at the Legal Aid Agency (LAA) before the high-profile cyberattack it disclosed last year.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "08d5724535f80a7deedab31980f92b190bc0c370",
-      "title": "Jaguar Land Rover wholesale volumes plummet 43% in cyberattack aftermath",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/01/07/jlr_wholesale_volumes/",
-      "published": "2026-01-07T11:50:46+00:00",
-      "summary": "<h4>Production halts and supply-chain disruption left luxury automaker reeling in fiscal Q3</h4> <p>Brit luxury automaker Jaguar Land Rover has reported devastating preliminary Q3 results that lay bare the cascading consequences of a crippling cyberattack, revealing wholesale volumes collapsed more than two-fifths year-on-year.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
       "id": "7aeb1f247b3c4237fa0cff08febfcdc64a397f5b",
       "title": "Patch Tuesday, January 2026 Edition",
       "url": "https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/",
@@ -1828,6 +1828,61 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "50c781d43488ee7c3b6917ad842d4324545c801c",
+      "title": "New \u2018Reprompt\u2019 Attack Silently Siphons Microsoft Copilot Data",
+      "url": "https://www.securityweek.com/new-reprompt-attack-silently-siphons-microsoft-copilot-data/",
+      "published": "2026-01-15T12:09:29+00:00",
+      "summary": "<p>The attack bypassed Copilot\u2019s data leak protections and allowed for session exfiltration even after the Copilot chat was closed.</p>\n<p>The post <a href=\"https://www.securityweek.com/new-reprompt-attack-silently-siphons-microsoft-copilot-data/\">New &#8216;Reprompt&#8217; Attack Silently Siphons Microsoft Copilot Data</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "e9d2f50c2b36d2b3f75da7c71a41b7cbbd73b653",
+      "title": "Central Maine Healthcare Data Breach Impacts 145,000 Individuals",
+      "url": "https://www.securityweek.com/central-maine-healthcare-data-breach-impacts-145000-individuals/",
+      "published": "2026-01-15T10:36:46+00:00",
+      "summary": "<p>Hackers stole patients\u2019 personal, treatment, and health insurance information from the hospital\u2019s IT systems.</p>\n<p>The post <a href=\"https://www.securityweek.com/central-maine-healthcare-data-breach-impacts-145000-individuals/\">Central Maine Healthcare Data Breach Impacts 145,000 Individuals</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "4415d4d750d9095c935a7bd6325e5361a0d23fe9",
+      "title": "VoidLink Linux Malware Framework Targets Cloud Environments",
+      "url": "https://www.securityweek.com/voidlink-linux-malware-framework-targets-cloud-environments/",
+      "published": "2026-01-15T09:35:19+00:00",
+      "summary": "<p>Designed for long-term access, the framework targets cloud and container environments with loaders, implants, and rootkits.</p>\n<p>The post <a href=\"https://www.securityweek.com/voidlink-linux-malware-framework-targets-cloud-environments/\">VoidLink Linux Malware Framework Targets Cloud Environments</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "d75c4523003b2ce0103cc1eb49f0b9090f1b7766",
+      "title": "ICS Patch Tuesday: Vulnerabilities Fixed by Siemens, Schneider, Aveva, Phoenix Contact",
+      "url": "https://www.securityweek.com/ics-patch-tuesday-vulnerabilities-fixed-by-siemens-schneider-aveva-phoenix-contact/",
+      "published": "2026-01-15T09:05:02+00:00",
+      "summary": "<p>Only a dozen new advisories have been published this Patch Tuesday by industrial giants.\u00a0</p>\n<p>The post <a href=\"https://www.securityweek.com/ics-patch-tuesday-vulnerabilities-fixed-by-siemens-schneider-aveva-phoenix-contact/\">ICS Patch Tuesday: Vulnerabilities Fixed by Siemens, Schneider, Aveva, Phoenix Contact</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "52d266329daa3106631ef2ce974ba88b054618cc",
+      "title": "Traveler Information Stolen in Eurail Data Breach",
+      "url": "https://www.securityweek.com/traveler-information-stolen-in-eurail-data-breach/",
+      "published": "2026-01-15T08:30:49+00:00",
+      "summary": "<p>Hackers stole the personal and reservation information of people with a Eurail pass and those who made a seat reservation with the company.</p>\n<p>The post <a href=\"https://www.securityweek.com/traveler-information-stolen-in-eurail-data-breach/\">Traveler Information Stolen in Eurail Data Breach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "a881227b4ebc5e989b9c2ccacd9efa1c4e394c67",
       "title": "Aikido Security Raises $60 Million at $1 Billion Valuation",
       "url": "https://www.securityweek.com/aikido-security-raises-60-million-at-1-billion-valuation/",
@@ -1877,61 +1932,6 @@
       "url": "https://www.securityweek.com/novee-emerges-from-stealth-with-51-5-million-in-funding/",
       "published": "2026-01-14T13:15:35+00:00",
       "summary": "<p>Novee provides continuous AI-driven penetration testing to uncover and address novel vulnerabilities.</p>\n<p>The post <a href=\"https://www.securityweek.com/novee-emerges-from-stealth-with-51-5-million-in-funding/\">Novee Emerges From Stealth With $51.5 Million in Funding</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "10b8370f2fe51761dc0fae4b3083f6a56fb00df2",
-      "title": "WitnessAI Raises $58 Million for AI Security Platform",
-      "url": "https://www.securityweek.com/witnessai-raises-58-million-for-ai-security-platform/",
-      "published": "2026-01-14T11:49:40+00:00",
-      "summary": "<p>The company will use the fresh investment to accelerate its global go-to-market and product expansion.</p>\n<p>The post <a href=\"https://www.securityweek.com/witnessai-raises-58-million-for-ai-security-platform/\">WitnessAI Raises $58 Million for AI Security Platform</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "274354519e0b309b7a0da9d0f01a1a02986e11ed",
-      "title": "Robo-Advisor Betterment Discloses Data Breach",
-      "url": "https://www.securityweek.com/robo-advisor-betterment-discloses-data-breach/",
-      "published": "2026-01-14T10:50:45+00:00",
-      "summary": "<p>A threat actor breached Betterment\u2019s systems, accessed customer information, and sent scam crypto-related messages.</p>\n<p>The post <a href=\"https://www.securityweek.com/robo-advisor-betterment-discloses-data-breach/\">Robo-Advisor Betterment Discloses Data Breach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "b412298a54cc956c6ef58e8327a3216a90a4087d",
-      "title": "Fortinet Patches Critical Vulnerabilities in FortiFone, FortiSIEM",
-      "url": "https://www.securityweek.com/fortinet-patches-critical-vulnerabilities-in-fortifone-fortisiem/",
-      "published": "2026-01-14T09:56:38+00:00",
-      "summary": "<p>Exploitable without authentication, the two security defects could lead to configuration leak and code execution.</p>\n<p>The post <a href=\"https://www.securityweek.com/fortinet-patches-critical-vulnerabilities-in-fortifone-fortisiem/\">Fortinet Patches Critical Vulnerabilities in FortiFone, FortiSIEM</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "f38f3a120dce2b9f9481c02ecab327d3384e5f25",
-      "title": "Chrome 144, Firefox 147 Patch High-Severity Vulnerabilities",
-      "url": "https://www.securityweek.com/chrome-144-firefox-147-patch-high-severity-vulnerabilities/",
-      "published": "2026-01-14T09:50:09+00:00",
-      "summary": "<p>The two browser updates resolve 26 security defects, including bugs that could be exploited for code execution.</p>\n<p>The post <a href=\"https://www.securityweek.com/chrome-144-firefox-147-patch-high-severity-vulnerabilities/\">Chrome 144, Firefox 147 Patch High-Severity Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "c253b52fb3a105b6843fdb904f82e9b72685d78e",
-      "title": "Microsoft Patches Exploited Windows Zero-Day, 111 Other Vulnerabilities",
-      "url": "https://www.securityweek.com/microsoft-patches-exploited-windows-zero-day-111-other-vulnerabilities/",
-      "published": "2026-01-13T21:00:00+00:00",
-      "summary": "<p>Two vulnerabilities patched this month by Microsoft were disclosed publicly before fixes were released.</p>\n<p>The post <a href=\"https://www.securityweek.com/microsoft-patches-exploited-windows-zero-day-111-other-vulnerabilities/\">Microsoft Patches Exploited Windows Zero-Day, 111 Other Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
