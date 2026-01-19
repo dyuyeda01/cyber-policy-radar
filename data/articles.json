@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-19T00:52:05.397806+00:00",
+  "generated_at": "2026-01-19T12:20:49.595938+00:00",
   "items": [
     {
       "id": "568d38620c92a4e2a9f82c17d5a5e01713ee86da",
@@ -110,6 +110,28 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "7192d15d433db7abaa0f6d841865b9c4926b635a",
+      "title": "CrashFix Chrome Extension Delivers ModeloRAT Using ClickFix-Style Browser Crash Lures",
+      "url": "https://thehackernews.com/2026/01/crashfix-chrome-extension-delivers.html",
+      "published": "2026-01-19T09:09:00+00:00",
+      "summary": "Cybersecurity researchers have disclosed details of an ongoing campaign dubbed KongTuke that used a malicious Google Chrome extension masquerading as an ad blocker to deliberately crash the web browser and trick victims into running arbitrary commands using ClickFix-like lures to deliver a previously undocumented remote access trojan (RAT) dubbed ModeloRAT.\nThis new escalation of ClickFix has",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHk6v6YRLFG3a9vVJQ5OLdPuN9cBdDklQzJHf91XqJUjDiKB8IT7VEmxB7VyKcSXbahTKXr-seTEvP3hdRWT2ws4xUteRY4tfouGxjDrH22aIxauonv9sb7Gw6TgCRh4GfoMCZLnp6gL79_feODNKp7LHF8nkte3e6mvt4d3UERPwMxUvHgnF1e6uB2BSf/s1600/edges.jpg"
+    },
+    {
+      "id": "44d2f34fe0f563c056d5784cdde7942f629c07ee",
+      "title": "Security Bug in StealC Malware Panel Let Researchers Spy on Threat Actor Operations",
+      "url": "https://thehackernews.com/2026/01/security-bug-in-stealc-malware-panel.html",
+      "published": "2026-01-19T06:53:00+00:00",
+      "summary": "Cybersecurity researchers have disclosed a cross-site scripting (XSS) vulnerability in the web-based control panel used by operators of the StealC information stealer, allowing them to gather crucial insights on one of the threat actors using the malware in their operations.\n\"By exploiting it, we were able to collect system fingerprints, monitor active sessions, and \u2013 in a twist that will",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWgXm3VbZRhqFOmPi88AiXeiRLKHkASKs6cVSYmMLmlZiGyP3Xqdd8X1J5qkppk2zMYcKK5-rkza0xId4pky69xHymWs7aX3DXRaMGmDZm0WgtfPRjw3OyD4G2VfuB_4WveR3GQ3b0das7-37IWLkZbEQDG_jiheSCynC23sxLFLhW4Lnxhlfa_X2EAqzd/s1600/uno.jpg"
     },
     {
       "id": "383e24d928dfed5ab4e15c87079e04813c9c248a",
@@ -638,28 +660,6 @@
       "region": "North America",
       "country": "US",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYqkrQT2-0GXXeWkPsNM5dnxJyFwJ5MdeB5Gj_PWzNa168z1Gchyphenhyphenfx3tl6fCSBzjHnmPCD7IDR38mbY36lifKUwB0qBjtX5A8vbCn_fwvsAFZcExFwJi7w4Y6G_R_rZ7QzpZEDlNkfoP7w5gGFlN6nbate4XgsNXm9GUKHlkW_DJs9mlGd7wxNWWuvK0Lu/s1600/threatsday.jpg"
-    },
-    {
-      "id": "64f4ef0912f681b0bf79d12858ad901b8ca0b5b9",
-      "title": "The State of Trusted Open Source",
-      "url": "https://thehackernews.com/2026/01/the-state-of-trusted-open-source.html",
-      "published": "2026-01-08T11:50:00+00:00",
-      "summary": "Chainguard, the trusted source for open source, has a unique view into how modern organizations actually consume open source software and where they run into risk and operational burdens. Across a growing customer base and an extensive catalog of over 1800 container image projects, 148,000 versions, 290,000 images, and 100,000 language libraries, and almost half a billion builds, they can see",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZoKSxRFayxkvrH0IbQJcIVluEGBHP48Adp3NIQ48I_QbNUy3N91tDM6UFfvq-OrbLJkBz91GjwO9Qb_iEtDHgha1j6IYbWqtemdZ19MF0cdUrdtRfZDwf_3QT_gJk1BkqUdxer3wz80NZUw6-hHGdr_hA6LRwSo1zYxa4Q34tGLLCnxiv-xtnSAQYj58/s1600/Chainguard.jpg"
-    },
-    {
-      "id": "6244863914b8ad6dbec5535dfdcc91281870c62c",
-      "title": "Cisco Patches ISE Security Vulnerability After Public PoC Exploit Release",
-      "url": "https://thehackernews.com/2026/01/cisco-patches-ise-security.html",
-      "published": "2026-01-08T10:44:00+00:00",
-      "summary": "Cisco has released updates to address a medium-severity security flaw in Identity Services Engine (ISE) and ISE Passive Identity Connector (ISE-PIC) with a public proof-of-concept (PoC) exploit.\nThe vulnerability, tracked as CVE-2026-20029 (CVSS score: 4.9), resides in the licensing feature and could allow an authenticated, remote attacker with administrative privileges to gain access to",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjybuSkMzO3sPyC2aweCyQ7gBCiWeZ0MKZORj98gSkWfOtEBpzOFHt7hqNsdT1eqWpHyhQfiHHUw9U6sMvAI5Nj7JYfXd-BbxZYhV7AFPY6orjs-g0asPZceU4bBweF1odEupcmfSvxXx8Jsci1v8alq87jE0FJPaE6uYHy39KIBaoYd97VqDPQELznEpwJ/s1600/cisco.jpg"
     },
     {
       "id": "9753b02524b12487e64996bf9eef4c0da5e7a094",
@@ -1212,6 +1212,61 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6820a838ed160c35/694ae4ceec15802bd5c05f8f/digital_identity.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
+      "id": "6ff8043a79ba5b7fdc0b80d64c2f8b06dbcb9964",
+      "title": "UK prime minister stares down barrel of ban on social media for kids",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/01/19/uk_social_media_children_ban_prime_minister/",
+      "published": "2026-01-19T11:55:57+00:00",
+      "summary": "<h4>Labour's latest U-turn? 61 backbenchers pile pressure for Starmer to back Tory peer's amendment</h4> <p>The British government may impose a ban on under-16s using social media, despite Labour prime minister Keir Starmer having previously expressed skepticism over the measure.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "0f5f5b7a4a7554a11a917020e4aaf90e5233462b",
+      "title": "Warwickshire school to reopen after cyberattack crippled IT",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/01/19/higham_lane_school_reopens/",
+      "published": "2026-01-19T11:15:14+00:00",
+      "summary": "<h4>Kids return to classrooms after safety infrastructure knocked out</h4> <p>A Warwickshire secondary school says it will fully reopen this week after a cyberattack forced a prolonged closure \u2013 though staff will return to classrooms with \"very limited access\" to IT systems.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "66a651bbfe3c367bb77361bc403e0c12974b14a5",
+      "title": "Royal Navy's helicopter drone makes its first autonomous flight",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/01/19/helicopter_drone_for_royal_navy/",
+      "published": "2026-01-19T10:15:11+00:00",
+      "summary": "<h4>Capable of carrying 1-ton payload and key to strategy protecting North Atlantic from Russian submarines</h4> <p>The Royal Navy has conducted the first flight of a helicopter-sized autonomous drone that is planned to operate from its ships in support of missions, including hunting for hostile submarines.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "19db7112675a156879b3fad72c547097438a8618",
+      "title": "ATM maintenance tech broke the bank by forgetting to return a key",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/01/19/who_me/",
+      "published": "2026-01-19T07:30:13+00:00",
+      "summary": "<h4>Bank staff wore the blame for a silly security slip</h4> <p><strong>Who, Me?</strong>\u00a0 Welcome to another edition of \u201cWho Me?\u201d, <i>The Register</i>\u2019s Monday column that shares your mistakes and celebrates your escapes.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "f6787701eb38a9fc4980b4995732490ec904cb9f",
+      "title": "Microsoft hiring energy strategists to power its Asian datacenters",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/01/19/asia_tech_news_roundup/",
+      "published": "2026-01-19T02:11:34+00:00",
+      "summary": "<h4>PLUS: ASUS gets into healthcare gadgets; Vietnam\u2019s first fab; Australia's child social ban takes out 4.7 million accounts; And more!</h4> <p><strong>Asia In Brief</strong>\u00a0 Microsoft is hiring senior managers to ensure its datacenters in Asia can access the energy they need.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "c76a4064c0f6c6d98453fc0b9ff2bf6e6ab713a7",
       "title": "Mandiant releases quick credential cracker, to hasten the death of a bad protocol",
       "url": "https://go.theregister.com/feed/www.theregister.com/2026/01/18/infosec_news_in_brief/",
@@ -1707,61 +1762,6 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "95a74f6aeb5f12eb9d45a7875c6f8ef957c7e5e7",
-      "title": "How hackers are fighting back against ICE surveillance tech",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/01/09/hackers_fight_back_against_ice/",
-      "published": "2026-01-09T21:03:42+00:00",
-      "summary": "<h4>Remember when government agents didn't wear masks?</h4> <p>While watching us now seems like the least of its sins, the US Immigration and Customs Enforcement (ICE) was once best known (and despised) for its <a href=\"https://www.brennancenter.org/our-work/analysis-opinion/big-budget-act-creates-deportation-industrial-complex\" rel=\"nofollow\" target=\"_blank\">multi-billion-dollar</a> surveillance tech budget.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "7e3c3a9c2ef3e8e594cfcdbf5d47e3425d34d8ab",
-      "title": "Putinswap: France trades alleged ransomware crook for conflict researcher",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/01/09/alleged_russian_ransom_payment_negotiator/",
-      "published": "2026-01-09T16:07:46+00:00",
-      "summary": "<h4>Basketball player accused of aiding cybercrime gang extradition blocked in exchange for Swiss NGO consultant</h4> <p>France has released an alleged ransomware crook wanted by the US in exchange for a conflict researcher imprisoned in Russia.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "328f324e4f8ce55d0813adaeafa3a21817acab77",
-      "title": "QR codes a powerful new phishing weapon in hands of Pyongyang cyberspies",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/01/09/pyongyangs_cyberspies_are_turning_qr/",
-      "published": "2026-01-09T15:44:52+00:00",
-      "summary": "<h4>State-backed attackers are using QR codes to slip past enterprise security and help themselves to cloud logins, the FBI says</h4> <p>North Korean government hackers are turning QR codes into credential-stealing weapons, the FBI has warned, as Pyongyang's spies find new ways to duck enterprise security and help themselves to cloud logins.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "fbf2d29812231ca0cd6a22227342412bdf2fe673",
-      "title": "China-linked cybercrims abused VMware ESXi zero-days a year before disclosure",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/01/09/china_esxi_zerodays/",
-      "published": "2026-01-09T13:28:38+00:00",
-      "summary": "<h4>Huntress analysis suggests VM escape bugs were already weaponized in the wild</h4> <p>Chinese-linked cybercriminals were sitting on a working VMware ESXi hypervisor escape kit more than a year before the bugs it relied on were made public.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "a9218479efeb685b07e70dffc32d9646fd22811a",
-      "title": "Grok told to cover up as UK weighs action over AI 'undressing'",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/01/09/grok_image_generation_uk/",
-      "published": "2026-01-09T10:21:49+00:00",
-      "summary": "<h4>Image generation paywalled on X after ministers and regulators start asking awkward questions</h4> <p>Grok has yanked its image-generation toy out of the hands of most X users after the UK government openly weighed a ban over the AI feature that \"undressed\" people on command.\u2026</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
       "id": "7aeb1f247b3c4237fa0cff08febfcdc64a397f5b",
       "title": "Patch Tuesday, January 2026 Edition",
       "url": "https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/",
@@ -1801,6 +1801,28 @@
       "published": "2025-12-29T20:23:26+00:00",
       "summary": "KrebsOnSecurity.com celebrates its 16th anniversary today! A huge \"thank you\" to all of our readers -- newcomers, long-timers and drive-by critics alike. Your engagement this past year here has been tremendous and truly a salve on a handful of dark days. Happily, comeuppance was a strong theme running through our coverage in 2025, with a primary focus on entities that enabled complex and globally-dispersed cybercrime services.",
       "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "38eb5b18b1e2a4d1e5f574edabae98ea6cde56ed",
+      "title": "Malicious Chrome Extension Crashes Browser in ClickFix Variant \u2018CrashFix\u2019",
+      "url": "https://www.securityweek.com/malicious-chrome-extension-crashes-browser-in-clickfix-variant-crashfix/",
+      "published": "2026-01-19T11:08:26+00:00",
+      "summary": "<p>Posing as an ad blocker, the malicious extension crashes the browser to lure victims into installing malware.</p>\n<p>The post <a href=\"https://www.securityweek.com/malicious-chrome-extension-crashes-browser-in-clickfix-variant-crashfix/\">Malicious Chrome Extension Crashes Browser in ClickFix Variant &#8216;CrashFix&#8217;</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "808646b0522c4ae9f98400c57271a8bb1b96a52d",
+      "title": "42,000 Impacted by Ingram Micro Ransomware Attack",
+      "url": "https://www.securityweek.com/42000-impacted-by-ingram-micro-ransomware-attack/",
+      "published": "2026-01-19T10:51:28+00:00",
+      "summary": "<p>The compromised personal information includes names, dates of birth, Social Security numbers, and employment-related data.</p>\n<p>The post <a href=\"https://www.securityweek.com/42000-impacted-by-ingram-micro-ransomware-attack/\">42,000 Impacted by Ingram Micro Ransomware Attack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
@@ -1888,28 +1910,6 @@
       "url": "https://www.securityweek.com/cybersecurity-firms-react-to-chinas-reported-software-ban/",
       "published": "2026-01-16T11:25:26+00:00",
       "summary": "<p>China has more than 5,000 cybersecurity companies and all the top 20 firms are working with the government.\u00a0</p>\n<p>The post <a href=\"https://www.securityweek.com/cybersecurity-firms-react-to-chinas-reported-software-ban/\">Cybersecurity Firms React to China&#8217;s Reported Software Ban</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "ce5b34225205ead5794986f95c3de714a5471668",
-      "title": "Cisco Patches Vulnerability Exploited by Chinese Hackers",
-      "url": "https://www.securityweek.com/cisco-patches-vulnerability-exploited-by-chinese-hackers/",
-      "published": "2026-01-16T09:43:58+00:00",
-      "summary": "<p>UAT-9686 exploited the bug to deploy the AquaShell backdoor on Cisco appliances with certain ports open to the internet.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisco-patches-vulnerability-exploited-by-chinese-hackers/\">Cisco Patches Vulnerability Exploited by Chinese Hackers</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "12800b52f42abaacb0026325114e1baeb2683972",
-      "title": "Former CISA Director Jen Easterly Appointed CEO of RSAC",
-      "url": "https://www.securityweek.com/former-cisa-director-jen-easterly-appointed-ceo-of-rsac/",
-      "published": "2026-01-16T07:54:57+00:00",
-      "summary": "<p>Easterly will be leading the world-renowned cybersecurity conference and other RSAC programs.</p>\n<p>The post <a href=\"https://www.securityweek.com/former-cisa-director-jen-easterly-appointed-ceo-of-rsac/\">Former CISA Director Jen Easterly Appointed CEO of RSAC</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
