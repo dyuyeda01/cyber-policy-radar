@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-20T00:45:49.129034+00:00",
+  "generated_at": "2026-01-20T12:20:48.383036+00:00",
   "items": [
     {
       "id": "568d38620c92a4e2a9f82c17d5a5e01713ee86da",
@@ -112,6 +112,39 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "dfb9f676f429a311a318f2a4de71a923cebe7daf",
+      "title": "Cloudflare Fixes ACME Validation Bug Allowing WAF Bypass to Origin Servers",
+      "url": "https://thehackernews.com/2026/01/cloudflare-fixes-acme-validation-bug.html",
+      "published": "2026-01-20T11:12:00+00:00",
+      "summary": "Cloudflare has addressed a security vulnerability impacting its Automatic Certificate Management Environment (ACME) validation logic that made it possible to bypass security controls and access origin servers.&nbsp;\n\"The vulnerability was rooted in how our edge network processed requests destined for the ACME HTTP-01 challenge path (/.well-known/acme-challenge/*),\" the web infrastructure",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFMNWyLouRnOIXsad4n8lgA97dY7GEYeVjCrVWqYokwEg-es4kDCyjPCwEKZ_q0LCOCjcufDbeBu-O_aJIuKYu6IY2g9ZMoMMxhkYgCWlsjeIA0ByqwBVJX-HaF_G3oNlBuUWsTk5b4K35K60lUrjrWQ-dhMtEymdsWX84cuPUERd5balmQJMZQqsfKhnu/s1600/acme.jpg"
+    },
+    {
+      "id": "0a2ddcbc7a8f6694453dfff71ee7ea1fff9437bf",
+      "title": "Why Secrets in JavaScript Bundles are Still Being Missed",
+      "url": "https://thehackernews.com/2026/01/why-secrets-in-javascript-bundles-are.html",
+      "published": "2026-01-20T10:45:00+00:00",
+      "summary": "Leaked API keys are no longer unusual, nor are the breaches that follow. So why are sensitive tokens still being so easily exposed?\nTo find out, Intruder\u2019s research team looked at what traditional vulnerability scanners actually cover and built a new secrets detection method to address gaps in existing approaches.&nbsp;\nApplying this at scale by scanning 5 million applications revealed over",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieV5wPGUwZgsm79ntLb9Sz_6xAPAV54CQ1SztbNfpLe-ovKEkTrCsLBRsD52c87yFiByHZGandN1pYNNBn1OLUpc5iEFJnGP0YRn_WWeWod1xxQUNhjlD1vFMh-4EI2fq06Gt86H_U7rX7FBjhLoXrhtzQKqjLRa3X6c7W86BFrR5xfDX80ve6UDs4zU8/s1600/main.jpg"
+    },
+    {
+      "id": "9aad12bc08e4c06bb888bdf42524b5f13c0a28bb",
+      "title": "Tudou Guarantee Marketplace Halts Telegram Transactions After Processing Over $12 Billion",
+      "url": "https://thehackernews.com/2026/01/tudou-guarantee-marketplace-halts.html",
+      "published": "2026-01-20T07:40:00+00:00",
+      "summary": "A Telegram-based guarantee marketplace known for advertising a broad range of illicit services appears to be winding down its operations, according to new findings from Elliptic.\nThe blockchain intelligence company said Tudou Guarantee has effectively ceased transactions through its public Telegram groups following a period of significant growth. The marketplace is estimated to have processed",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAig5-Somu-FrJikNOP0x03HGZ7BNOjkJuWqVOJpyVr1jyPxPtgCIZqqrDEn9G3FPkgryml3vqK5FeSnKaVMTWypZTvChn6hLRgJ5cjLzOS39BW0U_OW38ggPj7izAgiU5IOjATbCl6A2fRC156dZQ2Pn-Yman12ABm-uFtRN3oGofTeCZk6lpdQgll6eY/s1600/botcoin.jpg"
+    },
+    {
       "id": "2485b428446a6a68fef4fef9054a82d819823cd5",
       "title": "Google Gemini Prompt Injection Flaw Exposed Private Calendar Data via Malicious Invites",
       "url": "https://thehackernews.com/2026/01/google-gemini-prompt-injection-flaw.html",
@@ -160,7 +193,7 @@
       "title": "CrashFix Chrome Extension Delivers ModeloRAT Using ClickFix-Style Browser Crash Lures",
       "url": "https://thehackernews.com/2026/01/crashfix-chrome-extension-delivers.html",
       "published": "2026-01-19T09:09:00+00:00",
-      "summary": "Cybersecurity researchers have disclosed details of an ongoing campaign dubbed KongTuke that used a malicious Google Chrome extension masquerading as an ad blocker to deliberately crash the web browser and trick victims into running arbitrary commands using ClickFix-like lures to deliver a previously undocumented remote access trojan (RAT) dubbed ModeloRAT.\nThis new escalation of ClickFix has",
+      "summary": "Cybersecurity researchers have disclosed details of an ongoing campaign dubbed KongTuke that used a malicious Google Chrome extension masquerading as an ad blocker to deliberately crash the web browser and trick victims into running arbitrary commands using ClickFix-like lures to deliver a previously undocumented remote access trojan (RAT) dubbed ModeloRAT.\nThis new escalation of ClickFix,",
       "source": "The Hacker News",
       "region": "North America",
       "country": "US",
@@ -627,39 +660,6 @@
       "region": "North America",
       "country": "US",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPdxYSMtSRuI2tUw5WuEtdO7TqxIsOINGF4_fEo5tCu78MNzrwXQPUVmuZPWjwk6VAHCt29c0WZLtSIQmTs-q79mulS-aNjqP20AlLb3BaGBh6lOzt5m8zQmsea2F95byJfOqgwYg6kCD_d5g7D8B9afT7rDpXjwtakUOsj6xlN_ybZ7hcxQPzLuihZ7qx/s1600/cyberattack.jpg"
-    },
-    {
-      "id": "4e6710a6ba68f7efa5d912d9f490cf64470723ce",
-      "title": "Cybersecurity Predictions 2026: The Hype We Can Ignore (And the Risks We Can't)",
-      "url": "https://thehackernews.com/2026/01/cybersecurity-predictions-2026-hype-we.html",
-      "published": "2026-01-09T11:09:00+00:00",
-      "summary": "As organizations plan for 2026, cybersecurity predictions are everywhere. Yet many strategies are still shaped by headlines and speculation rather than evidence. The real challenge isn\u2019t a lack of forecasts\u2014it\u2019s identifying which predictions reflect real, emerging risks and which can safely be ignored.\nAn upcoming webinar hosted by Bitdefender aims to cut through the noise with a data-driven",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjb9QOohRkPHWLUduOVvPGl5O_7XAUwKm4ThV8HIuMnOeD_LLaQ9fhnSRr-DuZgzW79qBoSL0qAt222iAkunN6xDmpH-qRuz-yLH4aEe-wrRODBMGw2_qHkSdriRXYRIWKJeA-Ux2ZYOwWucjY-D-90RnkG3SAcl5rA6bVg2kebUFnay6GRy92TxaIYnkr4/s1600/cybersecurity.jpg"
-    },
-    {
-      "id": "a22671d10e4544927ff1d91ca8eb84f0e7ef9635",
-      "title": "Trend Micro Apex Central RCE Flaw Scores 9.8 CVSS in On-Prem Windows Versions",
-      "url": "https://thehackernews.com/2026/01/trend-micro-apex-central-rce-flaw.html",
-      "published": "2026-01-09T10:01:00+00:00",
-      "summary": "Trend Micro has released security updates to address multiple security vulnerabilities impacting on-premise versions of Apex Central for Windows, including a critical bug that could result in arbitrary code execution.\nThe vulnerability, tracked as CVE-2025-69258, carries a CVSS score of 9.8 out of a maximum of 10.0. The vulnerability has been described as a case of remote code execution",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0g-pVmmuKjF27CaQySVEJl4oMN20t271uPWVmcHbp8d_gF6yHehH-MvQAsQJ6H6-S9POiKFiUQUfjBIpbgQ8pP8ERTQK-tVtNAhrhTE8qWaNW8wAnE26o8eDpZrWHzsLdktcyS9Wrei5cx2FYVhnbJkUuWss7SSP2khMfwODaOWBxXnR5OsUvsZlBuToN/s1600/trendmicro.jpg"
-    },
-    {
-      "id": "b7cf8da81eb94f28c48af3792c195c310395fa89",
-      "title": "CISA Retires 10 Emergency Cybersecurity Directives Issued Between 2019 and 2024",
-      "url": "https://thehackernews.com/2026/01/cisa-retires-10-emergency-cybersecurity.html",
-      "published": "2026-01-09T09:11:00+00:00",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday said it's retiring 10 emergency directives (Eds) that were issued between 2019 and 2024.\nThe list of the directives now considered closed is as follows -\n\nED 19-01: Mitigate DNS Infrastructure Tampering\nED 20-02: Mitigate Windows Vulnerabilities from January 2020 Patch Tuesday\nED 20-03: Mitigate Windows DNS Server",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBCJIhk0qjfbnm2KUB13dO9l_HbxQUx1WXqRM3iJ1SV7mQ5qG2RsPvgt-hB71cNpf5rmqc4JxpFdw275-lhmjzXJ5xyFC4J0R8dqBIOwe448TFZoM2MSmZu2hsczUAQExdXSXSa3P4tbpKylIL6zNeQzIiL5mfL2OUZaboeu_xjF4e6fzwTPcL-MJIp4w7/s1600/cisa-dir.jpg"
     },
     {
       "id": "bbf736f2eb6e7cd5ab4e7fe8c482aceee8926b42",
@@ -1212,6 +1212,17 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8f3cabb4053c4833/654e396c625482040ad585cc/Rainy_day_Zoonar_GmbH_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
+      "id": "8269f24c566021d15f143b05dcbdb1c2b819a6b9",
+      "title": "Akamai CEO wants help to defeat piracy, reckons he can handle edge AI alone",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/01/20/akamai_ceo_tom_leighton_piracy_interview/",
+      "published": "2026-01-20T04:55:41+00:00",
+      "summary": "<h4>OG CDN boss says fighting illegal streams is about stopping criminals cashing in, not free speech</h4> <p><strong>Interview</strong>\u00a0 After Cloudflare CEO Matthew Prince recently <a href=\"https://www.theregister.com/2026/01/12/cloudflare_vs_italy/\" target=\"_blank\">threatened</a> to disrupt the Winter Olympics to protect free speech after Italian authorities fined his company for not disrupting pirate video streams, rival CDN provider Akamai\u2019s CEO Dr. Tom Leighton fired back with what reads a lot like thinly veiled criticism.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "7774e8d258542bce537f373693f410f16d15727c",
       "title": "Broker who sold malware to the FBI set for sentencing",
       "url": "https://go.theregister.com/feed/www.theregister.com/2026/01/19/iab_sentencing/",
@@ -1751,17 +1762,6 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "de2bb91c56114c3583bbe89120cb4ab8a3883639",
-      "title": "Ofcom officially investigating X as Grok's nudify button stays switched on",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/01/12/xai_grok_uk_regulation/",
-      "published": "2026-01-12T12:19:55+00:00",
-      "summary": "<h4>Tech minister Liz Kendall says the government will back a robust regulatory response</h4> <p>Ofcom is investigating X over potential violations of the Online Safety Act, Britian's comms watchdog has confirmed.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
       "id": "7aeb1f247b3c4237fa0cff08febfcdc64a397f5b",
       "title": "Patch Tuesday, January 2026 Edition",
       "url": "https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/",
@@ -1801,6 +1801,28 @@
       "published": "2025-12-29T20:23:26+00:00",
       "summary": "KrebsOnSecurity.com celebrates its 16th anniversary today! A huge \"thank you\" to all of our readers -- newcomers, long-timers and drive-by critics alike. Your engagement this past year here has been tremendous and truly a salve on a handful of dark days. Happily, comeuppance was a strong theme running through our coverage in 2025, with a primary focus on entities that enabled complex and globally-dispersed cybercrime services.",
       "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "b96ccb3c47b26bee53da1af7cd0f537c1dc3fbe7",
+      "title": "APT-Grade PDFSider Malware Used by Ransomware Groups",
+      "url": "https://www.securityweek.com/apt-grade-pdfsider-malware-used-by-ransomware-groups/",
+      "published": "2026-01-20T12:09:44+00:00",
+      "summary": "<p>Providing cyberespionage and remote code execution capabilities, the malware is executed via DLL sideloading.</p>\n<p>The post <a href=\"https://www.securityweek.com/apt-grade-pdfsider-malware-used-by-ransomware-groups/\">APT-Grade PDFSider Malware Used by Ransomware Groups</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "5c2c60d04bbf17c18a48970a2fff788918008335",
+      "title": "Weaponized Invite Enabled Calendar Data Theft via Google Gemini",
+      "url": "https://www.securityweek.com/weaponized-invite-enabled-calendar-data-theft-via-google-gemini/",
+      "published": "2026-01-20T10:59:36+00:00",
+      "summary": "<p>A simple payload allowed attackers to create a new event leaking summaries of the victim\u2019s private meetings.</p>\n<p>The post <a href=\"https://www.securityweek.com/weaponized-invite-enabled-calendar-data-theft-via-google-gemini/\">Weaponized Invite Enabled Calendar Data Theft via Google Gemini</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
@@ -1888,28 +1910,6 @@
       "url": "https://www.securityweek.com/tennessee-man-pleads-guilty-to-repeatedly-hacking-supreme-courts-filing-system/",
       "published": "2026-01-17T11:00:00+00:00",
       "summary": "<p>Nicholas Moore pleaded guilty to repeatedly hacking the U.S. Supreme Court\u2019s filing system and illegally accessing computer systems belonging to AmeriCorps and the Department of Veterans Affairs.</p>\n<p>The post <a href=\"https://www.securityweek.com/tennessee-man-pleads-guilty-to-repeatedly-hacking-supreme-courts-filing-system/\">Tennessee Man Pleads Guilty to Repeatedly Hacking Supreme Court\u2019s Filing System</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "f7cf1fb382cd07d363323deda08aed6122943e15",
-      "title": "In Other News: FortiSIEM Flaw Exploited, Sean Plankey Renominated, Russia\u2019s Polish Grid Attack",
-      "url": "https://www.securityweek.com/in-other-news-fortisiem-flaw-exploited-sean-plankey-renominated-russias-polish-grid-attack/",
-      "published": "2026-01-16T16:14:58+00:00",
-      "summary": "<p>Other noteworthy stories that might have slipped under the radar: BodySnatcher agentic AI hijacking, Telegram IP exposure, shipping systems hacked by researcher.</p>\n<p>The post <a href=\"https://www.securityweek.com/in-other-news-fortisiem-flaw-exploited-sean-plankey-renominated-russias-polish-grid-attack/\">In Other News: FortiSIEM Flaw Exploited, Sean Plankey Renominated, Russia&#8217;s Polish Grid Attack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "ec8659450a883a1df7ccfa04360dddd66a963d92",
-      "title": "Monnai Raises $12 Million for Identity and Risk Data Infrastructure",
-      "url": "https://www.securityweek.com/monnai-raises-12-million-for-identity-and-risk-data-infrastructure/",
-      "published": "2026-01-16T14:51:53+00:00",
-      "summary": "<p>The company will use the investment to accelerate the adoption of its solution among financial institutions and digital businesses.</p>\n<p>The post <a href=\"https://www.securityweek.com/monnai-raises-12-million-for-identity-and-risk-data-infrastructure/\">Monnai Raises $12 Million for Identity and Risk Data Infrastructure</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
