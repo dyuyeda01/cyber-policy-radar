@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-19T12:20:49.595938+00:00",
+  "generated_at": "2026-01-20T00:45:49.129034+00:00",
   "items": [
     {
       "id": "568d38620c92a4e2a9f82c17d5a5e01713ee86da",
@@ -110,6 +110,50 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "2485b428446a6a68fef4fef9054a82d819823cd5",
+      "title": "Google Gemini Prompt Injection Flaw Exposed Private Calendar Data via Malicious Invites",
+      "url": "https://thehackernews.com/2026/01/google-gemini-prompt-injection-flaw.html",
+      "published": "2026-01-19T17:21:00+00:00",
+      "summary": "Cybersecurity researchers have disclosed details of a security flaw that leverages indirect prompt injection targeting Google Gemini as a way to bypass authorization guardrails and use Google Calendar as a data extraction mechanism.\nThe vulnerability, Miggo Security's Head of Research, Liad Eliyahu, said, made it possible to circumvent Google Calendar's privacy controls by hiding a dormant",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRoKH8kODtvGyUQmuWC8vWW2D9wJIlBhYnl2hlvLUojFSV7sVmZJ3nqnxDHHMhIqzIpXmcFy_x6GOxTYsrvTa9lJw4tE0vPvx8OPrRV7bmpBp_z7babFHy88b09t9fVw_Xw326BOFDFZ54PwPeihsITRugqHdOTqQjvTqvjmufoPqD5RmtLWy8WUNsHuOn/s1600/gem.jpg"
+    },
+    {
+      "id": "5bcb928d2f66108eb70fd0e8fb9651968a11a63a",
+      "title": "\u26a1 Weekly Recap: Fortinet Exploits, RedLine Clipjack, NTLM Crack, Copilot Attack & More",
+      "url": "https://thehackernews.com/2026/01/weekly-recap-fortinet-exploits-redline.html",
+      "published": "2026-01-19T13:17:00+00:00",
+      "summary": "In cybersecurity, the line between a normal update and a serious incident keeps getting thinner. Systems that once felt reliable are now under pressure from constant change. New AI tools, connected devices, and automated systems quietly create more ways in, often faster than security teams can react. This week\u2019s stories show how easily a small mistake or hidden service can turn into a real",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfn1SBAkKZzvUvFxUuVea_4KYXozKlXG-6dDyXBZDwvc_b3-rDxdmhyphenhyphen1BVrjoSsCReCbC28V3ta7Wo00qmg6zk3cuiezDIp3g8Noqbx4sEbmDlCN7aF6LCFZWLn5a0RS5iaKfd4pyU2M7MiIF63xpRv9XbPL1dP08O2L0UyGKCf22cFB6IsH39VQTIhQ7E/s1600/recap.jpg"
+    },
+    {
+      "id": "7c8eed1410d41ceca4fe2c84d27609c2b6a2a3ba",
+      "title": "DevOps & SaaS Downtime: The High (and Hidden) Costs for Cloud-First Businesses",
+      "url": "https://thehackernews.com/2026/01/high-costs-of-devops-saas-downtime.html",
+      "published": "2026-01-19T11:55:00+00:00",
+      "summary": "Just a few years ago, the cloud was touted as the \u201cmagic pill\u201d for any cyber threat or performance issue. Many were lured by the \u201calways-on\u201d dream, trading granular control for the convenience of managed services.\nIn recent years, many of us have learned (often the hard way) that public cloud service providers are not immune to attacks and SaaS downtime, hiding behind the Shared Responsibility",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-NFsj68xaf2p3zjA44oQOJv4NBoDt21KPCna8vnSvswE0hTcKyO7_ExzxpSX_PadfPFzlnA2bQ2gNpsMDNKqwIT_Rlj5GgtssnvnSfnbHCgJl4hH7u4XNRhfm7Yqd7wTnZ-8pU_THZ6wt7sFCQGxzXwFlczbU2DH5fQ7BakcnJ15uc7_lMefQlkrEpOw/s1600/devops.jpg"
+    },
+    {
+      "id": "56aec2cf0f79061a1544659968dd287ab6040d62",
+      "title": "New StackWarp Hardware Flaw Breaks AMD SEV-SNP Protections on Zen 1\u20135 CPUs",
+      "url": "https://thehackernews.com/2026/01/new-stackwarp-hardware-flaw-breaks-amd.html",
+      "published": "2026-01-19T11:31:00+00:00",
+      "summary": "A team of academics from the CISPA Helmholtz Center for Information Security in Germany has disclosed the details of a new hardware vulnerability affecting AMD processors.\nThe security flaw, codenamed StackWarp, can allow bad actors with privileged control over a host server to run malicious code within confidential virtual machines (CVMs), undermining the integrity guarantees provided by AMD",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjvBKIwExgNlDEHvCub_5W4y4uhPhsKYtGX8oPC_DrwzV5Wl5i_QPN2oEgBoSHBAAbsurdEryR3O56kclGi5uN38Y50ftQUAPzj1Y-r0bAS3rQ_lqRm88M4umTl1e4bAiCAGArNy2v70l31w5IArnzj8rUqxCAL2Xd3C8j2POKMP8tr6iAhsynSMNPAZH6/s1600/stack.jpg"
     },
     {
       "id": "7192d15d433db7abaa0f6d841865b9c4926b635a",
@@ -618,48 +662,15 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBCJIhk0qjfbnm2KUB13dO9l_HbxQUx1WXqRM3iJ1SV7mQ5qG2RsPvgt-hB71cNpf5rmqc4JxpFdw275-lhmjzXJ5xyFC4J0R8dqBIOwe448TFZoM2MSmZu2hsczUAQExdXSXSa3P4tbpKylIL6zNeQzIiL5mfL2OUZaboeu_xjF4e6fzwTPcL-MJIp4w7/s1600/cisa-dir.jpg"
     },
     {
-      "id": "6dffe25b52c042edf1ac1529fd1204a01c493815",
-      "title": "FBI Warns North Korean Hackers Using Malicious QR Codes in Spear-Phishing",
-      "url": "https://thehackernews.com/2026/01/fbi-warns-north-korean-hackers-using.html",
-      "published": "2026-01-09T05:46:00+00:00",
-      "summary": "The U.S. Federal Bureau of Investigation (FBI) on Thursday released an advisory warning of North Korean state-sponsored threat actors leveraging malicious QR codes in spear-phishing campaigns targeting entities in the country.\n\"As of 2025, Kimsuky actors have targeted think tanks, academic institutions, and both U.S. and foreign government entities with embedded malicious Quick Response (QR)",
-      "source": "The Hacker News",
+      "id": "bbf736f2eb6e7cd5ab4e7fe8c482aceee8926b42",
+      "title": "ChatGPT Health Raises Big Security, Safety Concerns",
+      "url": "https://www.darkreading.com/remote-workforce/chatgpt-health-security-safety-concerns",
+      "published": "2026-01-19T17:57:52+00:00",
+      "summary": "ChatGPT Health promises robust data protection, but elements of the rollout raise big questions regarding user security and safety.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgse_7aGT72WMfI84aD05FVQShHvmKX2cLQnvrpoCSDCmVuArEHaqVjxxzESK58K9zsdB6q5T3uDSwEZrwfEd42kD1daVt-o12gjKLGqoiKiAH29poW0nn5CuhjjLIa69jGl4Xg7bw7wBtm8At9D6aJxUxg53c2kvH9GSjH-XQNvASYWI2om8Ic76fGaPXt/s1600/qrcodes.jpg"
-    },
-    {
-      "id": "1ff4f952bb4683885dc99543568bc39619436c97",
-      "title": "WhatsApp Worm Spreads Astaroth Banking Trojan Across Brazil via Contact Auto-Messaging",
-      "url": "https://thehackernews.com/2026/01/whatsapp-worm-spreads-astaroth-banking.html",
-      "published": "2026-01-08T17:10:00+00:00",
-      "summary": "Cybersecurity researchers have disclosed details of a new campaign that uses WhatsApp as a distribution vector for a Windows banking trojan called Astaroth in attacks targeting Brazil.\nThe campaign has been codenamed Boto Cor-de-Rosa by Acronis Threat Research Unit.\n\"The malware retrieves the victim's WhatsApp contact list and automatically sends malicious messages to each contact to further",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYFJO9rj-4g9MZUaHNkJ-OnOQ8chRQD9P0NwEU6-yh-_9eaNTNRTPn6Pozv7uJCpBVtgdE_OVgnpXiAtk-LwWFCcOPom8RjmrK1k-AYKXcC5kb72v0RtI6QFsfSngAzpFPIc9NiMUiGK3_DNnuxVDw-XChMMhCw40cBaa4F988REweIBKWk8TQGRfmHJhG/s1600/whatsapp-worm.jpg"
-    },
-    {
-      "id": "5f8b4527af98f891188a1e6ef19bac7ad982be46",
-      "title": "China-Linked UAT-7290 Targets Telecoms with Linux Malware and ORB Nodes",
-      "url": "https://thehackernews.com/2026/01/china-linked-uat-7290-targets-telecoms.html",
-      "published": "2026-01-08T14:54:00+00:00",
-      "summary": "A China-nexus threat actor known as UAT-7290 has been attributed to espionage-focused intrusions against entities in South Asia and Southeastern Europe.\nThe activity cluster, which has been active since at least 2022, primarily focuses on extensive technical reconnaissance of target organizations before initiating attacks, ultimately leading to the deployment of malware families such as RushDrop",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIuo2qB5l6db9QikPiuSfBft9oeKf1XAw3ncOyYjA2V34TZdm8KZKAARqUi9GffvgaVZGqlGFw9Ntj0t-sRzWuOL-OOngT2MeB1at04yfHwaT72o6QFRtnJkwczGdrv_F9snu9cBoNjn9hJ1XjbTdgNSJFIGXxzMbR34LELEqMXZ_s_jZS3oXSCnmS3GQY/s1600/telecom-hack.jpg"
-    },
-    {
-      "id": "a689747631a28c1cc9e14ff904ab5ec0f5836a7b",
-      "title": "ThreatsDay Bulletin: RustFS Flaw, Iranian Ops, WebUI RCE, Cloud Leaks, and 12 More Stories",
-      "url": "https://thehackernews.com/2026/01/threatsday-bulletin-rustfs-flaw-iranian.html",
-      "published": "2026-01-08T12:49:00+00:00",
-      "summary": "The internet never stays quiet. Every week, new hacks, scams, and security problems show up somewhere.\nThis week\u2019s stories show how fast attackers change their tricks, how small mistakes turn into big risks, and how the same old tools keep finding new ways to break in.\nRead on to catch up before the next wave hits.\n\n\n\n\n\n\n\n\n  \n  \n    Honeypot Traps Hackers\n    \n      Hackers Fall for",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYqkrQT2-0GXXeWkPsNM5dnxJyFwJ5MdeB5Gj_PWzNa168z1Gchyphenhyphenfx3tl6fCSBzjHnmPCD7IDR38mbY36lifKUwB0qBjtX5A8vbCn_fwvsAFZcExFwJi7w4Y6G_R_rZ7QzpZEDlNkfoP7w5gGFlN6nbate4XgsNXm9GUKHlkW_DJs9mlGd7wxNWWuvK0Lu/s1600/threatsday.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9fbaafe5fd677944/69692c03e014134a5bae1ec7/robot_doctor_Panther_Media_Global_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "id": "9753b02524b12487e64996bf9eef4c0da5e7a094",
@@ -1201,15 +1212,48 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8f3cabb4053c4833/654e396c625482040ad585cc/Rainy_day_Zoonar_GmbH_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "a52c3db6339f077ed7c183afcdb3ea73e0c0afc1",
-      "title": "Identity Security 2026: Four Predictions &amp; Recommendations",
-      "url": "https://www.darkreading.com/identity-access-management-security/identity-security-2026-predictions-and-recommendations",
-      "published": "2025-12-31T14:00:58+00:00",
-      "summary": "Agentic AI adoption and identity security risks, IGA expands in mid-market, SOC-identity team collaboration, and identity platform consolidation \u2014 this 2026 predictions post previews identity trends.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6820a838ed160c35/694ae4ceec15802bd5c05f8f/digital_identity.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "id": "7774e8d258542bce537f373693f410f16d15727c",
+      "title": "Broker who sold malware to the FBI set for sentencing",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/01/19/iab_sentencing/",
+      "published": "2026-01-19T16:36:22+00:00",
+      "summary": "<h4>Feras Albashiti faces 10 years after $20,000 in sales to undercover agent exposed ransomware ties</h4> <p>A Jordanian national faces sentencing in the US after pleading guilty to acting as an initial access broker (IAB) for various cyberattacks.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "f6908f15df0b8591929328c4f324296b035a80ef",
+      "title": "Don't underestimate pro-Russia hacktivists, warns UK's cyber crew",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/01/19/dont_underestimate_prorussia_hacktivists_warns/",
+      "published": "2026-01-19T13:37:47+00:00",
+      "summary": "<h4>They\u2019re not the most sophisticated, but even simple attacks can lead to costly consequences</h4> <p>The UK's National Cyber Security Centre (NCSC) is once again warning that pro-Russia hacktivists are a threat to critical services operators.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "7725f75b837fc2c33a2c89a35d91733563e260dd",
+      "title": "Windows 11 shutdown bug forces Microsoft into out-of-band damage control",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/01/19/windows_11_shutdown_bug/",
+      "published": "2026-01-19T13:05:32+00:00",
+      "summary": "<h4>Ships emergency update to fix a Patch Tuesday misfire that prevented systems from switching off</h4> <p>Microsoft has rushed out an out-of-band Windows 11 update after January's Patch Tuesday broke something as fundamental as turning PCs off.\u2026</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "e90175db74dd1ca77d6ef5b0f50070d9664030a5",
+      "title": "Ingram Micro admits summer ransomware raid exposed thousands of staff records",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/01/19/ingram_micro_ransomware_affects/",
+      "published": "2026-01-19T12:32:09+00:00",
+      "summary": "<h4>Maine filing confirms July attack affected 42,521 employees and job applicants</h4> <p>Ingram Micro disclosed that a July 2025 ransomware attack compromised the personal data of tens of thousands of employees.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
       "id": "6ff8043a79ba5b7fdc0b80d64c2f8b06dbcb9964",
@@ -1448,6 +1492,17 @@
       "url": "https://go.theregister.com/feed/www.theregister.com/2026/01/15/aws_european_sovereign_cloud/",
       "published": "2026-01-15T09:30:09+00:00",
       "summary": "<h4>EU-only ops, German subsidiaries, and a pinky promise your data won't end up in Uncle Sam's hands</h4> <p>Amid continued trade and geopolitical volatility between Europe and the US, Amazon Web Services is making its European Sovereign Cloud generally available today and plans to expand so-called Local Zones.\u2026</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "bbc97ea4109a6d14ccd30199ba141b02e949e001",
+      "title": "CrowdStrike shareholders lose battle to recoup losses from 2024 outage",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/01/14/crowdstrike_shareholders_lawsuit_dismiss/",
+      "published": "2026-01-14T22:13:08+00:00",
+      "summary": "<h4>Investors didn't present a valid claim, says judge, but they're welcome to try again</h4> <p>A group of CrowdStrike shareholders who sued the company over losses sustained following its 2024 global outage will have to head back to the drawing board if they hope to recoup losses, as a Texas judge has deemed they failed to adequately state a claim.\u2026</p>",
       "source": "The Register \u2013 Security",
       "region": "Europe",
       "country": "UK",
@@ -1707,61 +1762,6 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "ea339527d2c5b53d6a53112d58719f865eb67dbc",
-      "title": "Tories vow to boot under-16s off social media and ban phones in schools",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/01/12/conservatives_social_media_ban/",
-      "published": "2026-01-12T10:25:23+00:00",
-      "summary": "<h4>Opposition leader Kemi Badenoch pitches age limits and classroom curbs as fixes for behavior and mental health</h4> <p>The Tories have pledged to kick under-16s off social media, betting that banning teens from TikTok and Instagram will fix what they see as a growing crisis in kids' mental health and classroom behavior.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "320b60b371eb741df5276d20f77afdbaf2b554c2",
-      "title": "India\u2019s government denies it plans to demand smartphone source code",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/01/12/india_mobile_security/",
-      "published": "2026-01-12T04:37:04+00:00",
-      "summary": "<h4>Says ongoing talks about security are about understanding best practice, not strong-arming vendors</h4> <p>India\u2019s government has denied that it is working on rules that would require smartphone manufacturers to provide access to their source code.\u2026</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "b396d7cadf6291dbe4f782aea88eaf5f65508879",
-      "title": "Malaysia and Indonesia block X over failure to curb deepfake smut",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/01/12/asia_tech_news_roundup/",
-      "published": "2026-01-12T01:29:36+00:00",
-      "summary": "<h4>PLUS: Cambodia arrests alleged scam camp boss; Baidu spins out chip biz; Panasonic\u2019s noodle shop plan; And more!</h4> <p><strong>Asia in Brief</strong>\u00a0 The governments of Malaysia and Indonesia have suspended access to social network X, on grounds that it allows users to produce sexual imagery without users\u2019 consent.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "ea11b34b6e26693cee9fca86e763ba8b473f87d1",
-      "title": "Meta admits to Instagram password reset mess, denies data leak",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/01/11/infosec_news_in_brief/",
-      "published": "2026-01-11T23:43:34+00:00",
-      "summary": "<h4>PLUS: Veeam patches critical vuln; Crims bribing dark web insiders; UK school takedown; And more</h4> <p><strong>infosec in brief</strong>\u00a0 Meta has fixed a flaw in its Instagram service that allowed third parties to generate password reset emails, but denied the problem led to theft of users\u2019 personal information.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "8ce995bd25c29579fb91a33f5b89da10adbc4bea",
-      "title": "UK government exempting itself from flagship cyber law inspires little confidence",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/01/10/csr_bill_analysis/",
-      "published": "2026-01-10T09:29:07+00:00",
-      "summary": "<h4>Ministers promise equivalent standards just without the legal obligation</h4> <p><strong>ANALYSIS</strong>\u00a0 From May's <a href=\"https://www.theregister.com/2025/05/19/legal_aid_agency_data_theft/\" target=\"_blank\">cyberattack on the Legal Aid Agency</a> to the <a href=\"https://www.theregister.com/2025/12/19/uk_foreign_office_hack/\" target=\"_blank\">Foreign Office breach</a> months later, cyber incidents have become increasingly common in UK government.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
       "id": "7aeb1f247b3c4237fa0cff08febfcdc64a397f5b",
       "title": "Patch Tuesday, January 2026 Edition",
       "url": "https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/",
@@ -1801,6 +1801,61 @@
       "published": "2025-12-29T20:23:26+00:00",
       "summary": "KrebsOnSecurity.com celebrates its 16th anniversary today! A huge \"thank you\" to all of our readers -- newcomers, long-timers and drive-by critics alike. Your engagement this past year here has been tremendous and truly a salve on a handful of dark days. Happily, comeuppance was a strong theme running through our coverage in 2025, with a primary focus on entities that enabled complex and globally-dispersed cybercrime services.",
       "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "03414fc120a9118738ff489d1df62c49381176c2",
+      "title": "TP-Link Patches Vulnerability Exposing VIGI Cameras to Remote Hacking",
+      "url": "https://www.securityweek.com/tp-link-patches-vulnerability-exposing-vigi-cameras-to-hacking/",
+      "published": "2026-01-19T14:39:37+00:00",
+      "summary": "<p>The researcher who discovered the vulnerability saw more than 2,500 internet-exposed devices.</p>\n<p>The post <a href=\"https://www.securityweek.com/tp-link-patches-vulnerability-exposing-vigi-cameras-to-hacking/\">TP-Link Patches Vulnerability Exposing VIGI Cameras to Remote Hacking</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "89d835bebde3ffa50da4a9b00267a5ab6986e9dc",
+      "title": "Jordanian Admits in US Court to Selling Access to 50 Enterprise Networks",
+      "url": "https://www.securityweek.com/jordanian-admits-in-us-court-to-selling-access-to-50-enterprise-networks/",
+      "published": "2026-01-19T13:48:43+00:00",
+      "summary": "<p>Operating as an access broker, the defendant sold unauthorized access to compromised networks to an undercover agent.</p>\n<p>The post <a href=\"https://www.securityweek.com/jordanian-admits-in-us-court-to-selling-access-to-50-enterprise-networks/\">Jordanian Admits in US Court to Selling Access to 50 Enterprise Networks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "e49f3fdfd249219a63c6d08228d2920a65d3b892",
+      "title": "\u2018SolyxImmortal\u2019 Information Stealer Emerges",
+      "url": "https://www.securityweek.com/solyximmortal-information-stealer-emerges/",
+      "published": "2026-01-19T13:35:09+00:00",
+      "summary": "<p>The information stealer abuses legitimate APIs and libraries to exfiltrate data to Discord webhooks.</p>\n<p>The post <a href=\"https://www.securityweek.com/solyximmortal-information-stealer-emerges/\">&#8216;SolyxImmortal&#8217; Information Stealer Emerges</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "38350e48bf9ce0d7d86b64c89f1cc5b1145ab1eb",
+      "title": "Cyber Insights 2026: Information Sharing",
+      "url": "https://www.securityweek.com/cyber-insights-2026-information-sharing/",
+      "published": "2026-01-19T13:30:00+00:00",
+      "summary": "<p>Information sharing is necessary for efficient cybersecurity, and is widespread; but never quite perfect in practice.</p>\n<p>The post <a href=\"https://www.securityweek.com/cyber-insights-2026-information-sharing/\">Cyber Insights 2026: Information Sharing</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "4ae69f422a1390d2ea99e58a6806b13df81f872f",
+      "title": "New Reports Reinforce Cyberattack\u2019s Role in Maduro Capture Blackout",
+      "url": "https://www.securityweek.com/new-reports-reinforce-cyberattacks-role-in-maduro-capture-blackout/",
+      "published": "2026-01-19T12:26:38+00:00",
+      "summary": "<p>US officials told The New York Times that cyberattacks were used to turn off the lights in Caracas and disrupt air defense radars.</p>\n<p>The post <a href=\"https://www.securityweek.com/new-reports-reinforce-cyberattacks-role-in-maduro-capture-blackout/\">New Reports Reinforce Cyberattack&#8217;s Role in Maduro Capture Blackout</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
@@ -1855,61 +1910,6 @@
       "url": "https://www.securityweek.com/monnai-raises-12-million-for-identity-and-risk-data-infrastructure/",
       "published": "2026-01-16T14:51:53+00:00",
       "summary": "<p>The company will use the investment to accelerate the adoption of its solution among financial institutions and digital businesses.</p>\n<p>The post <a href=\"https://www.securityweek.com/monnai-raises-12-million-for-identity-and-risk-data-infrastructure/\">Monnai Raises $12 Million for Identity and Risk Data Infrastructure</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "814c680e5767765c2e3de2355ce6e7516dc96cb6",
-      "title": "Project Eleven Raises $20 Million for Post-Quantum Security",
-      "url": "https://www.securityweek.com/project-eleven-raises-20-million-for-post-quantum-security/",
-      "published": "2026-01-16T14:21:30+00:00",
-      "summary": "<p>The startup is building the necessary infrastructure and tools to help organizations transition to post-quantum computing.</p>\n<p>The post <a href=\"https://www.securityweek.com/project-eleven-raises-20-million-for-post-quantum-security/\">Project Eleven Raises $20 Million for Post-Quantum Security</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "db0ec6d9b28b4a2fb898f7c842d479196bfc8332",
-      "title": "750,000 Impacted by Data Breach at Canadian Investment Watchdog",
-      "url": "https://www.securityweek.com/750000-impacted-by-data-breach-at-canadian-investment-watchdog/",
-      "published": "2026-01-16T12:34:31+00:00",
-      "summary": "<p>The incident impacted the personal information of CIRO member firms and their registered employees.</p>\n<p>The post <a href=\"https://www.securityweek.com/750000-impacted-by-data-breach-at-canadian-investment-watchdog/\">750,000 Impacted by Data Breach at Canadian Investment Watchdog</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "792fc520c22992f526c8ad974b50eb2e6d45a3ac",
-      "title": "Cyber Insights 2026: Social Engineering",
-      "url": "https://www.securityweek.com/cyber-insights-2026-social-engineering/",
-      "published": "2026-01-16T12:30:00+00:00",
-      "summary": "<p>We've known that social engineering would get AI wings. Now, at the beginning of 2026, we are learning just how high those wings can soar.</p>\n<p>The post <a href=\"https://www.securityweek.com/cyber-insights-2026-social-engineering/\">Cyber Insights 2026: Social Engineering</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "3fd8d3ea0d2f82c4fc034edf4a7d13fbfc557572",
-      "title": "WhisperPair Attack Leaves Millions of Audio Accessories Open to Hijacking",
-      "url": "https://www.securityweek.com/whisperpair-attack-leaves-millions-of-bluetooth-accessories-open-to-hijacking/",
-      "published": "2026-01-16T11:50:01+00:00",
-      "summary": "<p>The critical issue impacts Bluetooth audio accessories with improper Google Fast Pair implementations.</p>\n<p>The post <a href=\"https://www.securityweek.com/whisperpair-attack-leaves-millions-of-bluetooth-accessories-open-to-hijacking/\">WhisperPair Attack Leaves Millions of Audio Accessories Open to Hijacking</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "b107beb8f93f42dfecfd012f746929ef7f73ed09",
-      "title": "Cybersecurity Firms React to China\u2019s Reported Software Ban",
-      "url": "https://www.securityweek.com/cybersecurity-firms-react-to-chinas-reported-software-ban/",
-      "published": "2026-01-16T11:25:26+00:00",
-      "summary": "<p>China has more than 5,000 cybersecurity companies and all the top 20 firms are working with the government.\u00a0</p>\n<p>The post <a href=\"https://www.securityweek.com/cybersecurity-firms-react-to-chinas-reported-software-ban/\">Cybersecurity Firms React to China&#8217;s Reported Software Ban</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
