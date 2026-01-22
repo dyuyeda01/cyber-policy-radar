@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-22T00:48:23.564049+00:00",
+  "generated_at": "2026-01-22T12:21:39.901294+00:00",
   "items": [
     {
       "id": "ce6ed592edcfc985d4cd797ec1e7ea7b50298ec6",
@@ -112,6 +112,61 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "abf84fdc6b34349dbfb71b1fe0d8b683383471c8",
+      "title": "Filling the Most Common Gaps in Google Workspace Security",
+      "url": "https://thehackernews.com/2026/01/filling-most-common-gaps-in-google.html",
+      "published": "2026-01-22T11:30:00+00:00",
+      "summary": "Security teams at agile, fast-growing companies often have the same mandate: secure the business without slowing it down. Most teams inherit a tech stack optimized for breakneck growth, not resilience. In these environments, the security team is the helpdesk, the compliance expert, and the incident response team all rolled into one.\nSecuring the cloud office in this scenario is all about",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjppNAJYCOHh4mqdL3GuJ4elABk4wn-ciw9V6oYuZ8Sdb0LllyS_YRl6YXX-I_eaMDcVG8Zt9X42HbFVlmEb0umu4D4nelT-qOpG7ZtYSz0t-wbngKFalwdDHW4VHUlNXfMUswtSCx4WptHTAoKHJo94vWXVjSq4cGRP4FyN1P35n8dc8_dl-2yi3jFePU/s1600/main.png"
+    },
+    {
+      "id": "1edce63014b269331f0f11f10b806b0439a53745",
+      "title": "Malicious PyPI Package Impersonates SymPy, Deploys XMRig Miner on Linux Hosts",
+      "url": "https://thehackernews.com/2026/01/malicious-pypi-package-impersonates.html",
+      "published": "2026-01-22T10:04:00+00:00",
+      "summary": "A new malicious package discovered in the Python Package Index (PyPI) has been found to impersonate a popular library for symbolic mathematics to deploy malicious payloads, including a cryptocurrency miner, on Linux hosts.\nThe package, named sympy-dev, mimics SymPy, replicating the latter's project description verbatim in an attempt to deceive unsuspecting users into thinking that they are",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWCefYaSp9ssGTQkdK58gL2QbQurY3rXLBGBTEC2hXq1qGh88LxThrqrtejW9sVCnoXsrwoAZQwlbdrwOl-O0fEz509vXrbK235fZ0tl9iPWgiKBJt49PqTRB6uu_ZDyeaMl6F6zqfVmJFw8PU4e8-0MgYh-qxJpn1xRcLN9NfnQQ_X47nJxdz3N47s3z8/s1600/pypi-cryptocurrency-malware.jpg"
+    },
+    {
+      "id": "931c09319334dc8aebf313a0669792eb291f9bd4",
+      "title": "SmarterMail Auth Bypass Exploited in the Wild Two Days After Patch Release",
+      "url": "https://thehackernews.com/2026/01/smartermail-auth-bypass-exploited-in.html",
+      "published": "2026-01-22T09:46:00+00:00",
+      "summary": "A new security flaw in SmarterTools SmarterMail email software has come under active exploitation in the wild, two days after the release of a patch.\nThe vulnerability, which currently does not have a CVE identifier, is tracked by watchTowr Labs as WT-2026-0001. It was patched by SmarterTools on January 15, 2026, with Build 9511, following responsible disclosure by the exposure management",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfzCM1c0lJOZ7pXEcdXTXGEeNzq845Kr3uoQe6p2pY1l062KKPqAvTiQmrHDY-3IVIsFlQHtm1YYOWCAEPeuDJeY2N7qYX3C02Qh4dfd56mUj20ChkMEAGb_nl9vymqoCGmUriGCMHCZAT4fO0MzL4mi0vKxc9rSz4ythSpJOJlEBEXXNU35Ziz-M-Oa0k/s1600/SmarterTools-exploit.jpg"
+    },
+    {
+      "id": "2b709fb78cc3091aeca7f538b48b656fe4fc3be2",
+      "title": "Automated FortiGate Attacks Exploit FortiCloud SSO to Alter Firewall Configurations",
+      "url": "https://thehackernews.com/2026/01/automated-fortigate-attacks-exploit.html",
+      "published": "2026-01-22T05:55:00+00:00",
+      "summary": "Cybersecurity company Arctic Wolf has warned of a \"new cluster of automated malicious activity\" that involves unauthorized firewall configuration changes on Fortinet FortiGate devices.\nThe activity, it said, commenced on January 15, 2026, adding it shares similarities with a December 2025 campaign in which malicious SSO logins on FortiGate appliances were recorded against the admin account from",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6O_1FUjFHFlfeetaainBwBLAivJlaoFZZYZ-M9gJCGGmmNW1QE_mHtFOlYhtYbuM5fXV8-ySVyNrPVocMA2GBV_1TQdqLS3yZkU5ThvGuQ6AfuN20gtMsBa-7C3_A8oOjPPyP2SP_W8bX6zCcGgPpu9MQuX490PT2d2OMZYgL1Ra30gHM8ZmfAdM9MfTf/s1600/fortinet.jpg"
+    },
+    {
+      "id": "90821da8c9004aeaec23f62f1aa3338d2cbe499d",
+      "title": "Cisco Fixes Actively Exploited Zero-Day CVE-2026-20045 in Unified CM and Webex",
+      "url": "https://thehackernews.com/2026/01/cisco-fixes-actively-exploited-zero-day.html",
+      "published": "2026-01-22T04:06:00+00:00",
+      "summary": "Cisco has released fresh patches to address what it described as a \"critical\" security vulnerability impacting multiple Unified Communications (CM) products and Webex Calling Dedicated Instance that it has been actively exploited as a zero-day in the wild.\nThe vulnerability, CVE-2026-20045 (CVSS score: 8.2), could permit an unauthenticated remote attacker to execute arbitrary commands on the",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHOCMXq3WVtmcL9apl3XWrlOoAeRxJ2kZf_37YNtvg2oaO5wVX4zD-vOckg8TzcAeNUDKe0CpwaIvMz_9RQ0Lx-2sD5Jdz4rF7TxN74zZdq6lWOzfF3PdsYvmUy9CDqB9MxFV1leIxvXTuYYajixMcaQJLFGLGsLyfX7wdp9hkENDvdJqW6Y_hRlT6PnBk/s1600/cisco-patch.jpg"
+    },
+    {
       "id": "8d9ea51cea4ab9a465546d60f3ffee17d5d7c224",
       "title": "North Korean PurpleBravo Campaign Targeted 3,136 IP Addresses via Fake Job Interviews",
       "url": "https://thehackernews.com/2026/01/north-korean-purplebravo-campaign.html",
@@ -193,7 +248,7 @@
       "title": "CERT/CC Warns binary-parser Bug Allows Node.js Privilege-Level Code Execution",
       "url": "https://thehackernews.com/2026/01/certcc-warns-binary-parser-bug-allows.html",
       "published": "2026-01-21T06:04:00+00:00",
-      "summary": "A security vulnerability has been disclosed in the popular binary-parser npm library that, if successfully exploited, could result in the execution of arbitrary JavaScript.\nThe vulnerability, tracked as CVE-2026-1245 (CVSS score: N/A), affects all versions of the module prior to version 2.3.0, which addresses the issue. Patches for the flaw were released on November 26, 2025.\nBinary-parser is a",
+      "summary": "A security vulnerability has been disclosed in the popular binary-parser npm library that, if successfully exploited, could result in the execution of arbitrary JavaScript.\nThe vulnerability, tracked as CVE-2026-1245 (CVSS score: 6.5), affects all versions of the module prior to version 2.3.0, which addresses the issue. Patches for the flaw were released on November 26, 2025.\nBinary-parser is a",
       "source": "The Hacker News",
       "region": "North America",
       "country": "US",
@@ -421,7 +476,7 @@
     },
     {
       "id": "67c12c7ab8614a9c399adb4bc380be89bbea7185",
-      "title": "China-Linked APT Exploited Sitecore Zero-Day in Critical Infrastructure Intrusions",
+      "title": "China-Linked APT Exploited Sitecore Zero-Day in Critical Infrastructure Intrusion",
       "url": "https://thehackernews.com/2026/01/china-linked-apt-exploits-sitecore-zero.html",
       "published": "2026-01-16T07:18:00+00:00",
       "summary": "A threat actor likely aligned with China has been observed targeting critical infrastructure sectors in North America since at least last year.\nCisco Talos, which is tracking the activity under the name UAT-8837, assessed it to be a China-nexus advanced persistent threat (APT) actor with medium confidence based on tactical overlaps with other campaigns mounted by threat actors from the region.",
@@ -605,61 +660,6 @@
       "region": "North America",
       "country": "US",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaCf34rufIAaB1zg0XCGzy86tGwLrk8gGoZ9woUybQk2mzmVq3TlkTzYf1MYnIA12yy5ujravpnTZ3UcDEtRlt_vPDS8VQroTd44vbZuatBDMsh3op-9H1e_i2Hr8wjHLM6DoxchN319FXrpoB8554QFsyKDEj8gfxb5d0MrzAfu86ar5xmKW605Fen9_D/s1600/node.jpg"
-    },
-    {
-      "id": "38803b32fe1080ee1ce0ca48a7009860dd6187a7",
-      "title": "PLUGGYAPE Malware Uses Signal and WhatsApp to Target Ukrainian Defense Forces",
-      "url": "https://thehackernews.com/2026/01/pluggyape-malware-uses-signal-and.html",
-      "published": "2026-01-14T05:48:00+00:00",
-      "summary": "The Computer Emergency Response Team of Ukraine (CERT-UA) has disclosed details of new cyber attacks targeting its defense forces with malware known as PLUGGYAPE between October and December 2025.\nThe activity has been attributed with medium confidence to a Russian hacking group tracked as Void Blizzard (aka Laundry Bear or UAC-0190). The threat actor is believed to be active since at least",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6i85mU3PMQNKV9ygNXalAIYl19jrFu8mwAYx4Pa0hYDvtlr2MYpm0fHFVlsG8cVgCRkp3URTdzcxfx38d26boTVjF4vJ3J-85B0Bam3JZifhIg2dqczZXw0fht-lN4Erv8lyzhFedTIC0n-QMAtOGWsiYp_GdtVpu8qYJS2TQb3WMvTN9481pHruTvfPQ/s1600/uk.jpg"
-    },
-    {
-      "id": "e363613ad12884edf179bcc1dcee31f152a68e11",
-      "title": "Long-Running Web Skimming Campaign Steals Credit Cards From Online Checkout Pages",
-      "url": "https://thehackernews.com/2026/01/long-running-web-skimming-campaign.html",
-      "published": "2026-01-13T17:30:00+00:00",
-      "summary": "Cybersecurity researchers have discovered a major web skimming campaign that has been active since January 2022, targeting several major payment networks like American Express, Diners Club, Discover, JCB Co., Ltd., Mastercard, and UnionPay.\n\"Enterprise organizations that are clients of these payment providers are the most likely to be impacted,\" Silent Push said in a report published today.",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVHFQIvHd3Xgz0zjrshHMJtilffEd0_azV_hpxK8GoTLQWDeGdaBZYKYitTQoFr5eqVFb3GFc4g0xz8wopdk3WBOsDKkP_7Nev4o91jQA7z1giTaO0aMVWRP4brxYXlyZ5qIxmyh7M3PkhIuL3yjQtXuMoAJm-HBgOgyV6-5ukzwQYT15woXwmFRxPoVXQ/s1600/payment.png"
-    },
-    {
-      "id": "78b78fac33b77436fc55a2d8fa63102ef62d2f74",
-      "title": "Malicious Chrome Extension Steals MEXC API Keys by Masquerading as Trading Tool",
-      "url": "https://thehackernews.com/2026/01/malicious-chrome-extension-steals-mexc.html",
-      "published": "2026-01-13T17:22:00+00:00",
-      "summary": "Cybersecurity researchers have disclosed details of a malicious Google Chrome extension that's capable of stealing API keys associated with MEXC, a centralized cryptocurrency exchange (CEX) available in over 170 countries, while masquerading as a tool to automate trading on the platform.\nThe extension, named MEXC API Automator (ID: pppdfgkfdemgfknfnhpkibbkabhghhfh), has 29 downloads and is still",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjM0ngZi95ZptNXfR_fRCcaAolThq29ozaWNaVEh7n53DkYPz_Lkd0e8bXAVJlFev3xmjECw-ojYhxY-9LxK4ba00fpmcAI7sW7GTXSWb0POi3qIC8eNdKxgeFPg2HCGnA_El_ffucuffNfjqbyhL1oiqoU2HMR18zaCuUdOkBPtRiNAsLPDL9zFd-2XGGg/s1600/mexc.jpg"
-    },
-    {
-      "id": "da274c948bd6e0495113dfc5c14194304953f190",
-      "title": "[Webinar] Securing Agentic AI: From MCPs and Tool Access to Shadow API Key Sprawl",
-      "url": "https://thehackernews.com/2026/01/webinar-t-from-mcps-and-tool-access-to.html",
-      "published": "2026-01-13T13:44:00+00:00",
-      "summary": "AI agents are no longer just writing code. They are executing it.\nTools like Copilot, Claude Code, and Codex can now build, test, and deploy software end-to-end in minutes. That speed is reshaping engineering\u2014but it\u2019s also creating a security gap most teams don\u2019t see until something breaks.\nBehind every agentic workflow sits a layer few organizations are actively securing: Machine Control",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2N9qZuwkcslheNUOsWaTDrMYeXiBUfw1y-hItTvuGo71srarOm7AWzq3o7ro9E0x_CnC7XmJGXKl1tfkc6gTMK288y6M_zN6Yg1FATduXSQmMlp_jnHESxVYZDuJnNozO_Ff-r-lWIyG5AikC8AwrOckeYVYcCQv2RjeLof2bxV_TrcbvRvZqrTIcjD0/s1600/ai-agent.jpg"
-    },
-    {
-      "id": "c44700f246ca83c877d37b6a67b464f3d1b49fae",
-      "title": "New Advanced Linux VoidLink Malware Targets Cloud and container Environments",
-      "url": "https://thehackernews.com/2026/01/new-advanced-linux-voidlink-malware.html",
-      "published": "2026-01-13T11:57:00+00:00",
-      "summary": "Cybersecurity researchers have disclosed details of a previously undocumented and feature-rich malware framework codenamed VoidLink that's specifically designed for long-term, stealthy access to Linux-based cloud environments\nAccording to a new report from Check Point Research, the cloud-native Linux malware framework comprises an array of custom loaders, implants, rootkits, and modular",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcfCLo9a59SCJ19c7WELpXbj5RBPNyVw9NfsuV9pw1jfhfwpQ7A33H3RNHPH7X-lqmlBRJMeJV2QGiHEdX-Se3e1r8Ekv4aHmHS7xmyF2gOHKVwn_O9lF4XXC5U6VtbKc8GCVZFv7dzw0KKO6f_19B4jMAHVfEm-i1hqYCNl_qoEqANSA5gtna_BfQ4_me/s1600/link.jpg"
     },
     {
       "id": "bf925d5c2a27dc916ffa0f78e98a98618cb9a5aa",
@@ -1212,6 +1212,28 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc9fd47d12f886077/6821fdcbfbb72f6dc1831efc/Startup_(1800)_designer491_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
+      "id": "62efa4c5c2ba93250975fc95eec6691a5bc90bcb",
+      "title": "Ancient telnet bug happily hands out root to attackers",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/01/22/root_telnet_bug/",
+      "published": "2026-01-22T12:13:58+00:00",
+      "summary": "<h4>Critical vuln flew under the radar for a decade</h4> <p>A recently disclosed critical vulnerability in the GNU InetUtils telnet daemon (telnetd) is \"trivial\" to exploit, experts say.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "2c75abbf11804bfd2f8472da56120f656aa453be",
+      "title": "Another week, another emergency patch as Cisco plugs Unified Comms zero-day",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/01/22/another_week_another_emergency_patch/",
+      "published": "2026-01-22T10:54:36+00:00",
+      "summary": "<h4>The critical-rated flaw leaves unpatched systems open to full takeover</h4> <p>Cisco has finally shipped a fix for a critical-rated zero-day in its Unified Communications gear, a flaw that's already being weaponized in the wild, and which CISA previously flagged as an emergency priority.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "253f020587f220091051ea78fd52ff791b396dc6",
       "title": "Davos discussion mulls how to keep AI agents from running wild",
       "url": "https://go.theregister.com/feed/www.theregister.com/2026/01/21/davos_ai_agents_security/",
@@ -1740,28 +1762,6 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "795afb26641fc1fcd36860b4609da2c9ae4f47de",
-      "title": "Windows info-disclosure 0-day bug gets a fix as CISA sounds alarm",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/01/14/patch_tuesday_january_2026/",
-      "published": "2026-01-14T00:36:00+00:00",
-      "summary": "<h4>First Patch Tuesday of 2026 goes big</h4> <p>Microsoft and Uncle Sam have warned that a Windows bug disclosed today is already under attack.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "a4612b22eb594041053fbb42fa7da214db9b12b4",
-      "title": "Popular Python libraries used in Hugging Face models subject to poisoned metadata attack",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/01/13/ai_python_library_bugs_allow/",
-      "published": "2026-01-13T21:17:17+00:00",
-      "summary": "<h4>The open-source libraries were created by Salesforce, Nvidia, and Apple with a Swiss group</h4> <p>Vulnerabilities in popular AI and ML Python libraries used in Hugging Face models with tens of millions of downloads allow remote attackers to hide malicious code in metadata. The code then executes automatically when a file containing the poisoned metadata is loaded.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
       "id": "7aeb1f247b3c4237fa0cff08febfcdc64a397f5b",
       "title": "Patch Tuesday, January 2026 Edition",
       "url": "https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/",
@@ -1806,6 +1806,61 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "2cb2a6035b3a9ad8ca73c5a7ef18aded6be2dd2a",
+      "title": "New Wave of Attacks Targeting FortiGate Firewalls",
+      "url": "https://www.securityweek.com/new-wave-of-attacks-targeting-fortigate-firewalls/",
+      "published": "2026-01-22T12:10:02+00:00",
+      "summary": "<p>Hackers bypass the FortiCloud SSO login authentication to create new accounts and change device configurations.</p>\n<p>The post <a href=\"https://www.securityweek.com/new-wave-of-attacks-targeting-fortigate-firewalls/\">New Wave of Attacks Targeting FortiGate Firewalls</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "1009b4ec006dcb3b4e0e5aad79864d63a4b99240",
+      "title": "Claroty Raises $150 Million in Series F Funding",
+      "url": "https://www.securityweek.com/claroty-raises-150-million-in-series-f-funding/",
+      "published": "2026-01-22T11:58:28+00:00",
+      "summary": "<p>Claroty has raised a total of roughly $900 million and its valuation has reportedly reached $3 billion.</p>\n<p>The post <a href=\"https://www.securityweek.com/claroty-raises-150-million-in-series-f-funding/\">Claroty Raises $150 Million in Series F Funding</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "7924a8ad5101b428d60d6c9f658925019404d04b",
+      "title": "Furl Raises $10 Million for Autonomous Vulnerability Remediation",
+      "url": "https://www.securityweek.com/furl-raises-10-million-for-autonomous-vulnerability-remediation/",
+      "published": "2026-01-22T11:07:34+00:00",
+      "summary": "<p>The startup will use the new funding to accelerate product development and deepen remediation capabilities.</p>\n<p>The post <a href=\"https://www.securityweek.com/furl-raises-10-million-for-autonomous-vulnerability-remediation/\">Furl Raises $10 Million for Autonomous Vulnerability Remediation</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "abfb22d27b85e58e7ef42045cffb607d38358ba7",
+      "title": "Atlassian, GitLab, Zoom Release Security Patches",
+      "url": "https://www.securityweek.com/atlassian-gitlab-zoom-release-security-patches/",
+      "published": "2026-01-22T09:39:54+00:00",
+      "summary": "<p>Fixes were rolled out for over two dozen vulnerabilities, including critical- and high-severity bugs.</p>\n<p>The post <a href=\"https://www.securityweek.com/atlassian-gitlab-zoom-release-security-patches/\">Atlassian, GitLab, Zoom Release Security Patches</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "fb4c8a27e52cc2007bd91229a18160eec6adf597",
+      "title": "Hackers Targeting Cisco Unified CM Zero-Day",
+      "url": "https://www.securityweek.com/hackers-targeting-cisco-unified-cm-zero-day/",
+      "published": "2026-01-22T08:52:24+00:00",
+      "summary": "<p>Cisco has released patches for CVE-2026-20045, a critical vulnerability that can be exploited for unauthenticated remote code execution.</p>\n<p>The post <a href=\"https://www.securityweek.com/hackers-targeting-cisco-unified-cm-zero-day/\">Hackers Targeting Cisco Unified CM Zero-Day\u00a0</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "ea4baa45a4ba9117f1b6e5ad5025d71468be99cc",
       "title": "CyberNut Closes $5M Growth Capital for K-12 Security Awareness Training",
       "url": "https://www.securityweek.com/cybernut-closes-5m-growth-capital-for-k-12-security-awareness-training/",
@@ -1829,10 +1884,10 @@
     },
     {
       "id": "cca6c474620aeac6ccf81e0f0c5eae96522e7c8f",
-      "title": "aiFWall Emerges from Stealth With an AI Firewall",
+      "title": "aiFWall Emerges From Stealth With an AI Firewall",
       "url": "https://www.securityweek.com/aifwall-emerges-from-stealth-with-an-ai-firewall/",
       "published": "2026-01-21T14:09:42+00:00",
-      "summary": "<p>aiFWall is a firewall protection for AI deployments built to use AI to improve its own performance.</p>\n<p>The post <a href=\"https://www.securityweek.com/aifwall-emerges-from-stealth-with-an-ai-firewall/\">aiFWall Emerges from Stealth With an AI Firewall</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "summary": "<p>aiFWall is a firewall protection for AI deployments built to use AI to improve its own performance.</p>\n<p>The post <a href=\"https://www.securityweek.com/aifwall-emerges-from-stealth-with-an-ai-firewall/\">aiFWall Emerges From Stealth With an AI Firewall</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
@@ -1855,61 +1910,6 @@
       "url": "https://www.securityweek.com/north-korean-hackers-target-macos-developers-via-malicious-vs-code-projects/",
       "published": "2026-01-21T13:20:11+00:00",
       "summary": "<p>The hackers trick victims into accessing GitHub or GitLab repositories that are opened using Visual Studio Code.</p>\n<p>The post <a href=\"https://www.securityweek.com/north-korean-hackers-target-macos-developers-via-malicious-vs-code-projects/\">North Korean Hackers Target macOS Developers via Malicious VS Code Projects</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "047f179e2bc2afd17f13a320ec6a9fe369eb42af",
-      "title": "Why Identity Security Must Move Beyond MFA",
-      "url": "https://www.securityweek.com/why-identity-security-must-move-beyond-mfa/",
-      "published": "2026-01-21T12:30:00+00:00",
-      "summary": "<p>By integrating identity threat detection with MFA, organizations can protect sensitive data, maintain operational continuity, and reduce risk exposure. </p>\n<p>The post <a href=\"https://www.securityweek.com/why-identity-security-must-move-beyond-mfa/\">Why Identity Security Must Move Beyond MFA</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "003cf4ef2fb796f63b39fc26a796677f4325393d",
-      "title": "MITRE Launches New Security Framework for Embedded Systems",
-      "url": "https://www.securityweek.com/mitre-launches-new-security-framework-for-embedded-systems/",
-      "published": "2026-01-21T12:11:46+00:00",
-      "summary": "<p>The Embedded Systems Threat Matrix (ESTM) aims to help organizations protect critical embedded systems.\u00a0</p>\n<p>The post <a href=\"https://www.securityweek.com/mitre-launches-new-security-framework-for-embedded-systems/\">MITRE Launches New Security Framework for Embedded Systems\u00a0</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "9c842cfc483c2ec98e5ec32aae125a2387de68b3",
-      "title": "Cyber Insights 2026: API Security \u2013 Harder to Secure, Impossible to Ignore",
-      "url": "https://www.securityweek.com/cyber-insights-2026-api-security/",
-      "published": "2026-01-21T12:00:00+00:00",
-      "summary": "<p>API cybersecurity will be a ping pong ball, battered between the rackets of AI-assisted attackers and AI-assisted defenders.</p>\n<p>The post <a href=\"https://www.securityweek.com/cyber-insights-2026-api-security/\">Cyber Insights 2026: API Security &#8211; Harder to Secure, Impossible to Ignore</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "565cb6cf806d651069f077072d584b74f1ac6a4a",
-      "title": "Anthropic MCP Server Flaws Lead to Code Execution, Data Exposure",
-      "url": "https://www.securityweek.com/anthropic-mcp-server-flaws-lead-to-code-execution-data-exposure/",
-      "published": "2026-01-21T11:41:55+00:00",
-      "summary": "<p>Impacting Anthropic\u2019s official MCP server, the vulnerabilities can be exploited through prompt injections.</p>\n<p>The post <a href=\"https://www.securityweek.com/anthropic-mcp-server-flaws-lead-to-code-execution-data-exposure/\">Anthropic MCP Server Flaws Lead to Code Execution, Data Exposure</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "66bb47ac17720c928fed0840883d3a61befbe4f1",
-      "title": "Oracle\u2019s First 2026 CPU Delivers 337 New Security Patches",
-      "url": "https://www.securityweek.com/oracles-first-2026-cpu-delivers-337-new-security-patches/",
-      "published": "2026-01-21T10:46:56+00:00",
-      "summary": "<p>Oracle\u2019s January 2026 CPU resolves roughly 230 unique vulnerabilities across more than 30 products.</p>\n<p>The post <a href=\"https://www.securityweek.com/oracles-first-2026-cpu-delivers-337-new-security-patches/\">Oracle&#8217;s First 2026 CPU Delivers 337 New Security Patches</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
