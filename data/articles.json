@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-23T00:48:50.627670+00:00",
+  "generated_at": "2026-01-23T12:20:06.725473+00:00",
   "items": [
     {
       "id": "b68b868762b5b652f17827b05fa521f95883ca50",
@@ -110,6 +110,39 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "c68117068595e07ec178e717f0a7a6ea5ac31989",
+      "title": "TikTok Forms U.S. Joint Venture to Continue Operations Under 2025 Executive Order",
+      "url": "https://thehackernews.com/2026/01/tiktok-forms-us-joint-venture-to.html",
+      "published": "2026-01-23T11:30:00+00:00",
+      "summary": "TikTok on Friday officially announced that it formed a joint venture that will allow the hugely popular video-sharing application to continue operating in the U.S.\nThe new venture, named TikTok USDS Joint Venture LLC, has been established in compliance with the Executive Order signed by U.S. President Donald Trump in September 2025, the platform said. The new deal will see TikTok's Chinese",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHNw6vrF55MzjLtt48WKN8aD1UJIcbMEZFqOFPqIIhWiscHTk_S9_gLPdIMgbLi-OliN8MtGpf03YJ8AwAFG8pemtYFo-wtHqKqvg7Iw81r8pXZSnmPjcVgXBtZNNrgnriwV7mErx0K0puyIW0Xdbbhjlteatur-HbCyEesWJioePLF39rBHjBJwt5Tfig/s1600/tiktok.jpg"
+    },
+    {
+      "id": "661216906585437d4f1919f6deaebdddf8d9c345",
+      "title": "Phishing Attack Uses Stolen Credentials to Install LogMeIn RMM for Persistent Access",
+      "url": "https://thehackernews.com/2026/01/phishing-attack-uses-stolen-credentials.html",
+      "published": "2026-01-23T11:18:00+00:00",
+      "summary": "Cybersecurity researchers have disclosed details of a new dual-vector campaign that leverages stolen credentials to deploy legitimate Remote Monitoring and Management (RMM) software for persistent remote access to compromised hosts.\n\"Instead of deploying custom viruses, attackers are bypassing security perimeters by weaponizing the necessary IT tools that administrators trust,\" KnowBe4 Threat",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicydHIzxQzKCM6IJLuGPOYTskBFZhVxh6XYXItKSN91mAqv0xzZfIRmI1XXeyGE8yJ-gORNbdNwXBdCSJ9uEV9CnSE814erkLz4HKjN-eYPERE-7CWfE-UER9iumjTABTzv6j05jubb0hND2LJs9SNJyIBBd7PFkkzv0wNvlDfZFtsYqrxZgR5a0VLaNAI/s1600/logmein.jpg"
+    },
+    {
+      "id": "c3c1b74d9b8ea400ea9c0a74c5096f3e1477eafd",
+      "title": "Microsoft Flags Multi-Stage AitM Phishing and BEC Attacks Targeting Energy Firms",
+      "url": "https://thehackernews.com/2026/01/microsoft-flags-multi-stage-aitm.html",
+      "published": "2026-01-23T08:25:00+00:00",
+      "summary": "Microsoft has warned of a multi\u2011stage adversary\u2011in\u2011the\u2011middle (AitM) phishing and business email compromise (BEC) campaign targeting multiple organizations in the energy sector.\n\"The campaign abused SharePoint file\u2011sharing services to deliver phishing payloads and relied on inbox rule creation to maintain persistence and evade user awareness,\" the Microsoft Defender Security Research Team said.",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBbSlIXcDChwJf0Cmq4j01QoZOUqnaRGaciqD9J0XKMk-2_Fnzge5_qv44fs_4xzO3OORbk0kiYFOHlocsuJBdVDxC86k-GMG-21LAJ-62F15I6XyUVobMKwVVh6h8PxP6rsJSPaSFUh50yCflaAxLI-UpGwbCLAaCtKqoti67rT6jChpeTei6TUjjYCE4/s1600/1000049930.png"
     },
     {
       "id": "2abb5f515c384b9ad866f6ed51793cdef397f561",
@@ -627,39 +660,6 @@
       "region": "North America",
       "country": "US",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjd8LcAq2Eh4FGdeubIWyG99KZTiImVy-_8pLP_ooz55oOJQbiUnFXUS8yQ9Zg_XOj1eqw-qCII4_ZeoQqYlCou4ELHCWcqE1Fkkpr7y0CiCV0phTdYcTxGB-Q66Vjedk9f5svf8bB3eGyGVvI-iYmAZhGsDuJujVaAY9tsjsJ5xDjIJabN_4MagL4jnG63/s1600/sep.jpg"
-    },
-    {
-      "id": "f466d28a14720284136967bc36d6830b35c0b683",
-      "title": "AI Agents Are Becoming Authorization Bypass Paths",
-      "url": "https://thehackernews.com/2026/01/ai-agents-are-becoming-privilege.html",
-      "published": "2026-01-14T15:07:00+00:00",
-      "summary": "Not long ago, AI agents were harmless. They wrote snippets of code. They answered questions. They helped individuals move a little faster.\nThen organizations got ambitious.\nInstead of personal copilots, companies started deploying shared organizational AI agents - agents embedded into HR, IT, engineering, customer support, and operations. Agents that don&rsquo;t just suggest, but act. Agents",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMG-WeRkxqHYVKqOELWCDkbIiI6lTEWqGIAkOQlI3kVCdVPQtCyH3kOcBXxxscPd6Hj0V4xyKku6WmGYKhyphenhyphenYxRP_d4lzh4ddOwG0ySAz6zQQoNGiacBA4jKuvoNRqA1ChEFjekiSQZsmH6hKo-GQhXK6hyphenhyphenrk4jE50dWybCMTS_Dahxvv6WbEYeA6F0A1s/s1600/ai-agent-wing.jpg"
-    },
-    {
-      "id": "24b86b3cff8cae8de60149e635d1950c49831e77",
-      "title": "Hackers Exploit c-ares DLL Side-Loading to Bypass Security and Deploy Malware",
-      "url": "https://thehackernews.com/2026/01/hackers-exploit-c-ares-dll-side-loading.html",
-      "published": "2026-01-14T14:18:00+00:00",
-      "summary": "Security experts have disclosed details of an active malware campaign that's exploiting a DLL side-loading vulnerability in a legitimate binary associated with the open-source c-ares library to bypass security controls and deliver a wide range of commodity trojans and stealers.\n\"Attackers achieve evasion by pairing a malicious libcares-2.dll with any signed version of the legitimate ahost.exe (",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZpmrWdjziw_EBxzQs9lPcsMwRp6OICCFmo0QhzZoHdyE5WgEjcM2Y90QbmkJegSh19-ho2EsdkKwoEVKiSnM1ODN-8e5XJrw1cgjUHGm_ZAM6pYLaHSHa8TTJA8-ALLBty_JtK073FvqZFSjnuW7cEFGXNDQrGL12QRsuGJUl0Oc2QzoM-aMBVCatJLjc/s1600/cert.jpg"
-    },
-    {
-      "id": "55d09ea0344bd46e74cdb4d8bb28a962e748f29b",
-      "title": "Fortinet Fixes Critical FortiSIEM Flaw Allowing Unauthenticated Remote Code Execution",
-      "url": "https://thehackernews.com/2026/01/fortinet-fixes-critical-fortisiem-flaw.html",
-      "published": "2026-01-14T11:53:00+00:00",
-      "summary": "Fortinet has released updates to fix a critical security flaw impacting FortiSIEM that could allow an unauthenticated attacker to achieve code execution on susceptible instances.\nThe operating system (OS) injection vulnerability, tracked as CVE-2025-64155, is rated 9.4 out of 10.0 on the CVSS scoring system.\n\"An improper neutralization of special elements used in an OS command ('OS command",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimc7gjS2ZNi7kOnZXqH-FOYhQ5snGQ-zfhTA1NvxSNOo0dFaX62BEJSqr0qVmPJ9wY4jNffKZ8P5mciZC34btvRAJ4KH6dKXmcOOZpmFUZOU0cOtyJxNf-eImO9Gq8CIc3aVPlNo267-_RSUqTHyrjTkkfSbCnLb2lqjECHgqqo78Y-2Gib0Pxy8m3D-S9/s1600/fort.jpg"
     },
     {
       "id": "d59da5732b6d06d981ff8781b8b9ba786862e13b",
@@ -1212,6 +1212,28 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt25111ddc90b9d039/695eb555cbf6072c0543fa19/Fishing_caia_image_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
+      "id": "c147d7cfcdaeb4cd9b97cb6ca7eda2dff4a77fc2",
+      "title": "London boroughs limping back online months after cyberattack",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/01/23/landmark_milestone_as_hammersmith_fulham/",
+      "published": "2026-01-23T10:34:57+00:00",
+      "summary": "<h4>Direct debits? Maybe February. Birth certificates? Dream on. Council tax bills? Oh, those are coming</h4> <p>Hammersmith &amp; Fulham Council says payments are now being processed as usual, two months after a cyberattack that affected multiple boroughs in the UK's capital city.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "0ded6165c88cdfc565a4f72f402b776277505441",
+      "title": "Marching orders delayed: Veterans' Digital ID off to a slow start",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/01/23/slow_start_for_veterans_digital/",
+      "published": "2026-01-23T09:28:07+00:00",
+      "summary": "<h4>Much owed to the few, but takeup is under 1%</h4> <p>More than 15,000 former members of the UK's armed forces have successfully applied for a digital version of their veterans ID card since its launch in October, according to the Government Digital Service (GDS).\u00a0\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "cc026589649450261a2d3a745add7888caea0b33",
       "title": "Crims hit the easy button for Scattered-Spider style helpdesk scams",
       "url": "https://go.theregister.com/feed/www.theregister.com/2026/01/22/crims_sell_voice_phishing_kits/",
@@ -1740,25 +1762,113 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "36f6e01be6081ecdd4fab0424a34d878bb8325c0",
-      "title": "France fines telcos \u20ac42M for sub-par security prior to 24M customer breach",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/01/14/france_fines_free_free_mobile/",
-      "published": "2026-01-14T15:17:01+00:00",
-      "summary": "<h4>Three major GDPR violations, including a lack of basic security controls, lead to hefty dent in profits</h4> <p>The French data protection regulator, CNIL, today issued a collective \u20ac42 million ($48.9 million) fine to two French telecom companies for GDPR violations stemming from a data breach.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
+      "id": "ec7d99efc813af9d4d1a7474be57cd27df398db4",
+      "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
+      "url": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
+      "published": "2026-01-20T18:19:13+00:00",
+      "summary": "A new Internet-of-Things botnet called Kimwolf has spread to more than 2 million devices, forcing infected systems to participate in massive distributed denial-of-service (DDoS) attacks and to relay other malicious and abusive Internet traffic. Kimwolf's ability to scan the local networks of compromised systems for other IoT devices to infect makes it a sobering threat to organizations, and new research reveals Kimwolf is surprisingly prevalent in government and corporate networks.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "acdb1c36af15c63e19217d0e3f29b847b1c81f64",
-      "title": "'Imagination the limit': DeadLock ransomware gang using smart contracts to hide their work",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/01/14/deadlock_ransomware_smart_contracts/",
-      "published": "2026-01-14T14:16:44+00:00",
-      "summary": "<h4>New crooks on the block get crafty with blockchain to evade defenses</h4> <p>Researchers at Group-IB say the DeadLock ransomware operation is using blockchain-based anti-detection methods to evade defenders' attempts to analyze their tradecraft.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
+      "id": "7aeb1f247b3c4237fa0cff08febfcdc64a397f5b",
+      "title": "Patch Tuesday, January 2026 Edition",
+      "url": "https://krebsonsecurity.com/2026/01/patch-tuesday-january-2026-edition/",
+      "published": "2026-01-14T00:47:38+00:00",
+      "summary": "Microsoft today issued patches to plug at least 113 security holes in its various Windows operating systems and supported software. Eight of the vulnerabilities earned Microsoft's most-dire \"critical\" rating, and the company warns that attackers are already exploiting one of the bugs fixed today.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "479496e784d1b1bac8f0d4ec7e6ba8338ab2cf58",
+      "title": "Who Benefited from the Aisuru and Kimwolf Botnets?",
+      "url": "https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/",
+      "published": "2026-01-08T23:23:43+00:00",
+      "summary": "Our first story of 2026 revealed how a destructive new botnet called Kimwolf rapidly grew to infect more than two million devices by mass-compromising a vast number of unofficial Android TV streaming boxes. Today, we'll dig through digital clues left behind by the hackers, network operators, and cybercrime services that appear to have benefitted from Kimwolf's spread.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "952bf7ba348eb8e2086e37a1cf1b8ef8c6fcc1b2",
+      "title": "The Kimwolf Botnet is Stalking Your Local Network",
+      "url": "https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/",
+      "published": "2026-01-02T14:20:10+00:00",
+      "summary": "The story you are reading is a series of scoops nestled inside a far more urgent Internet-wide security advisory. The vulnerability at issue has been exploited for months already, and it's time for a broader awareness of the threat. The short version is that everything you thought you knew about the security of the internal network behind your Internet router probably is now dangerously out of date.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "cade45bd05cff881c7e23c6ca712511510b4cb9b",
+      "title": "Happy 16th Birthday, KrebsOnSecurity.com!",
+      "url": "https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/",
+      "published": "2025-12-29T20:23:26+00:00",
+      "summary": "KrebsOnSecurity.com celebrates its 16th anniversary today! A huge \"thank you\" to all of our readers -- newcomers, long-timers and drive-by critics alike. Your engagement this past year here has been tremendous and truly a salve on a handful of dark days. Happily, comeuppance was a strong theme running through our coverage in 2025, with a primary focus on entities that enabled complex and globally-dispersed cybercrime services.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "faf35367ce11072c3f09365f21117b0d426f91a7",
+      "title": "Under Armour Looking Into Data Breach Affecting Customers\u2019 Email Addresses",
+      "url": "https://www.securityweek.com/under-armour-looking-into-data-breach-affecting-customers-email-addresses/",
+      "published": "2026-01-23T12:01:18+00:00",
+      "summary": "<p>Clothing retailer Under Armour is investigating a recent data breach that purloined customers\u2019 email addresses and other personal information, but so far there are no signs the hackers stole any passwords or financial information. The breach is believed to have happened late last year, and affected 72 million email addresses, according to information cited by [&#8230;]</p>\n<p>The post <a href=\"https://www.securityweek.com/under-armour-looking-into-data-breach-affecting-customers-email-addresses/\">Under Armour Looking Into Data Breach Affecting Customers&#8217; Email Addresses</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "8dc95ddf7251e8c9f0493110a9fceb32c2b14487",
+      "title": "Organizations Warned of Exploited Zimbra Collaboration Vulnerability",
+      "url": "https://www.securityweek.com/organizations-warned-of-exploited-zimbra-collaboration-vulnerability/",
+      "published": "2026-01-23T11:47:24+00:00",
+      "summary": "<p>CISA has added the Zimbra flaw to the KEV catalog along with three other bugs exploited in the wild.</p>\n<p>The post <a href=\"https://www.securityweek.com/organizations-warned-of-exploited-zimbra-collaboration-vulnerability/\">Organizations Warned of Exploited Zimbra Collaboration Vulnerability</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "6f68b03354da821a90d150eea8743a3423fe6d30",
+      "title": "Infotainment, EV Charger Exploits Earn Hackers $1M at Pwn2Own Automotive 2026",
+      "url": "https://www.securityweek.com/infotainment-ev-charger-exploits-earn-hackers-1m-at-pwn2own-automotive-2026/",
+      "published": "2026-01-23T11:33:22+00:00",
+      "summary": "<p>Pwn2Own participants disclosed a total of 76 vulnerabilities during the three-day event.\u00a0</p>\n<p>The post <a href=\"https://www.securityweek.com/infotainment-ev-charger-exploits-earn-hackers-1m-at-pwn2own-automotive-2026/\">Infotainment, EV Charger Exploits Earn Hackers $1M at Pwn2Own Automotive 2026</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "9377c57c5e4cef245818a0d841bef725754fde2b",
+      "title": "Fresh SmarterMail Flaw Exploited for Admin Access",
+      "url": "https://www.securityweek.com/fresh-smartermail-flaw-exploited-for-admin-access/",
+      "published": "2026-01-23T10:34:09+00:00",
+      "summary": "<p>The exploitation of the authentication bypass vulnerability started two days after patches were released.</p>\n<p>The post <a href=\"https://www.securityweek.com/fresh-smartermail-flaw-exploited-for-admin-access/\">Fresh SmarterMail Flaw Exploited for Admin Access</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "9983427a253234856166f3196792d03b9b7259d0",
+      "title": "2 Venezuelans Convicted in US for Using Malware to Hack ATMs",
+      "url": "https://www.securityweek.com/2-venezuelans-convicted-in-us-for-using-malware-to-hack-atms/",
+      "published": "2026-01-23T09:05:58+00:00",
+      "summary": "<p>Dozens of Venezuelan nationals have been charged by the US for their role in ATM jackpotting attacks.\u00a0</p>\n<p>The post <a href=\"https://www.securityweek.com/2-venezuelans-convicted-in-us-for-using-malware-to-hack-atms/\">2 Venezuelans Convicted in US for Using Malware to Hack ATMs</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
@@ -1811,61 +1921,6 @@
       "url": "https://www.securityweek.com/new-wave-of-attacks-targeting-fortigate-firewalls/",
       "published": "2026-01-22T12:10:02+00:00",
       "summary": "<p>Hackers bypass the FortiCloud SSO login authentication to create new accounts and change device configurations.</p>\n<p>The post <a href=\"https://www.securityweek.com/new-wave-of-attacks-targeting-fortigate-firewalls/\">New Wave of Attacks Targeting FortiGate Firewalls</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "1009b4ec006dcb3b4e0e5aad79864d63a4b99240",
-      "title": "Claroty Raises $150 Million in Series F Funding",
-      "url": "https://www.securityweek.com/claroty-raises-150-million-in-series-f-funding/",
-      "published": "2026-01-22T11:58:28+00:00",
-      "summary": "<p>Claroty has raised a total of roughly $900 million and its valuation has reportedly reached $3 billion.</p>\n<p>The post <a href=\"https://www.securityweek.com/claroty-raises-150-million-in-series-f-funding/\">Claroty Raises $150 Million in Series F Funding</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "7924a8ad5101b428d60d6c9f658925019404d04b",
-      "title": "Furl Raises $10 Million for Autonomous Vulnerability Remediation",
-      "url": "https://www.securityweek.com/furl-raises-10-million-for-autonomous-vulnerability-remediation/",
-      "published": "2026-01-22T11:07:34+00:00",
-      "summary": "<p>The startup will use the new funding to accelerate product development and deepen remediation capabilities.</p>\n<p>The post <a href=\"https://www.securityweek.com/furl-raises-10-million-for-autonomous-vulnerability-remediation/\">Furl Raises $10 Million for Autonomous Vulnerability Remediation</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "abfb22d27b85e58e7ef42045cffb607d38358ba7",
-      "title": "Atlassian, GitLab, Zoom Release Security Patches",
-      "url": "https://www.securityweek.com/atlassian-gitlab-zoom-release-security-patches/",
-      "published": "2026-01-22T09:39:54+00:00",
-      "summary": "<p>Fixes were rolled out for over two dozen vulnerabilities, including critical- and high-severity bugs.</p>\n<p>The post <a href=\"https://www.securityweek.com/atlassian-gitlab-zoom-release-security-patches/\">Atlassian, GitLab, Zoom Release Security Patches</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "fb4c8a27e52cc2007bd91229a18160eec6adf597",
-      "title": "Hackers Targeting Cisco Unified CM Zero-Day",
-      "url": "https://www.securityweek.com/hackers-targeting-cisco-unified-cm-zero-day/",
-      "published": "2026-01-22T08:52:24+00:00",
-      "summary": "<p>Cisco has released patches for CVE-2026-20045, a critical vulnerability that can be exploited for unauthenticated remote code execution.</p>\n<p>The post <a href=\"https://www.securityweek.com/hackers-targeting-cisco-unified-cm-zero-day/\">Hackers Targeting Cisco Unified CM Zero-Day\u00a0</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "ea4baa45a4ba9117f1b6e5ad5025d71468be99cc",
-      "title": "CyberNut Closes $5M Growth Capital for K-12 Security Awareness Training",
-      "url": "https://www.securityweek.com/cybernut-closes-5m-growth-capital-for-k-12-security-awareness-training/",
-      "published": "2026-01-21T16:18:08+00:00",
-      "summary": "<p>CyberNut emerged from stealth in May 2024 with $800k in pre-seed funding for its cybersecurity platform.</p>\n<p>The post <a href=\"https://www.securityweek.com/cybernut-closes-5m-growth-capital-for-k-12-security-awareness-training/\">CyberNut Closes $5M Growth Capital for K-12 Security Awareness Training</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
