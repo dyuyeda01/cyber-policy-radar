@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-24T00:46:04.637517+00:00",
+  "generated_at": "2026-01-24T12:16:42.918962+00:00",
   "items": [
     {
       "id": "cbbe8c7573afa896861cd89a2ae4719bcc420976",
@@ -110,6 +110,50 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "10010c34e87febe7b835d199c760e81f26f99d1a",
+      "title": "Multi-Stage Phishing Campaign Targets Russia with Amnesia RAT and Ransomware",
+      "url": "https://thehackernews.com/2026/01/multi-stage-phishing-campaign-targets.html",
+      "published": "2026-01-24T11:09:00+00:00",
+      "summary": "A new multi-stage phishing campaign has been observed targeting users in Russia with ransomware and a remote access trojan called Amnesia RAT.\n\"The attack begins with social engineering lures delivered via business-themed documents crafted to appear routine and benign,\" Fortinet FortiGuard Labs researcher Cara Lin said in a technical breakdown published this week. \"These documents and",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipVK-eTPu0vfv8p-slHnoh8LJka5_l-zmd82fTCO2rB8yxGFPRArabSzbI5LWzMskPr6UWf79uQ9fiHvVzY7eDB0Kj0cQIFZQEVSYJv-2nhqZJeNdnlZTp_I3e3tDePl7El94WvXFz4U-alGCONeTaxYRGWUNxhY1L0Osoq2hgl3pUghnPGbc5YK-XVVLj/s1600/github-chain.jpg"
+    },
+    {
+      "id": "e40b987f1bf0d8bb607ef51ad80ac7e2e006e030",
+      "title": "New DynoWiper Malware Used in Attempted Sandworm Attack on Polish Power Sector",
+      "url": "https://thehackernews.com/2026/01/new-dynowiper-malware-used-in-attempted.html",
+      "published": "2026-01-24T08:21:00+00:00",
+      "summary": "The Russian nation-state hacking group known as Sandworm has been attributed to what has been described as the \"largest cyber attack\" targeting Poland's power system in the last week of December 2025.\nThe attack was unsuccessful, the country's energy minister, Milosz Motyka, said last week.\n\"The command of the cyberspace forces has diagnosed in the last days of the year the strongest attack on",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnjp5lsaWHKXcLJl4fjk6nW0R-oXfuin3AicaKqzCuMbG95h-qptbJ2_ZnnR6L2eMfHJLpu3K6fhX2ZThB3P6nThiinK6BBb7TPjGNe5-cBpS_oVOeHaZfjSZxRuFsqQzuTfAXRV68uVyw-7KW_f2gFiL0XZBkGpYO0H-IxVDZd3EKtGiyuEpZZ_3FdPSb/s1600/powerplant.jpg"
+    },
+    {
+      "id": "5c30163b6b83712b42e17824e3ca06a66f5adb8f",
+      "title": "Who Approved This Agent? Rethinking Access, Accountability, and Risk in the Age of AI Agents",
+      "url": "https://thehackernews.com/2026/01/who-approved-this-agent-rethinking.html",
+      "published": "2026-01-24T08:20:00+00:00",
+      "summary": "AI agents are accelerating how work gets done. They schedule meetings, access data, trigger workflows, write code, and take action in real time, pushing productivity beyond human speed across the enterprise.\nThen comes the moment every security team eventually hits:\n&ldquo;Wait&hellip; who approved this?&rdquo;\nUnlike users or applications, AI agents are often deployed quickly, shared broadly,",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiW0YdKx3Mn8l9PzpwwxmdeBP5kgWuc5R4LevYs6tP-J1z5nSZcdE16En4Z9Ad89VIFR_f3qxeM-vMtgvfOTPxyoZV8H5Dcaj4WlXB2tmh9NG6vGLY7jfD7CyToCKJ_BHVMkkR2kcJdo6yZhIS-RiV3yVyBUHZcVrodWp4wDHdT1phfyZFDifLQnaqiXBc/s1600/wing.jpg"
+    },
+    {
+      "id": "d8a8bc01886f8004494a4ba22bc978a48beaed34",
+      "title": "CISA Adds Actively Exploited VMware vCenter Flaw CVE-2024-37079 to KEV Catalog",
+      "url": "https://thehackernews.com/2026/01/cisa-adds-actively-exploited-vmware.html",
+      "published": "2026-01-24T08:09:00+00:00",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a critical security flaw affecting Broadcom VMware vCenter Server that was patched in June 2024 to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation in the wild.\nThe vulnerability in question is CVE-2024-37079 (CVSS score: 9.8), which refers to a heap overflow in the",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAS4r1YmdF-kqL3YwcAZAYsspwp0KB3XNknsYwmjR5YrXgNy956NSjgc3-RacAnCgT56dkPCBNRZfrbw18N2JfGMkd2ZFTRIqVxdjsNe2P5akQ56kpc5nplK8KPy-9TLEDycjb2QZrBqhEL-4jEL9upEN0CAvvkJYyEdNqCPicbPScEfmTIyPleWeUCP35/s1600/vmware.jpg"
     },
     {
       "id": "ca8ae1091105c9c4af8ded82b6ccbbb473542c50",
@@ -616,50 +660,6 @@
       "region": "North America",
       "country": "US",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUttEV3Kwm4PD4w5h618KgulBz1T4aO-lP65yy2YD10J410HuFtAORucYtZ7bG5AGTy1XS2whXAxNenoflKKIe57oZIaewKsBPYtDvc1RCCSPpd3W4nc7rnuSyU9pXiLc0uZbaxHbOsMXQ7dNsCCU4g2wDymsmkKfHmBL9fyMJKQ6L5twNNMe7_v8mycfi/s1600/data-leak.jpg"
-    },
-    {
-      "id": "9d8bbf71ac11d9889b82f4e798516f794f724daf",
-      "title": "ThreatsDay Bulletin: AI Voice Cloning Exploit, Wi-Fi Kill Switch, PLC Vulns, and 14 More Stories",
-      "url": "https://thehackernews.com/2026/01/threatsday-bulletin-ai-voice-cloning.html",
-      "published": "2026-01-15T13:56:00+00:00",
-      "summary": "The internet never stays quiet. Every week, new hacks, scams, and security problems show up somewhere.\nThis week\u2019s stories show how fast attackers change their tricks, how small mistakes turn into big risks, and how the same old tools keep finding new ways to break in.\nRead on to catch up before the next wave hits.\n\n\n\n\n\n  \n\n  \n  \n    Unauthenticated RCE risk\n    \n      Security Flaw in Redis",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzvvHEqTEOReDITlWAubNSlpgKNjcExRCQaCh0X8XHhNVEE2Z7R4puzJjK_UZ14TUS-XkFH1d3_IGJm3vBbEo4LVB_onEDCCNF-19h0NKMQug88rD_Apz8SxCm62hPo4j3WVdmTvJWSlKGDiPT7A7Ae4G5aSq9mbC2t62vLoNORmK8w821nNMVOaNlbpMn/s1600/th.jpg"
-    },
-    {
-      "id": "21e133eba50a57272ee24de754245dbd0db675f7",
-      "title": "Model Security Is the Wrong Frame \u2013 The Real Risk Is Workflow Security",
-      "url": "https://thehackernews.com/2026/01/model-security-is-wrong-frame-real-risk.html",
-      "published": "2026-01-15T11:55:00+00:00",
-      "summary": "As AI copilots and assistants become embedded in daily work, security teams are still focused on protecting the models themselves. But recent incidents suggest the bigger risk lies elsewhere: in the workflows that surround those models.\nTwo Chrome extensions posing as AI helpers were recently caught stealing ChatGPT and DeepSeek chat data from over 900,000 users. Separately, researchers",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifF0ZjKCWkqtgjpXwfOT24GtsqzBWdfQLVwBqhmXBsDash4aV99f9fnE7zk1QI_98C_PbWtT-WGWf5ULG50ITJ8OljCyCEfbJIqxJx_ZZP6krcHK7UEv_QuOt0eugeUIQh8TO1kZArRZ4-rbSXa10SaAocQRnJJ-Sni2eXt8aq6SVoDYCYN2E9LTDVDv4/s1600/main.png"
-    },
-    {
-      "id": "02e577dd856ca4bf019ff5852702da1ff6892954",
-      "title": "4 Outdated Habits Destroying Your SOC's MTTR in 2026",
-      "url": "https://thehackernews.com/2026/01/4-outdated-habits-destroying-your-socs.html",
-      "published": "2026-01-15T11:00:00+00:00",
-      "summary": "It\u2019s 2026, yet many SOCs are still operating the way they did years ago, using tools and processes designed for a very different threat landscape. Given the growth in volumes and complexity of cyber threats, outdated practices no longer fully support analysts\u2019 needs, staggering investigations and incident response.\nBelow are four limiting habits that may be preventing your SOC from evolving at",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLFWLON6Sb5l1X4m1NB6waPUcKnXCUUYcBnqw9AwkTbX4m2LYQqvC7SrpCvMsYuzAvb6HZkJ_EyA1ow6sL-oIFCKdn1wZN6EXxYH-ZmnAcmQW7adxUTGEkkw1SSeMCJgdandr0AqC6JDYW6Mxx2FxyTSz6kpAMbRMF1E7uLR1jvFYBekOkv8S-560C8pI/s1600/anyrun-main.jpg"
-    },
-    {
-      "id": "6b35016a61d7ae6e33c382f5a7b135753be4b60e",
-      "title": "Microsoft Legal Action Disrupts RedVDS Cybercrime Infrastructure Used for Online Fraud",
-      "url": "https://thehackernews.com/2026/01/microsoft-legal-action-disrupts-redvds.html",
-      "published": "2026-01-15T09:37:00+00:00",
-      "summary": "Microsoft on Wednesday announced that it has taken a \"coordinated legal action\" in the U.S. and the U.K. to disrupt a cybercrime subscription service called RedVDS that has allegedly fueled millions in fraud losses.\nThe effort, per the tech giant, is part of a broader law enforcement effort in collaboration with law enforcement authorities that has allowed it to confiscate the malicious",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCVLDhpz3tBZUhh-88mVPvKY16J7ws-ofqjwN_YUNINRU2YeXG0zA5O39KqPKDWa2cN-QOht-WHJ6BmfwrPCR0DUMQFUJ2Gr9DjSjF0Kmk31Sc8nGh9ciUWfpbv-SJFkwgHeBVh3b4s6PuqLvjeqAbAJvve7PksGugF9p0ESp9jrEmNweKeXCQFC_SS7Tp/s1600/ms-fraud-servers.jpg"
     },
     {
       "id": "9e50f1015b4a659c84f9d5f2057a464a86ac5606",
@@ -1212,6 +1212,17 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt02f996290756b219/695ff47156949d237bc880f7/Evil_AI_GrandeDuc_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
+      "id": "5df375678abeb4f1395a878323930a465d7cee22",
+      "title": "UK border tech budget swells by \u00a3100M as Home Office targets small boat crossings",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/01/24/home_office_small_boats/",
+      "published": "2026-01-24T09:29:14+00:00",
+      "summary": "<h4>Drone, satellite, and other data combined to monitor unwanted vessels</h4> <p>The UK Home Office is spending up to \u00a3100 million on intelligence tech in part to tackle the so-called \"small boats\" issue of refugees and irregular immigrants coming across the English Channel.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "36e65506f1e3014c6814d0cef3f3fa3e5342a7b4",
       "title": "CISA won't attend infosec industry's biggest conference this year",
       "url": "https://go.theregister.com/feed/www.theregister.com/2026/01/24/cisa_skipping_rsa_exclusive/",
@@ -1751,17 +1762,6 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "3a37cc3e15a85c2ce515c1760e5f189e9f4e17d1",
-      "title": "US regulator tells GM to hit the brakes on customer tracking",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/01/15/ftc_gm_tracking_ban/",
-      "published": "2026-01-15T13:30:48+00:00",
-      "summary": "<h4>Smart Driver pitched as safety app, but feds claim it's a data-harvesting scheme that jacked up premiums</h4> <p>The Federal Trade Commission has banned General Motors and subsidiary OnStar from sharing drivers' precise location and behavior data with consumer reporting agencies for five years under a 20-year consent order finalized January 14.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
       "id": "ec7d99efc813af9d4d1a7474be57cd27df398db4",
       "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
       "url": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
@@ -1812,6 +1812,17 @@
       "published": "2025-12-29T20:23:26+00:00",
       "summary": "KrebsOnSecurity.com celebrates its 16th anniversary today! A huge \"thank you\" to all of our readers -- newcomers, long-timers and drive-by critics alike. Your engagement this past year here has been tremendous and truly a salve on a handful of dark days. Happily, comeuppance was a strong theme running through our coverage in 2025, with a primary focus on entities that enabled complex and globally-dispersed cybercrime services.",
       "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "7adcb463080ce90a8854d3277bbe444e957957f3",
+      "title": "Nike Probing Potential Security Incident as Hackers Threaten to Leak Data",
+      "url": "https://www.securityweek.com/nike-probing-potential-security-incident-as-hackers-threaten-to-leak-data/",
+      "published": "2026-01-24T08:45:43+00:00",
+      "summary": "<p>The WorldLeaks cybercrime group claims to have stolen information from the footwear and apparel giant\u2019s systems.</p>\n<p>The post <a href=\"https://www.securityweek.com/nike-probing-potential-security-incident-as-hackers-threaten-to-leak-data/\">Nike Probing Potential Security Incident as Hackers Threaten to Leak Data</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
@@ -1910,17 +1921,6 @@
       "url": "https://www.securityweek.com/2-venezuelans-convicted-in-us-for-using-malware-to-hack-atms/",
       "published": "2026-01-23T09:05:58+00:00",
       "summary": "<p>Dozens of Venezuelan nationals have been charged by the US for their role in ATM jackpotting attacks.\u00a0</p>\n<p>The post <a href=\"https://www.securityweek.com/2-venezuelans-convicted-in-us-for-using-malware-to-hack-atms/\">2 Venezuelans Convicted in US for Using Malware to Hack ATMs</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "032990d53100d5ae42a36696e69230ba6aa9524b",
-      "title": "The Upside Down is Real: What Stranger Things Teaches Us About Modern Cybersecurity",
-      "url": "https://www.securityweek.com/the-upside-down-is-real-what-stranger-things-teaches-us-about-modern-cybersecurity/",
-      "published": "2026-01-22T16:30:00+00:00",
-      "summary": "<p>To all those who are fighting the good fight in the world of cyber, keep collaborating to ensure our world never succumbs to the chaos of the Upside Down.</p>\n<p>The post <a href=\"https://www.securityweek.com/the-upside-down-is-real-what-stranger-things-teaches-us-about-modern-cybersecurity/\">The Upside Down is Real: What Stranger Things Teaches Us About Modern Cybersecurity</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
