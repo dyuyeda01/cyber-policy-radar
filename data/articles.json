@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-25T12:17:55.359616+00:00",
+  "generated_at": "2026-01-26T00:53:24.250473+00:00",
   "items": [
     {
       "id": "cbbe8c7573afa896861cd89a2ae4719bcc420976",
@@ -1212,6 +1212,17 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7ea610a15c2e225b/6706fbc3dd85ad377e33a095/identity-ArtemisDiana-alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
+      "id": "66dd85b7b78829f721b3c293f398e4acd6425f69",
+      "title": "Pwn2Own Automotive 2026 uncovers 76 zero-days, pays out more than $1M",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/01/25/pwn2own_automotive_2026_identifies_76_0days/",
+      "published": "2026-01-25T23:40:09+00:00",
+      "summary": "<h4>Also, cybercriminals get breached, Gemini spills the calendar beans, and more</h4> <p><strong>infosec in brief</strong>\u00a0 T'was a dark few days for automotive software systems last week, as the third annual Pwn2Own Automotive competition uncovered 76 unique zero-day vulnerabilities in targets ranging from Tesla infotainment to EV chargers.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "5df375678abeb4f1395a878323930a465d7cee22",
       "title": "UK border tech budget swells by \u00a3100M as Home Office targets small boat crossings",
       "url": "https://go.theregister.com/feed/www.theregister.com/2026/01/24/home_office_small_boats/",
@@ -1745,17 +1756,6 @@
       "url": "https://go.theregister.com/feed/www.theregister.com/2026/01/15/anthropics_claude_bug_cowork/",
       "published": "2026-01-15T19:15:27+00:00",
       "summary": "<h4>Office workers without AI experience warned to watch for prompt injection attacks - good luck with that</h4> <p>Anthropic's tendency to wave off prompt-injection risks is rearing its head in the company's new Cowork productivity AI, which suffers from a Files API exfiltration attack chain first disclosed last October and acknowledged but not fixed by Anthropic.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "8354096f433fdbe55938f41e7c27c70b00edcf31",
-      "title": "A simple CodeBuild flaw put every AWS environment at risk \u2013 and pwned 'the central nervous system of the cloud'",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/01/15/codebuild_flaw_aws/",
-      "published": "2026-01-15T15:00:08+00:00",
-      "summary": "<h4>And it's 'not unique to AWS,' researcher tells <i>The Reg</i></h4> <p>A critical misconfiguration in AWS's CodeBuild service allowed complete takeover of the cloud provider's own GitHub repositories and put every AWS environment in the world at risk, according to Wiz security researchers.\u2026</p>",
       "source": "The Register \u2013 Security",
       "region": "Europe",
       "country": "UK",
