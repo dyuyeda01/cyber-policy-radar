@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-27T00:51:30.173967+00:00",
+  "generated_at": "2026-01-27T12:20:52.970933+00:00",
   "items": [
     {
       "id": "a8b036b05b151f44bfdfdc72dc5d636d5454ec4a",
@@ -110,6 +110,39 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "cb5b430070061348e039d064e57bb086c25772eb",
+      "title": "Microsoft Office Zero-Day (CVE-2026-21509) - Emergency Patch Issued for Active Exploitation",
+      "url": "https://thehackernews.com/2026/01/microsoft-issues-emergency-patch-for.html",
+      "published": "2026-01-27T10:37:00+00:00",
+      "summary": "Microsoft on Monday issued out-of-band security patches for a high-severity Microsoft Office zero-day vulnerability exploited in attacks.\nThe vulnerability, tracked as CVE-2026-21509, carries a CVSS score of 7.8 out of 10.0. It has been described as a security feature bypass in Microsoft Office.\n\"Reliance on untrusted inputs in a security decision in Microsoft Office allows an unauthorized",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVXdXkw2KW16Axf6p0n3iVGhXFH-cAv1j6egQSfKBoQ5IqWBuv3hFohISz_2vPIzQ9O4pxN6KpALsOXhkxBo5mGAtLabL5RsJpTvgCaWiZAsYo6SWB27isS1kvxmXQD2aUjU0-3AKk3FbKFTrzy79Urt7G3KhvYthGAujQodNbksuNmxMti97Os0ZcM9iJ/s1600/OFFICE.jpg"
+    },
+    {
+      "id": "b0b8941aeca825019abcdd0484a967b41cdf64c9",
+      "title": "Critical Grist-Core Vulnerability Allows RCE Attacks via Spreadsheet Formulas",
+      "url": "https://thehackernews.com/2026/01/critical-grist-core-vulnerability.html",
+      "published": "2026-01-27T10:36:00+00:00",
+      "summary": "A critical security flaw has been disclosed in Grist\u2011Core, an open-source, self-hosted version of the Grist relational spreadsheet-database, that could result in remote code execution.\nThe vulnerability, tracked as CVE-2026-24002 (CVSS score: 9.1), has been codenamed Cellbreak by Cyera Research Labs.\n\"One malicious formula can turn a spreadsheet into a Remote Code Execution (RCE) beachhead,\"",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvRey8657FAMdnIBTkgIYsOw5_q9LqFajseJ0AJPHyOUuNvZzxliNLuREO1z8j0AorIgW91Jqg6wLwb5QvqZvz2er7S-RL2zFXeBK2EpMm6pf_6JY8kcVmDAXjzwbbOtykq_j2It-oRb_Qkojl4Zh4WSVcwDNBsrU_N6pxycV0RYBT5ftvED7onxcA_qkL/s1600/grist-main.jpg"
+    },
+    {
+      "id": "9ef79f5c83d3f961093156d10b70cf1e11c01607",
+      "title": "China-Linked Hackers Have Used the PeckBirdy JavaScript C2 Framework Since 2023",
+      "url": "https://thehackernews.com/2026/01/china-linked-hackers-have-used.html",
+      "published": "2026-01-27T09:01:00+00:00",
+      "summary": "Cybersecurity researchers have discovered a JScript-based command-and-control (C2) framework called PeckBirdy that has been put to use by China-aligned APT actors since 2023 to target multiple environments.\nThe flexible framework has been put to use against Chinese gambling industries and malicious activities targeting Asian government entities and private organizations, according to Trend Micro",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgy5RzwPMRj7i78zsLQinlntZrTjk6KP4CdBUnLfoumPUoYEQV_9WrqrB-5EKXD_vxcZSEDlUqb2zaHZ0tf90W9QL8lWPLCWdjZ2jhYmzIlsNSI_1HEDKiFom8VdHK_jjRz7JZWebAXTXHkVgMFto-WkrlFuCgaoU6mo871w3hP5vG0Alg3A4VmVScWjCW-/s1600/chinese-hackers.jpg"
     },
     {
       "id": "b71c91a16f7d834d362d5b3e22b87f61e058175b",
@@ -627,39 +660,6 @@
       "region": "North America",
       "country": "US",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9KFkvTcZ_PkWZffX2HE8olvWbZAOrsco48R3JqZQsB4hUc2GGS7xh9a6suu7I_eIe4NU8M5sjecperqY7v7V4nSuAffVy024xnlN38Ig-LPae-RiwXXxMUnf8FvvNX9HVjsf1yHr4cZaDxww_pa53yqGlSNfQtnsA6NZGwELbUyE5pPKOp96QK-BQI3GB/s1600/code.jpg"
-    },
-    {
-      "id": "9c91911576c2bfdf06ffac28ce655b31247e56c2",
-      "title": "Five Malicious Chrome Extensions Impersonate Workday and NetSuite to Hijack Accounts",
-      "url": "https://thehackernews.com/2026/01/five-malicious-chrome-extensions.html",
-      "published": "2026-01-16T14:09:00+00:00",
-      "summary": "Cybersecurity researchers have discovered five new malicious Google Chrome web browser extensions that masquerade as human resources (HR) and enterprise resource planning (ERP) platforms like Workday, NetSuite, and SuccessFactors to take control of victim accounts.\n\"The extensions work in concert to steal authentication tokens, block incident response capabilities, and enable complete account",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7kvgFz8ELXceV5_LsBgcodkjSM6meRhVnuxiijpgc1_2XcMb9Gh660H5HEknLGskzkx9L81bbOM651BUVAzu2u6bf36gf5r2x3ndhltKVFZAforGzT-dQhny2-zEk3cih03DU1pfyRFiJLlNXuv_Ml-glQC1dGl95L1KpYHBXnMOfXZwfd4bWGaUH3uel/s1600/chrome.jpg"
-    },
-    {
-      "id": "cfd2737ef366a1151fe2771a23a44743e3fe64a6",
-      "title": "Your Digital Footprint Can Lead Right to Your Front Door",
-      "url": "https://thehackernews.com/2026/01/your-digital-footprint-can-lead-right.html",
-      "published": "2026-01-16T10:42:00+00:00",
-      "summary": "You lock your doors at night. You avoid sketchy phone calls. You\u2019re careful about what you post on social media.\nBut what about the information about you that\u2019s already out there\u2014without your permission?\nYour name. Home address. Phone number. Past jobs. Family members. Old usernames.\nIt\u2019s all still online, and it\u2019s a lot easier to find than you think.\nThe hidden safety threat lurking online\nMost",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_20kAAwaCZD2Lh6-cSZ4bMJ5QJq16p3GRg-tw994MYxsXjW6EikJ7cJbFhb-I6H3hZQRN0blLVlY_zd1993WBJixaFKtO0eXeskqu6HKzE25lZWtfHQckAbh-doxDoBQkcuEazU3GkBSXWP-uNKXvjXdK9NSAGo_BEOPYD7vntOgaSAjVuRI0_lOSwRU/s1600/Incogni.jpg"
-    },
-    {
-      "id": "1b425e2d3bc9b6ced1f115e8c3ceab143a31b8a6",
-      "title": "LOTUSLITE Backdoor Targets U.S. Policy Entities Using Venezuela-Themed Spear Phishing",
-      "url": "https://thehackernews.com/2026/01/lotuslite-backdoor-targets-us-policy.html",
-      "published": "2026-01-16T10:27:00+00:00",
-      "summary": "Security experts have disclosed details of a new campaign that has targeted U.S. government and policy entities using politically themed lures to deliver a backdoor known as LOTUSLITE.\nThe targeted malware campaign leverages decoys related to the recent geopolitical developments between the U.S. and Venezuela to distribute a ZIP archive (\"US now deciding what's next for Venezuela.zip\")",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVK3A2yZNeTmDZQnzYo5bTA8R87lnRUIqYSSxOoyKUkAqFH97mjhNJ2LiAT64bsC9ExwqhQnDHhAfs5RJUIUbPGPp5E7h-L3efaT-216BWjYgGsZfZbe46N3BaIR7pxOusAcaJV7a9HHm6RyV3ZAvuz9ECIJPnBnrCuXimEH___3cbJkTefgy8dtfPx9mE/s1600/policy-malware.jpg"
     },
     {
       "id": "534b63497b933782f730f5af50b2fbefc5087f35",
@@ -1212,6 +1212,28 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt56f8accac68a5f0e/696134b50805eda83c563980/russia-nkorea-iran-flags-Zbitnev-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
+      "id": "a2549006373f171d6224b6779ae5ab515a4ed410",
+      "title": "High Court to grill London cops over live facial recognition creep",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/01/27/high_court_lfr/",
+      "published": "2026-01-27T11:24:02+00:00",
+      "summary": "<h4>Victim and Big Brother Watch will argue the Met's policies are incompatible with human rights law</h4> <p>The High Court will hear from privacy campaigners this week who want to reshape the way the Metropolitan Police is allowed to use live facial recognition (LFR) tech.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "33f7994af495f5703f21ea4e1f2d951374fcfd51",
+      "title": "Office zero-day exploited in the wild forces Microsoft OOB patch",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/01/27/office_zeroday_exploited_in_the/",
+      "published": "2026-01-27T10:35:07+00:00",
+      "summary": "<h4>Another actively abused Office bug, another emergency patch \u2013 Office 2016 and 2019 users are left with registry tweaks instead of fixes.</h4> <p>Microsoft has issued an emergency Office patch after confirming a zero-day flaw is already being used in real world attacks.\u2026</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "2c9525b767b0cc0216ab5c9a000b40bf876584c3",
       "title": "Canva among ~100 targets of ShinyHunters Okta identity-theft campaign",
       "url": "https://go.theregister.com/feed/www.theregister.com/2026/01/26/shinyhunters_okta_sso_campaign/",
@@ -1740,28 +1762,6 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "f7c4fc4da2656ddafd721adfabcd7dc4c17f6bff",
-      "title": "German cops add Black Basta boss to EU most-wanted list",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/01/16/black_basta_boss_wanted/",
-      "published": "2026-01-16T15:19:15+00:00",
-      "summary": "<h4>Ransomware kingpin who escaped Armenian custody is believed to be lying low back home</h4> <p>German cops have added Russian national Oleg Evgenievich Nefekov to their list of most-wanted criminals for his services to ransomware.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "05c9804166c19169f6a138f8012f7cc8c069311d",
-      "title": "RondoDox botnet linked to large-scale exploit of critical HPE OneView bug",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/01/16/rondodox_botnet_hpe_oneview/",
-      "published": "2026-01-16T13:00:29+00:00",
-      "summary": "<h4>Check Point observes 40K+ attack attempts in 4 hours, with government organizations under fire</h4> <p>A critical HPE OneView flaw is now being exploited at scale, with Check Point tying mass, automated attacks to the RondoDox botnet.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
       "id": "ec7d99efc813af9d4d1a7474be57cd27df398db4",
       "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
       "url": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
@@ -1812,6 +1812,28 @@
       "published": "2025-12-29T20:23:26+00:00",
       "summary": "KrebsOnSecurity.com celebrates its 16th anniversary today! A huge \"thank you\" to all of our readers -- newcomers, long-timers and drive-by critics alike. Your engagement this past year here has been tremendous and truly a salve on a handful of dark days. Happily, comeuppance was a strong theme running through our coverage in 2025, with a primary focus on entities that enabled complex and globally-dispersed cybercrime services.",
       "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "774f760a10cb6c69003be5ef757dc3a807d36de9",
+      "title": "Organizations Warned of Exploited Linux Vulnerabilities",
+      "url": "https://www.securityweek.com/organizations-warned-of-exploited-linux-vulnerabilities/",
+      "published": "2026-01-27T10:37:02+00:00",
+      "summary": "<p>The flaws allow threat actors to obtain root privileges or bypass authentication via Telnet and gain shell access as root.</p>\n<p>The post <a href=\"https://www.securityweek.com/organizations-warned-of-exploited-linux-vulnerabilities/\">Organizations Warned of Exploited Linux Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "84d6e135d31eea8e5af73642717801665124718b",
+      "title": "Microsoft Patches Office Zero-Day Likely Exploited in Targeted Attacks",
+      "url": "https://www.securityweek.com/microsoft-patches-office-zero-day-likely-exploited-in-targeted-attacks/",
+      "published": "2026-01-27T08:41:04+00:00",
+      "summary": "<p>The vulnerability is tracked as CVE-2026-21509 and it can be exploited to bypass security features.\u00a0</p>\n<p>The post <a href=\"https://www.securityweek.com/microsoft-patches-office-zero-day-likely-exploited-in-targeted-attacks/\">Microsoft Patches Office Zero-Day Likely Exploited in Targeted Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
@@ -1899,28 +1921,6 @@
       "url": "https://www.securityweek.com/2024-vmware-flaw-now-in-attackers-crosshairs/",
       "published": "2026-01-26T05:28:19+00:00",
       "summary": "<p>The critical-severity vulnerability can be exploited via crafted network packets for remote code execution.</p>\n<p>The post <a href=\"https://www.securityweek.com/2024-vmware-flaw-now-in-attackers-crosshairs/\">2024 VMware Flaw Now in Attackers&#8217; Crosshairs</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "7adcb463080ce90a8854d3277bbe444e957957f3",
-      "title": "Nike Probing Potential Security Incident as Hackers Threaten to Leak Data",
-      "url": "https://www.securityweek.com/nike-probing-potential-security-incident-as-hackers-threaten-to-leak-data/",
-      "published": "2026-01-24T08:45:43+00:00",
-      "summary": "<p>The WorldLeaks cybercrime group claims to have stolen information from the footwear and apparel giant\u2019s systems.</p>\n<p>The post <a href=\"https://www.securityweek.com/nike-probing-potential-security-incident-as-hackers-threaten-to-leak-data/\">Nike Probing Potential Security Incident as Hackers Threaten to Leak Data</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "99ed53182d5959b32d4044ca427f4ca2c58f9049",
-      "title": "Fortinet Confirms FortiCloud SSO Exploitation Against Patched Devices",
-      "url": "https://www.securityweek.com/fortinet-confirms-forticloud-sso-exploitation-against-patched-devices/",
-      "published": "2026-01-23T14:00:07+00:00",
-      "summary": "<p>Similar to recent FortiCloud single sign-on (SSO) login vulnerabilities, the attacks bypass authentication.</p>\n<p>The post <a href=\"https://www.securityweek.com/fortinet-confirms-forticloud-sso-exploitation-against-patched-devices/\">Fortinet Confirms FortiCloud SSO Exploitation Against Patched Devices</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
