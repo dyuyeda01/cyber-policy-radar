@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-28T00:48:09.841600+00:00",
+  "generated_at": "2026-01-28T12:21:34.656095+00:00",
   "items": [
     {
       "id": "a8280e07ac48f82f7f40c23ba61afad5d1341c86",
@@ -110,6 +110,50 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "b6e880df6e65c5ad86b2a313fd225e62d4165e83",
+      "title": "Password Reuse in Disguise: An Often-Missed Risky Workaround",
+      "url": "https://thehackernews.com/2026/01/password-reuse-in-disguise-often-missed.html",
+      "published": "2026-01-28T10:30:00+00:00",
+      "summary": "When security teams discuss credential-related risk, the focus typically falls on threats such as phishing, malware, or ransomware. These attack methods continue to evolve and rightly command attention. However, one of the most persistent and underestimated risks to organizational security remains far more ordinary.\nNear-identical password reuse continues to slip past security controls, often",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYpmMp4cskBZ-rNTPTP2vOSKi-iVREeVHfeGAcK0DdP-QGwmWDF2R5IRqmNjQmYb7x9zjnle6EEoNOH_WTKG-YYuMQhoDJW0__i7rgSuLTKjLDlmHs4mC0-9PUNFtr451zaHU8uXd8H3QBvD0xyPrMaOsZbYZDKZTUvreAL3DX1iKMAQGHBkvk2gdFfU0/s1600/outpost24.jpg"
+    },
+    {
+      "id": "c707f844848bc5b1ab3eeb6d5854c73c3035c491",
+      "title": "Google Warns of Active Exploitation of WinRAR Vulnerability CVE-2025-8088",
+      "url": "https://thehackernews.com/2026/01/google-warns-of-active-exploitation-of.html",
+      "published": "2026-01-28T09:46:00+00:00",
+      "summary": "Google on Tuesday revealed that multiple threat actors, including nation-state adversaries and financially motivated groups, are exploiting a now-patched critical security flaw in RARLAB WinRAR to establish initial access and deploy a diverse array of payloads.\n\"Discovered and patched in July 2025, government-backed threat actors linked to Russia and China as well as financially motivated",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmyh6hD6dEZgQCDgGumKxGNc5W_9iRS9Or90FAqQShHB7mO7bls8iiTm3Zd85KEQdLvIZrp3r_mghXMX5r-sJLcdQ57OOYidhqKeSQJcxqCnjA8SFlYh3FGTj8g_ulShcpgUS_k41RmAJuIU77IXQFdcwhZR9hipopYp62cXESIq68MHugeFW5bYIQSCDm/s1600/winrar.jpg"
+    },
+    {
+      "id": "478ca009cdb3d515ca931dbc3937bb6eaa46789b",
+      "title": "Fake Python Spellchecker Packages on PyPI Delivered Hidden Remote Access Trojan",
+      "url": "https://thehackernews.com/2026/01/fake-python-spellchecker-packages-on.html",
+      "published": "2026-01-28T09:30:00+00:00",
+      "summary": "Cybersecurity researchers have discovered two malicious packages in the Python Package Index (PyPI) repository that masquerade as spellcheckers but contain functionality to deliver a remote access trojan (RAT).\nThe packages, named spellcheckerpy and spellcheckpy, are no longer available for download, but not before they were collectively downloaded a little over 1,000 times.\n\"Hidden inside the",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDmO6wqQYQf9Jzy85AeKQArxw_sFT_Qyd30NJ2Fxfs6FN6MgxQDuyTmUnlyThYj_4a4BN0bsejx2owRMl6_rLwiCpgh_WGWVH80OezW3ToFf2Aedn9a-023kI71i4NwG7HQ5tZ2So97M4N4jkTXKqRnlty7V10DsQeQ6UIPC7jIRrCNzSd6p1KfKKx_9m_/s1600/python.jpg"
+    },
+    {
+      "id": "4274ef0f92192964a091a4aca74472a0834342d7",
+      "title": "Fortinet Patches CVE-2026-24858 After Active FortiOS SSO Exploitation Detected",
+      "url": "https://thehackernews.com/2026/01/fortinet-patches-cve-2026-24858-after.html",
+      "published": "2026-01-28T04:49:00+00:00",
+      "summary": "Fortinet has begun releasing security updates to address a critical flaw impacting FortiOS that has come under active exploitation in the wild.\nThe vulnerability, assigned the CVE identifier CVE-2026-24858 (CVSS score: 9.4), has been described as an authentication bypass related to FortiOS single sign-on (SSO). The flaw also affects FortiManager and FortiAnalyzer. The company said it's",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJmyxNZ9ucHk0D1SWniVEbsc3BGO5xHxj-ZkFAuhPEz20iKmAoq5DXnvM38bp7RHdqrAGG9bYTc7QB_YajPP8GgRSzH9NGadnQ_vlm9W-GDuFJBG3WQI-2KTNyNIuaQZaTXxsisflH5Xmcsmq5jal0LVUZfRRvn8DW9ud-gMOHc2q6cyJWApCtUQ2Tpcly/s1600/fortinet.jpg"
     },
     {
       "id": "12c108c51c7e2cc522e54e574526f7859910b868",
@@ -616,50 +660,6 @@
       "region": "North America",
       "country": "US",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRoKH8kODtvGyUQmuWC8vWW2D9wJIlBhYnl2hlvLUojFSV7sVmZJ3nqnxDHHMhIqzIpXmcFy_x6GOxTYsrvTa9lJw4tE0vPvx8OPrRV7bmpBp_z7babFHy88b09t9fVw_Xw326BOFDFZ54PwPeihsITRugqHdOTqQjvTqvjmufoPqD5RmtLWy8WUNsHuOn/s1600/gem.jpg"
-    },
-    {
-      "id": "5bcb928d2f66108eb70fd0e8fb9651968a11a63a",
-      "title": "\u26a1 Weekly Recap: Fortinet Exploits, RedLine Clipjack, NTLM Crack, Copilot Attack & More",
-      "url": "https://thehackernews.com/2026/01/weekly-recap-fortinet-exploits-redline.html",
-      "published": "2026-01-19T13:17:00+00:00",
-      "summary": "In cybersecurity, the line between a normal update and a serious incident keeps getting thinner. Systems that once felt reliable are now under pressure from constant change. New AI tools, connected devices, and automated systems quietly create more ways in, often faster than security teams can react. This week\u2019s stories show how easily a small mistake or hidden service can turn into a real",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfn1SBAkKZzvUvFxUuVea_4KYXozKlXG-6dDyXBZDwvc_b3-rDxdmhyphenhyphen1BVrjoSsCReCbC28V3ta7Wo00qmg6zk3cuiezDIp3g8Noqbx4sEbmDlCN7aF6LCFZWLn5a0RS5iaKfd4pyU2M7MiIF63xpRv9XbPL1dP08O2L0UyGKCf22cFB6IsH39VQTIhQ7E/s1600/recap.jpg"
-    },
-    {
-      "id": "7c8eed1410d41ceca4fe2c84d27609c2b6a2a3ba",
-      "title": "DevOps & SaaS Downtime: The High (and Hidden) Costs for Cloud-First Businesses",
-      "url": "https://thehackernews.com/2026/01/high-costs-of-devops-saas-downtime.html",
-      "published": "2026-01-19T11:55:00+00:00",
-      "summary": "Just a few years ago, the cloud was touted as the \u201cmagic pill\u201d for any cyber threat or performance issue. Many were lured by the \u201calways-on\u201d dream, trading granular control for the convenience of managed services.\nIn recent years, many of us have learned (often the hard way) that public cloud service providers are not immune to attacks and SaaS downtime, hiding behind the Shared Responsibility",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-NFsj68xaf2p3zjA44oQOJv4NBoDt21KPCna8vnSvswE0hTcKyO7_ExzxpSX_PadfPFzlnA2bQ2gNpsMDNKqwIT_Rlj5GgtssnvnSfnbHCgJl4hH7u4XNRhfm7Yqd7wTnZ-8pU_THZ6wt7sFCQGxzXwFlczbU2DH5fQ7BakcnJ15uc7_lMefQlkrEpOw/s1600/devops.jpg"
-    },
-    {
-      "id": "56aec2cf0f79061a1544659968dd287ab6040d62",
-      "title": "New StackWarp Hardware Flaw Breaks AMD SEV-SNP Protections on Zen 1\u20135 CPUs",
-      "url": "https://thehackernews.com/2026/01/new-stackwarp-hardware-flaw-breaks-amd.html",
-      "published": "2026-01-19T11:31:00+00:00",
-      "summary": "A team of academics from the CISPA Helmholtz Center for Information Security in Germany has disclosed the details of a new hardware vulnerability affecting AMD processors.\nThe security flaw, codenamed StackWarp, can allow bad actors with privileged control over a host server to run malicious code within confidential virtual machines (CVMs), undermining the integrity guarantees provided by AMD",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjvBKIwExgNlDEHvCub_5W4y4uhPhsKYtGX8oPC_DrwzV5Wl5i_QPN2oEgBoSHBAAbsurdEryR3O56kclGi5uN38Y50ftQUAPzj1Y-r0bAS3rQ_lqRm88M4umTl1e4bAiCAGArNy2v70l31w5IArnzj8rUqxCAL2Xd3C8j2POKMP8tr6iAhsynSMNPAZH6/s1600/stack.jpg"
-    },
-    {
-      "id": "7192d15d433db7abaa0f6d841865b9c4926b635a",
-      "title": "CrashFix Chrome Extension Delivers ModeloRAT Using ClickFix-Style Browser Crash Lures",
-      "url": "https://thehackernews.com/2026/01/crashfix-chrome-extension-delivers.html",
-      "published": "2026-01-19T09:09:00+00:00",
-      "summary": "Cybersecurity researchers have disclosed details of an ongoing campaign dubbed KongTuke that used a malicious Google Chrome extension masquerading as an ad blocker to deliberately crash the web browser and trick victims into running arbitrary commands using ClickFix-like lures to deliver a previously undocumented remote access trojan (RAT) dubbed ModeloRAT.\nThis new escalation of ClickFix,",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHk6v6YRLFG3a9vVJQ5OLdPuN9cBdDklQzJHf91XqJUjDiKB8IT7VEmxB7VyKcSXbahTKXr-seTEvP3hdRWT2ws4xUteRY4tfouGxjDrH22aIxauonv9sb7Gw6TgCRh4GfoMCZLnp6gL79_feODNKp7LHF8nkte3e6mvt4d3UERPwMxUvHgnF1e6uB2BSf/s1600/edges.jpg"
     },
     {
       "id": "f27a7f500a442772053e2925c5aec54193eb8cba",
@@ -1282,7 +1282,7 @@
       "title": "Office zero-day exploited in the wild forces Microsoft OOB patch",
       "url": "https://go.theregister.com/feed/www.theregister.com/2026/01/27/office_zeroday_exploited_in_the/",
       "published": "2026-01-27T10:35:07+00:00",
-      "summary": "<h4>Another actively abused Office bug, another emergency patch \u2013 Office 2016 and 2019 users are left with registry tweaks instead of fixes.</h4> <p>Microsoft has issued an emergency Office patch after confirming a zero-day flaw is already being used in real world attacks.\u2026</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "summary": "<h4>Another actively abused Office bug, another emergency patch \u2013 Office 2016 and 2019 users are left with registry tweaks instead of fixes.</h4> <p><strong>Updated</strong>\u00a0 Microsoft has issued an emergency Office patch after confirming a zero-day flaw is already being used in real world attacks.\u2026</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
       "source": "The Register \u2013 Security",
       "region": "Europe",
       "country": "UK",
@@ -1762,6 +1762,17 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "0c3e212c98729d2b8bdc50649bc30fdcc0566978",
+      "title": "Who Operates the Badbox 2.0 Botnet?",
+      "url": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
+      "published": "2026-01-26T16:11:38+00:00",
+      "summary": "The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicating they'd compromised the control panel for Badbox 2.0, a vast China-based botnet powered by malicious software that comes pre-installed on many Android TV streaming boxes. Both the FBI and Google say they are hunting for the people behind Badbox 2.0, and thanks to bragging by the Kimwolf botmasters we may now have a much clearer idea about that.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "ec7d99efc813af9d4d1a7474be57cd27df398db4",
       "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
       "url": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
@@ -1817,6 +1828,72 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "3e69afbe0edc9234b90fbf9e1880175b10934347",
+      "title": "WhatsApp Boosts Account Security for At-Risk Individuals",
+      "url": "https://www.securityweek.com/whatsapp-boosts-account-security-for-at-risk-individuals/",
+      "published": "2026-01-28T10:08:21+00:00",
+      "summary": "<p>New Strict Account Settings allow users to block attachments and media and silence calls from unknown people.</p>\n<p>The post <a href=\"https://www.securityweek.com/whatsapp-boosts-account-security-for-at-risk-individuals/\">WhatsApp Boosts Account Security for At-Risk Individuals</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "771052c7ff9c616c6ea413a43f6620fd64141796",
+      "title": "US Charges 31 More Defendants in Massive ATM Hacking Probe",
+      "url": "https://www.securityweek.com/us-charges-31-more-defendants-in-massive-atm-hacking-probe/",
+      "published": "2026-01-28T09:27:41+00:00",
+      "summary": "<p>A total of 87 individuals, mostly Venezuelan nationals, have been charged for their role in the ATM jackpotting scheme.</p>\n<p>The post <a href=\"https://www.securityweek.com/us-charges-31-more-defendants-in-massive-atm-hacking-probe/\">US Charges 31 More Defendants in Massive ATM Hacking Probe</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "5a0f9e5aca60418688aeb4bacf6f42f9248efb6f",
+      "title": "APTs, Cybercriminals Widely Exploiting WinRAR Vulnerability",
+      "url": "https://www.securityweek.com/apts-cybercriminals-widely-exploiting-winrar-vulnerability/",
+      "published": "2026-01-28T09:17:54+00:00",
+      "summary": "<p>Russian and Chinese state-sponsored threat actors have been exploiting CVE-2025-8088 since July 2025.</p>\n<p>The post <a href=\"https://www.securityweek.com/apts-cybercriminals-widely-exploiting-winrar-vulnerability/\">APTs, Cybercriminals Widely Exploiting WinRAR Vulnerability</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "d4f59347ea733395fc8899ce560586f3769c2dbc",
+      "title": "Indurex Emerges From Stealth to Close Security Gap in Cyber-Physical Systems",
+      "url": "https://www.securityweek.com/indurex-emerges-from-stealth-to-close-security-gap-in-cyber-physical-systems/",
+      "published": "2026-01-28T08:23:13+00:00",
+      "summary": "<p>Indurex was founded by Jalal Bouhdada, who previously led industrial cybersecurity company Applied Risk.</p>\n<p>The post <a href=\"https://www.securityweek.com/indurex-emerges-from-stealth-to-close-security-gap-in-cyber-physical-systems/\">Indurex Emerges From Stealth to Close Security Gap in Cyber-Physical Systems</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "d577036b29c6d8b67cde7a4ec245c0271c35bae7",
+      "title": "Fortinet Patches Exploited FortiCloud SSO Authentication Bypass",
+      "url": "https://www.securityweek.com/fortinet-patches-exploited-forticloud-sso-authentication-bypass/",
+      "published": "2026-01-28T08:05:57+00:00",
+      "summary": "<p>Tracked as CVE-2026-24858, the bug allows attackers to log into devices registered to other FortiCloud accounts.</p>\n<p>The post <a href=\"https://www.securityweek.com/fortinet-patches-exploited-forticloud-sso-authentication-bypass/\">Fortinet Patches Exploited FortiCloud SSO Authentication Bypass</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "010d8ad27801e0fabf24a308f0250c0f128b186c",
+      "title": "High-Severity Remote Code Execution Vulnerability Patched in OpenSSL",
+      "url": "https://www.securityweek.com/high-severity-remote-code-execution-vulnerability-patched-in-openssl/",
+      "published": "2026-01-28T07:36:01+00:00",
+      "summary": "<p>A total of 12 vulnerabilities have been fixed in OpenSSL, all discovered by a single cybersecurity firm.</p>\n<p>The post <a href=\"https://www.securityweek.com/high-severity-remote-code-execution-vulnerability-patched-in-openssl/\">High-Severity Remote Code Execution Vulnerability Patched in OpenSSL</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "df878406eb15879464fd8e0824c68f5fb372ab2e",
       "title": "Memcyco Raises $37 Million for Anti-Impersonation Technology",
       "url": "https://www.securityweek.com/memcyco-raises-37-million-for-anti-impersonation-technology/",
@@ -1855,72 +1932,6 @@
       "url": "https://www.securityweek.com/cyber-insights-2026-quantum-computing-and-the-potential-synergy-with-advanced-ai/",
       "published": "2026-01-27T12:30:00+00:00",
       "summary": "<p>Quantum computers are coming, with a potential computing power almost beyond comprehension.</p>\n<p>The post <a href=\"https://www.securityweek.com/cyber-insights-2026-quantum-computing-and-the-potential-synergy-with-advanced-ai/\">Cyber Insights 2026: Quantum Computing and the Potential Synergy With Advanced AI</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "6681c588eddae27f60637e79ea733cc519426d9b",
-      "title": "Chrome, Edge Extensions Caught Stealing ChatGPT Sessions",
-      "url": "https://www.securityweek.com/chrome-edge-extensions-caught-stealing-chatgpt-sessions/",
-      "published": "2026-01-27T12:28:42+00:00",
-      "summary": "<p>Marketed as ChatGPT enhancement and productivity tools, the extensions allow the threat actor to access the victim's ChatGPT data.</p>\n<p>The post <a href=\"https://www.securityweek.com/chrome-edge-extensions-caught-stealing-chatgpt-sessions/\">Chrome, Edge Extensions Caught Stealing ChatGPT Sessions</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "774f760a10cb6c69003be5ef757dc3a807d36de9",
-      "title": "Organizations Warned of Exploited Linux Vulnerabilities",
-      "url": "https://www.securityweek.com/organizations-warned-of-exploited-linux-vulnerabilities/",
-      "published": "2026-01-27T10:37:02+00:00",
-      "summary": "<p>The flaws allow threat actors to obtain root privileges or bypass authentication via Telnet and gain shell access as root.</p>\n<p>The post <a href=\"https://www.securityweek.com/organizations-warned-of-exploited-linux-vulnerabilities/\">Organizations Warned of Exploited Linux Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "84d6e135d31eea8e5af73642717801665124718b",
-      "title": "Microsoft Patches Office Zero-Day Likely Exploited in Targeted Attacks",
-      "url": "https://www.securityweek.com/microsoft-patches-office-zero-day-likely-exploited-in-targeted-attacks/",
-      "published": "2026-01-27T08:41:04+00:00",
-      "summary": "<p>The vulnerability is tracked as CVE-2026-21509 and it can be exploited to bypass security features.\u00a0</p>\n<p>The post <a href=\"https://www.securityweek.com/microsoft-patches-office-zero-day-likely-exploited-in-targeted-attacks/\">Microsoft Patches Office Zero-Day Likely Exploited in Targeted Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "5d2091a5f322b6a48e37a5bfc7497c5cf9bbc78b",
-      "title": "Access System Flaws Enabled Hackers to Unlock Doors at Major European Firms",
-      "url": "https://www.securityweek.com/access-system-flaws-enabled-hackers-to-unlock-doors-at-major-european-firms/",
-      "published": "2026-01-26T16:11:08+00:00",
-      "summary": "<p>More than 20 vulnerabilities were found and patched in Dormakaba physical access control systems.</p>\n<p>The post <a href=\"https://www.securityweek.com/access-system-flaws-enabled-hackers-to-unlock-doors-at-major-european-firms/\">Access System Flaws Enabled Hackers to Unlock Doors at Major European Firms</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "a40ab7bffefbfa3c50ec21421c7ffcba32cd5f33",
-      "title": "Upwind Raises $250 Million at $1.5 Billion Valuation",
-      "url": "https://www.securityweek.com/upwind-raises-250-million-at-1-5-billion-valuation/",
-      "published": "2026-01-26T14:41:11+00:00",
-      "summary": "<p>The CNAPP company will use the fresh investment to scale its runtime-first cloud security offering across data, AI and code.</p>\n<p>The post <a href=\"https://www.securityweek.com/upwind-raises-250-million-at-1-5-billion-valuation/\">Upwind Raises $250 Million at $1.5 Billion Valuation</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "9829b26bf385813f9c3ba9ccd7622d655be64db7",
-      "title": "Crunchbase Confirms Data Breach After Hacking Claims",
-      "url": "https://www.securityweek.com/crunchbase-confirms-data-breach-after-hacking-claims/",
-      "published": "2026-01-26T12:22:02+00:00",
-      "summary": "<p>Crunchbase was targeted alongside SoundCloud and Betterment in a ShinyHunters campaign.</p>\n<p>The post <a href=\"https://www.securityweek.com/crunchbase-confirms-data-breach-after-hacking-claims/\">Crunchbase Confirms Data Breach After Hacking Claims</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
