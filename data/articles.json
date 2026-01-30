@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-30T00:56:14.496441+00:00",
+  "generated_at": "2026-01-30T12:26:05.193387+00:00",
   "items": [
     {
       "id": "945265d465619d285358f85e3b3b9097b96e0a52",
@@ -110,6 +110,50 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "e3ccd7b3f69b5fe842c05170c58352f530424860",
+      "title": "Badges, Bytes and Blackmail",
+      "url": "https://thehackernews.com/2026/01/badges-bytes-and-blackmail.html",
+      "published": "2026-01-30T11:30:00+00:00",
+      "summary": "Behind the scenes of law enforcement in cyber: what do we know about caught cybercriminals? What brought them in, where do they come from and what was their function in the crimescape?\n\nIntroduction: One view on the scattered fight against cybercrime\nThe growing sophistication and diversification of cybercrime have compelled law enforcement agencies worldwide to respond through increasingly",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEulnS63dy7njgVFds_geMDCv0zmG26xS14G9C5NKNmD7sT42_P_f_GjJhkzZ59m-fobXQGPzP65ioXYtq0edn3Wje7rXn9is0fPlt-XMHhtAtE7cp5B4M_Mw3lwHJ4u-nHOJt4OoyJ1sRd6RXPRXY1dBkFAeOtzAaij6WlX0syPvBqSMV5G2Kt8ylkPU/s1600/orange.jpg"
+    },
+    {
+      "id": "405419783a4954e67bfce90f372de68968d707e6",
+      "title": "Ex-Google Engineer Convicted for Stealing 2,000 AI Trade Secrets for China Startup",
+      "url": "https://thehackernews.com/2026/01/ex-google-engineer-convicted-for.html",
+      "published": "2026-01-30T07:35:00+00:00",
+      "summary": "A former Google engineer accused of stealing thousands of the company's confidential documents to build a startup in China has been convicted in the U.S., the Department of Justice (DoJ) announced Thursday.\nLinwei Ding (aka Leon Ding), 38, was convicted by a federal jury on seven counts of economic espionage and seven counts of theft of trade secrets for taking over 2,000 documents containing",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuiLCvokVP8ei0IzeeCTdv8uXcyZ4052maeakPb57SypS2iVyNL4ctwUKjGUjrdVBYyS7eCP-5fydL1UJXLGmg4Ae5wY6J1Nhaph__CeBi2ht5W-XTJhBim8IbYf78EgXdZ7omg2O30DgJCZPTqN1CPQMZ5023ZGU0K5jTmxoX251whXEQ0CljA9BP9RWZ/s1600/ai-secrets.jpg"
+    },
+    {
+      "id": "416eddc900c5da296e97bc81ed6cd4a70ba0580d",
+      "title": "SmarterMail Fixes Critical Unauthenticated RCE Flaw with CVSS 9.3 Score",
+      "url": "https://thehackernews.com/2026/01/smartermail-fixes-critical.html",
+      "published": "2026-01-30T07:09:00+00:00",
+      "summary": "SmarterTools has addressed two more security flaws in SmarterMail email software, including one critical security flaw that could result in arbitrary code execution.\nThe vulnerability, tracked as CVE-2026-24423, carries a CVSS score of 9.3 out of 10.0.\n\"SmarterTools SmarterMail versions prior to build 9511 contain an unauthenticated remote code execution vulnerability in the ConnectToHub API",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg68yf4tK-m7j1I6zRCo-SBeQ4cCXmLiwvPRMoEXS_I8m7V53UUmULEbWr2vVAEJd34U0hknt8J5wnzcNv1kGayBLApw6mu0UmRZRyCstoXJAteTDrnRZBnoh5n3ROzBarjsRgPXeV_1WDsxQmg5ysAETrtYI3L9oNWnX246xTksVuWWqi34CzJCJnFc0uv/s1600/smartertools.jpg"
+    },
+    {
+      "id": "9a7b52821ab93569cebadfb296568a3ead46db99",
+      "title": "Two Ivanti EPMM Zero-Day RCE Flaws Actively Exploited, Security Updates Released",
+      "url": "https://thehackernews.com/2026/01/two-ivanti-epmm-zero-day-rce-flaws.html",
+      "published": "2026-01-30T04:43:00+00:00",
+      "summary": "Ivanti has rolled out security updates to address two security flaws impacting Ivanti Endpoint Manager Mobile (EPMM) that have been exploited in zero-day attacks, one of which has been added by the U.S. Cybersecurity and Infrastructure Security Agency (CISA) to its Known Exploited Vulnerabilities (KEV) catalog.\nThe critical-severity vulnerabilities are listed below -\n\nCVE-2026-1281 (CVSS score:",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4Rs7Y_u40V21-Pl0vLEibJfbiR_LUST7UWdsOc9zTPLJpEhBLV93qKih14JGk5_eSXBGn52Y4r6kHmGbwMzHcNlHhG7Am4AmcvHu_o6ym059uR8ffyWrCPg88xxTCqjW8-IobxZ4nkQ76bBc6gf05D7M6M49KofRepS8DcmkcoDAcZy7X6g-K7geZPTBw/s1600/ivanti-zero-day.jpg"
     },
     {
       "id": "d1f2d1beb7d326be6f4cabcf03f2e71faba8cc58",
@@ -618,48 +662,15 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrrIdMGRCKi6umFOuh-RXZ-VygDIwLtr18W0bnicPF1AYj5jLZVM3x76V96YjaTJm_FlzW1RftmJvZoWxBBcGkcN4DzIfSCw7XQO5Omyf8st-ezm8mYdzyG4vx9VhQOTjZcTT4K6JnU11fQkq201EwBq9Lj6OHxIIGRu52eBIHFCacZuaei3DnnphunRg5/s1600/hackers.jpg"
     },
     {
-      "id": "07806ecab39c613d35d27b788fb4096fb5dcea56",
-      "title": "Zoom and GitLab Release Security Updates Fixing RCE, DoS, and 2FA Bypass Flaws",
-      "url": "https://thehackernews.com/2026/01/zoom-and-gitlab-release-security.html",
-      "published": "2026-01-21T15:42:00+00:00",
-      "summary": "Zoom and GitLab have released security updates to resolve a number of security vulnerabilities that could result in denial-of-service (DoS) and remote code execution.\nThe most severe of the lot is a critical security flaw impacting Zoom Node Multimedia Routers (MMRs) that could permit a meeting participant to conduct remote code execution attacks. The vulnerability, tracked as CVE-2026-22844",
-      "source": "The Hacker News",
+      "id": "381196479c889c0c945e88c84d288d07a2613deb",
+      "title": "Chinese APTs Hacking Asian Orgs With High-End Malware",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/chinese-apts-asian-orgs-high-end-malware",
+      "published": "2026-01-30T02:00:00+00:00",
+      "summary": "Advanced persistent threat (APT) groups have deployed new cyber weapons against a variety of targets, highlighting the increasing threats to the region.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwPQt59QKpm9rpNLriqoUsKPzbWcBj9P-u1ZdIn5xhxR6hgRztxdSAXN5bgEnDvd4uEEBgW4Imr_g-__YN0NY3-vLa_vEuYIwRzlrnRF3s0Vz8wDb937XfoxDbpPFapWvz0wH5TO2rK-32zQ2WLv8_loqE9rZIn_x5RzgtTyxrOQcUN-POOgDziDZNngjf/s1600/zoom-gitlab.jpg"
-    },
-    {
-      "id": "2acd48d58bb96236852f457e1c91bdefe0ab486c",
-      "title": "Webinar: How Smart MSSPs Using AI to Boost Margins with Half the Staff",
-      "url": "https://thehackernews.com/2026/01/webinar-how-smart-mssps-using-ai-to.html",
-      "published": "2026-01-21T11:58:00+00:00",
-      "summary": "Every managed security provider is chasing the same problem in 2026 \u2014 too many alerts, too few analysts, and clients demanding \u201cCISO-level protection\u201d at SMB budgets.\nThe truth? Most MSSPs are running harder, not smarter. And it\u2019s breaking their margins. That\u2019s where the quiet revolution is happening: AI isn\u2019t just writing reports or surfacing risks \u2014 it\u2019s rebuilding how security services are",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnAjw_7hs2TWB60U9A3rLWVRbNehP6fCA9boU8Wc9AX_z4CTre8ODPME4NHIdHpY5_1JNAgaLwLKPHPfVOwsx8ap_TUzjdBFpyzM2x-BM3skhfwqDdz7AtEWGHrs9jfmU8hQ_zkM66xXfF3A3J0hs-lLUrBDoC7ycnfFEV-_2JzDg93uAO4ASrJq_eJ3-i/s1600/mssp.jpg"
-    },
-    {
-      "id": "a31c95a48082b0d6ed3cc4ab92243d363c30144c",
-      "title": "Exposure Assessment Platforms Signal a Shift in Focus",
-      "url": "https://thehackernews.com/2026/01/exposure-assessment-platforms-signal.html",
-      "published": "2026-01-21T10:30:00+00:00",
-      "summary": "Gartner\u00ae doesn\u2019t create new categories lightly. Generally speaking, a new acronym only emerges when the industry's collective \"to-do list\" has become mathematically impossible to complete. And so it seems that the introduction of the Exposure Assessment Platforms (EAP) category is a formal admission that traditional Vulnerability Management (VM) is no longer a viable way to secure a modern",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQmSU5s0ahHNb_O6TnXm0i8cw93oK40sAl5By7cIbChjHl5xUqt4_24bcXtVXugQG4zcGbsmtbZz-QTvhOyWRhyxuYPB6nmaY65vANZFcuBHeqSuELPN7JbGTfHaAn5JlSFt_C00S_RMkS9I2UyDUQaCWr2lj6qDKe8ys1D2ZA3myEEZDEEcej12BJWvM/s1600/xmcyber.jpg"
-    },
-    {
-      "id": "9726a92c5a2ac8f009bc130e5953d45ad1de9bac",
-      "title": "Chainlit AI Framework Flaws Enable Data Theft via File Read and SSRF Bugs",
-      "url": "https://thehackernews.com/2026/01/chainlit-ai-framework-flaws-enable-data.html",
-      "published": "2026-01-21T09:10:00+00:00",
-      "summary": "Security vulnerabilities were uncovered in the popular open-source artificial intelligence (AI) framework Chainlit that could allow attackers to steal sensitive data, which may allow for lateral movement within a susceptible organization.\nZafran Security said the high-severity flaws, collectively dubbed ChainLeak, could be abused to leak cloud environment API keys and steal sensitive files, or",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOQfYQeWdwmviN0kYk0o1lwduXDGiv53wwizZeyajke-6SGNlGc1wdSk5yUWZ_Bt4-yQrihJrMohBqDcsqStLjmdJ_YfRZ2vM27oKy4LVviBgbJHP71E2MWRRf_d39VMy7BQ2WzIxl-s0ufscfKHo8AL9Dj0W77aRmVM_lNvGAeOwN1Xxf7IGoG7DwTbus/s1600/exploit.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta35e927d03abf966/697bc88ec469bc6d5a03a84f/chinaapts_DragosCondrea_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "id": "9f84fd39ec744e7bc89dc24a83d85c0a70ffcb57",
@@ -1199,17 +1210,6 @@
       "region": "North America",
       "country": "US",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8181392fb86595df/6967fde2c0d7175dbe65a3b6/PLC-genkur-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
-      "id": "e85b34d939235f941b8e5711996c4f01bc191fc4",
-      "title": "Retail, Services Industries Under Fire in Oceania",
-      "url": "https://www.darkreading.com/cybersecurity-analytics/retail-services-industries-oceania",
-      "published": "2026-01-14T21:19:44+00:00",
-      "summary": "Last year in Australia, New Zealand, and the South Pacific, Main Street businesses like retail and construction suffered more cyberattacks than their critical sector counterparts.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt018b331cae1a6dc9/6967ed1d8658fdf65007a729/Australia_New_Zealand-Tsado-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "id": "99e270b384179abcd3cbe543d86cf9df313aafc5",
@@ -1762,17 +1762,6 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "0c3e212c98729d2b8bdc50649bc30fdcc0566978",
-      "title": "Who Operates the Badbox 2.0 Botnet?",
-      "url": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
-      "published": "2026-01-26T16:11:38+00:00",
-      "summary": "The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicating they'd compromised the control panel for Badbox 2.0, a vast China-based botnet powered by malicious software that comes pre-installed on many Android TV streaming boxes. Both the FBI and Google say they are hunting for the people behind Badbox 2.0, and thanks to bragging by the Kimwolf botmasters we may now have a much clearer idea about that.",
-      "source": "Krebs on Security",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
       "id": "ec7d99efc813af9d4d1a7474be57cd27df398db4",
       "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
       "url": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
@@ -1812,6 +1801,39 @@
       "published": "2026-01-02T14:20:10+00:00",
       "summary": "The story you are reading is a series of scoops nestled inside a far more urgent Internet-wide security advisory. The vulnerability at issue has been exploited for months already, and it's time for a broader awareness of the threat. The short version is that everything you thought you knew about the security of the internal network behind your Internet router probably is now dangerously out of date.",
       "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "13c33a895c194724d5f6ed4efddfd97ebe1507c2",
+      "title": "Hugging Face Abused to Deploy Android RAT",
+      "url": "https://www.securityweek.com/hugging-face-abused-to-deploy-android-rat/",
+      "published": "2026-01-30T10:56:57+00:00",
+      "summary": "<p>Android users were lured to applications that served a malicious payload hosted in a Hugging Face repository.</p>\n<p>The post <a href=\"https://www.securityweek.com/hugging-face-abused-to-deploy-android-rat/\">Hugging Face Abused to Deploy Android RAT</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "b4c47b50b8a1b14aebc563679471136502c7abe5",
+      "title": "ICS Devices Bricked Following Russia-Linked Intrusion Into Polish Power Grid",
+      "url": "https://www.securityweek.com/ics-devices-bricked-in-russia-linked-strike-on-polish-power-grid/",
+      "published": "2026-01-30T09:35:06+00:00",
+      "summary": "<p>Sandworm/Electrum hackers targeted communication and control systems at 30 sites.</p>\n<p>The post <a href=\"https://www.securityweek.com/ics-devices-bricked-in-russia-linked-strike-on-polish-power-grid/\">ICS Devices Bricked Following Russia-Linked Intrusion Into Polish Power Grid</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "98b7873387cffc1454bac7dc50b603839174b747",
+      "title": "Ivanti Patches Exploited EPMM Zero-Days",
+      "url": "https://www.securityweek.com/ivanti-patches-exploited-epmm-zero-days/",
+      "published": "2026-01-30T08:32:35+00:00",
+      "summary": "<p>The critical-severity vulnerabilities could allow unauthenticated attackers to execute arbitrary code remotely.</p>\n<p>The post <a href=\"https://www.securityweek.com/ivanti-patches-exploited-epmm-zero-days/\">Ivanti Patches Exploited EPMM Zero-Days</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
@@ -1888,39 +1910,6 @@
       "url": "https://www.securityweek.com/cyber-insights-2026-offensive-security-where-it-is-and-where-its-going/",
       "published": "2026-01-28T14:30:00+00:00",
       "summary": "<p>Malicious attacks are increasing in frequency, sophistication and damage. Defenders need to find and harden system weaknesses before attackers can attack them.</p>\n<p>The post <a href=\"https://www.securityweek.com/cyber-insights-2026-offensive-security-where-it-is-and-where-its-going/\">Cyber Insights 2026: Offensive Security; Where It Is and Where It&#8217;s Going</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "1c3b1f6e1894c335476a480bd90985e0ee8e56cb",
-      "title": "Mesh Security Raises $12 Million for CSMA Platform",
-      "url": "https://www.securityweek.com/mesh-security-raises-12-million-for-csma-platform/",
-      "published": "2026-01-28T14:26:00+00:00",
-      "summary": "<p>The investment will allow Mesh to advance its autonomous, agentic capabilities, and scale sales and customer support efforts.</p>\n<p>The post <a href=\"https://www.securityweek.com/mesh-security-raises-12-million-for-csma-platform/\">Mesh Security Raises $12 Million for CSMA Platform</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "ac24886a436b544a16b90a4088b47e55babceeda",
-      "title": "Why We Can\u2019t Let AI Take the Wheel of Cyber Defense",
-      "url": "https://www.securityweek.com/why-we-cant-let-ai-take-the-wheel-of-cyber-defense/",
-      "published": "2026-01-28T14:00:00+00:00",
-      "summary": "<p>The fastest way to squander the promise of AI is to mistake automation for assurance, and novelty for resilience.</p>\n<p>The post <a href=\"https://www.securityweek.com/why-we-cant-let-ai-take-the-wheel-of-cyber-defense/\">Why We Can&#8217;t Let AI Take the Wheel of Cyber Defense</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "6b003e6c5d2952c6bde104e2bb76d8c493d626c1",
-      "title": "Rein Security Emerges From Stealth With $8M, Bringing Inside-Out AppSec Approach",
-      "url": "https://www.securityweek.com/rein-security-emerges-from-stealth-with-8m-bringing-inside-out-protection-to-appsec/",
-      "published": "2026-01-28T13:00:00+00:00",
-      "summary": "<p>Rein aims to close the production visibility gap by stopping attacks inside the application runtime.</p>\n<p>The post <a href=\"https://www.securityweek.com/rein-security-emerges-from-stealth-with-8m-bringing-inside-out-protection-to-appsec/\">Rein Security Emerges From Stealth With $8M, Bringing Inside-Out AppSec Approach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
