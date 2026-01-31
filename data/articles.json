@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-31T00:53:41.918977+00:00",
+  "generated_at": "2026-01-31T12:19:13.588737+00:00",
   "items": [
     {
       "id": "c215192ebe3a5bf5614439f9b7d9aa71316221f9",
@@ -112,6 +112,28 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "267823f7c76d8ca1a3d17cfc2e903e5bb881593d",
+      "title": "Mandiant Finds ShinyHunters-Style Vishing Attacks Stealing MFA to Breach SaaS Platforms",
+      "url": "https://thehackernews.com/2026/01/mandiant-finds-shinyhunters-using.html",
+      "published": "2026-01-31T07:58:00+00:00",
+      "summary": "Google-owned Mandiant on Friday said it identified an \"expansion in threat activity\" that uses tradecraft consistent with extortion-themed attacks orchestrated by a financially motivated hacking group known as ShinyHunters.\nThe attacks leverage advanced voice phishing (aka vishing) and bogus credential harvesting sites mimicking targeted companies to gain unauthorized access to victim",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2lnJbnFaov0GE_74eq7mb52_5L4JzxpsP2dS-QqlaAJ8aSuWL-QRFQhkHSS_oso_YVwAUrLjhG_V2oVRGfxZuZjrf4dfYkkGI-e-OXJUq3exOdhCJC8I00T3cmSuQGdK52eeajtBJryw95T-fl27BXaYYewKTAhgZPKj_ZWcaQDJhbSkj59dV4l0SZe8G/s1600/vishing.jpg"
+    },
+    {
+      "id": "80b116b8e8a0e32c174a6b63755eb09ad5c88240",
+      "title": "CERT Polska Details Coordinated Cyber Attacks on 30+ Wind and Solar Farms",
+      "url": "https://thehackernews.com/2026/01/poland-attributes-december-cyber.html",
+      "published": "2026-01-31T07:05:00+00:00",
+      "summary": "CERT Polska, the Polish computer emergency response team, revealed that coordinated cyber attacks targeted more than 30 wind and photovoltaic farms, a private company from the manufacturing sector, and a large combined heat and power plant (CHP) supplying heat to almost half a million customers in the country.\nThe incident took place on December 29, 2025. The agency has attributed the attacks to",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5cwnqWO_vrn1IMT0UVtME4aucCsS_J5p48slMlc8jBUgNPFLBUdakBPEj38y6dnkUlrnRMdSA3IB7Jc5hVxU227Jl7T6641Py08_lld2UzvG8YoKmJYr07piXYUzyMFW4HwBDuxUgzu2R-j3pcGZ_2yJIZOKlQPvoMIKXtaj2HXUuJJXsUaf8lqvoD5qm/s1600/energy.jpg"
+    },
+    {
       "id": "938654f797a73133c40a93000114e3ede4c51a4e",
       "title": "Researchers Uncover Chrome Extensions Abusing Affiliate Links and Stealing ChatGPT Access",
       "url": "https://thehackernews.com/2026/01/researchers-uncover-chrome-extensions.html",
@@ -146,7 +168,7 @@
     },
     {
       "id": "405419783a4954e67bfce90f372de68968d707e6",
-      "title": "Ex-Google Engineer Convicted for Stealing 2,000 AI Trade Secrets for China Startup",
+      "title": "Ex-Google Engineer Convicted for Stealing AI Secrets for China Startup",
       "url": "https://thehackernews.com/2026/01/ex-google-engineer-convicted-for.html",
       "published": "2026-01-30T07:35:00+00:00",
       "summary": "A former Google engineer accused of stealing thousands of the company's confidential documents to build a startup in China has been convicted in the U.S., the Department of Justice (DoJ) announced Thursday.\nLinwei Ding (aka Leon Ding), 38, was convicted by a federal jury on seven counts of economic espionage and seven counts of theft of trade secrets for taking over 2,000 documents containing",
@@ -256,7 +278,7 @@
     },
     {
       "id": "5276164309ac0c329e6475530f1e7b39d042c970",
-      "title": "Russian ELECTRUM Tied to December 2025 Cyber Attack on Polish Power Grid",
+      "title": "Russia-Aligned ELECTRUM Tied to December 2025 Cyber Attack on Polish Power Grid",
       "url": "https://thehackernews.com/2026/01/russian-electrum-tied-to-december-2025.html",
       "published": "2026-01-28T16:06:00+00:00",
       "summary": "The \"coordinated\" cyber attack targeting multiple sites across the Polish power grid has been attributed with medium confidence to a Russian state-sponsored hacking crew known as ELECTRUM.\nOperational technology (OT) cybersecurity company Dragos, in a new intelligence brief published Tuesday, described the late December 2025 activity as the first major cyber attack targeting distributed energy",
@@ -638,28 +660,6 @@
       "region": "North America",
       "country": "US",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWCefYaSp9ssGTQkdK58gL2QbQurY3rXLBGBTEC2hXq1qGh88LxThrqrtejW9sVCnoXsrwoAZQwlbdrwOl-O0fEz509vXrbK235fZ0tl9iPWgiKBJt49PqTRB6uu_ZDyeaMl6F6zqfVmJFw8PU4e8-0MgYh-qxJpn1xRcLN9NfnQQ_X47nJxdz3N47s3z8/s1600/pypi-cryptocurrency-malware.jpg"
-    },
-    {
-      "id": "931c09319334dc8aebf313a0669792eb291f9bd4",
-      "title": "SmarterMail Auth Bypass Exploited in the Wild Two Days After Patch Release",
-      "url": "https://thehackernews.com/2026/01/smartermail-auth-bypass-exploited-in.html",
-      "published": "2026-01-22T09:46:00+00:00",
-      "summary": "A new security flaw in SmarterTools SmarterMail email software has come under active exploitation in the wild, two days after the release of a patch.\nThe vulnerability, which currently does not have a CVE identifier, is tracked by watchTowr Labs as WT-2026-0001. It was patched by SmarterTools on January 15, 2026, with Build 9511, following responsible disclosure by the exposure management",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfzCM1c0lJOZ7pXEcdXTXGEeNzq845Kr3uoQe6p2pY1l062KKPqAvTiQmrHDY-3IVIsFlQHtm1YYOWCAEPeuDJeY2N7qYX3C02Qh4dfd56mUj20ChkMEAGb_nl9vymqoCGmUriGCMHCZAT4fO0MzL4mi0vKxc9rSz4ythSpJOJlEBEXXNU35Ziz-M-Oa0k/s1600/SmarterTools-exploit.jpg"
-    },
-    {
-      "id": "2b709fb78cc3091aeca7f538b48b656fe4fc3be2",
-      "title": "Automated FortiGate Attacks Exploit FortiCloud SSO to Alter Firewall Configurations",
-      "url": "https://thehackernews.com/2026/01/automated-fortigate-attacks-exploit.html",
-      "published": "2026-01-22T05:55:00+00:00",
-      "summary": "Cybersecurity company Arctic Wolf has warned of a \"new cluster of automated malicious activity\" that involves unauthorized firewall configuration changes on Fortinet FortiGate devices.\nThe activity, it said, commenced on January 15, 2026, adding it shares similarities with a December 2025 campaign in which malicious SSO logins on FortiGate appliances were recorded against the admin account from",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6O_1FUjFHFlfeetaainBwBLAivJlaoFZZYZ-M9gJCGGmmNW1QE_mHtFOlYhtYbuM5fXV8-ySVyNrPVocMA2GBV_1TQdqLS3yZkU5ThvGuQ6AfuN20gtMsBa-7C3_A8oOjPPyP2SP_W8bX6zCcGgPpu9MQuX490PT2d2OMZYgL1Ra30gHM8ZmfAdM9MfTf/s1600/fortinet.jpg"
     },
     {
       "id": "d2bfe83e34bef84e9ae9d278822cc45317ac2d85",
@@ -1759,6 +1759,17 @@
       "source": "The Register \u2013 Security",
       "region": "Europe",
       "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "0c3e212c98729d2b8bdc50649bc30fdcc0566978",
+      "title": "Who Operates the Badbox 2.0 Botnet?",
+      "url": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
+      "published": "2026-01-26T16:11:38+00:00",
+      "summary": "The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicating they'd compromised the control panel for Badbox 2.0, a vast China-based botnet powered by malicious software that comes pre-installed on many Android TV streaming boxes. Both the FBI and Google say they are hunting for the people behind Badbox 2.0, and thanks to bragging by the Kimwolf botmasters we may now have a much clearer idea about that.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
