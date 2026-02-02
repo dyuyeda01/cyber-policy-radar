@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-02-02T00:59:28.066118+00:00",
+  "generated_at": "2026-02-02T12:28:40.733928+00:00",
   "items": [
+    {
+      "id": "152d51b064f19312f91dbfb11f352d044fe9e9fe",
+      "title": "Voice channels are the next major attack vector that security teams can\u2019t monitor",
+      "url": "https://www.cybersecuritydive.com/spons/voice-channels-are-the-next-major-attack-vector-that-security-teams-cant-m/810567/",
+      "published": "2026-02-02T10:00:00+00:00",
+      "summary": "<p>Deepfake voices, live fraud, zero visibility: why voice channels are the next security blind spot.</p>",
+      "source": "Cybersecurity Dive",
+      "region": "North America",
+      "country": "US",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
     {
       "id": "c215192ebe3a5bf5614439f9b7d9aa71316221f9",
       "title": "Cybersecurity 2026: AI, CISA, manufacturing sector all in the hot seat",
@@ -101,15 +112,37 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "a8b036b05b151f44bfdfdc72dc5d636d5454ec4a",
-      "title": "Cybercrime group claims credit for voice phishing attacks",
-      "url": "https://www.cybersecuritydive.com/news/cybercrime-group-voice-phishing-attacks-Okta/810493/",
-      "published": "2026-01-26T16:24:58+00:00",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/ohJtMBfSGKPS9l_wb8SifrZkqFDT-35YyKPswWzuI3A/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy04MDgxNTc4MzIuanBn.webp\" /></div></figure><p>Security researchers at Okta previously disclosed a social engineering campaign involving custom phishing kits.</p>",
-      "source": "Cybersecurity Dive",
+      "id": "1c02afaad6fdfdd220590f19be037c3b019335c4",
+      "title": "Notepad++ Official Update Mechanism Hijacked to Deliver Malware to Select Users",
+      "url": "https://thehackernews.com/2026/02/notepad-official-update-mechanism.html",
+      "published": "2026-02-02T08:55:00+00:00",
+      "summary": "The maintainer of Notepad++ has revealed that state-sponsored attackers hijacked the utility's update mechanism to redirect update traffic to malicious servers instead.\n\"The attack involved [an] infrastructure-level compromise that allowed malicious actors to intercept and redirect update traffic destined for notepad-plus-plus.org,\" developer Don Ho said. \"The compromise occurred at the hosting",
+      "source": "The Hacker News",
       "region": "North America",
       "country": "US",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieIJHd4OQK00g8yDOJc5wJZ0EWtYGWBzwoLlIxw_YWELb5JYsmrE_jz2VDjexbfuzmGjZcvQ4iX6rAorcNC-7YgwG577NGRfGFuCzfGK9ZkMc7jiDLl9RCtRM45pUSLAOO-S-z1MDKEJjvXzxSZ90RQ4OmCPuYCHDEfBzgCADf21_XLxxBq9C7puPcFlL_/s1600/notepad-hacked.jpg"
+    },
+    {
+      "id": "f828ada5b056ab6532a5ff84ed8849ccc8ef81d7",
+      "title": "eScan Antivirus Update Servers Compromised to Deliver Multi-Stage Malware",
+      "url": "https://thehackernews.com/2026/02/escan-antivirus-update-servers.html",
+      "published": "2026-02-02T05:47:00+00:00",
+      "summary": "The update infrastructure for eScan antivirus, a security solution developed by Indian cybersecurity company MicroWorld Technologies, has been compromised by unknown attackers to deliver a persistent downloader to enterprise and consumer systems.\n\"Malicious updates were distributed through eScan's legitimate update infrastructure, resulting in the deployment of multi-stage malware to enterprise",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2_pLOtIyNONJPvqUhPq0AJ_UsM-8YXPWRQCdP_QmlX6I4vGJrWcWgmpAa3lBiFaBOt6rEKgFt6q4yWhb-Nuu2sUVhvgyx2RZsAmyjXZXTvhaFr21qbyAFqobpiqlceg-jN0-tjwDMS62yu4byJBydGXo_qpw6yHtczD_cBEdJjvesHfZocuJSvTS9w2lR/s1600/escan.jpg"
+    },
+    {
+      "id": "7b98d71d8c17c3a09f33f416aca1fe9faedb9799",
+      "title": "Open VSX Supply Chain Attack Used Compromised Dev Account to Spread GlassWorm",
+      "url": "https://thehackernews.com/2026/02/open-vsx-supply-chain-attack-used.html",
+      "published": "2026-02-02T05:04:00+00:00",
+      "summary": "Cybersecurity researchers have disclosed details of a supply chain attack targeting the Open VSX Registry in which unidentified threat actors compromised a legitimate developer's resources to push malicious updates to downstream users.\n\"On January 30, 2026, four established Open VSX extensions published by the oorzc author had malicious versions published to Open VSX that embed the GlassWorm",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPOwjTAXR_bWT_xYvDJKDsLnYrGiJXhQxeF4lVk_19Ovkom1S6fZsO3tDeSdpK2EZ8Q8ZJeDpWLtRhNHRisN-pwNwio6DDz24wH3nMyfzsT_ZpD2Mq08hKMJXWt_p8RxIK4DVpk70Ssm114e1BzrMJDDij0pYO1ZEOixGZtD0pB61mQWATJkAJP6gl_9BK/s1600/open.jpg"
     },
     {
       "id": "39df3c8059f48405316273560481a8d85c7c997f",
@@ -627,39 +660,6 @@
       "region": "North America",
       "country": "US",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYzbCMSUAN1p1M0CnYPBeFVA3mYmKz-XYLo2R-0OUmaSxvarUieSUkbxkOexloc74_koPBcfuIcHXj2taolqWDe8nhE4Uo8maY_rioqDFiWgi9OWuQseJ5VLk4nf74YzkJ1nPf2sQlFyNBbHMktJ7Fe7XbJbJJa-Viv28SJ28jmrceB3dSGpVNIQbS8UYZ/s1600/ransomware.jpg"
-    },
-    {
-      "id": "506db78ab2205b3d4749821aa07ce13282e3105b",
-      "title": "Critical GNU InetUtils telnetd Flaw Lets Attackers Bypass Login and Gain Root Access",
-      "url": "https://thehackernews.com/2026/01/critical-gnu-inetutils-telnetd-flaw.html",
-      "published": "2026-01-22T16:30:00+00:00",
-      "summary": "A critical security flaw has been disclosed in the GNU InetUtils telnet daemon (telnetd) that went unnoticed for nearly 11 years.\nThe vulnerability, tracked as CVE-2026-24061, is rated 9.8 out of 10.0 on the CVSS scoring system. It affects all versions of GNU InetUtils from version 1.9.3 up to and including version 2.7.\n\"Telnetd in GNU Inetutils through 2.7 allows remote authentication bypass",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgswkkor42PbpMA2JvEug_zR_BOp1L3DrLlZ8GqcxlJchqNGqZZT7ndgNE51CVPI5YEhi1js3MsyDOYVmA19EKWA330OszynMa9IJpHJzDXtZ3iET5VPrCkCZHOZ2jhnV114UijsA4b2tgGiT8XBD7eRpZ9Su9UAYy-ay9qsmrysuw-v3KOIJkkhCXjStP7/s1600/linux-unix.jpg"
-    },
-    {
-      "id": "c4e18e75a1a5495898e46d687758d082214ad008",
-      "title": "ThreatsDay Bulletin: Pixel Zero-Click, Redis RCE, China C2s, RAT Ads, Crypto Scams & 15+ Stories",
-      "url": "https://thehackernews.com/2026/01/threatsday-bulletin-pixel-zero-click.html",
-      "published": "2026-01-22T14:23:00+00:00",
-      "summary": "Most of this week\u2019s threats didn\u2019t rely on new tricks. They relied on familiar systems behaving exactly as designed, just in the wrong hands. Ordinary files, routine services, and trusted workflows were enough to open doors without forcing them.\nWhat stands out is how little friction attackers now need. Some activity focused on quiet reach and coverage, others on timing and reuse. The emphasis",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxksXhijxqjYwcb5PYwnxnKJNyjVua9KXaVRMA_0sM5ZHkPM3mJ7S8PrniWhDhPQxjS1IL-okMbEHzBHFXApE0fGUY_dOSBYGbXoD6mDeg2YLOyjqZthPP_wYdmLOfIEsMSOAoMyJiBoAcyAPxXHUGgBl6epepPYmX40YCIW42pue9MuAQi3C_yrv5S_c4/s1600/threatsday.jpg"
-    },
-    {
-      "id": "abf84fdc6b34349dbfb71b1fe0d8b683383471c8",
-      "title": "Filling the Most Common Gaps in Google Workspace Security",
-      "url": "https://thehackernews.com/2026/01/filling-most-common-gaps-in-google.html",
-      "published": "2026-01-22T11:30:00+00:00",
-      "summary": "Security teams at agile, fast-growing companies often have the same mandate: secure the business without slowing it down. Most teams inherit a tech stack optimized for breakneck growth, not resilience. In these environments, the security team is the helpdesk, the compliance expert, and the incident response team all rolled into one.\nSecuring the cloud office in this scenario is all about",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjppNAJYCOHh4mqdL3GuJ4elABk4wn-ciw9V6oYuZ8Sdb0LllyS_YRl6YXX-I_eaMDcVG8Zt9X42HbFVlmEb0umu4D4nelT-qOpG7ZtYSz0t-wbngKFalwdDHW4VHUlNXfMUswtSCx4WptHTAoKHJo94vWXVjSq4cGRP4FyN1P35n8dc8_dl-2yi3jFePU/s1600/main.png"
     },
     {
       "id": "84a37428980c2fb70763ea5e92b0ae25dea41775",
@@ -1212,6 +1212,28 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltfc6e4e62c7e4dffb/696a5a2234206b341965b0ac/2XD0MYD.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
+      "id": "5f41d974a9c68a050560f8b2c8bdcfbed00a8e43",
+      "title": "Infrastructure cyberattacks are suddenly in fashion. We can buck the trend",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/02/02/energy_infrastructure_cyberattacks/",
+      "published": "2026-02-02T10:15:14+00:00",
+      "summary": "<h4>Don't be scared of the digital dark \u2013 learn how to keep the lights on</h4> <p><strong>Opinion</strong>\u00a0 Barely a month into 2026, electrical power infrastructure on two continents has tested positive for cyberattacks. One fell flat as attempts to infiltrate and disrupt the Polish distribution grid were rebuffed and reported. The other, earlier attack was part of Operation Absolute Resolve, the US abduction of Venezuela's President Maduro from Caracas on January 3.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "9bc0b25c6e92d664a2125f13e7910604c66bc637",
+      "title": "Why native cloud security falls short",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/02/02/why-native-cloud-security-falls-short/",
+      "published": "2026-02-02T08:00:54+00:00",
+      "summary": "<h4>Your cloud security must stand alone</h4> <p><strong>Partner Content</strong>\u00a0 As cloud adoption accelerates, many organizations are increasingly relying on the native security features offered by cloud service providers (CSPs). The ability to manage web application firewalls (WAF), data encryption, and key management (KMS) within a single provider ecosystem appears efficient and convenient. However, when security and reliability are viewed through the lens of enterprise risk management, this convenience may come at a significant cost.\u2026</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "edf7200888c139daa7ef784271a18158e0a87483",
       "title": "Open-source AI is a global security nightmare waiting to happen, say researchers",
       "url": "https://go.theregister.com/feed/www.theregister.com/2026/02/01/opensource_ai_is_a_global/",
@@ -1740,28 +1762,6 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "8705b4ca1074520c9ff136904dee3fc917f9071f",
-      "title": "Everest ransomware gang said to be sitting on mountain of Under Armour data",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/01/21/under_armour_everest/",
-      "published": "2026-01-21T15:29:23+00:00",
-      "summary": "<h4>Have I Been Pwned reckons 72.7M customer accounts affected, sportswear firm remains silent</h4> <p>Have I Been Pwned (HIBP) says 72.7 million accounts registered with Under Armour were affected by an alleged ransomware attack in November.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "0f032a2cc322bb801d4d7d9a1cb0fdfbddde5a03",
-      "title": "EU considers whether there's Huawei of axing Chinese kit from networks within 3 years",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/01/21/eu_mulls_deadline_of_3_years/",
-      "published": "2026-01-21T13:42:21+00:00",
-      "summary": "<h4>Still dominant in Germany's networks, among others</h4> <p>The European Commission (EC) wants a revised Cybersecurity Act to address any threats posed by IT and telecoms kit from third-country sources, potentially forcing member states to confront the thorny issue of suppliers such Huawei in their national networks.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
       "id": "0c3e212c98729d2b8bdc50649bc30fdcc0566978",
       "title": "Who Operates the Badbox 2.0 Botnet?",
       "url": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
@@ -1801,6 +1801,61 @@
       "published": "2026-01-08T23:23:43+00:00",
       "summary": "Our first story of 2026 revealed how a destructive new botnet called Kimwolf rapidly grew to infect more than two million devices by mass-compromising a vast number of unofficial Android TV streaming boxes. Today, we'll dig through digital clues left behind by the hackers, network operators, and cybercrime services that appear to have benefitted from Kimwolf's spread.",
       "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "24dfb4ffc59fe8951b63457eb0d1c8c2f9f1a74d",
+      "title": "Cyber Insights 2026: Malware and Cyberattacks in the Age of AI",
+      "url": "https://www.securityweek.com/cyber-insights-2026-malware-and-cyberattacks-in-the-age-of-ai/",
+      "published": "2026-02-02T12:00:00+00:00",
+      "summary": "<p>Security leaders share how artificial intelligence is changing malware, ransomware, and identity-led intrusions, and how defenses must evolve.</p>\n<p>The post <a href=\"https://www.securityweek.com/cyber-insights-2026-malware-and-cyberattacks-in-the-age-of-ai/\">Cyber Insights 2026: Malware and Cyberattacks in the Age of AI</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "f11eb55b3091e1578d381c30e8e38359bc3140ee",
+      "title": "Over 1,400 MongoDB Databases Ransacked by Threat Actor",
+      "url": "https://www.securityweek.com/over-1400-mongodb-databases-ransacked-by-threat-actor/",
+      "published": "2026-02-02T11:45:56+00:00",
+      "summary": "<p>Of 3,100 unprotected MongoDB instances, half remain compromised, most of them by a single threat actor.</p>\n<p>The post <a href=\"https://www.securityweek.com/over-1400-mongodb-databases-ransacked-by-threat-actor/\">Over 1,400 MongoDB Databases Ransacked by Threat Actor</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "ce677457db627979bd5bd79fc00335b597ad242b",
+      "title": "Microsoft Moves Closer to Disabling NTLM",
+      "url": "https://www.securityweek.com/microsoft-moves-closer-to-disabling-ntlm/",
+      "published": "2026-02-02T11:31:40+00:00",
+      "summary": "<p>The next major Windows Server and Windows releases will have the deprecated authentication protocol disabled by default.</p>\n<p>The post <a href=\"https://www.securityweek.com/microsoft-moves-closer-to-disabling-ntlm/\">Microsoft Moves Closer to Disabling NTLM</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "bf3bdf0ca8d0c5ca4d35f5860c6c5cbad64e34ff",
+      "title": "Japan, Britain to Boost Cybersecurity and Critical Minerals Cooperation as China\u2019s Influence Grows",
+      "url": "https://www.securityweek.com/japan-britain-to-boost-cybersecurity-and-critical-minerals-cooperation-as-chinas-influence-grows/",
+      "published": "2026-02-02T10:35:00+00:00",
+      "summary": "<p>Japan and Britain agree to accelerate cooperation on cybersecurity and the supply of critical minerals, as China\u2019s influence grows in the region.</p>\n<p>The post <a href=\"https://www.securityweek.com/japan-britain-to-boost-cybersecurity-and-critical-minerals-cooperation-as-chinas-influence-grows/\">Japan, Britain to Boost Cybersecurity and Critical Minerals Cooperation as China&#8217;s Influence Grows</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "ad57be3dbd39c8e662ab9f6c496b71423ac8ccb5",
+      "title": "Notepad++ Supply Chain Hack Conducted by China via Hosting Provider",
+      "url": "https://www.securityweek.com/notepad-supply-chain-hack-conducted-by-china-via-hosting-provider/",
+      "published": "2026-02-02T09:18:18+00:00",
+      "summary": "<p>The likely state-sponsored threat actor had access to the hosting provider for months and targeted only certain Notepad++ customers.</p>\n<p>The post <a href=\"https://www.securityweek.com/notepad-supply-chain-hack-conducted-by-china-via-hosting-provider/\">Notepad++ Supply Chain Hack Conducted by China via Hosting Provider</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
@@ -1855,61 +1910,6 @@
       "url": "https://www.securityweek.com/white-house-scraps-burdensome-software-security-rules/",
       "published": "2026-01-30T12:31:25+00:00",
       "summary": "<p>Two Biden-era memorandums have been revoked, but some of the resources they provide can still be used by government organizations.\u00a0</p>\n<p>The post <a href=\"https://www.securityweek.com/white-house-scraps-burdensome-software-security-rules/\">White House Scraps &#8216;Burdensome&#8217; Software Security Rules\u00a0</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "13c33a895c194724d5f6ed4efddfd97ebe1507c2",
-      "title": "Hugging Face Abused to Deploy Android RAT",
-      "url": "https://www.securityweek.com/hugging-face-abused-to-deploy-android-rat/",
-      "published": "2026-01-30T10:56:57+00:00",
-      "summary": "<p>Android users were lured to applications that served a malicious payload hosted in a Hugging Face repository.</p>\n<p>The post <a href=\"https://www.securityweek.com/hugging-face-abused-to-deploy-android-rat/\">Hugging Face Abused to Deploy Android RAT</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "b4c47b50b8a1b14aebc563679471136502c7abe5",
-      "title": "ICS Devices Bricked Following Russia-Linked Intrusion Into Polish Power Grid",
-      "url": "https://www.securityweek.com/ics-devices-bricked-in-russia-linked-strike-on-polish-power-grid/",
-      "published": "2026-01-30T09:35:06+00:00",
-      "summary": "<p>Sandworm/Electrum hackers targeted communication and control systems at 30 sites.</p>\n<p>The post <a href=\"https://www.securityweek.com/ics-devices-bricked-in-russia-linked-strike-on-polish-power-grid/\">ICS Devices Bricked Following Russia-Linked Intrusion Into Polish Power Grid</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "98b7873387cffc1454bac7dc50b603839174b747",
-      "title": "Ivanti Patches Exploited EPMM Zero-Days",
-      "url": "https://www.securityweek.com/ivanti-patches-exploited-epmm-zero-days/",
-      "published": "2026-01-30T08:32:35+00:00",
-      "summary": "<p>The critical-severity vulnerabilities could allow unauthenticated attackers to execute arbitrary code remotely.</p>\n<p>The post <a href=\"https://www.securityweek.com/ivanti-patches-exploited-epmm-zero-days/\">Ivanti Patches Exploited EPMM Zero-Days</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "3176b7ae61059a6aafb3ac3a94afc12aa1ee8ec9",
-      "title": "LLMs Hijacked, Monetized in \u2018Operation Bizarre Bazaar\u2019",
-      "url": "https://www.securityweek.com/llms-hijacked-monetized-in-operation-bizarre-bazaar/",
-      "published": "2026-01-29T15:01:24+00:00",
-      "summary": "<p>An LLMjacking operation has been targeting exposed LLMs and MCPs at scale, for commercial monetization.</p>\n<p>The post <a href=\"https://www.securityweek.com/llms-hijacked-monetized-in-operation-bizarre-bazaar/\">LLMs Hijacked, Monetized in &#8216;Operation Bizarre Bazaar&#8217;</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "0723d1ef89f34e42abbb8c3a7d884923f8a06cc0",
-      "title": "N8n Vulnerabilities Could Lead to Remote Code Execution",
-      "url": "https://www.securityweek.com/n8n-vulnerabilities-could-lead-to-remote-code-execution/",
-      "published": "2026-01-29T14:51:17+00:00",
-      "summary": "<p>The two bugs impacted n8n\u2019s sandbox mechanism and could be exploited via weaknesses in the AST sanitization logic.</p>\n<p>The post <a href=\"https://www.securityweek.com/n8n-vulnerabilities-could-lead-to-remote-code-execution/\">N8n Vulnerabilities Could Lead to Remote Code Execution</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
