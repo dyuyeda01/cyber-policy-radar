@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-05T00:58:33.524893+00:00",
+  "generated_at": "2026-02-05T12:30:15.548380+00:00",
   "items": [
     {
       "id": "52456cf01ac47eb516d17babe4e3955b72cd4759",
@@ -112,6 +112,50 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "37e2a1f7530ac59000ea0186d5eceb43095b4f0e",
+      "title": "The Buyer\u2019s Guide to AI Usage Control",
+      "url": "https://thehackernews.com/2026/02/the-buyers-guide-to-ai-usage-control.html",
+      "published": "2026-02-05T11:30:00+00:00",
+      "summary": "Today\u2019s \u201cAI everywhere\u201d reality is woven into everyday workflows across the enterprise, embedded in SaaS platforms, browsers, copilots, extensions, and a rapidly expanding universe of shadow tools that appear faster than security teams can track. Yet most organizations still rely on legacy controls that operate far away from where AI interactions actually occur. The result is a widening",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlpSoX57ALenPL8np8ytWrS5oa8e4k8YIalPfIMcz22AlZ0d6ty1EO1myE6RDnMzhJvexH4pdak5SFgADFsYSqv7yb788Y6wm1aAVuxBQfOzENiAydw6vUhEVpBdI27mA0GVGnCwICW5okRNTyXHthGXdMoOVnrnC-gTqISgISWgRqPmwbgQAFZXpBveo/s1600/main.jpg"
+    },
+    {
+      "id": "bbff2babe31a0ee6b990eabfbdd22335dcd5f35b",
+      "title": "Infy Hackers Resume Operations with New C2 Servers After Iran Internet Blackout Ends",
+      "url": "https://thehackernews.com/2026/02/infy-hackers-resume-operations-with-new.html",
+      "published": "2026-02-05T10:25:00+00:00",
+      "summary": "The elusive Iranian threat group known as Infy (aka Prince of Persia) has evolved its tactics as part of efforts to hide its tracks, even as it readied new command-and-control (C2) infrastructure coinciding with the end of the widespread internet blackout the regime imposed at the start of the month.\n\"The threat actor stopped maintaining its C2 servers on January 8 for the first time since we",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8ERbt8WNDNB0dUBHa1RW4Js_8AhSmorSisyOplVJjamDe87uMfCCGeqM_VrKwRGteNlpjh3NfFHjriXs81bWsrgjtX75RGERc1AFNBWFKLTtm-geYPNn4aVPeDVNzcoqmDrMImn7YPl1sqja6zKy7aAFO5baubav3qk8AMIFj5MAh2GpkSoI1YL4PSKMk/s1600/iranian-hackers.jpg"
+    },
+    {
+      "id": "0f1fcfb159129fc22a8b91a850d4d5cfdf0bda2a",
+      "title": "Critical n8n Flaw CVE-2026-25049 Enables System Command Execution via Malicious Workflows",
+      "url": "https://thehackernews.com/2026/02/critical-n8n-flaw-cve-2026-25049.html",
+      "published": "2026-02-05T06:16:00+00:00",
+      "summary": "A new, critical security vulnerability has been disclosed in the n8n workflow automation platform that, if successfully exploited, could result in the execution of arbitrary system commands.\nThe flaw, tracked as CVE-2026-25049 (CVSS score: 9.4), is the result of inadequate sanitization that bypasses safeguards put in place to address CVE-2025-68613 (CVSS score: 9.9), another critical defect that",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijeDfUJ3dcvTHnszlPkp_8RQkKpjpHIbWHPCfPjGf16CK3oGHnoDK4gkT5aAlsOX8xzlqoXjO607ZI5hGGrfcEcx7sVF4GPhGRAM_CzLIpjeo8x2bnmulJeGj1EcCvfXciADxkSoVB3E2EDxAfIv6SLjeWoNl073KrVdkVeSVt-VTwMoLGgApT46oEYK9-/s1600/n8n-hacking.jpg"
+    },
+    {
+      "id": "3ae27f8acabaf229b36dd166acfb5ddad857da80",
+      "title": "Malicious NGINX Configurations Enable Large-Scale Web Traffic Hijacking Campaign",
+      "url": "https://thehackernews.com/2026/02/hackers-exploit-react2shell-to-hijack.html",
+      "published": "2026-02-05T04:56:00+00:00",
+      "summary": "Cybersecurity researchers have disclosed details of an active web traffic hijacking campaign that has targeted NGINX installations and management panels like Baota (BT) in an attempt to route it through the attacker's infrastructure.\nDatadog Security Labs said it observed threat actors associated with the recent React2Shell (CVE-2025-55182, CVSS score: 10.0) exploitation using malicious NGINX",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1rduNeKuuHUpRierQx1jig2SMH0dhcoENNLniZavZ25JgD68fkxRwp3s4H42sJrL7OXa4r0QublDt9VQ2mjh1uIBuQsvPi4iHtrY2JHw4res_AZQc3pf-AQ610FvG6o_TcXxDliH5JlNJbaVN0AXj3De60H669V9fTQIyqNRNHHMgSfwbjZe8xt3cPhIy/s1600/nginx-hacked.jpg"
+    },
+    {
       "id": "8cdfe7fbf9d22474b2820ee364ec6e8073a441f7",
       "title": "Microsoft Develops Scanner to Detect Backdoors in Open-Weight Large Language Models",
       "url": "https://thehackernews.com/2026/02/microsoft-develops-scanner-to-detect.html",
@@ -219,7 +263,7 @@
       "source": "The Hacker News",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwD8GAdNdNuHeeaGY_XNzQ5R2ImwMvVU46K5gM8t9-q0vuQ4enqi1W5Ljd4D6RktNyAY75SA0gLSrf6oqykbq3lQn5jhZglmqyGYGf3pm6mdHbTSjZoRxPFxG3ruwjYGu6vl9UtgAaORZTIkEliQl1bzeWXt554RsrCKzJlAhyADYV2X_n42rmfAg_Iiig/s1600/soc.jpg"
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj94yPJzbFbdUMoIM3dTA8goVdCA24p4PPkHSWX3VTTV5kl4XNJD_hz4_NrZb0XjG_tHMdyLMSWJIawj8PTJcqal7TpfSJ0_3jeGzZFn7dTa0_ecTHkRtPzSKBP1VlUaeuv_ErmIMZF08OiQxQPZ73I-A5AmbcUyLGtt2dsYI7RWEBUMie7rqn_EjnC_5aQ/s1600/soc-webinar.jpg"
     },
     {
       "id": "0e08fc7810c9e8a64e1615f53b6bbeb37d38913c",
@@ -618,48 +662,15 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmyh6hD6dEZgQCDgGumKxGNc5W_9iRS9Or90FAqQShHB7mO7bls8iiTm3Zd85KEQdLvIZrp3r_mghXMX5r-sJLcdQ57OOYidhqKeSQJcxqCnjA8SFlYh3FGTj8g_ulShcpgUS_k41RmAJuIU77IXQFdcwhZR9hipopYp62cXESIq68MHugeFW5bYIQSCDm/s1600/winrar.jpg"
     },
     {
-      "id": "478ca009cdb3d515ca931dbc3937bb6eaa46789b",
-      "title": "Fake Python Spellchecker Packages on PyPI Delivered Hidden Remote Access Trojan",
-      "url": "https://thehackernews.com/2026/01/fake-python-spellchecker-packages-on.html",
-      "published": "2026-01-28T09:30:00+00:00",
-      "summary": "Cybersecurity researchers have discovered two malicious packages in the Python Package Index (PyPI) repository that masquerade as spellcheckers but contain functionality to deliver a remote access trojan (RAT).\nThe packages, named spellcheckerpy and spellcheckpy, are no longer available on PyPI, but not before they were collectively downloaded a little over 1,000 times.\n\"Hidden inside the Basque",
-      "source": "The Hacker News",
+      "id": "7b9aab6f7226bcc58c5d108d530576f0af1aa4eb",
+      "title": "Protests Don't Impede Iranian Spying on Expats, Syrians, Israelis",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/iran-spies-expats-syrians-israelis",
+      "published": "2026-02-05T07:00:00+00:00",
+      "summary": "Iranian threat actors have been stealing credentials from people of interest across the Middle East, using spear-phishing and social engineering.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDmO6wqQYQf9Jzy85AeKQArxw_sFT_Qyd30NJ2Fxfs6FN6MgxQDuyTmUnlyThYj_4a4BN0bsejx2owRMl6_rLwiCpgh_WGWVH80OezW3ToFf2Aedn9a-023kI71i4NwG7HQ5tZ2So97M4N4jkTXKqRnlty7V10DsQeQ6UIPC7jIRrCNzSd6p1KfKKx_9m_/s1600/python.jpg"
-    },
-    {
-      "id": "4274ef0f92192964a091a4aca74472a0834342d7",
-      "title": "Fortinet Patches CVE-2026-24858 After Active FortiOS SSO Exploitation Detected",
-      "url": "https://thehackernews.com/2026/01/fortinet-patches-cve-2026-24858-after.html",
-      "published": "2026-01-28T04:49:00+00:00",
-      "summary": "Fortinet has begun releasing security updates to address a critical flaw impacting FortiOS that has come under active exploitation in the wild.\nThe vulnerability, assigned the CVE identifier CVE-2026-24858 (CVSS score: 9.4), has been described as an authentication bypass related to FortiOS single sign-on (SSO). The flaw also affects FortiManager and FortiAnalyzer. The company said it's",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJmyxNZ9ucHk0D1SWniVEbsc3BGO5xHxj-ZkFAuhPEz20iKmAoq5DXnvM38bp7RHdqrAGG9bYTc7QB_YajPP8GgRSzH9NGadnQ_vlm9W-GDuFJBG3WQI-2KTNyNIuaQZaTXxsisflH5Xmcsmq5jal0LVUZfRRvn8DW9ud-gMOHc2q6cyJWApCtUQ2Tpcly/s1600/fortinet.jpg"
-    },
-    {
-      "id": "12c108c51c7e2cc522e54e574526f7859910b868",
-      "title": "WhatsApp Rolls Out Lockdown-Style Security Mode to Protect Targeted Users From Spyware",
-      "url": "https://thehackernews.com/2026/01/whatsapp-rolls-out-lockdown-style.html",
-      "published": "2026-01-27T16:54:00+00:00",
-      "summary": "Meta on Tuesday announced it's adding Strict Account Settings on WhatsApp to secure certain users against advanced cyber attacks because of who they are and what they do.\nThe feature, similar to Lockdown Mode in Apple iOS and Advanced Protection in Android, aims to protect individuals, such as journalists or public-facing figures, from sophisticated spyware by trading some functionality for",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSEqf3d7_s2ZXF98sYMqm8yXX33VRczEODYgiLAdEnxGSi6nvJPMS5KE69oow3jm3mJqW5Z4BE5SQ3oR8APXfdPFofQZvOBZDOntO8wFcQwOhjfjZ7-JI_xgiHK5hbs90kco4FKNXaxDw0qwMb_c2sSUi4Ne3-i_ZYUve2rT8-x0Ysv-HSP1Bxb8maU9EI/s1600/whatsapp-security.jpg"
-    },
-    {
-      "id": "19bf10bb1e4bd55c3bb620dd04435ecae7d135e9",
-      "title": "Experts Detect Pakistan-Linked Cyber Campaigns Aimed at Indian Government Entities",
-      "url": "https://thehackernews.com/2026/01/experts-detect-pakistan-linked-cyber.html",
-      "published": "2026-01-27T16:45:00+00:00",
-      "summary": "Indian government entities have been targeted in two campaigns undertaken by a threat actor that operates in Pakistan using previously undocumented tradecraft.\nThe campaigns have been codenamed Gopher Strike and Sheet Attack by Zscaler ThreatLabz, which identified them in September 2025.\n\"While these campaigns share some similarities with the Pakistan-linked Advanced Persistent Threat (APT)",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiG612WfAM4qjKPdbLvz7i_kK0qgRz5Abg8pRz9uGc86pEQvuO-_83uNd8xC8e1y86mWhlTRL_PeWtgp2bfizGf8y78pp1xGYqoXJ9Q7ilpXG4lAS4MvNiiAMGf74PzFod56EJW9qq6P3afCB9IgTFGrbgu1EqnXVsly_I8clrUqdGReHfmEJtKUL09wV5m/s1600/attack.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta2424b0fd6048839/6983ac2c3bd30e51c6651003/Iran_keyboard-Per_Bengston-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "id": "1828523086e606fc77fb4b751a458e529f2092c2",
@@ -1201,22 +1212,66 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt29b82f05f8faa5ce/69728312a3f34533d10c708a/business_man_and_bullhorn_Gabriel_Blaj_Alamy_Stock_Photo.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "f172628e98bc9326f67c90f368924e02f2ee883b",
-      "title": "Latin American Orgs Lack Confidence in Cyber Defenses, Skills",
-      "url": "https://www.darkreading.com/cyber-risk/latin-american-confidence-cyber-defenses-skills",
-      "published": "2026-01-22T16:05:18+00:00",
-      "summary": "Cybersecurity professionals in Latin America are least likely to have faith in their countries' preparedness for cyberattacks on critical infrastructure, the World Economic Forum says.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt033f92837dcc1245/6972332ad31c5ff864e529c3/latin-america-digital-cyber-vectorfusionart-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "id": "ea0d17b8054cbb2c54c0af4f21e4cf4506d5056a",
+      "title": "Italy claims cyberattacks 'of Russian origin' are pelting Winter Olympics",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/02/05/winter_olympics_russian_attacks/",
+      "published": "2026-02-05T11:49:35+00:00",
+      "summary": "<h4>Right on cue, petulant hacktivists attempt to disrupt yet another global sporting event</h4> <p>Italy's foreign minister says the country has already started swatting away cyberattacks from Russia targeting the Milano Cortina Winter Olympics.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "3e129191b5d56742bb05a130b7f0a69787eb62e2",
+      "title": "n8n security woes roll on as new critical flaws bypass December fix",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/02/05/n8n_security_woes_roll_on/",
+      "published": "2026-02-05T11:38:13+00:00",
+      "summary": "<h4>Patch meant to close a severe expression bug fails to stop attackers with workflow access</h4> <p>Multiple newly disclosed bugs in the popular workflow automation tool n8n could allow attackers to hijack servers, steal credentials, and quietly disrupt AI-driven business processes.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "624a28cb2063834a8a2e7a2de685581d4b3d34ce",
+      "title": "Cloud sovereignty is no longer just a public sector concern",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/02/05/opennebula_sovereignty_interview/",
+      "published": "2026-02-05T11:00:08+00:00",
+      "summary": "<h4>Businesses still chase the cheapest option, but politics and licensing shocks are changing priorities, says OpenNebula</h4> <p><strong>Interview</strong>\u00a0 Sovereignty remains a hot topic in the tech industry, but interpretations of what it actually means \u2013 and how much it matters \u2013 vary widely between organizations and sectors. While public bodies are often driven by regulation and national policy, the private sector tends to take a more pragmatic, cost-focused view.\u2026</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "f86eece6c26de9a5a49d40d790ee75e0a897b1d6",
+      "title": "Three clues that your LLM may be poisoned with a sleeper-agent back door",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/02/05/llm_poisoned_how_to_tell/",
+      "published": "2026-02-05T07:32:12+00:00",
+      "summary": "<h4>It's a threat straight out of sci-fi, and fiendishly hard to detect</h4> <p>Sleeper agent-style backdoors in AI large language models pose a straight-out-of-sci-fi security threat.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "b01c69648a8fbcd556c3f81fe6f905d944bddd7e",
+      "title": "Satya Nadella decides Microsoft needs an engineering quality czar",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/02/05/microsoft_appoints_quality_chief/",
+      "published": "2026-02-05T05:46:17+00:00",
+      "summary": "<h4>Picks chap who used to lead Redmond\u2019s security, lures replacement from Google</h4> <p>Microsoft CEO Satya Nadella has decided Microsoft needs an engineering quality czar, and shifted Charlie Bell, the company\u2019s executive veep for security, into the new role.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
       "id": "4f0064e5165500ec67d4ee4fd9786f7cc0522d82",
       "title": "AWS intruder achieved admin access in under 10 minutes thanks to AI assist, researchers say",
       "url": "https://go.theregister.com/feed/www.theregister.com/2026/02/04/aws_cloud_breakin_ai_assist/",
       "published": "2026-02-04T21:09:42+00:00",
-      "summary": "<h4>LLMs automated most phases of the attack</h4> <p>A digital intruder broke into an AWS cloud environment and in just under 10 minutes went from initial access to administrative privileges, thanks to an AI speed assist.\u2026</p>",
+      "summary": "<h4>LLMs automated most phases of the attack</h4> <p><strong>UPDATED</strong>\u00a0 A digital intruder broke into an AWS cloud environment and in just under 10 minutes went from initial access to administrative privileges, thanks to an AI speed assist.\u2026</p>",
       "source": "The Register \u2013 Security",
       "region": "Europe",
       "country": "UK",
@@ -1707,61 +1762,6 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "14ec0d54bb84397067427fafa41b674fc300e78d",
-      "title": "EU looking into Elon Musk's X after Grok produces deepfake sex images",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/01/26/ec_open_new_investigation_into/",
-      "published": "2026-01-26T13:17:54+00:00",
-      "summary": "<h4>Probe follows outcry over use of creepy image generation tool</h4> <p>The European Commission has launched an investigation into X amid concerns that its GenAI model Grok offered users the ability to generate sexually explicit imagery, including sexualized images of children.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "4e6c57ee5960fe46c4e6c24fe31ee15c137f10f2",
-      "title": "Data thieves borrow Nike's 'Just Do It' mantra, claim they ran off with 1.4TB",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/01/26/data_thieves_claim_nike_data_haul/",
-      "published": "2026-01-26T12:24:37+00:00",
-      "summary": "<h4>US sports brand launches probe after extortion crew WorldLeaks claims it stole huge dataset</h4> <p>Nike says it is probing a possible breach after extortion crew WorldLeaks claimed to have lifted 1.4TB of internal data from the sportswear giant and posted samples on its leak site.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "e4a92273992f7386c94acf12fb3efb3a2192a38c",
-      "title": "Moscow likely behind wiper attack on Poland\u2019s power grid, experts say",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/01/26/moscow_likely_behind_wiper_attack/",
-      "published": "2026-01-26T11:54:44+00:00",
-      "summary": "<h4>Cyber sleuths believe Sandworm up to its old tricks with a brand-new sabotage toy</h4> <p>Russia was probably behind the failed attempts to compromise the systems of Poland's power companies in December, cybersecurity researchers claim.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "a39a91b0ad11400372a731872af8f630d41185fb",
-      "title": "Oracle AI sailed the world on Royal Navy flagship via cloud-at-the-edge kit",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/01/26/royal_navy_oracle_ai/",
-      "published": "2026-01-26T10:15:10+00:00",
-      "summary": "<h4>Big Red says 'sovereign' platform supports decision-making and operational learning at sea</h4> <p>Britain's Royal Navy is using Oracle Cloud edge infrastructure to operate AI-driven defenses on the aircraft carrier HMS Prince of Wales.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "bb1e939c7468f33775534873e5068df4defbcc76",
-      "title": "UK digital ID goes in-house, government swears it isn't an ID card",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/01/26/digital_id_costs/",
-      "published": "2026-01-26T09:30:10+00:00",
-      "summary": "<h4>Minister dodges cost questions while promising smartphone-free access and 'robust' verification</h4> <p>The UK government has revealed some thinking about digital identity in response to written questions from MPs, while continuing to say next to nothing about the scheme's cost.\u2026</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
       "id": "c731901e452b55cb0b0a132f707a49f78c591faf",
       "title": "Please Don\u2019t Feed the Scattered Lapsus ShinyHunters",
       "url": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
@@ -1817,6 +1817,61 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "cec6cc64c5168fa4b7439772f525324669e33a90",
+      "title": "Italy Averted Russian-Linked Cyberattacks Targeting Winter Olympics Websites, Foreign Minister Says",
+      "url": "https://www.securityweek.com/italy-averted-russian-linked-cyberattacks-targeting-winter-olympics-websites-foreign-minister-says/",
+      "published": "2026-02-05T12:29:34+00:00",
+      "summary": "<p>Italy has foiled a series of cyberattacks targeting some of its foreign ministry offices, including one in Washington.</p>\n<p>The post <a href=\"https://www.securityweek.com/italy-averted-russian-linked-cyberattacks-targeting-winter-olympics-websites-foreign-minister-says/\">Italy Averted Russian-Linked Cyberattacks Targeting Winter Olympics Websites, Foreign Minister Says</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "43217dceb961f62efa544a917f0439502de37619",
+      "title": "SystemBC Infects 10,000 Devices After Defying Law Enforcement Takedown",
+      "url": "https://www.securityweek.com/systembc-infects-10000-devices-after-defying-law-enforcement-takedown/",
+      "published": "2026-02-05T12:18:55+00:00",
+      "summary": "<p>The malware is known for dropping ransomware and other payloads, and for abusing infected machines to proxy traffic.</p>\n<p>The post <a href=\"https://www.securityweek.com/systembc-infects-10000-devices-after-defying-law-enforcement-takedown/\">SystemBC Infects 10,000 Devices After Defying Law Enforcement Takedown</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "b70cb0e05fe65fb04334d4fc8621e6b88bf7318c",
+      "title": "Critical N8n Sandbox Escape Could Lead to Server Compromise",
+      "url": "https://www.securityweek.com/critical-n8n-sandbox-escape-could-lead-to-server-compromise/",
+      "published": "2026-02-05T11:23:19+00:00",
+      "summary": "<p>The vulnerability could allow attackers to execute arbitrary commands and steal credentials and other secrets.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-n8n-sandbox-escape-could-lead-to-server-compromise/\">Critical N8n Sandbox Escape Could Lead to Server Compromise</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "fb720918473fd966dd3c528836a7751253bd64e6",
+      "title": "Cyberspy Group Hacked Governments and Critical Infrastructure in 37 Countries",
+      "url": "https://www.securityweek.com/cyberspy-group-hacked-governments-and-critical-infrastructure-in-37-countries/",
+      "published": "2026-02-05T11:00:00+00:00",
+      "summary": "<p>Palo Alto Networks has not attributed the APT activity to any specific country, but evidence points to China.</p>\n<p>The post <a href=\"https://www.securityweek.com/cyberspy-group-hacked-governments-and-critical-infrastructure-in-37-countries/\">Cyberspy Group Hacked Governments and Critical Infrastructure in 37 Countries</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "d14d56d100458b034b1dec7a09a3c88b4009bc0e",
+      "title": "Cisco, F5 Patch High-Severity Vulnerabilities",
+      "url": "https://www.securityweek.com/cisco-f5-patch-high-severity-vulnerabilities/",
+      "published": "2026-02-05T09:54:34+00:00",
+      "summary": "<p>The security defects can lead to DoS conditions, arbitrary command execution, and privilege escalation.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisco-f5-patch-high-severity-vulnerabilities/\">Cisco, F5 Patch High-Severity Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "d5b6af7887177ec8a085adb46689a853a9f3998a",
       "title": "Blockchain Intelligence Firm TRM Labs Raises $70 Million at $1 Billion Valuation",
       "url": "https://www.securityweek.com/blockchain-intelligence-firm-trm-labs-raises-70-million-at-1-billion-valuation/",
@@ -1866,61 +1921,6 @@
       "url": "https://www.securityweek.com/orion-raises-32-million-for-data-security/",
       "published": "2026-02-04T12:07:13+00:00",
       "summary": "<p>The startup will use the funding to accelerate product development and go-to-market operations.</p>\n<p>The post <a href=\"https://www.securityweek.com/orion-raises-32-million-for-data-security/\">Orion Raises $32 Million for Data Security</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "5b244195f9330859e08bdd75abe6cc92ec2633f8",
-      "title": "DockerDash Flaw in Docker AI Assistant Leads to RCE, Data Theft",
-      "url": "https://www.securityweek.com/dockerdash-flaw-in-docker-ai-assistant-leads-to-rce-data-theft/",
-      "published": "2026-02-04T11:34:55+00:00",
-      "summary": "<p>The critical vulnerability exists in the contextual trust in MCP Gateway architecture, as instructions are passed without validation.</p>\n<p>The post <a href=\"https://www.securityweek.com/dockerdash-flaw-in-docker-ai-assistant-leads-to-rce-data-theft/\">DockerDash Flaw in Docker AI Assistant Leads to RCE, Data Theft</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "d1cdc86475082a734cabe9c1c8db09ace2063742",
-      "title": "Cryptominers, Reverse Shells Dropped in Recent React2Shell Attacks",
-      "url": "https://www.securityweek.com/cryptominers-reverse-shells-dropped-in-recent-react2shell-attacks/",
-      "published": "2026-02-04T10:00:14+00:00",
-      "summary": "<p>Two IP addresses accounted for the majority of the 1.4 million exploitation attempts observed over the past week.</p>\n<p>The post <a href=\"https://www.securityweek.com/cryptominers-reverse-shells-dropped-in-recent-react2shell-attacks/\">Cryptominers, Reverse Shells Dropped in Recent React2Shell Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "048ead0c45ffbb70b9c23cd7c82493c36041aad1",
-      "title": "Fresh SolarWinds Vulnerability Exploited in Attacks",
-      "url": "https://www.securityweek.com/fresh-solarwinds-vulnerability-exploited-in-attacks/",
-      "published": "2026-02-04T09:50:56+00:00",
-      "summary": "<p>The critical-severity SolarWinds Web Help Desk flaw could lead to unauthenticated remote code execution.</p>\n<p>The post <a href=\"https://www.securityweek.com/fresh-solarwinds-vulnerability-exploited-in-attacks/\">Fresh SolarWinds Vulnerability Exploited in Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "81970c459be1e971d068a3c70e9607beb84b9646",
-      "title": "Security Analysis of Moltbook Agent Network: Bot-to-Bot Prompt Injection and Data Leaks",
-      "url": "https://www.securityweek.com/security-analysis-of-moltbook-agent-network-bot-to-bot-prompt-injection-and-data-leaks/",
-      "published": "2026-02-04T08:43:18+00:00",
-      "summary": "<p>Wiz and Permiso have analyzed the AI agent social network and found serious security issues and threats.</p>\n<p>The post <a href=\"https://www.securityweek.com/security-analysis-of-moltbook-agent-network-bot-to-bot-prompt-injection-and-data-leaks/\">Security Analysis of Moltbook Agent Network: Bot-to-Bot Prompt Injection and Data Leaks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "557fa80ad6461f926b61a8ec14290d7b062d540d",
-      "title": "RADICL Raises $31 Million for vSOC",
-      "url": "https://www.securityweek.com/radicl-raises-31-million-for-vsoc/",
-      "published": "2026-02-03T15:32:00+00:00",
-      "summary": "<p>The company will use the investment to accelerate development of its autonomous virtual security operations center (vSOC).</p>\n<p>The post <a href=\"https://www.securityweek.com/radicl-raises-31-million-for-vsoc/\">RADICL Raises $31 Million for vSOC</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
