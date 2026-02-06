@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-06T00:55:53.434040+00:00",
+  "generated_at": "2026-02-06T12:28:16.737947+00:00",
   "items": [
     {
       "id": "f7255a3001c49fb3fd53cd8918996e83b514f058",
@@ -110,6 +110,50 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "9baf5df88cc1fbf14924996ba4f4cda24bc44d4c",
+      "title": "Asian State-Backed Group TGR-STA-1030 Breaches 70 Government, Infrastructure Entities",
+      "url": "https://thehackernews.com/2026/02/asian-state-backed-group-tgr-sta-1030.html",
+      "published": "2026-02-06T12:07:00+00:00",
+      "summary": "A previously undocumented cyber espionage group operating from Asia broke into the networks of at least 70 government and critical infrastructure organizations across 37 countries over the past year, according to new findings from Palo Alto Networks Unit 42.\nIn addition, the hacking crew has been observed conducting active reconnaissance against government infrastructure associated with 155",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkJXKdHXB2KDlczzJtz-jzXDWo2g659AlM7wEMe5ZqLyV2xBZlvoO3uEyL25wwkvVZ1VLoKF6nZ_KJY5M8uHOb0c5Jon9VcLakImOaWVnCt_3LaR22nrrpZK9SmQZifDzmSB5NpaUikQeAhPP5nvgyK53vaJVSAkBRdpmpJA81kghRzC49Hwg2F0NzUfO6/s1600/cyberattack.jpg"
+    },
+    {
+      "id": "2b3bc6dfb89f99f7a6883e3d091e9fdc725d0515",
+      "title": "How Samsung Knox Helps Stop Your Network Security Breach",
+      "url": "https://thehackernews.com/2026/02/how-samsung-knox-helps-stop-your-network-security-breach.html",
+      "published": "2026-02-06T10:30:00+00:00",
+      "summary": "As you know, enterprise network security has undergone significant evolution over the past decade. Firewalls have become more intelligent, threat detection methods have advanced, and access controls are now more detailed. However (and it&rsquo;s a big &ldquo;however&rdquo;), the increasing use of mobile devices in business operations necessitates network security measures that are specifically",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYbHuhB2klNlaHkYykLYRjMjQVPrFD5GjaSmTiLJPzDkOGBVufabhBs2akKWk8RV3LBOvEqj2ANFmVcfqfixnoHAlShEtg6FZvSviNFYX1xmLxdRZwK3M87ElFVhJbArR7ZELSje8MoaPW2FnbHHIWFTpjSOxlPaP5KWEXzIJ8YkkMlzdUE01DTeDPKUw/s1600/samsung.jpg"
+    },
+    {
+      "id": "b74c163ac4f40f72f6fb6117b5675e6622ea3557",
+      "title": "Compromised dYdX npm and PyPI Packages Deliver Wallet Stealers and RAT Malware",
+      "url": "https://thehackernews.com/2026/02/compromised-dydx-npm-and-pypi-packages.html",
+      "published": "2026-02-06T08:40:00+00:00",
+      "summary": "Cybersecurity researchers have discovered a new supply chain attack in which legitimate packages on npm and the Python Package Index (PyPI) repository have been compromised to push malicious versions to facilitate wallet credential theft and remote code execution.\nThe compromised versions of the two packages are listed below -\n\n@dydxprotocol/v4-client-js (npm) - 3.4.1, 1.22.1, 1.15.2, 1.0.31&",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyIStnp-bU9hiGHInOzCOAghM-ycI6Ji3sPnUabHcJU_9vmQMCof5MKezvR6uly1jV9qfrPwynL5PZjrifXYWIBJB31wQDTv70h31WQuGzptuPUE_iUkS99qMlcN1QHvbDaqtlAOu8Gy65Ge45FaApAUNqP2DtXhOBAPmtAjyijUbX3kWSb8NgygWtIsQA/s1600/npm-pypi.jpg"
+    },
+    {
+      "id": "0798ad23ecf754ccaa0e52ad3073af35f8d8e00a",
+      "title": "Claude Opus 4.6 Finds 500+ High-Severity Flaws Across Major Open-Source Libraries",
+      "url": "https://thehackernews.com/2026/02/claude-opus-46-finds-500-high-severity.html",
+      "published": "2026-02-06T05:49:00+00:00",
+      "summary": "Artificial intelligence (AI) company Anthropic revealed that its latest large language model (LLM), Claude Opus 4.6, has found more than 500 previously unknown high-severity security flaws in open-source libraries, including Ghostscript, OpenSC, and CGIF.\nClaude Opus 4.6, which was launched Thursday, comes with improved coding skills, including code review and debugging capabilities, along with",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3INhSQ0eqV1r5O9Q_JGSGDCw6r657lTF_JXgvwnA7iHLRer8FgbUzV37ALPlKD0MNHNUltUI8BjJNLOb2iL8FRZ3xlBO74k2HCxEsTcY8z0wN6xfNacnOK7eRHDmrw0mEbBvYINLHTQs7AEDhffz2DRXd2uOJgPh7tJg-xVZFx070Lo36hdfu7HpEEeRO/s1600/claude-opus-4.6.jpg"
     },
     {
       "id": "9a1320296d3e09deb285a61b0a5a1baedd2e6aaf",
@@ -616,50 +660,6 @@
       "region": "North America",
       "country": "US",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpzZ7e4dYy-hpTfbR7szq9J8RcMD40YfqgkKsvCTqBy-LIR2HtA3D4gY0i_-yiitA72t97lJlC4cW3klbAsJB6BBxxfOXDjhf68Z9RNF2GDYwWxPkdzSYTIcgQZzXg_0hCSqYOPI4nI8Wq3NHj5DrgwQ0RpdEZGJ1hMteDuOBNDxn-sXuzj57K9K-QKhz0/s1600/powergrid.jpg"
-    },
-    {
-      "id": "0c6855fb11fed77bb68f10de8ecc2dafe59b8627",
-      "title": "Two High-Severity n8n Flaws Allow Authenticated Remote Code Execution",
-      "url": "https://thehackernews.com/2026/01/two-high-severity-n8n-flaws-allow.html",
-      "published": "2026-01-28T12:43:00+00:00",
-      "summary": "Cybersecurity researchers have disclosed two new security flaws in the n8n workflow automation platform, including a crucial vulnerability that could result in remote code execution.\nThe weaknesses, discovered by the JFrog Security Research team, are listed below -\n\nCVE-2026-1470 (CVSS score: 9.9) - An eval injection vulnerability that could allow an authenticated user to bypass the Expression",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhW94x6FIasfUAUj1l0mDp4cnVeR5PmfPV85I4_GuIlUqCVlMX0bthAcsA9oHJJz8d3gXUo74yw4d2kG3FnDnFe0zz_CzVY6Hyy8biL_gMKKaErWM3p15lAdh5xQnBBb6RhHSgKmpM3RLx1wccjhlKJc6I6lrO8M7SFIs3ezfEXuieA11PIJ1D7Z4nSaLb2/s1600/n8n.jpg"
-    },
-    {
-      "id": "757b3e96b93b0c041256a63f4343d3f36c0347c1",
-      "title": "From Triage to Threat Hunts: How AI Accelerates SecOps",
-      "url": "https://thehackernews.com/2026/01/from-triage-to-threat-hunts-how-ai.html",
-      "published": "2026-01-28T11:55:00+00:00",
-      "summary": "If you work in security operations, the concept of the AI SOC agent is likely familiar. Early narratives promised total autonomy. Vendors seized on the idea of the \"Autonomous SOC\" and suggested a future where algorithms replaced analysts.\nThat future has not arrived. We have not seen mass layoffs or empty security operations centers. We have instead seen the emergence of a practical reality.",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghs8WHLFXdoOPjX8iPhC7ecFE52CMqypJ6IQ7vZIqEiCi7wpEiHdOI2XsSGqbTOVZiINMjvx-xQPV0t-KpwKnF-dHNYGG5yrNh-P_WLPbM2_fgRap6jTr9NOnfXuvgxZs9Xpd-JME7ArxhPMBrkOzHidNo7XjngGI-EtPDZ1eUIxb8-REtmvKWbZ2QhqY/s1600/prophet.jpg"
-    },
-    {
-      "id": "6eee740db8795e9c3561ccd97d6dd2b1c305031e",
-      "title": "Critical vm2 Node.js Flaw Allows Sandbox Escape and Arbitrary Code Execution",
-      "url": "https://thehackernews.com/2026/01/critical-vm2-nodejs-flaw-allows-sandbox.html",
-      "published": "2026-01-28T11:50:00+00:00",
-      "summary": "A critical sandbox escape vulnerability has been disclosed in the popular vm2 Node.js library that, if successfully exploited, could allow attackers to run arbitrary code on the underlying operating system.\nThe vulnerability, tracked as CVE-2026-22709, carries a CVSS score of 9.8 out of 10.0 on the CVSS scoring system.\n\"In vm2 for version 3.10.0, Promise.prototype.then Promise.prototype.catch",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEir_Rl9Xy1aEtQBIw6aqscoEj4444e7H2BJLRbPSyqbi2DMtc22vTReAQM6ye0KR8pr1iBs4YA3KIdgfAvfBuIGBMrd7JYL5P9NNnNt6vgeD_B5GStVh1Bq5DzgnRsViE-z_dmkuGuhWTchwmk3ULxzq7_vVoUnKnwFaQtqVyCDf-oHiqBeiViqAlqdsGsi/s1600/vm2.jpg"
-    },
-    {
-      "id": "92c85b9b3d82925a88ccb3f46bacb7d1c4070bd2",
-      "title": "Mustang Panda Deploys Updated COOLCLIENT Backdoor in Government Cyber Attacks",
-      "url": "https://thehackernews.com/2026/01/mustang-panda-deploys-updated.html",
-      "published": "2026-01-28T11:40:00+00:00",
-      "summary": "Threat actors with ties to China have been observed using an updated version of a backdoor called COOLCLIENT in cyber espionage attacks in 2025 to facilitate comprehensive data theft from infected endpoints.\nThe activity has been attributed to Mustang Panda (aka Earth Preta, Fireant, HoneyMyte, Polaris, and Twill Typhoon) with the intrusions primarily directed against government entities located",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbfyqOKlboKyz0aepCrCjmgfx7hVJKbZ5zcv_iQC6sUvz4vyarawc69b_BxxUdQYhl62-gOoWmlEDQywKqX4zRtKo7X_G_eZTCignSldlMeGxb6ZxhYRJTFn2L0f_FcdJS2FrlLq32HpdE1N_XqD639QIYNC9xGZymr8PNBLW_mU7uB6Oa4f759T_4t-0E/s1600/cyber.jpg"
     },
     {
       "id": "c647448f1258822b1247855381ef6abf0ee0807c",
@@ -1293,7 +1293,7 @@
       "title": "Cloud sovereignty is no longer just a public sector concern",
       "url": "https://go.theregister.com/feed/www.theregister.com/2026/02/05/opennebula_sovereignty_interview/",
       "published": "2026-02-05T11:00:08+00:00",
-      "summary": "<h4>Businesses still chase the cheapest option, but politics and licensing shocks are changing priorities, says OpenNebula</h4> <p><strong>Interview</strong>\u00a0 Sovereignty remains a hot topic in the tech industry, but interpretations of what it actually means \u2013 and how much it matters \u2013 vary widely between organizations and sectors. While public bodies are often driven by regulation and national policy, the private sector tends to take a more pragmatic, cost-focused view.\u2026</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "summary": "<h4>Businesses still chase the cheapest option, but politics and licensing shocks are changing priorities, says OpenNebula Systems</h4> <p><strong>Interview</strong>\u00a0 Sovereignty remains a hot topic in the tech industry, but interpretations of what it actually means \u2013 and how much it matters \u2013 vary widely between organizations and sectors. While public bodies are often driven by regulation and national policy, the private sector tends to take a more pragmatic, cost-focused view.\u2026</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
       "source": "The Register \u2013 Security",
       "region": "Europe",
       "country": "UK",
@@ -1762,28 +1762,6 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "c731901e452b55cb0b0a132f707a49f78c591faf",
-      "title": "Please Don\u2019t Feed the Scattered Lapsus ShinyHunters",
-      "url": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
-      "published": "2026-02-02T16:15:16+00:00",
-      "summary": "A prolific data ransom gang that calls itself Scattered Lapsus ShinyHunters (SLSH) has a distinctive playbook when it seeks to extort payment from victim firms: Harassing, threatening and even swatting executives and their families, all while notifying journalists and regulators\u2026 <span class=\"read-more\"><a href=\"https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/\">Read More &#187;</a></span>",
-      "source": "Krebs on Security",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "0c3e212c98729d2b8bdc50649bc30fdcc0566978",
-      "title": "Who Operates the Badbox 2.0 Botnet?",
-      "url": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
-      "published": "2026-01-26T16:11:38+00:00",
-      "summary": "The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicating they'd compromised the control panel for Badbox 2.0, a vast China-based botnet powered by malicious software that comes pre-installed on many Android TV streaming boxes. Both the FBI and Google say they are hunting for the people behind Badbox 2.0, and thanks to bragging by the Kimwolf botmasters we may now have a much clearer idea about that.",
-      "source": "Krebs on Security",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
       "id": "ec7d99efc813af9d4d1a7474be57cd27df398db4",
       "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
       "url": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
@@ -1817,110 +1795,110 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "0830fa2a90e66c925eba380c2001b0c0a7123d2f",
+      "title": "Flickr Security Incident Tied to Third-Party Email System",
+      "url": "https://www.securityweek.com/flickr-security-incident-tied-to-third-party-email-system/",
+      "published": "2026-02-06T12:00:34+00:00",
+      "summary": "<p>Potential breach at Flickr exposes usernames, email addresses, IP addresses, and activity data.</p>\n<p>The post <a href=\"https://www.securityweek.com/flickr-security-incident-tied-to-third-party-email-system/\">Flickr Security Incident Tied to Third-Party Email System</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "aea3692701bcfad80b15a2cedc968bbd86593a0c",
+      "title": "Living off the AI: The Next Evolution of Attacker Tradecraft",
+      "url": "https://www.securityweek.com/living-off-the-ai-the-next-evolution-of-attacker-tradecraft/",
+      "published": "2026-02-06T12:00:00+00:00",
+      "summary": "<p>Living off the AI isn\u2019t a hypothetical but a natural continuation of the tradecraft we\u2019ve all been defending against, now mapped onto assistants, agents, and MCP. </p>\n<p>The post <a href=\"https://www.securityweek.com/living-off-the-ai-the-next-evolution-of-attacker-tradecraft/\">Living off the AI: The Next Evolution of Attacker Tradecraft</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "9daf574cc5b9e70374d9992bcb8abf17cac248da",
+      "title": "In Other News: Record DDoS, Epstein\u2019s Hacker, ESET Product Vulnerabilities",
+      "url": "https://www.securityweek.com/in-other-news-record-ddos-epsteins-hacker-eset-product-vulnerabilities/",
+      "published": "2026-02-06T12:00:00+00:00",
+      "summary": "<p>Other noteworthy stories that might have slipped under the radar: AT&#038;T and Verizon response to Salt Typhoon, AI agents solve security challenges, man arrested in Poland for DDos Attacks.</p>\n<p>The post <a href=\"https://www.securityweek.com/in-other-news-record-ddos-epsteins-hacker-eset-product-vulnerabilities/\">In Other News: Record DDoS, Epstein&#8217;s Hacker, ESET Product Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "e03e4e0ac70956e471a3c26638024b4ec8982e0a",
+      "title": "Airrived Emerges From Stealth With $6.1 Million in Funding",
+      "url": "https://www.securityweek.com/airrived-emerges-from-stealth-with-6-1-million-in-funding/",
+      "published": "2026-02-06T09:40:59+00:00",
+      "summary": "<p>The startup aims to unify SOC, GRC, IAM, vulnerability management, IT, and business operations through its Agentic OS platform.</p>\n<p>The post <a href=\"https://www.securityweek.com/airrived-emerges-from-stealth-with-6-1-million-in-funding/\">Airrived Emerges From Stealth With $6.1 Million in Funding</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "03161edde8526673a2a644e4dd3179951f7211cd",
+      "title": "\u2018DKnife\u2019 Implant Used by Chinese Threat Actor for Adversary-in-the-Middle Attacks",
+      "url": "https://www.securityweek.com/dknife-implant-used-by-chinese-threat-actor-for-adversary-in-the-middle-attacks/",
+      "published": "2026-02-06T08:50:46+00:00",
+      "summary": "<p>Used since at least 2019, DKnife has been targeting the desktop, mobile, and IoT devices of Chinese users.</p>\n<p>The post <a href=\"https://www.securityweek.com/dknife-implant-used-by-chinese-threat-actor-for-adversary-in-the-middle-attacks/\">&#8216;DKnife&#8217; Implant Used by Chinese Threat Actor for Adversary-in-the-Middle Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "1f5323fce0b1e049af05073711e8e00302bb2195",
+      "title": "5 Bills to Boost Energy Sector Cyber Defenses Clear House Panel",
+      "url": "https://www.securityweek.com/5-bills-to-boost-energy-sector-cyber-defenses-clear-house-panel/",
+      "published": "2026-02-06T08:19:03+00:00",
+      "summary": "<p>The news comes after the Department of Energy conducted its annual Liberty Eclipse cybersecurity exercise.</p>\n<p>The post <a href=\"https://www.securityweek.com/5-bills-to-boost-energy-sector-cyber-defenses-clear-house-panel/\">5 Bills to Boost Energy Sector Cyber Defenses Clear House Panel</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "0f4039a33602df88f50154d5c397376b1d5c6848",
+      "title": "Critical SmarterMail Vulnerability Exploited in Ransomware Attacks",
+      "url": "https://www.securityweek.com/critical-smartermail-vulnerability-exploited-in-ransomware-attacks/",
+      "published": "2026-02-06T07:50:23+00:00",
+      "summary": "<p>The security defect allows unauthenticated attackers to execute arbitrary code remotely via malicious HTTP requests.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-smartermail-vulnerability-exploited-in-ransomware-attacks/\">Critical SmarterMail Vulnerability Exploited in Ransomware Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "1ec9a8ed04e577a2f4c7914a140810f18c144bbf",
+      "title": "Concerns Raised Over CISA\u2019s Silent Ransomware Updates in KEV Catalog",
+      "url": "https://www.securityweek.com/questions-raised-over-cisas-silent-ransomware-updates-in-kev-catalog/",
+      "published": "2026-02-06T05:28:39+00:00",
+      "summary": "<p>CISA updated 59 KEV entries in 2025 to specify that the vulnerabilities have been exploited in ransomware attacks.</p>\n<p>The post <a href=\"https://www.securityweek.com/questions-raised-over-cisas-silent-ransomware-updates-in-kev-catalog/\">Concerns Raised Over CISA&#8217;s Silent Ransomware Updates in KEV Catalog</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "cb4dca704f4a64f99d01ffbc92afa4c67c7e81fc",
+      "title": "Zscaler Acquires\u00a0Browser Security Firm SquareX",
+      "url": "https://www.securityweek.com/zscaler-acquires-browser-security-firm-squarex/",
+      "published": "2026-02-06T02:48:22+00:00",
+      "summary": "<p>Zscaler says the acquisition will allow customers to embed lightweight extensions into any browser, providing increased security and eliminating the need for third-party browsers.\u00a0</p>\n<p>The post <a href=\"https://www.securityweek.com/zscaler-acquires-browser-security-firm-squarex/\">Zscaler Acquires\u00a0Browser Security Firm SquareX\u00a0</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "0d9600905b400ee49b950b462bb2e9b3a7036af5",
       "title": "Substack Discloses Security Incident After Hacker Leaks Data",
       "url": "https://www.securityweek.com/substack-discloses-security-incident-after-hacker-leaks-data/",
       "published": "2026-02-05T15:13:55+00:00",
       "summary": "<p>The hacker claims to have stolen nearly 700,000 Substack user records, including email addresses and phone numbers.</p>\n<p>The post <a href=\"https://www.securityweek.com/substack-discloses-security-incident-after-hacker-leaks-data/\">Substack Discloses Security Incident After Hacker Leaks Data</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "bf9eacb74a88ac0dfc89f4f2c53a6d5e51b7a922",
-      "title": "Researchers Expose Network of 150 Cloned Law Firm Websites in AI-Powered Scam Campaign",
-      "url": "https://www.securityweek.com/researchers-expose-network-of-150-cloned-law-firm-websites-in-ai-powered-scam-campaign/",
-      "published": "2026-02-05T14:00:00+00:00",
-      "summary": "<p>Criminals are using AI to clone professional websites at an industrial scale. A new report shows how one AI-powered network grew to 150+ domains by hiding behind Cloudflare and rotating IP ranges.</p>\n<p>The post <a href=\"https://www.securityweek.com/researchers-expose-network-of-150-cloned-law-firm-websites-in-ai-powered-scam-campaign/\">Researchers Expose Network of 150 Cloned Law Firm Websites in AI-Powered Scam Campaign</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "228735cde8479847abc3711b36c558d66aa45164",
-      "title": "VS Code Configs Expose GitHub Codespaces to Attacks",
-      "url": "https://www.securityweek.com/vs-code-configs-expose-github-codespaces-to-attacks/",
-      "published": "2026-02-05T13:41:48+00:00",
-      "summary": "<p>VS Code-integrated configuration files are automatically executed in Codespaces when the user opens a repository or pull request.</p>\n<p>The post <a href=\"https://www.securityweek.com/vs-code-configs-expose-github-codespaces-to-attacks/\">VS Code Configs Expose GitHub Codespaces to Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "38c6f58c962e00082a8543b25a907ce7ebfcb9b6",
-      "title": "Nullify Secures $12.5 Million in Seed Funding for Cybersecurity AI Workforce",
-      "url": "https://www.securityweek.com/nullify-secures-12-5-million-in-seed-funding-for-cybersecurity-ai-workforce/",
-      "published": "2026-02-05T13:02:15+00:00",
-      "summary": "<p>This latest infusion, led by SYN Ventures, brings the company\u2019s total funding to $16.9 million.</p>\n<p>The post <a href=\"https://www.securityweek.com/nullify-secures-12-5-million-in-seed-funding-for-cybersecurity-ai-workforce/\">Nullify Secures $12.5 Million in Seed Funding for Cybersecurity AI Workforce</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "cec6cc64c5168fa4b7439772f525324669e33a90",
-      "title": "Italy Averted Russian-Linked Cyberattacks Targeting Winter Olympics Websites, Foreign Minister Says",
-      "url": "https://www.securityweek.com/italy-averted-russian-linked-cyberattacks-targeting-winter-olympics-websites-foreign-minister-says/",
-      "published": "2026-02-05T12:29:34+00:00",
-      "summary": "<p>Italy has foiled a series of cyberattacks targeting some of its foreign ministry offices, including one in Washington.</p>\n<p>The post <a href=\"https://www.securityweek.com/italy-averted-russian-linked-cyberattacks-targeting-winter-olympics-websites-foreign-minister-says/\">Italy Averted Russian-Linked Cyberattacks Targeting Winter Olympics Websites, Foreign Minister Says</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "43217dceb961f62efa544a917f0439502de37619",
-      "title": "SystemBC Infects 10,000 Devices After Defying Law Enforcement Takedown",
-      "url": "https://www.securityweek.com/systembc-infects-10000-devices-after-defying-law-enforcement-takedown/",
-      "published": "2026-02-05T12:18:55+00:00",
-      "summary": "<p>The malware is known for dropping ransomware and other payloads, and for abusing infected machines to proxy traffic.</p>\n<p>The post <a href=\"https://www.securityweek.com/systembc-infects-10000-devices-after-defying-law-enforcement-takedown/\">SystemBC Infects 10,000 Devices After Defying Law Enforcement Takedown</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "b70cb0e05fe65fb04334d4fc8621e6b88bf7318c",
-      "title": "Critical N8n Sandbox Escape Could Lead to Server Compromise",
-      "url": "https://www.securityweek.com/critical-n8n-sandbox-escape-could-lead-to-server-compromise/",
-      "published": "2026-02-05T11:23:19+00:00",
-      "summary": "<p>The vulnerability could allow attackers to execute arbitrary commands and steal credentials and other secrets.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-n8n-sandbox-escape-could-lead-to-server-compromise/\">Critical N8n Sandbox Escape Could Lead to Server Compromise</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "fb720918473fd966dd3c528836a7751253bd64e6",
-      "title": "Cyberspy Group Hacked Governments and Critical Infrastructure in 37 Countries",
-      "url": "https://www.securityweek.com/cyberspy-group-hacked-governments-and-critical-infrastructure-in-37-countries/",
-      "published": "2026-02-05T11:00:00+00:00",
-      "summary": "<p>Palo Alto Networks has not attributed the APT activity to any specific country, but evidence points to China.</p>\n<p>The post <a href=\"https://www.securityweek.com/cyberspy-group-hacked-governments-and-critical-infrastructure-in-37-countries/\">Cyberspy Group Hacked Governments and Critical Infrastructure in 37 Countries</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "d14d56d100458b034b1dec7a09a3c88b4009bc0e",
-      "title": "Cisco, F5 Patch High-Severity Vulnerabilities",
-      "url": "https://www.securityweek.com/cisco-f5-patch-high-severity-vulnerabilities/",
-      "published": "2026-02-05T09:54:34+00:00",
-      "summary": "<p>The security defects can lead to DoS conditions, arbitrary command execution, and privilege escalation.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisco-f5-patch-high-severity-vulnerabilities/\">Cisco, F5 Patch High-Severity Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "d5b6af7887177ec8a085adb46689a853a9f3998a",
-      "title": "Blockchain Intelligence Firm TRM Labs Raises $70 Million at $1 Billion Valuation",
-      "url": "https://www.securityweek.com/blockchain-intelligence-firm-trm-labs-raises-70-million-at-1-billion-valuation/",
-      "published": "2026-02-04T14:27:13+00:00",
-      "summary": "<p>The Series C funding will enable the company to expand its AI capabilities for disrupting criminal networks.</p>\n<p>The post <a href=\"https://www.securityweek.com/blockchain-intelligence-firm-trm-labs-raises-70-million-at-1-billion-valuation/\">Blockchain Intelligence Firm TRM Labs Raises $70 Million at $1 Billion Valuation</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
