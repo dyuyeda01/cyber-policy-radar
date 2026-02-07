@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-02-06T12:28:16.737947+00:00",
+  "generated_at": "2026-02-07T00:55:00.191461+00:00",
   "items": [
+    {
+      "id": "69e23ea2b919dbf067d3b0f2fdb68228f1fba3ca",
+      "title": "Ransomware attacks against education sector slow worldwide",
+      "url": "https://www.cybersecuritydive.com/news/ransomware-attacks-against-education-sector-slow-worldwide/811588/",
+      "published": "2026-02-06T15:13:00+00:00",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/bXbNdhunP-59dQk-nu5LUq_ZM47X2ho7zbxbnf1KLSk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzk5OTgwMDQ2LmpwZw==.webp\" /></div></figure><p>The U.S. saw the highest number of education-related ransomware attacks in 2025, at 130, despite a 9% decline year over year.</p>",
+      "source": "Cybersecurity Dive",
+      "region": "North America",
+      "country": "US",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
     {
       "id": "f7255a3001c49fb3fd53cd8918996e83b514f058",
       "title": "CISA orders feds to disconnect unsupported network edge devices",
@@ -101,15 +112,26 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "175203fecc45c1bba1cd645956a246cebaf10776",
-      "title": "ShinyHunters escalates tactics in extortion campaign linked to Okta environments",
-      "url": "https://www.cybersecuritydive.com/news/shinyhunters-tactics-extortion-okta-environ/811112/",
-      "published": "2026-02-02T16:16:21+00:00",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/ASriUTXYU57UTRsGa3uHudK6MLnQNX56KJ_GYOScOw8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy04MTc0ODYxNzQuanBn.webp\" /></div></figure><p>Researchers are tracking multiple clusters that are using social engineering to gain access to victims.</p>",
-      "source": "Cybersecurity Dive",
+      "id": "cf2017d8f307534bc9057a5f97c3f262ecc2ad68",
+      "title": "China-Linked DKnife AitM Framework Targets Routers for Traffic Hijacking, Malware Delivery",
+      "url": "https://thehackernews.com/2026/02/china-linked-dknife-aitm-framework.html",
+      "published": "2026-02-06T14:56:00+00:00",
+      "summary": "Cybersecurity researchers have taken the wraps off a gateway-monitoring and adversary-in-the-middle (AitM) framework dubbed DKnife that's operated by China-nexus threat actors since at least 2019.\nThe framework comprises seven Linux-based implants that are designed to perform deep packet inspection, manipulate traffic, and deliver malware via routers and edge devices. Its primary targets seem to",
+      "source": "The Hacker News",
       "region": "North America",
       "country": "US",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYyMn4uLO-VZgiUrwRtAtJIOgkMnxpxz8eAMF1qozW3TT6F7vTTebQnOZu_ZHcioB-mqEHV7AT35sHZPKp5X2W6kJj0l8fZDPZoS11oLDOMh3v8_6rX_C5IiLlxrlv0eCEPFUZ2Nv6VG4BNcEiDH7yJ0HyJ-5CvN2EL-VsQP85QydfaaLQ62BME9d_-frU/s1600/hijacking.jpg"
+    },
+    {
+      "id": "2f5cdc995d638fab36c7278f0883816606d6a289",
+      "title": "CISA Orders Removal of Unsupported Edge Devices to Reduce Federal Network Risk",
+      "url": "https://thehackernews.com/2026/02/cisa-orders-removal-of-unsupported-edge.html",
+      "published": "2026-02-06T13:43:00+00:00",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has ordered Federal Civilian Executive Branch (FCEB) agencies to strengthen asset lifecycle management for edge network devices and remove those that no longer receive security updates from original equipment manufacturers (OEMs) over the next 12 to 18 months.\nThe agency said the move is to drive down technical debt and minimize",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEge1uFwm_WzT-KegdpNHP4BZ8lVr18AxaDHJOg7q82ToP6qmFMnQyBFVEFSnIO4vOPNF0vKBCZyllAPnBsWALveRbuPV9J-vZClRVCbp8_5dmKpPsrYghHm_ONMIxi-gatCoDpkHqCExbcZiMyGPzXV0TzqBJlXcraIeCWwEeyEk4pBChWP8iHuWAOuUzOV/s1600/cisa.jpg"
     },
     {
       "id": "9baf5df88cc1fbf14924996ba4f4cda24bc44d4c",
@@ -640,26 +662,37 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEji2m0M2CgLOyvWFLDsxvvFHRC_bP8UZH66OXowPdykfsWnt3WwvYrvdnPnixz7wnn7uB5EIO4svESi1i9Bj-3dRBcHihgQExiog-cv24tLBxJ8HibquEo5yFqKzDDPpIJsVBciHzvZm3N-rszwG9q4rXuibLC69BZcH2iS6oSExUFmPpPjXxy-jRSVB58E/s1600/ipidea.png"
     },
     {
-      "id": "341bae5f32aea6af0455ab828ce3157ce9d0f92a",
-      "title": "Fake Moltbot AI Coding Assistant on VS Code Marketplace Drops Malware",
-      "url": "https://thehackernews.com/2026/01/fake-moltbot-ai-coding-assistant-on-vs.html",
-      "published": "2026-01-28T17:46:00+00:00",
-      "summary": "Cybersecurity researchers have flagged a new malicious Microsoft Visual Studio Code (VS Code) extension for Moltbot (formerly Clawdbot) on the official Extension Marketplace that claims to be a free artificial intelligence (AI) coding assistant, but stealthily drops a malicious payload on compromised hosts.\nThe extension, named \"ClawdBot Agent - AI Coding Assistant\" (\"clawdbot.clawdbot-agent\")",
-      "source": "The Hacker News",
+      "id": "88e450bf90a1c876403234432ffc372e475a43ec",
+      "title": "'Encrypt It Already' Campaign Pushes Big Tech to Prioritize E2E Encryption",
+      "url": "https://www.darkreading.com/cloud-security/encrypt-it-already-pushes-big-tech-e2e-encryption",
+      "published": "2026-02-06T16:34:41+00:00",
+      "summary": "The Electronic Frontier Foundation is urging major technology companies to follow through on their promises to implement end-to-end encryption (E2E) by default across their services, as privacy concerns mount amid increased AI use.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcDOoAyo7J2datj6fehqndPoEoXI2bIED_JR3Wiyi-XWBhzWlStRSgOUjJ9XGw8Wf5r5l-Vc3KIWs6ELAT_4MH-EgTiGYsrOI4JGGlYTTRYA9GhfAzRmzpzufVSOMTP8xdDA7Z68BE1mkdbPEmDSVWkfEeM6FmEMoDdjPcuEs5oSeoU0ZRqWNGgSV79rIc/s1600/moltbot.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5944ff3c70db0683/6986198322e6317c725733b5/2D75J4G.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "5276164309ac0c329e6475530f1e7b39d042c970",
-      "title": "Russia-Aligned ELECTRUM Tied to December 2025 Cyber Attack on Polish Power Grid",
-      "url": "https://thehackernews.com/2026/01/russian-electrum-tied-to-december-2025.html",
-      "published": "2026-01-28T16:06:00+00:00",
-      "summary": "The \"coordinated\" cyber attack targeting multiple sites across the Polish power grid has been attributed with medium confidence to a Russian state-sponsored hacking crew known as ELECTRUM.\nOperational technology (OT) cybersecurity company Dragos, in a new intelligence brief published Tuesday, described the late December 2025 activity as the first major cyber attack targeting distributed energy",
-      "source": "The Hacker News",
+      "id": "4294f774196606e0df6af5f8468c7ecbadc7d1bc",
+      "title": "Shai-hulud: The Hidden Cost of Supply Chain Attacks",
+      "url": "https://www.darkreading.com/application-security/shai-hulud-hidden-cost-supply-chain-attacks",
+      "published": "2026-02-06T16:25:14+00:00",
+      "summary": "Recent supply chain attacks involving self-propagating worms have spread far, but the damage and long-term impact is hard to quantify.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpzZ7e4dYy-hpTfbR7szq9J8RcMD40YfqgkKsvCTqBy-LIR2HtA3D4gY0i_-yiitA72t97lJlC4cW3klbAsJB6BBxxfOXDjhf68Z9RNF2GDYwWxPkdzSYTIcgQZzXg_0hCSqYOPI4nI8Wq3NHj5DrgwQ0RpdEZGJ1hMteDuOBNDxn-sXuzj57K9K-QKhz0/s1600/powergrid.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5000d4aa585e56c8/6984e412f668df998de84af5/Piggy_bank_maze_Andriy_Popov_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
+      "id": "94804f8f480091a6ddc1478ab18dd36f97b98d00",
+      "title": "OpenClaw's Gregarious Insecurities Make Safe Usage Difficult",
+      "url": "https://www.darkreading.com/application-security/openclaw-insecurities-safe-usage-difficult",
+      "published": "2026-02-06T15:42:15+00:00",
+      "summary": "Malicious &quot;skills&quot; and persnickety configuration settings are just some of the issues that security researchers have found when installing \u2014 and removing \u2014 the OpenClaw AI assistant.",
+      "source": "DarkReading",
+      "region": "North America",
+      "country": "US",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltda40e5a101dbe5ef/6985152bd08b0a67f7734dd5/lobster-on-a-dock-Tsirikashvili_Nodari-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "id": "c647448f1258822b1247855381ef6abf0ee0807c",
@@ -682,6 +715,17 @@
       "region": "North America",
       "country": "US",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt68890563646ac2cb/6985015d83114a143d701324/Moltbook-SOPA_Images_Limited-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
+      "id": "2c348e41f65b18adfb40108143b019492aeae1b9",
+      "title": "Data Tool to Triage Exploited Vulnerabilities Can Make KEV More Useful",
+      "url": "https://www.darkreading.com/threat-intelligence/data-tool-triage-exploited-vulnerabilities-make-kev-catalog-more-useful",
+      "published": "2026-02-05T20:53:34+00:00",
+      "summary": "A disconnect exists between an organization's cybersecurity needs and lists like CISA's KEV Catalog. KEV Collider combines data from multiple open source vulnerability frameworks to help security teams quickly assess which are important, based on their priorities.",
+      "source": "DarkReading",
+      "region": "North America",
+      "country": "US",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltbadcc9a16d698aad/6984b208f81d8e07ce8a9119/kev-collider-runzero.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "id": "db8d45ab559d67091094e3ee6d40071fc865938d",
@@ -1168,48 +1212,26 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf650f1c3fb943113/69756c36a578c70307784492/whack-mole-Gabe-Palmer-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "9e50f1015b4a659c84f9d5f2057a464a86ac5606",
-      "title": "Swipe, Plug-in, Pwned: Researchers Find New Ways to Hack Vehicles",
-      "url": "https://www.darkreading.com/endpoint-security/researchers-find-new-ways-hack-vehicles",
-      "published": "2026-01-23T21:04:17+00:00",
-      "summary": "Security researchers exploited dozens of vulnerabilities in vehicle infotainment systems and EV chargers during the latest Pwn2Own contest at Automotive World 2026.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt822406557e0d72b2/69729d3f2eb5cff9fe279fd4/Kenwood-hacked-78Research-TrendAI_ZDI.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "id": "cbfb94d2d3b90371942abdb39e6e812705d16ab1",
+      "title": "Flickr emails users about data breach, pins it on 3rd party",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/02/06/flickr_emails_users_about_data_breach/",
+      "published": "2026-02-06T16:56:29+00:00",
+      "summary": "<h4>Attackers may have snapped user locations and activity information, message warns</h4> <p>Legacy image-sharing website Flickr suffered a data breach, according to customers emails seen by <em>The Register</em>.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "315b75dd74d7835a8dbad3c5338f78be9980ef26",
-      "title": "Exploited Zero-Day Flaw in Cisco UC Could Affect Millions",
-      "url": "https://www.darkreading.com/endpoint-security/exploited-zero-day-flaw-cisco-uc-affect-millions",
-      "published": "2026-01-23T20:56:42+00:00",
-      "summary": "Mass scanning is underway for CVE-2026-20045, which Cisco tagged as critical because successful exploitation could lead to a complete system takeover.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte487f24bac524aa4/6973ce3ef9ed6d77f95eb4ee/cisco_HJBC_.jpg?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
-      "id": "64fb1a82277c5254d8e606567dd10400252d1fa3",
-      "title": "Europe's GCVE Raises Concerns Over Fragmentation in Vulnerability Databases",
-      "url": "https://www.darkreading.com/cyber-risk/gcve-raises-concerns-fragmentation-vulnerability-database",
-      "published": "2026-01-23T20:31:58+00:00",
-      "summary": "GCVE would enhance global collaboration, flexibility, and efficiency in tracking security flaws. Duplicate entries and a decentralization policy may create more chaos for defenders.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte5eb6cc965064e57/679fd0cc104604191eb4e7cb/Vulnerability_(1800)_Cagkan_Sayin_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
-      "id": "ca4d93cc83e65665cd5eef14e758be5fa0386a97",
-      "title": "Healthy Security Cultures Want People to Report Risks",
-      "url": "https://www.darkreading.com/cyber-risk/healthy-security-cultures-thrive-on-risk-reporting",
-      "published": "2026-01-23T16:45:35+00:00",
-      "summary": "The signs of an effective security culture are shifting as companies call on CISOs and security teams to raise their hands unabashedly.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt069c5d6fc2ee2c51/6973a8e8d307dcc8891da3a0/2BMP2TF.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "id": "17f513086d7b9487872ff3b09478fe1593ef67f5",
+      "title": "DDoS deluge: Brit biz battered as botnet blitzes break records",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/02/06/uk_climbs_up_ddos_hit/",
+      "published": "2026-02-06T16:36:49+00:00",
+      "summary": "<h4>UK leaps to sixth in global flood charts as mega-swarm unleashes 31.4 Tbps Yuletide pummeling</h4> <p>Cloudflare says DDoS crews ended 2025 by pushing traffic floods to new extremes, while Britain made an unwelcome leap of 36 places to become the world's sixth-most targeted location.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
       "id": "b9b1c36912ab268da452cd845902b5cf4acd155d",
@@ -1293,7 +1315,7 @@
       "title": "Cloud sovereignty is no longer just a public sector concern",
       "url": "https://go.theregister.com/feed/www.theregister.com/2026/02/05/opennebula_sovereignty_interview/",
       "published": "2026-02-05T11:00:08+00:00",
-      "summary": "<h4>Businesses still chase the cheapest option, but politics and licensing shocks are changing priorities, says OpenNebula Systems</h4> <p><strong>Interview</strong>\u00a0 Sovereignty remains a hot topic in the tech industry, but interpretations of what it actually means \u2013 and how much it matters \u2013 vary widely between organizations and sectors. While public bodies are often driven by regulation and national policy, the private sector tends to take a more pragmatic, cost-focused view.\u2026</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "summary": "<h4>Businesses still chase the cheapest option, but politics and licensing shocks are changing priorities, says OpenNebula</h4> <p><strong>Interview</strong>\u00a0 Sovereignty remains a hot topic in the tech industry, but interpretations of what it actually means \u2013 and how much it matters \u2013 vary widely between organizations and sectors. While public bodies are often driven by regulation and national policy, the private sector tends to take a more pragmatic, cost-focused view.\u2026</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
       "source": "The Register \u2013 Security",
       "region": "Europe",
       "country": "UK",
@@ -1734,28 +1756,6 @@
       "url": "https://go.theregister.com/feed/www.theregister.com/2026/01/27/whatsapp_strict_account_settings_meta_rust/",
       "published": "2026-01-27T22:15:12+00:00",
       "summary": "<h4>Meta also replaces a legacy C++ media-handling security library with Rust</h4> <p>Users of Meta's WhatsApp messenger looking to simplify the process of protecting themselves are in luck, as the company is rolling out a new feature that combines multiple security settings under a single, toggleable option.\u00a0\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "97d85cac359c5eeb4aae84f9beb2ebbce125dc43",
-      "title": "Let them eat sourdough: ShinyHunters claims Panera Bread as stolen credentials victim",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/01/27/shinyhunters_claim_panera_bread/",
-      "published": "2026-01-27T19:49:45+00:00",
-      "summary": "<h4>Plus, the gang says it got in via Microsoft Entra SSO</h4> <p>ShinyHunters says it stole several slices of data from Panera Bread, but that's just the yeast of everyone's problems. The extortionist gang also claims to have stolen data from CarMax and Edmunds, in addition to three other organizations it posted to its blog last week.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "1e128753130e5edd5ea3e3d3855145fc2c5443fd",
-      "title": "China-linked group accused of spying on phones of UK prime ministers' aides \u2013 for years",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/01/27/chinalinked_hackers_accused_of_yearslong/",
-      "published": "2026-01-27T15:50:58+00:00",
-      "summary": "<h4>Reports say Salt Typhoon attackers accessed handsets of senior govt folk</h4> <p>Chinese state-linked hackers are accused of spending years inside the phones of senior Downing Street officials, exposing private communications at the heart of the UK government.\u2026</p>",
       "source": "The Register \u2013 Security",
       "region": "Europe",
       "country": "UK",
