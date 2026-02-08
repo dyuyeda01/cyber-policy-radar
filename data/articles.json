@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-07T12:19:54.316316+00:00",
+  "generated_at": "2026-02-08T01:15:36.672279+00:00",
   "items": [
     {
       "id": "69e23ea2b919dbf067d3b0f2fdb68228f1fba3ca",
@@ -110,6 +110,17 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "143a2375e59817478b090a586d6a964b12ee761e",
+      "title": "German Agencies Warn of Signal Phishing Targeting Politicians, Military, Journalists",
+      "url": "https://thehackernews.com/2026/02/german-agencies-warn-of-signal-phishing.html",
+      "published": "2026-02-07T11:15:00+00:00",
+      "summary": "Germany's Federal Office for the Protection of the Constitution (aka Bundesamt f\u00fcr Verfassungsschutz or BfV) and Federal Office for Information Security (BSI) have issued a joint advisory warning of a malicious cyber campaign undertaken by a likely state-sponsored threat actor that involves carrying out phishing attacks over the Signal messaging app.\n\"The focus is on high-ranking targets in",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZLxiSHzgB4jnGhqSTb5U-LmLyQn1DAEdjL73NAKb8oapBTIPlINZbiOL3pHZNBlOHYI9yuZgxV8aRvGefuo5OzaP8TVtvoHYznKe-5Lr493T9s7hOHGCqNqXhgm-4r_biXNbYjuaRGDTcfNNwqoZNVBkKwfdAud8ropOXgONMa7xizOHOWM0DCpDQaFZ9/s1600/signal.jpg"
     },
     {
       "id": "cf2017d8f307534bc9057a5f97c3f262ecc2ad68",
@@ -649,17 +660,6 @@
       "region": "North America",
       "country": "US",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6GfPr6A1uY8KhmAw_BnWkdf6psUxmcTyTGGRQmw4LwX7cYRCH1CIS_hoATQj0ZLWSWI2brY2fVOsyx5vtncgWgg7D3KFpyIp4cazlOS1ByTGkRPY0ZjHBMelCGtrLsCktO8_bmIa48L8voQKre51yUDBaNY8qO_c-imAcN9Cj3FKLx3KQ12wYFxs0OOGV/s1600/solarwinds.jpg"
-    },
-    {
-      "id": "6bdb5bad7bb773e03f44c292a8fbfd3832616d53",
-      "title": "Google Disrupts IPIDEA \u2014 One of the World\u2019s Largest Residential Proxy Networks",
-      "url": "https://thehackernews.com/2026/01/google-disrupts-ipidea-one-of-worlds.html",
-      "published": "2026-01-29T07:16:00+00:00",
-      "summary": "Google on Wednesday announced that it worked together with other partners to disrupt IPIDEA, which it described as one of the largest residential proxy networks in the world.\nTo that end, the company said it took legal action to take down dozens of domains used to control devices and proxy traffic through them. As of writing, IPIDEA's website (\"www.ipidea.io\") is no longer accessible. It",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEji2m0M2CgLOyvWFLDsxvvFHRC_bP8UZH66OXowPdykfsWnt3WwvYrvdnPnixz7wnn7uB5EIO4svESi1i9Bj-3dRBcHihgQExiog-cv24tLBxJ8HibquEo5yFqKzDDPpIJsVBciHzvZm3N-rszwG9q4rXuibLC69BZcH2iS6oSExUFmPpPjXxy-jRSVB58E/s1600/ipidea.png"
     },
     {
       "id": "88e450bf90a1c876403234432ffc372e475a43ec",
@@ -1212,6 +1212,17 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf650f1c3fb943113/69756c36a578c70307784492/whack-mole-Gabe-Palmer-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
+      "id": "5c6bc86bd52eb820f9eec0b59dc587e435ae1980",
+      "title": "Study confirms experience beats youthful enthusiasm",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/02/07/boomers_vs_zoomers_workplace/",
+      "published": "2026-02-07T12:30:13+00:00",
+      "summary": "<h4>Research shows productivity and judgment peak decades after graduation</h4> <p>A growing body of research continues to show that older workers are generally more productive than younger employees.\u2026</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "cbfb94d2d3b90371942abdb39e6e812705d16ab1",
       "title": "Flickr emails users about data breach, pins it on 3rd party",
       "url": "https://go.theregister.com/feed/www.theregister.com/2026/02/06/flickr_emails_users_about_data_breach/",
@@ -1751,39 +1762,6 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "4686878943861771bd1ca393525c2658b90a5e03",
-      "title": "Paranoid WhatsApp users rejoice: Encrypted app gets one-click privacy toggle",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/01/27/whatsapp_strict_account_settings_meta_rust/",
-      "published": "2026-01-27T22:15:12+00:00",
-      "summary": "<h4>Meta also replaces a legacy C++ media-handling security library with Rust</h4> <p>Users of Meta's WhatsApp messenger looking to simplify the process of protecting themselves are in luck, as the company is rolling out a new feature that combines multiple security settings under a single, toggleable option.\u00a0\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "c731901e452b55cb0b0a132f707a49f78c591faf",
-      "title": "Please Don\u2019t Feed the Scattered Lapsus ShinyHunters",
-      "url": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
-      "published": "2026-02-02T16:15:16+00:00",
-      "summary": "A prolific data ransom gang that calls itself Scattered Lapsus ShinyHunters (SLSH) has a distinctive playbook when it seeks to extort payment from victim firms: Harassing, threatening and even swatting executives and their families, all while notifying journalists and regulators\u2026 <span class=\"read-more\"><a href=\"https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/\">Read More &#187;</a></span>",
-      "source": "Krebs on Security",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "0c3e212c98729d2b8bdc50649bc30fdcc0566978",
-      "title": "Who Operates the Badbox 2.0 Botnet?",
-      "url": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
-      "published": "2026-01-26T16:11:38+00:00",
-      "summary": "The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicating they'd compromised the control panel for Badbox 2.0, a vast China-based botnet powered by malicious software that comes pre-installed on many Android TV streaming boxes. Both the FBI and Google say they are hunting for the people behind Badbox 2.0, and thanks to bragging by the Kimwolf botmasters we may now have a much clearer idea about that.",
-      "source": "Krebs on Security",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
       "id": "ec7d99efc813af9d4d1a7474be57cd27df398db4",
       "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
       "url": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
@@ -1806,12 +1784,12 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "479496e784d1b1bac8f0d4ec7e6ba8338ab2cf58",
-      "title": "Who Benefited from the Aisuru and Kimwolf Botnets?",
-      "url": "https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/",
-      "published": "2026-01-08T23:23:43+00:00",
-      "summary": "Our first story of 2026 revealed how a destructive new botnet called Kimwolf rapidly grew to infect more than two million devices by mass-compromising a vast number of unofficial Android TV streaming boxes. Today, we'll dig through digital clues left behind by the hackers, network operators, and cybercrime services that appear to have benefitted from Kimwolf's spread.",
-      "source": "Krebs on Security",
+      "id": "214f86e576a1b0f862c70580917aa2a840338bd4",
+      "title": "Organizations Urged to Replace Discontinued Edge Devices",
+      "url": "https://www.securityweek.com/organizations-urged-to-replace-discontinued-edge-devices/",
+      "published": "2026-02-07T13:00:00+00:00",
+      "summary": "<p>Edge devices that are no longer supported have been targeted in attacks by state-sponsored hackers, the US says.</p>\n<p>The post <a href=\"https://www.securityweek.com/organizations-urged-to-replace-discontinued-edge-devices/\">Organizations Urged to Replace Discontinued Edge Devices</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
@@ -1910,17 +1888,6 @@
       "url": "https://www.securityweek.com/zscaler-acquires-browser-security-firm-squarex/",
       "published": "2026-02-06T02:48:22+00:00",
       "summary": "<p>Zscaler says the acquisition will allow customers to embed lightweight extensions into any browser, providing increased security and eliminating the need for third-party browsers.\u00a0</p>\n<p>The post <a href=\"https://www.securityweek.com/zscaler-acquires-browser-security-firm-squarex/\">Zscaler Acquires\u00a0Browser Security Firm SquareX\u00a0</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "0d9600905b400ee49b950b462bb2e9b3a7036af5",
-      "title": "Substack Discloses Security Incident After Hacker Leaks Data",
-      "url": "https://www.securityweek.com/substack-discloses-security-incident-after-hacker-leaks-data/",
-      "published": "2026-02-05T15:13:55+00:00",
-      "summary": "<p>The hacker claims to have stolen nearly 700,000 Substack user records, including email addresses and phone numbers.</p>\n<p>The post <a href=\"https://www.securityweek.com/substack-discloses-security-incident-after-hacker-leaks-data/\">Substack Discloses Security Incident After Hacker Leaks Data</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
