@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-08T01:15:36.672279+00:00",
+  "generated_at": "2026-02-08T12:20:44.158679+00:00",
   "items": [
     {
       "id": "69e23ea2b919dbf067d3b0f2fdb68228f1fba3ca",
@@ -110,6 +110,17 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "05efb275cc829d60c8482525bbb7493fc564b513",
+      "title": "OpenClaw Integrates VirusTotal Scanning to Detect Malicious ClawHub Skills",
+      "url": "https://thehackernews.com/2026/02/openclaw-integrates-virustotal-scanning.html",
+      "published": "2026-02-08T07:32:00+00:00",
+      "summary": "OpenClaw (formerly Moltbot and Clawdbot) has announced that it's partnering with Google-owned VirusTotal to scan skills that are being uploaded to ClawHub, its skill marketplace, as part of broader efforts to bolster the security of the agentic ecosystem.\n\"All skills published to ClawHub are now scanned using VirusTotal's threat intelligence, including their new Code Insight capability,\"",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFUWaEYK5yvPD9ZZdP6cMRMXduyDlAE77-447kgI9rd6ASyC1rDEnZKMIvcbYLsEs1vaXIH6lXLOjMF-JktVNvjhfPy1_5YmWcXXoXQagMLUW5uuXy8gFMyxgEK9ZA4ve51Q95p_9gi5EJpq-IISmuSFkEX1hfuK1CNiXS1Bqf_GZbjE8r80ZN_JJkyq_r/s1600/openclaw-virustotal.jpg"
     },
     {
       "id": "143a2375e59817478b090a586d6a964b12ee761e",
@@ -649,17 +660,6 @@
       "region": "North America",
       "country": "US",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWlUKxcIQjw2yXjFrMsuLb5iy1iV4WwF7H7CNMqEn5pIJFJv6HyUatmeyAO8oFXUtqLjCTeXU_Ce-7UacHCLBKVHeedCYgJefEOCj9_EwDCsa17T0U7SUhEpVDs9WKPqcvptuKI1q3luQJCsGuRXM-sBJtV_BtCsiGt8ybUMIRYwbXpZ_8UHvri58xy9g/s1600/anyrun.jpg"
-    },
-    {
-      "id": "aa2428b991cc169f586c67bf240e738ad9a78865",
-      "title": "SolarWinds Fixes Four Critical Web Help Desk Flaws With Unauthenticated RCE and Auth Bypass",
-      "url": "https://thehackernews.com/2026/01/solarwinds-fixes-four-critical-web-help.html",
-      "published": "2026-01-29T09:00:00+00:00",
-      "summary": "SolarWinds has released security updates to address multiple security vulnerabilities impacting SolarWinds Web Help Desk, including four critical vulnerabilities that could result in authentication bypass and remote code execution (RCE).\nThe list of vulnerabilities is as follows -\n\nCVE-2025-40536 (CVSS score: 8.1) - A security control bypass vulnerability that could allow an unauthenticated",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6GfPr6A1uY8KhmAw_BnWkdf6psUxmcTyTGGRQmw4LwX7cYRCH1CIS_hoATQj0ZLWSWI2brY2fVOsyx5vtncgWgg7D3KFpyIp4cazlOS1ByTGkRPY0ZjHBMelCGtrLsCktO8_bmIa48L8voQKre51yUDBaNY8qO_c-imAcN9Cj3FKLx3KQ12wYFxs0OOGV/s1600/solarwinds.jpg"
     },
     {
       "id": "88e450bf90a1c876403234432ffc372e475a43ec",
