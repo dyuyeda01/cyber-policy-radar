@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-02-09T01:01:40.155581+00:00",
+  "generated_at": "2026-02-09T12:36:36.843160+00:00",
   "items": [
+    {
+      "id": "c6afde3d646a02b91e6734b32b71c2e1e1f72e11",
+      "title": "New research: 3 big challenges facing security teams (and how to overcome them)",
+      "url": "https://www.cybersecuritydive.com/spons/new-research-3-big-challenges-facing-security-teams-and-how-to-overcome-t/811185/",
+      "published": "2026-02-09T10:00:00+00:00",
+      "summary": "<p>New research from Tines shows AI adoption is high, but manual workloads and burnout persist.</p>",
+      "source": "Cybersecurity Dive",
+      "region": "North America",
+      "country": "US",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
     {
       "id": "69e23ea2b919dbf067d3b0f2fdb68228f1fba3ca",
       "title": "Ransomware attacks against education sector slow worldwide",
@@ -101,15 +112,48 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "d379763655230cd92317b348e153e0cd3a5ef2c1",
-      "title": "National cybersecurity strategies depend on public-private trust, report warns",
-      "url": "https://www.cybersecuritydive.com/news/national-cybersecurity-strategies-recommendations-ccpl/811212/",
-      "published": "2026-02-03T14:54:01+00:00",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/t73hnhHZdPR-bVzzmMj9iFdDjlEM6z_clBdoqVVCwcI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjM2MTcxNzM0LmpwZw==.webp\" /></div></figure><p>An influential cybersecurity think tank urged governments to consult extensively with a wide variety of business stakeholders before making ambitious plans.</p>",
-      "source": "Cybersecurity Dive",
+      "id": "2109330e1f26c6ecd056e500ba9301855a6b0216",
+      "title": "How Top CISOs Solve Burnout and Speed up MTTR without Extra Hiring",
+      "url": "https://thehackernews.com/2026/02/how-top-cisos-solve-burnout-and-speed.html",
+      "published": "2026-02-09T11:23:00+00:00",
+      "summary": "Why do SOC teams keep burning out and missing SLAs even after spending big on security tools? Routine triage piles up, senior specialists get dragged into basic validation, and MTTR climbs, while stealthy threats still find room to slip through. Top CISOs have realized the solution isn\u2019t hiring more people or stacking yet another tool onto the workflow, but giving their teams faster, clearer",
+      "source": "The Hacker News",
       "region": "North America",
       "country": "US",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEWlaquUArR-GMqukRCHWrs9_HN46zhN8-clTeBqbAGOl5ABkSUp-YEe32I-Da1P0TY8LZ7zbS-k9iYploghqd07vgWNP-JW71E5xH6uOHVFctuRCfRCZ_iC6oWEVdcWPexxoc-WTgl9DNZTKiTcPuAzFJ_ytpDC_u7mNZBaFBE4w4EXhOHcvV5ZTVuKs/s1600/anyrun-soc.jpg"
+    },
+    {
+      "id": "81560f988123c46a8068848a2a68dbcd9452e7e5",
+      "title": "Bloody Wolf Targets Uzbekistan, Russia Using NetSupport RAT in Spear-Phishing Campaign",
+      "url": "https://thehackernews.com/2026/02/bloody-wolf-targets-uzbekistan-russia.html",
+      "published": "2026-02-09T10:58:00+00:00",
+      "summary": "The threat actor known as Bloody Wolf has been linked to a campaign targeting Uzbekistan and Russia to infect systems with a remote access trojan known as NetSupport RAT.\nCybersecurity vendor Kaspersky is tracking the activity under the moniker Stan Ghouls. The threat actor is known to be active since at least 2023, orchestrating spear-phishing attacks against manufacturing, finance, and IT",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiehyphenhyphenizf_EezYiQzf7tUgHJUYqd7k7zumWKSqP1n8K5YoJMRzmHjxJHdnN0GydURXFuwrRJd2qyTQSuH8TWPo_Wfh7SX0_1ljHcMjQGMQrDCtW23OLow6w7rPv4Uemxrd7vnQtGsWBzdUrhnrEtl914RxUcNeqKxVl81xXI9pVOFNaTh6UCLgkKw7QQYqeI/s1600/rat-attack.jpg"
+    },
+    {
+      "id": "831b0212031236612f95a501d20d00128066c92f",
+      "title": "TeamPCP Worm Exploits Cloud Infrastructure to Build Criminal Infrastructure",
+      "url": "https://thehackernews.com/2026/02/teampcp-worm-exploits-cloud.html",
+      "published": "2026-02-09T08:37:00+00:00",
+      "summary": "Cybersecurity researchers have called attention to a \"massive campaign\" that has systematically targeted cloud native environments to set up malicious infrastructure for follow-on exploitation.\nThe activity, observed around December 25, 2025, and described as \"worm-driven,\" leveraged exposed Docker APIs, Kubernetes clusters, Ray dashboards, and Redis servers, along with the recently disclosed",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiW_jUJE_4sQRwRYF1TXG-rmM3C4nC_15zd82rYQuuLdwncMPrT8M2X-45Ap_KPH09DynvlzyzTd62EEy9116zPjR4FAO92QedrPRA6jxz9pgXSlUi_TsryFlxVcApwV89bUUTWmFuFx-nbXDBBt2WPi-RO6_Iaq3II98RcOqL4XaedeBVKoKX4vb3dQr6/s1600/cloud-infra.jpg"
+    },
+    {
+      "id": "ced29837d4a652804b0ac4b4097a2b1dfa4a0ee9",
+      "title": "BeyondTrust Fixes Critical Pre-Auth RCE Vulnerability in Remote Support and PRA",
+      "url": "https://thehackernews.com/2026/02/beyondtrust-fixes-critical-pre-auth-rce.html",
+      "published": "2026-02-09T08:03:00+00:00",
+      "summary": "BeyondTrust has released updates to address a critical security flaw impacting Remote Support (RS) and Privileged Remote Access (PRA) products that, if successfully exploited, could result in remote code execution.\n\"BeyondTrust Remote Support (RS) and certain older versions of Privileged Remote Access (PRA) contain a critical pre-authentication remote code execution vulnerability,\" the company",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoSFjfJhHXUMJ0_vAj8LwmTeAMOkqVJomqws8hEaofSam7jnpED75EtkDhrEkofhEd0o_z-gZngp5Ue2kgvyhX3GrQA3gUp3v2H4OmEvpjYQb93gmQNeSppy5WIH6LJNg97OIEAsMXmelNMrq9VR5sN3ZrCnWwgfum_0MUCW5hHoqPQ2gmVxWFGwdr5l2t/s1600/bt.jpg"
     },
     {
       "id": "05efb275cc829d60c8482525bbb7493fc564b513",
@@ -616,50 +660,6 @@
       "region": "North America",
       "country": "US",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4Rs7Y_u40V21-Pl0vLEibJfbiR_LUST7UWdsOc9zTPLJpEhBLV93qKih14JGk5_eSXBGn52Y4r6kHmGbwMzHcNlHhG7Am4AmcvHu_o6ym059uR8ffyWrCPg88xxTCqjW8-IobxZ4nkQ76bBc6gf05D7M6M49KofRepS8DcmkcoDAcZy7X6g-K7geZPTBw/s1600/ivanti-zero-day.jpg"
-    },
-    {
-      "id": "d1f2d1beb7d326be6f4cabcf03f2e71faba8cc58",
-      "title": "Researchers Find 175,000 Publicly Exposed Ollama AI Servers Across 130 Countries",
-      "url": "https://thehackernews.com/2026/01/researchers-find-175000-publicly.html",
-      "published": "2026-01-29T18:37:00+00:00",
-      "summary": "A new joint investigation by SentinelOne SentinelLABS, and Censys has revealed that the open-source artificial intelligence (AI) deployment has created a vast \"unmanaged, publicly accessible layer of AI compute infrastructure\" that spans 175,000 unique Ollama hosts across 130 countries.\nThese systems, which span both cloud and residential networks across the world, operate outside the",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpmx-gYMpMW-nf6wXdiwU6bhhuySnvXQo3BifYIaLE8Vi7Verinm69xkQ4B2AWSXdkdU6yA0WjLVtNGvxx_QzRyxEDKxbpqil2P3NZzOQrFf_MihjJeRVJ64VrWW9IAW9eaxmay2BeiTCHKIestdHmy3KpDagP53nnYQkV4z2TsKoCa_m-gk7BCTue_CKE/s1600/Ollama.jpg"
-    },
-    {
-      "id": "20b96e182e09f258fce4510a00f8b917a9fc9124",
-      "title": "ThreatsDay Bulletin: New RCEs, Darknet Busts, Kernel Bugs & 25+ More Stories",
-      "url": "https://thehackernews.com/2026/01/threatsday-bulletin-new-rces-darknet.html",
-      "published": "2026-01-29T13:01:00+00:00",
-      "summary": "This week\u2019s updates show how small changes can create real problems. Not loud incidents, but quiet shifts that are easy to miss until they add up. The kind that affects systems people rely on every day.\nMany of the stories point to the same trend: familiar tools being used in unexpected ways. Security controls are being worked on. Trusted platforms turning into weak spots. What looks routine on",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgf9SbFXbZQct1Wv_AQYHmdxLtLQA3WcRYvE1h1O0tOFuTdYd4dt90zYmpbisbBaxpw-W6mTvDjyj1_t5kT4IwXNHd79KUAVhbRipMsb7u97bPjrkN4ATjfy5J-KXAgE502qUoy6fFcAC9ottxydNt5nFPXoM1j979_3uy752gIiMR3DUDKNSaca6_qhnHt/s1600/threatsday.jpg"
-    },
-    {
-      "id": "64622d20179a1dc3eb5c8cd24801d44cd89b1cd1",
-      "title": "Survey of 100+ Energy Systems Reveals Critical OT Cybersecurity Gaps",
-      "url": "https://thehackernews.com/2026/01/survey-of-100-energy-systems-reveals.html",
-      "published": "2026-01-29T11:55:00+00:00",
-      "summary": "A study by OMICRON has revealed widespread cybersecurity gaps in the operational technology (OT) networks of substations, power plants, and control centers worldwide. Drawing on data from more than 100 installations, the analysis highlights recurring technical, organizational, and functional issues that leave critical energy infrastructure vulnerable to cyber threats.\nThe findings are based on",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhndro6YfGYXSFh-wAT7XEfHLAjm5fzAlSj4nIw5XpxVdKfWDNMBz5PsrZaDPUkm_nUv8jTBBEq_-SprE2qSvV3-ennuzMFmLXU6m6v9Y9Tx_6SzEu2DRUinDU_qeTkdK6fvGS4IbkBl7YCsfyWFgrKKDlxZWDTpSLrN3psyCfZ2iNDcZFhqX4dLXuk8os/s1600/2025-hackernews-100-energy-systems-FeaturedImage-728x380.jpg"
-    },
-    {
-      "id": "d0e64f1616cf3cbbeb9c5953672e20f7a73cd5a0",
-      "title": "3 Decisions CISOs Need to Make to Prevent Downtime Risk in 2026",
-      "url": "https://thehackernews.com/2026/01/3-decisions-cisos-need-to-make-to.html",
-      "published": "2026-01-29T10:30:00+00:00",
-      "summary": "Beyond the direct impact of cyberattacks, enterprises suffer from a secondary but potentially even more costly risk: operational downtime, any amount of which translates into very real damage. That\u2019s why for CISOs, it\u2019s key to prioritize decisions that reduce dwell time and protect their company from risk.&nbsp;\nThree strategic steps you can take this year for better results:\n1. Focus on today's",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWlUKxcIQjw2yXjFrMsuLb5iy1iV4WwF7H7CNMqEn5pIJFJv6HyUatmeyAO8oFXUtqLjCTeXU_Ce-7UacHCLBKVHeedCYgJefEOCj9_EwDCsa17T0U7SUhEpVDs9WKPqcvptuKI1q3luQJCsGuRXM-sBJtV_BtCsiGt8ybUMIRYwbXpZ_8UHvri58xy9g/s1600/anyrun.jpg"
     },
     {
       "id": "88e450bf90a1c876403234432ffc372e475a43ec",
@@ -1212,6 +1212,50 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf650f1c3fb943113/69756c36a578c70307784492/whack-mole-Gabe-Palmer-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
+      "id": "8f439a82c540d15d499c9d5155fb45168072f99d",
+      "title": "How the GNU C Compiler became the Clippy of cryptography",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/02/09/compilers_undermine_encryption/",
+      "published": "2026-02-09T12:07:02+00:00",
+      "summary": "<h4>Security devs forced to hide Boolean logic from overeager optimizer</h4> <p><strong>FOSDEM 2026</strong>\u00a0 The creators of security software have encountered an unlikely foe in their attempts to protect us: modern compilers.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "9eb6476c465ab85535bfcb983f3de932da9d9dbb",
+      "title": "Follow the money: Switzerland remains Europe's top destination for tech pay",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/02/09/switzerland_tech_salaries/",
+      "published": "2026-02-09T11:42:13+00:00",
+      "summary": "<h4>Average Swiss salaries dwarf those on offer across the rest of the continent</h4> <p>European techies looking for the biggest payday are far better off in Switzerland than anywhere else, with average salaries eclipsing all other countries on the continent.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "6cb88068209d25b3a8ca19151766f509da06d0b1",
+      "title": "European Commission probes intrusion into staff mobile management backend",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/02/09/european_commission_phone_breach/",
+      "published": "2026-02-09T10:37:47+00:00",
+      "summary": "<h4>Officials explore issue affecting infrastructure after CERT-EU detected suspicious activity</h4> <p>Brussels is digging into a cyber break-in that targeted the European Commission's mobile device management systems, potentially giving intruders a peek inside the official phones carried by EU staff.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "e72fb3440ac56afd0aa253bd1bd04dd85f5af503",
+      "title": "Indian police commissioner wants ID cards for AI agents",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/02/09/asia_tech_news_roundup/",
+      "published": "2026-02-09T04:08:59+00:00",
+      "summary": "<h4>PLUS: China broadens cryptocurrency crackdown; Australian facial recognition privacy revisited; Singapore debuts electric VTOL; and more!</h4> <p><strong>Asia In Brief</strong>\u00a0 The Commissioner of Police in the Indian city of Hyderabad, population 11 million, has called for AI agents to be issued with identity cards \u2013 or at least their digital equivalent.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "c43466b0bc39d089b6fab5f90f105ff6cf5b7ff5",
       "title": "Telcos aren't saying how they fought back against China's Salt Typhoon attacks",
       "url": "https://go.theregister.com/feed/www.theregister.com/2026/02/08/infosec_news_in_brief/",
@@ -1235,10 +1279,10 @@
     },
     {
       "id": "cbfb94d2d3b90371942abdb39e6e812705d16ab1",
-      "title": "Flickr emails users about data breach, pins it on 3rd party",
+      "title": "Flickr emails users about data breach, pins it on third party",
       "url": "https://go.theregister.com/feed/www.theregister.com/2026/02/06/flickr_emails_users_about_data_breach/",
       "published": "2026-02-06T16:56:29+00:00",
-      "summary": "<h4>Attackers may have snapped user locations and activity information, message warns</h4> <p>Legacy image-sharing website Flickr suffered a data breach, according to customers emails seen by <em>The Register</em>.\u2026</p>",
+      "summary": "<h4>Attackers may have snapped user locations and activity information, message warns</h4> <p>Legacy image-sharing website Flickr suffered a data breach, according to customer emails seen by <em>The Register</em>.\u2026</p>",
       "source": "The Register \u2013 Security",
       "region": "Europe",
       "country": "UK",
@@ -1337,7 +1381,7 @@
       "title": "Cloud sovereignty is no longer just a public sector concern",
       "url": "https://go.theregister.com/feed/www.theregister.com/2026/02/05/opennebula_sovereignty_interview/",
       "published": "2026-02-05T11:00:08+00:00",
-      "summary": "<h4>Businesses still chase the cheapest option, but politics and licensing shocks are changing priorities, says OpenNebula</h4> <p><strong>Interview</strong>\u00a0 Sovereignty remains a hot topic in the tech industry, but interpretations of what it actually means \u2013 and how much it matters \u2013 vary widely between organizations and sectors. While public bodies are often driven by regulation and national policy, the private sector tends to take a more pragmatic, cost-focused view.\u2026</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "summary": "<h4>Businesses still chase the cheapest option, but politics and licensing shocks are changing priorities, says OpenNebula Systems</h4> <p><strong>Interview</strong>\u00a0 Sovereignty remains a hot topic in the tech industry, but interpretations of what it actually means \u2013 and how much it matters \u2013 vary widely between organizations and sectors. While public bodies are often driven by regulation and national policy, the private sector tends to take a more pragmatic, cost-focused view.\u2026</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
       "source": "The Register \u2013 Security",
       "region": "Europe",
       "country": "UK",
@@ -1718,50 +1762,6 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "edbbe05a12d47202a762883faf28f4cb9dffda11",
-      "title": "Cyberattack on Poland's power grid could have turned deadly in winter cold",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/01/29/cyberattack_poland_power_grid/",
-      "published": "2026-01-29T12:10:12+00:00",
-      "summary": "<h4>Close call after an apparently deliberate attempt to starve a country of energy at the worst time</h4> <p>Cybersecurity experts involved in the cleanup of the cyberattacks on Poland's power network say the consequences could have been lethal.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "778d840a8f17a3744127a64eedb4de414be56655",
-      "title": "Ransomware crims forced to take off-RAMP as FBI seizes forum",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/01/28/fbi_seizes_ramp_forum/",
-      "published": "2026-01-28T21:26:40+00:00",
-      "summary": "<h4>Cybercrime solved. The end</h4> <p>Ransomware crims have just lost one of their best business platforms. US law enforcement has seized the notorious RAMP cybercrime forum's dark web and clearnet domains.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "0d18b72e7de1ebe7e24b05fcc2d8d2025346564a",
-      "title": "Everybody is WinRAR phishing, dropping RATs as fast as lightning",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/01/28/winrar_bug_under_attack/",
-      "published": "2026-01-28T18:59:38+00:00",
-      "summary": "<h4>Russians, Chinese spies, run-of-the-mill crims \u2026</h4> <p>Come one, come all. Everyone from Russian and Chinese government goons to financially motivated miscreants is exploiting a long-since-patched WinRAR vuln to bring you infostealers and Remote Access Trojans (RATs).\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "f2c88e52d26265a01f3bf7f81492572dc2973085",
-      "title": "Fortinet unearths another critical bug as SSO accounts borked post-patch",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/01/28/fortinet_forticloud_vuln/",
-      "published": "2026-01-28T16:30:10+00:00",
-      "summary": "<h4>More work for admins on the cards as they await a full dump of fixes</h4> <p>Things aren't over yet for Fortinet customers \u2013 the security shop has disclosed yet another critical FortiCloud SSO vulnerability.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
       "id": "c731901e452b55cb0b0a132f707a49f78c591faf",
       "title": "Please Don\u2019t Feed the Scattered Lapsus ShinyHunters",
       "url": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
@@ -1801,6 +1801,39 @@
       "published": "2026-01-14T00:47:38+00:00",
       "summary": "Microsoft today issued patches to plug at least 113 security holes in its various Windows operating systems and supported software. Eight of the vulnerabilities earned Microsoft's most-dire \"critical\" rating, and the company warns that attackers are already exploiting one of the bugs fixed today.",
       "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "90d98529e0ce51c0b37293ecb82e58c8cd02ff95",
+      "title": "SmarterTools Hit by Ransomware via Vulnerability in Its Own Product",
+      "url": "https://www.securityweek.com/smartertools-hit-by-ransomware-via-vulnerability-in-its-own-product/",
+      "published": "2026-02-09T12:02:24+00:00",
+      "summary": "<p>SmarterTools says customers were impacted after hackers compromised a data center used for quality control testing.</p>\n<p>The post <a href=\"https://www.securityweek.com/smartertools-hit-by-ransomware-via-vulnerability-in-its-own-product/\">SmarterTools Hit by Ransomware via Vulnerability in Its Own Product</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "a2c752cc9a77b1eec6289cbb3da7780d1c0a0490",
+      "title": "New Paper and Tool Help Security Teams Move Beyond Blind Reliance on CISA\u2019s KEV Catalog",
+      "url": "https://www.securityweek.com/new-paper-and-tool-help-security-teams-move-beyond-blind-reliance-on-cisas-kev-catalog/",
+      "published": "2026-02-09T09:10:25+00:00",
+      "summary": "<p>The KEV list is useful but largely misunderstood. KEVology explains what it is, and how best to use it.</p>\n<p>The post <a href=\"https://www.securityweek.com/new-paper-and-tool-help-security-teams-move-beyond-blind-reliance-on-cisas-kev-catalog/\">New Paper and Tool Help Security Teams Move Beyond Blind Reliance on CISA&#8217;s KEV Catalog</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "cccaa981b130f1dcdd63a1d7a278279899bcb52b",
+      "title": "European Commission Investigating Cyberattack",
+      "url": "https://www.securityweek.com/european-commission-investigating-cyberattack/",
+      "published": "2026-02-09T08:06:54+00:00",
+      "summary": "<p>The signs of a cyberattack were identified on systems EU's main executive body uses for mobile device management.</p>\n<p>The post <a href=\"https://www.securityweek.com/european-commission-investigating-cyberattack/\">European Commission Investigating Cyberattack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
@@ -1877,39 +1910,6 @@
       "url": "https://www.securityweek.com/5-bills-to-boost-energy-sector-cyber-defenses-clear-house-panel/",
       "published": "2026-02-06T08:19:03+00:00",
       "summary": "<p>The news comes after the Department of Energy conducted its annual Liberty Eclipse cybersecurity exercise.</p>\n<p>The post <a href=\"https://www.securityweek.com/5-bills-to-boost-energy-sector-cyber-defenses-clear-house-panel/\">5 Bills to Boost Energy Sector Cyber Defenses Clear House Panel</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "0f4039a33602df88f50154d5c397376b1d5c6848",
-      "title": "Critical SmarterMail Vulnerability Exploited in Ransomware Attacks",
-      "url": "https://www.securityweek.com/critical-smartermail-vulnerability-exploited-in-ransomware-attacks/",
-      "published": "2026-02-06T07:50:23+00:00",
-      "summary": "<p>The security defect allows unauthenticated attackers to execute arbitrary code remotely via malicious HTTP requests.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-smartermail-vulnerability-exploited-in-ransomware-attacks/\">Critical SmarterMail Vulnerability Exploited in Ransomware Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "1ec9a8ed04e577a2f4c7914a140810f18c144bbf",
-      "title": "Concerns Raised Over CISA\u2019s Silent Ransomware Updates in KEV Catalog",
-      "url": "https://www.securityweek.com/questions-raised-over-cisas-silent-ransomware-updates-in-kev-catalog/",
-      "published": "2026-02-06T05:28:39+00:00",
-      "summary": "<p>CISA updated 59 KEV entries in 2025 to specify that the vulnerabilities have been exploited in ransomware attacks.</p>\n<p>The post <a href=\"https://www.securityweek.com/questions-raised-over-cisas-silent-ransomware-updates-in-kev-catalog/\">Concerns Raised Over CISA&#8217;s Silent Ransomware Updates in KEV Catalog</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "cb4dca704f4a64f99d01ffbc92afa4c67c7e81fc",
-      "title": "Zscaler Acquires\u00a0Browser Security Firm SquareX",
-      "url": "https://www.securityweek.com/zscaler-acquires-browser-security-firm-squarex/",
-      "published": "2026-02-06T02:48:22+00:00",
-      "summary": "<p>Zscaler says the acquisition will allow customers to embed lightweight extensions into any browser, providing increased security and eliminating the need for third-party browsers.\u00a0</p>\n<p>The post <a href=\"https://www.securityweek.com/zscaler-acquires-browser-security-firm-squarex/\">Zscaler Acquires\u00a0Browser Security Firm SquareX\u00a0</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
