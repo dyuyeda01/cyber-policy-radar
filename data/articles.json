@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-13T01:04:10.766377+00:00",
+  "generated_at": "2026-02-13T12:28:39.989448+00:00",
   "items": [
     {
       "id": "3a55d496e51deea42feacd199d00160c6e178adf",
@@ -112,6 +112,39 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "e0d7bac6a08ab6387add3a1be792a327bc92f229",
+      "title": "Malicious Chrome Extensions Caught Stealing Business Data, Emails, and Browsing History",
+      "url": "https://thehackernews.com/2026/02/malicious-chrome-extensions-caught.html",
+      "published": "2026-02-13T11:25:00+00:00",
+      "summary": "Cybersecurity researchers have discovered a malicious Google Chrome extension that's designed to steal data associated with Meta Business Suite and Facebook Business Manager.\nThe extension, named CL Suite by @CLMasters (ID: jkphinfhmfkckkcnifhjiplhfoiefffl), is marketed as a way to scrape Meta Business Suite data, remove verification pop-ups, and generate two-factor authentication (2FA) codes.",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuDcg8kBvyrdu22dNN8lKs3vJ_Nhk_nEuuZtq0Q-EcpvUKlRbXSHVssro3qio1_12lWV-dcFQ_O94jO4KAzh_mbdS0MKJ7REEcNSrPr5hon0iUNDcP91cFAqcNUl3EwPIVqhgOTss5ntc4x1BpfXldEBmCm1BzRNsPQMxqMsqTtNc6jZm4hN0vS3T9K3yj/s1600/chrome-hacks.jpg"
+    },
+    {
+      "id": "d8eb8b251db683860a1b1c0433ea1238c9c3d7ba",
+      "title": "npm\u2019s Update to Harden Their Supply Chain, and Points to Consider",
+      "url": "https://thehackernews.com/2026/02/npms-update-to-harden-their-supply.html",
+      "published": "2026-02-13T10:45:00+00:00",
+      "summary": "In December 2025, in response to the Sha1-Hulud incident, npm completed a major authentication overhaul intended to reduce supply-chain attacks. While the overhaul is a solid step forward, the changes don\u2019t make npm projects immune from supply-chain attacks. npm is still susceptible to malware attacks \u2013 here\u2019s what you need to know for a safer Node community.\nLet\u2019s start with the original",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2f7TicFSKUe4LQJy82mhhepyMplbLHU-VNYpY_gxLvTILbFCviVqGKP4thBHnPvHWaw1EdFBuqDcDePYX1Z76KaB2j0pC8rWGM4eyu8tNLDcy0HChASJSx2zZufWVktAvzIR2yAJGDC0eIpVPV5u5OaAJsYohGS77dRTUcm_q3kl3D-N5hhCJ6XWxz-w/s1600/npm-security.jpg"
+    },
+    {
+      "id": "3f525ddbbfcc5fb737f5b476feb3d9bc1a5e5521",
+      "title": "Researchers Observe In-the-Wild Exploitation of BeyondTrust CVSS 9.9 Vulnerability",
+      "url": "https://thehackernews.com/2026/02/researchers-observe-in-wild.html",
+      "published": "2026-02-13T08:34:00+00:00",
+      "summary": "Threat actors have started to exploit a recently disclosed critical security flaw impacting BeyondTrust Remote Support (RS) and Privileged Remote Access (PRA) products, according to watchTowr.\n\"Overnight we observed first in-the-wild exploitation of BeyondTrust across our global sensors,\" Ryan Dewhurst, head of threat intelligence at watchTowr, said in a post on X. \"Attackers are abusing",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZHJd8VBVRuvpR0hMimwS1UYAG3EGKxE8Hu0P_euvkATyd3AmpT5SHvzwvwsAw6CpYuSfSPevYl9xub_RLkKB7hW8W8LBSG5Q-MmyV0QpOhi6BrqwlFgkQWylECioAlH1mcW5W2ChldLxlgHXVrEWeaaY25jhnAbLWzgeRXVLfhdXMLFlt7jC_fmh6E7Si/s1600/beyond.jpg"
+    },
+    {
       "id": "b9e620c1d14d430dfa5dcb2a74b2e92350dd0b38",
       "title": "Google Reports State-Backed Hackers Using Gemini AI for Recon and Attack Support",
       "url": "https://thehackernews.com/2026/02/google-reports-state-backed-hackers.html",
@@ -171,7 +204,7 @@
       "title": "Apple Fixes Exploited Zero-Day Affecting iOS, macOS, and Other Devices",
       "url": "https://thehackernews.com/2026/02/apple-fixes-exploited-zero-day.html",
       "published": "2026-02-12T05:39:00+00:00",
-      "summary": "Apple on Wednesday released iOS, iPadOS, macOS Tahoe, tvOS, watchOS, and visionOS updates to address a zero-day flaw that it said has been exploited in sophisticated cyber attacks.\nThe vulnerability, tracked as CVE-2026-20700 (CVSS score: N/A), has been described as a memory corruption issue in dyld, Apple's Dynamic Link Editor. Successful exploitation of the vulnerability could allow an",
+      "summary": "Apple on Wednesday released iOS, iPadOS, macOS Tahoe, tvOS, watchOS, and visionOS updates to address a zero-day flaw that it said has been exploited in sophisticated cyber attacks.\nThe vulnerability, tracked as CVE-2026-20700 (CVSS score: 7.8), has been described as a memory corruption issue in dyld, Apple's Dynamic Link Editor. Successful exploitation of the vulnerability could allow an",
       "source": "The Hacker News",
       "region": "North America",
       "country": "US",
@@ -627,39 +660,6 @@
       "region": "North America",
       "country": "US",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitGprkuP7SdfHIWnVVo7pZJ941c_TOVgrrZCPM9BosshMNfva3UbHAZG791-XufHdEc6hGRcFX3Ucak4XRDOgoSa4KCyPHeuxwWKr8y_LNLmo6mOqxgKvLOfbcAVDoACJ9MTSDkq25noRCdjHTBZVtGCulkPK5cjRBsQGf0LQQQkUujppEe6K4i0lq7VZF/s1600/macos-malware.jpg"
-    },
-    {
-      "id": "15d68715c81c45db605a5f35075e0cfcfbaea820",
-      "title": "Eclipse Foundation Mandates Pre-Publish Security Checks for Open VSX Extensions",
-      "url": "https://thehackernews.com/2026/02/eclipse-foundation-mandates-pre-publish.html",
-      "published": "2026-02-04T06:26:00+00:00",
-      "summary": "The Eclipse Foundation, which maintains the Open VSX Registry, has announced plans to enforce security checks before Microsoft Visual Studio Code (VS Code) extensions are published to the open-source repository to combat supply chain threats.\nThe move marks a shift from a reactive to a proactive approach to ensure that malicious extensions don't end up getting published on the Open VSX Registry.",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXHoCQzirCKCGciIltPFi7LbjpANR75gNFmH6Lbsm5FOdl40UHJT4Xd3aWxxSdUe6r7wlqMWKuLSkUWmg11yfF7pnvIcETtkv5S5gtEeYFaHh8hKUoSicCcMvUn8UO9WUTVUDzSpEyXEaS01P6Wza6weGp2iqIbAnQKlN3I3f2_F2bGXSyssfhG2iIE591/s1600/openvsx.jpg"
-    },
-    {
-      "id": "8424421aa62664aa7487ca43c2173a504bb3daab",
-      "title": "CISA Adds Actively Exploited SolarWinds Web Help Desk RCE to KEV Catalog",
-      "url": "https://thehackernews.com/2026/02/cisa-adds-actively-exploited-solarwinds.html",
-      "published": "2026-02-04T05:50:00+00:00",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a critical security flaw impacting SolarWinds Web Help Desk (WHD) to its Known Exploited Vulnerabilities (KEV) catalog, flagging it as actively exploited in attacks.\nThe vulnerability, tracked as CVE-2025-40551 (CVSS score: 9.8), is a untrusted data deserialization vulnerability that could pave the way for remote",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXYyskJSpKQz4MscPjTNveStRrjYgHDTsZffWZld_xrrWTRQzAJC52KvI8uTEhbysHizeZ14HTRrrlbpxTjUUMIMnwPqYBBVu_FgJcIWtw1r-fWL3RHz-pzr-eSX-6bmL3N7ZO30ZCSLoYkzAOWTBrnQd0NXFBHyZWlJ-ib9ghgCNbeXbdiYUYFSu7dss5/s1600/solarwinds-exploit.jpg"
-    },
-    {
-      "id": "7225348003ac49f47171894e4923ea54ab09bece",
-      "title": "Docker Fixes Critical Ask Gordon AI Flaw Allowing Code Execution via Image Metadata",
-      "url": "https://thehackernews.com/2026/02/docker-fixes-critical-ask-gordon-ai.html",
-      "published": "2026-02-03T16:41:00+00:00",
-      "summary": "Cybersecurity researchers have disclosed details of a now-patched security flaw impacting Ask Gordon, an artificial intelligence (AI) assistant built into Docker Desktop and the Docker Command-Line Interface (CLI), that could be exploited to execute code and exfiltrate sensitive data.\nThe critical vulnerability has been codenamed DockerDash by cybersecurity company Noma Labs. It was addressed by",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEjMkaXhS9INevCSOPI_fOpweXt3g4TvjWQWZiUuxYDziaTNIsIk5vg-FCGf2sVKw6xzckOoHmfEODI5gJR_PzcUDayWZTEit09jkkb5QVxZNWtTg8ULumP2aiJc0ae6Km_eKzQwaZzp1EFrVcDm7PND2VjtV7VH7PyA3r5qwlReoDAoH38LVHcX9qjH3G/s1600/gordon.jpg"
     },
     {
       "id": "5f868cc0a6065f285515fb01fb38ec775d2e0349",
@@ -1212,6 +1212,28 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2da75d92a779fe95/697cfe6249b2f57fe9d81054/crabclaw-AfriPics.com-alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
+      "id": "44f9f41b20f48f51049cfc2940e9eb6d98557c3e",
+      "title": "Top Dutch telco Odido admits 6.2M customers caught in contact system caper",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/02/13/odido_breach/",
+      "published": "2026-02-13T11:45:13+00:00",
+      "summary": "<h4>Names, addresses, bank account numbers accessed \u2013 but biz insists passwords and call data untouched</h4> <p>The Netherlands' largest mobile network operator (MNO) has admitted that a breach of its customer contact system may have affected around 6.2 million people.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "234c89e34638e9b33439760366ce0fbe35e35db6",
+      "title": "Enforcing piracy policy earned helpdesk worker death threats",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/02/13/on_call/",
+      "published": "2026-02-13T07:27:12+00:00",
+      "summary": "<h4>Years later, he read about his antagonist doing time for murder</h4> <p><strong>On Call</strong>\u00a0 Welcome to another installment of On Call, <i>The Register's</i> weekly reader-contributed column that tells your tech support tales.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "e5a3c61831124556df6a650378b456e93eccb973",
       "title": "30+ Chrome extensions disguised as AI chatbots steal users' API keys, emails, other sensitive data",
       "url": "https://go.theregister.com/feed/www.theregister.com/2026/02/12/30_chrome_extensions_ai/",
@@ -1740,78 +1762,67 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "3b65a581c9d271fa577ebd77c57d5d532ecdbedc",
-      "title": "X marks the raid: French cops swoop on Musk's Paris ops",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/02/03/french_police_raid_x/",
-      "published": "2026-02-03T13:09:08+00:00",
-      "summary": "<h4>Algorithmic bias probe continues, CEO and former boss summoned to defend the platform's corner</h4> <p>French police raided Elon Musk's X offices in Paris this morning as part of a criminal investigation into alleged algorithmic manipulation by foreign powers.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "777031844e65ca396e25405f446e9f0be9b41251",
-      "title": "Microsoft finally sends TLS 1.0 and 1.1 to the cloud retirement home",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/02/03/microsoft_tls_deprecations/",
-      "published": "2026-02-03T12:59:03+00:00",
-      "summary": "<h4>Azure Storage now requires version 1.2 or newer for encrypted connections</h4> <p>Today is the day Azure Storage stops supporting versions 1.0 and 1.1 of Transport Layer Security (TLS). TLS 1.2 is the new minimum.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "f255502ad6b911aa867ec206053b9a8fad07dad5",
-      "title": "Kimwolf Botnet Swamps Anonymity Network I2P",
-      "url": "https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/",
-      "published": "2026-02-11T16:08:11+00:00",
-      "summary": "For the past week, the massive \"Internet of Things\" (IoT) botnet known as Kimwolf has been disrupting the The Invisible Internet Project (I2P), a decentralized, encrypted communications network designed to anonymize and secure online communications. I2P users started reporting disruptions in the network around the same time the Kimwolf botmasters began relying on it to evade takedown attempts against the botnet's control servers.",
-      "source": "Krebs on Security",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "28f8ea3e37243ff045b170059c84931d294ee1c9",
-      "title": "Patch Tuesday, February 2026 Edition",
-      "url": "https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/",
-      "published": "2026-02-10T21:49:53+00:00",
-      "summary": "Microsoft today released updates to fix more than 50 security holes in its Windows operating systems and other software, including patches for a whopping six \"zero-day\" vulnerabilities that attackers are already exploiting in the wild.",
-      "source": "Krebs on Security",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "c731901e452b55cb0b0a132f707a49f78c591faf",
-      "title": "Please Don\u2019t Feed the Scattered Lapsus ShinyHunters",
-      "url": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
-      "published": "2026-02-02T16:15:16+00:00",
-      "summary": "A prolific data ransom gang that calls itself Scattered Lapsus ShinyHunters (SLSH) has a distinctive playbook when it seeks to extort payment from victim firms: Harassing, threatening and even swatting executives and their families, all while notifying journalists and regulators\u2026 <span class=\"read-more\"><a href=\"https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/\">Read More &#187;</a></span>",
-      "source": "Krebs on Security",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "0c3e212c98729d2b8bdc50649bc30fdcc0566978",
-      "title": "Who Operates the Badbox 2.0 Botnet?",
-      "url": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
-      "published": "2026-01-26T16:11:38+00:00",
-      "summary": "The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicating they'd compromised the control panel for Badbox 2.0, a vast China-based botnet powered by malicious software that comes pre-installed on many Android TV streaming boxes. Both the FBI and Google say they are hunting for the people behind Badbox 2.0, and thanks to bragging by the Kimwolf botmasters we may now have a much clearer idea about that.",
-      "source": "Krebs on Security",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
       "id": "ec7d99efc813af9d4d1a7474be57cd27df398db4",
       "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
       "url": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
       "published": "2026-01-20T18:19:13+00:00",
       "summary": "A new Internet-of-Things botnet called Kimwolf has spread to more than 2 million devices, forcing infected systems to participate in massive distributed denial-of-service (DDoS) attacks and to relay other malicious and abusive Internet traffic. Kimwolf's ability to scan the local networks of compromised systems for other IoT devices to infect makes it a sobering threat to organizations, and new research reveals Kimwolf is surprisingly prevalent in government and corporate networks.",
       "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "fbcdd6a8d259326e5df8127ee23c9e50d1659a43",
+      "title": "Dutch Carrier Odido Discloses Data Breach Impacting 6 Million",
+      "url": "https://www.securityweek.com/dutch-carrier-odido-discloses-data-breach-impacting-6-million/",
+      "published": "2026-02-13T12:02:20+00:00",
+      "summary": "<p>Hackers stole personal information such as names, addresses, and phone numbers from a customer contact system.</p>\n<p>The post <a href=\"https://www.securityweek.com/dutch-carrier-odido-discloses-data-breach-impacting-6-million/\">Dutch Carrier Odido Discloses Data Breach Impacting 6 Million</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "286623b1bc10341297b9c6cbe7cccd6dc24e0a20",
+      "title": "BeyondTrust Vulnerability Targeted by Hackers Within 24 Hours of PoC Release",
+      "url": "https://www.securityweek.com/beyondtrust-vulnerability-targeted-by-hackers-within-24-hours-of-poc-release/",
+      "published": "2026-02-13T11:01:15+00:00",
+      "summary": "<p>Exploitation attempts target CVE-2026-1731, a critical unauthenticated remote code execution flaw in BeyondTrust Remote Support.</p>\n<p>The post <a href=\"https://www.securityweek.com/beyondtrust-vulnerability-targeted-by-hackers-within-24-hours-of-poc-release/\">BeyondTrust Vulnerability Targeted by Hackers Within 24 Hours of PoC Release</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "2176c832175772ec97e80365bd01548e97d18ecb",
+      "title": "CISA Warns of Exploited SolarWinds, Notepad++, Microsoft Vulnerabilities",
+      "url": "https://www.securityweek.com/cisa-warns-of-exploited-solarwinds-notepad-microsoft-vulnerabilities/",
+      "published": "2026-02-13T10:36:04+00:00",
+      "summary": "<p>Disclosed at the end of January, the SolarWinds vulnerability was likely exploited as a zero-day since December 2025.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisa-warns-of-exploited-solarwinds-notepad-microsoft-vulnerabilities/\">CISA Warns of Exploited SolarWinds, Notepad++, Microsoft Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "54fa85f35cc17420204e3da172acf0b45e0b4f4a",
+      "title": "Chrome 145 Patches 11 Vulnerabilities",
+      "url": "https://www.securityweek.com/chrome-145-patches-11-vulnerabilities/",
+      "published": "2026-02-13T08:18:22+00:00",
+      "summary": "<p>Three of the security defects are high-severity flaws, two of which were found and reported by Google.</p>\n<p>The post <a href=\"https://www.securityweek.com/chrome-145-patches-11-vulnerabilities/\">Chrome 145 Patches 11 Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "df1fe5e6e50bd782044557eabbd81d8c88f3fb06",
+      "title": "China Revives Tianfu Cup Hacking Contest Under Increased Secrecy",
+      "url": "https://www.securityweek.com/china-revives-tianfu-cup-hacking-contest-under-increased-secrecy/",
+      "published": "2026-02-13T06:49:26+00:00",
+      "summary": "<p>Rewards for exploits are reportedly much smaller than in the contest\u2019s glory days.</p>\n<p>The post <a href=\"https://www.securityweek.com/china-revives-tianfu-cup-hacking-contest-under-increased-secrecy/\">China Revives Tianfu Cup Hacking Contest Under Increased Secrecy</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
@@ -1866,61 +1877,6 @@
       "url": "https://www.securityweek.com/nucleus-raises-20-million-for-exposure-management/",
       "published": "2026-02-12T09:09:02+00:00",
       "summary": "<p>The company will use the investment to scale operations and deepen intelligence and automation.</p>\n<p>The post <a href=\"https://www.securityweek.com/nucleus-raises-20-million-for-exposure-management/\">Nucleus Raises $20 Million for Exposure Management</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "fddb0c3d46607d2dfc2bca2dc52373ca0a8d3942",
-      "title": "Apple Patches iOS Zero-Day Exploited in \u2018Extremely Sophisticated Attack\u2019",
-      "url": "https://www.securityweek.com/apple-patches-ios-zero-day-exploited-in-extremely-sophisticated-attack/",
-      "published": "2026-02-12T07:48:35+00:00",
-      "summary": "<p>Impacting the \u2018dyld\u2019 system component, the memory corruption issue can be exploited for arbitrary code execution.</p>\n<p>The post <a href=\"https://www.securityweek.com/apple-patches-ios-zero-day-exploited-in-extremely-sophisticated-attack/\">Apple Patches iOS Zero-Day Exploited in &#8216;Extremely Sophisticated Attack&#8217;</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "5c35d6033c8e9944a8c7520b39be7870f794ef11",
-      "title": "Nevada Unveils New Statewide Data Classification Policy Months After Cyberattack",
-      "url": "https://www.securityweek.com/nevada-unveils-new-statewide-data-classification-policy-months-after-cyberattack/",
-      "published": "2026-02-11T19:50:13+00:00",
-      "summary": "<p>Officials said data will now be classified as one of four categories: \u201cpublic,\u201d \u201csensitive,\u201d \u201cconfidential\u201d or \u201crestricted.\u201d </p>\n<p>The post <a href=\"https://www.securityweek.com/nevada-unveils-new-statewide-data-classification-policy-months-after-cyberattack/\">Nevada Unveils New Statewide Data Classification Policy Months After Cyberattack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "2caa2901f8c9bb14c731cdad14a7e5ce5f7fa5d0",
-      "title": "Webinar Today: Identity Under Attack \u2013 Strengthen Your Identity Defenses",
-      "url": "https://www.securityweek.com/webinar-today-identity-under-attack-strengthen-your-identity-defenses/",
-      "published": "2026-02-11T15:05:53+00:00",
-      "summary": "<p>Gain practical insights on balancing security, user experience, and operational efficiency while staying ahead of increasingly sophisticated threats.</p>\n<p>The post <a href=\"https://www.securityweek.com/webinar-today-identity-under-attack-strengthen-your-identity-defenses/\">Webinar Today: Identity Under Attack &#8211; Strengthen Your Identity Defenses</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "23a522301a698810762c41c2af9fef3a9a593a8a",
-      "title": "GitGuardian Raises $50 Million for Secrets and Non-Human Identity Security",
-      "url": "https://www.securityweek.com/gitguardian-raises-50-million-for-secrets-and-non-human-identity-security/",
-      "published": "2026-02-11T14:11:38+00:00",
-      "summary": "<p>The secrets security company has raised more than $100 million since its creation in 2017.</p>\n<p>The post <a href=\"https://www.securityweek.com/gitguardian-raises-50-million-for-secrets-and-non-human-identity-security/\">GitGuardian Raises $50 Million for Secrets and Non-Human Identity Security</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "46d2671f1ebca8b173b0c3ba4511f6adac7c1511",
-      "title": "Conduent Breach Hits Volvo Group: Nearly 17,000 Employees\u2019 Data Exposed",
-      "url": "https://www.securityweek.com/conduent-breach-hits-volvo-group-nearly-17000-employees-data-exposed/",
-      "published": "2026-02-11T13:41:10+00:00",
-      "summary": "<p>The Conduent data breach affects at least 25 million individuals, up from 10 million estimated a few months ago.\u00a0</p>\n<p>The post <a href=\"https://www.securityweek.com/conduent-breach-hits-volvo-group-nearly-17000-employees-data-exposed/\">Conduent Breach Hits Volvo Group: Nearly 17,000 Employees&#8217; Data Exposed</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
