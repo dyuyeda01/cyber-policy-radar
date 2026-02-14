@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-14T00:57:46.774782+00:00",
+  "generated_at": "2026-02-14T12:19:31.993386+00:00",
   "items": [
     {
       "id": "7527b9073026a6e3d20cd8115c5e1f948d656a0e",
@@ -116,7 +116,7 @@
       "title": "Google Ties Suspected Russian Actor to CANFAIL Malware Attacks on Ukrainian Orgs",
       "url": "https://thehackernews.com/2026/02/google-ties-suspected-russian-actor-to.html",
       "published": "2026-02-13T17:27:00+00:00",
-      "summary": "A previously undocumented threat actor has been attributed to attacks targeting Ukrainian organizations with malware known as CANFAIL.\nGoogle Threat Intelligence Group (GTIG) described the hack group as possibly affiliated with Russian intelligence services. The threat actor is assessed to have targeted defense, military, government, and energy organizations within the Ukrainian regional and",
+      "summary": "A previously undocumented threat actor has been attributed to attacks targeting Ukrainian organizations with malware known as CANFAIL.\nGoogle Threat Intelligence Group (GTIG) described the hacking group as possibly affiliated with Russian intelligence services. The threat actor is assessed to have targeted defense, military, government, and energy organizations within the Ukrainian regional and",
       "source": "The Hacker News",
       "region": "North America",
       "country": "US",
@@ -1762,12 +1762,12 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "ec7d99efc813af9d4d1a7474be57cd27df398db4",
-      "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
-      "url": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
-      "published": "2026-01-20T18:19:13+00:00",
-      "summary": "A new Internet-of-Things botnet called Kimwolf has spread to more than 2 million devices, forcing infected systems to participate in massive distributed denial-of-service (DDoS) attacks and to relay other malicious and abusive Internet traffic. Kimwolf's ability to scan the local networks of compromised systems for other IoT devices to infect makes it a sobering threat to organizations, and new research reveals Kimwolf is surprisingly prevalent in government and corporate networks.",
-      "source": "Krebs on Security",
+      "id": "c595d25737dea176be629646c08d1a6ab787daf8",
+      "title": "Over 300 Malicious Chrome Extensions Caught Leaking or Stealing User Data",
+      "url": "https://www.securityweek.com/over-300-malicious-chrome-extensions-caught-leaking-or-stealing-user-data/",
+      "published": "2026-02-14T12:00:00+00:00",
+      "summary": "<p>With more than 37 million combined downloads, the extensions expose users to tracking and personal information theft.</p>\n<p>The post <a href=\"https://www.securityweek.com/over-300-malicious-chrome-extensions-caught-leaking-or-stealing-user-data/\">Over 300 Malicious Chrome Extensions Caught Leaking or Stealing User Data</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
@@ -1866,17 +1866,6 @@
       "url": "https://www.securityweek.com/apollomd-data-breach-impacts-626000-individuals/",
       "published": "2026-02-12T12:23:33+00:00",
       "summary": "<p>The company says hackers stole the personal information of patients of affiliated physicians and practices.</p>\n<p>The post <a href=\"https://www.securityweek.com/apollomd-data-breach-impacts-626000-individuals/\">ApolloMD Data Breach Impacts 626,000 Individuals</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "5d12323bf8dcdeefeef2fc461a21ee230de7c2fd",
-      "title": "Microsoft to Enable \u2018Windows Baseline Security\u2019 With New Runtime Integrity Safeguards",
-      "url": "https://www.securityweek.com/microsoft-to-enable-windows-baseline-security-with-new-runtime-integrity-safeguards/",
-      "published": "2026-02-12T11:27:30+00:00",
-      "summary": "<p>Windows will have runtime safeguards enabled by default, ensuring that only properly signed software runs.</p>\n<p>The post <a href=\"https://www.securityweek.com/microsoft-to-enable-windows-baseline-security-with-new-runtime-integrity-safeguards/\">Microsoft to Enable &#8216;Windows Baseline Security&#8217; With New Runtime Integrity Safeguards</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
