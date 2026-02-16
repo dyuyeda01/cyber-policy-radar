@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-16T01:01:06.131250+00:00",
+  "generated_at": "2026-02-16T12:31:19.802824+00:00",
   "items": [
     {
       "id": "7527b9073026a6e3d20cd8115c5e1f948d656a0e",
@@ -110,6 +110,28 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "6dd814f498853ae4950de29c0a0f4c48cddaebb6",
+      "title": "New ZeroDayRAT Mobile Spyware Enables Real-Time Surveillance and Data Theft",
+      "url": "https://thehackernews.com/2026/02/new-zerodayrat-mobile-spyware-enables.html",
+      "published": "2026-02-16T10:24:00+00:00",
+      "summary": "Cybersecurity researchers have disclosed details of a new mobile spyware platform dubbed ZeroDayRAT that's being advertised on Telegram as a way to grab sensitive data and facilitate real-time surveillance on Android and iOS devices.\n\"The developer runs dedicated channels for sales, customer support, and regular updates, giving buyers a single point of access to a fully operational spyware",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUKaEDCa0YvJa9oAIavVh9Rz9NN1Cj0XVy8fKroTXMBQp7rYGL14oiZ14iCTMk0ToBg1wWx-iTClSpoZ_wg4hSAgPvFyatlGddSFgnaqdREUK24NW6xdnVgajR703vH_UpbjnLC4_NdFy1RC4pETcSTaxekLpAXNfz0n8ME7s9nyIco15DjjTiZwm7Tkhs/s1600/android-spyware.jpg"
+    },
+    {
+      "id": "403059833ecb2b0883401bae46e267b7306f7392",
+      "title": "New Chrome Zero-Day (CVE-2026-2441) Under Active Attack \u2014 Patch Released",
+      "url": "https://thehackernews.com/2026/02/new-chrome-zero-day-cve-2026-2441-under.html",
+      "published": "2026-02-16T06:38:00+00:00",
+      "summary": "Google on Friday released security updates for its Chrome browser to address a security flaw that it said has been exploited in the wild.\nThe high-severity vulnerability, tracked as CVE-2026-2441 (CVSS score: 8.8), has been described as a use-after-free bug in CSS. Security researcher Shaheen Fazim has been credited with discovering and reporting the shortcoming on February 11, 2026.\n\"Use after",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFT4HoaSQbeCeLfXBXoGeq1zFeqdug4-I0sb9l4cbhjD9-84AWZx3KdM0pprDWqB9U673WmwexIudqWWrT4Fg44evASMxLYfTdwK43jwJyaL667fZDdQBB2vsFWXqE2XH8pNLp1TzgWhPxsqm9FuNrpClWdtGZ81t1gzbmcTJXTmFYsK8tcOG84mqzOKgr/s1600/chrome-0day.jpg"
     },
     {
       "id": "f7b7b1f1823835e6c3706f99122c288969798afa",
@@ -638,28 +660,6 @@
       "region": "North America",
       "country": "US",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1rduNeKuuHUpRierQx1jig2SMH0dhcoENNLniZavZ25JgD68fkxRwp3s4H42sJrL7OXa4r0QublDt9VQ2mjh1uIBuQsvPi4iHtrY2JHw4res_AZQc3pf-AQ610FvG6o_TcXxDliH5JlNJbaVN0AXj3De60H669V9fTQIyqNRNHHMgSfwbjZe8xt3cPhIy/s1600/nginx-hacked.jpg"
-    },
-    {
-      "id": "8cdfe7fbf9d22474b2820ee364ec6e8073a441f7",
-      "title": "Microsoft Develops Scanner to Detect Backdoors in Open-Weight Large Language Models",
-      "url": "https://thehackernews.com/2026/02/microsoft-develops-scanner-to-detect.html",
-      "published": "2026-02-04T17:52:00+00:00",
-      "summary": "Microsoft on Wednesday said it built a lightweight scanner that it said can detect backdoors in open-weight large language models (LLMs) and improve the overall trust in artificial intelligence (AI) systems.\nThe tech giant's AI Security team said the scanner leverages three observable signals that can be used to reliably flag the presence of backdoors while maintaining a low false positive",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBZPWiqEqWIj0fKQtxyusGomOmOzx4xkp4zh-TUGEtbgZP0yDEl91QHC-tP-8fiufd0Nue-dUYt1ajpkSkJZfV9_7M03gegp2LZaiIAyDJ1B03MCQVSn77Q8zH8x7UVq3Lir0uMWEvB7rzMEZ5jz1w3rfwTwM59h-_paVKuEdozFOAsjPb7e6aND1KapHV/s1600/llm-scanner.jpg"
-    },
-    {
-      "id": "d1c3cd8032335779959a2f3ebf803657f79310d0",
-      "title": "DEAD#VAX Malware Campaign Deploys AsyncRAT via IPFS-Hosted VHD Phishing Files",
-      "url": "https://thehackernews.com/2026/02/deadvax-malware-campaign-deploys.html",
-      "published": "2026-02-04T17:24:00+00:00",
-      "summary": "Threat hunters have disclosed details of a new, stealthy malware campaign dubbed DEAD#VAX that employs a mix of \"disciplined tradecraft and clever abuse of legitimate system features\" to bypass traditional detection mechanisms and deploy a remote access trojan (RAT) known as AsyncRAT.\n\"The attack leverages IPFS-hosted VHD files, extreme script obfuscation, runtime decryption, and in-memory",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhq4HVk4ciPlJyef53_1ZqrcfFGmEY0t3LucRl-DSVWgMuVfBt7fc8LULklQ4Bc-8Tk6Wc9tGbL46vMwvb1CAsBNv3I5ZevSrFE67JGzn9v6VocRSrTscsmesuhc-1cS_ZlUsanT1x92ul38nd29xGW7HnJnlb6WgzzTO-kE5YSn3sLu5U6Lfi1Ra7zEaPd/s1600/windows-malware.jpg"
     },
     {
       "id": "4b7c437e4a4c245ecc10b631d2de351193b98f41",
@@ -1212,6 +1212,17 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt95ade4301e0baed1/697e3b674c92fabc22015c8e/AI-ML-Ops-BluePlanetStudio-adobe.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
+      "id": "eb30337830e1185ac49dfbb21b18f196a9e8c321",
+      "title": "US appears open to reversing some China tech bans",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/02/16/asia_tech_news_roundup/",
+      "published": "2026-02-16T04:35:08+00:00",
+      "summary": "<h4>PLUS: India demands two-hour deepfake takedowns; Singapore embraces AI; Japanese robot wolf gets cuddly; And more</h4> <p><strong>Asia In Brief</strong>\u00a0 The United States may be about to change its policies regarding Chinese technology companies.\u2026</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "73821f4ce24c9572b1b0651675403ea19aa4b7ee",
       "title": "Infosec exec sold eight zero-day exploit kits to Russia, says DoJ",
       "url": "https://go.theregister.com/feed/www.theregister.com/2026/02/15/exl3harris_exec_sold_8_zeroday/",
@@ -1751,14 +1762,47 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "2b3c900626eb0c3e6378837e91759379dec0b5ac",
-      "title": "AI agents can't yet pull off fully autonomous cyberattacks \u2013 but they are already very helpful to crims",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/02/03/autonomous_cyberattacks_not_real_yet/",
-      "published": "2026-02-03T23:57:55+00:00",
-      "summary": "<h4>Don't relax: This is a 'when, not if' scenario</h4> <p>AI agents and other systems can't yet conduct cyberattacks fully on their own \u2013 but they can help criminals in many stages of the attack chain, according to the International AI Safety report.\u2026</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
+      "id": "f255502ad6b911aa867ec206053b9a8fad07dad5",
+      "title": "Kimwolf Botnet Swamps Anonymity Network I2P",
+      "url": "https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/",
+      "published": "2026-02-11T16:08:11+00:00",
+      "summary": "For the past week, the massive \"Internet of Things\" (IoT) botnet known as Kimwolf has been disrupting the The Invisible Internet Project (I2P), a decentralized, encrypted communications network designed to anonymize and secure online communications. I2P users started reporting disruptions in the network around the same time the Kimwolf botmasters began relying on it to evade takedown attempts against the botnet's control servers.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "28f8ea3e37243ff045b170059c84931d294ee1c9",
+      "title": "Patch Tuesday, February 2026 Edition",
+      "url": "https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/",
+      "published": "2026-02-10T21:49:53+00:00",
+      "summary": "Microsoft today released updates to fix more than 50 security holes in its Windows operating systems and other software, including patches for a whopping six \"zero-day\" vulnerabilities that attackers are already exploiting in the wild.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "c731901e452b55cb0b0a132f707a49f78c591faf",
+      "title": "Please Don\u2019t Feed the Scattered Lapsus ShinyHunters",
+      "url": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
+      "published": "2026-02-02T16:15:16+00:00",
+      "summary": "A prolific data ransom gang that calls itself Scattered Lapsus ShinyHunters (SLSH) has a distinctive playbook when it seeks to extort payment from victim firms: Harassing, threatening and even swatting executives and their families, all while notifying journalists and regulators\u2026 <span class=\"read-more\"><a href=\"https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/\">Read More &#187;</a></span>",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "0c3e212c98729d2b8bdc50649bc30fdcc0566978",
+      "title": "Who Operates the Badbox 2.0 Botnet?",
+      "url": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
+      "published": "2026-01-26T16:11:38+00:00",
+      "summary": "The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicating they'd compromised the control panel for Badbox 2.0, a vast China-based botnet powered by malicious software that comes pre-installed on many Android TV streaming boxes. Both the FBI and Google say they are hunting for the people behind Badbox 2.0, and thanks to bragging by the Kimwolf botmasters we may now have a much clearer idea about that.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
@@ -1768,6 +1812,39 @@
       "published": "2026-01-20T18:19:13+00:00",
       "summary": "A new Internet-of-Things botnet called Kimwolf has spread to more than 2 million devices, forcing infected systems to participate in massive distributed denial-of-service (DDoS) attacks and to relay other malicious and abusive Internet traffic. Kimwolf's ability to scan the local networks of compromised systems for other IoT devices to infect makes it a sobering threat to organizations, and new research reveals Kimwolf is surprisingly prevalent in government and corporate networks.",
       "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "83bece2312fd9b18a9c076d683f77a0458c8e1a1",
+      "title": "Microsoft Warns of ClickFix Attack Abusing DNS Lookups",
+      "url": "https://www.securityweek.com/microsoft-warns-of-clickfix-attack-abusing-dns-lookups/",
+      "published": "2026-02-16T11:56:12+00:00",
+      "summary": "<p>Attackers are using DNS requests to deliver a RAT named ModeloRAT to targeted users.</p>\n<p>The post <a href=\"https://www.securityweek.com/microsoft-warns-of-clickfix-attack-abusing-dns-lookups/\">Microsoft Warns of ClickFix Attack Abusing DNS Lookups</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "d21ec7450e73aa731e3f9b586c6ff9acc09a3ed0",
+      "title": "Amazon Scraps Partnership With Surveillance Company After Super Bowl Ad Backlash",
+      "url": "https://www.securityweek.com/amazon-scraps-partnership-with-surveillance-company-after-super-bowl-ad-backlash/",
+      "published": "2026-02-16T11:40:34+00:00",
+      "summary": "<p>Amazon\u2019s smart doorbell maker Ring has terminated a partnership with police surveillance tech company Flock Safety.</p>\n<p>The post <a href=\"https://www.securityweek.com/amazon-scraps-partnership-with-surveillance-company-after-super-bowl-ad-backlash/\">Amazon Scraps Partnership With Surveillance Company After Super Bowl Ad Backlash</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "f5d7cc2bd1db7e0a5b5fa05e457338886acfc0db",
+      "title": "Google Patches First Actively Exploited Chrome Zero-Day of 2026",
+      "url": "https://www.securityweek.com/google-patches-first-actively-exploited-chrome-zero-day-of-2026/",
+      "published": "2026-02-16T07:54:15+00:00",
+      "summary": "<p>A Chrome 145 update fixes CVE-2026-2441, a vulnerability that can likely be exploited for arbitrary code execution.</p>\n<p>The post <a href=\"https://www.securityweek.com/google-patches-first-actively-exploited-chrome-zero-day-of-2026/\">Google Patches First Actively Exploited Chrome Zero-Day of 2026</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
@@ -1844,39 +1921,6 @@
       "url": "https://www.securityweek.com/chrome-145-patches-11-vulnerabilities/",
       "published": "2026-02-13T08:18:22+00:00",
       "summary": "<p>Three of the security defects are high-severity flaws, two of which were found and reported by Google.</p>\n<p>The post <a href=\"https://www.securityweek.com/chrome-145-patches-11-vulnerabilities/\">Chrome 145 Patches 11 Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "df1fe5e6e50bd782044557eabbd81d8c88f3fb06",
-      "title": "China Revives Tianfu Cup Hacking Contest Under Increased Secrecy",
-      "url": "https://www.securityweek.com/china-revives-tianfu-cup-hacking-contest-under-increased-secrecy/",
-      "published": "2026-02-13T06:49:26+00:00",
-      "summary": "<p>Rewards for exploits are reportedly much smaller than in the contest\u2019s glory days.</p>\n<p>The post <a href=\"https://www.securityweek.com/china-revives-tianfu-cup-hacking-contest-under-increased-secrecy/\">China Revives Tianfu Cup Hacking Contest Under Increased Secrecy</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "fc58a7d36744f07541cdbe6d03b5dd0ad9609ff0",
-      "title": "How to Eliminate the Technical Debt of Insecure AI-Assisted Software Development",
-      "url": "https://www.securityweek.com/how-to-eliminate-the-technical-debt-of-insecure-ai-assisted-software-development/",
-      "published": "2026-02-12T16:15:00+00:00",
-      "summary": "<p>Developers must view AI as a collaborator to be closely monitored, rather than an autonomous entity to be unleashed. Without such a mindset, crippling tech debt is inevitable.</p>\n<p>The post <a href=\"https://www.securityweek.com/how-to-eliminate-the-technical-debt-of-insecure-ai-assisted-software-development/\">How to Eliminate the Technical Debt of Insecure AI-Assisted Software Development</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "9908b44705b365137e45e57ecb7247f02b4f4a77",
-      "title": "ApolloMD Data Breach Impacts 626,000 Individuals",
-      "url": "https://www.securityweek.com/apollomd-data-breach-impacts-626000-individuals/",
-      "published": "2026-02-12T12:23:33+00:00",
-      "summary": "<p>The company says hackers stole the personal information of patients of affiliated physicians and practices.</p>\n<p>The post <a href=\"https://www.securityweek.com/apollomd-data-breach-impacts-626000-individuals/\">ApolloMD Data Breach Impacts 626,000 Individuals</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
