@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-15T12:21:09.467718+00:00",
+  "generated_at": "2026-02-16T01:01:06.131250+00:00",
   "items": [
     {
       "id": "7527b9073026a6e3d20cd8115c5e1f948d656a0e",
@@ -110,6 +110,17 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "f7b7b1f1823835e6c3706f99122c288969798afa",
+      "title": "Microsoft Discloses DNS-Based ClickFix Attack Using Nslookup for Malware Staging",
+      "url": "https://thehackernews.com/2026/02/microsoft-discloses-dns-based-clickfix.html",
+      "published": "2026-02-15T14:10:00+00:00",
+      "summary": "Microsoft has disclosed details of a new version of the ClickFix social engineering tactic in which the attackers trick unsuspecting users into running commands that carry out a Domain Name System (DNS) lookup to retrieve the next-stage payload.\nSpecifically, the attack relies on using the \"nslookup\" (short for nameserver lookup) command to execute a custom DNS lookup triggered via the Windows",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTITWEvp6Fk_BovXCLk1PaSAb0HJBzETmOcgn9ZPlY81ojfvKU3aoqM3BO_mtyqpL1idL2F1TY7e_3dAJiW6_DMDUAK5Q-zGKUnQvP1POiFDB_M0HwKiMQK2DuIihygT7Hpar1KtZ5KYCDISM2E98kRCBNxxt27oBWDX2hS0Qres6xc_0wFdaNbrxp92fj/s1600/dns.jpg"
     },
     {
       "id": "0d1ed3f0ff680235b9b7560225f9ca75aae33a9c",
@@ -649,17 +660,6 @@
       "region": "North America",
       "country": "US",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhq4HVk4ciPlJyef53_1ZqrcfFGmEY0t3LucRl-DSVWgMuVfBt7fc8LULklQ4Bc-8Tk6Wc9tGbL46vMwvb1CAsBNv3I5ZevSrFE67JGzn9v6VocRSrTscsmesuhc-1cS_ZlUsanT1x92ul38nd29xGW7HnJnlb6WgzzTO-kE5YSn3sLu5U6Lfi1Ra7zEaPd/s1600/windows-malware.jpg"
-    },
-    {
-      "id": "2cc5cca5a9df78e33023771e092c4487d8ae8cce",
-      "title": "China-Linked Amaranth-Dragon Exploits WinRAR Flaw in Espionage Campaigns",
-      "url": "https://thehackernews.com/2026/02/china-linked-amaranth-dragon-exploits.html",
-      "published": "2026-02-04T14:09:00+00:00",
-      "summary": "Threat actors affiliated with China have been attributed to a fresh set of cyber espionage campaigns targeting government and law enforcement agencies across Southeast Asia throughout 2025.\nCheck Point Research is tracking the previously undocumented activity cluster under the moniker Amaranth-Dragon, which it said shares links to the APT 41 ecosystem. Targeted countries include Cambodia,",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnDkrWZsbnchuoTSKHJzBamJKGb-b_h8TY-BhcWP6QeO0n9s3DQ0WGyzcZhUOET1mMZ66n_jNrwRSU7X759cKKsmNYPobdzRk-55snSEVZTS3hq_0le0ulcDFqwncn9SsXwWVDxTVEBoa0r1y0Hz4zdMKKmuW_XNrfsRqOBh4Zd34ylZt2aKdWF8XtjN_s/s1600/chinese-winrar.jpg"
     },
     {
       "id": "4b7c437e4a4c245ecc10b631d2de351193b98f41",
@@ -1212,6 +1212,17 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt95ade4301e0baed1/697e3b674c92fabc22015c8e/AI-ML-Ops-BluePlanetStudio-adobe.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
+      "id": "73821f4ce24c9572b1b0651675403ea19aa4b7ee",
+      "title": "Infosec exec sold eight zero-day exploit kits to Russia, says DoJ",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/02/15/exl3harris_exec_sold_8_zeroday/",
+      "published": "2026-02-15T23:22:14+00:00",
+      "summary": "<h4>PLUS: Fake ransomware group exposed; EC blesses Google's big Wiz deal; Alleged sewage hacker cuffed; And more</h4> <p><strong>Infosec in Brief</strong>\u00a0 The former General Manager of defense contractor L3Harris\u2019s cyber subsidiary Trenchant sold eight zero-day exploit kits to Russia, according to a court filing last week.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "d9ae74e37ae857179af0f21e3d46f188d65e2903",
       "title": "Attackers finally get around to exploiting critical Microsoft bug from 2024",
       "url": "https://go.theregister.com/feed/www.theregister.com/2026/02/13/critical_microsoft_bug_from_2024/",
@@ -1748,61 +1759,6 @@
       "source": "The Register \u2013 Security",
       "region": "Europe",
       "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "a7b076cf8424546ac4c5288bac36a7da1054b288",
-      "title": "Critical React Native Metro dev server bug under attack as researchers scream into the void",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/02/03/critical_react_native_metro_server/",
-      "published": "2026-02-03T19:01:03+00:00",
-      "summary": "<h4>Too slow react-ion time</h4> <p>Baddies are exploiting a critical bug in React Native's Metro development server to deliver malware to both Windows and Linux machines, and yet the in-the-wild attacks still haven't received the \"broad public acknowledgement\" that they should, according to security researchers.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "f255502ad6b911aa867ec206053b9a8fad07dad5",
-      "title": "Kimwolf Botnet Swamps Anonymity Network I2P",
-      "url": "https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/",
-      "published": "2026-02-11T16:08:11+00:00",
-      "summary": "For the past week, the massive \"Internet of Things\" (IoT) botnet known as Kimwolf has been disrupting the The Invisible Internet Project (I2P), a decentralized, encrypted communications network designed to anonymize and secure online communications. I2P users started reporting disruptions in the network around the same time the Kimwolf botmasters began relying on it to evade takedown attempts against the botnet's control servers.",
-      "source": "Krebs on Security",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "28f8ea3e37243ff045b170059c84931d294ee1c9",
-      "title": "Patch Tuesday, February 2026 Edition",
-      "url": "https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/",
-      "published": "2026-02-10T21:49:53+00:00",
-      "summary": "Microsoft today released updates to fix more than 50 security holes in its Windows operating systems and other software, including patches for a whopping six \"zero-day\" vulnerabilities that attackers are already exploiting in the wild.",
-      "source": "Krebs on Security",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "c731901e452b55cb0b0a132f707a49f78c591faf",
-      "title": "Please Don\u2019t Feed the Scattered Lapsus ShinyHunters",
-      "url": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
-      "published": "2026-02-02T16:15:16+00:00",
-      "summary": "A prolific data ransom gang that calls itself Scattered Lapsus ShinyHunters (SLSH) has a distinctive playbook when it seeks to extort payment from victim firms: Harassing, threatening and even swatting executives and their families, all while notifying journalists and regulators\u2026 <span class=\"read-more\"><a href=\"https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/\">Read More &#187;</a></span>",
-      "source": "Krebs on Security",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "0c3e212c98729d2b8bdc50649bc30fdcc0566978",
-      "title": "Who Operates the Badbox 2.0 Botnet?",
-      "url": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
-      "published": "2026-01-26T16:11:38+00:00",
-      "summary": "The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicating they'd compromised the control panel for Badbox 2.0, a vast China-based botnet powered by malicious software that comes pre-installed on many Android TV streaming boxes. Both the FBI and Google say they are hunting for the people behind Badbox 2.0, and thanks to bragging by the Kimwolf botmasters we may now have a much clearer idea about that.",
-      "source": "Krebs on Security",
-      "region": "Global",
-      "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
