@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-18T01:01:57.295749+00:00",
+  "generated_at": "2026-02-18T12:31:17.716066+00:00",
   "items": [
     {
       "id": "c92b51b217935b500ad8f4e460428fb2c5d7df7b",
@@ -110,6 +110,50 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "efcce14c40c0e924158658d375354e6c406ad3bd",
+      "title": "Dell RecoverPoint for VMs Zero-Day CVE-2026-22769 Exploited Since Mid-2024",
+      "url": "https://thehackernews.com/2026/02/dell-recoverpoint-for-vms-zero-day-cve.html",
+      "published": "2026-02-18T10:32:00+00:00",
+      "summary": "A maximum severity security vulnerability in Dell RecoverPoint for Virtual Machines has been exploited as a zero-day by a suspected China-nexus threat cluster dubbed UNC6201 since mid-2024, according to a new report from Google Mandiant and Google Threat Intelligence Group (GTIG).\nThe activity involves the exploitation of CVE-2026-22769 (CVSS score: 10.0), a case of hard-coded credentials",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglP0IZeQtwdci4qHI-mURnUorsnmYa0U0QjsNNttYhyphenhyphen0k7qSnq3I7FURoEE-E0SmiD7lhX86uUDYWbZtIrPpS5CjJPK0NdZnFzB_UMHMpIlgzUiffF5iZm_cRqE7ilkwI4ItLHjm65VhJiV_BNisAZcga-hhYjJEiEarDcuwBCek6Vdc36_WS_bx4G_Q0W/s1600/dell-hack.jpg"
+    },
+    {
+      "id": "e779d9edcfd025636c0bd3208fd27b3c53bfec44",
+      "title": "3 Ways to Start Your Intelligent Workflow Program",
+      "url": "https://thehackernews.com/2026/02/3-ways-to-start-your-intelligent.html",
+      "published": "2026-02-18T10:30:00+00:00",
+      "summary": "Security, IT, and engineering teams today are under relentless pressure to accelerate outcomes, cut operational drag, and unlock the full potential of AI and automation. But simply investing in tools isn\u2019t enough. 88% of AI proofs-of-concept never make it to production, even though 70% of workers cite freeing time for high-value work as the primary AI automation motivation. Real impact comes",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqEDKNxnbOcXaXVgDSSwTmvAj0925uBaCpS6NSGhH8G2FVGF_slC9Asa2SFPWBht3ZyF3rFB53zoqJiHVoK3cfMkjBpneFJjmkDB5j4XOqyHO5JLft27dzrb5R4U-D7VYBn3RQOoA5s6OupWYPcSaksjDsAaBl83eKB226AxF9L_zc4Tw3hyupEiVKxY0N/s1600/tines.jpg"
+    },
+    {
+      "id": "5c61b7147c45c5c5808fecff2e32761fc9b5aabf",
+      "title": "Notepad++ Fixes Hijacked Update Mechanism Used to Deliver Targeted Malware",
+      "url": "https://thehackernews.com/2026/02/notepad-fixes-hijacked-update-mechanism.html",
+      "published": "2026-02-18T07:40:00+00:00",
+      "summary": "Notepad++ has released a security fix to plug gaps that were exploited by an advanced threat actor from China to hijack the software update mechanism to selectively deliver malware to targets of interest.\nThe version 8.9.2 update incorporates what maintainer Don Ho calls a \"double lock\" design that aims to make the update process \"robust and effectively unexploitable.\" This includes verification",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgnUIBjnkM8vDKW8rzCxxcgMWr_JOn1xaK8xH5xku5lsBeo469b7FGGw1ISjQqGlqBx03FN5hUMlphyphenhyphenlnMu5K5WMCwX7kEWwIh3TbnBzORYiVkrfK_hBYvxkeprBtiBeVAylAY7daVwaQtI6WKi_lzkTC1D9zBJ7NQ9F-PboFNdNtLjJvfR_EOdkcU0ats/s1600/notepad-hack.jpg"
+    },
+    {
+      "id": "9d886805cbab4d04aaec3d33c5518937d0f42bdb",
+      "title": "CISA Flags Four Security Flaws Under Active Exploitation in Latest KEV Update",
+      "url": "https://thehackernews.com/2026/02/cisa-flags-four-security-flaws-under.html",
+      "published": "2026-02-18T06:52:00+00:00",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four security flaws to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation in the wild.\nThe list of vulnerabilities is as follows -\n\nCVE-2026-2441 (CVSS score: 8.8) - A use-after-free vulnerability in Google Chrome that could allow a remote attacker to potentially exploit heap",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMthhoYB21iUycGm4t9Z8XBCzBHeEBnyGAy0VYV_szV8cL19wb2nn0OSqFBl35b7viP2cIkWdNIULp3eZHNPXMAjdyL67hvTY7wlYizhDDysYKzSinMqCJrh44qfrrdTmfT3Dx9H_gJlFayVV0NoDAP_JSPHDLo0WQjM4d7AGdA-wo8mf1vmoZIPrjBZQY/s1600/cisa-kev.jpg"
     },
     {
       "id": "a473bf49628c7e504d377450eb091b233ba95059",
@@ -616,50 +660,6 @@
       "region": "North America",
       "country": "US",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiW_jUJE_4sQRwRYF1TXG-rmM3C4nC_15zd82rYQuuLdwncMPrT8M2X-45Ap_KPH09DynvlzyzTd62EEy9116zPjR4FAO92QedrPRA6jxz9pgXSlUi_TsryFlxVcApwV89bUUTWmFuFx-nbXDBBt2WPi-RO6_Iaq3II98RcOqL4XaedeBVKoKX4vb3dQr6/s1600/cloud-infra.jpg"
-    },
-    {
-      "id": "ced29837d4a652804b0ac4b4097a2b1dfa4a0ee9",
-      "title": "BeyondTrust Fixes Critical Pre-Auth RCE Vulnerability in Remote Support and PRA",
-      "url": "https://thehackernews.com/2026/02/beyondtrust-fixes-critical-pre-auth-rce.html",
-      "published": "2026-02-09T08:03:00+00:00",
-      "summary": "BeyondTrust has released updates to address a critical security flaw impacting Remote Support (RS) and Privileged Remote Access (PRA) products that, if successfully exploited, could result in remote code execution.\n\"BeyondTrust Remote Support (RS) and certain older versions of Privileged Remote Access (PRA) contain a critical pre-authentication remote code execution vulnerability,\" the company",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoSFjfJhHXUMJ0_vAj8LwmTeAMOkqVJomqws8hEaofSam7jnpED75EtkDhrEkofhEd0o_z-gZngp5Ue2kgvyhX3GrQA3gUp3v2H4OmEvpjYQb93gmQNeSppy5WIH6LJNg97OIEAsMXmelNMrq9VR5sN3ZrCnWwgfum_0MUCW5hHoqPQ2gmVxWFGwdr5l2t/s1600/bt.jpg"
-    },
-    {
-      "id": "05efb275cc829d60c8482525bbb7493fc564b513",
-      "title": "OpenClaw Integrates VirusTotal Scanning to Detect Malicious ClawHub Skills",
-      "url": "https://thehackernews.com/2026/02/openclaw-integrates-virustotal-scanning.html",
-      "published": "2026-02-08T07:32:00+00:00",
-      "summary": "OpenClaw (formerly Moltbot and Clawdbot) has announced that it's partnering with Google-owned VirusTotal to scan skills that are being uploaded to ClawHub, its skill marketplace, as part of broader efforts to bolster the security of the agentic ecosystem.\n\"All skills published to ClawHub are now scanned using VirusTotal's threat intelligence, including their new Code Insight capability,\"",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFUWaEYK5yvPD9ZZdP6cMRMXduyDlAE77-447kgI9rd6ASyC1rDEnZKMIvcbYLsEs1vaXIH6lXLOjMF-JktVNvjhfPy1_5YmWcXXoXQagMLUW5uuXy8gFMyxgEK9ZA4ve51Q95p_9gi5EJpq-IISmuSFkEX1hfuK1CNiXS1Bqf_GZbjE8r80ZN_JJkyq_r/s1600/openclaw-virustotal.jpg"
-    },
-    {
-      "id": "143a2375e59817478b090a586d6a964b12ee761e",
-      "title": "German Agencies Warn of Signal Phishing Targeting Politicians, Military, Journalists",
-      "url": "https://thehackernews.com/2026/02/german-agencies-warn-of-signal-phishing.html",
-      "published": "2026-02-07T11:15:00+00:00",
-      "summary": "Germany's Federal Office for the Protection of the Constitution (aka Bundesamt f\u00fcr Verfassungsschutz or BfV) and Federal Office for Information Security (BSI) have issued a joint advisory warning of a malicious cyber campaign undertaken by a likely state-sponsored threat actor that involves carrying out phishing attacks over the Signal messaging app.\n\"The focus is on high-ranking targets in",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZLxiSHzgB4jnGhqSTb5U-LmLyQn1DAEdjL73NAKb8oapBTIPlINZbiOL3pHZNBlOHYI9yuZgxV8aRvGefuo5OzaP8TVtvoHYznKe-5Lr493T9s7hOHGCqNqXhgm-4r_biXNbYjuaRGDTcfNNwqoZNVBkKwfdAud8ropOXgONMa7xizOHOWM0DCpDQaFZ9/s1600/signal.jpg"
-    },
-    {
-      "id": "cf2017d8f307534bc9057a5f97c3f262ecc2ad68",
-      "title": "China-Linked DKnife AitM Framework Targets Routers for Traffic Hijacking, Malware Delivery",
-      "url": "https://thehackernews.com/2026/02/china-linked-dknife-aitm-framework.html",
-      "published": "2026-02-06T14:56:00+00:00",
-      "summary": "Cybersecurity researchers have taken the wraps off a gateway-monitoring and adversary-in-the-middle (AitM) framework dubbed DKnife that's operated by China-nexus threat actors since at least 2019.\nThe framework comprises seven Linux-based implants that are designed to perform deep packet inspection, manipulate traffic, and deliver malware via routers and edge devices. Its primary targets seem to",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYyMn4uLO-VZgiUrwRtAtJIOgkMnxpxz8eAMF1qozW3TT6F7vTTebQnOZu_ZHcioB-mqEHV7AT35sHZPKp5X2W6kJj0l8fZDPZoS11oLDOMh3v8_6rX_C5IiLlxrlv0eCEPFUZ2Nv6VG4BNcEiDH7yJ0HyJ-5CvN2EL-VsQP85QydfaaLQ62BME9d_-frU/s1600/hijacking.jpg"
     },
     {
       "id": "ce9d8e89eed4eb707786df0b1d2f6af1a9c7d96d",
@@ -1212,6 +1212,39 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt16b31f9b7ccea4cf/697ba707a48f6430d10277b8/bar-chart-AI-pentest-performance-Lemos-Stanford-CMU.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
+      "id": "2588c2b0287f14b67f54b600bdf06ef848b4ee96",
+      "title": "You can jailbreak an F-35 just like an iPhone, says Dutch defense chief",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/02/18/jailbreak_an_f35/",
+      "published": "2026-02-18T12:11:15+00:00",
+      "summary": "<h4>No worries if the US doesn't want to be friends with Europe anymore</h4> <p>Lockheed Martin's F-35 fighter aircraft can be jailbroken \"just like an iPhone,\" the Netherlands' defense secretary has claimed.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "89a6f278b5ec73dfd5ad37f745c49536b0de8982",
+      "title": "HackerOne 'updating' Ts&amp;Cs after bug hunters question if they're training AI",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/02/18/hackerone_ai_policy/",
+      "published": "2026-02-18T11:00:07+00:00",
+      "summary": "<h4>CEO lauds security researchers, insists they're not 'inputs'</h4> <p>HackerOne has clarified its stance on GenAI after researchers fretted their submissions were being used to train its models.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "91fc08799f69587b85b09ef8aa0601f3613515ce",
+      "title": "Palo Alto CEO says AI isn\u2019t great for business, yet",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/02/18/palo_alto_q2_26/",
+      "published": "2026-02-18T04:52:07+00:00",
+      "summary": "<h4>Sees little enterprise AI adoption other than coding assistants, buys Koi for what comes next</h4> <p>If enterprises are implementing AI, they\u2019re not showing it to Palo Alto Networks CEO Nikesh Arora, who on Tuesday said business adoption of the tech lags consumer take-up by at least a couple of years \u2013 except for coding assistants.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "6ee2fcefb97532cc6e60aa2dabb42171d0cebce5",
       "title": "China-linked snoops have been exploiting Dell 0-day since mid-2024, using 'ghost NICs' to avoid detection",
       "url": "https://go.theregister.com/feed/www.theregister.com/2026/02/18/dell_0day_brickstorm_campaign/",
@@ -1729,39 +1762,6 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "b9b1c36912ab268da452cd845902b5cf4acd155d",
-      "title": "Ad blocking is alive and well, despite Chrome's attempts to make it harder",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/02/06/chrome_mv3_no_harm_ad_blocking/",
-      "published": "2026-02-06T00:39:52+00:00",
-      "summary": "<h4>The end isn't nigh after all</h4> <p>Chrome's latest revision of its browser extension architecture, known as Manifest v3 (MV3), was widely expected to make content blocking and privacy extensions less effective than its predecessor, Manifest v2 (MV2).\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "89a67ef43ab1621a7a90c8030c8144d2180361a8",
-      "title": "OpenClaw reveals meaty personal information after simple cracks",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/02/05/openclaw_skills_marketplace_leaky_security/",
-      "published": "2026-02-05T23:32:52+00:00",
-      "summary": "<h4>Skills marketplace is full of stuff - like API keys and credit card numbers - that crims will find tasty</h4> <p>Another day, another vulnerability (or two, or 200) in the security nightmare that is OpenClaw.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "0e806416ac118a15140d42aec87cad07a2e3ff95",
-      "title": "Substack says intruder lifted emails, phone numbers in months-old breach",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/02/05/substack_admit_security_incident/",
-      "published": "2026-02-05T19:54:18+00:00",
-      "summary": "<h4>Contact details were accessed in an intrusion that went undetected for months, the blogging outfit says</h4> <p>Newsletter platform Substack has admitted that an intruder swiped user contact details months before the company noticed, forcing it to warn writers and readers that their email addresses and other account metadata were accessed without permission.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
       "id": "f255502ad6b911aa867ec206053b9a8fad07dad5",
       "title": "Kimwolf Botnet Swamps Anonymity Network I2P",
       "url": "https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/",
@@ -1812,6 +1812,39 @@
       "published": "2026-01-20T18:19:13+00:00",
       "summary": "A new Internet-of-Things botnet called Kimwolf has spread to more than 2 million devices, forcing infected systems to participate in massive distributed denial-of-service (DDoS) attacks and to relay other malicious and abusive Internet traffic. Kimwolf's ability to scan the local networks of compromised systems for other IoT devices to infect makes it a sobering threat to organizations, and new research reveals Kimwolf is surprisingly prevalent in government and corporate networks.",
       "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "25f70c8e8da67cae991b283199801c09b5a2f1f0",
+      "title": "CISA: Hackers Exploiting Vulnerability in Product of Taiwan Security Firm TeamT5",
+      "url": "https://www.securityweek.com/cisa-hackers-exploiting-vulnerability-in-product-of-taiwan-security-firm-teamt5/",
+      "published": "2026-02-18T10:26:03+00:00",
+      "summary": "<p>The vulnerability added to CISA\u2019s KEV catalog affects ThreatSonar Anti-Ransomware and it was patched in 2024.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisa-hackers-exploiting-vulnerability-in-product-of-taiwan-security-firm-teamt5/\">CISA: Hackers Exploiting Vulnerability in Product of Taiwan Security Firm TeamT5</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "7e95d4983aa46174af3bdcfb40514ff94b2646f7",
+      "title": "Palo Alto Networks to Acquire Koi in Reported $400 Million Transaction",
+      "url": "https://www.securityweek.com/palo-alto-networks-to-acquire-koi-in-reported-400-million-transaction/",
+      "published": "2026-02-18T08:24:46+00:00",
+      "summary": "<p>Koi has developed an endpoint security solution that Palo Alto will use to enhance its products.</p>\n<p>The post <a href=\"https://www.securityweek.com/palo-alto-networks-to-acquire-koi-in-reported-400-million-transaction/\">Palo Alto Networks to Acquire Koi in Reported $400 Million Transaction</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "8f2f5a1956223d5c4383af63c149de3731d340f6",
+      "title": "Dell RecoverPoint Zero-Day Exploited by Chinese Cyberespionage Group",
+      "url": "https://www.securityweek.com/dell-recoverpoint-zero-day-exploited-by-chinese-cyberespionage-group/",
+      "published": "2026-02-18T07:09:01+00:00",
+      "summary": "<p>GTIG and Mandiant said the zero-day tracked as CVE-2026-22769 has been exploited by UNC6201 since at least 2024.</p>\n<p>The post <a href=\"https://www.securityweek.com/dell-recoverpoint-zero-day-exploited-by-chinese-cyberespionage-group/\">Dell RecoverPoint Zero-Day Exploited by Chinese Cyberespionage Group</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
@@ -1888,39 +1921,6 @@
       "url": "https://www.securityweek.com/password-managers-vulnerable-to-vault-compromise-under-malicious-server/",
       "published": "2026-02-17T09:30:46+00:00",
       "summary": "<p>Researchers at ETH Zurich have tested the security of Bitwarden, LastPass, Dashlane, and 1Password password managers.</p>\n<p>The post <a href=\"https://www.securityweek.com/password-managers-vulnerable-to-vault-compromise-under-malicious-server/\">Password Managers Vulnerable to Vault Compromise Under Malicious Server</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "70cb83f03eef2deb390d424315388d82d88ea242",
-      "title": "Dior, Louis Vuitton, Tiffany Fined $25 Million in South Korea After Data Breaches",
-      "url": "https://www.securityweek.com/dior-louis-vuitton-tiffany-fined-25-million-in-south-korea-after-data-breaches/",
-      "published": "2026-02-16T15:09:13+00:00",
-      "summary": "<p>Luxury brands were among the dozens of major companies whose Salesforce instances were targeted by Scattered LAPSUS$ Hunters.</p>\n<p>The post <a href=\"https://www.securityweek.com/dior-louis-vuitton-tiffany-fined-25-million-in-south-korea-after-data-breaches/\">Dior, Louis Vuitton, Tiffany Fined $25 Million in South Korea After Data Breaches</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "39cfd3ed24c6104d05fcfda4a381f882cc020af0",
-      "title": "Android 17 Beta Strengthens Secure-by-Default Design for Privacy and App Security",
-      "url": "https://www.securityweek.com/android-17-beta-strengthens-secure-by-default-design-for-privacy-and-app-security/",
-      "published": "2026-02-16T13:50:36+00:00",
-      "summary": "<p>The latest Android version continues to improve security and privacy, according to its developers.</p>\n<p>The post <a href=\"https://www.securityweek.com/android-17-beta-strengthens-secure-by-default-design-for-privacy-and-app-security/\">Android 17 Beta Strengthens Secure-by-Default Design for Privacy and App Security</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "480554e9ef98d54becb8609ebe79ddcf3bf0380e",
-      "title": "CISA Navigates DHS Shutdown With Reduced Staff",
-      "url": "https://www.securityweek.com/cisa-navigates-dhs-shutdown-with-reduced-staff/",
-      "published": "2026-02-16T13:49:03+00:00",
-      "summary": "<p>CISA is currently operating at roughly 38% capacity (888 out of 2,341 staff) due to the DHS shutdown that began February 14, 2026.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisa-navigates-dhs-shutdown-with-reduced-staff/\">CISA Navigates DHS Shutdown With Reduced Staff</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
