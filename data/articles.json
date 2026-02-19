@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-19T01:01:09.345458+00:00",
+  "generated_at": "2026-02-19T12:33:04.930800+00:00",
   "items": [
     {
       "id": "82636b68b0f035997c999672e3664044e2855193",
@@ -110,6 +110,39 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "0a7feb52001f738e8227aef6252e4fb3366e7e7a",
+      "title": "From Exposure to Exploitation: How AI Collapses Your Response Window",
+      "url": "https://thehackernews.com/2026/02/from-exposure-to-exploitation-how-ai.html",
+      "published": "2026-02-19T11:55:00+00:00",
+      "summary": "We\u2019ve all seen this before: a developer deploys a new cloud workload and grants overly broad permissions just to keep the sprint moving. An engineer generates a \"temporary\" API key for testing and forgets to revoke it. In the past, these were minor operational risks, debts you\u2019d eventually pay down during a slower cycle.\nIn 2026, \u201cEventually\u201d is Now\nBut today, within minutes, AI-powered",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_HhBr5JTth2HIHXAOha965hOsCQC65r8Ph2nbqKuUKXq4ZCYCcNyQcJfsrTNt8GyE-Qj96if2MInfyDIiWtKneSPLGx9VKGYxawKZlRHoAJXkALwdHKymqdRy93dCBA1mBZSDSuWuTUtMZI7twCidZB0H2fVm5l3uFzs4OJVQNNMUtpwaVAtznoI2P80/s1600/xmcyber.jpg"
+    },
+    {
+      "id": "1be80f36422483aab082148c115ca533e169beef",
+      "title": "Fake IPTV Apps Spread Massiv Android Malware Targeting Mobile Banking Users",
+      "url": "https://thehackernews.com/2026/02/fake-iptv-apps-spread-massiv-android.html",
+      "published": "2026-02-19T10:24:00+00:00",
+      "summary": "Cybersecurity researchers have disclosed details of a new Android trojan called Massiv that's designed to facilitate device takeover (DTO) attacks for financial theft.\nThe malware, according to ThreatFabric, masquerades as seemingly harmless IPTV apps to deceive victims, indicating that the activity is primarily singling out users looking for the online TV applications.\n\"This new threat, while",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj67LPvqhfl_NCfP1wUAUN8p7ISQ_x3wCwavSYjJJkMl9jkcDnk0gP2Om7d1O0UqaQnwqeU4GzTfpLxUok2ei5tiNhArCqldBzaS6yzNe_mudDAbzllZcD1BA0FOfbn1LQRSiK36eB69u4hfK_Pa0XA0eZti_KN8Q43d_k1xRmp_LQCW6gA9ZWNvdrBx_py/s1600/android-banking.jpg"
+    },
+    {
+      "id": "6e163c5731973b8ec4286645825c1045ccd3828d",
+      "title": "CRESCENTHARVEST Campaign Targets Iran Protest Supporters With RAT Malware",
+      "url": "https://thehackernews.com/2026/02/crescentharvest-campaign-targets-iran.html",
+      "published": "2026-02-19T08:13:00+00:00",
+      "summary": "Cybersecurity researchers have disclosed details of a new campaign dubbed CRESCENTHARVEST, likely targeting supporters of Iran's ongoing protests to conduct information theft and long-term espionage.\nThe Acronis Threat Research Unit (TRU) said it observed the activity after January 9, with the attacks designed to deliver a malicious payload that serves as a remote access trojan (RAT) and",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFD_PtNViVDHZuayLVtVYwd7N2scLLqDjTvVq8WGWrnvOCZ7tt92yiynt44EBuHUv2Y4b-sujz_BlBBx2Vl9af8ZzAXzTJH2UzFpsqC5KyxWWvB6FD-Ini78yxU9MsffuVeYsU2wQQCP5mTPs7xlI73PBSZ3RYj1RUMbjxfH06NhmoNjHkpapxBNwyEMrI/s1600/protest.jpg"
     },
     {
       "id": "565a7fefa96377a7a897cfc10b6f848bf51630cd",
@@ -629,37 +662,15 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQg_RBFvjX4CSOktzf6QU0KcmxaSjFhOLkaPXZkzfoqHaq2A4TUCu-GxQCBQsKTK3PoDM-RLpolaRFIdbityIpVRtZA-5-VK2aYjRQZl0NWsHCpw-VrIkgUOYvOi4Pg0Le44LPnmMb5xQYQ4r3V6WT8Ukll2rt6mTBCRCFE3f3OD1LJCBK6G0XBAExHTw0/s1600/smart.jpg"
     },
     {
-      "id": "d6b8f259a39b8c61eddd8e740d480d90239e5d58",
-      "title": "Dutch Authorities Confirm Ivanti Zero-Day Exploit Exposed Employee Contact Data",
-      "url": "https://thehackernews.com/2026/02/dutch-authorities-confirm-ivanti-zero.html",
-      "published": "2026-02-10T08:22:00+00:00",
-      "summary": "The Netherlands' Dutch Data Protection Authority (AP) and the Council for the Judiciary confirmed both agencies (Rvdr) have disclosed that their systems were impacted by cyber attacks that exploited the recently disclosed security flaws in Ivanti Endpoint Manager Mobile (EPMM), according to a notice sent to the country's parliament on Friday.\n\"On January 29, the National Cyber Security Center (",
-      "source": "The Hacker News",
+      "id": "d67bdf67cd2d7a360615e1a031deaa081c17d36b",
+      "title": "More Than 40% of South Africans Were Scammed in 2025",
+      "url": "https://www.darkreading.com/cybersecurity-analytics/south-africans-scammed-2025",
+      "published": "2026-02-19T07:00:00+00:00",
+      "summary": "Survey underscores the reality that scammers follow &quot;scalable opportunities and low friction,&quot; rather than rich targets that tend to be better protected.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkGwO0dfI4hVFSzIpnPbDAGzLfh0FJh-3jiKa-mSrkIRuXECaLjAb1Yh9nM8I4KrZ40fAX4eYwHyQyVNRGJDCXkq6uzf5Tm0L0uiMb8buN2iEs-x4bw6ywRLTvaO5eLyiXr614f_0ekstIPre9e_Yw576ptePRbRqcjmxcmu4hxlJ5O9UHPa79j9PGi3vg/s1600/Ivanti.jpg"
-    },
-    {
-      "id": "082fa2a41673799fa47633ebd91b1195ef923f2f",
-      "title": "China-Linked UNC3886 Targets Singapore Telecom Sector in Cyber Espionage Campaign",
-      "url": "https://thehackernews.com/2026/02/china-linked-unc3886-targets-singapore.html",
-      "published": "2026-02-09T17:01:00+00:00",
-      "summary": "The Cyber Security Agency (CSA) of Singapore on Monday revealed that the China-nexus cyber espionage group known as UNC3886 targeted its telecommunications sector.\n\"UNC3886 had launched a deliberate, targeted, and well-planned campaign against Singapore's telecommunications sector,\" CSA said. \"All four of Singapore's major telecommunications operators ('telcos') \u2013 M1, SIMBA Telecom, Singtel, and",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitWC7fuHQt0LEMJmwl8Nv8meCzOQQJ4XuPacIEsqxLrSxPLslJjapg-02Nmzb8ngITdSXT-C_cLn1JYF4KDUAH3bpuFyb9qznZkD8A3m-wotkulB0yflFBcAFgPuU0Ci8DYloAZGFJecZyrByApcTSCSB8Kqg6wki4UYqTt9pQPXmnkqVOMxZyfWx9820Z/s1600/chinese-telecom.jpg"
-    },
-    {
-      "id": "bcaa2cc736c25e6258a0cd285dc4be4f31de9506",
-      "title": "SolarWinds Web Help Desk Exploited for RCE in Multi-Stage Attacks on Exposed Servers",
-      "url": "https://thehackernews.com/2026/02/solarwinds-web-help-desk-exploited-for.html",
-      "published": "2026-02-09T14:42:00+00:00",
-      "summary": "Microsoft has revealed that it observed a multi\u2011stage intrusion that involved the threat actors exploiting internet\u2011exposed SolarWinds Web Help Desk (WHD) instances to obtain initial access and move laterally across the organization's network to other high-value assets.\nThat said, the Microsoft Defender Security Research Team said it's not clear whether the activity weaponized recently",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1coFDcJGaV6fnBzpBs3TXSas4-odFMjYTlXPM-cyQcpzDyCshc0pH8HMEo1XmNUoVPRU4J56lg3ApR_-KpFn8L6aiATW4A5Xx_cIUbCYO1MI9W6lTiW-vlJWPK7Bc-SkXNcjQ-CnP7_HCOwhRYn1HsJnuE6sCOQZ6S4m-LC3zySGT_mHorlhwwJA4SLlO/s1600/1000054453.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt49d98ee5edaf7150/698f86d35d330e0008bd444f/South_Africa_trap-Olekcii_Mach-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "id": "8785ab90526ef17f282c84a89760d2845caa7ba5",
@@ -1201,15 +1212,37 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0ee80d2156216312/698359c327a39116a4345aa4/newsstand-Ruslan_Bustamante-alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "1eaf6a93acb2998f26f19854e1ddad0c1ebbe0a6",
-      "title": "Big Breach or Smooth Sailing? Mexican Gov't Faces Leak Allegations",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/big-breach-or-nada-de-nada-mexican-govt-faces-leak-allegations",
-      "published": "2026-02-04T13:00:00+00:00",
-      "summary": "A hacktivist group claims a 2.3-terabyte data breach exposes the information of 36 million Mexicans, but no sensitive accounts are at risk, says government.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltbc7355a5663f9d26/69827292d724225c7bc48bd8/mexico-flag-cyber-bits-GagoDesign-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "id": "6bf079cadf4e28c92e5d92cc8570295fe26c7eb6",
+      "title": "UK to demand social platforms take down abusive intimate images within 48 hours",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/02/19/uk_intimate_images_online/",
+      "published": "2026-02-19T11:32:02+00:00",
+      "summary": "<h4>'Why not 12?' says lawyer</h4> <p>The UK is bracketing \"intimate images shared without a victim's consent\" along with terror and child sexual abuse material, and demanding that online platforms remove them within two days.\u2026</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "405ed64f8ade956f647f42ea074dfde2a6b23445",
+      "title": "Healthcare security: Write login details on whiteboard, hope for the best",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/02/19/human_whiteboard_bork/",
+      "published": "2026-02-19T11:14:14+00:00",
+      "summary": "<h4>You told me not to write it on a Post-it...</h4> <p><strong>Bork!Bork!Bork!</strong>\u00a0 Today's bork is entirely human-generated and will send a shiver down the spine of security pros. No matter how secure a system is, a user's ability to undo an administrator's best efforts should not be underestimated.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "ae040ee60fdffd03641e2ecc0d61aa3790f0f614",
+      "title": "Poland bans camera-packing cars made in China from military bases",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/02/19/poland_china_car_ban/",
+      "published": "2026-02-19T05:55:25+00:00",
+      "summary": "<h4>Dell, however, is welcome to help build a local-language LLM</h4> <p>Poland\u2019s Ministry of Defence has banned Chinese cars \u2013 and any others include tech to record position, images, or sound \u2013 from entering protected military facilities.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
       "id": "98570b0ef716d3be4d8d7f3a941adf3a19377f16",
@@ -1729,36 +1762,102 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "ab1ff324a05b93aca23c6bc6e64e2810fe768c56",
-      "title": "Dutch data watchdog snitches on itself after getting caught in Ivanti zero-day attacks",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/02/09/dutch_data_protection_ivanti/",
-      "published": "2026-02-09T14:50:37+00:00",
-      "summary": "<h4>Staff data belonging to the regulator and judiciary's governing body accessed</h4> <p>The Dutch Data Protection Authority (AP) says it was one of the many organizations popped when attackers raced to exploit recent Ivanti vulnerabilities as zero-days.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
+      "id": "f255502ad6b911aa867ec206053b9a8fad07dad5",
+      "title": "Kimwolf Botnet Swamps Anonymity Network I2P",
+      "url": "https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/",
+      "published": "2026-02-11T16:08:11+00:00",
+      "summary": "For the past week, the massive \"Internet of Things\" (IoT) botnet known as Kimwolf has been disrupting the The Invisible Internet Project (I2P), a decentralized, encrypted communications network designed to anonymize and secure online communications. I2P users started reporting disruptions in the network around the same time the Kimwolf botmasters began relying on it to evade takedown attempts against the botnet's control servers.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "5668d56a026c76b1a3ecca4c5b9d422304e43a01",
-      "title": "Taiwan tells Uncle Sam its chip ecosystem ain't going anywhere",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/02/09/taiwan_us_chip_production/",
-      "published": "2026-02-09T14:02:53+00:00",
-      "summary": "<h4>Moving 40% of semiconductor production to America is 'impossible' says vice premier</h4> <p>Taiwan's vice-premier has ruled out relocating 40 percent of the country's semiconductor production to the US, calling the Trump administration's goal \"impossible.\"\u2026</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
+      "id": "28f8ea3e37243ff045b170059c84931d294ee1c9",
+      "title": "Patch Tuesday, February 2026 Edition",
+      "url": "https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/",
+      "published": "2026-02-10T21:49:53+00:00",
+      "summary": "Microsoft today released updates to fix more than 50 security holes in its Windows operating systems and other software, including patches for a whopping six \"zero-day\" vulnerabilities that attackers are already exploiting in the wild.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "8f439a82c540d15d499c9d5155fb45168072f99d",
-      "title": "How the GNU C Compiler became the Clippy of cryptography",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/02/09/compilers_undermine_encryption/",
-      "published": "2026-02-09T12:07:02+00:00",
-      "summary": "<h4>Security devs forced to hide Boolean logic from overeager optimizer</h4> <p><strong>FOSDEM 2026</strong>\u00a0 The creators of security software have encountered an unlikely foe in their attempts to protect us: modern compilers.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
+      "id": "c731901e452b55cb0b0a132f707a49f78c591faf",
+      "title": "Please Don\u2019t Feed the Scattered Lapsus ShinyHunters",
+      "url": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
+      "published": "2026-02-02T16:15:16+00:00",
+      "summary": "A prolific data ransom gang that calls itself Scattered Lapsus ShinyHunters (SLSH) has a distinctive playbook when it seeks to extort payment from victim firms: Harassing, threatening and even swatting executives and their families, all while notifying journalists and regulators\u2026 <span class=\"read-more\"><a href=\"https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/\">Read More &#187;</a></span>",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "0c3e212c98729d2b8bdc50649bc30fdcc0566978",
+      "title": "Who Operates the Badbox 2.0 Botnet?",
+      "url": "https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/",
+      "published": "2026-01-26T16:11:38+00:00",
+      "summary": "The cybercriminals in control of Kimwolf -- a disruptive botnet that has infected more than 2 million devices -- recently shared a screenshot indicating they'd compromised the control panel for Badbox 2.0, a vast China-based botnet powered by malicious software that comes pre-installed on many Android TV streaming boxes. Both the FBI and Google say they are hunting for the people behind Badbox 2.0, and thanks to bragging by the Kimwolf botmasters we may now have a much clearer idea about that.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "ec7d99efc813af9d4d1a7474be57cd27df398db4",
+      "title": "Kimwolf Botnet Lurking in Corporate, Govt. Networks",
+      "url": "https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/",
+      "published": "2026-01-20T18:19:13+00:00",
+      "summary": "A new Internet-of-Things botnet called Kimwolf has spread to more than 2 million devices, forcing infected systems to participate in massive distributed denial-of-service (DDoS) attacks and to relay other malicious and abusive Internet traffic. Kimwolf's ability to scan the local networks of compromised systems for other IoT devices to infect makes it a sobering threat to organizations, and new research reveals Kimwolf is surprisingly prevalent in government and corporate networks.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "a1e296c9d14edd05d0dee288f7d3c8a51dc97212",
+      "title": "Venice Security Emerges From Stealth With $33M Funding for Privileged Access Management",
+      "url": "https://www.securityweek.com/venice-security-emerges-from-stealth-with-33m-funding-for-privileged-access-management/",
+      "published": "2026-02-19T12:23:41+00:00",
+      "summary": "<p>Formerly named Valkyrie, the company\u2019s funding includes $25 million raised in a Series A round.\u00a0</p>\n<p>The post <a href=\"https://www.securityweek.com/venice-security-emerges-from-stealth-with-33m-funding-for-privileged-access-management/\">Venice Security Emerges From Stealth With $33M Funding for Privileged Access Management</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "97e0246341dc5aeb2ff9834041d6c859fedeaab8",
+      "title": "Ivanti Exploitation Surges as Zero-Day Attacks Traced Back to July 2025",
+      "url": "https://www.securityweek.com/ivanti-exploitation-surges-as-zero-day-attacks-traced-back-to-july-2025/",
+      "published": "2026-02-19T11:56:29+00:00",
+      "summary": "<p>Security researchers have seen the vulnerabilities being exploited to deliver shells, conduct reconnaissance, and download malware.</p>\n<p>The post <a href=\"https://www.securityweek.com/ivanti-exploitation-surges-as-zero-day-attacks-traced-back-to-july-2025/\">Ivanti Exploitation Surges as Zero-Day Attacks Traced Back to July 2025</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "7a18060bd0e1ee57b6788d1d9fa66b67edc84752",
+      "title": "OpenClaw Security Issues Continue as SecureClaw Open Source Tool Debuts",
+      "url": "https://www.securityweek.com/openclaw-security-issues-continue-as-secureclaw-open-source-tool-debuts/",
+      "published": "2026-02-19T11:00:00+00:00",
+      "summary": "<p>OpenClaw faces security vulnerabilities and misconfiguration risks despite rapid patches and its transition to an OpenAI-backed foundation.</p>\n<p>The post <a href=\"https://www.securityweek.com/openclaw-security-issues-continue-as-secureclaw-open-source-tool-debuts/\">OpenClaw Security Issues Continue as SecureClaw Open Source Tool Debuts</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "52dd6c4f4af1c7e9f24ca5a1ecdc36fab428acce",
+      "title": "German Rail Giant Deutsche Bahn Hit by Large-Scale DDoS Attack",
+      "url": "https://www.securityweek.com/german-rail-giant-deutsche-bahn-hit-by-large-scale-ddos-attack/",
+      "published": "2026-02-19T09:16:20+00:00",
+      "summary": "<p>The cyberattack disrupted information and booking systems and lasted for several hours.\u00a0</p>\n<p>The post <a href=\"https://www.securityweek.com/german-rail-giant-deutsche-bahn-hit-by-large-scale-ddos-attack/\">German Rail Giant Deutsche Bahn Hit by Large-Scale DDoS Attack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
@@ -1822,50 +1921,6 @@
       "url": "https://www.securityweek.com/dell-recoverpoint-zero-day-exploited-by-chinese-cyberespionage-group/",
       "published": "2026-02-18T07:09:01+00:00",
       "summary": "<p>GTIG and Mandiant said the zero-day tracked as CVE-2026-22769 has been exploited by UNC6201 since at least 2024.</p>\n<p>The post <a href=\"https://www.securityweek.com/dell-recoverpoint-zero-day-exploited-by-chinese-cyberespionage-group/\">Dell RecoverPoint Zero-Day Exploited by Chinese Cyberespionage Group</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "57f882e4604c0e08f3423b3f874bbcb53c62302c",
-      "title": "VulnCheck Raises $25 Million in Series B Funding to Scale Vulnerability Intelligence",
-      "url": "https://www.securityweek.com/vulncheck-raises-25-million-in-series-b-funding-to-scale-vulnerability-intelligence/",
-      "published": "2026-02-17T16:00:04+00:00",
-      "summary": "<p>The latest funding round was led by Sorenson Capital and brings the total investment to $45 million.</p>\n<p>The post <a href=\"https://www.securityweek.com/vulncheck-raises-25-million-in-series-b-funding-to-scale-vulnerability-intelligence/\">VulnCheck Raises $25 Million in Series B Funding to Scale Vulnerability Intelligence</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "3874cc2cf2c43770af2de424faf8e35c6b117a2d",
-      "title": "Hackers Offer to Sell Millions of Eurail User Records",
-      "url": "https://www.securityweek.com/hackers-offer-to-sell-millions-of-eurail-user-records/",
-      "published": "2026-02-17T15:27:12+00:00",
-      "summary": "<p>Eurail has confirmed that the stolen data is up for sale, but it\u2019s still trying to determine how many individuals are impacted.</p>\n<p>The post <a href=\"https://www.securityweek.com/hackers-offer-to-sell-millions-of-eurail-user-records/\">Hackers Offer to Sell Millions of Eurail User Records</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "b96f94383d04329b37e865bc946fb035b8a67136",
-      "title": "API Threats Grow in Scale as AI Expands the Blast Radius",
-      "url": "https://www.securityweek.com/api-threats-grow-in-scale-as-ai-expands-the-blast-radius/",
-      "published": "2026-02-17T14:00:00+00:00",
-      "summary": "<p>New research shows attackers increasingly abusing APIs at machine speed as AI-driven systems widen exposure and amplify impact.</p>\n<p>The post <a href=\"https://www.securityweek.com/api-threats-grow-in-scale-as-ai-expands-the-blast-radius/\">API Threats Grow in Scale as AI Expands the Blast Radius</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "775307458b4ef0b291fb6ce6b70c276647942835",
-      "title": "Cyber Insights 2026: The Ongoing Fight to Secure Industrial Control Systems",
-      "url": "https://www.securityweek.com/cyber-insights-2026-the-ongoing-fight-to-secure-industrial-control-systems/",
-      "published": "2026-02-17T14:00:00+00:00",
-      "summary": "<p>As nation-state actors, ransomware groups, and aging infrastructure collide, organizations must rethink how they defend critical operations through resilience, visibility, and modern security strategies.</p>\n<p>The post <a href=\"https://www.securityweek.com/cyber-insights-2026-the-ongoing-fight-to-secure-industrial-control-systems/\">Cyber Insights 2026: The Ongoing Fight to Secure Industrial Control Systems</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
