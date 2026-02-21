@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-21T00:55:35.195163+00:00",
+  "generated_at": "2026-02-21T12:19:44.815235+00:00",
   "items": [
     {
       "id": "9c5769269864e989fbead0236469eac35f13e3a5",
@@ -110,6 +110,39 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "7648c303008def01ff4e4334e939abe3b2fea61b",
+      "title": "Anthropic Launches Claude Code Security for AI-Powered Vulnerability Scanning",
+      "url": "https://thehackernews.com/2026/02/anthropic-launches-claude-code-security.html",
+      "published": "2026-02-21T07:58:00+00:00",
+      "summary": "Artificial intelligence (AI) company Anthropic has begun to roll out a new security feature for Claude Code that can scan a user's software codebase for vulnerabilities and suggest patches.\nThe capability, called Claude Code Security, is currently available in a limited research preview to Enterprise and Team customers.\n\"It scans codebases for security vulnerabilities and suggests targeted",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnUd8T_I-xQKNmoLh2WLznpTvsH2JGWkhRJOOcjgUxat1PSS3OKl-z5P-OYhbJssm5DqAP8B3Dye8Z298RAqvSKibFo-ISDmF0qPlOpUdUVKJRO9Gy5MxDZP4A2uUxmoqBpfK95Z4u-hvqmNqsRE42ivsIc2H-NQYubExbmPug9WbHkVpuqry9hO9nNG4y/s1600/ai-code-scan.jpg"
+    },
+    {
+      "id": "49c79040e694b44243b21973214cf218b481d47b",
+      "title": "CISA Adds Two Actively Exploited Roundcube Flaws to KEV Catalog",
+      "url": "https://thehackernews.com/2026/02/cisa-adds-two-actively-exploited.html",
+      "published": "2026-02-21T07:21:00+00:00",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Roundcube webmail software to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\nThe vulnerabilities in question are listed below -\n\nCVE-2025-49113 (CVSS score: 9.9) - A deserialization of untrusted data vulnerability that allows remote code",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtZg49iJDSf0QXV_lj9uqgkcevxHhncfWJrejyCIdGb2hlzcVefAWXETqflE7uEUTuAGKkqfSpa9_w1FoNTZ-67YU4H-iUio2DfhF7o2qIMIbx8BewvMG8rHsq8eh7gBwjVckasb5Qj8jsGY_3wRjBaYTh-nL10wAWFI5PbCu62cfJFk9Y8ucUBDyQNkEh/s1600/roundcube.jpg"
+    },
+    {
+      "id": "1be0f8596f423fe11bdc971b60eccb1c79c56c05",
+      "title": "EC-Council Expands AI Certification Portfolio to Strengthen U.S. AI Workforce Readiness and Security",
+      "url": "https://thehackernews.com/2026/02/ec-council-expands-ai-certification.html",
+      "published": "2026-02-21T04:30:00+00:00",
+      "summary": "With $5.5 trillion in global AI risk exposure and 700,000 U.S. workers needing reskilling, four new AI certifications and Certified CISO v4 help close the gap between AI adoption and workforce readiness.\nEC-Council, creator of the world-renowned Certified Ethical Hacker (CEH) credential and a global leader in applied cybersecurity education, today launched its Enterprise AI Credential Suite,",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTNtB3q8UY8WtPavGisP57bq3aRlFLsQJSfTpwuLP0E1eqcPNAtjaI2_YeTjOxEi4GGQbFUOu-sYuTLRB_WnoQNAKfiwUIJqmU5G8GrhPjsmKCx_03Ecyid-28wg-nWj4RjV8YWVXM4unbx9uhtxBz-b7crRhe03y4fH8up6O3q2k5Gdjx-r4-9Yk4QCM/s1600/ec.jpg"
     },
     {
       "id": "a169910a32ef307db48289493499c0e7c5fe478d",
@@ -627,39 +660,6 @@
       "region": "North America",
       "country": "US",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYfLBzwwr9ktW_359N5SPDJT-xhZCrJtOdq8gEomlVklbw7KMji47zmZbTKbToZYTw9PY7xIu3p6K6XFXOgE6UvQ2stu1BK5RrGrypa9YSeN2-XM0hGvp8fr_1CCrJSuWx2azFgjZGxd6kwY6sx2RhYQt2ZOh0ogsKHnL3pI_V6EafPtbS36xciBAUHOJh/s1600/Bulletproof-Hosting-Infrastructure.jpg"
-    },
-    {
-      "id": "280e293dfa41f5f10c942666ad056efdcf7caf59",
-      "title": "Apple Fixes Exploited Zero-Day Affecting iOS, macOS, and Other Devices",
-      "url": "https://thehackernews.com/2026/02/apple-fixes-exploited-zero-day.html",
-      "published": "2026-02-12T05:39:00+00:00",
-      "summary": "Apple on Wednesday released iOS, iPadOS, macOS Tahoe, tvOS, watchOS, and visionOS updates to address a zero-day flaw that it said has been exploited in sophisticated cyber attacks.\nThe vulnerability, tracked as CVE-2026-20700 (CVSS score: 7.8), has been described as a memory corruption issue in dyld, Apple's Dynamic Link Editor. Successful exploitation of the vulnerability could allow an",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXXnmQ69hHRCiUryP62cYqb4c5ShYwdmXYG1eTU8ujwrWwGICQBUVPzWAAqAW2fvWYURCEtEsBnhwDXKzV6oMBKSCFhfGMTsIRAoVrqRTHgHebhPRIMMPIBvNsvP8jwzh3ts578kUFyLiIs2mgKUiMQgoUmINM8JOOEVWMWA-W3_wAx07J-nm3oGihE_0v/s1600/apple.gif"
-    },
-    {
-      "id": "3984d361af81645bc3788e8922e7489643f459a7",
-      "title": "First Malicious Outlook Add-In Found Stealing 4,000+ Microsoft Credentials",
-      "url": "https://thehackernews.com/2026/02/first-malicious-outlook-add-in-found.html",
-      "published": "2026-02-11T17:45:00+00:00",
-      "summary": "Cybersecurity researchers have discovered what they said is the first known malicious Microsoft Outlook add-in detected in the wild.\nIn this unusual supply chain attack detailed by Koi Security, an unknown attacker claimed the domain associated with a now-abandoned legitimate add-in to serve a fake Microsoft login page, stealing over 4,000 credentials in the process. The activity has been",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGH5OFCdEH8WLDQvMuU6qAbaI73kVMtx4uASqujZ12UAb3Q-yJX3ZsFCpc1uJuUE4ah_z24WgRv_1JhOem_ISHdoYtPzZPy6o5HwRuoBGjThyru3WAtrcOqyA9hDvSNgSKIgaYUTdIOUJHL7HCRUEZgt9Z8fP6F8oINDt4LkeziTnTW6cx_Qw_DJ2FLMmo/s1600/outlook.jpg"
-    },
-    {
-      "id": "0ee558d66fbfe4796d0d26d291175152544dabed",
-      "title": "APT36 and SideCopy Launch Cross-Platform RAT Campaigns Against Indian Entities",
-      "url": "https://thehackernews.com/2026/02/apt36-and-sidecopy-launch-cross.html",
-      "published": "2026-02-11T14:52:00+00:00",
-      "summary": "Indian defense sector and government-aligned organizations have been targeted by multiple campaigns that are designed to compromise Windows and Linux environments with remote access trojans capable of stealing sensitive data and ensuring continued access to infected machines.\nThe campaigns are characterized by the use of malware families like Geta RAT, Ares RAT, and DeskRAT, which are often",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbazpuuwU1rJbldu2fNhcDhnmgmpygU-Ci4lvjJXXo3TlmbV06oWZJ-FEJjMtQnkzg9-cBOt9h8aCA5d2EuO3gRaDlbzzc1w4cZRsdDUY1YwMTXv9f3ebp4CrZ-0jIar70HO_pyuhzHdClzTo85wpHJF8wiabXv8ko9fxQbp5WFmWdVwvtqqAkh5mk2_hv/s1600/india.jpg"
     },
     {
       "id": "b1d0c2467eb89dfbf19753e9b84704be87a62284",
@@ -1817,6 +1817,17 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "c758fd5857189782bdf535539ac229c0aacda3ac",
+      "title": "Critical Grandstream Phone Vulnerability Exposes Calls to Interception",
+      "url": "https://www.securityweek.com/critical-grandstream-phone-vulnerability-exposes-calls-to-interception/",
+      "published": "2026-02-21T12:00:00+00:00",
+      "summary": "<p>The flaw tracked as CVE-2026-2329 can be exploited without authentication for remote code execution with root privileges.\u00a0</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-grandstream-phone-vulnerability-exposes-calls-to-interception/\">Critical Grandstream Phone Vulnerability Exposes Calls to Interception</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "d24cfe1d522bb76f23145ccfa2feb5044b1f6ad2",
       "title": "NIST\u2019s Quantum Breakthrough: Single Photons Produced on a Chip",
       "url": "https://www.securityweek.com/nists-quantum-breakthrough-single-photons-produced-on-a-chip/",
@@ -1910,17 +1921,6 @@
       "url": "https://www.securityweek.com/venice-security-emerges-from-stealth-with-33m-funding-for-privileged-access-management/",
       "published": "2026-02-19T12:23:41+00:00",
       "summary": "<p>Formerly named Valkyrie, the company\u2019s funding includes $25 million raised in a Series A round.\u00a0</p>\n<p>The post <a href=\"https://www.securityweek.com/venice-security-emerges-from-stealth-with-33m-funding-for-privileged-access-management/\">Venice Security Emerges From Stealth With $33M Funding for Privileged Access Management</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "97e0246341dc5aeb2ff9834041d6c859fedeaab8",
-      "title": "Ivanti Exploitation Surges as Zero-Day Attacks Traced Back to July 2025",
-      "url": "https://www.securityweek.com/ivanti-exploitation-surges-as-zero-day-attacks-traced-back-to-july-2025/",
-      "published": "2026-02-19T11:56:29+00:00",
-      "summary": "<p>Security researchers have seen the vulnerabilities being exploited to deliver shells, conduct reconnaissance, and download malware.</p>\n<p>The post <a href=\"https://www.securityweek.com/ivanti-exploitation-surges-as-zero-day-attacks-traced-back-to-july-2025/\">Ivanti Exploitation Surges as Zero-Day Attacks Traced Back to July 2025</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
