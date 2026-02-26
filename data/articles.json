@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-26T00:57:06.068874+00:00",
+  "generated_at": "2026-02-26T12:33:34.763422+00:00",
   "items": [
     {
       "id": "2db0d7e2685ab35352b07a06279155ebcf0a1543",
@@ -110,6 +110,39 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "0b85a80069e71ec13ea14d154e5308c6d633fa76",
+      "title": "Microsoft Warns Developers of Fake Next.js Job Repos Delivering In-Memory Malware",
+      "url": "https://thehackernews.com/2026/02/fake-nextjs-repos-target-developers.html",
+      "published": "2026-02-26T10:35:00+00:00",
+      "summary": "A \"coordinated developer-targeting campaign\" is using malicious repositories disguised as legitimate Next.js projects and technical assessments to trick victims into executing them and establish persistent access to compromised machines.\n\"The activity aligns with a broader cluster of threats that use job-themed lures to blend into routine developer workflows and increase the likelihood of code",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5GaeyxU6qnAMuRiZnc2gbSF7-tg-keCAzXjwtDBtKJhuZ0wcqxbPb_N-NyXBTrZ85M3dGuMYgk8qV4-QfSELGQ5o3NxoNAqeKfeoILZRrvkx72BJeTqvrVtnedsfUHTjl1Gn6NRQt2_dnJpnxV-PhKEekQXgqO1SZWyG_tRi1Jhjt5m87iDhABGq85pXt/s1600/software-hacker.jpg"
+    },
+    {
+      "id": "a5532bf71ffd095514dcc49b91852467349fad6f",
+      "title": "Malicious StripeApi NuGet Package Mimicked Official Library and Stole API Tokens",
+      "url": "https://thehackernews.com/2026/02/malicious-stripeapi-nuget-package.html",
+      "published": "2026-02-26T10:09:00+00:00",
+      "summary": "Cybersecurity researchers have disclosed details of a new malicious package discovered on the NuGet Gallery, impersonating a library from financial services firm Stripe in an attempt to target the financial sector.\nThe package, codenamed StripeApi.Net, attempts to masquerade as Stripe.net, a legitimate library from Stripe that has over 75 million downloads. It was uploaded by a user named",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOOA0ov4ywkdj7FrYHif0WbJFrQ04THhkLcOL83R7ggXvtpTTMUeO8-3e-YOobbh_5hGpdNbnXr1pbeU4Uj1DfBd7HLLefvr3fbmKeNnmxknerJm4TDUvvNUL1uJT0MN5frpDoVizcBh5KuEtiU-zq2rhZhZmLJ3iVOauRaHqBUf3k5DnZU8MUq7WHE8fX/s1600/Stripe-malware.jpg"
+    },
+    {
+      "id": "b840215517acaa9ac37eb89bb80b40343c4ae149",
+      "title": "Cisco SD-WAN Zero-Day CVE-2026-20127 Exploited Since 2023 for Admin Access",
+      "url": "https://thehackernews.com/2026/02/cisco-sd-wan-zero-day-cve-2026-20127.html",
+      "published": "2026-02-26T06:13:00+00:00",
+      "summary": "A newly disclosed maximum-severity security flaw in Cisco Catalyst SD-WAN Controller (formerly vSmart) and Catalyst SD-WAN Manager (formerly vManage) has come under active exploitation in the wild as part of malicious activity that dates back to 2023.\nThe vulnerability, tracked as CVE-2026-20127 (CVSS score: 10.0), allows an unauthenticated remote attacker to bypass authentication and obtain",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguuaG3Zn05bu2DRYkpxdcKrvugskd4bWxOdVfAIk2Yeaz_haffll_p9cgQ9DvoIID6Qyihvpq0q9M8NZFBOFprN-7ILllTeAs7Y5WJ5kqUPsBblknz376nPPxRa04vGkCKNVfLSUgTfweasJd9Q533msiw6SdqGP0K61_ZZYMhR9QD_sueS-R9vftPtheu/s1600/cisco.jpg"
     },
     {
       "id": "21b2ec2fed01755de570d7dc974f943429546923",
@@ -627,39 +660,6 @@
       "region": "North America",
       "country": "US",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMthhoYB21iUycGm4t9Z8XBCzBHeEBnyGAy0VYV_szV8cL19wb2nn0OSqFBl35b7viP2cIkWdNIULp3eZHNPXMAjdyL67hvTY7wlYizhDDysYKzSinMqCJrh44qfrrdTmfT3Dx9H_gJlFayVV0NoDAP_JSPHDLo0WQjM4d7AGdA-wo8mf1vmoZIPrjBZQY/s1600/cisa-kev.jpg"
-    },
-    {
-      "id": "a473bf49628c7e504d377450eb091b233ba95059",
-      "title": "Webinar: How Modern SOC Teams Use AI and Context to Investigate Cloud Breaches Faster",
-      "url": "https://thehackernews.com/2026/02/cloud-forensics-webinar-learn-how-ai.html",
-      "published": "2026-02-17T19:08:00+00:00",
-      "summary": "Cloud attacks move fast \u2014 faster than most incident response teams.\nIn data centers, investigations had time. Teams could collect disk images, review logs, and build timelines over days. In the cloud, infrastructure is short-lived. A compromised instance can disappear in minutes. Identities rotate. Logs expire. Evidence can vanish before analysis even begins.\nCloud forensics is fundamentally",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgV4miUFC2VRtb2QbEjK8NcEvIZXEvwWMtG-FJdc87p3-LqV7rxBsXHJh3WTgqy8xKUtOJ30qlqn7LP3FjAEQpEQRbi_XxDS9r9te8ipkxyFO9Xeo9Eems4WSEcpLEzD4j9IVCGl_74w6uvOrA8_eC-rpbE7A9D_kqsGogEgqqKxR8mV1pNSlzfnIZKFMBZ/s1600/cloud-forensics-webinar.jpg"
-    },
-    {
-      "id": "77508f8a5e27aca71570ec4de27c5e4efe4674bf",
-      "title": "Researchers Show Copilot and Grok Can Be Abused as Malware C2 Proxies",
-      "url": "https://thehackernews.com/2026/02/researchers-show-copilot-and-grok-can.html",
-      "published": "2026-02-17T18:08:00+00:00",
-      "summary": "Cybersecurity researchers have disclosed that artificial intelligence (AI) assistants that support web browsing or URL fetching capabilities can be turned into stealthy command-and-control (C2) relays, a technique that could allow attackers to blend into legitimate enterprise communications and evade detection.\nThe attack method, which has been demonstrated against Microsoft Copilot and xAI Grok",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzYX37QWNtfn6KjpvO-G2qEj3m_ARN3yOl6MgQKaMMAAAw_EUE2o_zASrY9uGyYZhUXJbSY6n3nmo-hXvpBHnG7LL6Qm4KJi0GUv8eoRlSSqLQAQVU_pbSp6FzsJTrcNVdZef3J4L9HrK-kwm5oiT7_Hx6Perm-y-P0saLA9gsmp16shesbIqeBsG-WD6Z/s1600/grok-ai.jpg"
-    },
-    {
-      "id": "e7efeb1c5122a3f8acd225dfd463be174ce4c920",
-      "title": "Keenadu Firmware Backdoor Infects Android Tablets via Signed OTA Updates",
-      "url": "https://thehackernews.com/2026/02/keenadu-firmware-backdoor-infects.html",
-      "published": "2026-02-17T16:41:00+00:00",
-      "summary": "A new Android backdoor that's embedded deep into the device firmware can silently harvest data and remotely control its behavior, according to new findings from Kaspersky.\nThe Russian cybersecurity vendor said it discovered the backdoor, dubbed Keenadu, in the firmware of devices associated with various brands, including Alldocube, with the compromise occurring during the firmware build phase.",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8Wza_QsQzhfPQCPUG6GYFEMc6xpel-E8wWXPSZlSeSLIHLRkxcgj-XxdItkZjBJSg7CW26jOr0gtstF5MjAeAumhISRoOJatq0Bss2rNv4f35PVZcwrrxlvhXqBwjtqCt6mL06qZJJZWFNTmLdCBkuL74UCB3O8rN1mC2UOulCvFIs37CyUl9v00zx1OD/s1600/android-firmware.jpg"
     },
     {
       "id": "9bfe4e7a8f98462c5ea2abd8752e072754c0ac4f",
@@ -1212,11 +1212,22 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt42df7ca896592a2e/6751ee3d47226cf59b96d81d/SOC_(1800)_Dragos_Condrea_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
+      "id": "329e93f7426bae5d948f227dfd7cd75037f06090",
+      "title": "Five Eyes warn: Patch your Cisco SD-WAN or risk root takeover",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/02/26/five_eyes_cisco_sdwan/",
+      "published": "2026-02-26T11:39:55+00:00",
+      "summary": "<h4>A rare joint alert from all five spy agencies means serious business</h4> <p>The Five Eyes intelligence alliance is urgently warning defenders to patch two Cisco Catalyst SD-WAN vulnerabilities used in attacks.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "72aea88b4f8e80dc3352819ef6d2bbe2ca7f5396",
       "title": "Claude collaboration tools left the door wide open to remote code execution",
       "url": "https://go.theregister.com/feed/www.theregister.com/2026/02/26/clade_code_cves/",
       "published": "2026-02-26T00:33:20+00:00",
-      "summary": "<h4>Anthropic fixed the flaws - but the AI-enabled attack surfaces remain</h4> <p>Security vulnerabilities in Claude Code could have allowed attackers to remotely execute code on users' machines and steal API keys by injecting malicious configurations into repositories, and then waiting for a developer to clone and open an untrustworthy project.\u2026</p>",
+      "summary": "<h4>Anthropic fixed the flaws \u2013 but the AI-enabled attack surfaces remain</h4> <p>Security vulnerabilities in Claude Code could have allowed attackers to remotely execute code on users' machines and steal API keys by injecting malicious configurations into repositories, and then waiting for a developer to clone and open an untrustworthy project.\u2026</p>",
       "source": "The Register \u2013 Security",
       "region": "Europe",
       "country": "UK",
@@ -1751,14 +1762,91 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "91fc08799f69587b85b09ef8aa0601f3613515ce",
-      "title": "Palo Alto CEO says AI isn\u2019t great for business, yet",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/02/18/palo_alto_q2_26/",
-      "published": "2026-02-18T04:52:07+00:00",
-      "summary": "<h4>Sees little enterprise AI adoption other than coding assistants, buys Koi for what comes next</h4> <p>If enterprises are implementing AI, they\u2019re not showing it to Palo Alto Networks CEO Nikesh Arora, who on Tuesday said business adoption of the tech lags consumer take-up by at least a couple of years \u2013 except for coding assistants.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
+      "id": "04b6bbeedfed18aaa5c090a56c3e2fba0ba6ebef",
+      "title": "\u2018Starkiller\u2019 Phishing Service Proxies Real Login Pages, MFA",
+      "url": "https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/",
+      "published": "2026-02-20T20:00:30+00:00",
+      "summary": "Most phishing websites are little more than static copies of login pages for popular online destinations, and they are often quickly taken down by anti-abuse activists and security firms. But a stealthy new phishing-as-a-service offering lets customers sidestep both of these pitfalls: It uses cleverly disguised links to load the target brand's real website, and then acts as a relay between the target and the legitimate site -- forwarding the victim's username, password and multi-factor authentication (MFA) code to the legitimate site and returning its responses.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "f255502ad6b911aa867ec206053b9a8fad07dad5",
+      "title": "Kimwolf Botnet Swamps Anonymity Network I2P",
+      "url": "https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/",
+      "published": "2026-02-11T16:08:11+00:00",
+      "summary": "For the past week, the massive \"Internet of Things\" (IoT) botnet known as Kimwolf has been disrupting the The Invisible Internet Project (I2P), a decentralized, encrypted communications network designed to anonymize and secure online communications. I2P users started reporting disruptions in the network around the same time the Kimwolf botmasters began relying on it to evade takedown attempts against the botnet's control servers.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "28f8ea3e37243ff045b170059c84931d294ee1c9",
+      "title": "Patch Tuesday, February 2026 Edition",
+      "url": "https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/",
+      "published": "2026-02-10T21:49:53+00:00",
+      "summary": "Microsoft today released updates to fix more than 50 security holes in its Windows operating systems and other software, including patches for a whopping six \"zero-day\" vulnerabilities that attackers are already exploiting in the wild.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "c731901e452b55cb0b0a132f707a49f78c591faf",
+      "title": "Please Don\u2019t Feed the Scattered Lapsus ShinyHunters",
+      "url": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
+      "published": "2026-02-02T16:15:16+00:00",
+      "summary": "A prolific data ransom gang that calls itself Scattered Lapsus ShinyHunters (SLSH) has a distinctive playbook when it seeks to extort payment from victim firms: Harassing, threatening and even swatting executives and their families, all while notifying journalists and regulators\u2026 <span class=\"read-more\"><a href=\"https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/\">Read More &#187;</a></span>",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "427cbc94291b0b07fdf92e7158fb239d79b1c99b",
+      "title": "Zyxel Patches Critical Vulnerability in Many Device Models",
+      "url": "https://www.securityweek.com/zyxel-patches-critical-vulnerability-in-many-device-models/",
+      "published": "2026-02-26T12:09:29+00:00",
+      "summary": "<p>The issue impacts the UPnP function of multiple device models and could be exploited for remote code execution.</p>\n<p>The post <a href=\"https://www.securityweek.com/zyxel-patches-critical-vulnerability-in-many-device-models/\">Zyxel Patches Critical Vulnerability in Many Device Models</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "4be3aef51072a71628ceb5490c4b75943e3d4fd3",
+      "title": "US Sanctions Russian Exploit Broker Operation Zero",
+      "url": "https://www.securityweek.com/us-sanctions-russian-exploit-broker-operation-zero/",
+      "published": "2026-02-26T10:33:53+00:00",
+      "summary": "<p>The broker acquired eight zero-day exploits from a US defense contractor executive jailed for his actions.</p>\n<p>The post <a href=\"https://www.securityweek.com/us-sanctions-russian-exploit-broker-operation-zero/\">US Sanctions Russian Exploit Broker Operation Zero</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "fbf7690feed7fc1c868f821e899439a472a1cc52",
+      "title": "Trend Micro Patches Critical Apex One Vulnerabilities",
+      "url": "https://www.securityweek.com/trend-micro-patches-critical-apex-one-vulnerabilities/",
+      "published": "2026-02-26T09:56:46+00:00",
+      "summary": "<p>TrendAI has fixed eight critical and high-severity issues in Windows and macOS endpoint security products.</p>\n<p>The post <a href=\"https://www.securityweek.com/trend-micro-patches-critical-apex-one-vulnerabilities/\">Trend Micro Patches Critical Apex One Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "0d0af49015b6f49e762a028bbf5f6526991fe9c6",
+      "title": "Cisco Patches Catalyst SD-WAN Zero-Day Exploited by Highly Sophisticated Hackers",
+      "url": "https://www.securityweek.com/cisco-patches-catalyst-sd-wan-zero-day-exploited-by-highly-sophisticated-hackers/",
+      "published": "2026-02-26T09:18:43+00:00",
+      "summary": "<p>Already added to CISA\u2019s KEV catalog, the flaw allows attackers to bypass authentication and gain administrative privileges.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisco-patches-catalyst-sd-wan-zero-day-exploited-by-highly-sophisticated-hackers/\">Cisco Patches Catalyst SD-WAN Zero-Day Exploited by Highly Sophisticated Hackers</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
@@ -1822,50 +1910,6 @@
       "url": "https://www.securityweek.com/over-12-million-users-impacted-by-cargurus-data-breach/",
       "published": "2026-02-25T12:30:00+00:00",
       "summary": "<p>Hackers claim to have stolen personally identifiable information and internal corporate data from the automotive firm.</p>\n<p>The post <a href=\"https://www.securityweek.com/over-12-million-users-impacted-by-cargurus-data-breach/\">CarGurus Data Breach Impacts Over 12 Million Users</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "43c5fa9833a7fe6a67ddb8722bc6dc7650a9b595",
-      "title": "SecurityWeek Report: 426 Cybersecurity M&A Deals Announced in 2025",
-      "url": "https://www.securityweek.com/securityweek-report-426-cybersecurity-ma-deals-announced-in-2025/",
-      "published": "2026-02-25T12:00:00+00:00",
-      "summary": "<p>SecurityWeek\u2019s M&#038;A data indicates that today's market is more disciplined, and it seems to favor GRC, data protection, and identity.</p>\n<p>The post <a href=\"https://www.securityweek.com/securityweek-report-426-cybersecurity-ma-deals-announced-in-2025/\">SecurityWeek Report: 426 Cybersecurity M&amp;A Deals Announced in 2025</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "6ec673710c0506aa5102b4f8d1ffdbc797a5c2f3",
-      "title": "Wynn Resorts Confirms Data Breach After Hackers Remove It From Leak Site",
-      "url": "https://www.securityweek.com/wynn-resorts-confirms-data-breach-after-hackers-remove-it-from-leak-site/",
-      "published": "2026-02-25T11:35:48+00:00",
-      "summary": "<p>The high-end casino and hotel operator has admitted that employee data was stolen by ShinyHunters.</p>\n<p>The post <a href=\"https://www.securityweek.com/wynn-resorts-confirms-data-breach-after-hackers-remove-it-from-leak-site/\">Wynn Resorts Confirms Data Breach After Hackers Remove It From Leak Site</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "0ed89034a4adc24b86d9e947a9623cea24899453",
-      "title": "Astelia Raises $35 Million for Exposure Management",
-      "url": "https://www.securityweek.com/astelia-raises-35-million-for-exposure-management/",
-      "published": "2026-02-25T10:38:33+00:00",
-      "summary": "<p>The company will expand its AI-based analysis capabilities, grow its employee base, and scale deployments.</p>\n<p>The post <a href=\"https://www.securityweek.com/astelia-raises-35-million-for-exposure-management/\">Astelia Raises $35 Million for Exposure Management</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "a21685a081e16895d665f8b71fe866b25f75d1da",
-      "title": "Reddit Hit With $20 Million UK Data Privacy Fine Over Child Safety Failings",
-      "url": "https://www.securityweek.com/reddit-hit-with-20-million-uk-data-privacy-fine-over-child-safety-failings/",
-      "published": "2026-02-25T10:04:16+00:00",
-      "summary": "<p>Britain\u2019s data privacy watchdog slapped online forum Reddit on Tuesday with a fine worth nearly $20 million for failures involving children\u2019s personal information.</p>\n<p>The post <a href=\"https://www.securityweek.com/reddit-hit-with-20-million-uk-data-privacy-fine-over-child-safety-failings/\">Reddit Hit With $20 Million UK Data Privacy Fine Over Child Safety Failings</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
