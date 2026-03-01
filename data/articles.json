@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-28T12:19:12.752507+00:00",
+  "generated_at": "2026-03-01T01:05:21.627017+00:00",
   "items": [
     {
       "id": "34dc63e321276c8bb74cee8e5af7f0fe019f4cb4",
@@ -110,6 +110,17 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "79761b668f54bea7c19c7b91e8b2665053e03ddb",
+      "title": "ClawJacked Flaw Lets Malicious Sites Hijack Local OpenClaw AI Agents via WebSocket",
+      "url": "https://thehackernews.com/2026/02/clawjacked-flaw-lets-malicious-sites.html",
+      "published": "2026-02-28T17:21:00+00:00",
+      "summary": "OpenClaw has fixed a high-severity security issue that, if successfully exploited, could have allowed a malicious website to connect to a locally running artificial intelligence (AI) agent and take over control.\n\"Our vulnerability lives in the core system itself \u2013 no plugins, no marketplace, no user-installed extensions \u2013 just the bare OpenClaw gateway, running exactly as documented,\" Oasis",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMEZ7gMViZ9XlXs35FiyviBZR19FbDXmatfjhNRw59daWLw41ScorGKG3xXYWFD6dDuYHajwoUnkWgQV9SrPe9iiV8UqDVjw4K5hX8cng7VDPTsljAZazuxUDdk7_hZ7SFV9rDCxNcYNWjmEY_lUVj01-PEI9D9rY5tMYJZTP5X887UuXOsDD90UOvo_mG/s1600/opem.jpg"
     },
     {
       "id": "04afd2b93174f3afe31955c96fc363d30a967979",
@@ -649,17 +660,6 @@
       "region": "North America",
       "country": "US",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhltf-8sYx4UcRPT_qBv92hmitOenRSgB2OctxYx4hdCPglcMJzeHR8Dmffrt5xjjtp0Tz2ur0wPSbvig7cnEyrdtJrOx8V4Z2sTGeR6eBlFwOO4pgPUISeLWGuMbUO4bnruvRWx-O6zYRUy_xw1F1CohPk2fZDkpM1YGXusO-8h8rgwQhLvZSlfp4ho5RJ/s1600/interpol.jpg"
-    },
-    {
-      "id": "009efb6519812d1157a0e9c8c9c7e77f96a2900a",
-      "title": "Microsoft Patches CVE-2026-26119 Privilege Escalation in Windows Admin Center",
-      "url": "https://thehackernews.com/2026/02/microsoft-patches-cve-2026-26119.html",
-      "published": "2026-02-19T17:40:00+00:00",
-      "summary": "Microsoft has disclosed a now-patched security flaw in Windows Admin Center that could allow an attacker to escalate their privileges.\nWindows Admin Center is a locally deployed, browser-based management tool set that lets users manage their Windows Clients, Servers, and Clusters without the need for connecting to the cloud.\nThe high-severity vulnerability, tracked as CVE-2026-26119, carries a",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTYrWKU78qUjsLRxRje4c7MEejHM-e4bg7D2mFbFEomGbCI39Um78JNkCJKcjrcH2FYinO-dVUiV0_rB60jmErrc4lyMkYOK-qIX3HnYCFJ8aWfFwcnaZOHe_38JSgbLPnVqWrQaXhvbXmMCAaJpb6qnANjxjsqB3S4NM89kemycwHA8kDGlwrS-306oP8/s1600/windows-admin.jpg"
     },
     {
       "id": "ac2cfde17e7fd7ef27ad8f69141d908e477a1cc4",
