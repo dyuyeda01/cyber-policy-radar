@@ -1,6 +1,28 @@
 {
-  "generated_at": "2026-03-02T00:58:54.781677+00:00",
+  "generated_at": "2026-03-02T12:28:40.392384+00:00",
   "items": [
+    {
+      "id": "c7f69511ea8543494469799cac628d5ec3898240",
+      "title": "ResOps: The new operating model bridging security, identity and recovery",
+      "url": "https://www.cybersecuritydive.com/spons/resops-the-new-operating-model-bridging-security-identity-and-recovery/812994/",
+      "published": "2026-03-02T10:00:00+00:00",
+      "summary": "<p>Why 77% of enterprises lack AI security practices &ndash; and the new operating model bridging the gap.</p>",
+      "source": "Cybersecurity Dive",
+      "region": "North America",
+      "country": "US",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "a5915cbea26413e8e505520f1da4018128790fbd",
+      "title": "Building a risk-based data sanitization strategy: When to use Cryptographic erasure vs. physical destruction",
+      "url": "https://www.cybersecuritydive.com/spons/building-a-risk-based-data-sanitization-strategy-when-to-use-cryptographic/812586/",
+      "published": "2026-03-02T10:00:00+00:00",
+      "summary": "<p>Build your strategy on risk assessment, not on assumptions that one size \ufb01ts all.</p>",
+      "source": "Cybersecurity Dive",
+      "region": "North America",
+      "country": "US",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
     {
       "id": "34dc63e321276c8bb74cee8e5af7f0fe019f4cb4",
       "title": "Trump administration removes controversial acting CISA director",
@@ -90,26 +112,26 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "036ac49233bf49ed771249295ded51e32ced33d8",
-      "title": "Threat groups move at record speeds, as AI helps scale attacks",
-      "url": "https://www.cybersecuritydive.com/news/threat-groups-record-speeds-ai-attacks/812965/",
-      "published": "2026-02-24T15:49:53+00:00",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/N8d3cdV50Kx9zlMdmPESpL1S9LvfXJ_R0UeWQAqV3N8/g:nowe:0:258/c:4032:2277/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfODc4Ml9OaFBONzN0LkpQRw==.webp\" /></div></figure><p>A report by CrowdStrike shows cybercrime groups are outpacing security teams and increasingly abusing legitimate tools.</p>",
-      "source": "Cybersecurity Dive",
+      "id": "8e6535d471c5e05a9f887f160027730225be1492",
+      "title": "APT28 Tied to CVE-2026-21513 MSHTML 0-Day Exploited Before Feb 2026 Patch Tuesday",
+      "url": "https://thehackernews.com/2026/03/apt28-tied-to-cve-2026-21513-mshtml-0.html",
+      "published": "2026-03-02T10:36:00+00:00",
+      "summary": "A recently disclosed security flaw patched by Microsoft may have been exploited by the Russia-linked state-sponsored threat actor known as APT28, according to new findings from Akamai.\nThe vulnerability in question is CVE-2026-21513 (CVSS score: 8.8), a high-severity security feature bypass affecting the MSHTML Framework.\n\"Protection mechanism failure in MSHTML Framework allows an unauthorized",
+      "source": "The Hacker News",
       "region": "North America",
       "country": "US",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGmBYExYY-MdqirvtI7-k2gWDf2rCE5AX4J246DywytJU0hWklJfAxRUKUa6AhU-VFWf2jazsAR1DkpPBHUqv2LsGckfxhVUebrMsnAccaYYmp2L9VJDz4rHaRLxKRgXaYM-UPcFS_ZoyveJxkLu1RunwaIuCBckILFDzMo1mCZtg9zaOmXrOSEEWU7RSg/s1600/windows.jpg"
     },
     {
-      "id": "26011d81ceb672d15667e651f440f71a344af596",
-      "title": "Hackers target vulnerabilities in Roundcube Webmail",
-      "url": "https://www.cybersecuritydive.com/news/hackers-target-vulnerabilities-in-roundcube-webmail/812839/",
-      "published": "2026-02-23T16:30:55+00:00",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/SCjgMHN2kxEVW6f5FQNsZ3C6-CtEd5viHlvkgP9IJRw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTU2OTU1NjQwLmpwZw==.webp\" /></div></figure><p>CISA has added the flaws, one of which is considered critical, to its Known Exploited Vulnerabilities catalog.</p>",
-      "source": "Cybersecurity Dive",
+      "id": "5b8666f4a26c50425ee8c8152a23726dce849948",
+      "title": "North Korean Hackers Publish 26 npm Packages Hiding Pastebin C2 for Cross-Platform RAT",
+      "url": "https://thehackernews.com/2026/03/north-korean-hackers-publish-26-npm.html",
+      "published": "2026-03-02T08:44:00+00:00",
+      "summary": "Cybersecurity researchers have disclosed a new iteration of the ongoing Contagious Interview campaign, where the North Korean threat actors have published a set of 26 malicious packages to the npm registry.\nThe packages masquerade as developer tools, but contain functionality to extract the actual command-and-control (C2) by using seemingly harmless Pastebin content as a dead drop resolver and",
+      "source": "The Hacker News",
       "region": "North America",
       "country": "US",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhB4nJ8ODWGAqDEjQl4cCSKOtIJoGood2beXae5mc7MKzZbAYl1Ij2AX0L3CNCuUc4R4TL-DOR6bIHU6yzHfoFir_gl6jbUf_0w69pGg3tsXI92smKf02pmQPqkbyBs-eOUp0SqdGSrBH68os3R2lkTDGvGpi3R3-EThgOy_ATJKTXVqr0_ug-otA6FkeAo/s1600/npm.jpg"
     },
     {
       "id": "79761b668f54bea7c19c7b91e8b2665053e03ddb",
@@ -638,28 +660,6 @@
       "region": "North America",
       "country": "US",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpjPkindvHhAkTNady5lI22zPkPfSqmVuaxvfEwnLVFvhSVUe_rhMjzTQ3c6sVpvLw_RB1YXtEPoqO1Uq1diOtZ3FC-oudy7x826CjtJE-Y0nxnJtvZBdXmOqfGgLwcJfGC3vN4xODBXTW_vSkg6oAVnVzUekFFe1YJaH5_YBDfAqG4W-tJOw3Oe1GXIL2/s1600/google-iran.jpg"
-    },
-    {
-      "id": "a27c6918f7f551a692f788a35ad05e54c8eedd0f",
-      "title": "PromptSpy Android Malware Abuses Gemini AI to Automate Recent-Apps Persistence",
-      "url": "https://thehackernews.com/2026/02/promptspy-android-malware-abuses-google.html",
-      "published": "2026-02-19T17:52:00+00:00",
-      "summary": "Cybersecurity researchers have discovered what they say is the first Android malware that abuses Gemini, Google's generative artificial intelligence (AI) chatbot, as part of its execution flow and achieves persistence.\nThe malware has been codenamed PromptSpy by ESET. The malware is equipped to capture lockscreen data, block uninstallation efforts, gather device information, take screenshots,",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidDhkNjYF9Khe4u-ECtSVv3ezo7dUK80WV06lgCNtOdV51GuCKCMmxgdm10lbAhP7MRPVY7Pq5yMuiYPAJ0Opk2xPijnkjHOWfPqiD9oR6k56GqDX6l5IgjYa_9ZTnvxvN6KnazUB0LBZ3aZMOnVrtoodDr-Hx_JTTNjMyzm-u1alcCL6VXeqoeTl12jFE/s1600/android-ai.jpg"
-    },
-    {
-      "id": "21947daf4f0baa449006049904f246dcd2be9346",
-      "title": "INTERPOL Operation Red Card 2.0 Arrests 651 in African Cybercrime Crackdown",
-      "url": "https://thehackernews.com/2026/02/interpol-operation-red-card-20-arrests.html",
-      "published": "2026-02-19T17:50:00+00:00",
-      "summary": "An international cybercrime operation against online scams has led to 651 arrests and recovered more than $4.3 million as part of an effort led by law enforcement agencies from 16 African countries.\nThe initiative, codenamed Operation Red Card 2.0, took place between December 8, 2025 and January 30, 2026, according to INTERPOL. It targeted infrastructure and actors behind high-yield investment",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhltf-8sYx4UcRPT_qBv92hmitOenRSgB2OctxYx4hdCPglcMJzeHR8Dmffrt5xjjtp0Tz2ur0wPSbvig7cnEyrdtJrOx8V4Z2sTGeR6eBlFwOO4pgPUISeLWGuMbUO4bnruvRWx-O6zYRUy_xw1F1CohPk2fZDkpM1YGXusO-8h8rgwQhLvZSlfp4ho5RJ/s1600/interpol.jpg"
     },
     {
       "id": "ac2cfde17e7fd7ef27ad8f69141d908e477a1cc4",
@@ -1212,6 +1212,17 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt875b8fba59a841d7/698e2cc9e340ea00087a8173/EU_lock_key-Vladyslav_Yushynov-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
+      "id": "15e23050bc4d36734ed5bfd9f73d55b9e98f51b9",
+      "title": "UK government's Vulnerability Monitoring System is working - fixes flow far faster",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/02/uk_gov_nips_public_sector/",
+      "published": "2026-03-02T03:27:41+00:00",
+      "summary": "<h4>PLUS: Firefox adds XSS protection; Leadership turnover at CISA; FTC exempts some data collection</h4> <p><strong>Infosec In Brief</strong>\u00a0 DNS vulnerabilities are being addressed 84 percent faster in the UK public sector thanks to an automated vulnerability scanning system established as part of a program kicked off early last year.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "0071cc24349097c0a8e2f88d386f17c47053f8ff",
       "title": "South Korea\u2019s tax office apologizes for leaking seed phrase to seized crypto",
       "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/02/south_korea_tax_office_cryptocurrency_leak/",
@@ -1751,17 +1762,6 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "ae040ee60fdffd03641e2ecc0d61aa3790f0f614",
-      "title": "Poland bans camera-packing cars made in China from military bases",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/02/19/poland_china_car_ban/",
-      "published": "2026-02-19T05:55:25+00:00",
-      "summary": "<h4>Dell, however, is welcome to help build a local-language LLM</h4> <p>Poland\u2019s Ministry of Defence has banned Chinese cars \u2013 and any others include tech to record position, images, or sound \u2013 from entering protected military facilities.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
       "id": "249a7530c3edc5cee92d07c53e106dba6caaed96",
       "title": "Who is the Kimwolf Botmaster \u201cDort\u201d?",
       "url": "https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/",
@@ -1812,6 +1812,39 @@
       "published": "2026-02-02T16:15:16+00:00",
       "summary": "A prolific data ransom gang that calls itself Scattered Lapsus ShinyHunters (SLSH) has a distinctive playbook when it seeks to extort payment from victim firms: Harassing, threatening and even swatting executives and their families, all while notifying journalists and regulators\u2026 <span class=\"read-more\"><a href=\"https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/\">Read More &#187;</a></span>",
       "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "453a904c2cc061b43f49ea30a2d4fc72f2f475d2",
+      "title": "North Korean APT Targets Air-Gapped Systems in Recent Campaign",
+      "url": "https://www.securityweek.com/north-korean-apt-targets-air-gapped-systems-in-recent-campaign/",
+      "published": "2026-03-02T11:46:29+00:00",
+      "summary": "<p>Using Windows shortcut files, the APT deployed a new implant, a loader, a propagation tool, and two backdoors.</p>\n<p>The post <a href=\"https://www.securityweek.com/north-korean-apt-targets-air-gapped-systems-in-recent-campaign/\">North Korean APT Targets Air-Gapped Systems in Recent Campaign</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "c7645e51ffb0662899420e1d778f66fb04b72b61",
+      "title": "Google Working Towards Quantum-Safe Chrome HTTPS Certificates",
+      "url": "https://www.securityweek.com/google-working-towards-quantum-safe-chrome-https-certificates/",
+      "published": "2026-03-02T11:33:34+00:00",
+      "summary": "<p>The internet giant is developing an evolution of the certificates based on Merkle Tree Certificates (MTCs).</p>\n<p>The post <a href=\"https://www.securityweek.com/google-working-towards-quantum-safe-chrome-https-certificates/\">Google Working Towards Quantum-Safe Chrome HTTPS Certificates\u00a0</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "bc89715fab18627d2d48a79dc67be507804613cb",
+      "title": "US-Israel and Iran Trade Cyberattacks: Pro-West Hacks Cause Disruption as Tehran Retaliates",
+      "url": "https://www.securityweek.com/us-israel-and-iran-trade-cyberattacks-pro-west-hacks-cause-disruption-as-tehran-retaliates/",
+      "published": "2026-03-02T11:04:32+00:00",
+      "summary": "<p>Both sides conduct hacking and other attacks, including the deployment of wiper malware, DDoS, and disruptions to critical infrastructure.\u00a0</p>\n<p>The post <a href=\"https://www.securityweek.com/us-israel-and-iran-trade-cyberattacks-pro-west-hacks-cause-disruption-as-tehran-retaliates/\">US-Israel and Iran Trade Cyberattacks: Pro-West Hacks Cause Disruption as Tehran Retaliates</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
@@ -1888,39 +1921,6 @@
       "url": "https://www.securityweek.com/chilean-carding-shop-operator-extradited-to-us/",
       "published": "2026-02-27T12:34:54+00:00",
       "summary": "<p>The 24-year-old suspect has been accused of trafficking over 26,000 cards from a single brand.</p>\n<p>The post <a href=\"https://www.securityweek.com/chilean-carding-shop-operator-extradited-to-us/\">Chilean Carding Shop Operator Extradited to US</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "9cfce5615d552532a42e6cfbde4244244ec63d1d",
-      "title": "Anthropic Refuses to Bend to Pentagon on AI Safeguards as Dispute Nears Deadline",
-      "url": "https://www.securityweek.com/anthropic-refuses-to-bend-to-pentagon-on-ai-safeguards-as-dispute-nears-deadline/",
-      "published": "2026-02-27T12:34:42+00:00",
-      "summary": "<p>Anthropic said it sought narrow assurances from the Pentagon that Claude won\u2019t be used for mass surveillance of Americans or in fully autonomous weapons.</p>\n<p>The post <a href=\"https://www.securityweek.com/anthropic-refuses-to-bend-to-pentagon-on-ai-safeguards-as-dispute-nears-deadline/\">Anthropic Refuses to Bend to Pentagon on AI Safeguards as Dispute Nears Deadline</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "0d3a0218787918f780705507fae0d2b7af50a0be",
-      "title": "Aeternum Botnet Loader Employs Polygon Blockchain C&C to Boost Resilience",
-      "url": "https://www.securityweek.com/aeternum-botnet-loader-employs-polygon-blockchain-cc-to-boost-resilience/",
-      "published": "2026-02-27T12:02:53+00:00",
-      "summary": "<p>Aeternum operates on smart contracts, making its command-and-control (C&#038;C) infrastructure difficult to disrupt.</p>\n<p>The post <a href=\"https://www.securityweek.com/aeternum-botnet-loader-employs-polygon-blockchain-cc-to-boost-resilience/\">Aeternum Botnet Loader Employs Polygon Blockchain C&#038;C to Boost Resilience</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "c29c7800b5893e125cca55349ed8f561acff884f",
-      "title": "Juniper Networks PTX Routers Affected by Critical Vulnerability",
-      "url": "https://www.securityweek.com/juniper-networks-ptx-routers-affected-by-critical-vulnerability/",
-      "published": "2026-02-27T10:39:18+00:00",
-      "summary": "<p>An out-of-band security update for Junos OS Evolved patches the remote code execution vulnerability CVE-2026-21902.</p>\n<p>The post <a href=\"https://www.securityweek.com/juniper-networks-ptx-routers-affected-by-critical-vulnerability/\">Juniper Networks PTX Routers Affected by Critical Vulnerability\u00a0</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
