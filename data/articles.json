@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-03T01:00:33.659655+00:00",
+  "generated_at": "2026-03-03T12:28:29.806835+00:00",
   "items": [
     {
       "id": "04f6d85ce76db69ff00ebe4ef7759847db068c06",
@@ -110,6 +110,61 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "b4123d87dd227bcee21c5a82dab133bfd3b39993",
+      "title": "AI Agents: The Next Wave Identity Dark Matter - Powerful, Invisible, and Unmanaged",
+      "url": "https://thehackernews.com/2026/03/ai-agents-next-wave-identity-dark.html",
+      "published": "2026-03-03T11:30:00+00:00",
+      "summary": "The Rise of MCPs in the Enterprise\nThe Model Context Protocol (MCP) is quickly becoming a practical way to push LLMs from \u201cchat\u201d into real work. By providing structured access to applications, APIs, and data, MCP enables prompt-driven AI agents that can retrieve information, take action, and automate end-to-end business workflows across the enterprise. This is already showing up in production",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiy66jCAP3njemOp9S0dnoRSikwWIk-OjV_6kygA0ubIpsczO3IWQf7SD3hcvCzRrDtiL6_2jOk3fWy2YtEWMwEyCmvzhw6QReN8cvfOlYuiXP4VzgeV_PaFRsylxXhR7akoqfkgxsD_oiNXSAabskwOrDoIJMSsAgr0VZO2UW-4odf7eAjioV1KX7mn3w/s1600/ormain.jpg"
+    },
+    {
+      "id": "a2a4288c7e9590630fb2ed370c45c1a45df1ed9a",
+      "title": "Starkiller Phishing Suite Uses AitM Reverse Proxy to Bypass Multi-Factor Authentication",
+      "url": "https://thehackernews.com/2026/03/starkiller-phishing-suite-uses-aitm.html",
+      "published": "2026-03-03T11:10:00+00:00",
+      "summary": "Cybersecurity researchers have disclosed details of a new phishing suite called Starkiller that proxies legitimate login pages to bypass multi-factor authentication (MFA) protections.\nIt's advertised as a cybercrime platform by a threat group calling itself Jinkusu, granting customers access to a dashboard that lets them select a brand to impersonate or enter a brand's real URL. It also lets",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOdnsC4miBmpXK8ZPV1kM1figMIfiqkQpUeAt8idIiZEFRCNt6AMaFSmpUaR215Hrw-XIGi6Zcl9vOgGO5ItB53gWlN_r8UxGz_yTrPTk9bFgCUudYbq2jETdm526DpMDaPyT8UFt7m5XUwlrYdJmUDyEmoQO6zcnGvUB4_W0mBiHJtWFqJk7udXMelfSu/s1600/star.jpg"
+    },
+    {
+      "id": "92f0d92bfc11b7a428274e1be34aca3124733440",
+      "title": "Microsoft Warns OAuth Redirect Abuse Delivers Malware to Government Targets",
+      "url": "https://thehackernews.com/2026/03/microsoft-warns-oauth-redirect-abuse.html",
+      "published": "2026-03-03T09:20:00+00:00",
+      "summary": "Microsoft on Monday warned of phishing campaigns that employ phishing emails and OAuth URL redirection mechanisms to bypass conventional phishing defenses implemented in email and browsers.\nThe activity, the company said, targets government and public-sector organizations with the end goal of redirecting victims to attacker-controlled infrastructure without stealing their tokens. It described",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVaGXK9F-m4oJx6H9HD0gQaOmONLT8sEFgtKmoGO4k6MzjQY-bfbtoGrUcG2k7tH571M_K6Ej7P5Z5vtjuCYsrKU3tRpOE2fkZv_ViiEmjpUeYwwHTB_8oKlQZd2-VysqvPgdvaofwFi13iPjMSe1pjf0nudP2s4YvheFQHwvsQT8neGjKTPq7nA_PPn0x/s1600/ms-login.jpg"
+    },
+    {
+      "id": "33a4aca60a6326089820f65989f19b2fd4c851c6",
+      "title": "Google Confirms CVE-2026-21385 in Qualcomm Android Component Exploited",
+      "url": "https://thehackernews.com/2026/03/google-confirms-cve-2026-21385-in.html",
+      "published": "2026-03-03T07:08:00+00:00",
+      "summary": "Google on Monday disclosed that a high-severity security flaw impacting an open-source Qualcomm component used in Android devices has been exploited in the wild.\nThe vulnerability in question is CVE-2026-21385 (CVSS score: 7.8), a buffer over-read in the Graphics component.\n\"Memory corruption when adding user-supplied data without checking available buffer space,\" Qualcomm said in an advisory,",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjR_pPCmiYZpBkIhumuW9B55rXBX7U9PZto5xPxHsLBbx5EstbqXgUI-XLZkQQV8OCsdaOi5RuSapl0V4LPKX9B_8MDBqSteyX83vXpj7G8-87BBhyphenhyphen75Os_0RhTFWBL_yxr7JVwXXtZ-qdbbugAlw9MoC5mFEx0hfQMncgnDRR8tLlEMXsLiPmim2sTjzNO/s1600/android-exploit.jpg"
+    },
+    {
+      "id": "a797adeb46f4d48accb01613485657646f54d3a3",
+      "title": "SloppyLemming Targets Pakistan and Bangladesh Governments Using Dual Malware Chains",
+      "url": "https://thehackernews.com/2026/03/sloppylemming-targets-pakistan-and.html",
+      "published": "2026-03-03T06:53:00+00:00",
+      "summary": "The threat activity cluster known as SloppyLemming has been attributed to a fresh set of attacks targeting government entities and critical infrastructure operators in Pakistan and Bangladesh.\nThe activity, per Arctic Wolf, took place between January 2025 and January 2026. It involves the use of two distinct attack chains to deliver malware families tracked as BurrowShell and a Rust-based",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfEU4zf_Kk2z8HBMdkRrw-hKeM6LmC7tBBt_P7K_2rGOfnc15ew5Y9fg4NeeCAMUNfRvcEhbLohCz6-oeONrOsfTnLDk7nEETbgewwLvjyqxprh26CYIpvGexZOvWADe0EutygQFHoGeMCa1sSNRQt-iA5meuqodGe7MK2Lpepa9CUu4PkxeszGIf_pDUH/s1600/malware-attack.jpg"
     },
     {
       "id": "1421506e94265246973e12390776c40e39226c2f",
@@ -607,61 +662,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnUd8T_I-xQKNmoLh2WLznpTvsH2JGWkhRJOOcjgUxat1PSS3OKl-z5P-OYhbJssm5DqAP8B3Dye8Z298RAqvSKibFo-ISDmF0qPlOpUdUVKJRO9Gy5MxDZP4A2uUxmoqBpfK95Z4u-hvqmNqsRE42ivsIc2H-NQYubExbmPug9WbHkVpuqry9hO9nNG4y/s1600/ai-code-scan.jpg"
     },
     {
-      "id": "49c79040e694b44243b21973214cf218b481d47b",
-      "title": "CISA Adds Two Actively Exploited Roundcube Flaws to KEV Catalog",
-      "url": "https://thehackernews.com/2026/02/cisa-adds-two-actively-exploited.html",
-      "published": "2026-02-21T07:21:00+00:00",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Roundcube webmail software to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\nThe vulnerabilities in question are listed below -\n\nCVE-2025-49113 (CVSS score: 9.9) - A deserialization of untrusted data vulnerability that allows remote code",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtZg49iJDSf0QXV_lj9uqgkcevxHhncfWJrejyCIdGb2hlzcVefAWXETqflE7uEUTuAGKkqfSpa9_w1FoNTZ-67YU4H-iUio2DfhF7o2qIMIbx8BewvMG8rHsq8eh7gBwjVckasb5Qj8jsGY_3wRjBaYTh-nL10wAWFI5PbCu62cfJFk9Y8ucUBDyQNkEh/s1600/roundcube.jpg"
-    },
-    {
-      "id": "1be0f8596f423fe11bdc971b60eccb1c79c56c05",
-      "title": "EC-Council Expands AI Certification Portfolio to Strengthen U.S. AI Workforce Readiness and Security",
-      "url": "https://thehackernews.com/2026/02/ec-council-expands-ai-certification.html",
-      "published": "2026-02-21T04:30:00+00:00",
-      "summary": "With $5.5 trillion in global AI risk exposure and 700,000 U.S. workers needing reskilling, four new AI certifications and Certified CISO v4 help close the gap between AI adoption and workforce readiness.\nEC-Council, creator of the world-renowned Certified Ethical Hacker (CEH) credential and a global leader in applied cybersecurity education, today launched its Enterprise AI Credential Suite,",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTNtB3q8UY8WtPavGisP57bq3aRlFLsQJSfTpwuLP0E1eqcPNAtjaI2_YeTjOxEi4GGQbFUOu-sYuTLRB_WnoQNAKfiwUIJqmU5G8GrhPjsmKCx_03Ecyid-28wg-nWj4RjV8YWVXM4unbx9uhtxBz-b7crRhe03y4fH8up6O3q2k5Gdjx-r4-9Yk4QCM/s1600/ec.jpg"
-    },
-    {
-      "id": "a169910a32ef307db48289493499c0e7c5fe478d",
-      "title": "BeyondTrust Flaw Used for Web Shells, Backdoors, and Data Exfiltration",
-      "url": "https://thehackernews.com/2026/02/beyondtrust-flaw-used-for-web-shells.html",
-      "published": "2026-02-20T15:45:00+00:00",
-      "summary": "Threat actors have been observed exploiting a recently disclosed critical security flaw impacting BeyondTrust Remote Support (RS) and Privileged Remote Access (PRA) products to conduct a wide range of malicious actions, including deploying VShell and&nbsp;\nThe vulnerability, tracked as CVE-2026-1731 (CVSS score: 9.9), allows attackers to execute operating system commands in the context of the",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjMKRB_5ww1tcCh0no0OxbE4Bhcg4nVEe4y-cHBLi03rhgJFM_8y6EatBQ_L00yCHRNRJmaiVq3fMGo2NUAjPLCbcXdWG2wqAG4qZtT0MAedKcFEiXHr_g2gRd0GuTc_wD8X5_Ss0Azn1YhZnEXO88hApw52GJI3_6hnJmf8aNueuEYFCLtdhaHBSg8i0a/s1600/bt-main.jpg"
-    },
-    {
-      "id": "8551a59d446718dea8a317cd6b1f22581cd38b1f",
-      "title": "Cline CLI 2.3.0 Supply Chain Attack Installed OpenClaw on Developer Systems",
-      "url": "https://thehackernews.com/2026/02/cline-cli-230-supply-chain-attack.html",
-      "published": "2026-02-20T14:20:00+00:00",
-      "summary": "In yet another software supply chain attack, the open-source, artificial intelligence (AI)-powered coding assistant Cline CLI was updated to stealthily install OpenClaw, a self-hosted autonomous AI agent that has become exceedingly popular in the past few months.\n\"On February 17, 2026, at 3:26 AM PT, an unauthorized party used a compromised npm publish token to publish an update to Cline CLI",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvPoczCRsYg15Y2soZNAfhG8r-8FhwlnlnpNANn6DmZ9WPYJo203gJTPDaWyrBoK8eRtHTBE2Xl5hBEIka4d0PcU2zQX5T6bl1tM1bt8Kq2sDFEplKhMlrSMWbJUhGw3nvlUbN9_3zMqrv9o8SlUdCGIea3rV2u4Z_KdV1PrGBDIcT1GYnfzsozeUy54ee/s1600/cline.jpg"
-    },
-    {
-      "id": "9f9d422af816afed4beb74b69ef7c32480832637",
-      "title": "ClickFix Campaign Abuses Compromised Sites to Deploy MIMICRAT Malware",
-      "url": "https://thehackernews.com/2026/02/clickfix-campaign-abuses-compromised.html",
-      "published": "2026-02-20T11:55:00+00:00",
-      "summary": "Cybersecurity researchers have disclosed details of a new ClickFix campaign that abuses compromised legitimate sites to deliver a previously undocumented remote access trojan (RAT) called MIMICRAT (aka AstarionRAT).\n\"The campaign demonstrates a high level of operational sophistication: compromised sites spanning multiple industries and geographies serve as delivery infrastructure, a multi-stage",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIWybmqdjOp2WuZ84iFMFu3-0eOVa8l0etXodmxf1nt6J5HOLansMggutpXiJZTE4n_ENW6Ea_hb-6XuzCoyrvS830lwOZC_T6GAeGTzHVNfa5kqoZ5QYrN-vscS1XlXY5bIvrmUhXnPbOB73YUoWoysyr4o1W8pbhYi-TEWTGuvbh3zL7baiD3RuAyE30/s1600/clickfix.jpg"
-    },
-    {
       "id": "9d33238b68c6ec48ee79f80eb7fabaefca2ed550",
       "title": "Critical OpenClaw Vulnerability Exposes AI Agent Risks",
       "url": "https://www.darkreading.com/application-security/critical-openclaw-vulnerability-ai-agent-risks",
@@ -671,6 +671,17 @@
       "region": "North America",
       "country": "US",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8b4a90dc0f0b5b75/69a60296c1c8e5611b80bbeb/openclaw_Koshiro_K_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
+      "id": "2944171d58c3f7199f70a9deb76b62d324f7b820",
+      "title": "The Tug-of-War Over Firewall Backlogs in the AI-Driven Development Era",
+      "url": "https://www.darkreading.com/cloud-security/tug-of-war-firewall-backlogs-ai-driven-development",
+      "published": "2026-03-02T21:32:04+00:00",
+      "summary": "Speed and security are historically clashing priorities, but with AI and automation, it's increasingly important that application developers and security teams get on the same page.",
+      "source": "DarkReading",
+      "region": "North America",
+      "country": "US",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0c35949af234a749/69a6057c74173e6ab55fd0d8/2PYHW0W.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "id": "095481cc97ffcfa39f4e7b039f427fd16cb7247c",
@@ -1201,15 +1212,37 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf459c9ff5d345e58/686d20d8a502a804ecf992c7/browser-security-Robert_Avgustin-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "bf61f0e670356cda587c3c13ffd6557deadbe07f",
-      "title": "Microsoft Under Pressure to Bolster Defenses for BYOVD Attacks",
-      "url": "https://www.darkreading.com/application-security/microsoft-under-pressure-defenses-byovd-attacks",
-      "published": "2026-02-13T17:08:59+00:00",
-      "summary": "Threat actors are exploiting security gaps to weaponize Windows drivers and terminate security processes in targeted networks, and there may be no easy fixes in sight.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc47bdfb118e01ac9/698f45e46b7ceb00088481e3/drivers_SamanthaCraddock_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "id": "b7d4c6fdc4a6433c7f28216b4e84bca8e13e2ebe",
+      "title": "Chrome Gemini panel became privilege escalator for rogue extensions",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/03/google_chrome_bug_gemini/",
+      "published": "2026-03-03T11:39:09+00:00",
+      "summary": "<h4>High-severity flaw let malicious add-ons access system via browser's embedded AI feature</h4> <p>Security boffins have discovered a high-severity bug in Google Chrome that allowed malicious extensions to hijack its Gemini Live AI panel and inherit privileges they were never meant to have.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "dec249bff222aab84c9ce0c5537877f98d62452e",
+      "title": "Cybercriminals swipe 15.8M medical records from French doctors ministry",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/03/french_medical_leak/",
+      "published": "2026-03-03T11:00:07+00:00",
+      "summary": "<h4>Third-party software supplier breached leading to leak of notes</h4> <p>Around 15.8 million administrative files were stolen after attackers breached a software supplier to France's health ministry.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "03c3bbd348a38656abe10987af954b28fdd805e7",
+      "title": "Gamers furious as Brit studio Cloud Imperium quietly admits to data breach",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/03/brit_games_studio_cloud_imperium/",
+      "published": "2026-03-03T06:24:19+00:00",
+      "summary": "<h4>Slow disclosure and odd reassurance that exposing names and contact details won't be a problem isn't going down well</h4> <p>Gamers are ready to unleash their mightiest virtual weapons and point them at British games studio Cloud Imperium, after it sat on news of a data breach and then announced it without fanfare.\u2026</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
       "id": "bd2f1060de282aa058fab8cd82c9658d86ddfeaf",
@@ -1235,7 +1268,7 @@
     },
     {
       "id": "612245b30948f3435c0fc357fc16d94111298494",
-      "title": "UK Businesses told to brace cyber defenses amid Iran conflict risk",
+      "title": "UK businesses told to brace cyber defenses amid Iran conflict risk",
       "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/02/ncsc_security_iran/",
       "published": "2026-03-02T18:44:26+00:00",
       "summary": "<h4>NCSC urges all to review posture as escalating tensions increase risk of indirect digital spillover</h4> <p>The UK's cybersecurity agency is warning British organizations to brace for potential digital blowback as the Middle East conflict spills further into the online world.\u2026</p>",
@@ -1729,39 +1762,6 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "8b048638e8e9463ec235d681844c2ada77c44100",
-      "title": "Snyk CEO bails, wants someone with more AI experience to replace him",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/02/20/snyk_ceo_stands_down/",
-      "published": "2026-02-20T05:07:25+00:00",
-      "summary": "<h4>Skill at buzzword bingo also required as company seeks innovative and disruptive visionary</h4> <p>The CEO of code review platform provider Snyk has announced he will stand down so the company can find someone better-equipped to steer the company into the age of AI.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "7360e6f3643e28252d0a8289b2eef5dfdd3ebfc2",
-      "title": "AI agents abound, unbound by rules or safety disclosures",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/02/20/ai_agents_abound_unbound_by/",
-      "published": "2026-02-20T01:01:15+00:00",
-      "summary": "<h4>MIT CSAIL's 2025 AI Agent Index puts opaque automated systems under the microscope</h4> <p>AI agents are becoming more common and more capable, without consensus or standards on how they should behave, say academic researchers.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "0ebf4338e06662a01373ae326d291ab31b25e0d2",
-      "title": "Crims create fake remote management vendor that actually sells a RAT",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/02/19/rmm_rat_trustconnect/",
-      "published": "2026-02-19T23:46:21+00:00",
-      "summary": "<h4>$300 a month buys you a backdoor that looks like legit software</h4> <p>Researchers at Proofpoint late last month uncovered what they describe as a \"weird twist\" on the growing trend of criminals abusing remote monitoring and management software (RMM) as their preferred attack tools.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
       "id": "249a7530c3edc5cee92d07c53e106dba6caaed96",
       "title": "Who is the Kimwolf Botmaster \u201cDort\u201d?",
       "url": "https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/",
@@ -1812,6 +1812,39 @@
       "published": "2026-02-02T16:15:16+00:00",
       "summary": "A prolific data ransom gang that calls itself Scattered Lapsus ShinyHunters (SLSH) has a distinctive playbook when it seeks to extort payment from victim firms: Harassing, threatening and even swatting executives and their families, all while notifying journalists and regulators\u2026 <span class=\"read-more\"><a href=\"https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/\">Read More &#187;</a></span>",
       "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "6dbcb08ee4504137a38c9f56941c58251f6ced9b",
+      "title": "Iran Cyber Front: Hacktivist Activity Rises, but State-Sponsored Attacks Stay Low",
+      "url": "https://www.securityweek.com/iran-cyber-front-hacktivist-activity-rises-but-state-sponsored-attacks-stay-low/",
+      "published": "2026-03-03T12:25:28+00:00",
+      "summary": "<p>The cybersecurity industry is monitoring the landscape and says many of the big claims made by hacktivist groups remain unverified.</p>\n<p>The post <a href=\"https://www.securityweek.com/iran-cyber-front-hacktivist-activity-rises-but-state-sponsored-attacks-stay-low/\">Iran Cyber Front: Hacktivist Activity Rises, but State-Sponsored Attacks Stay Low</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "cc63236b28ed054432f7f21e752c3ed8c857f0c5",
+      "title": "Vulnerability in MS-Agent AI Framework Can Allow Full System Compromise",
+      "url": "https://www.securityweek.com/vulnerability-in-ms-agent-ai-framework-can-allow-full-system-compromise/",
+      "published": "2026-03-03T10:43:20+00:00",
+      "summary": "<p>Improper input sanitization in the framework can be exploited through the Shell tool, allowing attackers to modify system files and steal data.</p>\n<p>The post <a href=\"https://www.securityweek.com/vulnerability-in-ms-agent-ai-framework-can-allow-full-system-compromise/\">Vulnerability in MS-Agent AI Framework Can Allow Full System Compromise</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "e7e69fb8e97377162a35f300cb0a770ac4dd70aa",
+      "title": "Researchers Uncover Method to Track Cars via Tire Sensors",
+      "url": "https://www.securityweek.com/researchers-uncover-method-to-track-cars-via-tire-sensors/",
+      "published": "2026-03-03T09:40:03+00:00",
+      "summary": "<p>Using low-cost receivers deployed along roads, academic researchers tracked drivers and their movement patterns.</p>\n<p>The post <a href=\"https://www.securityweek.com/researchers-uncover-method-to-track-cars-via-tire-sensors/\">Researchers Uncover Method to Track Cars via Tire Sensors</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
@@ -1888,39 +1921,6 @@
       "url": "https://www.securityweek.com/google-working-towards-quantum-safe-chrome-https-certificates/",
       "published": "2026-03-02T11:33:34+00:00",
       "summary": "<p>The internet giant is developing an evolution of the certificates based on Merkle Tree Certificates (MTCs).</p>\n<p>The post <a href=\"https://www.securityweek.com/google-working-towards-quantum-safe-chrome-https-certificates/\">Google Working Towards Quantum-Safe Chrome HTTPS Certificates\u00a0</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "bc89715fab18627d2d48a79dc67be507804613cb",
-      "title": "US-Israel and Iran Trade Cyberattacks: Pro-West Hacks Cause Disruption as Tehran Retaliates",
-      "url": "https://www.securityweek.com/us-israel-and-iran-trade-cyberattacks-pro-west-hacks-cause-disruption-as-tehran-retaliates/",
-      "published": "2026-03-02T11:04:32+00:00",
-      "summary": "<p>Both sides conduct hacking and other attacks, including the deployment of wiper malware, DDoS, and disruptions to critical infrastructure.\u00a0</p>\n<p>The post <a href=\"https://www.securityweek.com/us-israel-and-iran-trade-cyberattacks-pro-west-hacks-cause-disruption-as-tehran-retaliates/\">US-Israel and Iran Trade Cyberattacks: Pro-West Hacks Cause Disruption as Tehran Retaliates</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "c104e0181ee81791f5280cc4f06faf8c7f401644",
-      "title": "Hackers Weaponize Claude Code in Mexican Government Cyberattack",
-      "url": "https://www.securityweek.com/hackers-weaponize-claude-code-in-mexican-government-cyberattack/",
-      "published": "2026-03-01T12:30:00+00:00",
-      "summary": "<p>The AI was abused to write exploits, create tools, and automatically exfiltrate over 150GB of data.</p>\n<p>The post <a href=\"https://www.securityweek.com/hackers-weaponize-claude-code-in-mexican-government-cyberattack/\">Hackers Weaponize Claude Code in Mexican Government Cyberattack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "5def98b4d845b4a59c724311d89999c92c9cbd46",
-      "title": "Canadian Tire Data Breach Impacts 38 Million Accounts",
-      "url": "https://www.securityweek.com/canadian-tire-data-breach-impacts-38-million-accounts/",
-      "published": "2026-02-28T11:50:00+00:00",
-      "summary": "<p>Names, addresses, email addresses, phone numbers, and encrypted passwords were compromised in the attack.</p>\n<p>The post <a href=\"https://www.securityweek.com/canadian-tire-data-breach-impacts-38-million-accounts/\">Canadian Tire Data Breach Impacts 38 Million Accounts</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
