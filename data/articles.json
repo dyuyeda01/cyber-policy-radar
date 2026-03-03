@@ -1,6 +1,39 @@
 {
-  "generated_at": "2026-03-02T12:28:40.392384+00:00",
+  "generated_at": "2026-03-03T01:00:33.659655+00:00",
   "items": [
+    {
+      "id": "04f6d85ce76db69ff00ebe4ef7759847db068c06",
+      "title": "University of Mississippi Medical Center reopens clinics after ransomware attack",
+      "url": "https://www.cybersecuritydive.com/news/university-mississippi-medical-center-ransomware-attack/813507/",
+      "published": "2026-03-02T16:55:00+00:00",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/bXbNdhunP-59dQk-nu5LUq_ZM47X2ho7zbxbnf1KLSk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzk5OTgwMDQ2LmpwZw==.webp\" /></div></figure><p>The academic medical center&rsquo;s clinics can once again access patient records and are resuming normal operations more than a week after the attack.</p>",
+      "source": "Cybersecurity Dive",
+      "region": "North America",
+      "country": "US",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "d226d08c747441bc8f1e88487aec55e040529569",
+      "title": "Iran-linked hackers raise threat level against US, allies",
+      "url": "https://www.cybersecuritydive.com/news/iran-hackers-threat-level-us-allies/813494/",
+      "published": "2026-03-02T16:20:37+00:00",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/0msu82nSIZi3-O6Q-lfo3NuI9hWmsHMew3-svs_lprg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjYzNDU0NDY4LmpwZw==.webp\" /></div></figure><p>Security researchers warn that hacktivists and state-linked groups are using DDoS, phishing and other tactics against critical infrastructure.</p>",
+      "source": "Cybersecurity Dive",
+      "region": "North America",
+      "country": "US",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "940ac46c430ebaf68965b34621511c828218c0f8",
+      "title": "How Microsoft, partners are tackling \u2018huge, huge task\u2019 of making security software safer",
+      "url": "https://www.cybersecuritydive.com/news/microsoft-windows-resilience-initiative-security-kernel/813416/",
+      "published": "2026-03-02T13:00:00+00:00",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/v5ZwxHS6ZFhwHbLAmpWOWj1Seoc_bnNS6vCuMm05zL4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NaWNyb3NvZnRfR2V0dHlJbWFnZXMtMTUwOTMxMDM4My5qcGc=.webp\" /></div></figure><p>The technology giant and third-party security vendors are plotting an ambitious overhaul of how their products interoperate.</p>",
+      "source": "Cybersecurity Dive",
+      "region": "North America",
+      "country": "US",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
     {
       "id": "c7f69511ea8543494469799cac628d5ec3898240",
       "title": "ResOps: The new operating model bridging security, identity and recovery",
@@ -79,37 +112,48 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "65bf1398ff0e141aef11809172f3f6ce7d7d5091",
-      "title": "Software vulnerabilities are being weaponized faster than ever",
-      "url": "https://www.cybersecuritydive.com/news/software-vulnerabilities-are-being-weaponized-faster-than-ever/813096/",
-      "published": "2026-02-25T16:26:50+00:00",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/FH9EsU0lp5_cw8kITbxo7ctqXx6G_47HuJtfjl6oFRo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9pZGVudGl0eV9mcmF1ZF9pbGx1c3RyYXRpb24uanBn.webp\" /></div></figure><p>A report by VulnCheck shows threat groups are exploiting a small percentage of critical flaws well before security teams can mitigate.</p>",
-      "source": "Cybersecurity Dive",
+      "id": "1421506e94265246973e12390776c40e39226c2f",
+      "title": "New Chrome Vulnerability Let Malicious Extensions Escalate Privileges via Gemini Panel",
+      "url": "https://thehackernews.com/2026/03/new-chrome-vulnerability-let-malicious.html",
+      "published": "2026-03-02T17:08:00+00:00",
+      "summary": "Cybersecurity researchers have disclosed details of a now-patched security flaw in Google Chrome that could have permitted attackers to escalate privileges and gain access to local files on the system.\nThe vulnerability, tracked as CVE-2026-0628 (CVSS score: 8.8), has been described as a case of insufficient policy enforcement in the WebView tag. It was patched by Google in early January 2026",
+      "source": "The Hacker News",
       "region": "North America",
       "country": "US",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGvdv2as5vfPUJybxkOOX1bDflJKOb5b1uVw9SHrVOo6TD5GKc0JbMB2p2yxxpwj4UlZK680ZnF4J8Ccie6G13W8cklnxDOs-E74-jy3fuIyr53UWuGuwhSM8HvHUIhilChdeRdF3yz9ObuHMHlKGUHI4TMWachzuvWJ3aZdEmz_fPNaIRm_IYDKiqUl1G/s1600/gemini-chrome.jpg"
     },
     {
-      "id": "1d603b9b092bc4855bb39a03b7b75e3882d76b5e",
-      "title": "China-linked hackers breached dozens of telecoms, government agencies",
-      "url": "https://www.cybersecuritydive.com/news/china-cyberattacks-telecommunications-google-sheets/813082/",
-      "published": "2026-02-25T15:40:45+00:00",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/kLj0I4klKEMQ-swUtijZxfGrCnTfHAppXgFqNFQUMlU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjA0MjYwNzIzLmpwZw==.webp\" /></div></figure><p>The cyberattacks used a clever technique: malware that hid in plain sight on Google Sheets.</p>",
-      "source": "Cybersecurity Dive",
+      "id": "53acdbfb71193bbb6c34cbafabfa5ee98261c8ae",
+      "title": "Google Develops Merkle Tree Certificates to Enable Quantum-Resistant HTTPS in Chrome",
+      "url": "https://thehackernews.com/2026/03/google-develops-merkle-tree.html",
+      "published": "2026-03-02T16:52:00+00:00",
+      "summary": "Google has announced a new program in its Chrome browser to ensure that HTTPS certificates are secure against the future risk posed by quantum computers.\n\"To ensure the scalability and efficiency of the ecosystem, Chrome has no immediate plan to add traditional X.509 certificates containing post-quantum cryptography to the Chrome Root Store,\" the Chrome Secure Web and Networking Team said.\n\"",
+      "source": "The Hacker News",
       "region": "North America",
       "country": "US",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjI7UWgA_nVAo80v0LRW4e9HTMYUIiEebPJv-EX7ssG1EVxwD-_hlvqqVzQ7Eb4mA9FWWW1U2WYmA8JPnPhyphenhyphenBWaCgFcyeEzcr0QhDRoUsPYgMqB7Ddt2_vEzEYMJj0w9Q9lb2nf12s_FoXDpql2BbxlpCo1oplXSzGjLFmqAsoW_Ix7CufTx5LiWrepwal8/s1600/chrome.jpg"
     },
     {
-      "id": "5c163d3021926aa1718d79aa8bf86e09267f288a",
-      "title": "In the AI era, CISOs worry about data leaks and doubt tech will solve skills gaps",
-      "url": "https://www.cybersecuritydive.com/news/in-the-ai-era-cisos-worry-about-data-leaks-and-doubt-tech-will-solve-skill/812964/",
-      "published": "2026-02-24T15:56:18+00:00",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/-yUNKKJCehUXUfwMSsYO8a5h9aED-IHqbIilTRKXT1Q/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjQ4MzE3OTk0LmpwZw==.webp\" /></div></figure><p>CISOs see AI as necessary but insufficient technology and fraught with risks, a new report found.</p>",
-      "source": "Cybersecurity Dive",
+      "id": "30df4179a20e11c258efff11b5a2d6247512c0b8",
+      "title": "\u26a1 Weekly Recap: SD-WAN 0-Day, Critical CVEs, Telegram Probe, Smart TV Proxy SDK and More",
+      "url": "https://thehackernews.com/2026/03/weekly-recap-sd-wan-0-day-critical-cves.html",
+      "published": "2026-03-02T13:26:00+00:00",
+      "summary": "This week is not about one big event. It shows where things are moving. Network systems, cloud setups, AI tools, and common apps are all being pushed in different ways. Small gaps in access control, exposed keys, and normal features are being used as entry points.\nThe pattern becomes clear only when you see everything together. Faster scans, smarter misuse of trusted services, and steady",
+      "source": "The Hacker News",
       "region": "North America",
       "country": "US",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgu0K0gzfLNadrVS1pk-FHUr-YKau70_2AMjFqoEQn73Mycfa1L3KJO_qQw4Iy83xZ4N8CIj4at04Eh4RDW8FBqza_Ob59078iWjuUKiRYDmlBsKka28GnhpwY680JoRjiO_6LGSU56CLbbj58UKANlY57dUOuQSG18lHn1kBtnn6oEaypA0DcdPypgylsI/s1600/recap-main.jpg"
+    },
+    {
+      "id": "ac947a2a1b807c71ddd02d72b8c4bd820b324ab4",
+      "title": "How to Protect Your SaaS from Bot Attacks with SafeLine WAF",
+      "url": "https://thehackernews.com/2026/03/how-to-protect-your-saas-from-bot.html",
+      "published": "2026-03-02T11:55:00+00:00",
+      "summary": "Most SaaS teams remember the day their user traffic started growing fast. Few notice the day bots started targeting them.\nOn paper, everything looks great: more sign-ups, more sessions, more API calls. But in reality, something feels off:\n\nSign-ups increase, but users aren\u2019t activating.\nServer costs rise faster than revenue.\nLogs are filled with repeated requests from strange user agents.\n\nIf",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg26Zv-2JJHry05kpFUII9FwYbAuuOo0Wcdb3JH31Zkra0fNWVzvjjVEcBkHMlrctkhJbZzTygsEUTtn3vP-0eboH1JfY3x-bGM5-epP8rB610TfRYk4HD9SLZ-rhnFYt-U52xiAurOeGa2SoHVjbjjfpTr8nEpxbteNyzCrIvX8ICcKWNaDHQFFrvi7UQ/s1600/safeline.jpg"
     },
     {
       "id": "8e6535d471c5e05a9f887f160027730225be1492",
@@ -618,48 +662,37 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIWybmqdjOp2WuZ84iFMFu3-0eOVa8l0etXodmxf1nt6J5HOLansMggutpXiJZTE4n_ENW6Ea_hb-6XuzCoyrvS830lwOZC_T6GAeGTzHVNfa5kqoZ5QYrN-vscS1XlXY5bIvrmUhXnPbOB73YUoWoysyr4o1W8pbhYi-TEWTGuvbh3zL7baiD3RuAyE30/s1600/clickfix.jpg"
     },
     {
-      "id": "4dc6c5e3ae344b3d581ebd1a0106e9fec8ba25ba",
-      "title": "Identity Cyber Scores: The New Metric Shaping Cyber Insurance in 2026",
-      "url": "https://thehackernews.com/2026/02/identity-cyber-scores-new-metric.html",
-      "published": "2026-02-20T10:30:00+00:00",
-      "summary": "With one in three cyber-attacks now involving compromised employee accounts, insurers and regulators are placing far greater emphasis on identity posture when assessing cyber risk.&nbsp;\nFor many organizations, however, these assessments remain largely opaque. Elements such as password hygiene, privileged access management, and the extent of multi-factor authentication (MFA) coverage are",
-      "source": "The Hacker News",
+      "id": "9d33238b68c6ec48ee79f80eb7fabaefca2ed550",
+      "title": "Critical OpenClaw Vulnerability Exposes AI Agent Risks",
+      "url": "https://www.darkreading.com/application-security/critical-openclaw-vulnerability-ai-agent-risks",
+      "published": "2026-03-02T22:34:36+00:00",
+      "summary": "The now-patched flaw is the latest in a growing string of security issues associated with the viral AI tool, which has seen rapid adoption among developers.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEij2H1-xKGMb4Q70WJNrlk_Mgup1cfHNGRRmnZxhOaJLcfWBq_audXpVc5TAUsyT9MRS5hST-fI7ZaH59FVMzAzYubjo7YdUoRcmtEs8v3ck9J8jhJdnEq9mtU4FqTYA-ikCBGQ4edCU47t9pN-ljEQO00-e1ZNMrxQYuyev9uLfv9VQU_KOhJQUFSa6YWF/s1600/OUT.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8b4a90dc0f0b5b75/69a60296c1c8e5611b80bbeb/openclaw_Koshiro_K_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "7ee1086bac377d0b24805115235d1850218d28db",
-      "title": "Ukrainian National Sentenced to 5 Years in North Korea IT Worker Fraud Case",
-      "url": "https://thehackernews.com/2026/02/ukrainian-national-sentenced-to-5-years.html",
-      "published": "2026-02-20T09:52:00+00:00",
-      "summary": "A 29-year-old Ukrainian national has been sentenced to five years in prison in the U.S. for his role in facilitating North Korea's fraudulent information technology (IT) worker scheme.\nIn November 2025, Oleksandr \"Alexander\" Didenko pleaded guilty to wire fraud conspiracy and aggravated identity theft for stealing the identities of U.S. citizens and selling them to IT workers to help them land",
-      "source": "The Hacker News",
+      "id": "095481cc97ffcfa39f4e7b039f427fd16cb7247c",
+      "title": "30 Alleged Members of 'The Com' Arrested in Project Compass",
+      "url": "https://www.darkreading.com/threat-intelligence/30-alleged-members-the-com-arrested-project-compass",
+      "published": "2026-03-02T20:32:09+00:00",
+      "summary": "The global law enforcement crackdown, which began in January 2025, also identified nearly 180 members of the notorious cybercriminal collective.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7SAlrXjwZQ5XcgI0VvKJ13Np81mBpx_kV5bcRCdUERu1dffmFSpnVoQxYFSC5pURrbqYF4roBPOUvaiG8oa5NimxrYTLdbUYboTyDfRCdgCPf0qGUwaCgUx7lb31vHJb1pB8Y83YGG0WaNwlLsBCPdp0t22HxMdyo2v_rRES5X5nL752HSPyMS3cAKBZ9/s1600/IT-Worker-Fraud.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc914db137ec7570a/69a5f6ce8fea9d6cbb430e58/handcuffs_IhorKuz_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "bcc211ebf0c943e81d7f3ebf04a70424d68576c1",
-      "title": "FBI Reports 1,900 ATM Jackpotting Incidents Since 2020, $20M Lost in 2025",
-      "url": "https://thehackernews.com/2026/02/fbi-reports-1900-atm-jackpotting.html",
-      "published": "2026-02-20T08:05:00+00:00",
-      "summary": "The U.S. Federal Bureau of Investigation (FBI) has warned of an increase in ATM jackpotting incidents across the country, leading to losses of more than $20 million in 2025.\nThe agency said 1,900 ATM jackpotting incidents have been reported since 2020, out of which 700 took place last year. In December 2025, the U.S. Department of Justice (DoJ) said about $40.73 million has been collectively",
-      "source": "The Hacker News",
+      "id": "4adc673db4c6d7f1fa4d577c69b8a77ba220ce30",
+      "title": "Bug in Google's Gemini AI Panel Opens Door to Hijacking",
+      "url": "https://www.darkreading.com/endpoint-security/bug-google-gemini-ai-panel-hijacking",
+      "published": "2026-03-02T10:27:15+00:00",
+      "summary": "Attackers could have exploited the vulnerability to escalate privileges, violate user privacy while browsing, and access sensitive resources.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiXPVDmMVgDgvY95KLoB6_26_t5Kwrx7BSZ4ZReWQo8tfOw2DKA5juhnpWoX0DZNeATur1aceTliNyPR6QoBPIY_ur5fFBmVaJIv022Z_2v6s6AQQczflmpczLHtjFtSIAM63etJp9ClLbZkGD2ZIqWbSDu5XBQofkvD3bc1UpJTsbKo0NcvwCciTUkDGK/s1600/atm-hacking.jpg"
-    },
-    {
-      "id": "03624afeea89dce4a1c51f7c56f1c68a2ea536a1",
-      "title": "Former Google Engineers Indicted Over Trade Secret Transfers to Iran",
-      "url": "https://thehackernews.com/2026/02/three-former-google-engineers-indicted.html",
-      "published": "2026-02-20T05:27:00+00:00",
-      "summary": "Two former Google engineers and one of their husbands have been indicted in the U.S. for allegedly committing trade secret theft from the search giant and other tech firms and transferring the information to unauthorized locations, including Iran.\nSamaneh Ghandali, 41, and her husband Mohammadjavad Khosravi (aka Mohammad Khosravi), 40, along with her sister Soroor Ghandali, 32, have been accused",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpjPkindvHhAkTNady5lI22zPkPfSqmVuaxvfEwnLVFvhSVUe_rhMjzTQ3c6sVpvLw_RB1YXtEPoqO1Uq1diOtZ3FC-oudy7x826CjtJE-Y0nxnJtvZBdXmOqfGgLwcJfGC3vN4xODBXTW_vSkg6oAVnVzUekFFe1YJaH5_YBDfAqG4W-tJOw3Oe1GXIL2/s1600/google-iran.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt62ea066bfc2ba78d/69a570ad37a8be5be476868d/chrome_QubixStudio_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "id": "ac2cfde17e7fd7ef27ad8f69141d908e477a1cc4",
@@ -1179,37 +1212,59 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc47bdfb118e01ac9/698f45e46b7ceb00088481e3/drivers_SamanthaCraddock_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "17d89f2271b31ef1e57eebaf6a9601d61a908a58",
-      "title": "Nation-State Hackers Put Defense Industrial Base Under Siege",
-      "url": "https://www.darkreading.com/cyber-risk/nation-state-hackers-defense-industrial-base-under-siege",
-      "published": "2026-02-13T17:07:24+00:00",
-      "summary": "Espionage groups from China, Russia and other nations burned at least two dozen zero-days in edge devices in attempts to infiltrate defense contractors' networks.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7ea3541a2450ab89/698f403680dadf0008215020/attacks-against-defense-world-map-ESET.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "id": "bd2f1060de282aa058fab8cd82c9658d86ddfeaf",
+      "title": "Phish of the day: Microsoft OAuth scams abuse redirects for malware delivery",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/03/microsoft_oauth_scams/",
+      "published": "2026-03-03T00:33:15+00:00",
+      "summary": "<h4>Crims hope for payday from malicious payloads rather than stealing access tokens</h4> <p>Microsoft has warned organizations about ongoing OAuth abuse scams that use phishing emails and URL redirects to infect victims' machines with malware and take over their devices.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "ced9334c54a666bf30dc7f7be9b9290b094b120b",
-      "title": "AI Agents 'Swarm,' Security Complexity Follows Suit",
-      "url": "https://www.darkreading.com/cloud-security/ai-agents-swarm-security-complexity",
-      "published": "2026-02-13T16:49:39+00:00",
-      "summary": "As AI deployments scale and start to include packs of agents autonomously working in concert, organizations face a naturally amplified attack surface.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf93f1e0821b376bb/698e2c405d330e0008bd406d/Agent_Smith_Maximum_Film_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "id": "bc7e655f52d925861f697cee4ccecae978ee0e36",
+      "title": "Iran's cyberwar has begun",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/02/cyber_warfighters_iran/",
+      "published": "2026-03-02T20:52:18+00:00",
+      "summary": "<h4>'Expect elevated activity for the foreseeable future'</h4> <p>Iranian hackers have launched spying expeditions, digital probes, and distributed denial of service (DDoS) attacks in the wake of the US and Israel launching missile strikes over the weekend, and security researchers urge organizations to expect more cyber intrusions as the war continues.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "5f868cc0a6065f285515fb01fb38ec775d2e0349",
-      "title": "Ivanti EPMM Zero-Day Bugs Spark Exploit Frenzy \u2014 Again",
-      "url": "https://www.darkreading.com/endpoint-security/ivanti-epmm-zero-day-bugs-exploit",
-      "published": "2026-02-12T22:05:32+00:00",
-      "summary": "It's time to phase out the &quot;patch and pray&quot; approach, eliminate needless public interfaces, and enforce authentication controls, one expert says.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt875b8fba59a841d7/698e2cc9e340ea00087a8173/EU_lock_key-Vladyslav_Yushynov-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "id": "612245b30948f3435c0fc357fc16d94111298494",
+      "title": "UK Businesses told to brace cyber defenses amid Iran conflict risk",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/02/ncsc_security_iran/",
+      "published": "2026-03-02T18:44:26+00:00",
+      "summary": "<h4>NCSC urges all to review posture as escalating tensions increase risk of indirect digital spillover</h4> <p>The UK's cybersecurity agency is warning British organizations to brace for potential digital blowback as the Middle East conflict spills further into the online world.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "819411c1601b63bd5145c009bce9a89823171a74",
+      "title": "Memory scalpers hunt scarce DRAM with bot blitz",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/02/memory_scalpers_hunt_scarce_dram/",
+      "published": "2026-03-02T14:00:06+00:00",
+      "summary": "<h4>We can remember it for you wholesale, and sell it back to you for big bucks</h4> <p>Web scraping bots are increasing the pressure on the tech supply chain by scouring sites for DRAM, so their minders can snap up increasingly scarce inventory and resell it for a quick profit.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "fa22a1864981c5b7a1dc3899daa776e60bbbd7ce",
+      "title": "Scammers try to SIM-swap Dubai citizens hours after Iranian missile strikes",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/02/dubai_iran_sim_swap/",
+      "published": "2026-03-02T13:42:52+00:00",
+      "summary": "<h4>Vulnerable citizens targeted by criminals purporting to represent fake police crisis department</h4> <p>Scammers targeted Dubai citizens mere hours after missiles struck the city, attempting to gain access to their bank accounts, police have warned.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
       "id": "15e23050bc4d36734ed5bfd9f73d55b9e98f51b9",
@@ -1282,7 +1337,7 @@
       "title": "French DIY etailer ManoMano admits customer data stolen",
       "url": "https://go.theregister.com/feed/www.theregister.com/2026/02/27/manomano_breach/",
       "published": "2026-02-27T15:15:07+00:00",
-      "summary": "<h4>Crooks claim they helped themselves to over 37M accounts during January hit on subcontractor</h4> <p>French online marketplace ManoMano is warning customers their personal data was siphoned off after a cyberattack hit one of its customer support subcontractors \u2013 and criminals are already claiming the haul is far larger than the company's carefully worded notice suggests.\u2026</p>",
+      "summary": "<h4>Crooks claim they helped themselves to over 37M accounts during January hit on subcontractor</h4> <p><strong>Updated</strong>\u00a0 French online marketplace ManoMano is warning customers their personal data was siphoned off after a cyberattack hit one of its customer support subcontractors \u2013 and criminals are already claiming the haul is far larger than the company's carefully worded notice suggests.\u2026</p>",
       "source": "The Register \u2013 Security",
       "region": "Europe",
       "country": "UK",
@@ -1707,61 +1762,6 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "35c9cc8b9a858429c8f21d3f0be42146530cac98",
-      "title": "Crims hit a $20M jackpot via malware-stuffed ATMs",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/02/19/crims_atm_jackpotting/",
-      "published": "2026-02-19T18:39:04+00:00",
-      "summary": "<h4>FBI warns these cyber-physical attacks are on the rise</h4> <p>Thieves stole more than $20 million from compromised ATMs last year using a malware-assisted technique that the FBI says is on the uptick across the United States.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "7d1e373c756f5891f68acee108e73b0abe8f6dd3",
-      "title": "Android malware taps Gemini to navigate infected devices",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/02/19/genai_malware_android/",
-      "published": "2026-02-19T16:04:52+00:00",
-      "summary": "<h4>For now, it might not function outside of a lab</h4> <p>Cybersecurity researchers say they've spotted the first Android malware strain that uses generative AI to improve performance once installed. But it may be only a proof of concept.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "de14086be866004657ef3581795a643abaacc581",
-      "title": "DEF CON bans three Epstein-linked men from future events",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/02/19/def_con_epstein_bans/",
-      "published": "2026-02-19T13:23:08+00:00",
-      "summary": "<h4>Emails show all discussed networking and biz interests with the sex offender throughout the 2010s</h4> <p>Cybersecurity conference DEF CON has added three men named in the Epstein files to its list of banned individuals. They are not accused of any criminal wrongdoing.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "6bf079cadf4e28c92e5d92cc8570295fe26c7eb6",
-      "title": "UK to demand social platforms take down abusive intimate images within 48 hours",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/02/19/uk_intimate_images_online/",
-      "published": "2026-02-19T11:32:02+00:00",
-      "summary": "<h4>'Why not 12?' says lawyer</h4> <p>The UK is bracketing \"intimate images shared without a victim's consent\" along with terror and child sexual abuse material, and demanding that online platforms remove them within two days.\u2026</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "405ed64f8ade956f647f42ea074dfde2a6b23445",
-      "title": "Healthcare security: Write login details on whiteboard, hope for the best",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/02/19/human_whiteboard_bork/",
-      "published": "2026-02-19T11:14:14+00:00",
-      "summary": "<h4>You told me not to write it on a Post-it...</h4> <p><strong>Bork!Bork!Bork!</strong>\u00a0 Today's bork is entirely human-generated and will send a shiver down the spine of security pros. No matter how secure a system is, a user's ability to undo an administrator's best efforts should not be underestimated.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
       "id": "249a7530c3edc5cee92d07c53e106dba6caaed96",
       "title": "Who is the Kimwolf Botmaster \u201cDort\u201d?",
       "url": "https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/",
@@ -1817,6 +1817,61 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "fd53b104a00dc5600b89f01f5efcc57c083cb598",
+      "title": "Vulnerability Allowed Hijacking Chrome\u2019s Gemini Live AI Assistant",
+      "url": "https://www.securityweek.com/vulnerability-allowed-hijacking-chromes-gemini-live-ai-assistant/",
+      "published": "2026-03-02T15:26:45+00:00",
+      "summary": "<p>Malicious extensions could hijack the Gemini Live in Chrome feature to spy on users and steal their files.</p>\n<p>The post <a href=\"https://www.securityweek.com/vulnerability-allowed-hijacking-chromes-gemini-live-ai-assistant/\">Vulnerability Allowed Hijacking Chrome&#8217;s Gemini Live AI Assistant</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "41efc7f1dace6d0002a0dd8c26422d43e761ae62",
+      "title": "OpenClaw Vulnerability Allowed Websites to Hijack AI Agents",
+      "url": "https://www.securityweek.com/openclaw-vulnerability-allowed-malicious-websites-to-hijack-ai-agents/",
+      "published": "2026-03-02T14:26:03+00:00",
+      "summary": "<p>Malicious websites could open a WebSocket connection to localhost on the OpenClaw gateway port, brute force passwords, and take control of the agent.</p>\n<p>The post <a href=\"https://www.securityweek.com/openclaw-vulnerability-allowed-malicious-websites-to-hijack-ai-agents/\">OpenClaw Vulnerability Allowed Websites to Hijack AI Agents</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "7554c04e95264873af4d6424c478a60eee952628",
+      "title": "Madison Square Garden Data Breach Confirmed Months After Hacker Attack",
+      "url": "https://www.securityweek.com/madison-square-garden-data-breach-confirmed-months-after-hacker-attack/",
+      "published": "2026-03-02T13:53:26+00:00",
+      "summary": "<p>The company is one of the many victims of the 2025 Oracle E-Business Suite (EBS) hacking campaign.</p>\n<p>The post <a href=\"https://www.securityweek.com/madison-square-garden-data-breach-confirmed-months-after-hacker-attack/\">Madison Square Garden Data Breach Confirmed Months After Hacker Attack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "33f06f1af0c0400208bfb027a58016cd587187cd",
+      "title": "Nick Andersen Appointed Acting Director of CISA",
+      "url": "https://www.securityweek.com/nick-andersen-appointed-acting-director-of-cisa/",
+      "published": "2026-03-02T12:53:44+00:00",
+      "summary": "<p>Madhu Gottumukkala has been assigned to a new role within the Department of Homeland Security.</p>\n<p>The post <a href=\"https://www.securityweek.com/nick-andersen-appointed-acting-director-of-cisa/\">Nick Andersen Appointed Acting Director of CISA</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "cda2d6aada2b4cb06cd011e2ec1b616358a436e1",
+      "title": "AWS Expands Security Hub Into a Cross-Domain Security Platform",
+      "url": "https://www.securityweek.com/aws-expands-security-hub-into-a-cross-domain-security-platform/",
+      "published": "2026-03-02T12:30:00+00:00",
+      "summary": "<p>The AWS Security Hub Extended plan aims to reduce security tool sprawl by correlating findings across multiple security domains.</p>\n<p>The post <a href=\"https://www.securityweek.com/aws-expands-security-hub-into-a-cross-domain-security-platform/\">AWS Expands Security Hub Into a Cross-Domain Security Platform</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "453a904c2cc061b43f49ea30a2d4fc72f2f475d2",
       "title": "North Korean APT Targets Air-Gapped Systems in Recent Campaign",
       "url": "https://www.securityweek.com/north-korean-apt-targets-air-gapped-systems-in-recent-campaign/",
@@ -1866,61 +1921,6 @@
       "url": "https://www.securityweek.com/canadian-tire-data-breach-impacts-38-million-accounts/",
       "published": "2026-02-28T11:50:00+00:00",
       "summary": "<p>Names, addresses, email addresses, phone numbers, and encrypted passwords were compromised in the attack.</p>\n<p>The post <a href=\"https://www.securityweek.com/canadian-tire-data-breach-impacts-38-million-accounts/\">Canadian Tire Data Breach Impacts 38 Million Accounts</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "37c11d39ac97477443b06c5bb67345d1536cc3a7",
-      "title": "Trump Orders All Federal Agencies to Phase Out Use of Anthropic Technology",
-      "url": "https://www.securityweek.com/trump-orders-all-federal-agencies-to-phase-out-use-of-anthropic-technology/",
-      "published": "2026-02-27T21:30:55+00:00",
-      "summary": "<p>OpenAI and Google, along with Elon Musk\u2019s xAI, also have contracts to supply their AI models to the military.</p>\n<p>The post <a href=\"https://www.securityweek.com/trump-orders-all-federal-agencies-to-phase-out-use-of-anthropic-technology/\">Trump Orders All Federal Agencies to Phase Out Use of Anthropic Technology</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "13146168c0943f63a99e609fa4612152065ca8af",
-      "title": "In Other News: ATT&CK Advisory Council, Russian Cyberattacks Aid Missile Strikes, Predator Bypasses iOS Indicators",
-      "url": "https://www.securityweek.com/in-other-news-attck-advisory-council-russian-cyberattacks-aid-missile-strikes-predator-bypasses-ios-indicators/",
-      "published": "2026-02-27T15:23:39+00:00",
-      "summary": "<p>Other noteworthy stories that might have slipped under the radar: cyber valuations surge, OpenAI disrupts malicious AI use, ShinyHunters claims Odido breach.</p>\n<p>The post <a href=\"https://www.securityweek.com/in-other-news-attck-advisory-council-russian-cyberattacks-aid-missile-strikes-predator-bypasses-ios-indicators/\">In Other News: ATT&#038;CK Advisory Council, Russian Cyberattacks Aid Missile Strikes, Predator Bypasses iOS Indicators</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "2ddc59bd5188a00469b4db999cbe8428f0e19c46",
-      "title": "38 Million Allegedly Impacted by ManoMano Data Breach",
-      "url": "https://www.securityweek.com/38-million-allegedly-impacted-by-manomano-data-breach/",
-      "published": "2026-02-27T13:41:27+00:00",
-      "summary": "<p>Hackers stole personal information such as names, email addresses, phone numbers, and other information.</p>\n<p>The post <a href=\"https://www.securityweek.com/38-million-allegedly-impacted-by-manomano-data-breach/\">38 Million Allegedly Impacted by ManoMano Data Breach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "7351bce7778ac29796f3272e7b9c022b65c50e5b",
-      "title": "900 Sangoma FreePBX Instances Infected With Web Shells",
-      "url": "https://www.securityweek.com/900-sangoma-freepbx-instances-infected-with-web-shells/",
-      "published": "2026-02-27T13:24:25+00:00",
-      "summary": "<p>The attacks exploited a post-authentication command injection vulnerability in the endpoint manager\u2019s interface.</p>\n<p>The post <a href=\"https://www.securityweek.com/900-sangoma-freepbx-instances-infected-with-web-shells/\">900 Sangoma FreePBX Instances Infected With Web Shells</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "c01d3dfe608d0c75a068a914ff5702347238e0ed",
-      "title": "Chilean Carding Shop Operator Extradited to US",
-      "url": "https://www.securityweek.com/chilean-carding-shop-operator-extradited-to-us/",
-      "published": "2026-02-27T12:34:54+00:00",
-      "summary": "<p>The 24-year-old suspect has been accused of trafficking over 26,000 cards from a single brand.</p>\n<p>The post <a href=\"https://www.securityweek.com/chilean-carding-shop-operator-extradited-to-us/\">Chilean Carding Shop Operator Extradited to US</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
