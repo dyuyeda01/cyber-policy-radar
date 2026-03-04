@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-04T00:57:15.793966+00:00",
+  "generated_at": "2026-03-04T12:27:50.165552+00:00",
   "items": [
     {
       "id": "d671f36bf1a84ccf8660bd8cb4ef67fbca63c2b0",
@@ -110,6 +110,39 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "ef84ded6c7ec6f8359e65dde7372dccb9b1e3965",
+      "title": "Fake Laravel Packages on Packagist Deploy RAT on Windows, macOS, and Linux",
+      "url": "https://thehackernews.com/2026/03/fake-laravel-packages-on-packagist.html",
+      "published": "2026-03-04T09:37:00+00:00",
+      "summary": "Cybersecurity researchers have flagged malicious Packagist PHP packages masquerading as Laravel utilities that act as a conduit for a cross-platform remote access trojan (RAT) that's functional on Windows, macOS, and Linux systems.\nThe names of the packages are listed below -\n\nnhattuanbl/lara-helper (37 Downloads)\nnhattuanbl/simple-queue (29 Downloads)\nnhattuanbl/lara-swagger (49 Downloads)",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDAkhOUNeGmbnO6-Wf7OTYmb_GbxBRyWPlLwHY_xWh2a3fWN3wqYQcNDK2z-ck6dCpYStrieeh79uwREaRnu7vXx3_1SqPqi0KYqdyMtPq45fbRFKtBdc_Vnbkh9mgOXSPu4GOPlkqQxfCX-mQ-62Jw5jsA8CybEImOOvdliNEOcPjnGQDEjKrunI4kOyG/s1600/php.jpg"
+    },
+    {
+      "id": "03a9b52830376a19d6d046e1cd0fb560018866d3",
+      "title": "APT41-Linked Silver Dragon Targets Governments Using Cobalt Strike and Google Drive C2",
+      "url": "https://thehackernews.com/2026/03/apt41-linked-silver-dragon-targets.html",
+      "published": "2026-03-04T08:14:00+00:00",
+      "summary": "Cybersecurity researchers have disclosed details of an advanced persistent threat (APT) group dubbed Silver Dragon that has been linked to cyber attacks targeting entities in Europe and Southeast Asia since at least mid-2024.\n\"Silver Dragon gains its initial access by exploiting public-facing internet servers and by delivering phishing emails that contain malicious attachments,\" Check Point said",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGPaqQJe-7ak-qgx29_h6G7zUiJhGiBSHZEiydrRzZzuKVlVMBzrJNLFndAvmu15EzX2SXQ8NUHKyH9ZJDQRQMnXukmrUfdPor35gswSxUuTNGGXo7h8eOhDNBVAaCGEo_ohNYv2-8W-zpOuSSHYqCB5iURwesotjNTK9a3926UdkuqI2uz-zUBMzNP5cU/s1600/dragon.jpg"
+    },
+    {
+      "id": "aaec86f47f8df8dc95cdc7e8dd2c0288eb5ffba3",
+      "title": "CISA Adds Actively Exploited VMware Aria Operations Flaw CVE-2026-22719 to KEV Catalog",
+      "url": "https://thehackernews.com/2026/03/cisa-adds-actively-exploited-vmware.html",
+      "published": "2026-03-04T04:35:00+00:00",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a recently disclosed security flaw impacting Broadcom VMware Aria Operations to its Known Exploited Vulnerabilities (KEV) catalog, citing active exploitation in the wild.\nThe high-severity vulnerability, CVE-2026-22719 (CVSS score: 8.1), has been described as a case of command injection that could allow an",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwSnIflppBRH5X_FxN5pZcibA3-KyhW9iDiNGlD76L9B8dFwzLtP5i7FHFzf73XpTAhCLtmQn0JD_fUqgXceUlrCwPgJqbmlkPXi2e_IDggrIHDyJ5HoDzr191LxAbe08arokXZ4FXH5k9NxErepVgiaEkGVfWDWQ2ZWJ8h3mGjySQ-QqTzo02oBdh01Up/s1600/vmware.jpg"
     },
     {
       "id": "f2c8b838418a7e812ca2286dceaf8d0a11c63a59",
@@ -627,39 +660,6 @@
       "region": "North America",
       "country": "US",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSN4m24uNLL9rLCwHv89KIT-P1ExHG8D2EAk0TBI7XClmXn4JxBe0NWurC0iazjhxVKll6ZmSfMPbfD3ohlUDAXCscVdXkLmFicuwIoz9ya4Lvx6FCcgAdu75R72rx_W1-1I5UGbtgJMkSCR1MaZAGUxzHM5uSDAhNj5FBHGpCq__7yUclLAQg7IGhUhdW/s1600/miners.jpg"
-    },
-    {
-      "id": "613150d10ece5302409f1281789b71d1a08af0cb",
-      "title": "\u26a1 Weekly Recap: Double-Tap Skimmers, PromptSpy AI, 30Tbps DDoS, Docker Malware & More",
-      "url": "https://thehackernews.com/2026/02/weekly-recap-double-tap-skimmers.html",
-      "published": "2026-02-23T13:00:00+00:00",
-      "summary": "Security news rarely moves in a straight line. This week, it feels more like a series of sharp turns, some happening quietly in the background, others playing out in public view. The details are different, but the pressure points are familiar.\nAcross devices, cloud services, research labs, and even everyday apps, the line between normal behavior and hidden risk keeps getting thinner. Tools",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjD4zrmWnbbBtQZsZm7orVyVisAR_ymd6dfSG7kPtgEo-CxVEphY0ZZXuQL4IiXd3ISaSR-qhY2uALIOlVgLCCZNyBiLd-WSfzR3x7NWo0xQWpwi6kTIZaZDHzwPzulQmWzndoAd-HDhPLtEYg-OrNyl-5FjPpDKSm1hPXVBnu-p6e8wtvpOFiWRUd1-pF9/s1600/cyber-recap.jpg"
-    },
-    {
-      "id": "414d73b11355a0a004c70c322baab87c27320651",
-      "title": "How Exposed Endpoints Increase Risk Across LLM Infrastructure",
-      "url": "https://thehackernews.com/2026/02/how-exposed-endpoints-increase-risk.html",
-      "published": "2026-02-23T11:58:00+00:00",
-      "summary": "As more organizations run their own Large Language Models (LLMs), they are also deploying more internal services and Application Programming Interfaces (APIs) to support those models. Modern security risks are being introduced less from the models themselves and more from the infrastructure that serves, connects and automates the model. Each new LLM endpoint expands the attack surface, often in",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7sXBbFbgAhWn7fFcyznMrutXhMfRWKQzw6aFcQwiJ-ViGLqg_Vse2wGKgGrAkyXTh2y9XtufC9otYEoUyIPsV6FB1ktgNSVQ15UFYNKN8HVzncL6tYLNYtzqX6rqhgVIfThhll1TxO1627pxBguwt4J1QRKGMOHx7_jBRlhhebK-yq1LMnCAIetPNw1E/s1600/keeper.jpg"
-    },
-    {
-      "id": "ed2362663afc23ebb8b5a22a5bd606e29dc01daf",
-      "title": "Malicious npm Packages Harvest Crypto Keys, CI Secrets, and API Tokens",
-      "url": "https://thehackernews.com/2026/02/malicious-npm-packages-harvest-crypto.html",
-      "published": "2026-02-23T10:20:00+00:00",
-      "summary": "Cybersecurity researchers have disclosed what they say is an active \"Shai-Hulud-like\" supply chain worm campaign that has leveraged a cluster of at least 19 malicious npm packages to enable credential harvesting and cryptocurrency key theft.\nThe campaign has been codenamed SANDWORM_MODE by supply chain security company Socket. As with prior Shai-Hulud attack waves, the malicious code embedded",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuEqzksJuTTXCDhdqgtAIFwGij7CiTa9hyGtjvNUn3wVoFYnH9_f0F-ILQlJhaACL9g1sNbdxCptyn_HwKxFha-yhWgnEph96LK390IGibwSZ3x2iwNeB_JEbhgLCL1lonRUtIU8ubyI7TprS8mbmNrpB7f6_fAhtaJQG3frpu4N6MTzwcrmEF5TpnwuqO/s1600/npm-stealer.jpg"
     },
     {
       "id": "53fa0c19f6174193d8be159313229bc4344549a9",
@@ -1212,6 +1212,17 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7a9c799c7bf54f37/6994dc0149e8a40008936035/singtel-building-singapore-RidhamSupriyanto-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
+      "id": "4711e2a53e8f2a33d92c0d218fa9badc4c473100",
+      "title": "Google feels the need for security speed, so will ship Chrome updates every two weeks",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/04/google_speeds_chrome_release_cadence/",
+      "published": "2026-03-04T02:01:55+00:00",
+      "summary": "<h4>Retains eight-weekly Extended Stable releases but warns fortnightly updates are the best way to stay safe</h4> <p>Google will halve the time between releases of its Chrome browser to two weeks, across versions of the software for desktop operating systems, Android, and iOS.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "a1bb38eb1d57b7aef2d3ae43a221edf7d2608a0f",
       "title": "Dev stunned by $82K Gemini bill after unknown API key thief goes to town",
       "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/03/gemini_api_key_82314_dollar_charge/",
@@ -1290,10 +1301,10 @@
     },
     {
       "id": "03c3bbd348a38656abe10987af954b28fdd805e7",
-      "title": "Gamers furious as Brit studio Cloud Imperium quietly admits to data breach",
+      "title": "Gamers furious as indie studio Cloud Imperium quietly admits to data breach",
       "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/03/brit_games_studio_cloud_imperium/",
       "published": "2026-03-03T06:24:19+00:00",
-      "summary": "<h4>Slow disclosure and odd reassurance that exposing names and contact details won't be a problem isn't going down well</h4> <p>Gamers are ready to unleash their mightiest virtual weapons and point them at British games studio Cloud Imperium, after it sat on news of a data breach and then announced it without fanfare.\u2026</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "summary": "<h4>Slow disclosure and odd reassurance that exposing names and contact details won't be a problem isn't going down well</h4> <p>Gamers are ready to unleash their mightiest virtual weapons and point them at independent games studio Cloud Imperium, after it sat on news of a data breach for weeks and then announced it without fanfare.\u2026</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
       "source": "The Register \u2013 Security",
       "region": "Europe",
       "country": "UK",
@@ -1751,14 +1762,124 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "ed3e018e3855d82c5192a7e650533c2611306654",
-      "title": "ShinyHunters demands $1.5M not to leak Vegas casino and resort chain data",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/02/20/shinyhunters_wynn_resorts/",
-      "published": "2026-02-20T18:27:23+00:00",
-      "summary": "<h4>What happens in Vegas\u2026</h4> <p>Las Vegas hotel and casino giant Wynn Resorts appears to be the latest victim of data-grabbing and extortion gang ShinyHunters.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
+      "id": "249a7530c3edc5cee92d07c53e106dba6caaed96",
+      "title": "Who is the Kimwolf Botmaster \u201cDort\u201d?",
+      "url": "https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/",
+      "published": "2026-02-28T12:01:57+00:00",
+      "summary": "In early January 2026, KrebsOnSecurity revealed how a security researcher disclosed a vulnerability that was used to assemble Kimwolf, the world's largest and most disruptive botnet. Since then, the person in control of Kimwolf -- who goes by the handle \"Dort\" -- has coordinated a barrage of distributed denial-of-service (DDoS), doxing and email flooding attacks against the researcher and this author, and more recently caused a SWAT team to be sent to the researcher's home. This post examines what is knowable about Dort based on public information.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "04b6bbeedfed18aaa5c090a56c3e2fba0ba6ebef",
+      "title": "\u2018Starkiller\u2019 Phishing Service Proxies Real Login Pages, MFA",
+      "url": "https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/",
+      "published": "2026-02-20T20:00:30+00:00",
+      "summary": "Most phishing websites are little more than static copies of login pages for popular online destinations, and they are often quickly taken down by anti-abuse activists and security firms. But a stealthy new phishing-as-a-service offering lets customers sidestep both of these pitfalls: It uses cleverly disguised links to load the target brand's real website, and then acts as a relay between the target and the legitimate site -- forwarding the victim's username, password and multi-factor authentication (MFA) code to the legitimate site and returning its responses.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "f255502ad6b911aa867ec206053b9a8fad07dad5",
+      "title": "Kimwolf Botnet Swamps Anonymity Network I2P",
+      "url": "https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/",
+      "published": "2026-02-11T16:08:11+00:00",
+      "summary": "For the past week, the massive \"Internet of Things\" (IoT) botnet known as Kimwolf has been disrupting the The Invisible Internet Project (I2P), a decentralized, encrypted communications network designed to anonymize and secure online communications. I2P users started reporting disruptions in the network around the same time the Kimwolf botmasters began relying on it to evade takedown attempts against the botnet's control servers.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "28f8ea3e37243ff045b170059c84931d294ee1c9",
+      "title": "Patch Tuesday, February 2026 Edition",
+      "url": "https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/",
+      "published": "2026-02-10T21:49:53+00:00",
+      "summary": "Microsoft today released updates to fix more than 50 security holes in its Windows operating systems and other software, including patches for a whopping six \"zero-day\" vulnerabilities that attackers are already exploiting in the wild.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "c731901e452b55cb0b0a132f707a49f78c591faf",
+      "title": "Please Don\u2019t Feed the Scattered Lapsus ShinyHunters",
+      "url": "https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/",
+      "published": "2026-02-02T16:15:16+00:00",
+      "summary": "A prolific data ransom gang that calls itself Scattered Lapsus ShinyHunters (SLSH) has a distinctive playbook when it seeks to extort payment from victim firms: Harassing, threatening and even swatting executives and their families, all while notifying journalists and regulators\u2026 <span class=\"read-more\"><a href=\"https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/\">Read More &#187;</a></span>",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "7fcb9e3a1ccba606616c75af9a8fc59af031b7b3",
+      "title": "LastPass Warns of New Phishing Campaign",
+      "url": "https://www.securityweek.com/lastpass-warns-of-new-phishing-campaign/",
+      "published": "2026-03-04T12:04:30+00:00",
+      "summary": "<p>The attackers are sending out fake alerts claiming unauthorized access or master password changes.</p>\n<p>The post <a href=\"https://www.securityweek.com/lastpass-warns-of-new-phishing-campaign/\">LastPass Warns of New Phishing Campaign</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "22f864cb854e748668bab7830bd5e99493ede553",
+      "title": "Webinar Today: Designing an OT SOC for Safety, Reliability, and Business Continuity",
+      "url": "https://www.securityweek.com/webinar-today-designing-an-ot-soc-for-safety-reliability-and-business-continuity/",
+      "published": "2026-03-04T12:00:00+00:00",
+      "summary": "<p>Join the webinar as we explore a blueprint for an OT SOC leveraging an integrated OT Security Platform to safeguard operations and maintain business continuity.</p>\n<p>The post <a href=\"https://www.securityweek.com/webinar-today-designing-an-ot-soc-for-safety-reliability-and-business-continuity/\">Webinar Today: Designing an OT SOC for Safety, Reliability, and Business Continuity</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "9c4e017cf25085d7b57d62e8e2a0225aa27a7c2b",
+      "title": "Google Plans Two-Week Release Schedule for Chrome",
+      "url": "https://www.securityweek.com/google-plans-two-week-release-schedule-for-chrome/",
+      "published": "2026-03-04T11:52:04+00:00",
+      "summary": "<p>Starting September 2026, new Chrome iterations will be released twice as fast, part of a two-week cycle.</p>\n<p>The post <a href=\"https://www.securityweek.com/google-plans-two-week-release-schedule-for-chrome/\">Google Plans Two-Week Release Schedule for Chrome</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "b18790d9427c08b9706297abf21c9fa59ef99ad9",
+      "title": "Global Coalition Publishes 6G Security and Resilience Principles",
+      "url": "https://www.securityweek.com/global-coalition-publishes-6g-security-and-resilience-principles/",
+      "published": "2026-03-04T10:57:18+00:00",
+      "summary": "<p>The principles cover security, resilience against attacks and disasters, AI, and openness and interoperability.</p>\n<p>The post <a href=\"https://www.securityweek.com/global-coalition-publishes-6g-security-and-resilience-principles/\">Global Coalition Publishes 6G Security and Resilience Principles</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "59b23ed0b89793675894d86bb3cc26d9de205358",
+      "title": "Critical FreeScout Vulnerability Leads to Full Server Compromise",
+      "url": "https://www.securityweek.com/critical-freescout-vulnerability-leads-to-full-server-compromise/",
+      "published": "2026-03-04T09:16:39+00:00",
+      "summary": "<p>A patch bypass for an authenticated code execution bug, the flaw leads to zero-click remote code execution attacks.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-freescout-vulnerability-leads-to-full-server-compromise/\">Critical FreeScout Vulnerability Leads to Full Server Compromise</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "680384d48d25f620f0c6b91ae3b6caf1fd1a2de0",
+      "title": "VMware Aria Operations Vulnerability Exploited in the Wild",
+      "url": "https://www.securityweek.com/vmware-aria-operations-vulnerability-exploited-in-the-wild/",
+      "published": "2026-03-04T07:24:45+00:00",
+      "summary": "<p>The recently patched CVE-2026-22719 can be exploited by an unauthenticated attacker for remote code execution.\u00a0</p>\n<p>The post <a href=\"https://www.securityweek.com/vmware-aria-operations-vulnerability-exploited-in-the-wild/\">VMware Aria Operations Vulnerability Exploited in the Wild</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
@@ -1796,76 +1917,10 @@
     },
     {
       "id": "7f1b9c159cf886d4f621e2364a0d43fb2175701b",
-      "title": "Quantum Decryption of RSA is Much Closer than Expected",
+      "title": "Quantum Decryption of RSA Is Much Closer Than Expected",
       "url": "https://www.securityweek.com/quantum-decryption-of-rsa-is-much-closer-than-expected/",
       "published": "2026-03-03T14:00:00+00:00",
-      "summary": "<p>For decades, the quantum threat to RSA and ECC encryption has been tied to Shor\u2019s algorithm and the assumption that we would need million-qubit quantum computers to make it practical. A newly announced algorithm challenges that assumption and suggests the breaking point could arrive far sooner than expected.</p>\n<p>The post <a href=\"https://www.securityweek.com/quantum-decryption-of-rsa-is-much-closer-than-expected/\">Quantum Decryption of RSA is Much Closer than Expected</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "f565bba516c68de1b4f7c31aa378dbc247a353a4",
-      "title": "New \u2018AirSnitch\u2019 Attack Shows Wi-Fi Client Isolation Could Be a False Sense of Security",
-      "url": "https://www.securityweek.com/new-airsnitch-attack-shows-wi-fi-client-isolation-could-be-a-false-sense-of-security/",
-      "published": "2026-03-03T13:49:53+00:00",
-      "summary": "<p>Researchers have uncovered a Wi-Fi vulnerability that allows nearby attackers to intercept sensitive data and execute machine-in-the-middle attacks against connected devices.</p>\n<p>The post <a href=\"https://www.securityweek.com/new-airsnitch-attack-shows-wi-fi-client-isolation-could-be-a-false-sense-of-security/\">New &#8216;AirSnitch&#8217; Attack Shows Wi-Fi Client Isolation Could Be a False Sense of Security</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "e07fb9343694ea889fe081b923e3633eeb0fe04a",
-      "title": "1.2 Million Affected by University of Hawaii Cancer Center Data Breach",
-      "url": "https://www.securityweek.com/1-2-million-affected-by-university-of-hawaii-cancer-center-data-breach/",
-      "published": "2026-03-03T13:34:16+00:00",
-      "summary": "<p>Hackers stole names, Social Security numbers, driver\u2019s license information, voter registration records, and health-related information.</p>\n<p>The post <a href=\"https://www.securityweek.com/1-2-million-affected-by-university-of-hawaii-cancer-center-data-breach/\">1.2 Million Affected by University of Hawaii Cancer Center Data Breach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "765a82d945e6f4fa8381e59c2a15f1ed712aef5b",
-      "title": "Android Update Patches Exploited Qualcomm Zero-Day",
-      "url": "https://www.securityweek.com/android-update-patches-exploited-qualcomm-zero-day/",
-      "published": "2026-03-03T12:41:16+00:00",
-      "summary": "<p>An integer overflow or wraparound in the Qualcomm graphics component, the bug leads to memory corruption.</p>\n<p>The post <a href=\"https://www.securityweek.com/android-update-patches-exploited-qualcomm-zero-day/\">Android Update Patches Exploited Qualcomm Zero-Day</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "6dbcb08ee4504137a38c9f56941c58251f6ced9b",
-      "title": "Iran Cyber Front: Hacktivist Activity Rises, but State-Sponsored Attacks Stay Low",
-      "url": "https://www.securityweek.com/iran-cyber-front-hacktivist-activity-rises-but-state-sponsored-attacks-stay-low/",
-      "published": "2026-03-03T12:25:28+00:00",
-      "summary": "<p>The cybersecurity industry is monitoring the landscape and says many of the big claims made by hacktivist groups remain unverified.</p>\n<p>The post <a href=\"https://www.securityweek.com/iran-cyber-front-hacktivist-activity-rises-but-state-sponsored-attacks-stay-low/\">Iran Cyber Front: Hacktivist Activity Rises, but State-Sponsored Attacks Stay Low</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "cc63236b28ed054432f7f21e752c3ed8c857f0c5",
-      "title": "Vulnerability in MS-Agent AI Framework Can Allow Full System Compromise",
-      "url": "https://www.securityweek.com/vulnerability-in-ms-agent-ai-framework-can-allow-full-system-compromise/",
-      "published": "2026-03-03T10:43:20+00:00",
-      "summary": "<p>Improper input sanitization in the framework can be exploited through the Shell tool, allowing attackers to modify system files and steal data.</p>\n<p>The post <a href=\"https://www.securityweek.com/vulnerability-in-ms-agent-ai-framework-can-allow-full-system-compromise/\">Vulnerability in MS-Agent AI Framework Can Allow Full System Compromise</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "e7e69fb8e97377162a35f300cb0a770ac4dd70aa",
-      "title": "Researchers Uncover Method to Track Cars via Tire Sensors",
-      "url": "https://www.securityweek.com/researchers-uncover-method-to-track-cars-via-tire-sensors/",
-      "published": "2026-03-03T09:40:03+00:00",
-      "summary": "<p>Using low-cost receivers deployed along roads, academic researchers tracked drivers and their movement patterns.</p>\n<p>The post <a href=\"https://www.securityweek.com/researchers-uncover-method-to-track-cars-via-tire-sensors/\">Researchers Uncover Method to Track Cars via Tire Sensors</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "summary": "<p>For decades, the quantum threat to RSA and ECC encryption has been tied to Shor\u2019s algorithm and the assumption that we would need million-qubit quantum computers to make it practical. A newly announced algorithm challenges that assumption and suggests the breaking point could arrive far sooner than expected.</p>\n<p>The post <a href=\"https://www.securityweek.com/quantum-decryption-of-rsa-is-much-closer-than-expected/\">Quantum Decryption of RSA Is Much Closer Than Expected</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
