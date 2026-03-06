@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-06T01:03:54.340625+00:00",
+  "generated_at": "2026-03-06T12:26:20.127979+00:00",
   "items": [
     {
       "id": "af2340960af9f984a5d44ed5cb6749c02a21d1bc",
@@ -112,15 +112,59 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "e33092a3ffc233da883002f734ee22b5b7d513f9",
-      "title": "Preparing for the Quantum Era: Post-Quantum Cryptography Webinar for Security Leaders",
-      "url": "https://thehackernews.com/2026/03/preparing-for-quantum-era-post-quantum.html",
-      "published": "2026-03-05T15:22:00+00:00",
-      "summary": "Most organizations assume encrypted data is safe.\nBut many attackers are already preparing for a future where today\u2019s encryption can be broken. Instead of trying to decrypt information now, they are collecting encrypted data and storing it so it can be decrypted later using quantum computers.\nThis tactic\u2014known as \u201charvest now, decrypt later\u201d\u2014means sensitive data transmitted today could become",
+      "id": "b79518feebfccf83573b5d18089005d90fb60d8c",
+      "title": "The MSP Guide to Using AI-Powered Risk Management to Scale Cybersecurity",
+      "url": "https://thehackernews.com/2026/03/the-msp-guide-to-using-ai-powered-risk.html",
+      "published": "2026-03-06T10:30:00+00:00",
+      "summary": "Scaling cybersecurity services as an MSP or MSSP requires technical expertise and a business model that delivers measurable value at scale.\nRisk-based cybersecurity is the foundation of that model. When done right, it builds client trust, increases upsell opportunities, and drives recurring revenue. But to deliver this consistently and efficiently, you need the right technology and processes.",
       "source": "The Hacker News",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX1kV8IdraKTyGmXfKTap-DKE7krpM6SchfXQZlvruEBaaJyCbG0HQuJD3B08AkkIZF6Ej7oQ2Nr3AfzVD5klERt782T3IuCPT8tSYm49B6j6se-IH7d0XC4kBcTPl-yp3tsA_YmhrZsB0On2ukhH1rhlSaG3fpRXNrSzpbMEoVu_EBoiMGcbFVg9AcWTC/s1600/webinar.jpg"
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj87js9FM5u5gJgNYbTJGym-RLvB-9rHWoeFBMkLbzvbBgY8aGaMtb_pX5i2-rQz34VbJsQfeOD-GvRJ0yNXUSGjR3vnV7CUt4APOPSwvBNpaF4m64z5OxmNVw0WDaCa3q_KlAjNecBrLurfYPNFC3xiASO71v6k23E77RKyyRujOXUMWHbymxtrVLatdI/s1600/cynomi.jpg"
+    },
+    {
+      "id": "d3ac49878da41b13cfbe7dbf99db14e25041dac5",
+      "title": "Iran-Linked MuddyWater Hackers Target U.S. Networks With New Dindoor Backdoor",
+      "url": "https://thehackernews.com/2026/03/iran-linked-muddywater-hackers-target.html",
+      "published": "2026-03-06T10:23:00+00:00",
+      "summary": "New research from Broadcom's Symantec and Carbon Black Threat Hunter Team has discovered evidence of an Iranian hacking group embedding itself in several U.S. companies' networks, including banks, airports, non-profit, and the Israeli arm of a software company.\nThe activity has been attributed to a state-sponsored hacking group called MuddyWater (aka Seedworm). It's affiliated with the Iranian",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGoo0ChP6Wq4Hd0U_DeehQmIN-4DHpRX8YdIY6vSO3kEUeTeILUvJMbAZO2gplvYIYCG_q13wfn_So9SkmjHIFZdwyQZKf0uSyyUMpCV-0uUuptOsPsdAvQQbzBdTAG7zoeX2Zf5L2zrHoY0z-qd5RnNvHsm_R4qaVGKzY440Tkdv2zUJ7y9iUE-UP8Ddl/s1600/iran-hackers.jpg"
+    },
+    {
+      "id": "10e9f8d80d21ae73374d75958e4cb9598cd1b9a4",
+      "title": "China-Linked Hackers Use TernDoor, PeerTime, BruteEntry in South American Telecom Attacks",
+      "url": "https://thehackernews.com/2026/03/china-linked-hackers-use-terndoor.html",
+      "published": "2026-03-06T08:22:00+00:00",
+      "summary": "A China-linked advanced persistent threat (APT) actor has been targeting critical telecommunications infrastructure in South America since 2024, targeting Windows and Linux systems and edge devices with three different implants.\nThe activity is being tracked by Cisco Talos under the moniker UAT-9244, describing it as closely associated with another cluster known as FamousSparrow.\nIt's worth",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibIdID8bpu83EtYZEGzGQcfnL4Q2mTuhTp95la1d1iDtHqYtujF75TT6TkEmu6C123EIHQNF2P-M-Kj7Z0-3pjvm4CFFqnJ_qOxbgVAGJ7V6rnycpn-O-8v3Mw3dkYcSHSyee7EdPjIEejdoWwUx0YBQXexhtMZ79zQV5rBwbbrvxzoloBcLHoSOY_7Sg-/s1600/telecom.jpg"
+    },
+    {
+      "id": "dff65c3e89fb7085b58e9132cbd00441bbd3ba23",
+      "title": "Microsoft Reveals ClickFix Campaign Using Windows Terminal to Deploy Lumma Stealer",
+      "url": "https://thehackernews.com/2026/03/microsoft-reveals-clickfix-campaign.html",
+      "published": "2026-03-06T06:44:00+00:00",
+      "summary": "Microsoft on Thursday disclosed details of a new widespread ClickFix social engineering campaign that has leveraged the Windows Terminal app as a way to activate a sophisticated attack chain and deploy the Lumma Stealer malware.\nThe activity, observed in February 2026, makes use of the terminal emulator program instead of instructing users to launch the Windows Run dialog and paste a command",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8H7sofZNyrZMv3vcKOeRa7Rw948uDto8VgAXNO8ZKLjUdzhpZW-ub4M_fxuM631fZplWm8BkPK8OifkblZnbNgFKXUB4PoFXXSeg1D0_olC5lAxQ0KtidSFQHlUvxVn1subQyQtI2qbzhChm0Sm3ADLs9C120EfhvLoBtNLbbtrSiyl3AKcss7u-WT-lS/s1600/clickfix.jpg"
+    },
+    {
+      "id": "398bc6a49eb76c896015fb355afd0003f8e2c79d",
+      "title": "Hikvision and Rockwell Automation CVSS 9.8 Flaws Added to CISA KEV Catalog",
+      "url": "https://thehackernews.com/2026/03/hikvision-and-rockwell-automation-cvss.html",
+      "published": "2026-03-06T06:30:00+00:00",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added two security flaws impacting Hikvision and Rockwell Automation products to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\nThe critical-severity vulnerabilities are listed below -\n\nCVE-2017-7921 (CVSS score: 9.8) - An improper authentication vulnerability affecting",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1dAatoZKBR1txy7hG-8XLixhMv5jhZEjgT_asHnTfyxS1KK9tOrJNwk2MSbXOL1ZoH8-18chWJUuLnegz6ByTRQuljhmqPu9W_BxQSQR7n45B1M3D1XHrwkne4uzqurGVkqDhyphenhyphendkfISqLjawr0HzRQX7ZhfXa-jB3hJ5V0oMr3TOebv_rcpcw9I3ym6v1/s1600/cisa.jpg"
     },
     {
       "id": "9f7682007aef8688ae6bf918a2da9ab2648f9758",
@@ -132,6 +176,17 @@
       "region": "North America",
       "country": "US",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEr5vlbwHAPeevtBJ7iylInnh2ZQCxX10smm1srCFONJBSriIbAvvp5jAFpFYdeoyk9BKBhyFZx-U4xBhqtN2eT1r150GMLdRP3scA8PsHMYh0PGALAqnzwQnLS-3K_9yneL-7tRa3lD-TTOIebyc_alzp2kLKFdFRCiJcWMcmTiMnoqUAeO_Wxv6hd05D/s1600/cisco-exploit.jpg"
+    },
+    {
+      "id": "e33092a3ffc233da883002f734ee22b5b7d513f9",
+      "title": "Preparing for the Quantum Era: Post-Quantum Cryptography Webinar for Security Leaders",
+      "url": "https://thehackernews.com/2026/03/preparing-for-quantum-era-post-quantum.html",
+      "published": "2026-03-05T15:22:00+00:00",
+      "summary": "Most organizations assume encrypted data is safe.\nBut many attackers are already preparing for a future where today\u2019s encryption can be broken. Instead of trying to decrypt information now, they are collecting encrypted data and storing it so it can be decrypted later using quantum computers.\nThis tactic\u2014known as \u201charvest now, decrypt later\u201d\u2014means sensitive data transmitted today could become",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX1kV8IdraKTyGmXfKTap-DKE7krpM6SchfXQZlvruEBaaJyCbG0HQuJD3B08AkkIZF6Ej7oQ2Nr3AfzVD5klERt782T3IuCPT8tSYm49B6j6se-IH7d0XC4kBcTPl-yp3tsA_YmhrZsB0On2ukhH1rhlSaG3fpRXNrSzpbMEoVu_EBoiMGcbFVg9AcWTC/s1600/webinar.jpg"
     },
     {
       "id": "981fdc37bede06fe19512310b44b5429aaecc4a5",
@@ -605,61 +660,6 @@
       "region": "North America",
       "country": "US",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyrJTi6YIFc4PWNVjyVZgjQfbHNpfH-WtwcxIIEgUSin8DR8zz_VZBauDnlTA42bh7LT7nj1Y-OtoKL34tEKUKo4JrNuWgnhC1r54tIkws6OC8SWqucU0OrWysv2-pzj_YCinatv9FwUUsvADoPMVngfmR8wB2xr_lS1viUQHoK_Vom83SmBZMOBJPe6Nb/s1600/google.jpg"
-    },
-    {
-      "id": "2455f356beab65e18afdcd0fadc33be59d385018",
-      "title": "Claude Code Flaws Allow Remote Code Execution and API Key Exfiltration",
-      "url": "https://thehackernews.com/2026/02/claude-code-flaws-allow-remote-code.html",
-      "published": "2026-02-25T17:00:00+00:00",
-      "summary": "Cybersecurity researchers have disclosed multiple security vulnerabilities in Anthropic's Claude Code, an artificial intelligence (AI)-powered coding assistant, that could result in remote code execution and theft of API credentials.\n\"The vulnerabilities exploit various configuration mechanisms, including Hooks, Model Context Protocol (MCP) servers, and environment variables \u2013 executing",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhp3ch5lk3LqPFl0TutlBSasJaFa2bNjNdXbIePoE8y76HOmsErmRwXcYUungmePyAK_J_zclibjngwBoTNEB2whRW3-ZAjwKSu1B0VwHyHS_qtKqeivbIdC4HFmSef-lcxWkLXnMs_4HVgmiTNNQSE6UeNt4Ci6lkQaZZlrcwrEy1s4wAVb93CJup8e6r7/s1600/claudecode.jpg"
-    },
-    {
-      "id": "474f55a13f012e85b2b919605e56a55ff516ce87",
-      "title": "SLH Offers $500\u2013$1,000 Per Call to Recruit Women for IT Help Desk Vishing Attacks",
-      "url": "https://thehackernews.com/2026/02/slh-offers-5001000-per-call-to-recruit.html",
-      "published": "2026-02-25T15:06:00+00:00",
-      "summary": "The notorious cybercrime collective known as Scattered LAPSUS$ Hunters (SLH) has been observed offering financial incentives to recruit women to pull off social engineering attacks.\nThe idea is to hire them for voice phishing campaigns targeting IT help desks, Dataminr said in a new threat brief. The group is said to be offering anywhere between $500 and $1,000 upfront per call, in addition to",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheMHWdwNTiAJVGFveDmUE-c6R5fRxcIf_ECfU1uk44EkFSWh1PAkXZhOoPtL9vJESPwrDSPgCGRsl3_nvkHawqFo8vTOk7WytOuAjfnnFTfxeGoDQFPuPoMS0fKbGfNSKAOt12sCvE5NxbCMOgzrmozgrvPTNUWeNdkz4Kz23xG2rQYPndvynXw34uD6lx/s1600/vishing-attack.jpg"
-    },
-    {
-      "id": "ecea431096bb28a01b41d917954194d06e2be8f5",
-      "title": "Top 5 Ways Broken Triage Increases Business Risk Instead of Reducing It",
-      "url": "https://thehackernews.com/2026/02/top-5-ways-broken-triage-increases.html",
-      "published": "2026-02-25T14:30:00+00:00",
-      "summary": "Triage is supposed to make things simpler. In a lot of teams, it does the opposite.\nWhen you can\u2019t reach a confident verdict early, alerts turn into repeat checks, back-and-forth, and \u201cjust escalate it\u201d calls. That cost doesn\u2019t stay inside the SOC; it shows up as missed SLAs, higher cost per case, and more room for real threats to slip through.\nSo where does triage go wrong? Here are five triage",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5NekLXfHU8r6WoAeokuYAZFesA6Hu1-CaDaMxGkNI2ZMMZQMYjhkhv9op5m7gxZPtPSsICJz6HOoQnbQLaLbb58xgMKzdIzZ2YEozZ7T7cPyliMxoRVkjYJ1JYk0XoR-_T6WovGnQQOiiUSOhu9cxn2e8XnXOWeGtdFe4WsQNXYMcLj9OT_iMQ9eQ1YQ/s1600/anyrun-main.jpg"
-    },
-    {
-      "id": "f3cfa320e254d99427cf6f2222893654bc0a2c28",
-      "title": "Malicious NuGet Packages Stole ASP.NET Data; npm Package Dropped Malware",
-      "url": "https://thehackernews.com/2026/02/malicious-nuget-packages-stole-aspnet.html",
-      "published": "2026-02-25T12:43:00+00:00",
-      "summary": "Cybersecurity researchers have discovered four malicious NuGet packages that are designed to target ASP.NET web application developers to steal sensitive data.\nThe campaign, discovered by Socket, exfiltrates ASP.NET Identity data, including user accounts, role assignments, and permission mappings, as well as manipulates authorization rules to create persistent backdoors in victim applications.",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjE-bjDoQWaHQbmh17EY0EzAbNkQxh3AHTCEBNjNpdXsBeuuuHPycl9tIzC9msasA7ZwhewkuMMk-MAJvrV5EVSgOrn8FdHnAxdkiGA1YRNL4pHJ3QUSoreUf6d9VIRagp9oi26XKEYgsdon3wDf81fE5mjkq8yJmhC2wSkIK3emLP_xHvAJ2eC3uanvXEW/s1600/coding.jpg"
-    },
-    {
-      "id": "9b09752eb7aa6ab92f1897dcd69db589666518aa",
-      "title": "Manual Processes Are Putting National Security at Risk",
-      "url": "https://thehackernews.com/2026/02/manual-processes-are-putting-national.html",
-      "published": "2026-02-25T11:00:00+00:00",
-      "summary": "Why automating sensitive data transfers is now a mission-critical priority\nMore than half of national security organizations still rely on manual processes to transfer sensitive data, according to The CYBER360: Defending the Digital Battlespace report. This should alarm every defense and government leader because manual handling of sensitive data is not just inefficient, it is a systemic",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBTbttsBjbdKdXIOeHSFgfUVWVU-b7OHEjeyjoeKSBCV3Hnw9ecKqS8Eg2Hhx-VTaFgdjd1-UvFSgZkjkYNnLICgEKQy9-J_lseukUyEr_Q3HV-CuJyZ5OxK64-qtnMYduhtorZyKCnxboOUCitv9mOQhFEGt9cytBNNiyO92J5Qlt9JOTYCN0zH_kKdg/s1600/national-security.jpg"
     },
     {
       "id": "8785d7cfff7db48abffc35f0261dcee15f6d8045",
@@ -1212,6 +1212,39 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8211663e9a463914/69976fdf6245840008fd226f/Star_cannon-Photobyt-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
+      "id": "d66b534b0098262635b3c1ad8f1ba213b6d07c2c",
+      "title": "Son of government contractor arrested after alleged $46M crypto heist from US Marshals",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/06/contractor_son_crypto_arrest/",
+      "published": "2026-03-06T12:02:55+00:00",
+      "summary": "<h4>FBI and French GIGN swoop on Saint Martin, John Daghita in cuffs</h4> <p>The son of a government contractor was arrested in the Caribbean after allegedly stealing more than $46 million in seized cryptocurrency from the US Marshals Service, the FBI says.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "c09a44bc741cb4328976cd0589b856b11fef5c63",
+      "title": "Microsoft finally gets around to fixing Windows 10 Recovery Environment after breaking it in October",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/06/microsoft_finally_gets_around_to/",
+      "published": "2026-03-06T11:38:06+00:00",
+      "summary": "<h4>Released from the curse of the update bork fairy</h4> <p>Microsoft has finally fixed a Windows Recovery Environment (WinRE) bug it introduced in Windows 10's final update.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "c68ae4581364d06debc438bb9a7fda47fb5b8435",
+      "title": "Transport for London says 2024 breach affected 7M customers, not 5,000",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/06/tfl_2024_breach_numbers/",
+      "published": "2026-03-06T10:22:14+00:00",
+      "summary": "<h4>Attackers accessed systems holding data tied to millions of Oyster and contactless users</h4> <p>Transport for London has confirmed that a 2024 breach exposed the data of more than 7 million people \u2013 a far larger crowd than the few thousand customers originally warned that their details might be at risk.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "456f6716d7dba5e7b0850b5bae4842ba0c7bc3b5",
       "title": "Google says spyware makers and China-linked groups dominated zero-day attacks last year",
       "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/05/zero_day_attacks_enterprise_tech_record/",
@@ -1729,36 +1762,80 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "26434ac986f77574be1e30be32947bf83c7b50a7",
-      "title": "Infosec community panics as Anthropic rolls out Claude code security checker",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/02/23/claude_code_security_panic/",
-      "published": "2026-02-23T19:50:01+00:00",
-      "summary": "<h4>Not the first of its kind</h4> <p><strong>ai-pocalypse</strong>\u00a0 Anthropic sent the infosec community into a tizzy on Friday when it rolled out Claude Code Security, a new feature that scans codebases for vulnerabilities and suggests patches to fix the issues.\u2026</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
+      "id": "249a7530c3edc5cee92d07c53e106dba6caaed96",
+      "title": "Who is the Kimwolf Botmaster \u201cDort\u201d?",
+      "url": "https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/",
+      "published": "2026-02-28T12:01:57+00:00",
+      "summary": "In early January 2026, KrebsOnSecurity revealed how a security researcher disclosed a vulnerability that was used to assemble Kimwolf, the world's largest and most disruptive botnet. Since then, the person in control of Kimwolf -- who goes by the handle \"Dort\" -- has coordinated a barrage of distributed denial-of-service (DDoS), doxing and email flooding attacks against the researcher and this author, and more recently caused a SWAT team to be sent to the researcher's home. This post examines what is knowable about Dort based on public information.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "a8db8652cd05d374e262d01c68c3c07c2ec82b42",
-      "title": "Global regulators say AI image tools don't get a free pass on privacy rules",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/02/23/privacy_watchdogs_ai_images/",
-      "published": "2026-02-23T16:03:38+00:00",
-      "summary": "<h4>Watchdogs warn models that can generate realistic images of people must comply with data protection laws</h4> <p>A global coalition of privacy watchdogs has fired a warning shot at the generative AI industry, saying companies churning out realistic synthetic images can't pretend that data protection rules don't apply.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
+      "id": "04b6bbeedfed18aaa5c090a56c3e2fba0ba6ebef",
+      "title": "\u2018Starkiller\u2019 Phishing Service Proxies Real Login Pages, MFA",
+      "url": "https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/",
+      "published": "2026-02-20T20:00:30+00:00",
+      "summary": "Most phishing websites are little more than static copies of login pages for popular online destinations, and they are often quickly taken down by anti-abuse activists and security firms. But a stealthy new phishing-as-a-service offering lets customers sidestep both of these pitfalls: It uses cleverly disguised links to load the target brand's real website, and then acts as a relay between the target and the legitimate site -- forwarding the victim's username, password and multi-factor authentication (MFA) code to the legitimate site and returning its responses.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "1da90bbaf57269e2159b236abe84e5c900595c02",
-      "title": "Break free of Ring's servers, earn a five-figure bounty",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/02/23/ring_bounty/",
-      "published": "2026-02-23T15:17:34+00:00",
-      "summary": "<h4>Goal is to run software locally and stream only to owners' computers</h4> <p>If the sour taste has still not left your mouth after Ring's Super Bowl ad, there is a $10,000 prize for anyone who can find a security flaw in the company's cameras.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
+      "id": "f255502ad6b911aa867ec206053b9a8fad07dad5",
+      "title": "Kimwolf Botnet Swamps Anonymity Network I2P",
+      "url": "https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/",
+      "published": "2026-02-11T16:08:11+00:00",
+      "summary": "For the past week, the massive \"Internet of Things\" (IoT) botnet known as Kimwolf has been disrupting the The Invisible Internet Project (I2P), a decentralized, encrypted communications network designed to anonymize and secure online communications. I2P users started reporting disruptions in the network around the same time the Kimwolf botmasters began relying on it to evade takedown attempts against the botnet's control servers.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "28f8ea3e37243ff045b170059c84931d294ee1c9",
+      "title": "Patch Tuesday, February 2026 Edition",
+      "url": "https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/",
+      "published": "2026-02-10T21:49:53+00:00",
+      "summary": "Microsoft today released updates to fix more than 50 security holes in its Windows operating systems and other software, including patches for a whopping six \"zero-day\" vulnerabilities that attackers are already exploiting in the wild.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "1a7ad74d0b2be6cbd929cece2627fd487cb78fde",
+      "title": "James \u2018Aaron\u2019 Bishop Tapped to Serve as New Pentagon CISO",
+      "url": "https://www.securityweek.com/james-aaron-bishop-tapped-to-serve-as-new-pentagon-ciso/",
+      "published": "2026-03-06T11:44:15+00:00",
+      "summary": "<p>Bishop replaces David McKeown, who will take on a role in the private sector after 40 years of government service.\u00a0</p>\n<p>The post <a href=\"https://www.securityweek.com/james-aaron-bishop-tapped-to-serve-as-new-pentagon-ciso/\">James &#8216;Aaron&#8217; Bishop Tapped to Serve as New Pentagon CISO</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "44809bb4866a4b70ebf6aa7991f088a3605da8a6",
+      "title": "Iranian APT Hacked US Airport, Bank, Software Company",
+      "url": "https://www.securityweek.com/iranian-apt-hacks-us-airport-bank-software-company/",
+      "published": "2026-03-06T11:31:09+00:00",
+      "summary": "<p>The attacks, observed since February, show that Iranian hackers already have a presence in the networks of US organizations.</p>\n<p>The post <a href=\"https://www.securityweek.com/iranian-apt-hacks-us-airport-bank-software-company/\">Iranian APT Hacked US Airport, Bank, Software Company</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "3e2301d9e08160fa5d952c09372b6de920124c5b",
+      "title": "Data Security Firm Evervault Raises $25 Million in Series B Funding",
+      "url": "https://www.securityweek.com/data-security-firm-evervault-raises-25-million-in-series-b-funding/",
+      "published": "2026-03-06T09:05:48+00:00",
+      "summary": "<p>The company has raised a total of $46 million in funding for its developer-focused encryption and orchestration platform.</p>\n<p>The post <a href=\"https://www.securityweek.com/data-security-firm-evervault-raises-25-million-in-series-b-funding/\">Data Security Firm Evervault Raises $25 Million in Series B Funding</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
@@ -1833,39 +1910,6 @@
       "url": "https://www.securityweek.com/nation-state-ios-exploit-kit-coruna-found-powering-global-attacks/",
       "published": "2026-03-05T04:04:17+00:00",
       "summary": "<p>Google and iVerify analysis reveals a powerful exploit kit originally used by Russian state actors that is now appearing in broader criminal campaigns.</p>\n<p>The post <a href=\"https://www.securityweek.com/nation-state-ios-exploit-kit-coruna-found-powering-global-attacks/\">Nation-State iOS Exploit Kit \u2018Coruna\u2019 Found Powering Global Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "78a4c7305ac6d68dfc22e5c59c9f4337ba3dc714",
-      "title": "Tycoon 2FA Phishing Platform Dismantled in Global Takedown",
-      "url": "https://www.securityweek.com/tycoon-2fa-phishing-platform-dismantled-in-global-takedown/",
-      "published": "2026-03-04T18:37:26+00:00",
-      "summary": "<p>The phishing-as-a-service platform was used to send fraudulent emails to over 500,000 organizations every month.</p>\n<p>The post <a href=\"https://www.securityweek.com/tycoon-2fa-phishing-platform-dismantled-in-global-takedown/\">Tycoon 2FA Phishing Platform Dismantled in Global Takedown</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "3e69f1c358aa1ad222bac7954abd5b7eb498aabd",
-      "title": "New LexisNexis Data Breach Confirmed After Hackers Leak Files",
-      "url": "https://www.securityweek.com/new-lexisnexis-data-breach-confirmed-after-hackers-leak-files/",
-      "published": "2026-03-04T17:44:14+00:00",
-      "summary": "<p>The hackers claim to have stolen 2GB of files, including 400,000 personal information records.\u00a0</p>\n<p>The post <a href=\"https://www.securityweek.com/new-lexisnexis-data-breach-confirmed-after-hackers-leak-files/\">New LexisNexis Data Breach Confirmed After Hackers Leak Files</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "bd00c83579494c65a524e2ad80fd2f9a27523e0e",
-      "title": "Zurich Acquires Beazley in $11 Billion Deal to Lead Cyberinsurance",
-      "url": "https://www.securityweek.com/zurich-acquires-beazley-in-11-billion-deal-to-lead-cyberinsurance/",
-      "published": "2026-03-04T15:36:26+00:00",
-      "summary": "<p>The deal awaits final shareholder and regulatory approvals and is expected to be completed in the second half of 2026.</p>\n<p>The post <a href=\"https://www.securityweek.com/zurich-acquires-beazley-in-11-billion-deal-to-lead-cyberinsurance/\">Zurich Acquires Beazley in $11 Billion Deal to Lead Cyberinsurance</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
