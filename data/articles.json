@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-10T00:54:42.531390+00:00",
+  "generated_at": "2026-03-10T12:30:44.644387+00:00",
   "items": [
     {
       "id": "5c9e9d5d869903740e6266a60dfbaca2089e63db",
@@ -110,6 +110,61 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "ce52b4301ffcc650132b9411039f4ac5793a577f",
+      "title": "How to Stop AI Data Leaks: A Webinar Guide to Auditing Modern Agentic Workflows",
+      "url": "https://thehackernews.com/2026/03/how-to-stop-ai-data-leaks-webinar-guide.html",
+      "published": "2026-03-10T11:45:00+00:00",
+      "summary": "Artificial Intelligence (AI) is no longer just a tool we talk to; it is a tool that does things for us. These are called AI Agents. They can send emails, move data, and even manage software on their own.\nBut there is a problem. While these agents make work faster, they also open a new \"back door\" for hackers.\nThe Problem: \"The Invisible Employee\"\nThink of an AI Agent like a new employee who has",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjK9rQgRdibuFYsDbwmp3SukV8rvo2XAcrItRHJVuYOvQd5AQyUUNQlF254t_zArE0rjDNbI-ibkfkezQF394z9u2QQRwCk9vju1yDsQJjYGjbfoNAvvUfM7ZhYl134SLtAYSmx4CtP8n9n0Uyk-DYW9gJ-ci7nGhInnioZMyhH1xT5ySyaXTYJ3nmD_Xo/s1600/ai-agents.jpg"
+    },
+    {
+      "id": "c4e08cea3359586ecf8c660fdfa11a91d3b0b99c",
+      "title": "The Zero-Day Scramble is Avoidable: A Guide to Attack Surface Reduction",
+      "url": "https://thehackernews.com/2026/03/the-zero-day-scramble-is-avoidable.html",
+      "published": "2026-03-10T11:00:00+00:00",
+      "summary": "You can't control when the next critical vulnerability drops. You can control how much of your environment is exposed when it does. The problem is that most teams have more internet-facing exposure than they realise. Intruder's Head of Security digs into why this happens and how teams can manage it deliberately.\nTime-to-exploit is shrinking\nThe larger and less controlled your attack surface is,",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixfoH6o4IkbYakx1lP-kILdg8glEenVOVdJFyn8cxnNYO9hRSMut-XrsII-HfqY_VuguC1b0yHPueeREjsdS0RpXViN0IhuFYzheblF8avbGI6GILTtyHMF5_nJYPIKFRRYL1staxa_9sYMHRjMkL995yoIJYRW072CQaIWh95cCsLXFFpqg769bN-KFA/s1600/INTRUDER.jpg"
+    },
+    {
+      "id": "8833f06c227390df934c29fd66d25c84585c9d5e",
+      "title": "APT28 Uses BEARDSHELL and COVENANT Malware to Spy on Ukrainian Military",
+      "url": "https://thehackernews.com/2026/03/apt28-uses-beardshell-and-covenant.html",
+      "published": "2026-03-10T10:55:00+00:00",
+      "summary": "The Russian state-sponsored hacking group tracked as APT28 has been observed using a pair of implants dubbed BEARDSHELL and COVENANT to facilitate long\u2011term surveillance of Ukrainian military personnel.\nThe two malware families have been put to use since April 2024, ESET said in a new report shared with The Hacker News.\nAPT28, also tracked as Blue Athena, BlueDelta, Fancy Bear, Fighting Ursa,",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-By3tHSMSOxuaRiOmtalZ7sltfDCZ-ZfA-SYEQ6RVae4iQoVJVeUZU380kIIgrdAnFkX516x6OdctG7NCgL3zNSSENMqgc1iNcSC48aIJ3sx7eAK1-5rGqPu00i5rfPpvxOQ9I9R-v1fPL-i_i0kreyvQ3a0WuneswNUZgnhaTKq6fFu3me-1TopHYcl1/s1600/Ukrainian-malware.jpg"
+    },
+    {
+      "id": "cbbebe12213342a9309841dca4293e023cf723cb",
+      "title": "Threat Actors Mass-Scan Salesforce Experience Cloud via Modified AuraInspector Tool",
+      "url": "https://thehackernews.com/2026/03/threat-actors-mass-scan-salesforce.html",
+      "published": "2026-03-10T07:17:00+00:00",
+      "summary": "Salesforce has warned of an increase in threat actor activity that's aimed at exploiting misconfigurations in publicly accessible Experience Cloud sites by making use of a customized version of an open-source tool called AuraInspector.\nThe activity, per the company, involves the exploitation of customers' overly permissive Experience Cloud guest user configurations to obtain access to sensitive",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhg3WBGF42HjwJCk1bkljwrz8qAZRBc_WKGgu7SuNluRZBhSEGh3JelP6R_I9w64bbi9soVTwDerZux7tknJmttdOS024pbnsAG8a16SYaBubeRlhDIYboq-SBO53ARQ77uWWAUGX6yTZ8AaeWOQMydWFRP-nbunFtTDsmCpqcUvgFBsTpxHYqSi050MtYl/s1600/salesforce.jpg"
+    },
+    {
+      "id": "4d3b8be626b564b272ada2094e74dba3e2959921",
+      "title": "CISA Flags SolarWinds, Ivanti, and Workspace One Vulnerabilities as Actively Exploited",
+      "url": "https://thehackernews.com/2026/03/cisa-flags-solarwinds-ivanti-and.html",
+      "published": "2026-03-10T06:17:00+00:00",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added three security flaws to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation.\nThe vulnerability list is as follows -\n\nCVE-2021-22054 (CVSS score: 7.5) - A server-side request forgery (SSRF) vulnerability in Omnissa Workspace One UEM (formerly VMware Workspace One UEM) that",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZ3Jqmj7G6SohXnwkh-xbheyTYoylchcxew5kAJKo9InrbQ0QqVtNQ2hgFc5UuSyQ7sljAfkAlfMzlclT3LQetQdmpqqm3vyb9sZQO2QogQ55M8CpUjCAPMWXEYbtQHbT93Cg7cpWNH2Zq5RtU1T515FT_OAfFKj50HXF8Uwb1VgkLHIhjd-vNZWPRKQdf/s1600/cisa-kev.jpg"
     },
     {
       "id": "6b92e60c5682894aa4f01d1ed19feffc1ffa8249",
@@ -605,61 +660,6 @@
       "region": "North America",
       "country": "US",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1wA-JoARjvd0BYW-3G0XMdHXcWpWdkWk3bIkWV2myMGfRRsp4Dl8A24cpj8Elpe5lJO6KdyS36Nsts7_o0Xx70HSxwY3se4RuNPRzfFmodMhX-jU_lkCefaathP6uan4UGLWmuQvxjerq6_H-z16vFY3h4pCeVqDBGA13ne12uRZfuU7fHW2pQVAtuM4E/s1600/gemini.jpg"
-    },
-    {
-      "id": "12ea6091c0a2fac87eec935c5cef770ad8774cdd",
-      "title": "Pentagon Designates Anthropic Supply Chain Risk Over AI Military Dispute",
-      "url": "https://thehackernews.com/2026/02/pentagon-designates-anthropic-supply.html",
-      "published": "2026-02-28T04:57:00+00:00",
-      "summary": "Anthropic on Friday hit back after U.S. Secretary of Defense Pete Hegseth directed the Pentagon to designate the artificial intelligence (AI) upstart as a \"supply chain risk.\"\n\"This action follows months of negotiations that reached an impasse over two exceptions we requested to the lawful use of our AI model, Claude: the mass domestic surveillance of Americans and fully autonomous weapons,\" the",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhP1VB5XjUzzozGARm5rLhXynwMUWvOhyS4BwO0WHVH6BWf7DhyphenhyphencjAx23XY3HJhDvtgaJ_nW31sVB9yejXl_h6PS1m-X2lbtohZZuJIiSkhRvFsgLASnaDT-PGlcqhsMX-0X7OkK865R0UlztioEsFS8vkdv73Sarw7_H6mvg14v_ovh6hk9NqW3tzlmZ8X/s1600/Anthropic.jpg"
-    },
-    {
-      "id": "516063f9933708dde77eb81c4873cf5cbcb2073b",
-      "title": "DoJ Seizes $61 Million in Tether Linked to Pig Butchering Crypto Scams",
-      "url": "https://thehackernews.com/2026/02/doj-seizes-61-million-in-tether-linked.html",
-      "published": "2026-02-27T18:11:00+00:00",
-      "summary": "The U.S. Department of Justice (DoJ) this week announced the seizure of $61 million worth of Tether that were allegedly associated with bogus cryptocurrency schemes known as pig butchering.\nThe confiscated funds were traced to cryptocurrency addresses used for the laundering of criminally derived proceeds stolen from victims of cryptocurrency investment scams, the department added.\n\"Criminal",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglF1nudH44Lr269ed-E49qDWqg7t-GFuybhyQ8-6oDnBn-CcFh7o21w44Cjxxw0cuZQDBXdHQCxuOrR_vOLEvON4DyGSPWbr-7l3XaHXInETTZLxm-BAfCxUCFZ-Wxek-TnFI8t1rJ3gew5p3BnztZeIXY0ePy6DUFqL5R9QlKHZaUOVPwdIuDLkCju83c/s1600/tether-scam.jpg"
-    },
-    {
-      "id": "ed14668691e6b309ca65c278be655b134c35b853",
-      "title": "900+ Sangoma FreePBX Instances Compromised in Ongoing Web Shell Attacks",
-      "url": "https://thehackernews.com/2026/02/900-sangoma-freepbx-instances.html",
-      "published": "2026-02-27T17:59:00+00:00",
-      "summary": "The Shadowserver Foundation has revealed that over 900 Sangoma FreePBX instances still remain infected with web shells as part of attacks that exploited a command injection vulnerability starting in December 2025.\nOf these, 401 instances are located in the U.S., followed by 51 in Brazil, 43 in Canada, 40 in Germany, and 36 in France.\nThe non-profit entity said the compromises are likely",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVfnqoWodxrya2TOd7lDLrZ23Bvo_FZhrnRLTnOO-Y4zvouKylIpkT7KE_LKo8lQGBCwMo3GCldGiyqSJobUKHLxmKx6hja0EBG6K3DCtQG-bmDDapu2el8CnQMMs971cJ3dICyw4-T1I8o0W7-XNHKzRBO8U48USZlO8MmtJkKKaOkweEzgKZF2PyaUt9/s1600/freepbx.jpg"
-    },
-    {
-      "id": "0b72b85096ba5bac2c35c6468c50d8e07aba0b5b",
-      "title": "Malicious Go Crypto Module Steals Passwords, Deploys Rekoobe Backdoor",
-      "url": "https://thehackernews.com/2026/02/malicious-go-crypto-module-steals.html",
-      "published": "2026-02-27T15:33:00+00:00",
-      "summary": "Cybersecurity researchers have disclosed details of a malicious Go module that's designed to harvest passwords, create persistent access via SSH, and deliver a Linux backdoor named Rekoobe.\nThe Go module, github[.]com/xinfeisoft/crypto, impersonates the legitimate \"golang.org/x/crypto\" codebase, but injects malicious code that's responsible for exfiltrating secrets entered via terminal password",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdXNmYRKw13_BHE7B7MMtqTTpJXBkgDzl2sH31t0L0_VCl9uJbWPS2yg0j0jz0XJovSYryM4NcSCAZdtTDsoRa2d6y3U84K9TDQYJSObLgaJXXh8juWmP6liqj_uirhZvKjR0dqYZ-J2mwTnmEIYIKfAoC9BY3yL2xhfLD_NbwVKzekKwoI3u4iSzU44Xn/s1600/hackers.jpg"
-    },
-    {
-      "id": "5abebbf74162f0612cb6a5991f04bb0fa71e179f",
-      "title": "ScarCruft Uses Zoho WorkDrive and USB Malware to Breach Air-Gapped Networks",
-      "url": "https://thehackernews.com/2026/02/scarcruft-uses-zoho-workdrive-and-usb.html",
-      "published": "2026-02-27T12:43:00+00:00",
-      "summary": "The North Korean threat actor known as ScarCruft has been attributed to a fresh set of tools, including a backdoor that uses Zoho WorkDrive for command-and-control (C2) communications to fetch more payloads and an implant that uses removable media to relay commands and breach air-gapped networks.\nThe campaign, codenamed Ruby Jumper by Zscaler ThreatLabz, involves the deployment of malware",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGnWXXVXx1WeEkTWrq3_CCY922KPE3hV_pg-UYgx86QO76S5DomWi6TxZZQSGZ1Jpf2Rp2riR41Ld7zqWhjfdniLJthYBBDJx3eyNFMPQn5ph9kmmRyrib3HpIe1o5oEp6htOMFVe-m9UQNaXhhoY6MkHeXk1oM4UfctRDC5piMbIZGdjr2bApPUzXMQXK/s1600/keys.jpg"
     },
     {
       "id": "a2db4e80992d24e7eeed1f034c2bd9f9ebec8c2f",
@@ -1212,6 +1212,39 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltacc573d6dd646e71/67852893f2a2afe352092724/MMD_Creative-data-dashboard-metrics-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
+      "id": "a0b92810ad666585c3e2765d018d51fd1113461d",
+      "title": "Ericsson blames vendor vishing slip-up for breach exposing thousands of records",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/10/ericsson_blames_vendor_vishing_slipup/",
+      "published": "2026-03-10T12:16:28+00:00",
+      "summary": "<h4>Crooks used simple phone scam to compromise vendor account, spilling personal and financial data belonging to more than 15,000 people</h4> <p>A voice-phishing scam targeting one of Ericsson's service providers has exposed the personal data of more than 15,000 individuals after attackers sweet-talked an employee into handing over access.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "e2eb17e17874b21c4d4039d63c66d0b28d5571b1",
+      "title": "Protecting democracy means democratizing cybersecurity. Bring on the hackers",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/10/democratizing_security_opinion/",
+      "published": "2026-03-10T12:09:31+00:00",
+      "summary": "<h4>Digital freedom needs a Kali Linux for the rest of us</h4> <p><strong>Opinion</strong>\u00a0 The hacker mind is a curious way to be. To have it means to embody endless analytical curiosity, an awareness of any given rule set as just one system among many, and an ability to see any system in ways that its creators never expected. Combine this with a drive to find the bad and make things better, and you become one of the fundamental forces of the technological universe.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "9a4a9b046f7c3c7570e9439fee054124a006d8c6",
+      "title": "Polish cops bust alleged teen DDoS kit sellers \u2013 youngest just 12",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/10/poland_ddos_teens_bust/",
+      "published": "2026-03-10T11:41:28+00:00",
+      "summary": "<h4>Kids profited from tools used to attack popular websites, say officials</h4> <p>Polish police have referred seven suspected juvenile cybercriminals to family court over an alleged scheme to flog DDoS kits online.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "e1abf856d3ac1ae871cc8c9cdc31f83033d6fe00",
       "title": "AI vs AI: Agent hacked McKinsey's chatbot and gained full read-write access in just two hours",
       "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/09/mckinsey_ai_chatbot_hacked/",
@@ -1729,39 +1762,6 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "94c9f15e1f44a21bbf153b99c99a010158619028",
-      "title": "Scattered Lapsus$ Hunters auditioning female voices to sharpen social engineering",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/02/26/scattered_lapsus_hunters_female_recruits/",
-      "published": "2026-02-26T12:35:21+00:00",
-      "summary": "<h4>Telegram posts promise up to $1,000 per call as gang refines IT helpdesk ruse</h4> <p>Prolific cybercrime crew Scattered Lapsus$ Hunters (SLSH) is reportedly recruiting women in the hope of improving its social engineering success.\u2026</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "329e93f7426bae5d948f227dfd7cd75037f06090",
-      "title": "Five Eyes warn: Patch your Cisco SD-WAN or risk root takeover",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/02/26/five_eyes_cisco_sdwan/",
-      "published": "2026-02-26T11:39:55+00:00",
-      "summary": "<h4>A rare joint alert from all five spy agencies means serious business</h4> <p>The Five Eyes intelligence alliance is urgently warning defenders to patch two Cisco Catalyst SD-WAN vulnerabilities used in attacks.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "72aea88b4f8e80dc3352819ef6d2bbe2ca7f5396",
-      "title": "Claude collaboration tools left the door wide open to remote code execution",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/02/26/clade_code_cves/",
-      "published": "2026-02-26T00:33:20+00:00",
-      "summary": "<h4>Anthropic fixed the flaws \u2013 but the AI-enabled attack surfaces remain</h4> <p>Security vulnerabilities in Claude Code could have allowed attackers to remotely execute code on users' machines and steal API keys by injecting malicious configurations into repositories, and then waiting for a developer to clone and open an untrustworthy project.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
       "id": "0bef1949a26ec105d63f86317434969b34819474",
       "title": "How AI Assistants are Moving the Security Goalposts",
       "url": "https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/",
@@ -1812,6 +1812,50 @@
       "published": "2026-02-10T21:49:53+00:00",
       "summary": "Microsoft today released updates to fix more than 50 security holes in its Windows operating systems and other software, including patches for a whopping six \"zero-day\" vulnerabilities that attackers are already exploiting in the wild.",
       "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "f0460ed54bba981850c4d251ca5510fe24ba152e",
+      "title": "Escape Raises $18 Million to Automate Pentesting",
+      "url": "https://www.securityweek.com/escape-raises-18-million-to-automate-pentesting/",
+      "published": "2026-03-10T11:58:32+00:00",
+      "summary": "<p>The company will deepen its platform's AI agent capabilities and scale engineering and go-to-market teams.</p>\n<p>The post <a href=\"https://www.securityweek.com/escape-raises-18-million-to-automate-pentesting/\">Escape Raises $18 Million to Automate Pentesting</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "be2e95e95237ecd6747ca113d22c7371052c9d41",
+      "title": "Recent Ivanti Endpoint Manager Flaw Exploited in Attacks",
+      "url": "https://www.securityweek.com/recent-ivanti-endpoint-manager-flaw-exploited-in-attacks/",
+      "published": "2026-03-10T11:51:02+00:00",
+      "summary": "<p>CISA has added the high-severity authentication bypass vulnerability to its KEV list, along with SolarWinds and Workspace One bugs.</p>\n<p>The post <a href=\"https://www.securityweek.com/recent-ivanti-endpoint-manager-flaw-exploited-in-attacks/\">Recent Ivanti Endpoint Manager Flaw Exploited in Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "b23651328c8954a115329c882111c9467cd57379",
+      "title": "SIM Swaps Expose a Critical Flaw in Identity Security",
+      "url": "https://www.securityweek.com/sim-swaps-expose-a-critical-flaw-in-identity-security/",
+      "published": "2026-03-10T11:00:00+00:00",
+      "summary": "<p>SIM swap attacks exploit misplaced trust in phone numbers and human processes to bypass authentication controls and seize high-value accounts.</p>\n<p>The post <a href=\"https://www.securityweek.com/sim-swaps-expose-a-critical-flaw-in-identity-security/\">SIM Swaps Expose a Critical Flaw in Identity Security</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "8b6e447e8e8238225584d2bf40e015a41b38c508",
+      "title": "Cylake Raises $45 Million to Secure Organizations Barred From Cloud",
+      "url": "https://www.securityweek.com/cylake-raises-45-million-to-secure-organizations-barred-from-cloud/",
+      "published": "2026-03-10T07:10:22+00:00",
+      "summary": "<p>The company, founded by Palo Alto Networks\u2019 Nir Zuk, has developed a platform that focuses on data sovereignty.\u00a0</p>\n<p>The post <a href=\"https://www.securityweek.com/cylake-raises-45-million-to-secure-organizations-barred-from-cloud/\">Cylake Raises $45 Million to Secure Organizations Barred From Cloud</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
@@ -1877,50 +1921,6 @@
       "url": "https://www.securityweek.com/us-cyber-strategy-targets-adversaries-critical-infrastructure-and-emerging-technologies/",
       "published": "2026-03-07T15:57:23+00:00",
       "summary": "<p>Trump\u2019s Cyber Strategy calls for stronger deterrence against cyber adversaries, modernization of federal networks, protection of critical infrastructure, and investment in technologies such as AI and post-quantum cryptography.</p>\n<p>The post <a href=\"https://www.securityweek.com/us-cyber-strategy-targets-adversaries-critical-infrastructure-and-emerging-technologies/\">US Cyber Strategy Targets Adversaries, Critical Infrastructure, and Emerging Technologies</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "c0a75aadeff5d396923fd8aafaa702a78a382bda",
-      "title": "Over 100 GitHub Repositories Distributing BoryptGrab Stealer",
-      "url": "https://www.securityweek.com/over-100-github-repositories-distributing-boryptgrab-stealer/",
-      "published": "2026-03-07T12:40:00+00:00",
-      "summary": "<p>The malware targets browser and cryptocurrency wallet data, along with system information and user files.</p>\n<p>The post <a href=\"https://www.securityweek.com/over-100-github-repositories-distributing-boryptgrab-stealer/\">Over 100 GitHub Repositories Distributing BoryptGrab Stealer</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "856b424317477be43a600102b82417db81eccf6d",
-      "title": "Pentagon\u2019s Chief Tech Officer Says He Clashed With AI Company Anthropic Over Autonomous Warfare",
-      "url": "https://www.securityweek.com/pentagons-chief-tech-officer-says-he-clashed-with-ai-company-anthropic-over-autonomous-warfare/",
-      "published": "2026-03-07T11:51:16+00:00",
-      "summary": "<p>Pentagon CTO Emil Michael said the military is developing procedures for enabling different levels of autonomy in warfare depending on the risk posed.</p>\n<p>The post <a href=\"https://www.securityweek.com/pentagons-chief-tech-officer-says-he-clashed-with-ai-company-anthropic-over-autonomous-warfare/\">Pentagon\u2019s Chief Tech Officer Says He Clashed With AI Company Anthropic Over Autonomous Warfare</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "637830757d7ee9f2784c0ba8765f095e694b9d31",
-      "title": "FBI Investigating \u2018Suspicious\u2019 Cyber Activity on System Holding Sensitive Surveillance Information",
-      "url": "https://www.securityweek.com/fbi-investigating-suspicious-cyber-activity-on-system-holding-sensitive-surveillance-information/",
-      "published": "2026-03-07T01:01:54+00:00",
-      "summary": "<p>The bureau is working to determine the scope and impact of the problem, according to a notification sent to members of Congress.</p>\n<p>The post <a href=\"https://www.securityweek.com/fbi-investigating-suspicious-cyber-activity-on-system-holding-sensitive-surveillance-information/\">FBI Investigating \u2018Suspicious\u2019 Cyber Activity on System Holding Sensitive Surveillance Information</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "6c5c724d650173b91071c136b88f5111824a8966",
-      "title": "ArmorCode Raises $16 Million for Exposure Management Platform",
-      "url": "https://www.securityweek.com/armorcode-raises-16-million-for-exposure-management-platform/",
-      "published": "2026-03-06T16:06:39+00:00",
-      "summary": "<p>The company will accelerate platform development, expand go-to-market efforts, and invest in product innovation.</p>\n<p>The post <a href=\"https://www.securityweek.com/armorcode-raises-16-million-for-exposure-management-platform/\">ArmorCode Raises $16 Million for Exposure Management Platform</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
