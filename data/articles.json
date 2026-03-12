@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-12T00:52:33.424282+00:00",
+  "generated_at": "2026-03-12T12:29:23.469246+00:00",
   "items": [
     {
       "id": "bda00846618dc42764d57eb12dffd02874af28f7",
@@ -110,6 +110,50 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "9f97f6a078d8e4134f6a8cd89798a6757eebc791",
+      "title": "Attackers Don't Just Send Phishing Emails. They Weaponize Your SOC's Workload",
+      "url": "https://thehackernews.com/2026/03/attackers-dont-just-send-phishing.html",
+      "published": "2026-03-12T11:30:00+00:00",
+      "summary": "The most dangerous phishing campaigns aren\u2019t just designed to fool employees. Many are designed to exhaust the analysts investigating them. When a phishing investigation takes 12 hours instead of five minutes, the outcome can shift from a contained incident to a breach.\nFor years, the cybersecurity industry has focused on the front door of phishing defense: employee training, email gateways that",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicyAymkVT6oOh3KGSa7rCPyMlrrye6CVfJ2XVCt_iVvuatelOJiFXIV5YnOzaGBJFs8et6STAZ67nRfN49Ac9aouuN7jDZWAum8Bdy3wfcj27lYGNcWTA_i5Rm4DYXLzKJyUGc2ZdS6AXasd0LTgdgx8PdqKRRo6s_hZ7FwXNFE6kGDmN6B1z5BYrcsxE/s1600/conf.jpg"
+    },
+    {
+      "id": "3a8490729522bc131b914b8cea835f2ada152812",
+      "title": "Apple Issues Security Updates for Older iOS Devices Targeted by Coruna WebKit Exploit",
+      "url": "https://thehackernews.com/2026/03/apple-issues-security-updates-for-older.html",
+      "published": "2026-03-12T09:58:00+00:00",
+      "summary": "Apple on Wednesday backported fixes for a security flaw in iOS, iPadOS, and macOS Sonoma to older versions after it was found to be used as part of the Coruna exploit kit.\nThe vulnerability, tracked as CVE-2023-43010, relates to an unspecified vulnerability in WebKit that could result in memory corruption when processing maliciously crafted web content. The iPhone maker said the issue was",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYxpx0H72-jraYxYXM_LUEtyv1M503LKgvsrmHcmXew61h2RfR4Q5uyuLKb6h6qltO1UedF9lMjEC3MoOgxDNO8zB4BzKjkVusHicqzNXSK3Tojlq10A7xDds9wDdyKTGtwWTKMAvoR5-l5nK7gnZQOUDbTbOXGWAezt1MjNJQpPh3MalEkI-nhOmTZ7fW/s1600/iphones.jpg"
+    },
+    {
+      "id": "0180934ea26769d02fda6687b06b2696140b088d",
+      "title": "Six Android Malware Families Target Pix Payments, Banking Apps, and Crypto Wallets",
+      "url": "https://thehackernews.com/2026/03/six-android-malware-families-target-pix.html",
+      "published": "2026-03-12T07:56:00+00:00",
+      "summary": "Cybersecurity researchers have discovered half-a-dozen new Android malware families that come with capabilities to steal data from compromised devices and conduct financial fraud.\nThe Android malware range from traditional banking trojans like PixRevolution, TaxiSpy RAT, BeatBanker, Mirax, and Oblivion RAT to full-fledged remote administration tools such as SURXRAT.\nPixRevolution, according to",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3XqFIcbN9bZftTEAfBhB62BmEP37KyRy2yIFvs7i_kZN4B6VoQ6hXBubWk6jRv0QLqcAs1W1zsnJ30cfDpI5teRgyEkSVrYqYuygAIhpH6k2t-N48pxg0UpB8cJnYCAsuVi4PZxy2J8ZZdwL0Ff1EXhUDQo8NeKHPPxr_ur-_Mx0n8nUdZtoa3HZRLBRG/s1600/banking.jpg"
+    },
+    {
+      "id": "d886f89a8dc560f305d30e5279a971b11bc745ba",
+      "title": "CISA Flags Actively Exploited n8n RCE Bug as 24,700 Instances Remain Exposed",
+      "url": "https://thehackernews.com/2026/03/cisa-flags-actively-exploited-n8n-rce.html",
+      "published": "2026-03-12T05:18:00+00:00",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a critical security flaw impacting n8n to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation.\nThe vulnerability, tracked as CVE-2025-68613 (CVSS score: 9.9), concerns a case of expression injection that leads to remote code execution. The security shortcoming was patched",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqTMEW2jHKU06jv88QZ06xgVQgmBS6BBQ2qOiIrLlhEJvpDCbje7ou_bIPAxP-N9b90TI7pIKZMotOLtO_3Gi4B3JBRRW8QxuqZtVj8WwFdEMhCdqd-XaTcRFRjBEyGeDeNjznGmw2qUWyHAshjwN8J2FOLhqTzwIS9-X6-G0pm5lUeKuxQegcENT4V8Q0/s1600/cisa-exploit.jpg"
     },
     {
       "id": "7e18efe30bb766d86b4e9a71a81768030b955b9c",
@@ -616,50 +660,6 @@
       "region": "North America",
       "country": "US",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMxXTslXwVQy4UDmwQOi39oPLz0gBjk3E_mUL0hONp_uAbe2mkCooBcTU3zE6nArVycOldRPm5jMHfzTAI_plrX1jvn5o8zmSGKTH794N2tpztPyTLW-TBZqfHaa4nbHLMY2LHhW0l1J4wzmg8lCRXOFWdAQSSn1Qb4iR8PIeRUE9K1NvpCtluT69-y7By/s1600/outlook.jpg"
-    },
-    {
-      "id": "7d49fba7473792e9c78618f667b835aebaa8034f",
-      "title": "Building a High-Impact Tier 1: The 3 Steps CISOs Must Follow",
-      "url": "https://thehackernews.com/2026/03/building-high-impact-tier-1-3-steps.html",
-      "published": "2026-03-03T14:30:00+00:00",
-      "summary": "Every CISO knows the uncomfortable truth about their Security Operations Center: the people most responsible for catching threats in real time are the people with the least experience. Tier 1 analysts sit at the front line of detection, and yet they are also the most vulnerable to the cognitive and organizational pressures that quietly erode SOC performance over time.\nThe Paradox at the Gate:",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwYwVezgvocYpgSVlObttlWWj69Wzly716Z1gfPOUjTsEL1TqBXiWSSexSIR2o96ji1cbMuxtxZVETQ7oN6klFQ2do3WCjhmiVLt1BXlMekcMlJSGxTD6XffjEZRWsc3q8eo0HmRc1IV8p777ZLFW4wOXPsDNaCetHqmCkMLILYOAsmDgSaVwerAUtS0A/s1600/tier1.jpg"
-    },
-    {
-      "id": "4dc0f31409d41e73503a962866ebb0dfc858565d",
-      "title": "Open-Source CyberStrikeAI Deployed in AI-Driven FortiGate Attacks Across 55 Countries",
-      "url": "https://thehackernews.com/2026/03/open-source-cyberstrikeai-deployed-in.html",
-      "published": "2026-03-03T14:29:00+00:00",
-      "summary": "The threat actor behind the recently disclosed artificial intelligence (AI)-assisted campaign targeting Fortinet FortiGate appliances leveraged an open-source, AI-native security testing platform called CyberStrikeAI to execute the attacks.\nThe new findings come from Team Cymru, which detected its use following an analysis of the IP address (\"212.11.64[.]250\") that was used by the suspected",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfbbcxvw46Df6wZJpHzgD3wrBSTcFyJLQEYVSpnUYNF2U92TTfAilNI6bijzKSHSiHb_XiQgw_V9Rn5HBEoUjx-pGg9fVLh07C7gebKC80qyqTUD0HvHbiquEkIvxjs9n6MuQH5QHp_Sf9nw_NIJRg8Ffi8N_1exLScK5EMuP99dwof4p4aCvRIqlv8zwV/s1600/cyberattacks.jpg"
-    },
-    {
-      "id": "b4123d87dd227bcee21c5a82dab133bfd3b39993",
-      "title": "AI Agents: The Next Wave Identity Dark Matter - Powerful, Invisible, and Unmanaged",
-      "url": "https://thehackernews.com/2026/03/ai-agents-next-wave-identity-dark.html",
-      "published": "2026-03-03T11:30:00+00:00",
-      "summary": "The Rise of MCPs in the Enterprise\nThe Model Context Protocol (MCP) is quickly becoming a practical way to push LLMs from \u201cchat\u201d into real work. By providing structured access to applications, APIs, and data, MCP enables prompt-driven AI agents that can retrieve information, take action, and automate end-to-end business workflows across the enterprise. This is already showing up in production",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiy66jCAP3njemOp9S0dnoRSikwWIk-OjV_6kygA0ubIpsczO3IWQf7SD3hcvCzRrDtiL6_2jOk3fWy2YtEWMwEyCmvzhw6QReN8cvfOlYuiXP4VzgeV_PaFRsylxXhR7akoqfkgxsD_oiNXSAabskwOrDoIJMSsAgr0VZO2UW-4odf7eAjioV1KX7mn3w/s1600/ormain.jpg"
-    },
-    {
-      "id": "a2a4288c7e9590630fb2ed370c45c1a45df1ed9a",
-      "title": "Starkiller Phishing Suite Uses AitM Reverse Proxy to Bypass Multi-Factor Authentication",
-      "url": "https://thehackernews.com/2026/03/starkiller-phishing-suite-uses-aitm.html",
-      "published": "2026-03-03T11:10:00+00:00",
-      "summary": "Cybersecurity researchers have disclosed details of a new phishing suite called Starkiller that proxies legitimate login pages to bypass multi-factor authentication (MFA) protections.\nIt's advertised as a cybercrime platform by a threat group calling itself Jinkusu, granting customers access to a dashboard that lets them select a brand to impersonate or enter a brand's real URL. It also lets",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOdnsC4miBmpXK8ZPV1kM1figMIfiqkQpUeAt8idIiZEFRCNt6AMaFSmpUaR215Hrw-XIGi6Zcl9vOgGO5ItB53gWlN_r8UxGz_yTrPTk9bFgCUudYbq2jETdm526DpMDaPyT8UFt7m5XUwlrYdJmUDyEmoQO6zcnGvUB4_W0mBiHJtWFqJk7udXMelfSu/s1600/star.jpg"
     },
     {
       "id": "03a871ce4d5e5588dde876a9b2905388db335056",
@@ -1212,6 +1212,17 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1451fb532a165f33/699ee8725a46010008b62fb3/developer-everythingpossible-AdobeStock.png?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
+      "id": "b85b776a60c823366d402ed8334b8747053772f0",
+      "title": "China\u2019s CERT warns OpenClaw can inflict nasty wounds",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/12/china_cert_openclaw_security_warning/",
+      "published": "2026-03-12T01:37:09+00:00",
+      "summary": "<h4>Like deleting data, exposing keys, and loading malicious content - which may be why Beijing has reportedly banned it</h4> <p>China\u2019s National Computer Network Emergency Response Technical Team has warned locals that the OpenClaw agentic AI tool poses significant security risks.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "1baa75f016db87cdc6468209b191b59ea777cac9",
       "title": "Iran plots 'infrastructure warfare' against US tech giants",
       "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/11/iran_threatens_us_tech_companies/",
@@ -1751,17 +1762,6 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "bc7e655f52d925861f697cee4ccecae978ee0e36",
-      "title": "Iran's cyberwar has begun",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/02/cyber_warfighters_iran/",
-      "published": "2026-03-02T20:52:18+00:00",
-      "summary": "<h4>'Expect elevated activity for the foreseeable future'</h4> <p>Iranian hackers have launched spying expeditions, digital probes, and distributed denial of service (DDoS) attacks in the wake of the US and Israel launching missile strikes over the weekend, and security researchers urge organizations to expect more cyber intrusions as the war continues.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
       "id": "25c8e36273c8f9741a6c2f46e23dd56eff9050da",
       "title": "Iran-Backed Hackers Claim Wiper Attack on Medtech Firm Stryker",
       "url": "https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/",
@@ -1839,6 +1839,61 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "d9c32a20bcb0292112e21d48e74a027bd38df6a3",
+      "title": "The Human IOC: Why Security Professionals Struggle with Social Vetting",
+      "url": "https://www.securityweek.com/the-human-ioc-why-security-professionals-struggle-with-social-vetting/",
+      "published": "2026-03-12T12:30:00+00:00",
+      "summary": "<p>Applying SOC-level rigor to the rumors, politics, and 'human intel' can make or break a security team.</p>\n<p>The post <a href=\"https://www.securityweek.com/the-human-ioc-why-security-professionals-struggle-with-social-vetting/\">The Human IOC: Why Security Professionals Struggle with Social Vetting</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "0f06c681145f9033b57e857d56970c8f6d466180",
+      "title": "Splunk, Zoom Patch Severe Vulnerabilities",
+      "url": "https://www.securityweek.com/splunk-zoom-patch-severe-vulnerabilities/",
+      "published": "2026-03-12T12:06:15+00:00",
+      "summary": "<p>Critical- and high-severity flaws could be exploited to execute arbitrary shell commands or elevate privileges.</p>\n<p>The post <a href=\"https://www.securityweek.com/splunk-zoom-patch-severe-vulnerabilities/\">Splunk, Zoom Patch Severe Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "27ee8196abd7842dd00197a886fe0db86ec4b710",
+      "title": "Cisco Patches High-Severity IOS XR Vulnerabilities",
+      "url": "https://www.securityweek.com/cisco-patches-high-severity-ios-xr-vulnerabilities-2/",
+      "published": "2026-03-12T10:25:26+00:00",
+      "summary": "<p>The security defects could lead to denial-of-service (DoS) conditions, command execution, or device takeover.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisco-patches-high-severity-ios-xr-vulnerabilities-2/\">Cisco Patches High-Severity IOS XR Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "5dc2fc3e4ffaf31bac4a0de3f35cf4455718b635",
+      "title": "Critical N8n Vulnerabilities Allowed Server Takeover",
+      "url": "https://www.securityweek.com/critical-n8n-vulnerabilities-allowed-server-takeover/",
+      "published": "2026-03-12T09:54:40+00:00",
+      "summary": "<p>The bugs allowed unauthenticated attackers to execute arbitrary code, steal credentials, and take over servers.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-n8n-vulnerabilities-allowed-server-takeover/\">Critical N8n Vulnerabilities Allowed Server Takeover</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "f087315e0778fd98ffc338b64fe341e0605a3b13",
+      "title": "Polyfill Supply Chain Attack Impacting 100k Sites Linked to North Korea",
+      "url": "https://www.securityweek.com/polyfill-supply-chain-attack-impacting-100k-sites-linked-to-north-korea/",
+      "published": "2026-03-12T09:40:59+00:00",
+      "summary": "<p>The 2024 incident was initially linked to China, but an infostealer infection has now revealed North Korean involvement.</p>\n<p>The post <a href=\"https://www.securityweek.com/polyfill-supply-chain-attack-impacting-100k-sites-linked-to-north-korea/\">Polyfill Supply Chain Attack Impacting 100k Sites Linked to North Korea</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "52884fc155ed51ed958b76e429024171001bb67a",
       "title": "Senate Confirms Joshua Rudd to Lead NSA and US Cyber Command",
       "url": "https://www.securityweek.com/senate-confirms-joshua-rudd-to-lead-nsa-and-us-cyber-command/",
@@ -1888,61 +1943,6 @@
       "url": "https://www.securityweek.com/238000-impacted-by-bell-ambulance-data-breach/",
       "published": "2026-03-11T13:34:17+00:00",
       "summary": "<p>Hackers stole personal information such as names, Social Security numbers, and driver\u2019s license numbers.</p>\n<p>The post <a href=\"https://www.securityweek.com/238000-impacted-by-bell-ambulance-data-breach/\">238,000 Impacted by Bell Ambulance Data Breach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "d7995160297cd38b4c78dcff27043777f0f62be1",
-      "title": "Scanner Raises $22 Million for AI-Powered Threat Hunting",
-      "url": "https://www.securityweek.com/scanner-raises-22-million-for-ai-powered-threat-hunting/",
-      "published": "2026-03-11T13:16:46+00:00",
-      "summary": "<p>The company connects AI agents to security data lakes for interactive investigations, detection engineering, and autonomous response.</p>\n<p>The post <a href=\"https://www.securityweek.com/scanner-raises-22-million-for-ai-powered-threat-hunting/\">Scanner Raises $22 Million for AI-Powered Threat Hunting</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "4ae5d1dadffcd4ff1e0d156217caf764d4667eea",
-      "title": "OpenAI to Acquire AI Security Startup Promptfoo",
-      "url": "https://www.securityweek.com/openai-to-acquire-ai-security-startup-promptfoo/",
-      "published": "2026-03-11T12:25:58+00:00",
-      "summary": "<p>Promptfoo has raised more than $23 million in funding for a platform that helps developers secure LLMs and AI agents.</p>\n<p>The post <a href=\"https://www.securityweek.com/openai-to-acquire-ai-security-startup-promptfoo/\">OpenAI to Acquire AI Security Startup Promptfoo</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "67096cd6c27806d3589f78a0b1948e57267b1fed",
-      "title": "Fortinet, Ivanti, Intel Patch High-Severity Vulnerabilities",
-      "url": "https://www.securityweek.com/fortinet-ivanti-intel-patch-high-severity-vulnerabilities/",
-      "published": "2026-03-11T12:10:12+00:00",
-      "summary": "<p>The bugs could lead to arbitrary code execution, privilege escalation, or authentication rate-limit bypass.</p>\n<p>The post <a href=\"https://www.securityweek.com/fortinet-ivanti-intel-patch-high-severity-vulnerabilities/\">Fortinet, Ivanti, Intel Patch High-Severity Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "a195941f283530fc84c0e010e8d81e39ac6e12ea",
-      "title": "How to 10x Your Vulnerability Management Program in the Agentic Era",
-      "url": "https://www.securityweek.com/how-to-10x-your-vulnerability-management-program-in-the-agentic-era/",
-      "published": "2026-03-11T12:00:00+00:00",
-      "summary": "<p>The evolution of vulnerability management in the agentic era is characterized by continuous telemetry, contextual prioritization and the ultimate goal of agentic remediation.</p>\n<p>The post <a href=\"https://www.securityweek.com/how-to-10x-your-vulnerability-management-program-in-the-agentic-era/\">How to 10x Your Vulnerability Management Program in the Agentic Era</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "6a7131ff4bb091cbaba881174fa7cea4cd94cef6",
-      "title": "Michelin Confirms Data Breach Linked to Oracle EBS Attack",
-      "url": "https://www.securityweek.com/michelin-confirms-data-breach-linked-to-oracle-ebs-attack/",
-      "published": "2026-03-11T11:27:20+00:00",
-      "summary": "<p>The cybercriminals have leaked more than 300GB of files allegedly stolen from the tire giant.</p>\n<p>The post <a href=\"https://www.securityweek.com/michelin-confirms-data-breach-linked-to-oracle-ebs-attack/\">Michelin Confirms Data Breach Linked to Oracle EBS Attack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
