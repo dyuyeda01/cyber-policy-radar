@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-13T00:57:59.131651+00:00",
+  "generated_at": "2026-03-13T12:28:34.853170+00:00",
   "items": [
     {
       "id": "bf35575ffb7504ca5451b6a1bbfbd0fa963cc13d",
@@ -110,6 +110,50 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "9ada3fa602ad3eaedf480519126193d60a17e304",
+      "title": "Google Fixes Two Chrome Zero-Days Exploited in the Wild Affecting Skia and V8",
+      "url": "https://thehackernews.com/2026/03/google-fixes-two-chrome-zero-days.html",
+      "published": "2026-03-13T09:17:00+00:00",
+      "summary": "Google on Thursday released security updates for its Chrome web browser to address two high-severity vulnerabilities that it said have been exploited in the wild.\nThe list of vulnerabilities is as follows -\n\nCVE-2026-3909 (CVSS score: 8.8) - An out-of-bounds write vulnerability in the Skia 2D graphics library that allows a remote attacker to perform out-of-bounds memory access via a crafted HTML",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjV6RqjIMz8KqPQlA1cIBNewRR0jZi7h-6Hs9JFjyV_wT8SKGcY_CP6J-DsPjP1eFKUYDQIJ8wztGrSmiD3HSopChiVBV1mLfYcoZolAxeFL-bRHV79PuCEC1sQQE3KMz9u8c8jFx4WXL62e6KXGYcivKjnyTiuvFj7BYXNaPrbXACyCvTb1Y9xpfYvq-AK/s1600/chrome-exploit.png"
+    },
+    {
+      "id": "4791d205271970dbf9947ac6cba53f2394668150",
+      "title": "Nine CrackArmor Flaws in Linux AppArmor Enable Root Escalation, Bypass Container Isolation",
+      "url": "https://thehackernews.com/2026/03/nine-crackarmor-flaws-in-linux-apparmor.html",
+      "published": "2026-03-13T08:18:00+00:00",
+      "summary": "Cybersecurity researchers have disclosed multiple security vulnerabilities within the Linux kernel's AppArmor module that could be exploited by unprivileged users to circumvent kernel protections, escalate to root, and undermine container isolation guarantees.\nThe nine confused deputy vulnerabilities have been collectively codenamed CrackArmor by the Qualys Threat Research Unit (TRU). The",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjq_iDZMyZB2yYcYrlFVa1dJoHT3mV0d9HfTPEpKmflkN-4zBDaSNIurPPADFGUW9GfTfMaCDlwUb6ywLpKiQa5CtSGSC6sPJIqfe-gRWhUa_z1B6Obazf_U5NuRX-ruWpomgMJQqcjD7XPeoyhgbVplGYCX3zQKFKmSIf0iSBwoUXhuE1ZZeZns9-fMlNr/s1600/linux-root.jpg"
+    },
+    {
+      "id": "9e28c9c7eef8e1ddd54f2b8ec97e94cd49e887c8",
+      "title": "Authorities Disrupt SocksEscort Proxy Botnet Exploiting 369,000 IPs Across 163 Countries",
+      "url": "https://thehackernews.com/2026/03/authorities-disrupt-socksescort-proxy.html",
+      "published": "2026-03-13T05:26:00+00:00",
+      "summary": "A court-authorized international law enforcement operation has dismantled a criminal proxy service named SocksEscort that enslaved thousands of residential routers worldwide into a botnet for committing large-scale fraud.\n\"SocksEscort infected home and small business internet routers with malware,\" the U.S. Department of Justice (DoJ) said. \"The malware allowed SocksEscort to direct internet",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVzS5AAXyP_Q8mGS7-ZejQUI5zUDhpgZ64cEqrWMzNKqSKhI1ruMBwk3fI_eOC0LA8CvuiQQjDlWbFm8PXgUilTaauAIv2pC5rM6pnZBLRqpE9AifLnZTbkkF4dXLf9Ngr30qtvowTYLqbH2sPF6sd6mgA74AbHqtZ9dVhjvvMW68luK5nuNCWbe3ftuLG/s1600/router.jpg"
+    },
+    {
+      "id": "f34b9cdd4d88e7512e8850ce453c973b855fff2a",
+      "title": "Veeam Patches 7 Critical Backup & Replication Flaws Allowing Remote Code Execution",
+      "url": "https://thehackernews.com/2026/03/veeam-patches-7-critical-backup.html",
+      "published": "2026-03-13T04:15:00+00:00",
+      "summary": "Veeam has released security updates to address multiple critical vulnerabilities in its Backup &amp; Replication software that, if successfully exploited, could result in remote code execution.\nThe vulnerabilities are as follows -\n\nCVE-2026-21666 (CVSS score: 9.9) - A vulnerability that allows an authenticated domain user to perform remote code execution on the Backup Server.\nCVE-2026-21667 (",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVixoCttO0Li1BNrJG6s8rsycHEzgVh52YFA_RHnrq4QMjt3fPQuKCJfw8rqCMZtgrSGrXxpPvTyhWQ_rD0D44_3TvBfNC0Eq_VRSWIqDFpDFdKdHMwQIidTX8E4Kc4iiWt3xcwhW_YC8oKLTZFMWN-uyCUjtIavnhXRHbs3gJOLuTUI1zg79tkK4gpsaQ/s1600/veeam.png"
     },
     {
       "id": "4815ad1838dbf986522908cb921181f16ad39471",
@@ -618,50 +662,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgj8UTSWEMM2rFGJeOr4V1jcbj7LGdQOWonmvhfcbkNspvoCt-7wsBrnJoMuGgnyCZ-E4G5DqWRcPYrrTi3MF-nZWM3pke6JmFrnNlIrs99WF4ayKdghQxMVtvsxxkvv0FMHmKHWCA92klsfqy2fS4rD0_YcBTOapV-lsGCsZhnLHMCe3oMhEukpHaTgGQE/s1600/takedown.jpg"
     },
     {
-      "id": "b69124563bd5873fd4d948a4f971d9cff8c867b0",
-      "title": "FBI and Europol Seize LeakBase Forum Used to Trade Stolen Credentials",
-      "url": "https://thehackernews.com/2026/03/fbi-and-europol-seize-leakbase-forum.html",
-      "published": "2026-03-05T06:34:00+00:00",
-      "summary": "A joint law enforcement operation has dismantled LeakBase, one of the world's largest online forums for cybercriminals to buy and sell stolen data and cybercrime tools.\nThe LeakBase forum, per the U.S. Department of Justice (DoJ), had over 142,000 members and more than 215,000 messages between members as of December 2025. Those attempting to access the forum's website (\"leakbase[.]la\") are now",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqCkvzA_QIoUAC6eMNU1kDX-c7UWPBC9pNRMLDRcjLxiDk6nxLIsjxSYkqpSIX3KpG20nCf8386lGtqomuIqQRGBtC5xfPi0oADNXOggDel6qLCkNMoE7YaHjazq_iL3XF7RZzkfAn18D8-kx1Jz7YAYzHo6bQVRhSdhYSHa16pljvUq8Cihnv3CUARjH0/s1600/FORUM.jpg"
-    },
-    {
-      "id": "ee26332865def941769f12b092c6455073781c88",
-      "title": "149 Hacktivist DDoS Attacks Hit 110 Organizations in 16 Countries After Middle East Conflict",
-      "url": "https://thehackernews.com/2026/03/149-hacktivist-ddos-attacks-hit-110.html",
-      "published": "2026-03-04T17:21:00+00:00",
-      "summary": "Cybersecurity researchers have warned of a surge in retaliatory hacktivist activity following the U.S.-Israel coordinated military campaign against Iran, codenamed Epic Fury and Roaring Lion.\n\"The hacktivist threat in the Middle East is highly lopsided, with two groups, Keymous+ and DieNet, driving nearly 70% of all attack activity between February 28 and March 2,\" Radware said in a Tuesday",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjabhLtgN_k3Zm7rY2cHxMPh9Py-QdY1pESzIEtJbo45w5Y744g5nEtkc9z6tmPaXh_wB0pgzxbFwTzM7C0whbwEbbSopd-CZy98ANNcLF5k7orHTEMlkLSN5JegxMAMPEyeXPE2VXurPv4npqtKkvuay4ZltoPMk47uR-eqP6LsFHp3SqxAeu8tthDyZMa/s1600/ddos.jpg"
-    },
-    {
-      "id": "ced657f33f03bbd2a617122933b48c96dc85e60b",
-      "title": "Coruna iOS Exploit Kit Uses 23 Exploits Across Five Chains Targeting iOS 13\u201317.2.1",
-      "url": "https://thehackernews.com/2026/03/coruna-ios-exploit-kit-uses-23-exploits.html",
-      "published": "2026-03-04T13:28:00+00:00",
-      "summary": "Google said it identified a \"new and powerful\" exploit kit dubbed Coruna (aka CryptoWaters) targeting Apple iPhone models running iOS versions between 13.0 and 17.2.1.\nThe exploit kit featured five full iOS exploit chains and a total of 23 exploits, Google Threat Intelligence Group (GTIG) said. It's not effective against the latest version of iOS. The findings were first reported by WIRED.\n\"The",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijM5GpGGT0LP6vQkv_yu-1sEWzgjTfk9OIdbMaYKiXdAVgK5DbybegA7hVb_XEgaAPPNAAXJNMh7K2jsH1uHltLp-6L_gOS5xWudR5Z4I76PI3Zv0h2tfvWgCUsq5LoiLMm4x_XXomAeWKVZJ_uNOmCL4cK8TlwNL_SxwwNX0XEr7I9D-ZK-JE1iwHsvM1/s1600/ios.jpg"
-    },
-    {
-      "id": "ab6cacf146fd193d097db8f86379e53f3853e837",
-      "title": "New RFP Template for AI Usage Control and AI Governance",
-      "url": "https://thehackernews.com/2026/03/new-rfp-template-for-ai-usage-control.html",
-      "published": "2026-03-04T11:30:00+00:00",
-      "summary": "As AI becomes the central engine for enterprise productivity, security leaders are finally getting the green light \u2014 and the budget \u2014 to secure it. But there\u2019s a quiet crisis unfolding in the boardroom: many organizations know they need \"AI Governance,\" but they have no idea what they are actually looking for.\nThe CISO\u2019s Dilemma: You Have the AI Budget, but Do You Have the Requirements?\nAs AI",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrvS_eE1grWPn8hXdb-s4EpPUtevfmC487K-kpFLYJOHCw0vZ1A81bBjhZflx5zj8qY4KrWG3FbQ2dbSFOatzswmBbFxZJkX5vqJOpzyaCefDzEiOfca4ayNkY1ERY95TefFgfRj01keLjzjK_8NKr4OSO3B5vM4k9yY_J9dNtmc1Z7lXdqjawA22F2Zc/s1600/main-ai.jpg"
-    },
-    {
       "id": "81b7eba68cc63637473a9aee4ebb6f45a956e975",
       "title": "Iran MOIS Colludes With Criminals to Boost Cyberattacks",
       "url": "https://www.darkreading.com/threat-intelligence/iran-mois-criminals-cyberattacks",
@@ -682,6 +682,17 @@
       "region": "North America",
       "country": "US",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2b3b8c88410c0a0b/69b2dbc1f31518032934f25d/nso_EddieGerald_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
+      "id": "e05bad7894da38debcb217d19e4196e1c498b1a7",
+      "title": "Delinea's StrongDM Acquisition Highlights the Changing Role of PAM",
+      "url": "https://www.darkreading.com/identity-access-management-security/delinea-strongdm-acquisition-highlights-changing-role-pam",
+      "published": "2026-03-12T17:02:11+00:00",
+      "summary": "StrongDM, which injects ephemeral, real-time credentials into developer workflows, will enable Delinea to offer privilege access management across cloud, SaaS, Kubernetes, and database environments.",
+      "source": "DarkReading",
+      "region": "North America",
+      "country": "US",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7ea610a15c2e225b/6706fbc3dd85ad377e33a095/identity-ArtemisDiana-alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "id": "4d050b69bf6410e9e901a9d2286134d5c5b8c9b8",
@@ -1201,15 +1212,26 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5019de3e3f187ef1/699f54699372de000896be92/Sanae_Takaichi_Xi_Jinping-Xinhua-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "4dde7dd5e6d27f82d68baa1cbed740b54bb7955b",
-      "title": "Flaws in Claude Code Put Developers' Machines at Risk",
-      "url": "https://www.darkreading.com/application-security/flaws-claude-code-developer-machines-risk",
-      "published": "2026-02-25T22:02:32+00:00",
-      "summary": "The vulnerabilities highlight a big drawback to integrating AI into software development workflows and the potential impact on supply chains.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta29c5320030f6a4c/699f61ef0bc2e4000874c759/claudecode_aileenchik_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "id": "e94ca6042ed08c45d76fa935707c357d8e6eb12b",
+      "title": "NanoClaw latches onto Docker Sandboxes for safer AI agents",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/13/nanoclaw_latches_onto_docker_sandboxes/",
+      "published": "2026-03-13T11:50:11+00:00",
+      "summary": "<h4>Take your YOLO and box it up</h4> <p><strong>exclusive</strong>\u00a0 NanoClaw, an open source agent platform, can now run inside Docker Sandboxes, furthering the project's commitment to security.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "2a5bc1bbd42e87138492fff5211b72835bfb8076",
+      "title": "Google rushes Chrome update fixing two zero-days already under attack",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/13/google_zeroday_chrome_update/",
+      "published": "2026-03-13T11:25:14+00:00",
+      "summary": "<h4>Skia graphics lib and V8 JavaScript engine brings browser's tally of actively exploited bugs to three in 2026</h4> <p>Google has pushed out an emergency Chrome update to fix two previously unknown vulnerabilities that attackers were already exploiting before the patches landed.\u2026</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
       "id": "6f6e6e880c3410e3fd21c6527c5658941f795d2e",
@@ -1740,25 +1762,135 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "c230f50ef5d12e273d448dd1d4dc939f19a07c5e",
-      "title": "Until last month, attackers could've stolen info from Perplexity Comet users just by sending a calendar invite",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/03/perplexity_comet_browser_hole_cal_invite/",
-      "published": "2026-03-03T14:01:09+00:00",
-      "summary": "<h4>AI browsing agent left local files open for the taking</h4> <p>If you wanted to steal local files from someone using Perplexity's Comet browser, until last month you could just schedule the theft by sending your victim a calendar event.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
+      "id": "25c8e36273c8f9741a6c2f46e23dd56eff9050da",
+      "title": "Iran-Backed Hackers Claim Wiper Attack on Medtech Firm Stryker",
+      "url": "https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/",
+      "published": "2026-03-11T16:20:13+00:00",
+      "summary": "A hacktivist group with links to Iran's intelligence agencies is claiming responsibility for a data-wiping attack against Stryker, a global medical technology company based in Michigan. News reports out of Ireland, Stryker's largest hub outside of the United States, said the company sent home more than 5,000 workers there today. Meanwhile, a voicemail message at Stryker's main U.S. headquarters says the company is currently experiencing a building emergency.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "b7d4c6fdc4a6433c7f28216b4e84bca8e13e2ebe",
-      "title": "Chrome Gemini panel became privilege escalator for rogue extensions",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/03/google_chrome_bug_gemini/",
-      "published": "2026-03-03T11:39:09+00:00",
-      "summary": "<h4>High-severity flaw let malicious add-ons access system via browser's embedded AI feature</h4> <p>Security boffins have discovered a high-severity bug in Google Chrome that allowed malicious extensions to hijack its Gemini Live AI panel and inherit privileges they were never meant to have.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
+      "id": "a8b4199666bdf1d14474a37d8f428f7d60896c0f",
+      "title": "Microsoft Patch Tuesday, March 2026 Edition",
+      "url": "https://krebsonsecurity.com/2026/03/microsoft-patch-tuesday-march-2026-edition/",
+      "published": "2026-03-11T00:32:51+00:00",
+      "summary": "Microsoft Corp. today pushed security updates to fix at least 77 vulnerabilities in its Windows operating systems and other software. There are no pressing \"zero-day\" flaws this month (compared to February's five zero-day treat), but as usual some patches may deserve more rapid attention from organizations using Windows. Here are a few highlights from this month's Patch Tuesday.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "0bef1949a26ec105d63f86317434969b34819474",
+      "title": "How AI Assistants are Moving the Security Goalposts",
+      "url": "https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/",
+      "published": "2026-03-08T23:35:42+00:00",
+      "summary": "AI-based assistants or \"agents\" -- autonomous programs that have access to the user's computer, files, online services and can automate virtually any task -- are growing in popularity with developers and IT workers. But as so many eyebrow-raising headlines over the past few weeks have shown, these powerful and assertive new tools are rapidly shifting the security priorities for organizations, while blurring the lines between data and code, trusted co-worker and insider threat, ninja hacker and novice code jockey.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "249a7530c3edc5cee92d07c53e106dba6caaed96",
+      "title": "Who is the Kimwolf Botmaster \u201cDort\u201d?",
+      "url": "https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/",
+      "published": "2026-02-28T12:01:57+00:00",
+      "summary": "In early January 2026, KrebsOnSecurity revealed how a security researcher disclosed a vulnerability that was used to assemble Kimwolf, the world's largest and most disruptive botnet. Since then, the person in control of Kimwolf -- who goes by the handle \"Dort\" -- has coordinated a barrage of distributed denial-of-service (DDoS), doxing and email flooding attacks against the researcher and this author, and more recently caused a SWAT team to be sent to the researcher's home. This post examines what is knowable about Dort based on public information.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "04b6bbeedfed18aaa5c090a56c3e2fba0ba6ebef",
+      "title": "\u2018Starkiller\u2019 Phishing Service Proxies Real Login Pages, MFA",
+      "url": "https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/",
+      "published": "2026-02-20T20:00:30+00:00",
+      "summary": "Most phishing websites are little more than static copies of login pages for popular online destinations, and they are often quickly taken down by anti-abuse activists and security firms. But a stealthy new phishing-as-a-service offering lets customers sidestep both of these pitfalls: It uses cleverly disguised links to load the target brand's real website, and then acts as a relay between the target and the legitimate site -- forwarding the victim's username, password and multi-factor authentication (MFA) code to the legitimate site and returning its responses.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "f255502ad6b911aa867ec206053b9a8fad07dad5",
+      "title": "Kimwolf Botnet Swamps Anonymity Network I2P",
+      "url": "https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/",
+      "published": "2026-02-11T16:08:11+00:00",
+      "summary": "For the past week, the massive \"Internet of Things\" (IoT) botnet known as Kimwolf has been disrupting the The Invisible Internet Project (I2P), a decentralized, encrypted communications network designed to anonymize and secure online communications. I2P users started reporting disruptions in the network around the same time the Kimwolf botmasters began relying on it to evade takedown attempts against the botnet's control servers.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "def6b89b2ca53d554c17b612262612bd214d6209",
+      "title": "Bold Security Emerges From Stealth With $40 Million in Funding",
+      "url": "https://www.securityweek.com/bold-security-emerges-from-stealth-with-40-million-in-funding/",
+      "published": "2026-03-13T11:36:32+00:00",
+      "summary": "<p>The startup relies on AI to turn devices into active agents that understand users\u2019 actions and provide protection in real time.</p>\n<p>The post <a href=\"https://www.securityweek.com/bold-security-emerges-from-stealth-with-40-million-in-funding/\">Bold Security Emerges From Stealth With $40 Million in Funding</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "620c8ca76162ad76fb136321fa59efbd30e5cbf5",
+      "title": "Google Paid Out $17 Million in Bug Bounty Rewards in 2025",
+      "url": "https://www.securityweek.com/google-paid-out-17-million-in-bug-bounty-rewards-in-2025/",
+      "published": "2026-03-13T11:04:54+00:00",
+      "summary": "<p>Google paid over $3.7 million for Chrome vulnerabilities, and more than $3.5 million for cloud security defects.</p>\n<p>The post <a href=\"https://www.securityweek.com/google-paid-out-17-million-in-bug-bounty-rewards-in-2025/\">Google Paid Out $17 Million in Bug Bounty Rewards in 2025</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "568dfa7307293f63691dcdeb002e4090f19e470b",
+      "title": "Iran-Linked Hacker Attack on Stryker Disrupted Manufacturing and Shipping",
+      "url": "https://www.securityweek.com/iran-linked-hacker-attack-on-stryker-disrupted-manufacturing-and-shipping/",
+      "published": "2026-03-13T10:38:47+00:00",
+      "summary": "<p>Evidence indicates that the attackers leveraged existing endpoint management software rather than malware to wipe devices.</p>\n<p>The post <a href=\"https://www.securityweek.com/iran-linked-hacker-attack-on-stryker-disrupted-manufacturing-and-shipping/\">Iran-Linked Hacker Attack on Stryker Disrupted Manufacturing and Shipping</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "8aac34ff08296a25aa0c05855b57d422934b3b7d",
+      "title": "Onyx Security Launches With $40 Million in Funding",
+      "url": "https://www.securityweek.com/onyx-security-launches-with-40-million-in-funding/",
+      "published": "2026-03-13T09:25:51+00:00",
+      "summary": "<p>The startup is building a control pane to help organizations oversee autonomous AI agents and rapidly adopt them.</p>\n<p>The post <a href=\"https://www.securityweek.com/onyx-security-launches-with-40-million-in-funding/\">Onyx Security Launches With $40 Million in Funding</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "df0b9bcb53bd7c5b56ed2a64ff950731619c72e6",
+      "title": "Authorities Disrupt SocksEscort Proxy Service Powered by AVrecon Botnet",
+      "url": "https://www.securityweek.com/authorities-disrupt-socksescort-proxy-service-powered-by-avrecon-botnet/",
+      "published": "2026-03-13T08:27:34+00:00",
+      "summary": "<p>Law enforcement agencies in the US and Europe targeted the cybercrime service that has impacted 360,000 devices since 2020.</p>\n<p>The post <a href=\"https://www.securityweek.com/authorities-disrupt-socksescort-proxy-service-powered-by-avrecon-botnet/\">Authorities Disrupt SocksEscort Proxy Service Powered by AVrecon Botnet</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "ee9c4817736f02fc298821e318903c7727b50f82",
+      "title": "Chrome 146 Update Patches Two Exploited Zero-Days",
+      "url": "https://www.securityweek.com/chrome-146-update-patches-two-exploited-zero-days/",
+      "published": "2026-03-13T07:47:19+00:00",
+      "summary": "<p>The flaws can be exploited to manipulate data and bypass security restrictions, potentially leading to code execution.</p>\n<p>The post <a href=\"https://www.securityweek.com/chrome-146-update-patches-two-exploited-zero-days/\">Chrome 146 Update Patches Two Exploited Zero-Days</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
@@ -1800,72 +1932,6 @@
       "url": "https://www.securityweek.com/the-human-ioc-why-security-professionals-struggle-with-social-vetting/",
       "published": "2026-03-12T12:30:00+00:00",
       "summary": "<p>Applying SOC-level rigor to the rumors, politics, and 'human intel' can make or break a security team.</p>\n<p>The post <a href=\"https://www.securityweek.com/the-human-ioc-why-security-professionals-struggle-with-social-vetting/\">The Human IOC: Why Security Professionals Struggle with Social Vetting</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "0f06c681145f9033b57e857d56970c8f6d466180",
-      "title": "Splunk, Zoom Patch Severe Vulnerabilities",
-      "url": "https://www.securityweek.com/splunk-zoom-patch-severe-vulnerabilities/",
-      "published": "2026-03-12T12:06:15+00:00",
-      "summary": "<p>Critical- and high-severity flaws could be exploited to execute arbitrary shell commands or elevate privileges.</p>\n<p>The post <a href=\"https://www.securityweek.com/splunk-zoom-patch-severe-vulnerabilities/\">Splunk, Zoom Patch Severe Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "27ee8196abd7842dd00197a886fe0db86ec4b710",
-      "title": "Cisco Patches High-Severity IOS XR Vulnerabilities",
-      "url": "https://www.securityweek.com/cisco-patches-high-severity-ios-xr-vulnerabilities-2/",
-      "published": "2026-03-12T10:25:26+00:00",
-      "summary": "<p>The security defects could lead to denial-of-service (DoS) conditions, command execution, or device takeover.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisco-patches-high-severity-ios-xr-vulnerabilities-2/\">Cisco Patches High-Severity IOS XR Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "5dc2fc3e4ffaf31bac4a0de3f35cf4455718b635",
-      "title": "Critical N8n Vulnerabilities Allowed Server Takeover",
-      "url": "https://www.securityweek.com/critical-n8n-vulnerabilities-allowed-server-takeover/",
-      "published": "2026-03-12T09:54:40+00:00",
-      "summary": "<p>The bugs allowed unauthenticated attackers to execute arbitrary code, steal credentials, and take over servers.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-n8n-vulnerabilities-allowed-server-takeover/\">Critical N8n Vulnerabilities Allowed Server Takeover</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "f087315e0778fd98ffc338b64fe341e0605a3b13",
-      "title": "Polyfill Supply Chain Attack Impacting 100k Sites Linked to North Korea",
-      "url": "https://www.securityweek.com/polyfill-supply-chain-attack-impacting-100k-sites-linked-to-north-korea/",
-      "published": "2026-03-12T09:40:59+00:00",
-      "summary": "<p>The 2024 incident was initially linked to China, but an infostealer infection has now revealed North Korean involvement.</p>\n<p>The post <a href=\"https://www.securityweek.com/polyfill-supply-chain-attack-impacting-100k-sites-linked-to-north-korea/\">Polyfill Supply Chain Attack Impacting 100k Sites Linked to North Korea</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "52884fc155ed51ed958b76e429024171001bb67a",
-      "title": "Senate Confirms Joshua Rudd to Lead NSA and US Cyber Command",
-      "url": "https://www.securityweek.com/senate-confirms-joshua-rudd-to-lead-nsa-and-us-cyber-command/",
-      "published": "2026-03-11T19:08:03+00:00",
-      "summary": "<p>The leadership structure, commonly referred to as the \u201cdual-hat\u201d arrangement, assigns a single individual to oversee both organizations.</p>\n<p>The post <a href=\"https://www.securityweek.com/senate-confirms-joshua-rudd-to-lead-nsa-and-us-cyber-command/\">Senate Confirms Joshua Rudd to Lead NSA and US Cyber Command</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "b5b2f7883e743dd35062e975be65e5d4b9fa693d",
-      "title": "MedTech Giant Stryker Crippled by Iran-Linked Hacker Attack",
-      "url": "https://www.securityweek.com/medtech-giant-stryker-crippled-by-iran-linked-hacker-attack/",
-      "published": "2026-03-11T16:18:39+00:00",
-      "summary": "<p>Stryker was targeted by the Handala group, which claims to have wiped more than 200,000 of the company\u2019s devices.</p>\n<p>The post <a href=\"https://www.securityweek.com/medtech-giant-stryker-crippled-by-iran-linked-hacker-attack/\">MedTech Giant Stryker Crippled by Iran-Linked Hacker Attack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
