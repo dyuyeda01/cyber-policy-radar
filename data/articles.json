@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-16T01:07:31.798676+00:00",
+  "generated_at": "2026-03-16T12:39:51.399630+00:00",
   "items": [
     {
       "id": "861c2315612654a96df74377aaf98dc7aeb4dafa",
@@ -110,6 +110,50 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "2c232569a539b83dcfb18cd431f9366eaa23ff1d",
+      "title": "Why Security Validation Is Becoming Agentic",
+      "url": "https://thehackernews.com/2026/03/why-security-validation-is-becoming.html",
+      "published": "2026-03-16T11:58:00+00:00",
+      "summary": "If you run security at any reasonably complex organization, your validation stack probably looks something like this: a BAS tool in one corner. A pentest engagement, or maybe an automated pentesting product, in another. A vulnerability scanner feeding an attack surface management platform somewhere else. Each tool gives you a slice of the picture. None of them talks to each other in any",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLVOZFyD6pBH1804jnpyTOScRJO3CnlHA2m3B-L1ML1B5l2iP70OHF_rUwtdHARpNsVh5WxdCXX7fO9NfpjPaH0jwJYCmWgGa2Eo5x9RPkl8PEl9e7tq2-T5sbv6KI7GnyzCr3PhSUSpweRRMlR0pGC4lO_3m1gVgLfrjt6sulJRo4yJKPlNSn_VyM8oo/s1600/picus.jpg"
+    },
+    {
+      "id": "5e0eabd7cfb337fd81e1c8052ad856ccf6d0965e",
+      "title": "ClickFix Campaigns Spread MacSync macOS Infostealer via Fake AI Tool Installers",
+      "url": "https://thehackernews.com/2026/03/clickfix-campaigns-spread-macsync-macos.html",
+      "published": "2026-03-16T11:41:00+00:00",
+      "summary": "Three different ClickFix campaigns have been found to act as a delivery vector for the deployment of a macOS information stealer called MacSync.\n\"Unlike traditional exploit-based attacks, this method relies entirely on user interaction \u2013 usually in the form of copying and executing commands \u2013 making it particularly effective against users who may not appreciate the implications of running",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFYjqyJvKKEaCGLTQo4-iMO_9Iq0V0lJVBlggKNorjB_DmPjq0sw_wl0EJ1oklawc4r9V7Axxk_J1WW1HEbIZwKRo8ui7thLccLTtcD6ePD0EcbJCvXWa0eAv0BYdV1cYO2HcDEIbB5GMNxUnV0TGTD3O2YAnOUcPqFJvTPPbYhufQ-sBuh1K01E6Szx9O/s1600/macos-clickfix.jpg"
+    },
+    {
+      "id": "abb6ae0402a1fd95af500821830e134fa222f3e7",
+      "title": "DRILLAPP Backdoor Targets Ukraine, Abuses Microsoft Edge Debugging for Stealth Espionage",
+      "url": "https://thehackernews.com/2026/03/drillapp-backdoor-targets-ukraine.html",
+      "published": "2026-03-16T09:07:00+00:00",
+      "summary": "Ukrainian entities have emerged as the target of a new campaign likely orchestrated by threat actors linked to Russia, according to a report from S2 Grupo's LAB52 threat intelligence team.\nThe campaign, observed in February 2026, has been assessed to share overlaps with a prior campaign mounted by Laundry Bear (aka UAC-0190 or Void Blizzard) aimed at Ukrainian defense forces with a malware",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLAzfBgcfc_bSkMovfPss0X0ONO4MhDVIOKyB_FgCnAZ4NOfVM3MdIMfIr0QMDCqKBvJaAz0mRIPYV075qfnurW27qWCCmjlcnDX-DOnb-kHulHrvk-k_cZCchJfEfxBdhkUf3GCbboHdQzxOCv3sEzSvgKaOoCNRgD20y7ZywYWsYtjjnh8dDLMbqJnvr/s1600/uk-cyberattacks.jpg"
+    },
+    {
+      "id": "83b71d46f873bee042edbb8e8c7b54ac272a92a0",
+      "title": "Android 17 Blocks Non-Accessibility Apps from Accessibility API to Prevent Malware Abuse",
+      "url": "https://thehackernews.com/2026/03/android-17-blocks-non-accessibility.html",
+      "published": "2026-03-16T05:43:00+00:00",
+      "summary": "Google is testing a new security feature as part of Android Advanced Protection Mode (AAPM) that prevents certain kinds of apps from using the accessibility services API.\nThe change, incorporated in Android 17 Beta 2, was first reported by Android Authority last week.\nAAPM was introduced by Google in Android 16, released last year. When enabled, it causes the device to enter a heightened",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqvueuqNoIDsAH4vpBnbAGr2wz0tlhGECqZdmLWdnSPn-mZNpKuAIMPRyOR4B9C9RDKQKYKskTM-idN3OQ5zligs_i092dM4LLMP5jo1v2UHOe2hK9hV2GuX_5RvWrrmSh8b0FbKiVB7-5vuISiT_-ko5MbCTZs1YjLqFjUDZG8QFHIrV6MDlr1R1RdbM7/s1600/android-security.jpg"
     },
     {
       "id": "63d09163b9de4f9c50ac9967ddb3f7d3fa2eca95",
@@ -618,50 +662,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj87js9FM5u5gJgNYbTJGym-RLvB-9rHWoeFBMkLbzvbBgY8aGaMtb_pX5i2-rQz34VbJsQfeOD-GvRJ0yNXUSGjR3vnV7CUt4APOPSwvBNpaF4m64z5OxmNVw0WDaCa3q_KlAjNecBrLurfYPNFC3xiASO71v6k23E77RKyyRujOXUMWHbymxtrVLatdI/s1600/cynomi.jpg"
     },
     {
-      "id": "d3ac49878da41b13cfbe7dbf99db14e25041dac5",
-      "title": "Iran-Linked MuddyWater Hackers Target U.S. Networks With New Dindoor Backdoor",
-      "url": "https://thehackernews.com/2026/03/iran-linked-muddywater-hackers-target.html",
-      "published": "2026-03-06T10:23:00+00:00",
-      "summary": "New research from Broadcom's Symantec and Carbon Black Threat Hunter Team has discovered evidence of an Iranian hacking group embedding itself in several U.S. companies' networks, including banks, airports, non-profit, and the Israeli arm of a software company.\nThe activity has been attributed to a state-sponsored hacking group called MuddyWater (aka Seedworm). It's affiliated with the Iranian",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGoo0ChP6Wq4Hd0U_DeehQmIN-4DHpRX8YdIY6vSO3kEUeTeILUvJMbAZO2gplvYIYCG_q13wfn_So9SkmjHIFZdwyQZKf0uSyyUMpCV-0uUuptOsPsdAvQQbzBdTAG7zoeX2Zf5L2zrHoY0z-qd5RnNvHsm_R4qaVGKzY440Tkdv2zUJ7y9iUE-UP8Ddl/s1600/iran-hackers.jpg"
-    },
-    {
-      "id": "10e9f8d80d21ae73374d75958e4cb9598cd1b9a4",
-      "title": "China-Linked Hackers Use TernDoor, PeerTime, BruteEntry in South American Telecom Attacks",
-      "url": "https://thehackernews.com/2026/03/china-linked-hackers-use-terndoor.html",
-      "published": "2026-03-06T08:22:00+00:00",
-      "summary": "A China-linked advanced persistent threat (APT) actor has been targeting critical telecommunications infrastructure in South America since 2024, targeting Windows and Linux systems and edge devices with three different implants.\nThe activity is being tracked by Cisco Talos under the moniker UAT-9244, describing it as closely associated with another cluster known as FamousSparrow.\nIt's worth",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibIdID8bpu83EtYZEGzGQcfnL4Q2mTuhTp95la1d1iDtHqYtujF75TT6TkEmu6C123EIHQNF2P-M-Kj7Z0-3pjvm4CFFqnJ_qOxbgVAGJ7V6rnycpn-O-8v3Mw3dkYcSHSyee7EdPjIEejdoWwUx0YBQXexhtMZ79zQV5rBwbbrvxzoloBcLHoSOY_7Sg-/s1600/telecom.jpg"
-    },
-    {
-      "id": "dff65c3e89fb7085b58e9132cbd00441bbd3ba23",
-      "title": "Microsoft Reveals ClickFix Campaign Using Windows Terminal to Deploy Lumma Stealer",
-      "url": "https://thehackernews.com/2026/03/microsoft-reveals-clickfix-campaign.html",
-      "published": "2026-03-06T06:44:00+00:00",
-      "summary": "Microsoft on Thursday disclosed details of a new widespread ClickFix social engineering campaign that has leveraged the Windows Terminal app as a way to activate a sophisticated attack chain and deploy the Lumma Stealer malware.\nThe activity, observed in February 2026, makes use of the terminal emulator program instead of instructing users to launch the Windows Run dialog and paste a command",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8H7sofZNyrZMv3vcKOeRa7Rw948uDto8VgAXNO8ZKLjUdzhpZW-ub4M_fxuM631fZplWm8BkPK8OifkblZnbNgFKXUB4PoFXXSeg1D0_olC5lAxQ0KtidSFQHlUvxVn1subQyQtI2qbzhChm0Sm3ADLs9C120EfhvLoBtNLbbtrSiyl3AKcss7u-WT-lS/s1600/clickfix.jpg"
-    },
-    {
-      "id": "398bc6a49eb76c896015fb355afd0003f8e2c79d",
-      "title": "Hikvision and Rockwell Automation CVSS 9.8 Flaws Added to CISA KEV Catalog",
-      "url": "https://thehackernews.com/2026/03/hikvision-and-rockwell-automation-cvss.html",
-      "published": "2026-03-06T06:30:00+00:00",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added two security flaws impacting Hikvision and Rockwell Automation products to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\nThe critical-severity vulnerabilities are listed below -\n\nCVE-2017-7921 (CVSS score: 9.8) - An improper authentication vulnerability affecting",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1dAatoZKBR1txy7hG-8XLixhMv5jhZEjgT_asHnTfyxS1KK9tOrJNwk2MSbXOL1ZoH8-18chWJUuLnegz6ByTRQuljhmqPu9W_BxQSQR7n45B1M3D1XHrwkne4uzqurGVkqDhyphenhyphendkfISqLjawr0HzRQX7ZhfXa-jB3hJ5V0oMr3TOebv_rcpcw9I3ym6v1/s1600/cisa.jpg"
-    },
-    {
       "id": "74ccc0cb251b384c4beac2b05ed0045e8efea545",
       "title": "Fake PoCs, Misunderstood Risks Cause Cisco SD-WAN Chaos",
       "url": "https://www.darkreading.com/vulnerabilities-threats/fake-pocs-risks-cisco-sd-wan",
@@ -710,7 +710,7 @@
       "title": "Most Google Cloud Attacks Start With Bug Exploitation",
       "url": "https://www.darkreading.com/cloud-security/google-cloud-attacks-bug-exploitation",
       "published": "2026-03-13T13:20:58+00:00",
-      "summary": "Forget stolen credentials and misconfigurations; AI means vulnerability exploits that beat patching cycles are the top cause of compromises in the cloud.",
+      "summary": "Forget stolen credentials and misconfigurations. Thanks to AI, the new top cause of compromises in the cloud is vulnerability exploits that beat patching cycles.",
       "source": "DarkReading",
       "region": "North America",
       "country": "US",
@@ -1210,6 +1210,17 @@
       "region": "North America",
       "country": "US",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2152db397dbc068e/67f674413959ee0d3cb2a4eb/Quantum_(1800)_jvphoto_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
+      "id": "5e3654e1abc63bac6f39424a5fb387e1388d75d0",
+      "title": "Flaw in UK's corporate registry let directors rummage through rival records",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/16/companies_house_breach/",
+      "published": "2026-03-16T12:18:23+00:00",
+      "summary": "<h4>Back button blunder in WebFiling service run by Companies House revealed confidential paperwork</h4> <p>Companies House was forced to pull down its record-filing platform for the entire weekend to rectify a \"security issue\" that exposed the personal details of company directors and other data to any logged in users.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
       "id": "3d172f1e6f8220e8d5deee5c9d587fe9eeeab4fe",
@@ -1751,67 +1762,34 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "a1bb38eb1d57b7aef2d3ae43a221edf7d2608a0f",
-      "title": "Dev stunned by $82K Gemini bill after unknown API key thief goes to town",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/03/gemini_api_key_82314_dollar_charge/",
-      "published": "2026-03-03T23:19:03+00:00",
-      "summary": "<h4>Probably not an isolated incident only as researchers have already found 2,863 live API keys exposed</h4> <p>A developer says their company is on the hook for more than $82,000 in unauthorized charges after a stolen Google Gemini API key racked massive usage costs up in just 48 hours.\u2026</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "25c8e36273c8f9741a6c2f46e23dd56eff9050da",
-      "title": "Iran-Backed Hackers Claim Wiper Attack on Medtech Firm Stryker",
-      "url": "https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/",
-      "published": "2026-03-11T16:20:13+00:00",
-      "summary": "A hacktivist group with links to Iran's intelligence agencies is claiming responsibility for a data-wiping attack against Stryker, a global medical technology company based in Michigan. News reports out of Ireland, Stryker's largest hub outside of the United States, said the company sent home more than 5,000 workers there today. Meanwhile, a voicemail message at Stryker's main U.S. headquarters says the company is currently experiencing a building emergency.",
-      "source": "Krebs on Security",
+      "id": "53b5a012c53302f978943b6bc8679540fd0e7729",
+      "title": "Threat Actor Targeting VPN Users in New Credential Theft Campaign",
+      "url": "https://www.securityweek.com/threat-actor-targeting-vpn-users-in-new-credential-theft-campaign/",
+      "published": "2026-03-16T12:28:58+00:00",
+      "summary": "<p>Storm-2561 is distributing fake VPN clients through SEO poisoning, deploying trojans, and stealing login information.</p>\n<p>The post <a href=\"https://www.securityweek.com/threat-actor-targeting-vpn-users-in-new-credential-theft-campaign/\">Threat Actor Targeting VPN Users in New Credential Theft Campaign</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "a8b4199666bdf1d14474a37d8f428f7d60896c0f",
-      "title": "Microsoft Patch Tuesday, March 2026 Edition",
-      "url": "https://krebsonsecurity.com/2026/03/microsoft-patch-tuesday-march-2026-edition/",
-      "published": "2026-03-11T00:32:51+00:00",
-      "summary": "Microsoft Corp. today pushed security updates to fix at least 77 vulnerabilities in its Windows operating systems and other software. There are no pressing \"zero-day\" flaws this month (compared to February's five zero-day treat), but as usual some patches may deserve more rapid attention from organizations using Windows. Here are a few highlights from this month's Patch Tuesday.",
-      "source": "Krebs on Security",
+      "id": "e1b3de3c1b7c0cd81edf896fa20a8f990a5dfe12",
+      "title": "ForceMemo: Python Repositories Compromised in GlassWorm Aftermath",
+      "url": "https://www.securityweek.com/forcememo-python-repositories-compromised-in-glassworm-aftermath/",
+      "published": "2026-03-16T11:51:36+00:00",
+      "summary": "<p>Hundreds of GitHub accounts were accessed using credentials stolen in the VS Code GlassWorm campaign.</p>\n<p>The post <a href=\"https://www.securityweek.com/forcememo-python-repositories-compromised-in-glassworm-aftermath/\">ForceMemo: Python Repositories Compromised in GlassWorm Aftermath</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "0bef1949a26ec105d63f86317434969b34819474",
-      "title": "How AI Assistants are Moving the Security Goalposts",
-      "url": "https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/",
-      "published": "2026-03-08T23:35:42+00:00",
-      "summary": "AI-based assistants or \"agents\" -- autonomous programs that have access to the user's computer, files, online services and can automate virtually any task -- are growing in popularity with developers and IT workers. But as so many eyebrow-raising headlines over the past few weeks have shown, these powerful and assertive new tools are rapidly shifting the security priorities for organizations, while blurring the lines between data and code, trusted co-worker and insider threat, ninja hacker and novice code jockey.",
-      "source": "Krebs on Security",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "249a7530c3edc5cee92d07c53e106dba6caaed96",
-      "title": "Who is the Kimwolf Botmaster \u201cDort\u201d?",
-      "url": "https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/",
-      "published": "2026-02-28T12:01:57+00:00",
-      "summary": "In early January 2026, KrebsOnSecurity revealed how a security researcher disclosed a vulnerability that was used to assemble Kimwolf, the world's largest and most disruptive botnet. Since then, the person in control of Kimwolf -- who goes by the handle \"Dort\" -- has coordinated a barrage of distributed denial-of-service (DDoS), doxing and email flooding attacks against the researcher and this author, and more recently caused a SWAT team to be sent to the researcher's home. This post examines what is knowable about Dort based on public information.",
-      "source": "Krebs on Security",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "04b6bbeedfed18aaa5c090a56c3e2fba0ba6ebef",
-      "title": "\u2018Starkiller\u2019 Phishing Service Proxies Real Login Pages, MFA",
-      "url": "https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/",
-      "published": "2026-02-20T20:00:30+00:00",
-      "summary": "Most phishing websites are little more than static copies of login pages for popular online destinations, and they are often quickly taken down by anti-abuse activists and security firms. But a stealthy new phishing-as-a-service offering lets customers sidestep both of these pitfalls: It uses cleverly disguised links to load the target brand's real website, and then acts as a relay between the target and the legitimate site -- forwarding the victim's username, password and multi-factor authentication (MFA) code to the legitimate site and returning its responses.",
-      "source": "Krebs on Security",
+      "id": "8035eb1ba4bf115848e6f7e35138972650e0c0c0",
+      "title": "Hacking Attempt Reported at Poland\u2019s Nuclear Research Center",
+      "url": "https://www.securityweek.com/hack-attempt-reported-at-polands-nuclear-research-center/",
+      "published": "2026-03-16T08:56:04+00:00",
+      "summary": "<p>Initial evidence indicates Iran may be behind the attack, but officials admitted it could be a false flag.\u00a0</p>\n<p>The post <a href=\"https://www.securityweek.com/hack-attempt-reported-at-polands-nuclear-research-center/\">Hacking Attempt Reported at Poland&#8217;s Nuclear Research Center</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
@@ -1888,39 +1866,6 @@
       "url": "https://www.securityweek.com/google-paid-out-17-million-in-bug-bounty-rewards-in-2025/",
       "published": "2026-03-13T11:04:54+00:00",
       "summary": "<p>Google paid over $3.7 million for Chrome vulnerabilities, and more than $3.5 million for cloud security defects.</p>\n<p>The post <a href=\"https://www.securityweek.com/google-paid-out-17-million-in-bug-bounty-rewards-in-2025/\">Google Paid Out $17 Million in Bug Bounty Rewards in 2025</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "568dfa7307293f63691dcdeb002e4090f19e470b",
-      "title": "Iran-Linked Hacker Attack on Stryker Disrupted Manufacturing and Shipping",
-      "url": "https://www.securityweek.com/iran-linked-hacker-attack-on-stryker-disrupted-manufacturing-and-shipping/",
-      "published": "2026-03-13T10:38:47+00:00",
-      "summary": "<p>Evidence indicates that the attackers leveraged existing endpoint management software rather than malware to wipe devices.</p>\n<p>The post <a href=\"https://www.securityweek.com/iran-linked-hacker-attack-on-stryker-disrupted-manufacturing-and-shipping/\">Iran-Linked Hacker Attack on Stryker Disrupted Manufacturing and Shipping</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "8aac34ff08296a25aa0c05855b57d422934b3b7d",
-      "title": "Onyx Security Launches With $40 Million in Funding",
-      "url": "https://www.securityweek.com/onyx-security-launches-with-40-million-in-funding/",
-      "published": "2026-03-13T09:25:51+00:00",
-      "summary": "<p>The startup is building a control pane to help organizations oversee autonomous AI agents and rapidly adopt them.</p>\n<p>The post <a href=\"https://www.securityweek.com/onyx-security-launches-with-40-million-in-funding/\">Onyx Security Launches With $40 Million in Funding</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "df0b9bcb53bd7c5b56ed2a64ff950731619c72e6",
-      "title": "Authorities Disrupt SocksEscort Proxy Service Powered by AVrecon Botnet",
-      "url": "https://www.securityweek.com/authorities-disrupt-socksescort-proxy-service-powered-by-avrecon-botnet/",
-      "published": "2026-03-13T08:27:34+00:00",
-      "summary": "<p>Law enforcement agencies in the US and Europe targeted the cybercrime service that has impacted 360,000 devices since 2020.</p>\n<p>The post <a href=\"https://www.securityweek.com/authorities-disrupt-socksescort-proxy-service-powered-by-avrecon-botnet/\">Authorities Disrupt SocksEscort Proxy Service Powered by AVrecon Botnet</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
