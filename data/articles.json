@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-17T00:59:35.544894+00:00",
+  "generated_at": "2026-03-17T12:37:56.199115+00:00",
   "items": [
     {
       "id": "3f6ce95c49e418e4e8dcf9e5fc087f2280a43ad1",
@@ -110,6 +110,39 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "cf5d89ec696b617dbdf1a3f47a96829057bb3b97",
+      "title": "AI is Everywhere, But CISOs are Still Securing It with Yesterday's Skills and Tools, Study Finds",
+      "url": "https://thehackernews.com/2026/03/ai-is-everywhere-but-cisos-are-still.html",
+      "published": "2026-03-17T11:30:00+00:00",
+      "summary": "A majority of security leaders are struggling to defend AI systems with tools and skills that are not fit for the challenge, according to the AI and Adversarial Testing Benchmark Report 2026 from Pentera.\nThe report, based on a survey of 300 US CISOs and senior security leaders, examines how organizations are securing AI infrastructure and highlights critical gaps tied to skills shortages and",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8f5KRgkqcEs7OtCxyKrJIvPWUOZnbkV5dIFPc5TjDbkAliVww6lOjpuOBZYQw1TF4H28aJZNMY6KkZmnaQfIGsR4PlXWHl4Ps-zfPutG01bPkEIjKSLlCWwK66sjwPX7uf7qsrjl3kMTVe1F4Wl7BJj7dPiC0rDW_skQOlfgirUrzT9E5bccb4fTXdLI/s1600/pentera.jpg"
+    },
+    {
+      "id": "0287ea860d0cc45658ed3f24fe059070c511ffce",
+      "title": "Konni Deploys EndRAT Through Phishing, Uses KakaoTalk to Propagate Malware",
+      "url": "https://thehackernews.com/2026/03/konni-deploys-endrat-through-spear.html",
+      "published": "2026-03-17T09:53:00+00:00",
+      "summary": "North Korean threat actors have been observed sending phishing to compromise targets and obtain access to a victim's KakaoTalk desktop application to distribute malicious payloads to certain contacts.\nThe activity has been attributed by South Korean threat intelligence firm Genians to a hacking group referred to as Konni.\n\"Initial access was achieved through a spear-phishing email disguised as a",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh64jRKLqi9-c5fwxRIgUOuYe8fcW2NWoeEfMBoi9oBOrVRu1CW6TXPBuAL3VPIKoQMX4EeeKtPt0wzGFExXyCm3rGmXRYzfWsFSp1JDpxZ82neNjqGELR9s2ViKaVzhk2taHFfQNGiIYC9JyhaOd8c4DLKmUZt_SleyWwtCwi2ffFpFI6SIFq3h7pni3NZ/s1600/attack-talk.jpg"
+    },
+    {
+      "id": "137eed0819d75a4cd059f5c1da2f3459ebf7ca78",
+      "title": "CISA Flags Actively Exploited Wing FTP Vulnerability Leaking Server Paths",
+      "url": "https://thehackernews.com/2026/03/cisa-flags-actively-exploited-wing-ftp.html",
+      "published": "2026-03-17T05:23:00+00:00",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a medium-severity security flaw impacting Wing FTP to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\nThe vulnerability, CVE-2025-47813 (CVSS score: 4.3), is an information disclosure vulnerability that leaks the installation path of the application under certain conditions",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHrElxuBmshJ8wNl7qURDxcn2YLWxn07Uco53YCLhDLFqoS-exUpqGau4x9eFOvHq_KXg3ifLU3wVbZvhZExQ2XJJeWePG6zqRjrug6hAdOZaGcs78e68M7J23XMJWCXegidndqdayfGyPZt8mpLTExvPl_YJS8Nn5mPn4aEzlUKdU0B8J6-NtRX8_ncw7/s1600/cisa-ftp.jpg"
     },
     {
       "id": "59036e778aa973d14dc3482a88dddb9c6830e97d",
@@ -629,37 +662,15 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBw-CldP1FbyOXvJqoX3p-J6QQbtYRACj95MIqX7KakiKKyLMYE4lYpQm6eY7S5sGhsAp8vYbM2ZwPJT59JdjSnGyybDhNucYaymCijGQfyx_cJwkpBZGQ7Mgk2kiCALQU4qZ6i6q0SPo2cBEQHt8j6XX8RQo3kvQ9mj1W3DVP2ZoNF7ZkF7dsdJD9gVZI/s1600/critical.png"
     },
     {
-      "id": "8e8ecbeefb89973eafa73cf47b293532ef5976f3",
-      "title": "OpenAI Codex Security Scanned 1.2 Million Commits and Found 10,561 High-Severity Issues",
-      "url": "https://thehackernews.com/2026/03/openai-codex-security-scanned-12.html",
-      "published": "2026-03-07T16:28:00+00:00",
-      "summary": "OpenAI on Friday began rolling out Codex Security, an artificial intelligence (AI)-powered security agent that's designed to find, validate, and propose fixes for vulnerabilities.\nThe feature is available in a research preview to ChatGPT Pro, Enterprise, Business, and Edu customers via the Codex web with free usage for the next month.\n\"It builds deep context about your project to identify",
-      "source": "The Hacker News",
+      "id": "8a6b1fa20c2e0eeca3089f60978178a19c338341",
+      "title": "China-Nexus Hackers Skulk in Southeast Asian Military Orgs for Years",
+      "url": "https://www.darkreading.com/threat-intelligence/china-nexus-hackers-southeast-asian-military-orgs",
+      "published": "2026-03-17T01:00:00+00:00",
+      "summary": "Researchers uncovered an extensive cyberespionage campaign that used novel backdoors and familiar evasion techniques to maintain persistent access to regional targets.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzxRjA2uB_r2z4AtvhADiDGrxTc62766WI5jApivjtuLfb2aS2kz9RWk7f9P3Lm7Nj5HH3u-7Etx4-8xr_Y4PflexsuMsAzXjvPoPLSQaSt1O-t4U3yBAnKm4HLm-64dbHDsWF-EXYVMvaMrMnhfbhV_qn2cvwmJE6x-U42aTjGbIOTNOXxpiH3x15C6Ag/s1600/codex.jpg"
-    },
-    {
-      "id": "90b28db64afccfc07c4db9fb88c28b5e731e7da9",
-      "title": "Anthropic Finds 22 Firefox Vulnerabilities Using Claude Opus 4.6 AI Model",
-      "url": "https://thehackernews.com/2026/03/anthropic-finds-22-firefox.html",
-      "published": "2026-03-07T11:21:00+00:00",
-      "summary": "Anthropic on Friday said it discovered 22 new security vulnerabilities in the Firefox web browser as part of a security partnership with Mozilla.\nOf these, 14 have been classified as high, seven have been classified as moderate, and one has been rated low in severity. The issues were addressed in Firefox 148, released late last month. The vulnerabilities were identified over a two-week period in",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2DaQuy20IkM7M8iL7NBmzJhI9m5KDEpf6CBgxcI9rAhiVLO1VyfdAeQKaInOY3dlIiwy1FWtusinpu8Yyj1fChemLiVCTLnMLRtKaKNvDbOOa0ZjVFt5zoT7yON1ljb2DAlgki_aVmVuWSmAPn2jFszCpJdjzN7DGGRzeEzD5OYcSn2oeLzcaBARYzmOS/s1600/firefox-claude.jpg"
-    },
-    {
-      "id": "19b6302f7cb91b61403e4a974c3a4fbe8d26a2f4",
-      "title": "Transparent Tribe Uses AI to Mass-Produce Malware Implants in Campaign Targeting India",
-      "url": "https://thehackernews.com/2026/03/transparent-tribe-uses-ai-to-mass.html",
-      "published": "2026-03-06T15:11:00+00:00",
-      "summary": "The Pakistan-aligned threat actor known as Transparent Tribe has become the latest hacking group to embrace artificial intelligence (AI)-powered coding tools to strike targets with various implants.\nThe activity is designed to produce a \"high-volume, mediocre mass of implants\" that are developed using lesser-known programming languages like Nim, Zig, and Crystal and rely on trusted services like",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgw7Nnrc1zd-1NJp8aP69eS_s4Ai_GG7Um-ltzX8eO5Jfrnxaq_fj3z5u3k7WUU65b0lmmxd6012MxINWFPC5vZDhznqnIrNEerUiPKbeKEVCTwtRCv2RCwnYa-k_hz4mha_qyOBV9kgvkWw6xlZfNSQYqvhez0T1xJFJXeaCjlYFAAtwt4RrMdmMHHsAU3/s1600/ai-coded-malware.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7557699e9afa3c6a/69b8742906fbf44512bd0258/chinahackers_JakubKrechowicz_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "id": "cf5cbff4f28158562cdd10af9766d8a933ddf9d7",
@@ -1201,15 +1212,48 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1e42cdf9c23a6955/69a6c775b8555a620ad35369/muhammadtoqeer-iran-cyber-flag-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "9d33238b68c6ec48ee79f80eb7fabaefca2ed550",
-      "title": "Critical OpenClaw Vulnerability Exposes AI Agent Risks",
-      "url": "https://www.darkreading.com/application-security/critical-openclaw-vulnerability-ai-agent-risks",
-      "published": "2026-03-02T22:34:36+00:00",
-      "summary": "The now-patched flaw is the latest in a growing string of security issues associated with the viral AI tool, which has seen rapid adoption among developers.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8b4a90dc0f0b5b75/69a60296c1c8e5611b80bbeb/openclaw_Koshiro_K_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "id": "386e76b84a0c8d5b9860e73e60e1e9bd9e141fc9",
+      "title": "Too big to ignore, too small to be served: the midmarket security gap",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/17/too_big_ignore_too/",
+      "published": "2026-03-17T09:00:16+00:00",
+      "summary": "<h4>Midmarket security leaders aren't as secure as they think, says Intruder's report</h4> <p><strong>Partner Content</strong>\u00a0 The midmarket matters. <a href=\"https://www.jpmorgan.com/content/dam/jpmorgan/documents/cb/insights/banking/commercial-banking/next-street-the-middle-matters-report.pdf\">JP Morgan estimates</a>\u00a0approximately 300,000 organizations generating $13T in annual revenue. Yet they occupy an awkward position in the security landscape. They're large enough to be attractive targets with complex digital estates, significant revenue, and valuable data, but not large enough to have the headcount, budget maturity, or tooling sophistication of an enterprise security team.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "86f81b39cd6f61e0b530e54b84b967cc9416d26f",
+      "title": "Switzerland built a secure alternative to BGP. The rest of the world hasn't noticed yet",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/17/switzerland_bgp_alternative/",
+      "published": "2026-03-17T08:15:07+00:00",
+      "summary": "<h4>SCION: Proven in banking and healthcare, slow to spread everywhere else</h4> <p><strong>Feature</strong>\u00a0 BGP, the Border Gateway Protocol, was not designed to be secure. It was designed to work \u2013 to route packets between the thousands of autonomous systems that make up the internet, quickly and at scale.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "65c4e1e2a6c1034b0a3cb585eccfe2ab35acbe35",
+      "title": "Gartner suggests Friday afternoon Copilot ban because tired users may be too lazy to check its mistakes",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/17/gartner_copilot_security_mitigations/",
+      "published": "2026-03-17T04:37:40+00:00",
+      "summary": "<h4>Admins may be even more exhausted by then, because securing Microsoft\u2019s AI helper is not a trivial job</h4> <p>Gartner analyst Dennis Xu has half-jokingly suggested banning use of Microsoft\u2019s Copilot AI on Friday afternoons, because he fears at that time of week users may be too lazy to properly check its possibly offensive output.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "b675205e3c0ea63880cee6d9c4be1d2090f89d3a",
+      "title": "Bank built its own threat hunting agent because vendors can\u2019t keep pace with new threats",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/17/commonwealth_bank_ai_defense/",
+      "published": "2026-03-17T02:37:16+00:00",
+      "summary": "<h4>AI helped send weekly threat signal count from 80 million to 400 billion, then helped response time shrink from two days to 30 minutes</h4> <p>Australia\u2019s Commonwealth Bank built its own agentic AI threat hunting tools, because vendors are too slow to develop tools that can cope with emerging AI-powered threats, according to General Manager of Cyber Defence Operations Andrew Pade.\u2026</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
       "id": "fbc10b4a02f4a8f5c59d13bf3d64a362bebae204",
@@ -1718,50 +1762,6 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "136d83db742fea0732db026a35930fbd83b5cf79",
-      "title": "Iran intelligence backdoored US bank, airport, software outfit networks",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/05/mudywater_backdoor_us_networks/",
-      "published": "2026-03-05T18:53:46+00:00",
-      "summary": "<h4>MOIS-linked MuddyWater crew has a new, custom implant</h4> <p>An Iranian cyber crew believed to be part of the Iranian Ministry of Intelligence and Security (MOIS) has been embedded in multiple US companies' networks - including a bank, software firm, and airport, among others - since the beginning of February, with more activity in the days following the US and Israeli military strikes, according to security researchers.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "4eed516bf6b0aef6c85ad5a2de415bc39da0f3bb",
-      "title": "UK watchdog eyes Meta's smart glasses after workers say they 'see everything'",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/05/ico_meta_glasses/",
-      "published": "2026-03-05T12:18:03+00:00",
-      "summary": "<h4>Contractors tasked with improving AI reportedly had access to intimate footage captured through wearables</h4> <p>Britain's privacy watchdog is asking questions about Meta's AI-powered smart glasses after reports that human contractors reviewing recordings from the devices were exposed to extremely private moments captured by unsuspecting users.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "5e16f1a29a5f24e271f3c75003dce4c98dd5bed0",
-      "title": "'Hundreds' of Iranian hacking attempts have hit surveillance cameras since the missile strikes",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/04/iranian_hacking_attempts_ip_cameras/",
-      "published": "2026-03-04T23:59:54+00:00",
-      "summary": "<h4>Attack infrastructure attributed to 'several Iran-nexus threat actors'</h4> <p>Multiple Iranian hacking crews have been targeting internet-connected surveillance cameras across Israel and other Middle Eastern countries since the war started on February 28, according to Check Point security researchers.\u00a0\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "17f77db778bd3fba8593edbea207b0c5ee920087",
-      "title": "Malware-laced OpenClaw installers get Bing AI search boost",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/04/fake_openclaw_installers_malware/",
-      "published": "2026-03-04T20:50:49+00:00",
-      "summary": "<h4>Think before you download</h4> <p>OpenClaw, the AI agent that can manage just about anything, is risky all by itself, but now fake installers for it are wreaking havoc. Users who searched Bing\u2019s AI results for \u201cOpenClaw Windows\u201d were directed to a malicious GitHub repository that delivered information stealers and GhostSocks onto their machines.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
       "id": "25c8e36273c8f9741a6c2f46e23dd56eff9050da",
       "title": "Iran-Backed Hackers Claim Wiper Attack on Medtech Firm Stryker",
       "url": "https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/",
@@ -1817,6 +1817,61 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "c8c2a6495ad602fa63d59a53e36298cb7d7b594d",
+      "title": "RondoDox Botnet Targeted 174 Vulnerabilities",
+      "url": "https://www.securityweek.com/rondodox-botnet-targeted-174-vulnerabilities/",
+      "published": "2026-03-17T12:37:45+00:00",
+      "summary": "<p>The botnet has increased its activity, peaking at 15,000 exploitation attempts per day, and taking a more targeted approach.</p>\n<p>The post <a href=\"https://www.securityweek.com/rondodox-botnet-targeted-174-vulnerabilities/\">RondoDox Botnet Targeted 174 Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "dd14903d2661febab14e1106d1d133802ffcf2d8",
+      "title": "Google, Meta, Microsoft Among Signatories of Pact to Combat Scams",
+      "url": "https://www.securityweek.com/google-meta-microsoft-among-signatories-of-pact-to-combat-scams/",
+      "published": "2026-03-17T12:10:52+00:00",
+      "summary": "<p>Several major tech and retail companies have signed an industry accord against online scams and fraud.</p>\n<p>The post <a href=\"https://www.securityweek.com/google-meta-microsoft-among-signatories-of-pact-to-combat-scams/\">Google, Meta, Microsoft Among Signatories of Pact to Combat Scams</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "174e6435120dbc127971c37edc10f5f106f9510c",
+      "title": "Tracebit Raises $20M for Cloud-Native Deception Technology",
+      "url": "https://www.securityweek.com/tracebit-raises-20m-for-cloud-native-deception-technology/",
+      "published": "2026-03-17T11:52:34+00:00",
+      "summary": "<p>The company plans to scale its products, expand to new markets, and grow its marketing and engineering teams.</p>\n<p>The post <a href=\"https://www.securityweek.com/tracebit-raises-20m-for-cloud-native-deception-technology/\">Tracebit Raises $20M for Cloud-Native Deception Technology</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "76347c4c238b36851955c8de8f37d73c8e8272f4",
+      "title": "CISA Flags Year-Old Wing FTP Vulnerability as Exploited",
+      "url": "https://www.securityweek.com/cisa-flags-year-old-wing-ftp-vulnerability-as-exploited/",
+      "published": "2026-03-17T10:55:55+00:00",
+      "summary": "<p>Tracked as CVE-2025-47813, the flaw leads to the disclosure of the full local installation path of the application.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisa-flags-year-old-wing-ftp-vulnerability-as-exploited/\">CISA Flags Year-Old Wing FTP Vulnerability as Exploited</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "6b4fa2568917e71ed11743f506136cf15c39019f",
+      "title": "AI, APIs and DDoS Collide in New Era of Coordinated Cyberattacks",
+      "url": "https://www.securityweek.com/ai-apis-and-ddos-collide-in-new-era-of-coordinated-cyberattacks/",
+      "published": "2026-03-17T10:30:00+00:00",
+      "summary": "<p>Akamai warns that Layer 7 DDoS, API abuse and AI-powered attacks are merging into coordinated, multi-vector campaigns that are harder to detect and defend against.</p>\n<p>The post <a href=\"https://www.securityweek.com/ai-apis-and-ddos-collide-in-new-era-of-coordinated-cyberattacks/\">AI, APIs and DDoS Collide in New Era of Coordinated Cyberattacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "ce9d58a98051339234f4130edad0c49136c2ce85",
       "title": "Oracle EBS Hack: Only 4 Corporate Giants Still Silent on Potential Impact",
       "url": "https://www.securityweek.com/oracle-ebs-hack-only-4-corporate-giants-still-silent-on-potential-impact/",
@@ -1866,61 +1921,6 @@
       "url": "https://www.securityweek.com/forcememo-python-repositories-compromised-in-glassworm-aftermath/",
       "published": "2026-03-16T11:51:36+00:00",
       "summary": "<p>Hundreds of GitHub accounts were accessed using credentials stolen in the VS Code GlassWorm campaign.</p>\n<p>The post <a href=\"https://www.securityweek.com/forcememo-python-repositories-compromised-in-glassworm-aftermath/\">ForceMemo: Python Repositories Compromised in GlassWorm Aftermath</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "8035eb1ba4bf115848e6f7e35138972650e0c0c0",
-      "title": "Hacking Attempt Reported at Poland\u2019s Nuclear Research Center",
-      "url": "https://www.securityweek.com/hack-attempt-reported-at-polands-nuclear-research-center/",
-      "published": "2026-03-16T08:56:04+00:00",
-      "summary": "<p>Initial evidence indicates Iran may be behind the attack, but officials admitted it could be a false flag.\u00a0</p>\n<p>The post <a href=\"https://www.securityweek.com/hack-attempt-reported-at-polands-nuclear-research-center/\">Hacking Attempt Reported at Poland&#8217;s Nuclear Research Center</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "5e85228eb98b95fba9fef3411376622cea4f7d90",
-      "title": "Loblaw Data Breach Impacts Customer Information",
-      "url": "https://www.securityweek.com/loblaw-data-breach-impacts-customer-information/",
-      "published": "2026-03-15T10:00:00+00:00",
-      "summary": "<p>Personal information such as names, email addresses, and phone numbers was accessed by hackers.</p>\n<p>The post <a href=\"https://www.securityweek.com/loblaw-data-breach-impacts-customer-information/\">Loblaw Data Breach Impacts Customer Information</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "629b5d1944e1298fcb6b2ed5253e955b2f9db7e6",
-      "title": "Critical HPE AOS-CX Vulnerability Allows Admin Password Resets",
-      "url": "https://www.securityweek.com/critical-hpe-aos-cx-vulnerability-allows-admin-password-resets/",
-      "published": "2026-03-14T10:50:00+00:00",
-      "summary": "<p>The vulnerability can be exploited remotely, without authentication, to circumvent existing authentication controls.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-hpe-aos-cx-vulnerability-allows-admin-password-resets/\">Critical HPE AOS-CX Vulnerability Allows Admin Password Resets</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "f3a13732f2f0d0559ad0551022e8be7ce9462d1f",
-      "title": "Starbucks Data Breach Impacts Employees",
-      "url": "https://www.securityweek.com/starbucks-data-breach-impacts-employees/",
-      "published": "2026-03-13T15:21:13+00:00",
-      "summary": "<p>Starbucks said the incident involved phishing attacks targeting an employee portal, affecting hundreds.</p>\n<p>The post <a href=\"https://www.securityweek.com/starbucks-data-breach-impacts-employees/\">Starbucks Data Breach Impacts Employees</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "2e9a00fc6c37553165813fb3932b1bb1b4261d25",
-      "title": "In Other News: N8n Flaw Exploited, Slopoly Malware, Interpol Cybercrime Crackdown",
-      "url": "https://www.securityweek.com/in-other-news-n8n-flaw-exploited-slopoly-malware-interpol-cybercrime-crackdown/",
-      "published": "2026-03-13T14:27:12+00:00",
-      "summary": "<p>Other noteworthy stories that might have slipped under the radar: Telus Digital data breach, vulnerabilities in Linux AppArmor allow root privileges, US defense contractor behind Coruna exploits.</p>\n<p>The post <a href=\"https://www.securityweek.com/in-other-news-n8n-flaw-exploited-slopoly-malware-interpol-cybercrime-crackdown/\">In Other News: N8n Flaw Exploited, Slopoly Malware, Interpol Cybercrime Crackdown</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
