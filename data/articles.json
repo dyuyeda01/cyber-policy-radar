@@ -1,6 +1,28 @@
 {
-  "generated_at": "2026-03-17T12:37:56.199115+00:00",
+  "generated_at": "2026-03-18T01:03:15.965406+00:00",
   "items": [
+    {
+      "id": "eb2daba06c68f46bd04d160a523d87c4a7a59c89",
+      "title": "National cyber director expands on Trump administration\u2019s vision for AI security, industry collaboration",
+      "url": "https://www.cybersecuritydive.com/news/ai-security-deterrence-china-tech-sean-cairncross/814952/",
+      "published": "2026-03-17T15:31:29+00:00",
+      "summary": "<p>The government wants AI firms to embrace security, not see it as a barrier.</p>",
+      "source": "Cybersecurity Dive",
+      "region": "North America",
+      "country": "US",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "4096bf3459eda1dd5318b5c12e6519f81cd14d80",
+      "title": "Security teams might be overlooking wider threat to Cisco SD-WAN",
+      "url": "https://www.cybersecuritydive.com/news/security-teams-wider-threat-cisco-sd-wan/814934/",
+      "published": "2026-03-17T14:26:44+00:00",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/D34TL7akgMEO3uCiMGwaOI3_LkvV5CNK34vc6Ug_0mM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjQ1MDY3MTE3LmpwZw==.webp\" /></div></figure><p>Researchers from VulnCheck warn that a&nbsp;misattributed proof of concept ignores a separate, high-severity flaw.&nbsp;</p>",
+      "source": "Cybersecurity Dive",
+      "region": "North America",
+      "country": "US",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
     {
       "id": "3f6ce95c49e418e4e8dcf9e5fc087f2280a43ad1",
       "title": "Telus Digital confirms hack as ShinyHunters claims credit for massive data theft",
@@ -90,26 +112,26 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "bda00846618dc42764d57eb12dffd02874af28f7",
-      "title": "Stryker investigating cyberattack that caused widespread outage",
-      "url": "https://www.cybersecuritydive.com/news/stryker-outage-Iran-cyberattack/814497/",
-      "published": "2026-03-11T21:30:00+00:00",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/4gQBQ_4pgZA16ab4dxbwcG5FnFvNWHyE_q_FgS5JP1E/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8yVEMzQU5NLmpwZw==.webp\" /></div></figure><p>The full scope of the impact on the medical equipment firm, including operational and financial effects, remains unclear.</p>",
-      "source": "Cybersecurity Dive",
+      "id": "bbc45f04a79cf5cabdee46632df8c5d44b1d2c98",
+      "title": "AI Flaws in Amazon Bedrock, LangSmith, and SGLang Enable Data Exfiltration and RCE",
+      "url": "https://thehackernews.com/2026/03/ai-flaws-in-amazon-bedrock-langsmith.html",
+      "published": "2026-03-17T16:39:00+00:00",
+      "summary": "Cybersecurity researchers have disclosed details of a new method for exfiltrating sensitive data from artificial intelligence (AI) code execution environments using domain name system (DNS) queries.\nIn a report published Monday, BeyondTrust revealed that Amazon Bedrock AgentCore Code Interpreter's sandbox mode permits outbound DNS queries that an attacker can exploit to enable interactive shells",
+      "source": "The Hacker News",
       "region": "North America",
       "country": "US",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlC6FiLJ9YVGC1W0eo-MmFsPTu2DNqMSdo-QKnv1gdH_HpaKV3zPaWZrQTGNdklpv62BXb3ECiBqlkR1BzLbfz0tFWfMKNM1vZq88yf90XpycB2OSDq3NScWav6ZO_4IVjCWaJRJLwvthFo-7VJ-Uc8qijyycpXfkQRHcPr9pf-QVgGzyOeBFnwfOGnmLN/s1600/lang-ai.jpg"
     },
     {
-      "id": "26f0b2f9ce7098acc08fc1cc8e5f98c1c5848ba3",
-      "title": "Google completes $32B acquisition of Wiz",
-      "url": "https://www.cybersecuritydive.com/news/google-32-billion-acquisition-wiz/814437/",
-      "published": "2026-03-11T15:08:58+00:00",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/-ICMdOEjrVFshn78yFRFDUepc-O7NSparAd3okf8bow/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8yQktHREpSLmpwZw==.webp\" /></div></figure><p>The cloud security specialist will continue to operate under its own brand and across multiple platforms.&nbsp;</p>",
-      "source": "Cybersecurity Dive",
+      "id": "2e7b83a2566b10a372eec8b2e5243e49b310ada0",
+      "title": "LeakNet Ransomware Uses ClickFix via Hacked Sites, Deploys Deno In-Memory Loader",
+      "url": "https://thehackernews.com/2026/03/leaknet-ransomware-uses-clickfix-via.html",
+      "published": "2026-03-17T14:34:00+00:00",
+      "summary": "The ransomware operation known as LeakNet has adopted the ClickFix social engineering tactic delivered through compromised websites as an initial access method.\nThe use of ClickFix, where users are tricked into manually running malicious commands to address non-existent errors, is a departure from relying on traditional methods for obtaining initial access, such as through stolen credentials",
+      "source": "The Hacker News",
       "region": "North America",
       "country": "US",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNHJfW8wlD2yQtP3pzAZhSRXNrzlhxXWqqG6GiAH3nbBo44Bz5mQxZ1LtsokhDYs-FC2t8hyphenhyphenY-TlNvck_Rtou9A_AA9lRnKNDRbMxZTpHfAe-6WETM-yJoWzxTANKVWrcZFdu7sax22JeTcWAVwuLKMibTNkLwSRyC0_HfBgCFM6EWqPl5-HbGtJEiSCTC/s1600/leaknet-ransomware.jpg"
     },
     {
       "id": "cf5d89ec696b617dbdf1a3f47a96829057bb3b97",
@@ -640,33 +662,55 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1VI1qz4KwHldnHqAJcopF23x8Jtybzn4Obme0AQPvuP_SDx-vwFks8V70CSb-Gn_BBlONDV7BoK3IrxzxGfUd_3va58XjeoXX81Ix1E7JkcgC2kikZ-nWAawWhE0uU8bURJs1ggtbIG1N_F8VsYIYyjDe5NuF3SAholWy_u6Evu5ROpWGAaIShHZMNiA/s1600/bit.jpg"
     },
     {
-      "id": "afeb41f8683f02b6ca8877dc7ad364a5b9fd1695",
-      "title": "Chrome Extension Turns Malicious After Ownership Transfer, Enabling Code Injection and Data Theft",
-      "url": "https://thehackernews.com/2026/03/chrome-extension-turns-malicious-after.html",
-      "published": "2026-03-09T10:28:00+00:00",
-      "summary": "Two Google Chrome extensions have turned malicious after what appears to be a case of ownership transfer, offering attackers a way to push malware to downstream customers, inject arbitrary code, and harvest sensitive data.\nThe extensions in question, both originally associated with a developer named \"akshayanuonline@gmail.com\" (BuildMelon), are listed below -\n\nQuickLens - Search Screen with",
-      "source": "The Hacker News",
+      "id": "6701e7ba8c6019d2697deaa98f006445527be704",
+      "title": "More Attackers Are Logging In, Not Breaking In",
+      "url": "https://www.darkreading.com/identity-access-management-security/more-attackers-logging-in-not-breaking-in",
+      "published": "2026-03-17T22:04:46+00:00",
+      "summary": "Credential theft soared in the second half of 2025, thanks in part to the industrialization of infostealer malware and AI-enabled social engineering.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgH49NW0X18R8bc0fzFm6aPt92f15pxPq-HLMfyFmsApiXvZEsCn4z9qNQErHHvW34SFXKUPWy7mK70hM06Ld6Cxa4DioW7xjV9jnMamMF3DDKIQ39VwJhvq7l4bO79yzGp8huA6ewRk-XdWvJSeYT8fs16PdOa9BSxdbzw0hIwC1PVxh9uY5L0Wx3nNMAL/s1600/chrome-malware.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte1c1a2e88d4ce9b9/69b9bbb4f23269821ba62200/credentials_iWissawa_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "b638aa291ac4a9ae5795e7a96a82fdb7f19cd018",
-      "title": "Web Server Exploits and Mimikatz Used in Attacks Targeting Asian Critical Infrastructure",
-      "url": "https://thehackernews.com/2026/03/web-server-exploits-and-mimikatz-used.html",
-      "published": "2026-03-09T07:21:00+00:00",
-      "summary": "High-value organizations located in South, Southeast, and East Asia have been targeted by a Chinese threat actor as part of a years-long campaign.\nThe activity, which has targeted aviation, energy, government, law enforcement, pharmaceutical, technology, and telecommunications sectors, has been attributed by Palo Alto Networks Unit 42 to a previously undocumented threat activity group dubbed",
-      "source": "The Hacker News",
+      "id": "7a3ab3301838f005ac049ed350df0521a425a720",
+      "title": "Less Lucrative Ransomware Market Makes Attackers Alter Methods",
+      "url": "https://www.darkreading.com/threat-intelligence/less-lucrative-ransomware-market-makes-attackers-alter-methods",
+      "published": "2026-03-17T21:41:12+00:00",
+      "summary": "Ransomware actors are ditching Cobalt Strike in favor of native Windows tools, as payment rates hit record lows and data theft surges.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBw-CldP1FbyOXvJqoX3p-J6QQbtYRACj95MIqX7KakiKKyLMYE4lYpQm6eY7S5sGhsAp8vYbM2ZwPJT59JdjSnGyybDhNucYaymCijGQfyx_cJwkpBZGQ7Mgk2kiCALQU4qZ6i6q0SPo2cBEQHt8j6XX8RQo3kvQ9mj1W3DVP2ZoNF7ZkF7dsdJD9gVZI/s1600/critical.png"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte72d0bf351c7e0d2/69b9b4c0a7730701b4a14225/farmer_Yuri_Arcurs_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
+      "id": "4c512982312afcc94cbe8157780fa8a8689b87a9",
+      "title": "Hackers Target Cybersecurity Firm Outpost24 in 7-Stage Phish",
+      "url": "https://www.darkreading.com/threat-intelligence/hackers-target-cybersecurity-firm-outpost24-phish",
+      "published": "2026-03-17T19:41:24+00:00",
+      "summary": "In an unsuccessful phishing attack, threat actors leveraged trusted brands and domains to try to redirect a C-suite executive at Outpost24 to give up his credentials.",
+      "source": "DarkReading",
+      "region": "North America",
+      "country": "US",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3587241c66f92ae3/69b97dcdccf6a3497fc59660/phishing_tadamichi_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
+      "id": "4b8f3b6428b2d726379ea6c328d4eb39e79b2188",
+      "title": "Warlock Ransomware Group Augments Post-Exploitation Activities",
+      "url": "https://www.darkreading.com/threat-intelligence/warlock-ransomware-post-exploitation-activities",
+      "published": "2026-03-17T15:36:52+00:00",
+      "summary": "In a recent attack, the group showcased stealthier cross-network activity, thanks to its use of a new BYOVD technique and other tools.",
+      "source": "DarkReading",
+      "region": "North America",
+      "country": "US",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt264596230fa2e85d/69b94ecca34bb9e46e896dc0/Warlock_wizard_(1800)_Tithi_Luadthong_alamy.png?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "id": "8a6b1fa20c2e0eeca3089f60978178a19c338341",
       "title": "China-Nexus Hackers Skulk in Southeast Asian Military Orgs for Years",
       "url": "https://www.darkreading.com/threat-intelligence/china-nexus-hackers-southeast-asian-military-orgs",
       "published": "2026-03-17T01:00:00+00:00",
-      "summary": "Researchers uncovered an extensive cyberespionage campaign that used novel backdoors and familiar evasion techniques to maintain persistent access to regional targets.",
+      "summary": "Researchers uncovered an extensive cyber espionage campaign that used novel backdoors and familiar evasion techniques to maintain persistent access to regional targets.",
       "source": "DarkReading",
       "region": "North America",
       "country": "US",
@@ -688,7 +732,7 @@
       "title": "Inside Olympic Cybersecurity: Lessons From Paris 2024 to Milan Cortina 2026",
       "url": "https://www.darkreading.com/threat-intelligence/olympic-cybersecurity-paris-2024-milan-2026",
       "published": "2026-03-16T20:28:19+00:00",
-      "summary": "Discover how Franz Regul, former CISO for the Paris 2024 Olympics, tackled unique cybersecurity challenges to protect the Olympics from evolving threats.",
+      "summary": "Discover how Franz Regul, former CISO for the Paris 2024 Olympics, tackled unique cybersecurity challenges to protect the Games from evolving threats.",
       "source": "DarkReading",
       "region": "North America",
       "country": "US",
@@ -1168,48 +1212,26 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5b777921e2f779f3/69a738c6ec4b2cb365b075b3/tpms_Trong_Nguyen_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "5e3391d45184663b7ccbc4c681830cc00973023f",
-      "title": "Qualcomm Zero-Day Exploited in Targeted Android Attacks",
-      "url": "https://www.darkreading.com/threat-intelligence/qualcomm-zero-day-exploited-targeted-android-attacks",
-      "published": "2026-03-03T20:28:05+00:00",
-      "summary": "The exploitation activity against CVE-2026-21385, a high-severity memory corruption flaw, could be tied to commercial spyware or nation-state threat groups.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0b4a36393b1f0b11/69a734e6d3d3bb081d500dbb/Android_robot_Google_Kristoffer_Tripplaar_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "id": "c0cdee8c777a995609750bb108af14d06439b5e4",
+      "title": "World<s>Coin</s>'s newest pitch: Scan your eyeballs to prove AI agents really represent you",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/17/worldcoin_identity_ai_agents_whatever/",
+      "published": "2026-03-17T20:26:08+00:00",
+      "summary": "<h4>Sell your soul to the orb</h4> <p>Sam Altman has cooked up a plan to make his cryptocurrency/identity/eyeball-scanning-orb venture more useful by \u2013 you guessed it \u2013 adding agentic AI to the mix. Now the technology behind it will be used to identify the human behind bots.\u2026</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "c143f8bc9f0c0d8921be4742424ca463d3c6affb",
-      "title": "Speakeasies to Shadow AI: Banning AI Browsers Will Fail",
-      "url": "https://www.darkreading.com/cyber-risk/speakeasies-shadow-ai-banning-ai-browsers-fail",
-      "published": "2026-03-03T17:40:21+00:00",
-      "summary": "Lessons from history highlight why AI-enabled browsers require controlled enablement.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt982b603fcfc4ecee/69a65b9d3149d1f382fdc2eb/ai-hide-kittipong-jirasukhanont-alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
-      "id": "42f41a29c1dd72b877b705456eba1e73089e6bbd",
-      "title": "AI Agent Overload: How to Solve the Workload Identity Crisis",
-      "url": "https://www.darkreading.com/cloud-security/ai-agent-workload-identity-crisis",
-      "published": "2026-03-03T12:57:19+00:00",
-      "summary": "Workloads keep getting more complicated and organizations are struggling to keep up. So what's the play?",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7d24be5a5d5eede1/69a5f3508999bf720c9d53ee/Authentication_Zoonar_GmbH_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
-      "id": "b945b25935b128bf756b96cee3744423e5e6d9e9",
-      "title": "As War Continues, Pro-Iranian Actors Launch Barrage of Cyberattacks",
-      "url": "https://www.darkreading.com/threat-intelligence/war-pro-iranian-actors-cyberattacks",
-      "published": "2026-03-03T11:30:31+00:00",
-      "summary": "Iran and its supporters have taken to cyberspace to retaliate for US-Israeli military action, with an aim to cause economic and physical disruption.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1e42cdf9c23a6955/69a6c775b8555a620ad35369/muhammadtoqeer-iran-cyber-flag-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "id": "1d5b52c7aaa2dadb09dbe55744946460b454d6e9",
+      "title": "EU sanctions Iranian cyber front over election meddling, Charlie Hebdo breach",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/17/eu_iran_cyber_sanctions/",
+      "published": "2026-03-17T16:18:38+00:00",
+      "summary": "<h4>State-sponsored attackers joined by Chinese snoops and hackers-for-hire in latest round of economic penalties</h4> <p>The Council of the European Union sanctioned Emennet Pasargad on Monday, a company used as a front for a series of Iranian cyberattacks.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
       "id": "386e76b84a0c8d5b9860e73e60e1e9bd9e141fc9",
@@ -1740,28 +1762,6 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "c68ae4581364d06debc438bb9a7fda47fb5b8435",
-      "title": "Transport for London says 2024 breach affected 7M customers, not 5,000",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/06/tfl_2024_breach_numbers/",
-      "published": "2026-03-06T10:22:14+00:00",
-      "summary": "<h4>Attackers accessed systems holding data tied to millions of Oyster and contactless users</h4> <p>Transport for London has confirmed that a 2024 breach exposed the data of more than 7 million people \u2013 a far larger crowd than the few thousand customers originally warned that their details might be at risk.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "456f6716d7dba5e7b0850b5bae4842ba0c7bc3b5",
-      "title": "Google says spyware makers and China-linked groups dominated zero-day attacks last year",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/05/zero_day_attacks_enterprise_tech_record/",
-      "published": "2026-03-05T23:52:24+00:00",
-      "summary": "<h4>Of the 90 zero-days GTIG tracked in 2025, 43 hit enterprise tech</h4> <p>Zero-day exploitation targeting enterprise tech products reached an all-time high last year, with China-linked cyber-espionage groups remaining the most prolific state-backed users, according to Google.\u2026</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
       "id": "25c8e36273c8f9741a6c2f46e23dd56eff9050da",
       "title": "Iran-Backed Hackers Claim Wiper Attack on Medtech Firm Stryker",
       "url": "https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/",
@@ -1817,11 +1817,55 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "f889d47b988e542f3301f480590be02e515155f4",
+      "title": "Tech Giants Invest $12.5 Million in Open Source Security",
+      "url": "https://www.securityweek.com/tech-giants-invest-12-5-million-in-open-source-security/",
+      "published": "2026-03-17T16:01:00+00:00",
+      "summary": "<p>Anthropic, AWS, Google, Microsoft, and OpenAI fund the Linux Foundation\u2019s long-term security initiatives focused on open source software.</p>\n<p>The post <a href=\"https://www.securityweek.com/tech-giants-invest-12-5-million-in-open-source-security/\">Tech Giants Invest $12.5 Million in Open Source Security</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "592e3bb577e503cbcc53086aed9b7fe336a9e495",
+      "title": "UK Companies House Exposed Details of Millions of Firms",
+      "url": "https://www.securityweek.com/uk-companies-house-exposed-details-of-millions-of-firms/",
+      "published": "2026-03-17T15:40:25+00:00",
+      "summary": "<p>The government agency confirmed the vulnerability could have been exploited to obtain company details and alter records.\u00a0\u00a0</p>\n<p>The post <a href=\"https://www.securityweek.com/uk-companies-house-exposed-details-of-millions-of-firms/\">UK Companies House Exposed Details of Millions of Firms\u00a0</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "73b53f5e5d6f956eacb67b39e73b37c8fdfc5582",
+      "title": "Surf AI Raises $57 Million for Agentic Security Operations Platform",
+      "url": "https://www.securityweek.com/surf-ai-raises-57-million-for-agentic-security-operations-platform/",
+      "published": "2026-03-17T14:21:43+00:00",
+      "summary": "<p>The company has announced its launch, backed by funding from Accel, Cyberstarts, and Boldstart Ventures.</p>\n<p>The post <a href=\"https://www.securityweek.com/surf-ai-raises-57-million-for-agentic-security-operations-platform/\">Surf AI Raises $57 Million for Agentic Security Operations Platform</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "b923478764ac31bb7d5a961cd8d6589fdcf73681",
+      "title": "Robotic Surgery Giant Intuitive Discloses Cyberattack",
+      "url": "https://www.securityweek.com/robotic-surgery-giant-intuitive-discloses-cyberattack/",
+      "published": "2026-03-17T13:28:20+00:00",
+      "summary": "<p>The company says some of its internal business applications were accessed after an employee fell victim to a phishing attack.</p>\n<p>The post <a href=\"https://www.securityweek.com/robotic-surgery-giant-intuitive-discloses-cyberattack/\">Robotic Surgery Giant Intuitive Discloses Cyberattack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "c8c2a6495ad602fa63d59a53e36298cb7d7b594d",
-      "title": "RondoDox Botnet Targeted 174 Vulnerabilities",
+      "title": "174 Vulnerabilities Targeted by RondoDox Botnet",
       "url": "https://www.securityweek.com/rondodox-botnet-targeted-174-vulnerabilities/",
       "published": "2026-03-17T12:37:45+00:00",
-      "summary": "<p>The botnet has increased its activity, peaking at 15,000 exploitation attempts per day, and taking a more targeted approach.</p>\n<p>The post <a href=\"https://www.securityweek.com/rondodox-botnet-targeted-174-vulnerabilities/\">RondoDox Botnet Targeted 174 Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "summary": "<p>The botnet has increased its activity, peaking at 15,000 exploitation attempts per day, and taking a more targeted approach.</p>\n<p>The post <a href=\"https://www.securityweek.com/rondodox-botnet-targeted-174-vulnerabilities/\">174 Vulnerabilities Targeted by RondoDox Botnet</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
@@ -1877,50 +1921,6 @@
       "url": "https://www.securityweek.com/oracle-ebs-hack-only-4-corporate-giants-still-silent-on-potential-impact/",
       "published": "2026-03-16T15:44:37+00:00",
       "summary": "<p>Broadcom, Bechtel, Est\u00e9e Lauder, and Abbott Technologies are the only major companies that have yet to issue a public statement.\u00a0</p>\n<p>The post <a href=\"https://www.securityweek.com/oracle-ebs-hack-only-4-corporate-giants-still-silent-on-potential-impact/\">Oracle EBS Hack: Only 4 Corporate Giants Still Silent on Potential Impact</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "4cccfefb543d10ce824f72618019c7a72f358506",
-      "title": "Security Firm Executive Targeted in Sophisticated Phishing Attack",
-      "url": "https://www.securityweek.com/security-firm-executive-targeted-in-sophisticated-phishing-attack/",
-      "published": "2026-03-16T14:39:52+00:00",
-      "summary": "<p>The attackers used a DKIM-signed phishing email, trusted redirect infrastructure, compromised servers, and Cloudflare-protected phishing pages.</p>\n<p>The post <a href=\"https://www.securityweek.com/security-firm-executive-targeted-in-sophisticated-phishing-attack/\">Security Firm Executive Targeted in Sophisticated Phishing Attack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "994b5d3ca7408e0f60ddeaff77534520ecf32ca3",
-      "title": "China-Linked Hackers Hit Asian Militaries in Patient Espionage Operation",
-      "url": "https://www.securityweek.com/china-linked-hackers-hit-asian-militaries-in-patient-espionage-operation/",
-      "published": "2026-03-16T12:52:12+00:00",
-      "summary": "<p>The state-sponsored hackers deployed custom tools and stayed dormant in the compromised environments for months.</p>\n<p>The post <a href=\"https://www.securityweek.com/china-linked-hackers-hit-asian-militaries-in-patient-espionage-operation/\">China-Linked Hackers Hit Asian Militaries in Patient Espionage Operation</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "53b5a012c53302f978943b6bc8679540fd0e7729",
-      "title": "Threat Actor Targeting VPN Users in New Credential Theft Campaign",
-      "url": "https://www.securityweek.com/threat-actor-targeting-vpn-users-in-new-credential-theft-campaign/",
-      "published": "2026-03-16T12:28:58+00:00",
-      "summary": "<p>Storm-2561 is distributing fake VPN clients through SEO poisoning, deploying trojans, and stealing login information.</p>\n<p>The post <a href=\"https://www.securityweek.com/threat-actor-targeting-vpn-users-in-new-credential-theft-campaign/\">Threat Actor Targeting VPN Users in New Credential Theft Campaign</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "e1b3de3c1b7c0cd81edf896fa20a8f990a5dfe12",
-      "title": "ForceMemo: Python Repositories Compromised in GlassWorm Aftermath",
-      "url": "https://www.securityweek.com/forcememo-python-repositories-compromised-in-glassworm-aftermath/",
-      "published": "2026-03-16T11:51:36+00:00",
-      "summary": "<p>Hundreds of GitHub accounts were accessed using credentials stolen in the VS Code GlassWorm campaign.</p>\n<p>The post <a href=\"https://www.securityweek.com/forcememo-python-repositories-compromised-in-glassworm-aftermath/\">ForceMemo: Python Repositories Compromised in GlassWorm Aftermath</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
