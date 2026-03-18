@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-18T01:03:15.965406+00:00",
+  "generated_at": "2026-03-18T12:38:42.523615+00:00",
   "items": [
     {
       "id": "eb2daba06c68f46bd04d160a523d87c4a7a59c89",
@@ -110,6 +110,50 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "d09d9024c36321fec1ba159f76f63c0d9ae3593e",
+      "title": "Product Walkthrough: How Mesh CSMA Reveals and Breaks Attack Paths to Crown Jewels",
+      "url": "https://thehackernews.com/2026/03/product-walkthrough-how-mesh-csma.html",
+      "published": "2026-03-18T10:30:00+00:00",
+      "summary": "Security teams today are not short on tools or data. They are overwhelmed by both.&nbsp;\nYet within the terabytes of alerts, exposures, and misconfigurations \u2013 security teams still struggle to understand context:&nbsp;\nQ: Which exposures, misconfigurations, and vulnerabilities chain together to create viable attack paths to crown jewels?\nEven the most mature security teams can\u2019t answer that",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHQlWFzb-dPRLbO6sDQFLQgxeUGnAqvKyB-zYYZSGM9MySnNJYPuBGkaZCgGco3JT4zh1kuHg0PNbZ3drUNebzabC1l62_B_2laDHkQY3FZi8tYiG70rpoRE43pQcLc8bWXGXWNTdF9Nbr0-KKt8rkgpoaypKgLXJHyAxFGpik6iLrxckqVdW6bbAzhck/s1600/mesh-product.jpg"
+    },
+    {
+      "id": "427ff09474618e1cb520610330387d8b503a6d0e",
+      "title": "Ubuntu CVE-2026-3888 Bug Lets Attackers Gain Root via systemd Cleanup Timing Exploit",
+      "url": "https://thehackernews.com/2026/03/ubuntu-cve-2026-3888-bug-lets-attackers.html",
+      "published": "2026-03-18T08:08:00+00:00",
+      "summary": "A high-severity security flaw affecting default installations of Ubuntu Desktop versions 24.04 and later could be exploited to escalate privileges to the root level.\nTracked as CVE-2026-3888 (CVSS score: 7.8), the issue could allow an attacker to seize control of a susceptible system.\n\"This flaw (CVE-2026-3888) allows an unprivileged local attacker to escalate privileges to full root access",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjyR0arF1Y7SFoUB29ZhPX6xm5uAf4A7sdyhxPDSK52E3A-m2QCrr2DTMIYLCqIJnOUrQzo81R1_g-EMp82gZjHsMJegHxW4AeKRH3pnfjk2NGlBr5VZ9MoKRdbSgkBNs_039XoCT9eNSfka3VVbIhErq7lsOcW6gmN1CffJjFHrRILmXQgEmyZYz1E4KP/s1600/ubuntu.jpg"
+    },
+    {
+      "id": "6c911aebc3012489770c0cba5d6a4153df4e4165",
+      "title": "Apple Fixes WebKit Vulnerability Enabling Same-Origin Policy Bypass on iOS and macOS",
+      "url": "https://thehackernews.com/2026/03/apple-fixes-webkit-vulnerability.html",
+      "published": "2026-03-18T06:31:00+00:00",
+      "summary": "Apple on Tuesday released its first round of Background Security Improvements to address a security flaw in WebKit that affects iOS, iPadOS, and macOS.\nThe vulnerability, tracked as CVE-2026-20643 (CVSS score: N/A), has been described as a cross-origin issue in WebKit's Navigation API that could be exploited to bypass the same-origin policy when processing maliciously crafted web content.\nThe",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrIGrK9v7gHMVWn2ApD_KeHXedmQ6FwRObZ4ZqEQssbaUU_8qjOSYBBRzZPzK0J8eHdH37Ws_n1u-ESXKJ1WEb4jjFcLn1Tdoj4n0z0wrfFj7X5DKIK8dzKYZ9uLDV2dg6HecUyRdUDkYR1LKkvhkGWBh_anbKF83bvLXUJBeTTwjCDeJ0V2hRAEN1bxhv/s1600/apple-hacking.jpg"
+    },
+    {
+      "id": "f0b9ba495637cf3d6e27dfbe78b44cbc03c256ea",
+      "title": "Critical Unpatched Telnetd Flaw (CVE-2026-32746) Enables Unauthenticated Root RCE via Port 23",
+      "url": "https://thehackernews.com/2026/03/critical-telnetd-flaw-cve-2026-32746.html",
+      "published": "2026-03-18T05:06:00+00:00",
+      "summary": "Cybersecurity researchers have disclosed a critical security flaw impacting the GNU InetUtils telnet daemon (telnetd) that could be exploited by an unauthenticated remote attacker to execute arbitrary code with elevated privileges.\nThe vulnerability, tracked as CVE-2026-32746, carries a CVSS score of 9.8 out of 10.0. It has been described as a case of out-of-bounds write in the LINEMODE Set",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhm7eXnUZ_n354WSYj7Qjrk3sBFZkhyQ41VtRezIQRVo3KqzZJDE_A7CqshkkQ6RCiOyS1zuS8liODqSRGhURLUozRKEDZ6BmKyOxBVy8K0EF5TQB5QlyC7c1Cv0mHSj0BNwtGAS-PgOUobvSWJ1b82qWBHCMEocTyoOayx69DzM_gveQSuD1zbjYAjziX7/s1600/linux.jpg"
     },
     {
       "id": "bbc45f04a79cf5cabdee46632df8c5d44b1d2c98",
@@ -616,50 +660,6 @@
       "region": "North America",
       "country": "US",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZ3Jqmj7G6SohXnwkh-xbheyTYoylchcxew5kAJKo9InrbQ0QqVtNQ2hgFc5UuSyQ7sljAfkAlfMzlclT3LQetQdmpqqm3vyb9sZQO2QogQ55M8CpUjCAPMWXEYbtQHbT93Cg7cpWNH2Zq5RtU1T515FT_OAfFKj50HXF8Uwb1VgkLHIhjd-vNZWPRKQdf/s1600/cisa-kev.jpg"
-    },
-    {
-      "id": "6b92e60c5682894aa4f01d1ed19feffc1ffa8249",
-      "title": "Malicious npm Package Posing as OpenClaw Installer Deploys RAT, Steals macOS Credentials",
-      "url": "https://thehackernews.com/2026/03/malicious-npm-package-posing-as.html",
-      "published": "2026-03-09T18:31:00+00:00",
-      "summary": "Cybersecurity researchers have discovered a malicious npm package that masquerades as an OpenClaw installer to deploy a remote access trojan (RAT) and steal sensitive data from compromised hosts.\nThe package, named \"@openclaw-ai/openclawai,\" was uploaded to the registry by a user named \"openclaw-ai\" on March 3, 2026. It has been downloaded 178 times to date. The library is still available for",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNWahQ89p408qBpZO2cmP-m44fNG_BRHT34hjfmDGn2WhALZRls9d94ap8uK0ZYXj1JjAgxdDogTHv_1PHloweK3RtglJheCsgulTB0-KrYOgUFI3Gvp4FJiPaV33FVa8I5bl-v92O1IephSEiV_FMU010of5pnmgMQ0ZmBuvY4yC0Bl0ndth42P924uxR/s1600/openclaw.jpg"
-    },
-    {
-      "id": "2c9b7c4776a3e02a507e1b3912cc169037f751d1",
-      "title": "UNC4899 Breached Crypto Firm After Developer AirDropped Trojanized File to Work Device",
-      "url": "https://thehackernews.com/2026/03/unc4899-used-airdrop-file-transfer-and.html",
-      "published": "2026-03-09T14:50:00+00:00",
-      "summary": "The North Korean threat actor known as UNC4899 is suspected to be behind a sophisticated cloud compromise campaign targeting a cryptocurrency organization in 2025 to steal millions of dollars in cryptocurrency.\nThe activity has been attributed with moderate confidence to the state-sponsored adversary, which is also tracked under the cryptonyms Jade Sleet, PUKCHONG, Slow Pisces, and",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgu3lqP8aiEKLJA-l7TChGGULVqWhyphenhyphenMc67vwAHHEK4LkpR5ZlZuFIYWFmmPqdA8VQpGbFPvjwGvDHxkhXmC9xhTWlRCccD9PyU3A08-ahTc87j__u6g7RvgkwNo85LmbffhVRly_r4Sd9iiVdEvjtVvpcw0NiwOM1NfjNFQXx5xquwbd9E1zUUr09SYv_-A/s1600/crypto.jpg"
-    },
-    {
-      "id": "ea380f1d70d9ea33b6a27ae5bdad7ca8af35a58b",
-      "title": "\u26a1 Weekly Recap: Qualcomm 0-Day, iOS Exploit Chains, AirSnitch Attack & Vibe-Coded Malware",
-      "url": "https://thehackernews.com/2026/03/weekly-recap-qualcomm-0-day-ios-exploit.html",
-      "published": "2026-03-09T13:46:00+00:00",
-      "summary": "Another week in cybersecurity. Another week of \"you've got to be kidding me.\"\nAttackers were busy. Defenders were busy. And somewhere in the middle, a whole lot of people had a very bad Monday morning. That's kind of just how it goes now.\nThe good news? There were some actual wins this week. Real ones. The kind where the good guys showed up, did the work, and made a dent. It doesn't always",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoDPwegKSRDQPO8CYuOJ9gg-wqvYfrwW1Ne0kApS2regCVz9BAJVhPeGCxT8oMd8gnIfNm4-QdgqCXs6VHUDEoS4i66bGo7R52oYjURwGCyG5gPaM-MeWqgTrM5fmKSHJh42NYkPDYQX9v2x97Q2XP1l816qk17OL8ncXwGpRj3AQ-BTjjDZlG1WnbFKDz/s1600/recap-march.jpg"
-    },
-    {
-      "id": "5178b6afdc61ce238dbe198a8232bb29281e311a",
-      "title": "Can the Security Platform Finally Deliver for the Mid-Market?",
-      "url": "https://thehackernews.com/2026/03/can-security-platform-finally-deliver.html",
-      "published": "2026-03-09T11:45:00+00:00",
-      "summary": "Mid-market organizations are constantly striving to achieve security levels on a par with their enterprise peers. With heightened awareness of supply chain attacks, your customers and business partners are defining the security level you must meet.\nWhat if you could be the enabler for your organization to remain competitive \u2014 and help win business \u2014 by easily demonstrating that you meet these",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1VI1qz4KwHldnHqAJcopF23x8Jtybzn4Obme0AQPvuP_SDx-vwFks8V70CSb-Gn_BBlONDV7BoK3IrxzxGfUd_3va58XjeoXX81Ix1E7JkcgC2kikZ-nWAawWhE0uU8bURJs1ggtbIG1N_F8VsYIYyjDe5NuF3SAholWy_u6Evu5ROpWGAaIShHZMNiA/s1600/bit.jpg"
     },
     {
       "id": "6701e7ba8c6019d2697deaa98f006445527be704",
@@ -1212,6 +1212,50 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5b777921e2f779f3/69a738c6ec4b2cb365b075b3/tpms_Trong_Nguyen_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
+      "id": "582756a5c930f6d0b476dbfbdd308c910bfbedac",
+      "title": "Britain's satellite-watching gap to be plugged with \u00a317.5M eyeball in Cyprus",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/18/miniastry_of_defence_to_spend/",
+      "published": "2026-03-18T12:34:15+00:00",
+      "summary": "<h4>No 1 Space Operations Squadron will get a persistent stare capability</h4> <p>The Ministry of Defence (MoD) plans to spend \u00a317.5 million on a remotely-operated satellite monitoring facility in Cyprus, partly to protect the UK's secure communications system Skynet.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "734d5cc8ffcea26130a7795568865802e3f32437",
+      "title": "Iran's cyberattack against med tech firm is 'just the beginning'",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/18/irans_cyberattack_against_stryker/",
+      "published": "2026-03-18T07:32:08+00:00",
+      "summary": "<h4>Even without a navy, or air power, 'They'll still have the ability to hack'</h4> <p>Businesses should expect that Iran will conduct more aggressive cyber-ops as the war escalates, according to security analysts.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "5e6b42b7fa37576a46cb6c4901d9c53778a1d6d9",
+      "title": "Linux Foundation kicks off effort to shield FOSS maintainers from AI slop bug reports",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/18/linux_foundation_ai_slop_defense/",
+      "published": "2026-03-18T04:05:45+00:00",
+      "summary": "<h4>Big Tech donates $12.5 million to get things rolling</h4> <p>Half a dozen Big Tech players have together delivered $12.5 million in grants towards a project that aims to help maintainers of open source projects to cope with AI slop bug reports.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "80118e142436f0ae83015bb1a8d8e7b421dc1128",
+      "title": "Japan to allow \u2018proactive cyber-defense\u2019 from October 1st",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/18/japan_proactive_cyber_defense_enabled/",
+      "published": "2026-03-18T02:49:49+00:00",
+      "summary": "<h4>In less polite places, this is called \u2018hacking back\u2019 or \u2018offensive cyber-ops\u2019</h4> <p>Japan\u2019s government yesterday decided to allow its Self-Defense Force to conduct offensive cyber-operations, starting on October 1st.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "c0cdee8c777a995609750bb108af14d06439b5e4",
       "title": "World<s>Coin</s>'s newest pitch: Scan your eyeballs to prove AI agents really represent you",
       "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/17/worldcoin_identity_ai_agents_whatever/",
@@ -1718,100 +1762,23 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "6e80bcbce3502e198d397316da1ba456e923ada4",
-      "title": "Cisco warns of two more SD-WAN bugs under active attack",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/06/cisco_sdwan_bugs/",
-      "published": "2026-03-06T15:04:48+00:00",
-      "summary": "<h4>Switchzilla says flaws could allow file overwrites or privilege escalation</h4> <p>Just when network admins thought the Cisco SD-WAN patch queue might finally be shrinking, Switchzilla has confirmed miscreants are exploiting more vulnerabilities in its SD-WAN management software.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "2636927b8741e5ef9584e9f97d82ac65c271a26a",
-      "title": "Microsoft spots ClickFix campaign getting users to self-pwn on Windows Terminal",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/06/microsoft_spots_clickfix_campaign_abusing/",
-      "published": "2026-03-06T13:37:12+00:00",
-      "summary": "<h4>Crooks tweak familiar copy-paste ruse so that victims run malicious commands themselves</h4> <p>A new twist on the long-running ClickFix scam is now tricking Windows users into launching Windows Terminal and pasting malware into it themselves \u2013 handing the credential-stealing Lumma infostealer the keys to their browser vault.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "d66b534b0098262635b3c1ad8f1ba213b6d07c2c",
-      "title": "Son of government contractor arrested after alleged $46M crypto heist from US Marshals",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/06/contractor_son_crypto_arrest/",
-      "published": "2026-03-06T12:02:55+00:00",
-      "summary": "<h4>FBI and French GIGN swoop on Saint Martin, John Daghita in cuffs</h4> <p>The son of a government contractor was arrested in the Caribbean after allegedly stealing more than $46 million in seized cryptocurrency from the US Marshals Service, the FBI says.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "c09a44bc741cb4328976cd0589b856b11fef5c63",
-      "title": "Microsoft finally gets around to fixing Windows 10 Recovery Environment after breaking it in October",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/06/microsoft_finally_gets_around_to/",
-      "published": "2026-03-06T11:38:06+00:00",
-      "summary": "<h4>Released from the curse of the update bork fairy</h4> <p>Microsoft has finally fixed a Windows Recovery Environment (WinRE) bug it introduced in Windows 10's final update.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "25c8e36273c8f9741a6c2f46e23dd56eff9050da",
-      "title": "Iran-Backed Hackers Claim Wiper Attack on Medtech Firm Stryker",
-      "url": "https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/",
-      "published": "2026-03-11T16:20:13+00:00",
-      "summary": "A hacktivist group with links to Iran's intelligence agencies is claiming responsibility for a data-wiping attack against Stryker, a global medical technology company based in Michigan. News reports out of Ireland, Stryker's largest hub outside of the United States, said the company sent home more than 5,000 workers there today. Meanwhile, a voicemail message at Stryker's main U.S. headquarters says the company is currently experiencing a building emergency.",
-      "source": "Krebs on Security",
+      "id": "8abc8b8902016d868a6625ef388d836932e2e356",
+      "title": "Apple Debuts Background Security Improvements With Fresh WebKit Patches",
+      "url": "https://www.securityweek.com/apple-debuts-background-security-improvements-with-fresh-webkit-patches/",
+      "published": "2026-03-18T12:35:49+00:00",
+      "summary": "<p>The lightweight updates are meant to deliver security protections between security updates.</p>\n<p>The post <a href=\"https://www.securityweek.com/apple-debuts-background-security-improvements-with-fresh-webkit-patches/\">Apple Debuts Background Security Improvements With Fresh WebKit Patches</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "a8b4199666bdf1d14474a37d8f428f7d60896c0f",
-      "title": "Microsoft Patch Tuesday, March 2026 Edition",
-      "url": "https://krebsonsecurity.com/2026/03/microsoft-patch-tuesday-march-2026-edition/",
-      "published": "2026-03-11T00:32:51+00:00",
-      "summary": "Microsoft Corp. today pushed security updates to fix at least 77 vulnerabilities in its Windows operating systems and other software. There are no pressing \"zero-day\" flaws this month (compared to February's five zero-day treat), but as usual some patches may deserve more rapid attention from organizations using Windows. Here are a few highlights from this month's Patch Tuesday.",
-      "source": "Krebs on Security",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "0bef1949a26ec105d63f86317434969b34819474",
-      "title": "How AI Assistants are Moving the Security Goalposts",
-      "url": "https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/",
-      "published": "2026-03-08T23:35:42+00:00",
-      "summary": "AI-based assistants or \"agents\" -- autonomous programs that have access to the user's computer, files, online services and can automate virtually any task -- are growing in popularity with developers and IT workers. But as so many eyebrow-raising headlines over the past few weeks have shown, these powerful and assertive new tools are rapidly shifting the security priorities for organizations, while blurring the lines between data and code, trusted co-worker and insider threat, ninja hacker and novice code jockey.",
-      "source": "Krebs on Security",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "249a7530c3edc5cee92d07c53e106dba6caaed96",
-      "title": "Who is the Kimwolf Botmaster \u201cDort\u201d?",
-      "url": "https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/",
-      "published": "2026-02-28T12:01:57+00:00",
-      "summary": "In early January 2026, KrebsOnSecurity revealed how a security researcher disclosed a vulnerability that was used to assemble Kimwolf, the world's largest and most disruptive botnet. Since then, the person in control of Kimwolf -- who goes by the handle \"Dort\" -- has coordinated a barrage of distributed denial-of-service (DDoS), doxing and email flooding attacks against the researcher and this author, and more recently caused a SWAT team to be sent to the researcher's home. This post examines what is knowable about Dort based on public information.",
-      "source": "Krebs on Security",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "04b6bbeedfed18aaa5c090a56c3e2fba0ba6ebef",
-      "title": "\u2018Starkiller\u2019 Phishing Service Proxies Real Login Pages, MFA",
-      "url": "https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/",
-      "published": "2026-02-20T20:00:30+00:00",
-      "summary": "Most phishing websites are little more than static copies of login pages for popular online destinations, and they are often quickly taken down by anti-abuse activists and security firms. But a stealthy new phishing-as-a-service offering lets customers sidestep both of these pitfalls: It uses cleverly disguised links to load the target brand's real website, and then acts as a relay between the target and the legitimate site -- forwarding the victim's username, password and multi-factor authentication (MFA) code to the legitimate site and returning its responses.",
-      "source": "Krebs on Security",
+      "id": "c811834ba729748153cbe0725fab3e183e292fd8",
+      "title": "Researcher Discovers 4th WhatsApp View Once Bypass; Meta Won\u2019t Patch",
+      "url": "https://www.securityweek.com/researcher-discovers-4th-whatsapp-view-once-bypass-meta-wont-patch/",
+      "published": "2026-03-18T10:43:23+00:00",
+      "summary": "<p>Meta does not plan on fixing the vulnerability because it involves the use of a modified client application.</p>\n<p>The post <a href=\"https://www.securityweek.com/researcher-discovers-4th-whatsapp-view-once-bypass-meta-wont-patch/\">Researcher Discovers 4th WhatsApp View Once Bypass; Meta Won\u2019t Patch</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
@@ -1899,28 +1866,6 @@
       "url": "https://www.securityweek.com/cisa-flags-year-old-wing-ftp-vulnerability-as-exploited/",
       "published": "2026-03-17T10:55:55+00:00",
       "summary": "<p>Tracked as CVE-2025-47813, the flaw leads to the disclosure of the full local installation path of the application.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisa-flags-year-old-wing-ftp-vulnerability-as-exploited/\">CISA Flags Year-Old Wing FTP Vulnerability as Exploited</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "6b4fa2568917e71ed11743f506136cf15c39019f",
-      "title": "AI, APIs and DDoS Collide in New Era of Coordinated Cyberattacks",
-      "url": "https://www.securityweek.com/ai-apis-and-ddos-collide-in-new-era-of-coordinated-cyberattacks/",
-      "published": "2026-03-17T10:30:00+00:00",
-      "summary": "<p>Akamai warns that Layer 7 DDoS, API abuse and AI-powered attacks are merging into coordinated, multi-vector campaigns that are harder to detect and defend against.</p>\n<p>The post <a href=\"https://www.securityweek.com/ai-apis-and-ddos-collide-in-new-era-of-coordinated-cyberattacks/\">AI, APIs and DDoS Collide in New Era of Coordinated Cyberattacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "ce9d58a98051339234f4130edad0c49136c2ce85",
-      "title": "Oracle EBS Hack: Only 4 Corporate Giants Still Silent on Potential Impact",
-      "url": "https://www.securityweek.com/oracle-ebs-hack-only-4-corporate-giants-still-silent-on-potential-impact/",
-      "published": "2026-03-16T15:44:37+00:00",
-      "summary": "<p>Broadcom, Bechtel, Est\u00e9e Lauder, and Abbott Technologies are the only major companies that have yet to issue a public statement.\u00a0</p>\n<p>The post <a href=\"https://www.securityweek.com/oracle-ebs-hack-only-4-corporate-giants-still-silent-on-potential-impact/\">Oracle EBS Hack: Only 4 Corporate Giants Still Silent on Potential Impact</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
