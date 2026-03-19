@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-19T01:02:47.608074+00:00",
+  "generated_at": "2026-03-19T12:32:43.414568+00:00",
   "items": [
     {
       "id": "85ae119612679b468a68b47167e2cc261a739c87",
@@ -110,6 +110,39 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "4f6944703677ec1af04e64ef8b080395e4d7bad1",
+      "title": "How Ceros Gives Security Teams Visibility and Control in Claude Code",
+      "url": "https://thehackernews.com/2026/03/how-ceros-gives-security-teams.html",
+      "published": "2026-03-19T10:58:00+00:00",
+      "summary": "Security teams have spent years building identity and access controls for human users and service accounts. But a new category of actor has quietly entered most enterprise environments, and it operates entirely outside those controls.\nClaude Code, Anthropic's AI coding agent, is now running across engineering organizations at scale. It reads files, executes shell commands, calls external APIs,",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8B3hISiw4s7wL5Eruja2BnTYM2QNrpsi6FnTtzznVz-Vu1pERgS-lZuIVKrps6nlxaauzfCXNfiiSInowjXHDhZ3UgoGD7OlFtwijFG0w5MtfnGu920etTBYP0tHnauL6Owztp_K0I8DUXlMSWd2LZz57O8NFm83E8H5QZ7Kb7RCOja4c-viaPrf9lC8/s1600/bi.jpg"
+    },
+    {
+      "id": "cc177649f31fbd7746abea0615286be0877ca45a",
+      "title": "DarkSword iOS Exploit Kit Uses 6 Flaws, 3 Zero-Days for Full Device Takeover",
+      "url": "https://thehackernews.com/2026/03/darksword-ios-exploit-kit-uses-6-flaws.html",
+      "published": "2026-03-19T09:14:00+00:00",
+      "summary": "A new exploit kit for Apple iOS devices designed to steal sensitive data from is being wielded by multiple threat actors since at least November 2025, according to reports from Google Threat Intelligence Group (GTIG), iVerify, and Lookout.\nAccording to GTIG, multiple commercial surveillance vendors and suspected state-sponsored actors have utilized the full-chain exploit kit, codenamed DarkSword",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEho7JmQ9e8aVTFWYRYkZD_7n8d_IVUkFzCBPFnqGvDe_32LG-Te8BFovDqiVjMusP3eUTgXzn5iDoVgLTSnR1RR44UHLh6fuegsRokauImqaCbIL2KqUJcjlmViSKAAaSpZ5d7-L1CjYhizgV92pUQFLKo2DqE1sPijXfWNv24vIjcWCHVoF-G1p7vPciP_/s1600/dark.jpg"
+    },
+    {
+      "id": "a9dbdb9134a9ed7c364cd394cccfd749b063f6dd",
+      "title": "CISA Warns of Zimbra, SharePoint Flaw Exploits; Cisco Zero-Day Hit in Ransomware Attacks",
+      "url": "https://thehackernews.com/2026/03/cisa-warns-of-zimbra-sharepoint-flaw.html",
+      "published": "2026-03-19T06:05:00+00:00",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has urged government agencies to apply patches for two security flaws impacting Synacor Zimbra Collaboration Suite (ZCS) and Microsoft Office SharePoint, stating they have been actively exploited in the wild.\nThe vulnerabilities in question are as follows -\n\nCVE-2025-66376 (CVSS score: 7.2) - A stored cross-site scripting",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNz_gKNFLCIU1bf3r5ndKEJY42xA-0VYcdfKSV7dFnLR49717u_2GSnPWzDJk4OkX-VbcUgnij6CUo-ZJvV4-uWiUuXsS0FtuAA8RBYnElk3ELRm_ODa1MhwK9GcjjuIN3rqi51_BBFYvMYCbcJGifTrfv4bUHYZmkcJSnKGDT7NnLBHU4GtaxMvW9F7Pr/s1600/cida-patches.jpg"
     },
     {
       "id": "c76ac38a6eb1dd0a1224b2a3cb91249a0876585f",
@@ -629,37 +662,15 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaob2yqCn3sfdJzP_Cg84pqsU3I0R7XKt1LiMZLkgr3o3IHIWwarYiLwvqGKig4ZFF4-Hdc2hq79QyM_xSbyGp2CsGZNA4X1ZHjxaY0NUeiFjBEMtbQHD45QQzSTtGTzJP8z7EfsJYnikYmV4dipwkSniPMgPaboch1EP4S-lmtjvrJ9eY-WcfWHMsOB89/s1600/fortinet-exploit.jpg"
     },
     {
-      "id": "ce52b4301ffcc650132b9411039f4ac5793a577f",
-      "title": "How to Stop AI Data Leaks: A Webinar Guide to Auditing Modern Agentic Workflows",
-      "url": "https://thehackernews.com/2026/03/how-to-stop-ai-data-leaks-webinar-guide.html",
-      "published": "2026-03-10T16:21:00+00:00",
-      "summary": "Artificial Intelligence (AI) is no longer just a tool we talk to; it is a tool that does things for us. These are called AI Agents. They can send emails, move data, and even manage software on their own.\nBut there is a problem. While these agents make work faster, they also open a new \"back door\" for hackers.\nThe Problem: \"The Invisible Employee\"\nThink of an AI Agent like a new employee who has",
-      "source": "The Hacker News",
+      "id": "7e6d59725396384e914a93e66c8dd11f3f09670f",
+      "title": "EU Sanctions Companies in China, Iran for Cyberattacks",
+      "url": "https://www.darkreading.com/threat-intelligence/eu-sanctions-companies-china-iran-cyberattacks",
+      "published": "2026-03-19T07:01:00+00:00",
+      "summary": "Already sanctioned in the US and the UK, these rulings prohibit companies and a couple of principals from entering or doing business in the European Union.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjK9rQgRdibuFYsDbwmp3SukV8rvo2XAcrItRHJVuYOvQd5AQyUUNQlF254t_zArE0rjDNbI-ibkfkezQF394z9u2QQRwCk9vju1yDsQJjYGjbfoNAvvUfM7ZhYl134SLtAYSmx4CtP8n9n0Uyk-DYW9gJ-ci7nGhInnioZMyhH1xT5ySyaXTYJ3nmD_Xo/s1600/ai-agents.jpg"
-    },
-    {
-      "id": "939556d9bdb6950fd0e7d65f6267951cfd5ed325",
-      "title": "KadNap Malware Infects 14,000+ Edge Devices to Power Stealth Proxy Botnet",
-      "url": "https://thehackernews.com/2026/03/kadnap-malware-infects-14000-edge.html",
-      "published": "2026-03-10T16:00:00+00:00",
-      "summary": "Cybersecurity researchers have discovered a new malware called KadNap that's primarily targeting Asus routers to enlist them into a botnet for proxying malicious traffic.\nThe malware, first detected in the wild in August 2025, has expanded to over 14,000 infected devices, with more than 60% of victims located in the U.S., according to the Black Lotus Labs team at Lumen. A lesser number of",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjL6yjElOGPcYBf276MHunx4KJvvDBj2k0LIMcaz8NZN6c9NM-EPhn5wGG8jiQab-zkwUzGWDNnqMo7F_mIq_HbuS4KKV9TNn3oebk_nWkZKcm3BRT0EIEqut61LgUodpHvtGYBB3bjeT_zJ_TxjxLgmO7DPwaFqXryrkQ7X8BpWz2GucoDtcTcXP6XbLQ_/s1600/router-botnet.jpg"
-    },
-    {
-      "id": "29990152051cb445379db1f8d711e158bba734df",
-      "title": "New \"LeakyLooker\" Flaws in Google Looker Studio Could Enable Cross-Tenant SQL Queries",
-      "url": "https://thehackernews.com/2026/03/new-leakylooker-flaws-in-google-looker.html",
-      "published": "2026-03-10T13:20:00+00:00",
-      "summary": "Cybersecurity researchers have disclosed nine cross-tenant vulnerabilities in Google Looker Studio that could have permitted attackers to run arbitrary SQL queries on victims' databases and exfiltrate sensitive data within organizations' Google Cloud environments.\nThe shortcomings have been collectively named LeakyLooker by Tenable. There is no evidence that the vulnerabilities were exploited in",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2sHbLX0XUqPu9yr7S5g-qYzWmRx4m_RGqFl4wqfd87nzpCH4RbDGMzdvRIzXLHfGUFtESqDSbXjksDf73X6VqM9kdl0BsgoRGr6luzPooCoRR5oAzQzxyCPU7HMK_JrXS__l0h22_J0JNkveq_OA87M4MvaASKETRpM9lj57aLzm7znLU4OWz6Gs0ZmwT/s1600/looker.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt447b0823e680034d/69bb012e65cf387ebf1f8817/EU_Iran_China-Wirestock_Inc.-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "id": "c338c0d5a50f5f6cafdafb0503cf4260f54870ab",
@@ -695,17 +706,6 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt10cc6694988697dc/69ba96a3a9cab62c8e5b1dba/claude_RalfLiebhold_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "c33e901d89571f0f7a5e4ab7d83e4363c1738f5e",
-      "title": "SideWinder Espionage Campaign Expands Across Southeast Asia",
-      "url": "https://www.darkreading.com/threat-intelligence/sidewinder-espionage-campaign-expands-across-southeast-asia",
-      "published": "2026-03-18T13:00:00+00:00",
-      "summary": "The suspected India-linked threat group targets governments, telecom, and critical infrastructure using spear-phishing, old vulnerabilities, and rapidly rotating infrastructure to maintain persistent access.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt28c4d1bedaef1b13/69b9c60dfc6bd40f7fba492b/sidewinder-snake-on-sand-dune-Chantelle_Bosch-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
       "id": "c32d6c7faaca3867056ae5dfeb607647589d683d",
       "title": "Researchers: Meta, TikTok Steal Personal &amp; Financial Info When Users Click Ads",
       "url": "https://www.darkreading.com/cyber-risk/meta-tiktok-steal-sensitive-pii",
@@ -715,6 +715,17 @@
       "region": "North America",
       "country": "US",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt30ca0d4bf093c658/69b85abb65cf383bd31f7bee/Eye-Shotshop_GmbH-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
+      "id": "c33e901d89571f0f7a5e4ab7d83e4363c1738f5e",
+      "title": "SideWinder Espionage Campaign Expands Across Southeast Asia",
+      "url": "https://www.darkreading.com/threat-intelligence/sidewinder-espionage-campaign-expands-across-southeast-asia",
+      "published": "2026-03-18T13:00:00+00:00",
+      "summary": "The suspected India-linked threat group targets governments, telecom, and critical infrastructure using spear-phishing, old vulnerabilities, and rapidly rotating infrastructure to maintain persistent access.",
+      "source": "DarkReading",
+      "region": "North America",
+      "country": "US",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt28c4d1bedaef1b13/69b9c60dfc6bd40f7fba492b/sidewinder-snake-on-sand-dune-Chantelle_Bosch-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "id": "6701e7ba8c6019d2697deaa98f006445527be704",
@@ -1199,17 +1210,6 @@
       "region": "North America",
       "country": "US",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt46162656817621dc/69a9b49e88fb63e897db5435/2GXKKWF.jpg?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
-      "id": "edb521b87d0feb5192ae21ba0d4c496a4b7cc705",
-      "title": "LatAm Now Faces 2x More Cyberattacks Than US",
-      "url": "https://www.darkreading.com/threat-intelligence/latam-2x-more-cyberattacks-us",
-      "published": "2026-03-05T14:00:00+00:00",
-      "summary": "Much of Central and South America struggles with cybersecurity maturity, and hackers are taking advantage.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte1cd634b9beee8ce/69a88bfbe1448425e71dc52c/Latin_America-Adina_Tovy_Art_Directors-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "id": "777abf7b43e02adbdca71b92f6d078b6f3bae865",
@@ -1762,56 +1762,34 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "25c8e36273c8f9741a6c2f46e23dd56eff9050da",
-      "title": "Iran-Backed Hackers Claim Wiper Attack on Medtech Firm Stryker",
-      "url": "https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/",
-      "published": "2026-03-11T16:20:13+00:00",
-      "summary": "A hacktivist group with links to Iran's intelligence agencies is claiming responsibility for a data-wiping attack against Stryker, a global medical technology company based in Michigan. News reports out of Ireland, Stryker's largest hub outside of the United States, said the company sent home more than 5,000 workers there today. Meanwhile, a voicemail message at Stryker's main U.S. headquarters says the company is currently experiencing a building emergency.",
-      "source": "Krebs on Security",
+      "id": "1b1afab134cb345a9f6423105cb430a0d20a5ced",
+      "title": "Raven Emerges From Stealth With $20 Million in Funding",
+      "url": "https://www.securityweek.com/raven-emerges-from-stealth-with-20-million-in-funding/",
+      "published": "2026-03-19T10:31:16+00:00",
+      "summary": "<p>Raven\u2019s platform observes applications at runtime to detect anomalous behavior and prevent cyberattacks.</p>\n<p>The post <a href=\"https://www.securityweek.com/raven-emerges-from-stealth-with-20-million-in-funding/\">Raven Emerges From Stealth With $20 Million in Funding</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "a8b4199666bdf1d14474a37d8f428f7d60896c0f",
-      "title": "Microsoft Patch Tuesday, March 2026 Edition",
-      "url": "https://krebsonsecurity.com/2026/03/microsoft-patch-tuesday-march-2026-edition/",
-      "published": "2026-03-11T00:32:51+00:00",
-      "summary": "Microsoft Corp. today pushed security updates to fix at least 77 vulnerabilities in its Windows operating systems and other software. There are no pressing \"zero-day\" flaws this month (compared to February's five zero-day treat), but as usual some patches may deserve more rapid attention from organizations using Windows. Here are a few highlights from this month's Patch Tuesday.",
-      "source": "Krebs on Security",
+      "id": "df107ada06da46ff9dedb3bc248e07be86eb98eb",
+      "title": "CISA Warns of Attacks Exploiting Recent SharePoint Vulnerability",
+      "url": "https://www.securityweek.com/cisa-warns-of-attacks-exploiting-recent-sharepoint-vulnerability/",
+      "published": "2026-03-19T09:42:52+00:00",
+      "summary": "<p>The SharePoint remote code execution vulnerability CVE-2026-20963, which Microsoft patched in January, has been exploited in the wild.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisa-warns-of-attacks-exploiting-recent-sharepoint-vulnerability/\">CISA Warns of Attacks Exploiting Recent SharePoint Vulnerability</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "0bef1949a26ec105d63f86317434969b34819474",
-      "title": "How AI Assistants are Moving the Security Goalposts",
-      "url": "https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/",
-      "published": "2026-03-08T23:35:42+00:00",
-      "summary": "AI-based assistants or \"agents\" -- autonomous programs that have access to the user's computer, files, online services and can automate virtually any task -- are growing in popularity with developers and IT workers. But as so many eyebrow-raising headlines over the past few weeks have shown, these powerful and assertive new tools are rapidly shifting the security priorities for organizations, while blurring the lines between data and code, trusted co-worker and insider threat, ninja hacker and novice code jockey.",
-      "source": "Krebs on Security",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "249a7530c3edc5cee92d07c53e106dba6caaed96",
-      "title": "Who is the Kimwolf Botmaster \u201cDort\u201d?",
-      "url": "https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/",
-      "published": "2026-02-28T12:01:57+00:00",
-      "summary": "In early January 2026, KrebsOnSecurity revealed how a security researcher disclosed a vulnerability that was used to assemble Kimwolf, the world's largest and most disruptive botnet. Since then, the person in control of Kimwolf -- who goes by the handle \"Dort\" -- has coordinated a barrage of distributed denial-of-service (DDoS), doxing and email flooding attacks against the researcher and this author, and more recently caused a SWAT team to be sent to the researcher's home. This post examines what is knowable about Dort based on public information.",
-      "source": "Krebs on Security",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "04b6bbeedfed18aaa5c090a56c3e2fba0ba6ebef",
-      "title": "\u2018Starkiller\u2019 Phishing Service Proxies Real Login Pages, MFA",
-      "url": "https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/",
-      "published": "2026-02-20T20:00:30+00:00",
-      "summary": "Most phishing websites are little more than static copies of login pages for popular online destinations, and they are often quickly taken down by anti-abuse activists and security firms. But a stealthy new phishing-as-a-service offering lets customers sidestep both of these pitfalls: It uses cleverly disguised links to load the target brand's real website, and then acts as a relay between the target and the legitimate site -- forwarding the victim's username, password and multi-factor authentication (MFA) code to the legitimate site and returning its responses.",
-      "source": "Krebs on Security",
+      "id": "faad9a0575a6fb1d04104cbd609d970f692a1fdc",
+      "title": "Cisco Firewall Vulnerability Exploited as Zero-Day in Interlock Ransomware Attacks",
+      "url": "https://www.securityweek.com/cisco-firewall-vulnerability-exploited-as-zero-day-in-interlock-ransomware-attacks/",
+      "published": "2026-03-19T08:57:59+00:00",
+      "summary": "<p>Amazon found evidence that the FMC software vulnerability has been exploited since late January, and found links to Russia.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisco-firewall-vulnerability-exploited-as-zero-day-in-interlock-ransomware-attacks/\">Cisco Firewall Vulnerability Exploited as Zero-Day in Interlock Ransomware Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
@@ -1888,39 +1866,6 @@
       "url": "https://www.securityweek.com/the-shadow-ai-problem-how-saas-apps-are-quietly-enabling-massive-breaches/",
       "published": "2026-03-18T14:00:00+00:00",
       "summary": "<p>From Chaos to Control examines the chaos that often comes from shadow AI hidden in SaaS apps and urges better visibility and control over agentic AI.</p>\n<p>The post <a href=\"https://www.securityweek.com/the-shadow-ai-problem-how-saas-apps-are-quietly-enabling-massive-breaches/\">Shadow AI Risk: How SaaS Apps Are Quietly Enabling Massive Breaches</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "d5192c67dcf939a6463e19b55a43aec3c10d8c88",
-      "title": "Manifold Raises $8 Million for AI Detection and Response",
-      "url": "https://www.securityweek.com/manifold-raises-8-million-for-ai-detection-and-response/",
-      "published": "2026-03-18T13:59:23+00:00",
-      "summary": "<p>Focused on securing autonomous AI on endpoints, the startup will invest in product development.</p>\n<p>The post <a href=\"https://www.securityweek.com/manifold-raises-8-million-for-ai-detection-and-response/\">Manifold Raises $8 Million for AI Detection and Response</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "8538b2fb1625d9cbbc3c309a38987a482b24c132",
-      "title": "Iranian Hackers Likely Used Malware-Stolen Credentials in Stryker Breach",
-      "url": "https://www.securityweek.com/iranian-hackers-likely-used-malware-stolen-credentials-in-stryker-breach/",
-      "published": "2026-03-18T12:47:00+00:00",
-      "summary": "<p>The medtech giant has been working on restoring systems affected by the cyberattack conducted by the Handala hackers.</p>\n<p>The post <a href=\"https://www.securityweek.com/iranian-hackers-likely-used-malware-stolen-credentials-in-stryker-breach/\">Iranian Hackers Likely Used Malware-Stolen Credentials in Stryker Breach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "8abc8b8902016d868a6625ef388d836932e2e356",
-      "title": "Apple Debuts Background Security Improvements With Fresh WebKit Patches",
-      "url": "https://www.securityweek.com/apple-debuts-background-security-improvements-with-fresh-webkit-patches/",
-      "published": "2026-03-18T12:35:49+00:00",
-      "summary": "<p>The lightweight updates are meant to deliver security protections between security updates.</p>\n<p>The post <a href=\"https://www.securityweek.com/apple-debuts-background-security-improvements-with-fresh-webkit-patches/\">Apple Debuts Background Security Improvements With Fresh WebKit Patches</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
