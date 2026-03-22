@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-21T12:20:25.211221+00:00",
+  "generated_at": "2026-03-22T01:02:29.466052+00:00",
   "items": [
     {
       "id": "50fab93d20fda81596679059b1764585bca1828e",
@@ -110,6 +110,17 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "5bd06c058b2e52a73eecc68172c6849c94e4d697",
+      "title": "FBI Warns Russian Hackers Target Signal, WhatsApp in Mass Phishing Attacks",
+      "url": "https://thehackernews.com/2026/03/fbi-warns-russian-hackers-target-signal.html",
+      "published": "2026-03-21T13:17:00+00:00",
+      "summary": "Threat actors affiliated with Russian Intelligence Services are conducting phishing campaigns to compromise commercial messaging applications (CMAs) like WhatsApp and Signal to seize control of accounts belonging to individuals with high intelligence value, the U.S. Cybersecurity and Infrastructure Security Agency (CISA) and Federal Bureau of Investigation (FBI) said Friday.\n\"The campaign",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiMsZnvgdoACYJn8WjDy_Lpvpy1iqvGpj-vb4hYfYTLujLp_5dm8WZKjl64LYwY4-MON0-1k8-F2K3KDu0QG7isYjhaMvre0E0vrqJCSP49r2j374JPbV6WvkTG8lwqwrxquX-3xrReaA3G-NQGvskSnlOtM1XRj1J3MdPuCK9lXC6vf8ZkrCizN6ohcLC/s1600/signal-whatsapp.jpg"
     },
     {
       "id": "4e0c7b62a247097294e5e9ce40b551dd003d1dd9",
@@ -649,17 +660,6 @@
       "region": "North America",
       "country": "US",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAvQYbgT2Bzyhv6lldqV781Ec5C2EKl2Y-ezdEDwakAZnizcub5ZIyJxZKg-fouq4L04gr_sNDHb5JPVhoOYYRKLnzo_TQqAiOFCPycF2EfjVA2wpA3ak9ZgfUFXCi_O9Pwx2GdtCDo3u6PFlheeR9IC2OMfGF5XZ8Cr-53uP01xsQxEGDQ8AO3rbvka8e/s1600/ransomware-ai.jpg"
-    },
-    {
-      "id": "7cd3d01756018d554eb239cb4e7e8ee5e32b006c",
-      "title": "How to Scale Phishing Detection in Your SOC: 3 Steps for CISOs",
-      "url": "https://thehackernews.com/2026/03/how-to-scale-phishing-detection-in-your.html",
-      "published": "2026-03-12T13:30:00+00:00",
-      "summary": "Phishing has quietly turned into one of the hardest enterprise threats to expose early. Instead of crude lures and obvious payloads, modern campaigns rely on trusted infrastructure, legitimate-looking authentication flows, and encrypted traffic that conceals malicious behavior from traditional detection layers. For CISOs, the priority is now clear: scale phishing detection in a way that helps",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjB2HzYQe6azf7VrHXnh94kq6r2J2iKsWe7pH325T7pu8CDvT8qBJdDJe-6jZkisgAxHrU53Zs4xakonSiDhLKOAdw3PpVi7kWrQUEZuP80UJBtotXaoc86xhDSEQwlfEG5BOwPrmdvdycf910ZJM5cO31Ifjuzj4R2e2xT0kQDrq403maMI5ApvrudhNU/s1600/anyrun.jpg"
     },
     {
       "id": "b2bc417a75212a4f22aac1ceede629da50854520",
@@ -1293,7 +1293,7 @@
       "title": "Google gives Android users a way to install unverified apps if they prove they really, really want to",
       "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/19/google_android_unverified_apps/",
       "published": "2026-03-19T18:30:06+00:00",
-      "summary": "<h4>Chocolate Factory describes concession as an attempt to balance openess with safety</h4> <p>It turns out you won't be limited to Google-verified apps an developers on Android after all. In the face of sustained community dissatisfaction with its developer verification requirement, Google has given Android users an out.\u2026</p>",
+      "summary": "<h4>Chocolate Factory describes concession as an attempt to balance openess with safety</h4> <p>It turns out you won't be limited to Google-verified apps and developers on Android after all. In the face of sustained community dissatisfaction with its developer verification requirement, Google has given Android users an out.\u2026</p>",
       "source": "The Register \u2013 Security",
       "region": "Europe",
       "country": "UK",
