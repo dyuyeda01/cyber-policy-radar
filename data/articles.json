@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-23T01:04:13.318030+00:00",
+  "generated_at": "2026-03-23T12:35:32.688782+00:00",
   "items": [
     {
       "id": "50fab93d20fda81596679059b1764585bca1828e",
@@ -112,6 +112,39 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "4c77b45560e666d70a18e72232eb42d6c126c228",
+      "title": "Microsoft Warns IRS Phishing Hits 29,000 Users, Deploys RMM Malware",
+      "url": "https://thehackernews.com/2026/03/microsoft-warns-irs-phishing-hits-29000.html",
+      "published": "2026-03-23T10:55:00+00:00",
+      "summary": "Microsoft has warned of fresh campaigns that are capitalizing on the upcoming tax season in the U.S. to harvest credentials and deliver malware.\nThe email campaigns take advantage of the urgency and time-sensitive nature of emails to send phishing messages masquerading as refund notices, payroll forms, filing reminders, and requests from tax professionals to deceive recipients into opening",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEie9fqlMd4OuFVtXiIjViNTGyYhyol3qoSCp1VC7Au7Zp3ccwTT2YriDd5iWY7vc67FF0inmVd16ko0WfG3C57cyOs-I3RNaQXnk2eyfKefaJajCkfjvD1rfZp1hnOqyICcY5-dPdADaKq7bl74F4bocmJHp1W3sI6ZBGKIXiOI-phZVHwwyqtDQz1kNQty/s1600/irs.jpg"
+    },
+    {
+      "id": "4653c4346e5ead8a3a182851f58c8ce6f6bbe08a",
+      "title": "Trivy Hack Spreads Infostealer via Docker, Triggers Worm and Kubernetes Wiper",
+      "url": "https://thehackernews.com/2026/03/trivy-hack-spreads-infostealer-via.html",
+      "published": "2026-03-23T08:31:00+00:00",
+      "summary": "Cybersecurity researchers have uncovered malicious artifacts distributed via Docker Hub following the Trivy supply chain attack, highlighting the widening blast radius across developer environments.\nThe last known clean release of Trivy on Docker Hub is 0.69.3. The malicious versions 0.69.4, 0.69.5, and 0.69.6 have since been removed from the container image library.\n\"New image tags 0.69.5 and",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3tECPxIu-t1cl5YE211vm5q8dB99cO4mW6hbz0jCRbtDjalNgI7gX42M9MQAkty0IsWyxB3cJDMOpKbqQlLSKMnjbGaBOJHB9QslmSQB6-96o4RlaFLKuTHEAq8HpO-KbprLYPIjSR64H9twUcA-fuV0CrB2qw7RlzNWhQUHEmyKboascQm-Udl5GPdwA/s1600/docker.jpg"
+    },
+    {
+      "id": "a160608bf4339f49b6d3bffc2f7c7c098e3b8955",
+      "title": "Hackers Exploit CVE-2025-32975 (CVSS 10.0) to Hijack Unpatched Quest KACE SMA Systems",
+      "url": "https://thehackernews.com/2026/03/hackers-exploit-cve-2025-32975-cvss-100.html",
+      "published": "2026-03-23T06:15:00+00:00",
+      "summary": "Threat actors are suspected to be exploiting a maximum-severity security flaw impacting Quest KACE Systems Management Appliance (SMA), according to Arctic Wolf.\nThe cybersecurity company said it observed malicious activity starting the week of March 9, 2026, in customer environments that's consistent with the exploitation of CVE-2025-32975 on unpatched SMA systems exposed to the internet. It's",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuTlyFHjxX97gPhHFjyvPGAPsLFbWQSHzAofYEPTsqZS1Xyc4KjjMDOqW-N7Iku9d1cuOJLI7EMdA-kA5X86I2neC5efkXETfsIVOZcIEVfLxWKFEnR3qXfgpLxXvG3ZKixxV_bmEDxXIN_65QzgRKguXIJkQhzY50ROEEV5irUXNeuekFatz88Yk_BONZ/s1600/kace.jpg"
+    },
+    {
       "id": "5bd06c058b2e52a73eecc68172c6849c94e4d697",
       "title": "FBI Warns Russian Hackers Target Signal, WhatsApp in Mass Phishing Attacks",
       "url": "https://thehackernews.com/2026/03/fbi-warns-russian-hackers-target-signal.html",
@@ -138,7 +171,7 @@
       "title": "Trivy Supply Chain Attack Triggers Self-Spreading CanisterWorm Across 47 npm Packages",
       "url": "https://thehackernews.com/2026/03/trivy-supply-chain-attack-triggers-self.html",
       "published": "2026-03-21T08:25:00+00:00",
-      "summary": "The threat actors behind the supply chain attack targeting the popular Trivy scanner are suspected to be conducting follow-on attacks that have led to the compromise of a large number of npm packages with a previously undocumented self-propagating worm dubbed CanisterWorm.\nThe name is a reference to the fact that the malware uses an ICP canister, which refers to tamperproof smart contracts on",
+      "summary": "The threat actors behind the supply chain attack targeting the popular Trivy scanner are suspected to be conducting follow-on attacks that have led to the compromise of a large number of npm packages with a previously undocumented self-propagating worm dubbed CanisterWorm.\nThe name is a reference to the fact that the malware uses an ICP canister, which denotes a tamperproof smart contract on",
       "source": "The Hacker News",
       "region": "North America",
       "country": "US",
@@ -160,7 +193,7 @@
       "title": "Trivy Security Scanner GitHub Actions Breached, 75 Tags Hijacked to Steal CI/CD Secrets",
       "url": "https://thehackernews.com/2026/03/trivy-security-scanner-github-actions.html",
       "published": "2026-03-20T17:47:00+00:00",
-      "summary": "Trivy, a popular open-source vulnerability scanner maintained by Aqua Security, was compromised a second time within the span of a month to deliver malware that stole sensitive CI/CD secrets.\nThe latest incident impacted GitHub Actions \"aquasecurity/trivy-action\" and \"aquasecurity/setup-trivy,\" which are used to scan Docker container images for vulnerabilities and set up GitHub Actions workflow",
+      "summary": "Trivy, a popular open-source vulnerability scanner maintained by Aqua Security, was compromised a second time within the span of a month to deliver malware capable of stealing sensitive CI/CD secrets.\nThe latest incident impacted GitHub Actions \"aquasecurity/trivy-action\" and \"aquasecurity/setup-trivy,\" which are used to scan Docker container images for vulnerabilities and set up GitHub Actions",
       "source": "The Hacker News",
       "region": "North America",
       "country": "US",
@@ -627,39 +660,6 @@
       "region": "North America",
       "country": "US",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVzS5AAXyP_Q8mGS7-ZejQUI5zUDhpgZ64cEqrWMzNKqSKhI1ruMBwk3fI_eOC0LA8CvuiQQjDlWbFm8PXgUilTaauAIv2pC5rM6pnZBLRqpE9AifLnZTbkkF4dXLf9Ngr30qtvowTYLqbH2sPF6sd6mgA74AbHqtZ9dVhjvvMW68luK5nuNCWbe3ftuLG/s1600/router.jpg"
-    },
-    {
-      "id": "f34b9cdd4d88e7512e8850ce453c973b855fff2a",
-      "title": "Veeam Patches 7 Critical Backup & Replication Flaws Allowing Remote Code Execution",
-      "url": "https://thehackernews.com/2026/03/veeam-patches-7-critical-backup.html",
-      "published": "2026-03-13T04:15:00+00:00",
-      "summary": "Veeam has released security updates to address multiple critical vulnerabilities in its Backup &amp; Replication software that, if successfully exploited, could result in remote code execution.\nThe vulnerabilities are as follows -\n\nCVE-2026-21666 (CVSS score: 9.9) - A vulnerability that allows an authenticated domain user to perform remote code execution on the Backup Server.\nCVE-2026-21667 (",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVixoCttO0Li1BNrJG6s8rsycHEzgVh52YFA_RHnrq4QMjt3fPQuKCJfw8rqCMZtgrSGrXxpPvTyhWQ_rD0D44_3TvBfNC0Eq_VRSWIqDFpDFdKdHMwQIidTX8E4Kc4iiWt3xcwhW_YC8oKLTZFMWN-uyCUjtIavnhXRHbs3gJOLuTUI1zg79tkK4gpsaQ/s1600/veeam.png"
-    },
-    {
-      "id": "4815ad1838dbf986522908cb921181f16ad39471",
-      "title": "Rust-Based VENON Malware Targets 33 Brazilian Banks with Credential-Stealing Overlays",
-      "url": "https://thehackernews.com/2026/03/rust-based-venon-malware-targets-33.html",
-      "published": "2026-03-12T17:31:00+00:00",
-      "summary": "Cybersecurity researchers have disclosed details of a new banking malware targeting Brazilian users that's written in Rust, marking a significant departure from other known Delphi-based malware families associated with the Latin American cybercrime ecosystem.\nThe malware, which is designed to infect Windows systems and was first discovered last month, has been codenamed VENON by Brazilian",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjBG0q0txzazIOX6qmjJRAOlDmf27AY4QSQqf6Yqm4RUF6iNRgbo4T9mFhUoYDved5zs0MBrJYPTjpGhvs0ZWjUhlckqK97St9FlJrVT2BOKfslWcA_42FOySa0HT7razFyzHt2AKP76uwVzjDvYTwkNTs2M-TeC7Ospf0uLvbI6OGYhWh7Lf33DA9gCUt/s1600/banking-trojan.jpg"
-    },
-    {
-      "id": "e87c9696bf22b15a41e464416b387fd0279dd888",
-      "title": "Hive0163 Uses AI-Assisted Slopoly Malware for Persistent Access in Ransomware Attacks",
-      "url": "https://thehackernews.com/2026/03/hive0163-uses-ai-assisted-slopoly.html",
-      "published": "2026-03-12T17:02:00+00:00",
-      "summary": "Cybersecurity researchers have disclosed details of a suspected artificial intelligence (AI)-generated malware codenamed Slopoly put to use by a financially motivated threat actor named Hive0163.\n\"Although still relatively unspectacular, AI-generated malware such as Slopoly shows how easily threat actors can weaponize AI to develop new malware frameworks in a fraction of the time it used to take",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAvQYbgT2Bzyhv6lldqV781Ec5C2EKl2Y-ezdEDwakAZnizcub5ZIyJxZKg-fouq4L04gr_sNDHb5JPVhoOYYRKLnzo_TQqAiOFCPycF2EfjVA2wpA3ak9ZgfUFXCi_O9Pwx2GdtCDo3u6PFlheeR9IC2OMfGF5XZ8Cr-53uP01xsQxEGDQ8AO3rbvka8e/s1600/ransomware-ai.jpg"
     },
     {
       "id": "b2bc417a75212a4f22aac1ceede629da50854520",
@@ -1212,6 +1212,39 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0545789d5e2ff1e7/698ce0c84229558aa7937805/car-Henrik5000-iStock_15613460_MEDIUM.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
+      "id": "88c7649243d4cf9eaa13818ff5112d9dba5b39d7",
+      "title": "RSAC 2026: Uncle Sam backs out, and AI agents are everywhere",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/23/rsa_2026_san_francisco/",
+      "published": "2026-03-23T12:24:50+00:00",
+      "summary": "<h4>Infosec pros descend on San Francisco</h4> <p><strong>kettle</strong>\u00a0 When El Reg cybersecurity editor Jessica Lyons joins infosec industry colleagues in San Francisco for RSAC 2026 this week, she's expecting agentic AI to be on everyone's lips - at least those who aren't busy gossiping about the lack of presence from any representatives of the US federal government.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "60e192b4fa615f7b44ab17d88fdb61ee88974512",
+      "title": "Microsoft fixes broken Windows update days after vowing fewer broken updates",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/23/emergency_fix_windows_11/",
+      "published": "2026-03-23T11:24:37+00:00",
+      "summary": "<h4>The era of reliability begins... right after this out-of-band patch</h4> <p>Microsoft has released an out-of-band update to resolve bugs introduced by a Windows patch just days after promising improved reliability.\u2026</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "aa2b2589e788ad86a2eabc5b9dfc0d90b3567e0b",
+      "title": "The drone swarm is coming, and NATO air defenses are too expensive to cope",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/23/nato_air_defenses/",
+      "published": "2026-03-23T10:14:12+00:00",
+      "summary": "<h4>Ukraine's battlefield lessons show quantity and affordability now trump exquisite hardware</h4> <p>NATO is unprepared to deal with attacks by cheap, mass-produced drones and urgently needs layered, affordable air defense systems to counter the threat, taking a cue from the experience gained by Ukrainian forces over the past four years.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "ce5f9b6d167164000af707db3908f9042cf9f0ad",
       "title": "Russians are posing as Signal support to launch phishing attacks",
       "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/22/russian_messaging_support_phishing_scam/",
@@ -1729,39 +1762,6 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "165d470b9cf0ea73072d14e7aa7af4143a94e753",
-      "title": "Crooks compromise WordPress sites to push infostealers via fake CAPTCHA prompts",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/10/crooks_hijack_wordpress_sites/",
-      "published": "2026-03-10T16:29:14+00:00",
-      "summary": "<h4>Rapid7 says crims broke into more than 250 sites globally, including a US Senate candidate\u2019s campaign page</h4> <p>Cyber baddies quietly compromised legitimate WordPress websites, including the campaign site of a US Senate candidate, turning them into launchpads for a global infostealer operation.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "0f8754f396d847789b2a7546f9448b45af876f46",
-      "title": "Fake job applications pack malware that kills endpoint detection before stealing data",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/10/malware_targeting_hr/",
-      "published": "2026-03-10T13:31:11+00:00",
-      "summary": "<h4>Russian-speaking attackers lure HR staff into downloading ISO files that disable defenses</h4> <p>A Russian-speaking cyber criminal is targeting corporate HR teams with fake CVs that quietly install malware which can disable security tools before stealing data from infected machines.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "a0b92810ad666585c3e2765d018d51fd1113461d",
-      "title": "Ericsson blames vendor vishing slip-up for breach exposing thousands of records",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/10/ericsson_blames_vendor_vishing_slipup/",
-      "published": "2026-03-10T12:16:28+00:00",
-      "summary": "<h4>Crooks used simple phone scam to compromise vendor account, spilling personal and financial data belonging to more than 15,000 people</h4> <p>A voice-phishing scam targeting one of Ericsson's service providers has exposed the personal data of more than 15,000 individuals after attackers sweet-talked an employee into handing over access.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
       "id": "4c218981900dfb4ec5f0a27ffe536f389ad55b35",
       "title": "Feds Disrupt IoT Botnets Behind Huge DDoS Attacks",
       "url": "https://krebsonsecurity.com/2026/03/feds-disrupt-iot-botnets-behind-huge-ddos-attacks/",
@@ -1812,6 +1812,39 @@
       "published": "2026-02-28T12:01:57+00:00",
       "summary": "In early January 2026, KrebsOnSecurity revealed how a security researcher disclosed a vulnerability that was used to assemble Kimwolf, the world's largest and most disruptive botnet. Since then, the person in control of Kimwolf -- who goes by the handle \"Dort\" -- has coordinated a barrage of distributed denial-of-service (DDoS), doxing and email flooding attacks against the researcher and this author, and more recently caused a SWAT team to be sent to the researcher's home. This post examines what is knowable about Dort based on public information.",
       "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "400c983a88d51b52f29524086e026bc3eb1a2974",
+      "title": "QNAP Patches Four Vulnerabilities Exploited at Pwn2Own",
+      "url": "https://www.securityweek.com/qnap-patches-four-vulnerabilities-exploited-at-pwn2own/",
+      "published": "2026-03-23T11:09:16+00:00",
+      "summary": "<p>The flaws could allow attackers to access sensitive information, execute code, or cause unexpected behavior.</p>\n<p>The post <a href=\"https://www.securityweek.com/qnap-patches-four-vulnerabilities-exploited-at-pwn2own/\">QNAP Patches Four Vulnerabilities Exploited at Pwn2Own\u00a0</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "0847152137836aa14d83f6cce1566813bd063839",
+      "title": "Tycoon 2FA Fully Operational Despite Law Enforcement Takedown",
+      "url": "https://www.securityweek.com/tycoon-2fa-fully-operational-despite-law-enforcement-takedown/",
+      "published": "2026-03-23T10:29:52+00:00",
+      "summary": "<p>Attack volumes are back to pre-disruption levels, and the adversary tactics have remained unchanged.</p>\n<p>The post <a href=\"https://www.securityweek.com/tycoon-2fa-fully-operational-despite-law-enforcement-takedown/\">Tycoon 2FA Fully Operational Despite Law Enforcement Takedown</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "b03ee4fadd2a9d08ea1df677e0524bd1e7277ff9",
+      "title": "Oracle Releases Emergency Patch for Critical Identity Manager Vulnerability",
+      "url": "https://www.securityweek.com/oracle-releases-emergency-patch-for-critical-identity-manager-vulnerability/",
+      "published": "2026-03-23T05:34:43+00:00",
+      "summary": "<p>CVE-2026-21992 can be used without authentication for remote code execution and it may have been exploited in the wild.\u00a0</p>\n<p>The post <a href=\"https://www.securityweek.com/oracle-releases-emergency-patch-for-critical-identity-manager-vulnerability/\">Oracle Releases Emergency Patch for Critical Identity Manager Vulnerability</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
@@ -1888,39 +1921,6 @@
       "url": "https://www.securityweek.com/navia-data-breach-impacts-2-7-million/",
       "published": "2026-03-20T11:02:08+00:00",
       "summary": "<p>Between late December 2025 and mid-January 2026, hackers stole personal and health plan information from Navia\u2019s environment.</p>\n<p>The post <a href=\"https://www.securityweek.com/navia-data-breach-impacts-2-7-million/\">Navia Data Breach Impacts 2.7 Million</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "05eff331dc665d4c67c8f9c9123f7ed377c75495",
-      "title": "Thousands of Magento Sites Hit in Ongoing Defacement Campaign",
-      "url": "https://www.securityweek.com/thousands-of-magento-sites-hit-in-ongoing-defacement-campaign/",
-      "published": "2026-03-20T10:36:51+00:00",
-      "summary": "<p>The attacks started on February 27 and have targeted e-commerce platforms, global brands, and government services.</p>\n<p>The post <a href=\"https://www.securityweek.com/thousands-of-magento-sites-hit-in-ongoing-defacement-campaign/\">Thousands of Magento Sites Hit in Ongoing Defacement Campaign</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "aa4659dbde374f5dfa1b5eda88aaf1cdc8c39e31",
-      "title": "Allure Security Raises $17 Million for Online Brand Protection",
-      "url": "https://www.securityweek.com/allure-security-raises-17-million-for-online-brand-protection/",
-      "published": "2026-03-20T09:09:59+00:00",
-      "summary": "<p>The company will invest in expanding its digital brand protection platform and in scaling its go-to-market efforts.</p>\n<p>The post <a href=\"https://www.securityweek.com/allure-security-raises-17-million-for-online-brand-protection/\">Allure Security Raises $17 Million for Online Brand Protection</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "09a401337eb5556255d0ea8168ebddffa3168a1c",
-      "title": "Critical Langflow Vulnerability Exploited Hours After Public Disclosure",
-      "url": "https://www.securityweek.com/critical-langflow-vulnerability-exploited-hours-after-public-disclosure/",
-      "published": "2026-03-20T08:38:56+00:00",
-      "summary": "<p>Because attacker-supplied flow data is used in public flows, the bug leads to unauthenticated remote code execution.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-langflow-vulnerability-exploited-hours-after-public-disclosure/\">Critical Langflow Vulnerability Exploited Hours After Public Disclosure</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
