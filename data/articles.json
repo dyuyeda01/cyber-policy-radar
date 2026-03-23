@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-22T12:22:04.545561+00:00",
+  "generated_at": "2026-03-23T01:04:13.318030+00:00",
   "items": [
     {
       "id": "50fab93d20fda81596679059b1764585bca1828e",
@@ -1212,6 +1212,17 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0545789d5e2ff1e7/698ce0c84229558aa7937805/car-Henrik5000-iStock_15613460_MEDIUM.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
+      "id": "ce5f9b6d167164000af707db3908f9042cf9f0ad",
+      "title": "Russians are posing as Signal support to launch phishing attacks",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/22/russian_messaging_support_phishing_scam/",
+      "published": "2026-03-22T22:12:06+00:00",
+      "summary": "<h4>PLUS: US takes down Iranian propaganda sites; Marketing company asks 'Why Do We Have Your Information?' And more!</h4> <p><strong>Infosec In Brief</strong>\u00a0 Russian intelligence-affiliated parties are posing as customer support services on commercial messaging applications such as Signal to compromise accounts and conduct phishing attacks, the FBI and Cybersecurity and Infrastructure Security Agency (CISA) warned last Friday.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "8b39c043e0ab39825d469bca03ed2f6835e18c23",
       "title": "Cryptographers engage in war of words over RustSec bug reports and subsequent ban",
       "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/20/cryptographer_nadim_kobeissi_rustsec_ban/",
@@ -1751,17 +1762,6 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "e2eb17e17874b21c4d4039d63c66d0b28d5571b1",
-      "title": "Protecting democracy means democratizing cybersecurity. Bring on the hackers",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/10/democratizing_security_opinion/",
-      "published": "2026-03-10T12:09:31+00:00",
-      "summary": "<h4>Digital freedom needs a Kali Linux for the rest of us</h4> <p><strong>Opinion</strong>\u00a0 The hacker mind is a curious way to be. To have it means to embody endless analytical curiosity, an awareness of any given rule set as just one system among many, and an ability to see any system in ways that its creators never expected. Combine this with a drive to find the bad and make things better, and you become one of the fundamental forces of the technological universe.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
       "id": "4c218981900dfb4ec5f0a27ffe536f389ad55b35",
       "title": "Feds Disrupt IoT Botnets Behind Huge DDoS Attacks",
       "url": "https://krebsonsecurity.com/2026/03/feds-disrupt-iot-botnets-behind-huge-ddos-attacks/",
@@ -1811,17 +1811,6 @@
       "url": "https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/",
       "published": "2026-02-28T12:01:57+00:00",
       "summary": "In early January 2026, KrebsOnSecurity revealed how a security researcher disclosed a vulnerability that was used to assemble Kimwolf, the world's largest and most disruptive botnet. Since then, the person in control of Kimwolf -- who goes by the handle \"Dort\" -- has coordinated a barrage of distributed denial-of-service (DDoS), doxing and email flooding attacks against the researcher and this author, and more recently caused a SWAT team to be sent to the researcher's home. This post examines what is knowable about Dort based on public information.",
-      "source": "Krebs on Security",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "04b6bbeedfed18aaa5c090a56c3e2fba0ba6ebef",
-      "title": "\u2018Starkiller\u2019 Phishing Service Proxies Real Login Pages, MFA",
-      "url": "https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/",
-      "published": "2026-02-20T20:00:30+00:00",
-      "summary": "Most phishing websites are little more than static copies of login pages for popular online destinations, and they are often quickly taken down by anti-abuse activists and security firms. But a stealthy new phishing-as-a-service offering lets customers sidestep both of these pitfalls: It uses cleverly disguised links to load the target brand's real website, and then acts as a relay between the target and the legitimate site -- forwarding the victim's username, password and multi-factor authentication (MFA) code to the legitimate site and returning its responses.",
       "source": "Krebs on Security",
       "region": "Global",
       "country": "GL",
