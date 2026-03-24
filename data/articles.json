@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-03-24T00:57:08.467420+00:00",
+  "generated_at": "2026-03-24T12:39:03.007540+00:00",
   "items": [
+    {
+      "id": "234faf90d35512ba6e4bee263da6a573a9f33e07",
+      "title": "ISACs confront AI\u2019s promise and peril for threat intelligence-sharing",
+      "url": "https://www.cybersecuritydive.com/news/ai-isacs-threat-intelligence-information-sharing-trust/815499/",
+      "published": "2026-03-23T22:40:00+00:00",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/TcFNO11nphH0cp2Bxjxobf1GdUd5EfXAveYZc3hNmA8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9QWExfMjAyNjAzMjNfMjE0ODM0OTY5LmpwZw==.webp\" /></div></figure><p>Any use of AI for ISAC work must preserve members&rsquo; trust, representatives of three critical infrastructure sectors said.</p>",
+      "source": "Cybersecurity Dive",
+      "region": "North America",
+      "country": "US",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
     {
       "id": "6822b32211c40d3ed64919275be961ee2855f065",
       "title": "AI poised to most help low-skilled hackers in the near term",
@@ -101,15 +112,70 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "85ae119612679b468a68b47167e2cc261a739c87",
-      "title": "Threat groups target cyber-physical systems to disrupt critical infrastructure providers",
-      "url": "https://www.cybersecuritydive.com/news/threat-groups-target-cyber-physical-systems-to-disrupt-critical-infrastruct/815074/",
-      "published": "2026-03-18T15:19:21+00:00",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/-x_1UzDLDvVr0B0JMHHtEv0B4nGInBoR6iFjK_w1wnc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDExNDM3NjI1LmpwZw==.webp\" /></div></figure><p>The Iran war has raised concerns that key industrial sectors could be the target of hacktivists, state actors and other groups.</p>",
-      "source": "Cybersecurity Dive",
+      "id": "631d4d6268a857b22048b9f8de1c35996362d210",
+      "title": "Ghost Campaign Uses 7 npm Packages to Steal Crypto Wallets and Credentials",
+      "url": "https://thehackernews.com/2026/03/ghost-campaign-uses-7-npm-packages-to.html",
+      "published": "2026-03-24T12:00:00+00:00",
+      "summary": "Cybersecurity researchers have uncovered a new set of malicious npm packages that are designed to steal cryptocurrency wallets and sensitive data.\nThe activity is being tracked by ReversingLabs as the Ghost campaign. The list of identified packages, all published by a user named mikilanjillo, is below -\n\nreact-performance-suite\nreact-state-optimizer-core\nreact-fast-utilsa\nai-fast-auto-trader",
+      "source": "The Hacker News",
       "region": "North America",
       "country": "US",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlh6CuYJhvsInqih03x9cvHFvmbF-F8DFJF_Y9VQMslT9g5yp_jhDewDUjcvUlAMzyKbfOHz0eMdFqHdIGwbtOY0MOHDGr_lA1TraO34SwYiKrieNnOQsAo5DbKhpJCp2X60_0epyBiBDs-KRgFjhR0QEPMmTRBCvJCiiQaJg7MaRCLf3EHcrIdluUrmJ-/s1600/1000062391.jpg"
+    },
+    {
+      "id": "0284f700e21f07b471a5c08c5173efd4d8bd0500",
+      "title": "5 Learnings from the First-Ever Gartner Market Guide for Guardian Agents",
+      "url": "https://thehackernews.com/2026/03/5-learnings-from-first-ever-gartner.html",
+      "published": "2026-03-24T11:37:00+00:00",
+      "summary": "On February 25, 2026, Gartner published its inaugural Market Guide for Guardian Agents, marking an important milestone for this emerging category. For those unfamiliar with the various Gartner report types, \u201ca Market Guide defines a market and explains what clients can expect it to do in the short term. With the focus on early, more chaotic markets, a Market Guide does not rate or position",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNlBFOfxbwROPKI6W1sccbKKW4Dx3IGIQi1AnDrQqKxY1xaVxZv9gip61deVh8UNN1xLX6l3fOEm8pKGrHLSddhT8WS7w70a5FDT3eyew3xxDjCOC8QCYK7hERW2ILTYMfS9Giq4asN2G4SvYITRiVeqlZcN53LG8OG7hkQ5C6J8bAVokCe0a0oBkuNMlS/s1600/Cover-v1.gif"
+    },
+    {
+      "id": "052606e3ecb39c25695c78e87eaf4e7be799e4be",
+      "title": "TeamPCP Hacks Checkmarx GitHub Actions Using Stolen CI Credentials",
+      "url": "https://thehackernews.com/2026/03/teampcp-hacks-checkmarx-github-actions.html",
+      "published": "2026-03-24T10:38:00+00:00",
+      "summary": "Two more GitHub Actions workflows have become the latest to be compromised by credential-stealing malware by a threat actor known as TeamPCP, the cloud-native cybercriminal operation also behind the Trivy supply chain attack.\nThe workflows, both maintained by the supply chain security company Checkmarx, are listed below -\n\ncheckmarx/ast-github-action\ncheckmarx/kics-github-action\n\nCloud security",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhs6mMRIch1O4gn0txxM6yMSRtvi7D0xmBbphFA0WJimqGO4k48KNvAbF_-an7swi-N0ZHOB2jt1WtJQjubozx7WzJH6Kr0CA0rCkP4TNUHR2NkC8NS6RaJDF9WUyZeyzUIG1NQtK_Betxs3h0gaxKqHMs7laaHTVXSiCMo-vbS_owFokGrDqN9NG7jdwRf/s1600/git-check.jpg"
+    },
+    {
+      "id": "1834ba104e5201920199b05752450dbd211d6698",
+      "title": "The Hidden Cost of Cybersecurity Specialization: Losing Foundational Skills",
+      "url": "https://thehackernews.com/2026/03/the-hidden-cost-of-cybersecurity.html",
+      "published": "2026-03-24T10:00:00+00:00",
+      "summary": "Cybersecurity has changed fast. Roles are more&nbsp;specialized, and tooling is more advanced. On paper, this should make organizations more secure. But in practice, many teams struggle with the same basic problems they faced years ago: unclear risk priorities, misaligned tooling decisions, and difficulty explaining security issues in terms the business understands. \nThese challenges do not",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQpYFvavgLT2A2jdfoBL7Wp9ezuo1HDTIJiE8s2Pa5KXH-TOCWZqUGhcg6xb2WBpXtHUpH-tqYI3zUXmr-rWNM_crdZHIda5PaWdxskk39iOZqxz0ltvvh-VenOPTRqpUxX8J2uLL86_eljgWE-AOZPbm7OSrhsj23k7usKY2BTvHDTsscJ8GyQClclZA/s1600/cloud-network.jpg"
+    },
+    {
+      "id": "975dbf3679500ea1495bb1c4bee7d5466d43d6fd",
+      "title": "U.S. Sentences Russian Hacker to 6.75 Years for Role in $9M Ransomware Damage",
+      "url": "https://thehackernews.com/2026/03/us-sentences-russian-hacker-to-675.html",
+      "published": "2026-03-24T06:49:00+00:00",
+      "summary": "A 26-year-old Russian citizen has been sentenced in the U.S. to 6.75 years (81 months) in prison for his role in assisting major cybercrime groups, including the Yanluowang ransomware crew, in conducting numerous attacks against U.S. companies and other organizations.\nAccording to the U.S. Department of Justice (DoJ), Aleksei Olegovich Volkov facilitated dozens of ransomware attacks across the",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiwErtmK3J6s3ZBAWrZmJFdn-SsFPTX_zrl0bvQ9n-ZCC1ENEur-h3l19pl6UP2D2HOJPXbanjebnde0RSf2-ER98dzy3FUdTBcM8OzdWmcc3hXf7ZEq7nlF13RMlR7WYNGwjxKF6stgY-oBOa8aUjxYb7wEyi6oEUZTHUFnGX4zmAjumNGhIUXscatWTn/s1600/ransomware-hacker.jpg"
+    },
+    {
+      "id": "c4fc841a7aefd95c37a0100a68ecc93ef8bfe102",
+      "title": "Citrix Urges Patching Critical NetScaler Flaw Allowing Unauthenticated Data Leaks",
+      "url": "https://thehackernews.com/2026/03/citrix-urges-patching-critical.html",
+      "published": "2026-03-24T05:59:00+00:00",
+      "summary": "Citrix has released security updates to address two vulnerabilities in NetScaler ADC and NetScaler Gateway, including a critical flaw that could be exploited to leak sensitive data from the application.\nThe vulnerabilities are listed below -\n\nCVE-2026-3055 (CVSS score: 9.3) - Insufficient input validation leading to memory overread\nCVE-2026-4368 (CVSS score: 7.7) - Race condition leading to user",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMCnGCq_DsAE40JVqQy2HjOcbqucRBcpx0JOpEQM9SZplWbse_yzvfQGRG8Uux9NVkQhQrHYzTIlb3b58b47kkLOfIBcxeaMVT7SlUjBSr3URnME7qL5P3ZqJgVw3bGX0NY_hYsvhAbTTJ7PZk-mmpl949AALvrsV0JkZEQD82ah-B2jlOBz-oGC-P4xaY/s1600/citrix.jpg"
     },
     {
       "id": "28b3960f0215ae722efd01fcfc643fd1e6856b8f",
@@ -596,70 +662,15 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2mVucJhli25A25joXcap-ewfeMT1Vh-95wQKQfGOue7PwZJ1_55YsG8OQ1DQF7WVOU8tsOy73kGDzgfpTLLeqTYQ1k9LqrFWTNavDmfvCV-9IIER9PfrRsdg1wA5UzpIMrer3xC1mBClBzKkaT6pfczDbppMjZM7afcWu-RURquDGrEfjq3vVBsmlltLm/s1600/open-clawss.jpg"
     },
     {
-      "id": "21c8042cf867e8d4643246b927d82de1ed6a3163",
-      "title": "GlassWorm Supply-Chain Attack Abuses 72 Open VSX Extensions to Target Developers",
-      "url": "https://thehackernews.com/2026/03/glassworm-supply-chain-attack-abuses-72.html",
-      "published": "2026-03-14T12:55:00+00:00",
-      "summary": "Cybersecurity researchers have flagged a new iteration of the GlassWorm campaign that they say represents a \"significant escalation\" in how it propagates through the Open VSX registry.\n\"Instead of requiring every malicious listing to embed the loader directly, the threat actor is now abusing extensionPack and extensionDependencies to turn initially standalone-looking extensions into transitive",
-      "source": "The Hacker News",
+      "id": "02501d8ba6400ecf63b3aa8dd3e406849acadddb",
+      "title": "Microsoft Proposes Better Identity, Guardrails for AI Agents",
+      "url": "https://www.darkreading.com/identity-access-management-security/microsoft-proposes-better-identity-guardrails-ai-agents",
+      "published": "2026-03-24T12:28:25+00:00",
+      "summary": "Companies need better controls to manage key threats rising from the growth of agentic AI. These new features provide a starting point.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4d-2XpiCS0UYnMWh32sQEJP9LnlN_m7m2hok9CnY_vu05XXwWn4INodYCvrEdweEzpho7XqcuOFvEPnnEWlHCRa_q3HY3V5O_ii35MVWAimRwsgrpNQrvGqeUchhZ48FRUl91zTpYQdLMRxVvRjV_T8GEm-J9mnMesefzlgeaoE_EU7Ba32liTr63SsQq/s1600/open.jpg"
-    },
-    {
-      "id": "80b1fcc22b33edb3b1cf408232cc015ced84f6bb",
-      "title": "Chinese Hackers Target Southeast Asian Militaries with AppleChris and MemFun Malware",
-      "url": "https://thehackernews.com/2026/03/chinese-hackers-target-southeast-asian.html",
-      "published": "2026-03-13T17:33:00+00:00",
-      "summary": "A suspected China-based cyber espionage operation has targeted Southeast Asian military organizations as part of a state-sponsored campaign that dates back to at least 2020.\nPalo Alto Networks Unit 42 is tracking the threat activity under the moniker CL-STA-1087, where CL refers to cluster, and STA stands for state-backed motivation.\n\"The activity demonstrated strategic operational patience and",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzrOk1hLgfo5WibM8DV2JEqpyhy4SAs-pmNPJ9lflvC8CLCTEGabnzpAk9XlUmyY3EmJI-_SnGCqDA4C-A1nwD7LKbC6SCiAyTziw9KtzqZWYkARHbidARtOH-SxtUh80Cy3WJrKRR_U1E2ETOr72gQGAEhTaM1WHTm-vTDwru1ypZmmMBlC6fmVQp6IPL/s1600/dll.jpg"
-    },
-    {
-      "id": "a31f192cb7aa8189d7da47e91933455509021d14",
-      "title": "Meta to Shut Down Instagram End-to-End Encrypted Chat Support Starting May 2026",
-      "url": "https://thehackernews.com/2026/03/meta-to-shut-down-instagram-end-to-end.html",
-      "published": "2026-03-13T17:09:00+00:00",
-      "summary": "Meta has announced plans to discontinue support for end-to-end encryption (E2EE) for chats on Instagram after May 8, 2026.\n\"If you have chats that are impacted by this change, you will see instructions on how you can download any media or messages you may want to keep,\" the social media giant said in a help document. \"If you're on an older version of Instagram, you may also need to update the",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgw1H50jEav77qEtezzwtuvWZF5YuaWWn_kwLx0sOZn8SBXFrcsqI5fwRoubG8lKN5T3xX_L5nLkfuQl-lavBiPJVvzZKZyK_KC_SjMJPJBVRGiTqxRJ0cbwxWyMban16y1KTNLeRzbesp_cxbpbd2gB8mxKSfV3pgO66kQf3xoLDFQB7MpH3vNRhYYjeyw/s1600/instagram.jpg"
-    },
-    {
-      "id": "d049216e689fc14c8f9dc726a7213cda4962b221",
-      "title": "INTERPOL Dismantles 45,000 Malicious IPs, Arrests 94 in Global Cybercrime",
-      "url": "https://thehackernews.com/2026/03/interpol-dismantles-45000-malicious-ips.html",
-      "published": "2026-03-13T15:20:00+00:00",
-      "summary": "INTERPOL on Friday announced the takedown of 45,000 malicious IP addresses and servers used in connection with phishing, malware, and ransomware campaigns, as part of the agency's ongoing efforts to dismantle criminal networks, disrupt emerging threats, and safeguard victims from scams.\nThe effort is part of an international law enforcement operation that involved 72 countries and territories.",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwam91c_LDbgwJb9W7Op3ENyT1BX3vzALg2WSk7s8J1QFMNYVES8F_i1KqCw-jCad0-64HTyo9EmVMEkd0jOoZaTWQFVO57DOBtx7x1PJqCepEYivGHLu_IAkCzBlzrx91izrAJ3NRMpXNvU2JOplVI3Gr7cusWU85AF9h_UoAIE3PGV2M2wG6M4J5yC_X/s1600/interpol.jpg"
-    },
-    {
-      "id": "cce9c0b54893216784208df387ec9c717bd0f3c5",
-      "title": "Storm-2561 Spreads Trojan VPN Clients via SEO Poisoning to Steal Credentials",
-      "url": "https://thehackernews.com/2026/03/storm-2561-spreads-trojan-vpn-clients.html",
-      "published": "2026-03-13T13:38:00+00:00",
-      "summary": "Microsoft has disclosed details of a credential theft campaign that employs fake virtual private network (VPN) clients distributed through search engine optimization (SEO) poisoning techniques.\n\"The campaign redirects users searching for legitimate enterprise software to malicious ZIP files on attacker-controlled websites to deploy digitally signed trojans that masquerade as trusted VPN clients",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIHmOuzh2pt4Kd3D5FVJ3ryojQF5XMf6q51cdyxus7nMy4suicQ1RNW3_sjRA6OgE3H-JXTOoxz9wwMqEZQbJb9SXS7DOYTVUBK1MszgQoAR6rGGTgunHDAKM7NfOTkK-W2U9_5rT0Un6xn-cwMnGipbokPav0UoDL7eyQkKIrrKwa2h0BgCFqwuZe598R/s1600/vpn-download.jpg"
-    },
-    {
-      "id": "56a5498b85cdd3c8bd253778265cff16c354e95f",
-      "title": "Investigating a New Click-Fix Variant",
-      "url": "https://thehackernews.com/2026/03/investigating-new-click-fix-variant.html",
-      "published": "2026-03-13T13:28:00+00:00",
-      "summary": "Disclaimer: This report has been prepared by the Threat Research Center to enhance cybersecurity awareness and support the strengthening of defense capabilities. It is based on independent research and observations of the current threat landscape available at the time of publication. The content is intended for informational and preparedness purposes only.\nRead more blogs around threat",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAy3Jm9mBV4SvNdfv5AJ_ZIKoJSwtUVeXkiFUNwKFUN3F5j3kYJTpD1a65PEcgqX2cMT0DmtJJ7YCrYuhElQ9nhYtQkXRtQxnkpOqTgSUOCAJgO8Lv8HDWZxVuy74vgjErtUYrHPH-UrWLfLoL18i__L9a-6T1xdgMPjsTamIOab3KGcJE3kzxz5aR8tm8/s1600/eviden.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt534e2f0ca2719343/69c1a44f0737d5426418aa1c/human-AI-fingers-touching-nuclear_lily-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "id": "f489039d967da77d6c3e448f6e0e9ba715e89a78",
@@ -682,6 +693,17 @@
       "region": "North America",
       "country": "US",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt56a20b542c082472/69c1a720f5bbfd6de1b8a688/supplychain_ImageFlow_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
+      "id": "01c1c291e5c9f1450a3c1960a10ee0d43d3b16c0",
+      "title": "Ransomware's New Era: Moving at AI Speed",
+      "url": "https://www.darkreading.com/endpoint-security/ransomware-new-era-moving-ai-speed",
+      "published": "2026-03-23T21:40:37+00:00",
+      "summary": "Threat actors bypass security tools and use AI to launch faster ransomware attacks that exploit valid credentials and target data",
+      "source": "DarkReading",
+      "region": "North America",
+      "country": "US",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc88c79f37cbb1f97/69c1f6135a8781ad34dc3f65/halcyon-who-benefits-from-ai.png?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "id": "84404fd85f409fa5b3046171eb450d5c81e8ed9f",
@@ -838,17 +860,6 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt10cc6694988697dc/69ba96a3a9cab62c8e5b1dba/claude_RalfLiebhold_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "c33e901d89571f0f7a5e4ab7d83e4363c1738f5e",
-      "title": "SideWinder Espionage Campaign Expands Across Southeast Asia",
-      "url": "https://www.darkreading.com/threat-intelligence/sidewinder-espionage-campaign-expands-across-southeast-asia",
-      "published": "2026-03-18T13:00:00+00:00",
-      "summary": "The suspected India-linked threat group targets governments, telecom, and critical infrastructure using spear-phishing, old vulnerabilities, and rapidly rotating infrastructure to maintain persistent access.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt28c4d1bedaef1b13/69b9c60dfc6bd40f7fba492b/sidewinder-snake-on-sand-dune-Chantelle_Bosch-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
       "id": "c32d6c7faaca3867056ae5dfeb607647589d683d",
       "title": "Researchers: Meta, TikTok Steal Personal &amp; Financial Info When Users Click Ads",
       "url": "https://www.darkreading.com/cyber-risk/meta-tiktok-steal-sensitive-pii",
@@ -858,6 +869,17 @@
       "region": "North America",
       "country": "US",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt30ca0d4bf093c658/69b85abb65cf383bd31f7bee/Eye-Shotshop_GmbH-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
+      "id": "c33e901d89571f0f7a5e4ab7d83e4363c1738f5e",
+      "title": "SideWinder Espionage Campaign Expands Across Southeast Asia",
+      "url": "https://www.darkreading.com/threat-intelligence/sidewinder-espionage-campaign-expands-across-southeast-asia",
+      "published": "2026-03-18T13:00:00+00:00",
+      "summary": "The suspected India-linked threat group targets governments, telecom, and critical infrastructure using spear-phishing, old vulnerabilities, and rapidly rotating infrastructure to maintain persistent access.",
+      "source": "DarkReading",
+      "region": "North America",
+      "country": "US",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt28c4d1bedaef1b13/69b9c60dfc6bd40f7fba492b/sidewinder-snake-on-sand-dune-Chantelle_Bosch-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "id": "6701e7ba8c6019d2697deaa98f006445527be704",
@@ -1190,26 +1212,26 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltba97bdde474d59f9/69b02c2c10c21d00f4563cf1/santa-Tatiana_Koroleva-alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "a2db4e80992d24e7eeed1f034c2bd9f9ebec8c2f",
-      "title": "White House Cyber Strategy Prioritizes Offense",
-      "url": "https://www.darkreading.com/cybersecurity-operations/white-house-cyber-strategy-prioritizes-offense",
-      "published": "2026-03-09T21:09:12+00:00",
-      "summary": "In a seven-page strategy document, the Trump administration signaled a shift to preemption and deterrence to handling cyber threats.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt63e0819f18d54938/69af271b9341160008255f90/uscyber_Skorzewiak_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "id": "fd5799812ac7ab7b2aaf2022443799cb70cc4fc7",
+      "title": "New routers? Made abroad? Yeah, that's going to be a no from Uncle Sam",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/24/fcc_foreign_routers/",
+      "published": "2026-03-24T12:19:36+00:00",
+      "summary": "<h4>Unfortunately, there aren't many options unless you're Starlink</h4> <p>Citing national security fears, America is effectively banning any new consumer-grade network routers made abroad.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "9d49cfcb73f5d035a1efa0b6f98e2ceac6e6ab84",
-      "title": "'InstallFix' Attacks Spread Fake Claude Code Sites",
-      "url": "https://www.darkreading.com/cloud-security/installfix-attacks-fake-claude-code",
-      "published": "2026-03-09T20:42:25+00:00",
-      "summary": "A fresh cyberattack campaign blends malvertising with a ClickFix-style technique that highlights risky behavior with AI coding assistants and command-line interfaces.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9ef0393a6c2b5267/69af1dcdda78b900084831b6/claude_RalfLiebhold_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "id": "9f32829b6c5cfb382b1e3a4183a24e18fe698d97",
+      "title": "Russian initial access broker who fed ransomware crews gets 81 months in US prison",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/24/russian_iab_sentenced/",
+      "published": "2026-03-24T11:32:11+00:00",
+      "summary": "<h4>Aleksei Volkov sentenced after enabling attacks that cost victims millions</h4> <p>A Russian national who sold the keys to corporate networks faces nearly seven years in a US prison after prosecutors tied his handiwork to a string of ransomware attacks costing victims millions of dollars.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
       "id": "5f6903ba13373aac65198f41547edb70cf9a1d0b",
@@ -1740,28 +1762,6 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "4a425c5841a0c8f5bc84b188d1bad0927af251a6",
-      "title": "Meta, international cops use handcuffs and AI to stop scammers",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/11/meta_international_cops_ai_scammers/",
-      "published": "2026-03-11T17:21:30+00:00",
-      "summary": "<h4>150k accounts nuked, 21 suspects arrested</h4> <p>Not every scam starts with malware or a compromised account. Sometimes all it takes is a friend request or a link shared via chat.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "d06d1423c419898b31a99020bf8e69afad4aa460",
-      "title": "ICO fines Police Scotland over data-sharing debacle in gross misconduct case",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/11/ico_fines_police_scotland_over/",
-      "published": "2026-03-11T14:06:01+00:00",
-      "summary": "<h4>Blue-on-blue internal investigation lands force \u00a366k fine</h4> <p>The UK's data protection watchdog has fined Police Scotland \u00a366,000 ($88,000) for what it calls a \"serious failure\" in handling an alleged victim's sensitive data.\u2026</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
       "id": "d5d8869d9ecc385f8111fb9f52449b6dfd78df36",
       "title": "\u2018CanisterWorm\u2019 Springs Wiper Attack Targeting Iran",
       "url": "https://krebsonsecurity.com/2026/03/canisterworm-springs-wiper-attack-targeting-iran/",
@@ -1828,6 +1828,72 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "46ef35bc3cc68ba9ef4fc72db4f04f170c6f22ee",
+      "title": "Webinar Today: Putting CIS Controls and Benchmarks into Practice",
+      "url": "https://www.securityweek.com/webinar-today-putting-cis-controls-and-benchmarks-into-practice/",
+      "published": "2026-03-24T12:30:00+00:00",
+      "summary": "<p>Learn how the CIS Critical Security Controls and the CIS Benchmarks can be used together to support secure configuration at scale. </p>\n<p>The post <a href=\"https://www.securityweek.com/webinar-today-putting-cis-controls-and-benchmarks-into-practice/\">Webinar Today: Putting CIS Controls and Benchmarks into Practice</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "d2d12bddba72b6267448c0fd7bf233bbcd667848",
+      "title": "3.1 Million Impacted by QualDerm Data Breach",
+      "url": "https://www.securityweek.com/3-1-million-impacted-by-qualderm-data-breach/",
+      "published": "2026-03-24T12:23:59+00:00",
+      "summary": "<p>Hackers stole personal, medical, and health insurance information from the company\u2019s internal systems.</p>\n<p>The post <a href=\"https://www.securityweek.com/3-1-million-impacted-by-qualderm-data-breach/\">3.1 Million Impacted by QualDerm Data Breach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "f6c7e2285998b3b8978e091381531a81bbef0c8a",
+      "title": "Iran Built a Vast Camera Network to Control Dissent. Israel Turned It Into a Targeting Tool",
+      "url": "https://www.securityweek.com/iran-built-a-vast-camera-network-to-control-dissent-israel-turned-it-into-a-targeting-tool/",
+      "published": "2026-03-24T12:10:23+00:00",
+      "summary": "<p>The role of Israel\u2019s hijacking of Iran\u2019s street cameras in the killing of the country\u2019s supreme leader underscores how surveillance systems are increasingly being targeted by adversaries in wartime.</p>\n<p>The post <a href=\"https://www.securityweek.com/iran-built-a-vast-camera-network-to-control-dissent-israel-turned-it-into-a-targeting-tool/\">Iran Built a Vast Camera Network to Control Dissent. Israel Turned It Into a Targeting Tool</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "99c07bb4486acf83f54555f9ead6be842ce81fe8",
+      "title": "Critical Citrix NetScaler Vulnerability Poised for Exploitation, Security Firms Warn",
+      "url": "https://www.securityweek.com/critical-citrix-netscaler-vulnerability-poised-for-exploitation-security-firms-warn/",
+      "published": "2026-03-24T11:19:47+00:00",
+      "summary": "<p>An out-of-bounds read vulnerability can be exploited remotely without authentication to read sensitive information from memory.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-citrix-netscaler-vulnerability-poised-for-exploitation-security-firms-warn/\">Critical Citrix NetScaler Vulnerability Poised for Exploitation, Security Firms Warn</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "4c8838144b7f4e7d4cb9d26de2022de4c08d3f84",
+      "title": "Mazda Says Employee, Partner Information Stolen in Cyberattack",
+      "url": "https://www.securityweek.com/mazda-says-employee-partner-information-stolen-in-cyberattack/",
+      "published": "2026-03-24T10:38:44+00:00",
+      "summary": "<p>The hackers stole internal IDs, names, email addresses, and business partner IDs from an internal management system.</p>\n<p>The post <a href=\"https://www.securityweek.com/mazda-says-employee-partner-information-stolen-in-cyberattack/\">Mazda Says Employee, Partner Information Stolen in Cyberattack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "f9fc1dd8b054ddb37af91f5149aada584d5ce66d",
+      "title": "Stryker Says Malicious File Found During Probe Into Iran-Linked Attack",
+      "url": "https://www.securityweek.com/stryker-says-malicious-file-found-during-probe-into-iran-linked-attack/",
+      "published": "2026-03-24T09:30:18+00:00",
+      "summary": "<p>The FBI has published an alert describing the malware used by Iranian government hackers.</p>\n<p>The post <a href=\"https://www.securityweek.com/stryker-says-malicious-file-found-during-probe-into-iran-linked-attack/\">Stryker Says Malicious File Found During Probe Into Iran-Linked Attack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "ce9f9824c0eb12c7f8bc9b126db8f083774b6946",
       "title": "RSAC 2026 Conference Announcements Summary (Pre-Event)",
       "url": "https://www.securityweek.com/rsac-2026-conference-announcements-summary-pre-event/",
@@ -1866,72 +1932,6 @@
       "url": "https://www.securityweek.com/aquas-trivy-vulnerability-scanner-hit-by-supply-chain-attack/",
       "published": "2026-03-23T13:40:52+00:00",
       "summary": "<p>Hackers published a malicious scanner release and replaced tags to point to information-stealer malware.</p>\n<p>The post <a href=\"https://www.securityweek.com/aquas-trivy-vulnerability-scanner-hit-by-supply-chain-attack/\">Aqua&#8217;s Trivy Vulnerability Scanner Hit by Supply Chain Attack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "400c983a88d51b52f29524086e026bc3eb1a2974",
-      "title": "QNAP Patches Four Vulnerabilities Exploited at Pwn2Own",
-      "url": "https://www.securityweek.com/qnap-patches-four-vulnerabilities-exploited-at-pwn2own/",
-      "published": "2026-03-23T11:09:16+00:00",
-      "summary": "<p>The flaws could allow attackers to access sensitive information, execute code, or cause unexpected behavior.</p>\n<p>The post <a href=\"https://www.securityweek.com/qnap-patches-four-vulnerabilities-exploited-at-pwn2own/\">QNAP Patches Four Vulnerabilities Exploited at Pwn2Own\u00a0</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "0847152137836aa14d83f6cce1566813bd063839",
-      "title": "Tycoon 2FA Fully Operational Despite Law Enforcement Takedown",
-      "url": "https://www.securityweek.com/tycoon-2fa-fully-operational-despite-law-enforcement-takedown/",
-      "published": "2026-03-23T10:29:52+00:00",
-      "summary": "<p>Attack volumes are back to pre-disruption levels, and the adversary tactics have remained unchanged.</p>\n<p>The post <a href=\"https://www.securityweek.com/tycoon-2fa-fully-operational-despite-law-enforcement-takedown/\">Tycoon 2FA Fully Operational Despite Law Enforcement Takedown</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "b03ee4fadd2a9d08ea1df677e0524bd1e7277ff9",
-      "title": "Oracle Releases Emergency Patch for Critical Identity Manager Vulnerability",
-      "url": "https://www.securityweek.com/oracle-releases-emergency-patch-for-critical-identity-manager-vulnerability/",
-      "published": "2026-03-23T05:34:43+00:00",
-      "summary": "<p>CVE-2026-21992 can be used without authentication for remote code execution and it may have been exploited in the wild.\u00a0</p>\n<p>The post <a href=\"https://www.securityweek.com/oracle-releases-emergency-patch-for-critical-identity-manager-vulnerability/\">Oracle Releases Emergency Patch for Critical Identity Manager Vulnerability</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "2892e341f7b3d4910818d2cb95caf8d2c8446150",
-      "title": "Critical Quest KACE Vulnerability Potentially Exploited in Attacks",
-      "url": "https://www.securityweek.com/critical-quest-kace-vulnerability-potentially-exploited-in-attacks/",
-      "published": "2026-03-21T11:00:00+00:00",
-      "summary": "<p>The vulnerability is tracked as CVE-2025-32975 and it may have been exploited in attacks against the education sector.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-quest-kace-vulnerability-potentially-exploited-in-attacks/\">Critical Quest KACE Vulnerability Potentially Exploited in Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "4d7013f16b76427233c4f51cbb14c7109b465aae",
-      "title": "In Other News: New Android Safeguards, Operation Alice, UK Toughens Cyber Reporting",
-      "url": "https://www.securityweek.com/in-other-news-new-android-safeguards-operation-alice-uk-toughens-cyber-reporting/",
-      "published": "2026-03-20T15:57:30+00:00",
-      "summary": "<p>Other noteworthy stories that might have slipped under the radar: vulnerabilities found in KVM devices, Claudy Day Claude vulnerabilities, The Gentlemen ransomware group.</p>\n<p>The post <a href=\"https://www.securityweek.com/in-other-news-new-android-safeguards-operation-alice-uk-toughens-cyber-reporting/\">In Other News: New Android Safeguards, Operation Alice, UK Toughens Cyber Reporting</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "305089bdafcf2d49b45692f29d884f862e0023b5",
-      "title": "3 Men Charged With Conspiring to Smuggle US Artificial Intelligence to China",
-      "url": "https://www.securityweek.com/3-men-charged-with-conspiring-to-smuggle-us-artificial-intelligence-to-china/",
-      "published": "2026-03-20T14:43:36+00:00",
-      "summary": "<p>The men violated U.S. export controls laws by scheming to divert massive quantities of the high-performance servers assembled in the United States to China.</p>\n<p>The post <a href=\"https://www.securityweek.com/3-men-charged-with-conspiring-to-smuggle-us-artificial-intelligence-to-china/\">3 Men Charged With Conspiring to Smuggle US Artificial Intelligence to China</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
