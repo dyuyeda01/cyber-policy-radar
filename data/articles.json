@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-26T01:06:50.814304+00:00",
+  "generated_at": "2026-03-26T12:42:57.549273+00:00",
   "items": [
     {
       "id": "ee157759c339389a00d409add89309e353dc1a8b",
@@ -110,6 +110,39 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "3446737c9ba7cf2a07ea0e6c1ff2e0240e1c167c",
+      "title": "[Webinar] Stop Guessing. Learn to Validate Your Defenses Against Real Attacks",
+      "url": "https://thehackernews.com/2026/03/webinar-stop-guessing-learn-to-validate.html",
+      "published": "2026-03-26T11:07:00+00:00",
+      "summary": "Most teams have security tools in place. Alerts are firing, dashboards look clean, threat intel is flowing in. On the surface, everything feels under control.\nBut one question usually stays unanswered: Would your defenses actually stop a real attack?\nThat\u2019s where things get shaky. A control exists, so it\u2019s assumed to work. A detection rule is active, so it\u2019s expected to catch something. But very",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCypzkb6uvHuNx6LKknUqtvQFoqsr6aalztDeBKT1aaUASzfjZMZAZqExx1k0w5iKWl08lx3MxbM_FwWxAvBdZODEerioaMp8OHVvhSjC8VL3uAW9_NMniMl_niggBVhVMdDFu2324YyhW5TrK4fua1PXlrb0DweOULvNgi5mlQUZUct_dIX3OePrfqks/s1600/validate.jpg"
+    },
+    {
+      "id": "7a2ab1f8d1ebb955a7a8ff501055475d2d8cfbf4",
+      "title": "Coruna iOS Kit Reuses 2023 Triangulation Exploit Code in New Mass Attacks",
+      "url": "https://thehackernews.com/2026/03/coruna-ios-kit-reuses-2023.html",
+      "published": "2026-03-26T11:07:00+00:00",
+      "summary": "The kernel exploit for two security vulnerabilities used in the recently uncovered Apple iOS exploit kit known as Coruna is an updated version of the same exploit that was used in the Operation Triangulation campaign back in 2023, according to new findings from Kaspersky.\n\"When Coruna was first reported, the public evidence wasn't sufficient to link its code to Triangulation \u2014 shared",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqfaEjph6_gMDAtZu968xynsgU3AggksTWUUL37NpNq6eQdTXMgQcv4JLSpNNMHSFGkKoHV6K7vmqLZ7bXIkXrHB5jF98F_sN48HDQo0nligJdOjeJ5lOzlUFrVzCKwt2MZDSsOVdfmCAaJV5ofwJN_5yIpTSpAFaZ9GrrytaoivkIr27YA0xqj1DzmbPx/s1600/coruna.jpg"
+    },
+    {
+      "id": "d77751784568b0c148e8e918ee870cbd32b16f47",
+      "title": "WebRTC Skimmer Bypasses CSP to Steal Payment Data from E-Commerce Sites",
+      "url": "https://thehackernews.com/2026/03/webrtc-skimmer-bypasses-csp-to-steal.html",
+      "published": "2026-03-26T06:53:00+00:00",
+      "summary": "Cybersecurity researchers have discovered a new payment skimmer that uses WebRTC data channels as a means to receive payloads and exfiltrate data, effectively bypassing security controls.\n\"Instead of the usual HTTP requests or image beacons, this malware uses WebRTC data channels to load its payload and exfiltrate stolen payment data,\" Sansec said in a report published this week.\nThe attack,",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDIJhct-gQspWhgoCYGYYTokFv7FUIEMJqaILu_8IfMO3siPXFxR9g6eek-vKmgpFFO5QKCLBvl7pK8gFOGf8ZQuR6wVxOeBOxDm43bCBdmLDhPTyIGhoFssJGBUn9in_jfKwIvcyf9TERfomsZOjcPs4CKnYsYyW_jLaX3jbgm-LT4TORzq4g3ik0cB10/s1600/cards.jpg"
     },
     {
       "id": "1df093fc754921683cb7292c81df8877efaf8033",
@@ -629,37 +662,15 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrIGrK9v7gHMVWn2ApD_KeHXedmQ6FwRObZ4ZqEQssbaUU_8qjOSYBBRzZPzK0J8eHdH37Ws_n1u-ESXKJ1WEb4jjFcLn1Tdoj4n0z0wrfFj7X5DKIK8dzKYZ9uLDV2dg6HecUyRdUDkYR1LKkvhkGWBh_anbKF83bvLXUJBeTTwjCDeJ0V2hRAEN1bxhv/s1600/apple-hacking.jpg"
     },
     {
-      "id": "bbc45f04a79cf5cabdee46632df8c5d44b1d2c98",
-      "title": "AI Flaws in Amazon Bedrock, LangSmith, and SGLang Enable Data Exfiltration and RCE",
-      "url": "https://thehackernews.com/2026/03/ai-flaws-in-amazon-bedrock-langsmith.html",
-      "published": "2026-03-17T16:39:00+00:00",
-      "summary": "Cybersecurity researchers have disclosed details of a new method for exfiltrating sensitive data from artificial intelligence (AI) code execution environments using domain name system (DNS) queries.\nIn a report published Monday, BeyondTrust revealed that Amazon Bedrock AgentCore Code Interpreter's sandbox mode permits outbound DNS queries that an attacker can exploit to enable interactive shells",
-      "source": "The Hacker News",
+      "id": "5ef61e1af7e8ef4b70349a32591933fc1b3bcb2c",
+      "title": "Intermediaries Driving Global Spyware Market Expansion",
+      "url": "https://www.darkreading.com/cyber-risk/intermediaries-driving-global-spyware-market-expansion",
+      "published": "2026-03-26T12:04:31+00:00",
+      "summary": "Third-party resellers and brokers foil transparency efforts and allow spyware to spread despite government restrictions, a study finds.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlC6FiLJ9YVGC1W0eo-MmFsPTu2DNqMSdo-QKnv1gdH_HpaKV3zPaWZrQTGNdklpv62BXb3ECiBqlkR1BzLbfz0tFWfMKNM1vZq88yf90XpycB2OSDq3NScWav6ZO_4IVjCWaJRJLwvthFo-7VJ-Uc8qijyycpXfkQRHcPr9pf-QVgGzyOeBFnwfOGnmLN/s1600/lang-ai.jpg"
-    },
-    {
-      "id": "2e7b83a2566b10a372eec8b2e5243e49b310ada0",
-      "title": "LeakNet Ransomware Uses ClickFix via Hacked Sites, Deploys Deno In-Memory Loader",
-      "url": "https://thehackernews.com/2026/03/leaknet-ransomware-uses-clickfix-via.html",
-      "published": "2026-03-17T14:34:00+00:00",
-      "summary": "The ransomware operation known as LeakNet has adopted the ClickFix social engineering tactic delivered through compromised websites as an initial access method.\nThe use of ClickFix, where users are tricked into manually running malicious commands to address non-existent errors, is a departure from relying on traditional methods for obtaining initial access, such as through stolen credentials",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNHJfW8wlD2yQtP3pzAZhSRXNrzlhxXWqqG6GiAH3nbBo44Bz5mQxZ1LtsokhDYs-FC2t8hyphenhyphenY-TlNvck_Rtou9A_AA9lRnKNDRbMxZTpHfAe-6WETM-yJoWzxTANKVWrcZFdu7sax22JeTcWAVwuLKMibTNkLwSRyC0_HfBgCFM6EWqPl5-HbGtJEiSCTC/s1600/leaknet-ransomware.jpg"
-    },
-    {
-      "id": "cf5d89ec696b617dbdf1a3f47a96829057bb3b97",
-      "title": "AI is Everywhere, But CISOs are Still Securing It with Yesterday's Skills and Tools, Study Finds",
-      "url": "https://thehackernews.com/2026/03/ai-is-everywhere-but-cisos-are-still.html",
-      "published": "2026-03-17T11:30:00+00:00",
-      "summary": "A majority of security leaders are struggling to defend AI systems with tools and skills that are not fit for the challenge, according to the AI and Adversarial Testing Benchmark Report 2026 from Pentera.\nThe report, based on a survey of 300 US CISOs and senior security leaders, examines how organizations are securing AI infrastructure and highlights critical gaps tied to skills shortages and",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8f5KRgkqcEs7OtCxyKrJIvPWUOZnbkV5dIFPc5TjDbkAliVww6lOjpuOBZYQw1TF4H28aJZNMY6KkZmnaQfIGsR4PlXWHl4Ps-zfPutG01bPkEIjKSLlCWwK66sjwPX7uf7qsrjl3kMTVe1F4Wl7BJj7dPiC0rDW_skQOlfgirUrzT9E5bccb4fTXdLI/s1600/pentera.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc550fe7dded72166/69c43489cd7376a927669888/intermediary-between-two-groups-Andrii_Yalanskyi-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "id": "af6ca8372038d76173ede38b4ec9156da4ec0c16",
@@ -1003,17 +1014,6 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt10cc6694988697dc/69ba96a3a9cab62c8e5b1dba/claude_RalfLiebhold_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "c33e901d89571f0f7a5e4ab7d83e4363c1738f5e",
-      "title": "SideWinder Espionage Campaign Expands Across Southeast Asia",
-      "url": "https://www.darkreading.com/threat-intelligence/sidewinder-espionage-campaign-expands-across-southeast-asia",
-      "published": "2026-03-18T13:00:00+00:00",
-      "summary": "The suspected India-linked threat group targets governments, telecom, and critical infrastructure using spear-phishing, old vulnerabilities, and rapidly rotating infrastructure to maintain persistent access.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt28c4d1bedaef1b13/69b9c60dfc6bd40f7fba492b/sidewinder-snake-on-sand-dune-Chantelle_Bosch-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
       "id": "c32d6c7faaca3867056ae5dfeb607647589d683d",
       "title": "Researchers: Meta, TikTok Steal Personal &amp; Financial Info When Users Click Ads",
       "url": "https://www.darkreading.com/cyber-risk/meta-tiktok-steal-sensitive-pii",
@@ -1023,6 +1023,17 @@
       "region": "North America",
       "country": "US",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt30ca0d4bf093c658/69b85abb65cf383bd31f7bee/Eye-Shotshop_GmbH-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
+      "id": "c33e901d89571f0f7a5e4ab7d83e4363c1738f5e",
+      "title": "SideWinder Espionage Campaign Expands Across Southeast Asia",
+      "url": "https://www.darkreading.com/threat-intelligence/sidewinder-espionage-campaign-expands-across-southeast-asia",
+      "published": "2026-03-18T13:00:00+00:00",
+      "summary": "The suspected India-linked threat group targets governments, telecom, and critical infrastructure using spear-phishing, old vulnerabilities, and rapidly rotating infrastructure to maintain persistent access.",
+      "source": "DarkReading",
+      "region": "North America",
+      "country": "US",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt28c4d1bedaef1b13/69b9c60dfc6bd40f7fba492b/sidewinder-snake-on-sand-dune-Chantelle_Bosch-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "id": "6701e7ba8c6019d2697deaa98f006445527be704",
@@ -1201,15 +1212,37 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc120a335b3af7fb9/69b4891a78da06d1781c112a/quantum-key-qkc-sakkmesterke-AdobeStock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "81b7eba68cc63637473a9aee4ebb6f45a956e975",
-      "title": "Iran MOIS Colludes With Criminals to Boost Cyberattacks",
-      "url": "https://www.darkreading.com/threat-intelligence/iran-mois-criminals-cyberattacks",
-      "published": "2026-03-12T21:11:20+00:00",
-      "summary": "Iranian APTs have long pretended to be cybercriminal groups. Now they're working with actual cybercriminal groups.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt984d5f4e8378926b/69b2f7fe22822bf9496407b1/Khamenei_Khatib-ZUMA_Press_Inc.-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "id": "5499b8011fb2829389a7ba5efec961de4632a878",
+      "title": "Brit lawmaker targeted by AI deepfake fails to get answers from US Big Tech",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/26/brit_law_maker_fails_to/",
+      "published": "2026-03-26T11:49:29+00:00",
+      "summary": "<h4>Appearing before Parliament, Meta, Google and X struggle to explain how fake political video circulated for so long</h4> <p>A member of the UK Parliament's lower house who was the victim of a deepfake AI campaign this week had a rare chance to confront the Big Tech executives who helped spread it. Their answers disappointed.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "76547b47141a1ec1f203f739cea87fc5e0d08bee",
+      "title": "UK wants to know if banning under-16s from social media does anything useful",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/26/uk_social_media_ban_trial/",
+      "published": "2026-03-26T09:30:05+00:00",
+      "summary": "<h4>300 families undergo 6-week trial to test impact on sleep, school, and home life</h4> <p>The UK government will trial different levels of restrictions on social media for under-16s with the help of 300 families, alongside a public consultation that has already gathered nearly 30,000 responses.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "5dcd76823c61a7612a037726c2391192f5c6a96b",
+      "title": "Indian government probes CCTV espionage operation linked to Pakistan",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/26/india_pakistan_cctv/",
+      "published": "2026-03-26T03:18:01+00:00",
+      "summary": "<h4>Police found cameras pointing at infrastructure</h4> <p>Indian authorities have reportedly ordered an audit of the nation\u2019s CCTV cameras, after police uncovered what they claim was a Pakistan-backed surveillance operation.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
       "id": "8719e6fb22d48d951ff9742669a494ae44c2772a",
@@ -1729,36 +1762,36 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "3d172f1e6f8220e8d5deee5c9d587fe9eeeab4fe",
-      "title": "Outsourcer Telus admits to attack \u2013 may have lost a petabyte of data to ShinyHunters",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/15/telus_breach_starbucks_attack/",
-      "published": "2026-03-15T23:24:51+00:00",
-      "summary": "<h4>PLUS: Citrix CISO urges patch blitz; Mandiant founder reveals AI red-teaming tech; Bitter privacy news for Starbucks; And more</h4> <p><strong>Infosec In Brief</strong>\u00a0 Canadian outsourcer Telus Digital has <a href=\"https://www.telusdigital.com/cybersecurity-update\" target=\"_blank\">admitted</a> it fell victim to a cyberattack.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
+      "id": "f8fa2947570bee5b11139672f94a2da5166fbe03",
+      "title": "Cisco Patches Multiple Vulnerabilities in IOS Software",
+      "url": "https://www.securityweek.com/cisco-patches-multiple-vulnerabilities-in-ios-software/",
+      "published": "2026-03-26T12:32:17+00:00",
+      "summary": "<p>The high- and medium-severity flaws could lead to denial-of-service, secure boot bypass, information disclosure, and privilege escalation.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisco-patches-multiple-vulnerabilities-in-ios-software/\">Cisco Patches Multiple Vulnerabilities in IOS Software</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "b949624a7ee253591b8daea5d0fde9d762ee14c5",
-      "title": "Credential-stealing crew spoofs VPN clients from Cisco, Fortinet, and others",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/13/vpn_clients_spoofed/",
-      "published": "2026-03-13T17:17:19+00:00",
-      "summary": "<h4>And then they send victims to the legit VPN download to hide their tracks</h4> <p>A group of cybercriminals tracked as Storm-2561 is using fake enterprise VPN clients from CheckPoint, Cisco, Fortinet, Ivanti, and other vendors to steal users' credentials, according to Microsoft.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
+      "id": "2d361bb5bc018121338e4006adf3ff7e47d1c032",
+      "title": "Alleged RedLine Malware Administrator Extradited to US",
+      "url": "https://www.securityweek.com/alleged-redline-malware-administrator-extradited-to-us/",
+      "published": "2026-03-26T10:06:56+00:00",
+      "summary": "<p>Hambardzum Minasyan of Armenia has been accused of being involved in the development and administration of the infostealer malware.</p>\n<p>The post <a href=\"https://www.securityweek.com/alleged-redline-malware-administrator-extradited-to-us/\">Alleged RedLine Malware Administrator Extradited to US</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "65daa69ec599897412cf46c020acd8baa880c13a",
-      "title": "Interpol cybercrime crackdown leads to 94 arrests, 45,000 IP takedowns",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/13/interpol_operation_synergia/",
-      "published": "2026-03-13T12:39:54+00:00",
-      "summary": "<h4>Operation Synergia's third season is the most productive to date</h4> <p>Ninety-four people were arrested as part of a global, multi-month cybercrime crackdown, Interpol revealed today.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
+      "id": "83b8758d455014e0f7874ddd659e69e5dd7fe706",
+      "title": "Dell and HP Roll Out Quantum-Resistant Device Security and AI-Era Cyber Resilience",
+      "url": "https://www.securityweek.com/hp-and-dell-roll-out-quantum-resistant-device-security-and-ai-era-cyber-resilience/",
+      "published": "2026-03-26T08:57:41+00:00",
+      "summary": "<p>The computer giants have announced new security capabilities for PCs and printers.</p>\n<p>The post <a href=\"https://www.securityweek.com/hp-and-dell-roll-out-quantum-resistant-device-security-and-ai-era-cyber-resilience/\">Dell and HP Roll Out Quantum-Resistant Device Security and AI-Era Cyber Resilience</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
@@ -1833,39 +1866,6 @@
       "url": "https://www.securityweek.com/from-trivy-to-broad-oss-compromise-teampcp-hits-docker-hub-vs-code-pypi/",
       "published": "2026-03-25T11:55:25+00:00",
       "summary": "<p>The hackers compromised GitHub Action tags, then shifted to NPM, Docker Hub, VS Code, and PyPI, and teamed with Lapsus$.</p>\n<p>The post <a href=\"https://www.securityweek.com/from-trivy-to-broad-oss-compromise-teampcp-hits-docker-hub-vs-code-pypi/\">From Trivy to Broad OSS Compromise: TeamPCP Hits Docker Hub, VS Code, PyPI</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "aba4b71c1a2984c8a2a447c234990dd5573b7119",
-      "title": "US Prisons Russian Access Broker for Aiding Ransomware Attacks",
-      "url": "https://www.securityweek.com/us-prisons-russian-access-broker-for-aiding-ransomware-attacks/",
-      "published": "2026-03-25T09:27:33+00:00",
-      "summary": "<p>Aleksei Volkov has been sentenced to 81 months in prison for his role in Yanluowang ransomware attacks.\u00a0</p>\n<p>The post <a href=\"https://www.securityweek.com/us-prisons-russian-access-broker-for-aiding-ransomware-attacks/\">US Prisons Russian Access Broker for Aiding Ransomware Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "ef73c4bcba096b59a464b14e0ce2ce60099b08d5",
-      "title": "HackerOne Employee Data Exposed in Massive Navia Breach",
-      "url": "https://www.securityweek.com/hackerone-employee-data-exposed-in-massive-navia-breach/",
-      "published": "2026-03-25T07:57:00+00:00",
-      "summary": "<p>The cybersecurity firm said the personal information of hundreds of employees was stolen in the hacker attack targeting Navia.</p>\n<p>The post <a href=\"https://www.securityweek.com/hackerone-employee-data-exposed-in-massive-navia-breach/\">HackerOne Employee Data Exposed in Massive Navia Breach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "85825194db39ab9adbd987c79f0bcaaf76c979fb",
-      "title": "DoE Publishes 5-Year Energy Security Plan",
-      "url": "https://www.securityweek.com/doe-publishes-5-year-energy-security-plan/",
-      "published": "2026-03-24T19:42:07+00:00",
-      "summary": "<p>CESER\u2019s Project Armor is a five year initiative to harden the US critical energy infrastructure, including strengthening energy systems \u2018to prevent and recover from wildfires and other hazards\u2019.</p>\n<p>The post <a href=\"https://www.securityweek.com/doe-publishes-5-year-energy-security-plan/\">DoE Publishes 5-Year Energy Security Plan</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
