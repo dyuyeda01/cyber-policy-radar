@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-27T01:06:57.756840+00:00",
+  "generated_at": "2026-03-27T12:34:02.420389+00:00",
   "items": [
     {
       "id": "d7156ea19f49fe6c1f05674f2290028efd0280fd",
@@ -110,6 +110,39 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "2d242f8cf35a30985e1c4bed5db406ae571d61cc",
+      "title": "We Are At War",
+      "url": "https://thehackernews.com/2026/03/we-are-at-war.html",
+      "published": "2026-03-27T11:00:00+00:00",
+      "summary": "Rising geopolitical tensions are reflected (or in some cases preceded) by cyber operations, while technology itself has become politicized. Let\u2019s admit it: we are in the middle of it.&nbsp;\nIntroduction: One tech power to rule them all is a thing of the past&nbsp;\nThe relative safety, peace and prosperity that much of the world has enjoyed since 1945 was not accidental. It emerged from the ashes",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaOP8SQvGcKjVqTcrOQdTQqpsDiPV47qdwzHqpxth6iyxLDSHoBNBKHVyh5LUzM1W2LdABzaDP6TjMektIuSiYhTXirHygMx_0Yh8dwpmREVfKUWPUiqRefYDptyZ3NG0Xa0X5aI6xJV0GsNoFM6Akna2z1pQ3Wre9V9aqjEpOwrn-tbkTiRaKFw3vE74/s1600/orange.jpg"
+    },
+    {
+      "id": "a35852f9207423576b7ec7a55cb1486229d46a1e",
+      "title": "Bearlyfy Hits 70+ Russian Firms with Custom GenieLocker Ransomware",
+      "url": "https://thehackernews.com/2026/03/bearlyfy-hits-70-russian-firms-with.html",
+      "published": "2026-03-27T10:04:00+00:00",
+      "summary": "A pro-Ukrainian group called Bearlyfy has been attributed to more than 70 cyber attacks targeting Russian companies since it first surfaced in the threat landscape in January 2025, with recent attacks leveraging a custom Windows ransomware strain codenamed GenieLocker.\n\"Bearlyfy (also known as Labubu) operates as a dual-purpose group aimed at inflicting maximum damage upon Russian businesses;",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJa_h_fZ55AqNWxz1cuJLjlOtmxDcBXqTxZ8URxFwRfQ1OsNpcQKZOafbe7MxL72WZ3c7ashklJn4nlUj6FD87PPAznL0bzBhlpRIpUTtHqluiAjZBZgMEPTvwPyBeSrsnrSTnmbuPTwpQQDl2xLHPpynscV2zy7sk_SMU3u_gNkbzAaoT16Lr8SZXQgJs/s1600/russian-ransomware.jpg"
+    },
+    {
+      "id": "68d7df31ddbeafaa38b23b40ffa199b6664fed0b",
+      "title": "LangChain, LangGraph Flaws Expose Files, Secrets, Databases in Widely Used AI Frameworks",
+      "url": "https://thehackernews.com/2026/03/langchain-langgraph-flaws-expose-files.html",
+      "published": "2026-03-27T08:07:00+00:00",
+      "summary": "Cybersecurity researchers have disclosed three security vulnerabilities impacting LangChain and LangGraph that, if successfully exploited, could expose filesystem data, environment secrets, and conversation history.\nBoth LangChain and LangGraph are open-source frameworks that are used to build applications powered by Large Language Models (LLMs). LangGraph is built on the foundations of",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkhroYg33geYKogEf838RfX0FRNjBX23ucPFzrxtbtf2CyTxoGZZ4RbTArZX672fygWxhNN2MOX-SXaPzWJPOeRTrnLCzYzQZ2e-7HO98AIbj-wEXbrPWSwzIOW2NbNhpWfayHyPYHyJGTRxZmDCHhR_qk79vyb29q1_p-hBCWvY2GsAPu0296IOlq_uQv/s1600/langchain.jpg"
     },
     {
       "id": "2ad345672299ee506366ff90a6c465c30c34614b",
@@ -629,37 +662,15 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOXJqNKU2E3XuLpHv5iNIyXUsNHiw2sKZHX26AXk9X2bIlFfmTfRYdKkvL40FGg6dAccgemC93VDZ_l8uIFrzaxPY5OMtWeujIO4CS4XvbQQI-Y_B36j1wl5nFWFjXp968S6iTFFZlwdO9Qx8tNHBALQHagYFSFBGjncE6OJdk3ZOGZFWFnucDua1CawKd/s1600/1000061563.png"
     },
     {
-      "id": "bea4d52bc02a2e468f93ae0cb42b000ba827eee6",
-      "title": "Interlock Ransomware Exploits Cisco FMC Zero-Day CVE-2026-20131 for Root Access",
-      "url": "https://thehackernews.com/2026/03/interlock-ransomware-exploits-cisco-fmc.html",
-      "published": "2026-03-18T16:00:00+00:00",
-      "summary": "Amazon Threat Intelligence is warning of an active Interlock ransomware campaign that's exploiting a recently disclosed critical security flaw in Cisco Secure Firewall Management Center (FMC) Software.\nThe vulnerability in question is CVE-2026-20131 (CVSS score: 10.0), a case of insecure deserialization of user-supplied Java byte stream, which could allow an unauthenticated, remote attacker to",
-      "source": "The Hacker News",
+      "id": "1f8f944aa47dd5802e6f1aee48c40225132aff76",
+      "title": "Google Sets 2029 Deadline for Quantum-Safe Cryptography",
+      "url": "https://www.darkreading.com/application-security/google-2029-deadline-quantum-safe-cryptography",
+      "published": "2026-03-27T13:00:00+00:00",
+      "summary": "The post-quantum future may be coming sooner than you think, as Google plans to have PQC migration in place by 2029.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIlKuha7SKiNtcZ_rk3dVV2Mt4tDfyfAir2TYksjgJhuuBlUNRqZu0Zeh8xwCMU7XCedi9khw6ywY0sqBRY8BrY-8jLzGOdSU7YRit5m4ew711QN8qK-aG224wOrcXc7k3_8QDy1zfXZ1UWVaR3C_J3WzNuvCkApYqhmICJI62mVMO2R1OoiJ17ySmxQm6/s1600/cc.jpg"
-    },
-    {
-      "id": "f0b9ba495637cf3d6e27dfbe78b44cbc03c256ea",
-      "title": "Critical Unpatched Telnetd Flaw (CVE-2026-32746) Enables Unauthenticated Root RCE",
-      "url": "https://thehackernews.com/2026/03/critical-telnetd-flaw-cve-2026-32746.html",
-      "published": "2026-03-18T12:30:00+00:00",
-      "summary": "Cybersecurity researchers have disclosed a critical security flaw impacting the GNU InetUtils telnet daemon (telnetd) that could be exploited by an unauthenticated remote attacker to execute arbitrary code with elevated privileges.\nThe vulnerability, tracked as CVE-2026-32746, carries a CVSS score of 9.8 out of 10.0. It has been described as a case of out-of-bounds write in the LINEMODE Set",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhm7eXnUZ_n354WSYj7Qjrk3sBFZkhyQ41VtRezIQRVo3KqzZJDE_A7CqshkkQ6RCiOyS1zuS8liODqSRGhURLUozRKEDZ6BmKyOxBVy8K0EF5TQB5QlyC7c1Cv0mHSj0BNwtGAS-PgOUobvSWJ1b82qWBHCMEocTyoOayx69DzM_gveQSuD1zbjYAjziX7/s1600/linux.jpg"
-    },
-    {
-      "id": "8969a3772756471cd98f6fe6247a6ff3f1fa42a2",
-      "title": "Claude Code Security and Magecart: Getting the Threat Model Right",
-      "url": "https://thehackernews.com/2026/03/claude-code-security-and-magecart.html",
-      "published": "2026-03-18T11:58:00+00:00",
-      "summary": "When a Magecart payload hides inside the EXIF data of a dynamically loaded third-party favicon, no repository scanner will catch it \u2013 because the malicious code never actually touches your repo. As teams adopt Claude Code Security for static analysis, this is the exact technical boundary where AI code scanning stops and client-side runtime execution begins.\nA detailed analysis of where Claude",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggz_kaHz2bigOo1y7BON5yhR9pCor4YwRAVV2PhMpW80pO5LnEQpI6Nzwyb1vAXqsORLe3-nM6npur3xdVzjvgFuv0_weLt2k3aganHfRUGHnvg258ymm460jOPDouqbnhZiOWNgkTEov8Iy1Ldb53EQg94GZMocgH3nwILAvMzDaNsyK7WaSrc1k7Rts/s1600/ref.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltdee69c559f0e21b7/69c58b734754ce06f0ac8aaa/lock_on_laptop_Ales_Utouka_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "id": "de1ca0924437c8fc7095717c35b8319ef046454c",
@@ -1201,15 +1212,37 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb8b697e643980aba/69b45a7c25d96d489066faf0/Cisco_Heat-ArcadeImages-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "13bd24a252090824c010f9d6784b218909246e1b",
-      "title": "The Data Gap: Why Nonprofit Cyber Incidents Go Underreported",
-      "url": "https://www.darkreading.com/threat-intelligence/data-gap-why-nonprofit-cyber-incidents-go-underreported",
-      "published": "2026-03-13T17:42:09+00:00",
-      "summary": "Threat actors target nonprofits due to security gaps and highly coveted information, but a lack of sufficient data makes it difficult to grasp the entire picture.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltca9a638d5179c87d/69b451ed1045ce42f1fbcbf7/AHHC42.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "id": "708981615c67988158656edc6a1b8f2602d02167",
+      "title": "AFC Ajax drops ball as flaws let hackers play admin with tickets and bans",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/27/afc_ajax_drops_ball_as/",
+      "published": "2026-03-27T12:30:11+00:00",
+      "summary": "<h4>Vulns in Dutch football club's systems didn't just expose data \u2013 they let outsiders play with accounts, and even lift stadium bans</h4> <p>Dutch football giant AFC Ajax has admitted to a data breach after an attacker gained access to its internal systems, in an incident that looks less like a stray pass and more like the gates left wide open.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "5f046bcec59afb3ca3c451cbc9d91f39278dca2a",
+      "title": "Iran war drives urgent need\u00a0 to counter underwater attack drones",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/27/us_and_uk_forces_auv_tender/",
+      "published": "2026-03-27T11:17:32+00:00",
+      "summary": "<h4>US and UK forces seeking tech tender with an April 3 deadline</h4> <p>The UK and US are looking for technology to counter the threat posed by underwater drones to ships, harbors and other critical maritime infrastructure, and are asking industry for answers.\u2026</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "565bb004729680506f13a25304f41e64c38c90f4",
+      "title": "Security boffins scoured the web and found hundreds of valid API keys",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/27/security_boffins_harvest_bumper_crop/",
+      "published": "2026-03-27T07:04:15+00:00",
+      "summary": "<h4>Global bank's devs have some cleaning up to do after cloud creds found in website code</h4> <p>Computer security boffins have conducted an analysis of 10 million websites and found almost 2,000 API credentials strewn across 10,000 webpages.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
       "id": "5499b8011fb2829389a7ba5efec961de4632a878",
@@ -1729,36 +1762,47 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "91cd7d0e83eaaa97f8cf1a7faaf98c916084ee92",
-      "title": "Cybercrime has skyrocketed 245% since the start of the Iran war",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/16/cybercrime_iran_war_245_percent_rise/",
-      "published": "2026-03-16T18:40:30+00:00",
-      "summary": "<h4>Hacktivists use proxy services from Russia, China for 'billions of designed-for-abuse connection attempts'</h4> <p>Cybercrime has skyrocketed since the start of the Iran war, according to Akamai, which reports a 245 percent increase in everything from credential harvesting attempts to automated reconnaissance traffic aimed at banks and other critical businesses.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
+      "id": "6710c5e79cb015aa7a19361ea01f7232930e394b",
+      "title": "TP-Link Patches High-Severity Router Vulnerabilities",
+      "url": "https://www.securityweek.com/tp-link-patches-high-severity-router-vulnerabilities/",
+      "published": "2026-03-27T11:42:30+00:00",
+      "summary": "<p>The security defects could be used to bypass authentication, execute arbitrary commands, and decrypt configuration files.</p>\n<p>The post <a href=\"https://www.securityweek.com/tp-link-patches-high-severity-router-vulnerabilities/\">TP-Link Patches High-Severity Router Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "ef6eefe546e64f82d0562134dbd899411b32e4fb",
-      "title": "AI finally delivers those elusive productivity gains... for cybercriminals",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/16/interpol_ai_fraud/",
-      "published": "2026-03-16T16:40:06+00:00",
-      "summary": "<h4>Interpol says fraud schemes using the tech are 4.5x more profitable</h4> <p>AI is apparently good for the bottom line if your business is crime. Financial fraud schemes carried out with the help of artificial intelligence are 4.5 times more profitable than those that aren't enhanced, according to Interpol's latest estimates.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
+      "id": "06249f25c071979558111a73e9d9b96c2529c059",
+      "title": "RSAC 2026 Conference Announcements Summary (Days 3-4)",
+      "url": "https://www.securityweek.com/rsac-2026-conference-announcements-summary-days-3-4/",
+      "published": "2026-03-27T10:48:53+00:00",
+      "summary": "<p>A summary of the announcements made by vendors on the third and fourth days of the RSAC 2026 Conference.</p>\n<p>The post <a href=\"https://www.securityweek.com/rsac-2026-conference-announcements-summary-days-3-4/\">RSAC 2026 Conference Announcements Summary (Days 3-4)</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "5e3654e1abc63bac6f39424a5fb387e1388d75d0",
-      "title": "Flaw in UK's corporate registry let directors rummage through rival records",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/16/companies_house_breach/",
-      "published": "2026-03-16T12:18:23+00:00",
-      "summary": "<h4>Back button blunder in WebFiling service run by Companies House revealed confidential paperwork</h4> <p>Companies House was forced to pull down its record-filing platform for the entire weekend to rectify a \"security issue\" that exposed the personal details of company directors and other data to any logged in users.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
+      "id": "5b8074b149bfd7355ad4c10624c211b80e16fdca",
+      "title": "Coruna iOS Exploit Kit Likely an Update to Operation Triangulation",
+      "url": "https://www.securityweek.com/coruna-ios-exploit-kit-likely-an-update-to-operation-triangulation/",
+      "published": "2026-03-27T10:35:20+00:00",
+      "summary": "<p>Coruna contains the updated version of a kernel exploit used in Operation Triangulation three years ago.</p>\n<p>The post <a href=\"https://www.securityweek.com/coruna-ios-exploit-kit-likely-an-update-to-operation-triangulation/\">Coruna iOS Exploit Kit Likely an Update to Operation Triangulation</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "4717d68cfb17ba66ce3fb831ca202cf36562d71a",
+      "title": "CISA Flags Critical PTC Vulnerability That Had German Police Mobilized",
+      "url": "https://www.securityweek.com/cisa-flags-critical-ptc-vulnerability-that-had-german-police-mobilized/",
+      "published": "2026-03-27T09:21:14+00:00",
+      "summary": "<p>Police in Germany physically warned organizations about the critical PTC Windchill vulnerability tracked as CVE-2026-4681.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisa-flags-critical-ptc-vulnerability-that-had-german-police-mobilized/\">CISA Flags Critical PTC Vulnerability That Had German Police Mobilized</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
@@ -1822,50 +1866,6 @@
       "url": "https://www.securityweek.com/hp-and-dell-roll-out-quantum-resistant-device-security-and-ai-era-cyber-resilience/",
       "published": "2026-03-26T08:57:41+00:00",
       "summary": "<p>The computer giants have announced new security capabilities for PCs and printers.</p>\n<p>The post <a href=\"https://www.securityweek.com/hp-and-dell-roll-out-quantum-resistant-device-security-and-ai-era-cyber-resilience/\">Dell and HP Roll Out Quantum-Resistant Device Security</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "7248d99f0cf74d9e32d9a78a51c7f6f7022b5bde",
-      "title": "Onit Security Raises $11 Million for Exposure Management Platform",
-      "url": "https://www.securityweek.com/onit-security-raises-11-million-for-exposure-management-platform/",
-      "published": "2026-03-25T15:58:16+00:00",
-      "summary": "<p>The startup will invest in product development and go-to-market efforts as it expands into new sectors.</p>\n<p>The post <a href=\"https://www.securityweek.com/onit-security-raises-11-million-for-exposure-management-platform/\">Onit Security Raises $11 Million for Exposure Management Platform</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "fb933ee3c278b2a816dd1a7b3346f3dc6d573423",
-      "title": "Russian Cybercriminal Gets 2-Year Prison Sentence in US",
-      "url": "https://www.securityweek.com/russian-cybercriminal-gets-2-year-prison-sentence-in-us/",
-      "published": "2026-03-25T14:30:32+00:00",
-      "summary": "<p>Ilya Angelov was a member of the cybercrime group tracked as TA-551, Shathak, Gold Cabin, Monster Libra, and ATK236.</p>\n<p>The post <a href=\"https://www.securityweek.com/russian-cybercriminal-gets-2-year-prison-sentence-in-us/\">Russian Cybercriminal Gets 2-Year Prison Sentence in US\u00a0</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "114436123aee0750e8d1df0cc6ba78a4f4743380",
-      "title": "AI Speeds Attacks, But Identity Remains Cybersecurity\u2019s Weakest Link",
-      "url": "https://www.securityweek.com/ai-speeds-attacks-but-identity-remains-cybersecuritys-weakest-link/",
-      "published": "2026-03-25T14:15:00+00:00",
-      "summary": "<p>PwC finds AI is amplifying speed and scale of attacks, as identity theft evolves into a cybercriminal supply chain.</p>\n<p>The post <a href=\"https://www.securityweek.com/ai-speeds-attacks-but-identity-remains-cybersecuritys-weakest-link/\">AI Speeds Attacks, But Identity Remains Cybersecurity\u2019s Weakest Link</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "6ecd5d237f280c6db1cea635f7f2b5e466f94bf9",
-      "title": "iOS, macOS 26.4 Roll Out With Fresh Security Patches",
-      "url": "https://www.securityweek.com/ios-macos-26-4-roll-out-with-fresh-security-updates/",
-      "published": "2026-03-25T13:29:17+00:00",
-      "summary": "<p>Apple released security fixes for older devices as well, in iOS 18.7.7, iPadOS 18.7.7, macOS Sequoia 15.7.5, and macOS Sonoma 14.8.5.</p>\n<p>The post <a href=\"https://www.securityweek.com/ios-macos-26-4-roll-out-with-fresh-security-updates/\">iOS, macOS 26.4 Roll Out With Fresh Security Patches</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
