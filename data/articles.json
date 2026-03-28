@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-28T01:00:41.810731+00:00",
+  "generated_at": "2026-03-28T12:26:02.652478+00:00",
   "items": [
     {
       "id": "12cb6787666863f6c73bfce997e0e8f1f1064bb5",
@@ -110,6 +110,39 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "322d71a1b3b11bd42539b57e532c54ffdf86ff7c",
+      "title": "Citrix NetScaler Under Active Recon for CVE-2026-3055 (CVSS 9.3) Memory Overread Bug",
+      "url": "https://thehackernews.com/2026/03/citrix-netscaler-under-active-recon-for.html",
+      "published": "2026-03-28T09:11:00+00:00",
+      "summary": "A recently disclosed critical security flaw impacting Citrix NetScaler ADC and NetScaler Gateway is witnessing active reconnaissance activity, according to Defused Cyber and watchTowr.\nThe vulnerability, CVE-2026-3055 (CVSS score: 9.3), refers to a case of insufficient input validation leading to memory overread, which an attacker could exploit to leak potentially sensitive information.\nPer",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwI3gfUe4wDxvIuUsVXUVcyiZ6TWg7HIh7UgKbWXN8e5p6VbJM5hHvR0gCKbVRD3tx311R5b9TWnt0OrLNfpoSBrP1tv06PBWrUXtwzAZAvHVHo8a1uZXzqZBDkpCeGgHWI9tRrk39_n_YZgO7CeX6MXHo4kFSu_lFd5ZmAuiTdrg-x8w0svB3lF-2U1LV/s1600/citrix-exploit.jpg"
+    },
+    {
+      "id": "c8b90708238066e4093d803005d87245ac3a2ed8",
+      "title": "CISA Adds CVE-2025-53521 to KEV After Active F5 BIG-IP APM Exploitation",
+      "url": "https://thehackernews.com/2026/03/cisa-adds-cve-2025-53521-to-kev-after.html",
+      "published": "2026-03-28T07:07:00+00:00",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a critical security flaw impacting F5 BIG-IP Access Policy Manager (APM) to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\nThe vulnerability in question is CVE-2025-53521 (CVSS v4 score: 9.3), which could allow a threat actor to achieve remote code execution.\n\"When a",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOCtHFfd9TZrhTa9APggVpivUkp_7HLw49145Q93B-76BiG0kkbGOPgViPII25Inn9b8710FjsB1sG716DO1Qh3ikSV88oqwdhSCJ7V2FTWgPq1xaA_UqMVwIEi4zmLnAmXQmbdG2fWAVBx6H_OiHqCOzghwBkuQYy4mYUCIdIyBi54ojbF3rc_OGIPlGc/s1600/f5.jpg"
+    },
+    {
+      "id": "240b2993f8f12d5c402968970dc231bd7ca8513d",
+      "title": "TA446 Deploys DarkSword iOS Exploit Kit in Targeted Spear-Phishing Campaign",
+      "url": "https://thehackernews.com/2026/03/ta446-deploys-leaked-darksword-ios.html",
+      "published": "2026-03-28T07:07:00+00:00",
+      "summary": "Proofpoint has disclosed details of a targeted email campaign in which threat actors with ties to Russia are leveraging the recently disclosed DarkSword exploit kit to target iOS devices.\nThe activity has been attributed with high confidence to the Russian state-sponsored threat group known as TA446, which is also tracked by the broader cybersecurity community under the monikers Callisto,",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAX955shB28AQ8BgXC9lMJBSEWWtw5FVp3L9rxuVnBSsDMpj5Ssjh7cqxd7eJI_bES6b82XDHvxrH0U_cyEXwbS05QkUbSDPzP8ZGcjy2QD2-gY9utPDfcJ6EBO-nk3VayGUBUnesxmmGOH-AanOtkxxhPGyZ-5azN_kzflpKoqfW7U2m35ookIyuEYvFo/s1600/iphone-exploit.jpg"
     },
     {
       "id": "94e03f76812431441cb191aa74cac6be5ebf4dcf",
@@ -627,39 +660,6 @@
       "region": "North America",
       "country": "US",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZSgCN7uAT0GxA_9D78X0Q9nRTRmUKPnhIvtgPrg32f62joth8HoaFjuZ68g1l10CVcTjQXiaw3ueNoItw0YN8edclDT-c6IHodK_nSRjPFqUH2hTfceviQi1UZ_6Mo2NvGlkVNIdx3CvxpobdFm3jVUuvvdIDcn5LIKQFNNFe7MScF824trW9pajXcM3l/s1600/locks.jpg"
-    },
-    {
-      "id": "dd4a3e7d6e7d80bccd1af05f1a446a8a7fe9a75d",
-      "title": "54 EDR Killers Use BYOVD to Exploit 35 Signed Vulnerable Drivers and Disable Security",
-      "url": "https://thehackernews.com/2026/03/54-edr-killers-use-byovd-to-exploit-34.html",
-      "published": "2026-03-19T18:52:00+00:00",
-      "summary": "A new analysis of endpoint detection and response (EDR) killers has revealed that 54 of them leverage a technique known as bring your own vulnerable driver (BYOVD) by abusing a total of 35 vulnerable drivers.\nEDR killer programs have been a common presence in ransomware intrusions as they offer a way for affiliates to neutralize security software before deploying file-encrypting malware. This",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIi1shGpEknr4-CSa7F-hGXgqRLy4TeRhG2CLzUE9WOs7c-XA-TRmAFhxGmJePCWAjYzRvtRW5ukvGvKluq5hOfv8F8QmzqTUxVjElk6zf3ovVxZIvqUdn1A2Z02kv7t8efDgyyZEUljfWZRxOZqAynFB92c66-ywA8vxkCUXiJ75g4U2vJUlOlzblxU_z/s1600/edr.jpg"
-    },
-    {
-      "id": "d4ebbbacea8eb9c0833680157738eb67de6bb6ec",
-      "title": "ThreatsDay Bulletin: FortiGate RaaS, Citrix Exploits, MCP Abuse, LiveChat Phish & More",
-      "url": "https://thehackernews.com/2026/03/threatsday-bulletin-fortigate-raas.html",
-      "published": "2026-03-19T14:25:00+00:00",
-      "summary": "ThreatsDay Bulletin is back on The Hacker News, and this week feels off in a familiar way. Nothing loud, nothing breaking everything at once. Just a lot of small things that shouldn&rsquo;t work anymore but still do.\nSome of it looks simple, almost sloppy, until you see how well it lands. Other bits feel a little too practical, like they&rsquo;re already closer to real-world use than anyone",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgo8NYPjdG8isSFFKDJkDtz603as8VZqTtFenMMZGF6GB_abFJsu8Kj6alv-Bnk_K0k9sXEqyPo2WxK12jRPz9cMIEvzX7whTVEESRW_n8mQguCvj5nQzTjXdmcvmPKP6GMFJuropryXpS7Uyi0VKDAmdGFFu4OqeHFnYVkhDCNO86SgTRMcLu6O_ZtJKen/s1600/tdays.jpg"
-    },
-    {
-      "id": "89aa5b0fdbb59f355e79c9a602b8788cfdd1d6a2",
-      "title": "New Perseus Android Banking Malware Monitors Notes Apps to Extract Sensitive Data",
-      "url": "https://thehackernews.com/2026/03/new-perseus-android-banking-malware.html",
-      "published": "2026-03-19T12:43:00+00:00",
-      "summary": "Cybersecurity researchers have disclosed a new Android malware family called Perseus that's being actively distributed in the wild with an aim to conduct device takeover (DTO) and financial fraud.\nPerseus is built upon the foundations of Cerberus and Phoenix, at the same time evolving into a \"more flexible and capable platform\" for compromising Android devices through dropper apps distributed",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhO9NIqWSua7z7wlxbrmrChu5uZeRwYbuW8vAxVAajRSO8FoYtN_dHwnplt-OfqYnZX9PaOWZmxZPG_eRjiDVYOV2XDYq8hKWrRxT8jbTT4yKbAF91OjdZuxWIaxRZSNfbFpiLF_E8w-hUvIgncy7htyQS-2oRakIpIBReQSKUgR8QaIJ1C9oMvimAkUMsA/s1600/android-banking-malware.jpg"
     },
     {
       "id": "57c8c27db366fe2c2e7def9fab6b8b846b509894",
@@ -1828,6 +1828,17 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "e4721ab2e23b703ebcdbaef00b47c13b930af9d9",
+      "title": "Cloudflare-Themed ClickFix Attack Drops Infiniti Stealer on Macs",
+      "url": "https://www.securityweek.com/cloudflare-themed-clickfix-attack-drops-infiniti-stealer-on-macs/",
+      "published": "2026-03-28T10:30:00+00:00",
+      "summary": "<p>The infection chain includes a fake CAPTCHA page, a Bash script, a Nuitka loader, and the Python-based infostealer.</p>\n<p>The post <a href=\"https://www.securityweek.com/cloudflare-themed-clickfix-attack-drops-infiniti-stealer-on-macs/\">Cloudflare-Themed ClickFix Attack Drops Infiniti Stealer on Macs</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "dd14d2b94c248eedd9f27bad9d97314dd9409e28",
       "title": "Pro-Iranian Hacking Group Claims Credit for Hack of FBI Director Kash Patel\u2019s Personal Account",
       "url": "https://www.securityweek.com/pro-iranian-hacking-group-claims-credit-for-hack-of-fbi-director-kash-patels-personal-account/",
@@ -1921,17 +1932,6 @@
       "url": "https://www.securityweek.com/bind-updates-patch-high-severity-vulnerabilities-2/",
       "published": "2026-03-26T13:31:40+00:00",
       "summary": "<p>Specially crafted domains could be used to cause out-of-memory conditions, leading to memory leaks in the BIND resolvers.</p>\n<p>The post <a href=\"https://www.securityweek.com/bind-updates-patch-high-severity-vulnerabilities-2/\">BIND Updates Patch High-Severity Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "7becc8ba3303ac6159c5eb9de17e9a6c58997a20",
-      "title": "Chinese Hackers Caught Deep Within Telecom Backbone Infrastructure",
-      "url": "https://www.securityweek.com/chinese-hackers-caught-deep-within-telecom-backbone-infrastructure/",
-      "published": "2026-03-26T13:00:00+00:00",
-      "summary": "<p>The state-sponsored threat actor deployed kernel implants and passive backdoors enabling long-term, high-level espionage.</p>\n<p>The post <a href=\"https://www.securityweek.com/chinese-hackers-caught-deep-within-telecom-backbone-infrastructure/\">Chinese Hackers Caught Deep Within Telecom Backbone Infrastructure</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
