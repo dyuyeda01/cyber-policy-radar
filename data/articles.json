@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-01T01:14:57.347601+00:00",
+  "generated_at": "2026-04-01T12:45:59.691714+00:00",
   "items": [
     {
       "id": "79ad32964c2bdad281a6c50b2eeea90dff02db9e",
@@ -110,6 +110,39 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "48e26293bb41bf1f4ae3c629aa273ac38e337ee4",
+      "title": "3 Reasons Attackers Are Using Your Trusted Tools Against You (And Why You Don\u2019t See It Coming)",
+      "url": "https://thehackernews.com/2026/04/3-reasons-attackers-are-using-your.html",
+      "published": "2026-04-01T10:58:00+00:00",
+      "summary": "For years, cybersecurity has followed a familiar model: block malware, stop the attack. Now, attackers are moving on to what\u2019s next.\nThreat actors now use malware less frequently in favor of what\u2019s already inside your environment, including abusing trusted tools, native binaries, and legitimate admin utilities to move laterally, escalate privileges, and persist without raising alarms. Most",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnuThJU5o7fpNxZwlNpyZFxPX9Y7rDp2TF2zUrPTRMhLEcnv7UQfdVgoAJ5gh8-JpgNvnJOG5dbOABLCmemzmYazgTwPTxScbn9vlwlCouNIuKZvmaeE3mcza5ceAfKBfpkbeAUKcOd9eZoBWXgjEvuDAORSPICahRqIz4g0BkwD84YZwB547OHBLsoZs/s1600/main.jpg"
+    },
+    {
+      "id": "d170707b4f614a38d20b6910589bb456dd2f7a78",
+      "title": "Google Attributes Axios npm Supply Chain Attack to North Korean Group UNC1069",
+      "url": "https://thehackernews.com/2026/04/google-attributes-axios-npm-supply.html",
+      "published": "2026-04-01T07:44:00+00:00",
+      "summary": "Google has formally attributed the supply chain compromise of the popular Axios npm package to a financially motivated North Korean threat activity cluster tracked as UNC1069.\n\"We have attributed the attack to a suspected North Korean threat actor we track as UNC1069,\" John Hultquist, chief analyst at Google Threat Intelligence Group (GTIG), told The Hacker News in a statement.\n\"North Korean",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4u0-_Mq5eI-6nWqV9d-E4BTvsdeDTEcK8Bo7pHnANyD6m8b8d5dPcx86sb1P-PjfLce84hgNF8ja8y2tvnYjlmvE4VGzyvAyGqd6TGOxYei3Oz-F_IvVEDxAvamRe4acysr0FqtfWgbLbDhBQxy6ovy2_V47P2d-1qDZig0pcPPnxTCEGfTzKnUXnJEgU/s1600/axios-northkorea.jpg"
+    },
+    {
+      "id": "965dbcee4ca3147bfe4c8cdd1169de3571690b18",
+      "title": "Claude Code Source Leaked via npm Packaging Error, Anthropic Confirms",
+      "url": "https://thehackernews.com/2026/04/claude-code-tleaked-via-npm-packaging.html",
+      "published": "2026-04-01T06:12:00+00:00",
+      "summary": "Anthropic on Tuesday confirmed that internal code for its popular artificial intelligence (AI) coding assistant, Claude Code, had been inadvertently released due to a human error.\n\"No sensitive customer data or credentials were involved or exposed,\" an Anthropic spokesperson said in a statement shared with CNBC News. \"This was a release packaging issue caused by human error, not a security",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj39e4BXzk1M6BK7XEJcfogVbdwnYJjie08kNTAeW5T46Tn8UvbbaYGrrEpgw1Pa4IpJYeGe8AR7T_UCp4_vWYTcG-c5DY0HNlHW-8SbYkscVvjAKjKR3gHmlWAQONEx8kg_ANVfOr8OsQ7uTm-XWHW1PNfusxBj-Tn2kn-V2EedPykA3ESB66doPXxGzT8/s1600/claude-code.jpg"
     },
     {
       "id": "e4343f7414b72a1bb0067dbd2cf8d785ba6bfe07",
@@ -629,37 +662,26 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEYRIy7X7XvfWs__-DS2yjU2mg0-f4TxESTTQnzRIgLaWPDe3Oe_25A0_pi_XHxryaqyz4YBRzci03kVa5TgSstslqpZdhUwBniNuYvx8N4pEZEI4mHGmZuh1QmnlhRcBXWTWLttZkuVU7aFvOrNg8sp0ODl4-sDi0q3X3XzBbCD0ppjxYihFwMxuMSHf4/s1600/northkorean.jpg"
     },
     {
-      "id": "36acbbb403efbc3699ffe5a14782b5921648b744",
-      "title": "\u26a1 Weekly Recap: CI/CD Backdoor, FBI Buys Location Data, WhatsApp Ditches Numbers & More",
-      "url": "https://thehackernews.com/2026/03/weekly-recap-cicd-backdoor-fbi-buys.html",
-      "published": "2026-03-23T13:14:00+00:00",
-      "summary": "Another week, another reminder that the internet is still a mess. Systems people thought were secure are being broken in simple ways, showing many still ignore basic advisories.\nThis edition covers a mix of issues: supply chain attacks hitting CI/CD setups, long-abused IoT devices being shut down, and exploits moving quickly from disclosure to real attacks. There are also new malware tricks",
-      "source": "The Hacker News",
+      "id": "ca5629f62c4b61847a56918aa2b4d747dafaed07",
+      "title": "Are We Training AI Too Late?",
+      "url": "https://www.darkreading.com/cybersecurity-analytics/are-we-training-ai-too-late",
+      "published": "2026-04-01T10:40:13+00:00",
+      "summary": "Ask the Expert: Cybersecurity teams need to expand their field of view to include new, unique threat sources, rather than relying on past, proven threat actors.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhe8A2RKkUN6BATGKH_48mi3J6DYVutxBllcmOiNl7N3xeqPx9sySaIFdxMxfIp5VQksSCBdRKtpNpiWUcTo5VNClmu6dbs6hoM9Ljx3QXAWEnAjKAG0Vc8JHLxGWfZkq3ORe4PgT-RgpBxhPnfMtr8UOhnjXToH-WOa6h3IVUM3HQqvgmWmMTPjKsqTkSN/s1600/recap-bl.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3e1142f17df77fe0/69ccf95619dc583b9126e8a4/teach-AI-besjunior-AdobeStock_290088902CP.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "14371e5dddba59dde70c1063ae45a09e177d3089",
-      "title": "We Found Eight Attack Vectors Inside AWS Bedrock. Here's What Attackers Can Do with Them",
-      "url": "https://thehackernews.com/2026/03/we-found-eight-attack-vectors-inside.html",
-      "published": "2026-03-23T11:55:00+00:00",
-      "summary": "AWS Bedrock is Amazon's platform for building AI-powered applications. It gives developers access to foundation models and the tools to connect those models directly to enterprise data and systems. That connectivity is what makes it powerful \u2013 but it\u2019s also what makes Bedrock a target.\nWhen an AI agent can query your Salesforce instance, trigger a Lambda function, or pull from a SharePoint",
-      "source": "The Hacker News",
+      "id": "0c70a9cd0e2244f45fdd762a889778145669595e",
+      "title": "The Forgotten Endpoint: Security Risks of Dormant Devices",
+      "url": "https://www.darkreading.com/endpoint-security/forgotten-endpoint-security-risks-dormant-devices",
+      "published": "2026-03-31T22:13:34+00:00",
+      "summary": "Technology Talk: That forgotten notebook holds plenty of secrets to enterprise access.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNP5vhVrLuEm9El_BgbLywUuexUg6KzaMreEfpqeSpQnonIKWfB4fcCX_bXrkxTwUoqXqxjrXZdZbppYseQBmTTSXeZT3PLsXoUIKdVUxawVdz4e33n_E6iPxNLCL3mAypW2di8w755oQGTcP1dFoBaOXV9D7LuASxn-43LJ1JCxtOtTFZ_qUsBzlY878/s1600/xmcyber.jpg"
-    },
-    {
-      "id": "4c77b45560e666d70a18e72232eb42d6c126c228",
-      "title": "Microsoft Warns IRS Phishing Hits 29,000 Users, Deploys RMM Malware",
-      "url": "https://thehackernews.com/2026/03/microsoft-warns-irs-phishing-hits-29000.html",
-      "published": "2026-03-23T10:55:00+00:00",
-      "summary": "Microsoft has warned of fresh campaigns that are capitalizing on the upcoming tax season in the U.S. to harvest credentials and deliver malware.\nThe email campaigns take advantage of the urgency and time-sensitive nature of emails to send phishing messages masquerading as refund notices, payroll forms, filing reminders, and requests from tax professionals to deceive recipients into opening",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEie9fqlMd4OuFVtXiIjViNTGyYhyol3qoSCp1VC7Au7Zp3ccwTT2YriDd5iWY7vc67FF0inmVd16ko0WfG3C57cyOs-I3RNaQXnk2eyfKefaJajCkfjvD1rfZp1hnOqyICcY5-dPdADaKq7bl74F4bocmJHp1W3sI6ZBGKIXiOI-phZVHwwyqtDQz1kNQty/s1600/irs.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt276c235ceefbedff/68a726ba354427802eb7e425/Headset_on_laptop_(1800)_Brian_Jackson_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "id": "ff96d8ea6086951f58d86bc38ee5754e353f85de",
@@ -1190,26 +1212,15 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt852374154dc9b41e/680964f6901a150e471ede06/Cyber_fraud_(1800)_Olekcii_Mach_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "a258d809e572d32590026b44243ab47ba7dbbf79",
-      "title": "Native Launches With Security Control Plane for Multicloud",
-      "url": "https://www.darkreading.com/cloud-security/native-launches-security-control-plane-multicloud",
-      "published": "2026-03-19T20:08:11+00:00",
-      "summary": "The cloud security startup's platform translates and enforces security policies across AWS, Azure, Google Cloud, and Oracle using provider-native controls.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7d9cfad3cb569366/6852ccdd054857546446b424/cloudsecurity_PeachayaTanomsup_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
-      "id": "cdd66d74a969dee430f85f07b1927d16471c0bf9",
-      "title": "Post-Quantum Web Could be Safer, Faster",
-      "url": "https://www.darkreading.com/cloud-security/post-quantum-web-could-be-safer-faster",
-      "published": "2026-03-19T18:19:43+00:00",
-      "summary": "Major providers are testing a quantum-safe version of HTTPS that shrinks certificates to one-tenth their previous size, decreasing latency and adding transparency.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt425fdb51e3ce6240/69baf529f3fcafa854d648ce/spider-in-web-Teerayuth_Mitrsermsarp-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "id": "2bc7ae29453a080bc8da8a7c9aed58a650a4745a",
+      "title": "UK manufacturers under cyber fire with 80% reporting attacks",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/01/uk_manufacturer_cyberattacks/",
+      "published": "2026-04-01T08:30:06+00:00",
+      "summary": "<h4>ESET says factory outages, lost revenue, and supply chain disruption are becoming routine</h4> <p>Nearly 80 percent of British manufacturers say they've been hit by a cyber incident in the past year, as new research suggests disruption on the factory floor is no longer an exception but business as usual.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
       "id": "a40b038067c45e02424be48ea20eb4948afd0345",
@@ -1238,7 +1249,7 @@
       "title": "Supply chain blast: Top npm package backdoored to drop dirty RAT on dev machines",
       "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/31/axios_npm_backdoor_rat/",
       "published": "2026-03-31T10:29:10+00:00",
-      "summary": "<h4>Hijacked maintainer account let attackers slip cross-platform trojan into 100M-downloads-a-week Axios</h4> <p>One of npm's most widely used HTTP client libraries briefly became a malware delivery vehicle after attackers hijacked a maintainer's account and slipped a remote-access trojan (RAT) into two seemingly legitimate axios releases, in what's being <a href=\"https://www.aikido.dev/blog/axios-npm-compromised-maintainer-hijacked-rat\" rel=\"nofollow\" target=\"_blank\">described</a> as \"one of the most impactful npm supply chain attacks on record.\"\u2026</p>",
+      "summary": "<h4>Hijacked maintainer account let attackers slip cross-platform trojan into 100M-downloads-a-week Axios</h4> <p><strong>Updated</strong>\u00a0 One of npm's most widely used HTTP client libraries briefly became a malware delivery vehicle after attackers hijacked a maintainer's account and slipped a remote-access trojan (RAT) into two seemingly legitimate axios releases, in what's being <a href=\"https://www.aikido.dev/blog/axios-npm-compromised-maintainer-hijacked-rat\" rel=\"nofollow\" target=\"_blank\">described</a> as \"one of the most impactful npm supply chain attacks on record.\"\u2026</p>",
       "source": "The Register \u2013 Security",
       "region": "Europe",
       "country": "UK",
@@ -1751,67 +1762,23 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "734d5cc8ffcea26130a7795568865802e3f32437",
-      "title": "Iran's cyberattack against med tech firm is 'just the beginning'",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/18/irans_cyberattack_against_stryker/",
-      "published": "2026-03-18T07:32:08+00:00",
-      "summary": "<h4>Even without a navy, or air power, 'They'll still have the ability to hack'</h4> <p>Businesses should expect that Iran will conduct more aggressive cyber-ops as the war escalates, according to security analysts.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "d5d8869d9ecc385f8111fb9f52449b6dfd78df36",
-      "title": "\u2018CanisterWorm\u2019 Springs Wiper Attack Targeting Iran",
-      "url": "https://krebsonsecurity.com/2026/03/canisterworm-springs-wiper-attack-targeting-iran/",
-      "published": "2026-03-23T15:43:04+00:00",
-      "summary": "A financially motivated data theft and extortion group is attempting to inject itself into the Iran war, unleashing a worm that spreads through poorly secured cloud services and wipes data on infected systems that use Iran's time zone or have Farsi set as the default language.",
-      "source": "Krebs on Security",
+      "id": "12bc87bcb518a3700f15379c38033ef31a6b101c",
+      "title": "Axios NPM Package Breached in North Korean Supply Chain Attack",
+      "url": "https://www.securityweek.com/axios-npm-package-breached-in-north-korean-supply-chain-attack/",
+      "published": "2026-04-01T08:45:47+00:00",
+      "summary": "<p>A long-lived NPM access token was used to bypass the GitHub Actions OIDC-based CI/CD publishing workflow and push backdoored package versions.</p>\n<p>The post <a href=\"https://www.securityweek.com/axios-npm-package-breached-in-north-korean-supply-chain-attack/\">Axios NPM Package Breached in North Korean Supply Chain Attack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "4c218981900dfb4ec5f0a27ffe536f389ad55b35",
-      "title": "Feds Disrupt IoT Botnets Behind Huge DDoS Attacks",
-      "url": "https://krebsonsecurity.com/2026/03/feds-disrupt-iot-botnets-behind-huge-ddos-attacks/",
-      "published": "2026-03-20T00:49:19+00:00",
-      "summary": "The U.S. Justice Department joined authorities in Canada and Germany in dismantling the online infrastructure behind four highly disruptive botnets that compromised more than three million hacked Internet of Things (IoT) devices, such as routers and web cameras. The feds say the four botnets -- named Aisuru, Kimwolf, JackSkid and Mossad -- are responsible for a series of recent record-smashing distributed denial-of-service (DDoS) attacks capable of knocking nearly any target offline.",
-      "source": "Krebs on Security",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "25c8e36273c8f9741a6c2f46e23dd56eff9050da",
-      "title": "Iran-Backed Hackers Claim Wiper Attack on Medtech Firm Stryker",
-      "url": "https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/",
-      "published": "2026-03-11T16:20:13+00:00",
-      "summary": "A hacktivist group with links to Iran's intelligence agencies is claiming responsibility for a data-wiping attack against Stryker, a global medical technology company based in Michigan. News reports out of Ireland, Stryker's largest hub outside of the United States, said the company sent home more than 5,000 workers there today. Meanwhile, a voicemail message at Stryker's main U.S. headquarters says the company is currently experiencing a building emergency.",
-      "source": "Krebs on Security",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "a8b4199666bdf1d14474a37d8f428f7d60896c0f",
-      "title": "Microsoft Patch Tuesday, March 2026 Edition",
-      "url": "https://krebsonsecurity.com/2026/03/microsoft-patch-tuesday-march-2026-edition/",
-      "published": "2026-03-11T00:32:51+00:00",
-      "summary": "Microsoft Corp. today pushed security updates to fix at least 77 vulnerabilities in its Windows operating systems and other software. There are no pressing \"zero-day\" flaws this month (compared to February's five zero-day treat), but as usual some patches may deserve more rapid attention from organizations using Windows. Here are a few highlights from this month's Patch Tuesday.",
-      "source": "Krebs on Security",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "0bef1949a26ec105d63f86317434969b34819474",
-      "title": "How AI Assistants are Moving the Security Goalposts",
-      "url": "https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/",
-      "published": "2026-03-08T23:35:42+00:00",
-      "summary": "AI-based assistants or \"agents\" -- autonomous programs that have access to the user's computer, files, online services and can automate virtually any task -- are growing in popularity with developers and IT workers. But as so many eyebrow-raising headlines over the past few weeks have shown, these powerful and assertive new tools are rapidly shifting the security priorities for organizations, while blurring the lines between data and code, trusted co-worker and insider threat, ninja hacker and novice code jockey.",
-      "source": "Krebs on Security",
+      "id": "d0e5a97df42854f526f22e1fa231243b9564b56d",
+      "title": "Google Addresses Vertex Security Issues After Researchers Weaponize AI Agents",
+      "url": "https://www.securityweek.com/google-addresses-vertex-security-issues-after-researchers-weaponize-ai-agent/",
+      "published": "2026-04-01T07:43:16+00:00",
+      "summary": "<p>Palo Alto Networks has disclosed the details of its analysis of Google Cloud Platform\u2019s Vertex AI.</p>\n<p>The post <a href=\"https://www.securityweek.com/google-addresses-vertex-security-issues-after-researchers-weaponize-ai-agent/\">Google Addresses Vertex Security Issues After Researchers Weaponize AI Agents</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
@@ -1899,28 +1866,6 @@
       "url": "https://www.securityweek.com/exploitation-of-critical-fortinet-forticlient-ems-flaw-begins/",
       "published": "2026-03-31T11:39:45+00:00",
       "summary": "<p>The SQL injection vulnerability allows unauthenticated attackers to execute arbitrary code remotely, via crafted HTTP requests.</p>\n<p>The post <a href=\"https://www.securityweek.com/exploitation-of-critical-fortinet-forticlient-ems-flaw-begins/\">Exploitation of Critical Fortinet FortiClient EMS Flaw Begins</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "62298ef904eabd0501197cc5e5f9f065c7a938ca",
-      "title": "StrongSwan Flaw Allows Unauthenticated Attackers to Crash VPNs",
-      "url": "https://www.securityweek.com/strongswan-flaw-allows-unauthenticated-attackers-to-crash-vpns/",
-      "published": "2026-03-31T10:21:05+00:00",
-      "summary": "<p>Remotely exploitable, the integer underflow vulnerability impacts StrongSwan releases spanning 15 years.</p>\n<p>The post <a href=\"https://www.securityweek.com/strongswan-flaw-allows-unauthenticated-attackers-to-crash-vpns/\">StrongSwan Flaw Allows Unauthenticated Attackers to Crash VPNs</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "cb628219fbd95faf4d10a85595d0d0d0cb67f5cc",
-      "title": "Lloyds Data Security Incident Impacts 450,000 Individuals",
-      "url": "https://www.securityweek.com/lloyds-data-security-incident-impacts-450000-individuals/",
-      "published": "2026-03-31T10:07:40+00:00",
-      "summary": "<p>A faulty software update led to the exposure of mobile banking users\u2019 transactions to other users of the application.</p>\n<p>The post <a href=\"https://www.securityweek.com/lloyds-data-security-incident-impacts-450000-individuals/\">Lloyds Data Security Incident Impacts 450,000 Individuals</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
