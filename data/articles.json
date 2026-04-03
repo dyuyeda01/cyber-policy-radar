@@ -1,6 +1,28 @@
 {
-  "generated_at": "2026-04-02T12:41:19.339354+00:00",
+  "generated_at": "2026-04-03T01:07:35.630533+00:00",
   "items": [
+    {
+      "id": "f8b5565fb3aa93cd52e505010f763a97c1dda6f5",
+      "title": "Critical flaw in F5 BIG-IP faces wide exploitation risk",
+      "url": "https://www.cybersecuritydive.com/news/critical-flaw-in-f5-big-ip-faces-wide-exploitation-risk/816475/",
+      "published": "2026-04-02T15:01:58+00:00",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/Q6uZdgXjvXvCk8EkEjaDcuJoI3DDphQ6HTdPQ6sW6ms/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9GNS1Ub3dlci1FeHRlcmlvci0wNS5qcGc=.webp\" /></div></figure><p>The company revised a security advisory as newly disclosed information heightens the potential impact.</p>",
+      "source": "Cybersecurity Dive",
+      "region": "North America",
+      "country": "US",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "9fd53e7851d8ad970a4bea665cb856ce77014682",
+      "title": "Retail and hospitality CISOs expect budget growth, new AI headaches and opportunities",
+      "url": "https://www.cybersecuritydive.com/news/retail-hospitality-ai-cybersecurity-cisos-survey/816460/",
+      "published": "2026-04-02T14:16:42+00:00",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/DZaXcRA65nQg_6T4RftrIkRI76rayhbhnTIcics-qec/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjQ1MDgwNzUyX3pSMkE4T2YuanBn.webp\" /></div></figure><p>More than eight in 10 security leaders in the sector say they&rsquo;ve rolled out an AI governance framework to some degree, a new survey found.</p>",
+      "source": "Cybersecurity Dive",
+      "region": "North America",
+      "country": "US",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
     {
       "id": "028ce2875e46763216519083f878dfaa052db76a",
       "title": "Cyberattack hits Hasbro, impacting orders and shipping",
@@ -90,26 +112,37 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "36c78fd5912864397936a64ce01504521c05bb22",
-      "title": "Stryker restores most manufacturing after cyberattack",
-      "url": "https://www.cybersecuritydive.com/news/stryker-restores-most-manufacturing-after-cyberattack/816024/",
-      "published": "2026-03-30T13:58:00+00:00",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/4gQBQ_4pgZA16ab4dxbwcG5FnFvNWHyE_q_FgS5JP1E/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8yVEMzQU5NLmpwZw==.webp\" /></div></figure><p>The medtech company has been working to restore manufacturing, ordering and shipping operations since it was hit by a cyberattack on March 11.</p>",
-      "source": "Cybersecurity Dive",
+      "id": "5dea1e4bb2c7a6623f5bf9fc90624dfe6dc04e95",
+      "title": "Hackers Exploit CVE-2025-55182 to Breach 766 Next.js Hosts, Steal Credentials",
+      "url": "https://thehackernews.com/2026/04/hackers-exploit-cve-2025-55182-to.html",
+      "published": "2026-04-02T19:30:00+00:00",
+      "summary": "A&nbsp;large-scale credential harvesting operation&nbsp;has been&nbsp;observed exploiting the React2Shell vulnerability as an initial infection vector to steal database credentials, SSH private keys, Amazon Web Services (AWS) secrets, shell command history, Stripe API keys, and GitHub tokens at&nbsp;scale.\nCisco&nbsp;Talos has attributed the operation to a threat cluster it tracks&nbsp;as",
+      "source": "The Hacker News",
       "region": "North America",
       "country": "US",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8T48UROZtSjRXtkxVcNT2VmXbB1texWQPAqLbm06uwmJ8VsYFb_HeXOnZx9uz9QL-LB3aWdwcLm9TbuRler7w7jjXJlL_tQweQualaW4XEVav7Ysulqx_CJyc9a0P1dO1a69W_eQhroxV1LA_p5VB9T38Xubc3zXHgwd-4sAAc2whuv4ElnC5WtFSn7SH/s1600/nextjs.jpg"
     },
     {
-      "id": "8b7bff5341e30dab8ec5e9e99707242e8748bc2f",
-      "title": "Why user behavior is the primary entry point for cyberattacks",
-      "url": "https://www.cybersecuritydive.com/spons/why-user-behavior-is-the-primary-entry-point-for-cyberattacks/815819/",
-      "published": "2026-03-30T09:00:00+00:00",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/wU3grJNPfuRNhV-lUn8estPL3qm-J7TpKkCCVa1qW-k/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzE2MzcyMjUwLmpwZw==.webp\" /></div></figure><p>Human error still drives 60% of breaches &mdash; here&rsquo;s why attackers keep targeting users.</p>",
-      "source": "Cybersecurity Dive",
+      "id": "943198ee6773883b8ef5fc7b99853c2064531bd6",
+      "title": "Cisco Patches 9.8 CVSS IMC and SSM Flaws Allowing Remote System Compromise",
+      "url": "https://thehackernews.com/2026/04/cisco-patches-98-cvss-imc-and-ssm-flaws.html",
+      "published": "2026-04-02T15:21:00+00:00",
+      "summary": "Cisco&nbsp;has released updates to address a critical security flaw in the Integrated Management Controller (IMC) that, if successfully exploited, could allow an unauthenticated, remote attacker to bypass authentication and gain access to the system with elevated privileges.\nThe&nbsp;vulnerability, tracked as CVE-2026-20093, carries a CVSS score of 9.8&nbsp;out of a maximum of&nbsp;10.0.\n\"This",
+      "source": "The Hacker News",
       "region": "North America",
       "country": "US",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjH6wuST9R8voZTpCC-v5LSwd4O7vlbuRDhXMzcSw9iu0k2JvFOao-3Jr2o9iCs0jqX3pIqHvcYo_n-5Ad80WXeQXKV_DTgJUN0A6nl9f73BA1U0wRoZBqgySfDR6Uk7KD8jXzw2BFLGvusf-96qsINw9jT4PnglZohYM2VhSsdHcpw-cl6vwAekfE-KD_H/s1600/cisco-exploit.jpg"
+    },
+    {
+      "id": "442d059e5c80be9dea86ab515e0e8ae0713f4d2a",
+      "title": "ThreatsDay Bulletin: Pre-Auth Chains, Android Rootkits, CloudTrail Evasion & 10 More Stories",
+      "url": "https://thehackernews.com/2026/04/threatsday-bulletin-pre-auth-chains.html",
+      "published": "2026-04-02T12:45:00+00:00",
+      "summary": "The&nbsp;latest ThreatsDay Bulletin is basically a cheat sheet for everything breaking on the internet right now. No&nbsp;corporate fluff or boring lectures here, just a quick and honest look at the messy reality of keeping systems safe this&nbsp;week.\nThings&nbsp;are moving fast. The&nbsp;list includes researchers chaining small bugs together to create massive backdoors, old software flaws",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEht9hzOUmn8npVxC_AyWUe1DLsv1VkWHox2PmDxZnVuG_XnQt7R5l7CZHlYu9m9BcwAib4L0j0x877sDuCF2shmSH3ef0Me-m0sbKDtu-ZEw5RLqLGNsjGJ0o-b_CuKtFg86fMFb-GKVBud7S8PfpsoL4HCqEZypO1NcWfx6ljXcUhC5O4GIjRbhRcG-fIi/s1600/threatsday.jpg"
     },
     {
       "id": "f4c5ebc931fc54a25d4d608f85fcec327cade31d",
@@ -629,44 +662,66 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSFQsR3JgSCA44WGyYmcmFuACIlDkUDxOnRar3b3B-JHXTZq_dxARV6GEM5gvclJQktlfwnU88fV1Gzcr3HO7EJHoeE5kYA262Vv0SlCB6XPuyAiTSas8Iw0Ca5QkvnGaduv0Dt9euHjKn6A6lYWAHkpXPjbBRdmV1piwxsILM8wcfgT6mjtgQeEB4BUk/s1600/ransomware-russia.jpg"
     },
     {
-      "id": "2cdbd48d5b4a1c37212cae65ad5f73f9c81ba582",
-      "title": "Device Code Phishing Hits 340+ Microsoft 365 Orgs Across Five Countries via OAuth Abuse",
-      "url": "https://thehackernews.com/2026/03/device-code-phishing-hits-340-microsoft.html",
-      "published": "2026-03-25T11:34:00+00:00",
-      "summary": "Cybersecurity researchers are calling attention to an active device code phishing campaign that's targeting Microsoft 365 identities across more than 340 organizations in the U.S., Canada, Australia, New Zealand, and Germany.\nThe activity, per Huntress, was first spotted on February 19, 2026, with subsequent cases appearing at an accelerated pace since then. Notably, the campaign leverages",
-      "source": "The Hacker News",
+      "id": "16ba4da73e382a6d0f1ff0a3c14392d23d223ccb",
+      "title": "Geopolitics, AI, and Cybersecurity: Insights From RSAC 2026",
+      "url": "https://www.darkreading.com/cybersecurity-operations/geopolitics-ai-cybersecurity-insights-rsac-2026",
+      "published": "2026-04-02T21:14:27+00:00",
+      "summary": "AI-driven threats, global leadership shifts, and the future of cybersecurity in a rapidly evolving landscape were among the discussions at RSAC 2026 Conference.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifvDHwUAT0Y5sILbpMYi15pftc8kD-oPKrtaUucJ0PLeFRnxKsA14uMC3zCpTPZwj0w7GBTqFQCMfmwzzy_tv-RYTVBijk_x2KWzKkS68n9QfolIhr2B3rSMTGJWg3qt9ZbTYWDiyHmKNT6yD47XPMyS2aj8DF_lyKGKKGWfIsohBlWJvjS_Z3j_XqMZQ/s1600/ms-phish-kit.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt52c682d1b06fcea2/69cc3ebb4642d5670041150e/quantum_computing1800_jvphoto_alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "ce5c962b278a369d50fc5c08320b601f4167d781",
-      "title": "FCC Bans New Foreign-Made Routers Over Supply Chain and Cyber Risk Concerns",
-      "url": "https://thehackernews.com/2026/03/fcc-bans-new-foreign-made-routers-over.html",
-      "published": "2026-03-25T07:11:00+00:00",
-      "summary": "The U.S. Federal Communications Commission (FCC) said on Monday that it was banning the import of new, foreign-made consumer routers, citing \"unacceptable\" risks to cyber and national security.\nThe action was designed to safeguard Americans and the underlying communications networks the country relies on, FCC Chairman Brendan Carr said in a post on X. The development means that new models of",
-      "source": "The Hacker News",
+      "id": "354599b25ca7e091a7542d9a2c66038f5eb71d5f",
+      "title": "Not Toying Around: Hasbro Attack May Take 'Weeks' to Remediate",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/toying-around-hasbro-attack-remediate",
+      "published": "2026-04-02T20:28:36+00:00",
+      "summary": "The company's 8-K filing notes &quot;unauthorized access&quot; and that it's activated business continuity plans and taken some systems offline.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCWdGgQ4RKWsSD83uBmdU0Vfi3E1vEi1qS7ImOYUXa9S6eDs5ShKP0tz3sZL5FPdt6lzwG4scb7HQPjGnsdPDFNWxZ2k8yK-whH4uU9_Ez3Nt5178ETgKceu4LpAPntUZZ7utBkHBd261B5Ltt2weQVT94qjY4wcRRGfSpv1sAZLjAVDc_oSNMPiISo4dU/s1600/routers.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb4eb373845e02c10/69cec4d10268bec52dd83c55/Operation-Kerry_Taylor-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "c780d5ef478fef26bc27ed7efe15d54aa505899f",
-      "title": "TeamPCP Backdoors LiteLLM Versions 1.82.7\u20131.82.8 via Trivy CI/CD Compromise",
-      "url": "https://thehackernews.com/2026/03/teampcp-backdoors-litellm-versions.html",
-      "published": "2026-03-24T18:21:00+00:00",
-      "summary": "TeamPCP, the threat actor behind the recent compromises of Trivy and KICS, has now compromised a popular Python package named litellm, pushing two malicious versions containing a credential harvester, a Kubernetes lateral movement toolkit, and a persistent backdoor.\nMultiple security vendors, including Endor Labs and JFrog, revealed that litellm versions 1.82.7 and 1.82.8 were published on March",
-      "source": "The Hacker News",
+      "id": "f17b44cf6ceec5d2bcaee26db1d5efc0450bbc0a",
+      "title": "Security Bosses Are All-In on AI. Here's Why",
+      "url": "https://www.darkreading.com/cybersecurity-operations/security-bosses-all-in-ai",
+      "published": "2026-04-02T19:12:45+00:00",
+      "summary": "CISOs are bullish on AI and have big plans to roll out future tools. We talk to Reddit CISO Frederick Lee and leading analyst Dave Gruber about how AI is working out in the real world, as well as its future promise.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj52VkG6lfgHeRYSGJwB7xAkCm5_4uKyAUtZ3NiyGrlOTFU_zejzA3uU0HPKiFCCvp1PSXhtiSqTROkqIvJ3kur9VTYMRRQRV4M9_0p2PVw28DxOUbH_3CnZBgsLtiv3_0BBmyP792ONBzcl_yEwteI6uQ2GkLkj59el1hZwmHJEyZLo5wwLgbr5rEDi-r6/s1600/litellm.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0469f94bd17817ff/6642699959fdc64aa5f9c5fa/dark-reading-confidential-logo-sq.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
+      "id": "2f8bca120ecf0d7157984c05f884405dcbf5a8d7",
+      "title": "RSAC 2026: AI Dominates, But Community Remains Key to Security",
+      "url": "https://www.darkreading.com/cybersecurity-operations/rsac-2026-ai-dominates-community",
+      "published": "2026-04-02T15:56:32+00:00",
+      "summary": "As AI took center stage at this year's conference, experts debated automation, oversight and the evolving role of human intelligence in cybersecurity \u2014 despite the US government's notable absence.",
+      "source": "DarkReading",
+      "region": "North America",
+      "country": "US",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7c4a998794182807/69cdf0ad19dc583a4e26ec0f/conference1800_sebastien_bonaime_alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
+      "id": "6794dcee8b7b5ccb1cbd9e041f2cc23de4eba257",
+      "title": "Bank Trojan 'Casbaneiro' Worms Through Latin America",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/bank-trojan-casbaneiro-worms-latin-america",
+      "published": "2026-04-02T13:00:00+00:00",
+      "summary": "Augmented Marauder's multipronged banking-Trojan cyber campaigns are targeting Spanish speakers, evading detection, and replicating rapidly.",
+      "source": "DarkReading",
+      "region": "North America",
+      "country": "US",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt16cb4a90b4357a88/69cd468c610d0ab0477bd007/Worm_carnival_ride-Hugo_Oliveira-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "id": "ad03a094228f831dbfdd196a8788b14e37d1ee28",
       "title": "Ransomware Will Hit Hospitals. Rehearsals Are Key to Defense",
       "url": "https://www.darkreading.com/cybersecurity-operations/ransomware-hospitals-preparation-key-defense",
       "published": "2026-04-01T22:04:43+00:00",
-      "summary": "A chief medical information officer provided a peek into what hospitals face when they inevitably suffer a ransomware attack\u2014whether it leads to short or long-term outages.",
+      "summary": "A chief medical information officer describes what hospitals face when they inevitably suffer a ransomware attack\u2014whether it leads to short- or long-term outages.",
       "source": "DarkReading",
       "region": "North America",
       "country": "US",
@@ -1157,59 +1212,15 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt56a20b542c082472/69c1a720f5bbfd6de1b8a688/supplychain_ImageFlow_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "01c1c291e5c9f1450a3c1960a10ee0d43d3b16c0",
-      "title": "Ransomware's New Era: Moving at AI Speed",
-      "url": "https://www.darkreading.com/endpoint-security/ransomware-new-era-moving-ai-speed",
-      "published": "2026-03-23T21:40:37+00:00",
-      "summary": "Threat actors bypass security tools and use AI to launch faster ransomware attacks that exploit valid credentials and target data.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc88c79f37cbb1f97/69c1f6135a8781ad34dc3f65/halcyon-who-benefits-from-ai.png?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
-      "id": "84404fd85f409fa5b3046171eb450d5c81e8ed9f",
-      "title": "CISOs Debate Human Role in AI-Powered Security",
-      "url": "https://www.darkreading.com/application-security/cisos-debate-human-role-ai-powered-security",
-      "published": "2026-03-23T20:26:26+00:00",
-      "summary": "The idea of a &quot;human in the loop&quot; in AI deployment was challenged during a security executive panel at the RSAC 2026 Conference this week.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt654ea4d6d54b8adf/69c1a3571190c79717853685/AI_vs_human_robert_hyrons_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
-      "id": "4d3cc94c8c7d11427f43d1a45df9a9faf9a3c4ae",
-      "title": "Attackers Hide Infostealer in Copyright Infringement Notices",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/attackers-hide-infostealer-copyright-infringement-notices",
-      "published": "2026-03-23T15:11:01+00:00",
-      "summary": "A phishing campaign targeting healthcare, government, hospitality, and education sectors in various countries uses several evasion techniques to avoid detection.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta5a35ef3b16df4da/69c1257327cbec3dd53e228d/Warning_(1800)_Wavebreakmedia_Ltd_IFE-210813_Alamy.png?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
-      "id": "b2bc417a75212a4f22aac1ceede629da50854520",
-      "title": "Patch Now: Oracle's Fusion Middleware Has Critical RCE Flaw",
-      "url": "https://www.darkreading.com/vulnerabilities-threats/patch-oracle-fusion-middleware-rce-flaw",
-      "published": "2026-03-20T19:30:19+00:00",
-      "summary": "Attackers can execute arbitrary code without authentication if Oracle's Identity or Web Services Managers are exposed to the Web.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3966162dd76f69cb/69bd954678da062bb91c2e6a/Oracle-Jerome_Cid-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
-      "id": "4e5a59d2ebfceab6a1ab95dde0b38a4c34c48957",
-      "title": "Cyber OpSec Fail: Beast Gang Exposes Ransomware Server",
-      "url": "https://www.darkreading.com/threat-intelligence/opsec-beast-gang-exposes-ransomware-server",
-      "published": "2026-03-20T16:31:33+00:00",
-      "summary": "Files on a central cloud server used by the ransomware group highlight a systematic, aggressive attack on network backups as a key TTP.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt37940faf94d51576/69bd782de800671de0dc9622/beast-masks-at-hungarian-spring-carnival-Zsolt_Biczo-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "id": "d71268451aca78dcd1dc81830385946bafb028d8",
+      "title": "They thought they were downloading Claude Code source. They got a nasty dose of malware instead",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/02/trojanized_claude_code_leak_github/",
+      "published": "2026-04-02T17:34:07+00:00",
+      "summary": "<h4>Source code with a side of Vidar stealer and GhostSocks</h4> <p>Tens of thousands of people eagerly downloaded the leaked Claude Code source code this week, and some of those downloads came with a side of credential-stealing malware.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
       "id": "7dcba598dce65331dbfd54e7d07457b9a8cfaa6e",
@@ -1751,17 +1762,6 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "777abf7b43e02adbdca71b92f6d078b6f3bae865",
-      "title": "Okta made a nightmare micromanager for your AI agents",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/18/okta_agent_micromanager/",
-      "published": "2026-03-18T23:05:31+00:00",
-      "summary": "<h4>Where are you? What are you working on? Why are you doing that?</h4> <p>Identity access and management platform Okta announced the general availability of its Okta for AI Agents, which will give customers the ability to do three things: locate agents, see what they\u2019re doing, and shut them down if need be.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
       "id": "d5d8869d9ecc385f8111fb9f52449b6dfd78df36",
       "title": "\u2018CanisterWorm\u2019 Springs Wiper Attack Targeting Iran",
       "url": "https://krebsonsecurity.com/2026/03/canisterworm-springs-wiper-attack-targeting-iran/",
@@ -1812,6 +1812,39 @@
       "published": "2026-03-08T23:35:42+00:00",
       "summary": "AI-based assistants or \"agents\" -- autonomous programs that have access to the user's computer, files, online services and can automate virtually any task -- are growing in popularity with developers and IT workers. But as so many eyebrow-raising headlines over the past few weeks have shown, these powerful and assertive new tools are rapidly shifting the security priorities for organizations, while blurring the lines between data and code, trusted co-worker and insider threat, ninja hacker and novice code jockey.",
       "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "7264779dde5922145082de26184d78d2ec04e723",
+      "title": "Critical Vulnerability in Claude Code Emerges Days After Source Leak",
+      "url": "https://www.securityweek.com/critical-vulnerability-in-claude-code-emerges-days-after-source-leak/",
+      "published": "2026-04-02T18:00:55+00:00",
+      "summary": "<p>Within days of each other, Anthropic first leaked the source code to Claude Code, and then a critical vulnerability was found by Adversa AI.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-vulnerability-in-claude-code-emerges-days-after-source-leak/\">Critical Vulnerability in Claude Code Emerges Days After Source Leak</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "611dde74c4b8c7e9022d35477fd5285e60ce4b1a",
+      "title": "Apple Rolls Out DarkSword Exploit Protection to More Devices",
+      "url": "https://www.securityweek.com/apple-rolls-out-darksword-exploit-protection-to-more-devices/",
+      "published": "2026-04-02T16:18:07+00:00",
+      "summary": "<p>The DarkSword exploit kit has been used by both state-sponsored hackers and commercial spyware vendors.</p>\n<p>The post <a href=\"https://www.securityweek.com/apple-rolls-out-darksword-exploit-protection-to-more-devices/\">Apple Rolls Out DarkSword Exploit Protection to More Devices</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "2d6bf34adeaa377f1aea5a5c01ea99b3f10a92ab",
+      "title": "Cybersecurity M&A Roundup: 38 Deals Announced in March 2026",
+      "url": "https://www.securityweek.com/cybersecurity-ma-roundup-38-deals-announced-in-march-2026/",
+      "published": "2026-04-02T14:30:00+00:00",
+      "summary": "<p>Significant cybersecurity M&#038;A deals announced by Airbus, Cellebrite, Databricks, Quantum eMotion, Rapid7, and OpenAI.</p>\n<p>The post <a href=\"https://www.securityweek.com/cybersecurity-ma-roundup-38-deals-announced-in-march-2026/\">Cybersecurity M&#038;A Roundup: 38 Deals Announced in March 2026</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
@@ -1888,39 +1921,6 @@
       "url": "https://www.securityweek.com/depthfirst-raises-80-million-in-series-b-funding/",
       "published": "2026-04-01T16:47:45+00:00",
       "summary": "<p>The startup will expand its AI research team, train additional security models, and scale enterprise adoption.</p>\n<p>The post <a href=\"https://www.securityweek.com/depthfirst-raises-80-million-in-series-b-funding/\">Depthfirst Raises $80 Million in Series B Funding</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "9656b7481f85f18b24caaa28804dcbea4649c3b9",
-      "title": "Toy Giant Hasbro Hit by Cyberattack",
-      "url": "https://www.securityweek.com/toy-giant-hasbro-hit-by-cyberattack/",
-      "published": "2026-04-01T15:35:47+00:00",
-      "summary": "<p>The company is investigating the full scope of the incident, including whether any files have been compromised.</p>\n<p>The post <a href=\"https://www.securityweek.com/toy-giant-hasbro-hit-by-cyberattack/\">Toy Giant Hasbro Hit by Cyberattack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "e0a63683fa94ee03838a9e44c75fd632ef9cf035",
-      "title": "New DeepLoad Malware Dropped in ClickFix Attacks",
-      "url": "https://www.securityweek.com/new-deepload-malware-dropped-in-clickfix-attacks/",
-      "published": "2026-04-01T15:04:43+00:00",
-      "summary": "<p>The malware steals credentials, installs a malicious browser extension, and can spread via USB drives.</p>\n<p>The post <a href=\"https://www.securityweek.com/new-deepload-malware-dropped-in-clickfix-attacks/\">New DeepLoad Malware Dropped in ClickFix Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "c2a1dcf2f28bf728e31191fd7ea610241e28898c",
-      "title": "Exploited Zero-Day Among 21 Vulnerabilities Patched in Chrome",
-      "url": "https://www.securityweek.com/exploited-zero-day-among-21-vulnerabilities-patched-in-chrome/",
-      "published": "2026-04-01T14:36:39+00:00",
-      "summary": "<p>Google has announced fixes for CVE-2026-5281, a zero-day affecting Chrome\u2019s Dawn component.\u00a0</p>\n<p>The post <a href=\"https://www.securityweek.com/exploited-zero-day-among-21-vulnerabilities-patched-in-chrome/\">Exploited Zero-Day Among 21 Vulnerabilities Patched in Chrome</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
