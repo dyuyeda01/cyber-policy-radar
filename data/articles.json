@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-05T12:28:04.678156+00:00",
+  "generated_at": "2026-04-06T01:10:49.879473+00:00",
   "items": [
     {
       "id": "bc0615130a59dc9375536e16b72f34ea95c6c0ec",
@@ -110,6 +110,17 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "f6bd4f3ebe341d46793696b3a94df73d5d80f06d",
+      "title": "$285 Million Drift Hack Traced to Six-Month DPRK Social Engineering Operation",
+      "url": "https://thehackernews.com/2026/04/285-million-drift-hack-traced-to-six.html",
+      "published": "2026-04-05T18:25:00+00:00",
+      "summary": "Drift&nbsp;has revealed that the April 1, 2026, attack that led to&nbsp;the theft of $285&nbsp;million was the culmination of a months-long targeted and meticulously planned social engineering operation undertaken by the Democratic People's Republic of Korea (DPRK) that began in the fall of&nbsp;2025.\nThe&nbsp;Solana-based decentralized exchange described it as \"an attack six months in the",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2eFUAGb2m5vs6mOwArunSX0lzBpR8Ag24yQhUtaYxrcHx2V46YcocY9oei-HH89QSB-HTxXta3bLH70_n6zMCRD949ttVsKlt4WnzSZ0rl1v4Suj3A7xftqjQSEXDq_cfLCIcMuENqoFeD9zBW0qZXr1owIEQEqzSNkaKfHFsGF35-lseSZbc0MGLRRWu/s1600/drift-hack.jpg"
     },
     {
       "id": "d89f189f8d2c6ff0ddc700891d6248b4627a56a3",
@@ -649,17 +660,6 @@
       "region": "North America",
       "country": "US",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCypzkb6uvHuNx6LKknUqtvQFoqsr6aalztDeBKT1aaUASzfjZMZAZqExx1k0w5iKWl08lx3MxbM_FwWxAvBdZODEerioaMp8OHVvhSjC8VL3uAW9_NMniMl_niggBVhVMdDFu2324YyhW5TrK4fua1PXlrb0DweOULvNgi5mlQUZUct_dIX3OePrfqks/s1600/validate.jpg"
-    },
-    {
-      "id": "3ed9939d98eb515cdeb808bc06d9f9cc7f3f0efc",
-      "title": "Claude Extension Flaw Enabled Zero-Click XSS Prompt Injection via Any Website",
-      "url": "https://thehackernews.com/2026/03/claude-extension-flaw-enabled-zero.html",
-      "published": "2026-03-26T13:11:00+00:00",
-      "summary": "Cybersecurity researchers have disclosed a vulnerability in Anthropic's Claude Google Chrome Extension that could have been exploited to trigger malicious prompts simply by visiting a web page.\nThe flaw \"allowed any website to silently inject prompts into that assistant as if the user wrote them,\" Koi Security researcher Oren Yomtov said in a report shared with The Hacker News. \"No clicks, no",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvKbsVkCFVvziyQ564TDmmBjGzy6lzKUcC_rmt-GZWOiCshA_YGAhsMjib7OhvNS_8OX6micW6hWSY4lWh6IoGcyy_tCywr9Tr-qhyI4Wau32zV80zS3OJRVnbSZtHQqWO-RvoznJ34HjG6M5CDlKIXXTyAuZvVS235fZ9juweln5KS77w1w80Jk113rAW/s1600/claude.jpg"
     },
     {
       "id": "559f65cbaac7497275b8e7c7b72dc145057e7173",
@@ -1212,6 +1212,28 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb9b937f8191f7db1/68373d80713d870ca9cf4bdf/AI_(1800)_imageBROKER.com_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
+      "id": "463b33c35ab1b956a637c36d765e65eddfb41b87",
+      "title": "Anthropic sure has a mess on its hands thanks to that Claude Code source leak",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/06/anthropic_code_leak_kettle_podcast/",
+      "published": "2026-04-06T00:02:52+00:00",
+      "summary": "<h4>Pay no attention to that code behind the curtain, says Anthropic as it scrambles to defend its IPO</h4> <p><strong>Kettle</strong>\u00a0 When it comes to circling up for this week's Kettle, what is there to discuss but Anthropic's accidental release of Claude Code's source code?\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "51a84b529ae97272a19f426cd5e2ca135a5923a3",
+      "title": "Researchers didn\u2019t want to glamorize cybercrims. So they roasted them",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/05/trellix_john_fokker_roasting_crims/",
+      "published": "2026-04-05T13:00:13+00:00",
+      "summary": "<h4>True-crime tales of criminals making fools of themselves</h4> <p><strong>interview</strong>\u00a0 Cybercrime crews have become almost mystical entities, with security vendors assigning them names like Wizard Spider and Velvet Tempest.\u2026</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "a8746c5c9a394b8057640ab97628f587c359102a",
       "title": "Trump wants to take a battle axe to CISA again and slash $707M from budget",
       "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/03/trump_cisa_budget/",
@@ -1734,28 +1756,6 @@
       "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/20/digital_id_consultation/",
       "published": "2026-03-20T10:15:14+00:00",
       "summary": "<h4>Audit trails aplenty, but no price tag \u2013 and no clue how long your data sticks around</h4> <p><strong>Opinion</strong>\u00a0 Last week's UK government consultation on its plans for digital identity had quite a few things missing. It did not include a <a href=\"https://www.theregister.com/2026/03/11/digital_id_cost/\" target=\"_blank\">price estimate</a> - something it said was due to decisions yet to be taken on the scheme's scope - or how long the government would keep \"audit trail\" records of ID checks.\u2026</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "11c3f4dcb84a02aa799a6e408b9c482f2bbea597",
-      "title": "While you're here, could you go out of your way to do an impossible job?",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/20/on_call/",
-      "published": "2026-03-20T07:30:11+00:00",
-      "summary": "<h4>He would have gotten away with it too, if it weren't for a meddling security team's fear of USB</h4> <p><strong>On Call</strong>\u00a0 Each Friday <i>The Register</i> offers a fresh installment of On Call, the reader-contributed column that celebrates the fine art of tech support.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "c642d755b363278bb9f122fca5697d6dfcb543f6",
-      "title": "Unknown attackers exploit yet another critical SharePoint bug",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/19/unknown_attackers_exploit_yet_another/",
-      "published": "2026-03-19T18:54:19+00:00",
-      "summary": "<h4>Last time: Beijing-backed snoops and ransomware crims. Who's next?</h4> <p>Unknown baddies are abusing yet another critical Microsoft SharePoint bug to compromise victims' SharePoint servers, the US government warned.\u2026</p>",
       "source": "The Register \u2013 Security",
       "region": "Europe",
       "country": "UK",
