@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-06T01:10:49.879473+00:00",
+  "generated_at": "2026-04-06T12:40:46.878965+00:00",
   "items": [
     {
       "id": "bc0615130a59dc9375536e16b72f34ea95c6c0ec",
@@ -110,6 +110,39 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "45f3ef4e5615e09aef5fa1654425879671fbf136",
+      "title": "How LiteLLM Turned Developer Machines Into Credential Vaults for Attackers",
+      "url": "https://thehackernews.com/2026/04/how-litellm-turned-developer-machines.html",
+      "published": "2026-04-06T11:45:00+00:00",
+      "summary": "The&nbsp;most active piece of enterprise infrastructure in the company is the developer workstation. That&nbsp;laptop is where credentials are created, tested, cached, copied, and reused across services, bots, build tools, and now local AI&nbsp;agents.\nIn&nbsp;March 2026, the TeamPCP threat&nbsp;actor proved just how&nbsp;valuable developer&nbsp;machines are. Their&nbsp;supply chain attack on",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbMDHeEKBkLDrqXHQ8NZfqd3KdR2hzLuhCEQuQKp0yXA20kmu7JR385GZdV94U615EVunwKkJkDSHlqeoEiu5pB4uElhCSO_vOXWsVUUJvgNkmZE1Z22o_yIapvMEOwvqaG7B31S4ojGPnDwGVqd7zgdtg53IS0AsTkHJRBOvdwf726Fypp5CP7m-3rtc/s1600/liteLLM-breach.gif"
+    },
+    {
+      "id": "8f939837e3c7f3beb410222b865a0bb74344c19d",
+      "title": "Qilin and Warlock Ransomware Use Vulnerable Drivers to Disable 300+ EDR Tools",
+      "url": "https://thehackernews.com/2026/04/qilin-and-warlock-ransomware-use.html",
+      "published": "2026-04-06T10:07:00+00:00",
+      "summary": "Threat actors associated&nbsp;with Qilin&nbsp;and Warlock ransomware operations&nbsp;have been&nbsp;observed using the bring your own vulnerable driver&nbsp;(BYOVD) technique to silence security tools running on compromised hosts, according to findings from Cisco Talos and Trend&nbsp;Micro.\nQilin attacks analyzed by Talos&nbsp;have been&nbsp;found to deploy a malicious DLL named \"msimg32.dll,\"",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtrUKOrJ2Y_pSYHNcKDjbrBsZa2igYlNorTwmH31JNSjdA7VP84kXj23nmkk7DTqlrCUsfCjNo6xt-niyZeKeCR7VtBzMWW9eNUKzU0WGnpmw2yYjHBdboP2uF2UA8CCsdclyeDlRJcU7DEOD8OrFthlhQX-OkgePmyT__ZDQA4IXgRYbnNtp21MoleCTU/s1600/lock-ransomware.jpg"
+    },
+    {
+      "id": "c8b7528cd093ce1402bab83b6db525bcca4e4d39",
+      "title": "BKA Identifies REvil Leaders Behind 130 German Ransomware Attacks",
+      "url": "https://thehackernews.com/2026/04/bka-identifies-revil-leaders-behind-130.html",
+      "published": "2026-04-06T06:59:00+00:00",
+      "summary": "Germany's Federal Criminal Police Office (aka BKA or the Bundeskriminalamt) has unmasked the real identities of two of the key figures associated with the now-defunct REvil (aka Sodinokibi) ransomware-as-a-service (RaaS) operation.\nOne of the threat actors, who went by the alias UNKN, functioned as a representative of the group, advertising the ransomware in June 2019 on the XSS cybercrime forum",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsBHK8DX9E30isZVcn1e-a6p8bmNUAki0SmUh1Tkt9dP8L3D4_WcwT64CI5OVuh1brb1Z4pff7onp90K76ktHbs6-H6Kr0rq9Q2f03oW91e3mA5dN5XdLDyWNns5NcfXw7BKFzH28SbpaFo9l8TmMeZ7Mt6o1ePanKeFYGa8V1S9Rez_E30SIAx2yvfuNl/s1600/revil-ransomware.jpg"
     },
     {
       "id": "f6bd4f3ebe341d46793696b3a94df73d5d80f06d",
@@ -627,39 +660,6 @@
       "region": "North America",
       "country": "US",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJa_h_fZ55AqNWxz1cuJLjlOtmxDcBXqTxZ8URxFwRfQ1OsNpcQKZOafbe7MxL72WZ3c7ashklJn4nlUj6FD87PPAznL0bzBhlpRIpUTtHqluiAjZBZgMEPTvwPyBeSrsnrSTnmbuPTwpQQDl2xLHPpynscV2zy7sk_SMU3u_gNkbzAaoT16Lr8SZXQgJs/s1600/russian-ransomware.jpg"
-    },
-    {
-      "id": "68d7df31ddbeafaa38b23b40ffa199b6664fed0b",
-      "title": "LangChain, LangGraph Flaws Expose Files, Secrets, Databases in Widely Used AI Frameworks",
-      "url": "https://thehackernews.com/2026/03/langchain-langgraph-flaws-expose-files.html",
-      "published": "2026-03-27T08:07:00+00:00",
-      "summary": "Cybersecurity researchers have disclosed three security vulnerabilities impacting LangChain and LangGraph that, if successfully exploited, could expose filesystem data, environment secrets, and conversation history.\nBoth LangChain and LangGraph are open-source frameworks that are used to build applications powered by Large Language Models (LLMs). LangGraph is built on the foundations of",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkhroYg33geYKogEf838RfX0FRNjBX23ucPFzrxtbtf2CyTxoGZZ4RbTArZX672fygWxhNN2MOX-SXaPzWJPOeRTrnLCzYzQZ2e-7HO98AIbj-wEXbrPWSwzIOW2NbNhpWfayHyPYHyJGTRxZmDCHhR_qk79vyb29q1_p-hBCWvY2GsAPu0296IOlq_uQv/s1600/langchain.jpg"
-    },
-    {
-      "id": "2ad345672299ee506366ff90a6c465c30c34614b",
-      "title": "China-Linked Red Menshen Uses Stealthy BPFDoor Implants to Spy via Telecom Networks",
-      "url": "https://thehackernews.com/2026/03/china-linked-red-menshen-uses-stealthy.html",
-      "published": "2026-03-26T17:40:00+00:00",
-      "summary": "A long-term and ongoing campaign attributed to a China-nexus threat actor has embedded itself in telecom networks to conduct espionage against government networks.\nThe strategic positioning activity, which involves implanting and maintaining stealthy access mechanisms within critical environments, has been attributed to Red Menshen, a threat cluster that's also tracked as Earth Bluecrow,",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDsXRdaBMsOY-JUezvB02i5xzt_pSMJYGGGmt3ujh5C7VDZ7YLODicjiwDHF0vR9Y6P7XfPJJ-sIzu3aElQOfOExYn15O9tjCrOubY531cg1hKVN7U1aGCq5avhsEBdxu0qCTuwgXQEHS4mkHExgUQbsR8iU2CS7fBZAlTyXlD9o0hmU0oJ8jCip_fok4G/s1600/tower-hack.jpg"
-    },
-    {
-      "id": "3446737c9ba7cf2a07ea0e6c1ff2e0240e1c167c",
-      "title": "[Webinar] Stop Guessing. Learn to Validate Your Defenses Against Real Attacks",
-      "url": "https://thehackernews.com/2026/03/webinar-stop-guessing-learn-to-validate.html",
-      "published": "2026-03-26T13:12:00+00:00",
-      "summary": "Most teams have security tools in place. Alerts are firing, dashboards look clean, threat intel is flowing in. On the surface, everything feels under control.\nBut one question usually stays unanswered: Would your defenses actually stop a real attack?\nThat\u2019s where things get shaky. A control exists, so it\u2019s assumed to work. A detection rule is active, so it\u2019s expected to catch something. But very",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCypzkb6uvHuNx6LKknUqtvQFoqsr6aalztDeBKT1aaUASzfjZMZAZqExx1k0w5iKWl08lx3MxbM_FwWxAvBdZODEerioaMp8OHVvhSjC8VL3uAW9_NMniMl_niggBVhVMdDFu2324YyhW5TrK4fua1PXlrb0DweOULvNgi5mlQUZUct_dIX3OePrfqks/s1600/validate.jpg"
     },
     {
       "id": "559f65cbaac7497275b8e7c7b72dc145057e7173",
@@ -1762,6 +1762,17 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "a8697ca5f1d9fdf9ccc343929a4a781742957f93",
+      "title": "Germany Doxes \u201cUNKN,\u201d Head of RU Ransomware Gangs REvil, GandCrab",
+      "url": "https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/",
+      "published": "2026-04-06T02:07:17+00:00",
+      "summary": "An elusive hacker who went by the handle \"UNKN\" and ran the early Russian ransomware groups GandCrab and REvil now has a name and a face. Authorities in Germany say 31-year-old Russian Daniil Maksimovich Shchukin headed both cybercrime gangs and helped carry out at least 130 acts of computer sabotage and extortion against victims across the country between 2019 and 2021.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "d5d8869d9ecc385f8111fb9f52449b6dfd78df36",
       "title": "\u2018CanisterWorm\u2019 Springs Wiper Attack Targeting Iran",
       "url": "https://krebsonsecurity.com/2026/03/canisterworm-springs-wiper-attack-targeting-iran/",
@@ -1812,6 +1823,39 @@
       "published": "2026-03-08T23:35:42+00:00",
       "summary": "AI-based assistants or \"agents\" -- autonomous programs that have access to the user's computer, files, online services and can automate virtually any task -- are growing in popularity with developers and IT workers. But as so many eyebrow-raising headlines over the past few weeks have shown, these powerful and assertive new tools are rapidly shifting the security priorities for organizations, while blurring the lines between data and code, trusted co-worker and insider threat, ninja hacker and novice code jockey.",
       "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "6d65f9593f43ed354aaeaa52259558a2354ba28a",
+      "title": "Guardarian Users Targeted With Malicious Strapi NPM Packages",
+      "url": "https://www.securityweek.com/guardarian-users-targeted-with-malicious-strapi-npm-packages/",
+      "published": "2026-04-06T11:40:56+00:00",
+      "summary": "<p>Hackers published 36 NPM packages posing as Strapi plugins to execute shells, escape containers, and harvest credentials.</p>\n<p>The post <a href=\"https://www.securityweek.com/guardarian-users-targeted-with-malicious-strapi-npm-packages/\">Guardarian Users Targeted With Malicious Strapi NPM Packages</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "9e0dc3ca97b8df7415f4e0b5df34dcb69c02f578",
+      "title": "North Korean Hackers Target High-Profile Node.js Maintainers",
+      "url": "https://www.securityweek.com/north-korean-hackers-target-high-profile-node-js-maintainers/",
+      "published": "2026-04-06T11:02:36+00:00",
+      "summary": "<p>The threat actor behind the Axios supply chain attack has been aiming at other maintainers in its social engineering campaign.</p>\n<p>The post <a href=\"https://www.securityweek.com/north-korean-hackers-target-high-profile-node-js-maintainers/\">North Korean Hackers Target High-Profile Node.js Maintainers</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "4fd4edb49a621cb1621b565a85eac29e0e17e03b",
+      "title": "Fortinet Rushes Emergency Fixes for Exploited Zero-Day",
+      "url": "https://www.securityweek.com/fortinet-rushes-emergency-fixes-for-exploited-zero-day/",
+      "published": "2026-04-06T09:37:28+00:00",
+      "summary": "<p>The improper access control bug in FortiClient EMS allows unauthenticated attackers to execute arbitrary code remotely.</p>\n<p>The post <a href=\"https://www.securityweek.com/fortinet-rushes-emergency-fixes-for-exploited-zero-day/\">Fortinet Rushes Emergency Fixes for Exploited Zero-Day</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
@@ -1888,39 +1932,6 @@
       "url": "https://www.securityweek.com/t-mobile-sets-the-record-straight-on-latest-data-breach-filing/",
       "published": "2026-04-03T10:30:00+00:00",
       "summary": "<p>The cybersecurity incident involved an insider and had a limited impact, the telecoms giant told SecurityWeek.</p>\n<p>The post <a href=\"https://www.securityweek.com/t-mobile-sets-the-record-straight-on-latest-data-breach-filing/\">T-Mobile Sets the Record Straight on Latest Data Breach Filing</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "8e72e14b1a0ffb13dfebe68d649dbb4281bc66ea",
-      "title": "North Korean Hackers Drain $285 Million From Drift in 10 Seconds",
-      "url": "https://www.securityweek.com/north-korean-hackers-drain-285-million-from-drift-in-10-seconds/",
-      "published": "2026-04-03T09:46:06+00:00",
-      "summary": "<p>The attackers prepared infrastructure and multiple nonce-based transactions, took over an admin key, and drained five vaults.</p>\n<p>The post <a href=\"https://www.securityweek.com/north-korean-hackers-drain-285-million-from-drift-in-10-seconds/\">North Korean Hackers Drain $285 Million From Drift in 10 Seconds</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "7264779dde5922145082de26184d78d2ec04e723",
-      "title": "Critical Vulnerability in Claude Code Emerges Days After Source Leak",
-      "url": "https://www.securityweek.com/critical-vulnerability-in-claude-code-emerges-days-after-source-leak/",
-      "published": "2026-04-02T18:00:55+00:00",
-      "summary": "<p>Within days of each other, Anthropic first leaked the source code to Claude Code, and then a critical vulnerability was found by Adversa AI.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-vulnerability-in-claude-code-emerges-days-after-source-leak/\">Critical Vulnerability in Claude Code Emerges Days After Source Leak</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "611dde74c4b8c7e9022d35477fd5285e60ce4b1a",
-      "title": "Apple Rolls Out DarkSword Exploit Protection to More Devices",
-      "url": "https://www.securityweek.com/apple-rolls-out-darksword-exploit-protection-to-more-devices/",
-      "published": "2026-04-02T16:18:07+00:00",
-      "summary": "<p>The DarkSword exploit kit has been used by both state-sponsored hackers and commercial spyware vendors.</p>\n<p>The post <a href=\"https://www.securityweek.com/apple-rolls-out-darksword-exploit-protection-to-more-devices/\">Apple Rolls Out DarkSword Exploit Protection to More Devices</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
