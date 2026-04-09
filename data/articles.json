@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-09T00:59:55.908106+00:00",
+  "generated_at": "2026-04-09T12:52:40.750900+00:00",
   "items": [
     {
       "id": "b3894d74ef73eb0a63a2ef0388701bd382d53a6e",
@@ -110,6 +110,39 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "4966ad21604261b723f7855ea5a872e143b63c71",
+      "title": "The Hidden Security Risks of Shadow AI in Enterprises",
+      "url": "https://thehackernews.com/2026/04/the-hidden-security-risks-of-shadow-ai.html",
+      "published": "2026-04-09T11:31:00+00:00",
+      "summary": "As&nbsp;AI tools become more accessible, employees are adopting them without formal approval from IT and security teams. While&nbsp;these tools may boost productivity, automate tasks, or fill gaps in existing workflows, they also operate outside the visibility of security teams, bypassing controls and creating new blind spots in what is known as shadow AI. While&nbsp;similar to the phenomenon of",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhO6OQHlRJgIjpCieiOfi48Mexu0Puimw_dz6w0h1spC2ZjcqifD2YPod5wd1AtUhr-e7CtAAoZ0bnRGnCH-BZRz4pDlB5Db2hJ4vFqsq5jc42UI4VTGXkxD8gNX1Ods9PpQZL4lk84RNL6EDSeI4YFCdjBgKSqKGimsqcsjekAAmr8CGYr3a2wPkchNYA/s1600/keeper.jpg"
+    },
+    {
+      "id": "d21a571ddbc90284837bc5987fdadb633d3d6dbd",
+      "title": "Adobe Reader Zero-Day Exploited via Malicious PDFs Since December 2025",
+      "url": "https://thehackernews.com/2026/04/adobe-reader-zero-day-exploited-via.html",
+      "published": "2026-04-09T11:15:00+00:00",
+      "summary": "Threat actors have been exploiting a previously unknown zero-day vulnerability in Adobe Reader using maliciously crafted PDF documents since at least December&nbsp;2025.\nThe finding, detailed by EXPMON's Haifei Li, has&nbsp;been described as a highly-sophisticated PDF exploit.&nbsp;The artifact (\"Invoice540.pdf\") first appeared on the VirusTotal platform on November 28, 2025.&nbsp;A second&nbsp;",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwKu6NdwE0kgawNywNJK7cGCEdRfzOKwsH9AeIT7zJ49RPq_KJAG3SyjH44SS8Zsd-gAUFDFKnfdpaFH8sAZT9wevB2fS0QVk-gCp8xg7j1XcwGJzv05xpoMN4O-oiEd1v3U3kuqW8cTGk0QlHPPS5GgifHq5DBgrE9R_6GxqxYb1erEN_qvAnUG6VFkx0/s1600/adobe.jpg"
+    },
+    {
+      "id": "783bddb299566221af5388927d188e355076819b",
+      "title": "Bitter-Linked Hack-for-Hire Campaign Targets Journalists Across MENA Region",
+      "url": "https://thehackernews.com/2026/04/bitter-linked-hack-for-hire-campaign.html",
+      "published": "2026-04-09T10:40:00+00:00",
+      "summary": "An&nbsp;apparent hack-for-hire campaign likely orchestrated by a threat actor with suspected ties to the Indian government targeted journalists, activists, and government officials across the Middle East and North Africa (MENA), according to findings&nbsp;from Access&nbsp;Now, Lookout,&nbsp;and SMEX.\nTwo&nbsp;of the targets included prominent Egyptian journalists and government critics, Mostafa",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlfEPPxKdPdQANFPwRrggWpWL4wPe22B_Hdr5FpqDGHKTwN95xiQVwqqN896q_CkYvn-wrbDTXMl6wZ_aMD0YwEyRAI_9lzSZj_cg9-RhoNXMh-j16cA0n4CIT5y29FkOWFrQoV8oCv5OtZhMlhAKwqcgirImTOXoVzsJY76y6l-EWn86dAJfYNBy1ejW4/s1600/phone-hacking.jpg"
     },
     {
       "id": "4954e711034450368989fedf1445163372e84465",
@@ -629,37 +662,15 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipVNIw-uYi9MySm3LytKQD-PQgAh4NdQleZDyr_EC4zBRuNzOf2qjlvwgPMg8qsq1sopzgKv1gOlJuQCEs9dq8jwQVdonLibQPm_hJX8ZzOwfgyF6cuoixyotcpY-CvQp3E8fBAzqDRbWmfaCzuc96CH5FwzH7FJaaiVgYjgoC-x6RZOlgfHxFuwqQeq7G/s1600/android-dev.jpg"
     },
     {
-      "id": "10229de3dc582db94ebe8fdb051dbeab8166b9d8",
-      "title": "TrueConf Zero-Day Exploited in Attacks on Southeast Asian Government Networks",
-      "url": "https://thehackernews.com/2026/03/trueconf-zero-day-exploited-in-attacks.html",
-      "published": "2026-03-31T16:03:00+00:00",
-      "summary": "A high-severity security flaw in the TrueConf client video conferencing software has been exploited in the wild as a zero-day as part of a campaign targeting government entities in Southeast Asia dubbed TrueChaos.\nThe vulnerability in question is CVE-2026-3502 (CVSS score: 7.8), a lack of integrity check when fetching application update code, allowing an attacker to distribute a tampered update,",
-      "source": "The Hacker News",
+      "id": "da8b6f2aaa499a5d5a6eb42e621dee3d6f5cbdfc",
+      "title": "Russia's Forest Blizzard Nabs Rafts of Logins Via SOHO Routers",
+      "url": "https://www.darkreading.com/threat-intelligence/russia-forest-blizzard-logins-soho-routers",
+      "published": "2026-04-09T01:00:00+00:00",
+      "summary": "Heard of fileless malware? How about malwareless cyber espionage? Russia's APT28 is spying on global organizations by modifying just one DNS setting in vulnerable routers.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYf7jS0dDRAhfWGLbRiA4eQt-Q3BL8gcG_bDoNQ1dfcZt3Ike4qAlE9lUiSH__y3kdi-MI2kfu-O-PdDf6iCov7VIVBPEkRVJOhx88uNgXTuI-rztvbwFXE9BKwJEsNSKux0yynwxlsDMCzCwyngLOSxWTAZjDFYKvpjyEsnPbRYbGtmC6zGmrMpP-SnqA/s1600/trueconf.jpg"
-    },
-    {
-      "id": "70d195dabf74765cfae723f441e2271a417cc47e",
-      "title": "Vertex AI Vulnerability Exposes Google Cloud Data and Private Artifacts",
-      "url": "https://thehackernews.com/2026/03/vertex-ai-vulnerability-exposes-google.html",
-      "published": "2026-03-31T13:09:00+00:00",
-      "summary": "Cybersecurity researchers have disclosed a security \"blind spot\" in Google Cloud's Vertex AI platform that could allow artificial intelligence (AI) agents to be weaponized by an attacker to gain unauthorized access to sensitive data and compromise an organization's cloud environment.\nAccording to Palo Alto Networks Unit 42, the issue relates to how the Vertex AI permission model can be misused",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLtnrJRJvkUE-IMtV6DuDmg7t1XhaGyItG6cXmd2cz0-3sd8fgZi5jHZE9valO1-CdJjGcqkkeHxNPM2Y7lLK0lrtJXOEwXscylBbYfyCXtvvAfGeFR5Q7Zwv0Mxsg-iiEjbaN2junJWYJmJmUEBuFDjRXH_X9gYYwR4Jyu-79dMfL1MQPLpKU6O6PtN_R/s1600/google-vertex.jpg"
-    },
-    {
-      "id": "711b6c2138cbb62d8de5045123a12a6128cbb0de",
-      "title": "The AI Arms Race \u2013 Why Unified Exposure Management Is Becoming a Boardroom Priority",
-      "url": "https://thehackernews.com/2026/03/the-ai-arms-race-why-unified-exposure.html",
-      "published": "2026-03-31T11:50:00+00:00",
-      "summary": "The cybersecurity landscape is accelerating at an unprecedented rate. What is emerging is not simply a rise in the number of vulnerabilities or tools, but a dramatic increase in speed. Speed of attack, speed of exploitation, and speed of change across modern environments.\nThis is the defining challenge of the new era of digital warfare: the weaponization of Artificial Intelligence. Threat actors",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1pgefAVGqPo1F0pVFtbxdewmfgaNvrqH-R-BydTTpenzbOZGvoJMA7wwiXzhDBcxvhEm91tK9CsPBiB24g7WHylYCzuO8XI9tCraDla-ePrNFsli1YYrtjQr6dxN7mQHbuw57EtS1mrUeS3GfNYCuM-7s1MDbW5oUS2tY0kkV8_TNP3jDKPPgUXSJTr8/s1600/ai-power.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6f8022c4798db6b6/69d6c0b5f017ad2a52b62767/forest_blizzard-Lukas_Jonaitis-alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "id": "4977b8967e3ede7ecb26f613315ffe2539ce6603",
@@ -1201,15 +1212,37 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt4407524c34b171a7/69c6a9ff1eae74c299bfc9f9/Telecom_mast-Steven_May-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "9945c1528742edc7204b3749e11930e7453a5e99",
-      "title": "Wartime Usage of Compromised IP Cameras Highlight Their Danger",
-      "url": "https://www.darkreading.com/cyber-risk/wartime-usage-of-compromised-ip-cameras-highlight-their-danger",
-      "published": "2026-03-27T16:21:48+00:00",
-      "summary": "The list of countries exploiting Internet-connected cameras to give them eyes inside their adversaries' borders continues to expand. What should companies look out for?",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9222cdaff4968ccb/69c6999dbe732d1b716236af/urban-cctv-cameras-pixinoo-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "id": "b7513a7a56cc67e5a7ece4fd596b5dd5c256ce96",
+      "title": "Zephyr Energy loses \u00a3700K in cyber hit that rerouted contractor payment",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/09/zephyr_energy_cyberattack/",
+      "published": "2026-04-09T11:32:51+00:00",
+      "summary": "<h4>Attackers slipped into the process and redirected funds, leaving the company scrambling to recover the cash</h4> <p>UK-listed oil and gas outfit Zephyr Energy plc has admitted a cyber incident siphoned off roughly \u00a3700,000 after a single payment to a contractor was quietly redirected to an attacker-controlled account.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "c72226a8d70929e0a47ed730be1873c40849115d",
+      "title": "Sticky-note security turned gym into hall of '80s horrors",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/09/pwned/",
+      "published": "2026-04-09T08:00:08+00:00",
+      "summary": "<h4>Even fitness equipment is vulnerable to mischief makers these days</h4> <p><strong>PWNED</strong>\u00a0 Welcome back to Pwned, the column where we share war stories from IT soldiers who shot themselves \u2013 or watched someone else shoot themselves \u2013 in the foot. Today's tale shows that even when you're setting up something as simple as fitness gear, there's no excuse for leaving security credentials lying around.\u2026</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "91c6637c417df29c2a016f72dfd41a40a96bb00d",
+      "title": "Cryptographers place $5,000 bet whether quantum will matter",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/09/cryptograhpers_quantum_bet/",
+      "published": "2026-04-09T07:00:10+00:00",
+      "summary": "<h4>The time is maybe</h4> <p>Quantum computing exists in a sort of superposition with regard to cryptography \u2013 it's both a pending threat and a technology of no immediate consequence for decryption.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
       "id": "e5db14ab50a2aa9688326ded112a4c65e6be3c43",
@@ -1729,39 +1762,6 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "9f32829b6c5cfb382b1e3a4183a24e18fe698d97",
-      "title": "Russian initial access broker who fed ransomware crews gets 81 months in US prison",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/24/russian_iab_sentenced/",
-      "published": "2026-03-24T11:32:11+00:00",
-      "summary": "<h4>Aleksei Volkov sentenced after enabling attacks that cost victims millions</h4> <p>A Russian national who sold the keys to corporate networks faces nearly seven years in a US prison after prosecutors tied his handiwork to a string of ransomware attacks costing victims millions of dollars.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "5f6903ba13373aac65198f41547edb70cf9a1d0b",
-      "title": "Claude attacks were 'Rorschach test' for infosec community, scaring former NSA boss",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/23/claude_attacks_rorschach_rsac_rob_joyce/",
-      "published": "2026-03-23T22:50:21+00:00",
-      "summary": "<h4>'It freakin' worked' says Rob Joyce - and shows how relentless AI agents can find holes humans miss</h4> <p><strong>RSAC 2026</strong>\u00a0 The now-infamous <a href=\"https://www.theregister.com/2025/11/13/chinese_spies_claude_attacks/\" target=\"_blank\">Anthropic report about Chinese cyberspies</a> abusing Claude AI to automate cyberattacks was a Rorschach test for the infosec community, according to former NSA cyber boss Rob Joyce.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "2ab9ecf0cd83ce87ca1523c39b6a287ec963b9cf",
-      "title": "Lightning-fast exploits make it essential to patch fast, ask questions later",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/23/cisco_talos_cybersecurity_report_patch_fast/",
-      "published": "2026-03-23T20:42:11+00:00",
-      "summary": "<h4>Here's where you ought to spend your security billable hours budget this year</h4> <p>Strengthen your MFA policies, double-down on anti-phishing training, and for Jobs' sake, patch all your vulns right away. The past year of intelligence collected by Cisco's Talos threat hunters suggests that attackers are moving faster to exploit vulns, and fooling more staff than ever into giving up their credentials.\u00a0\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
       "id": "f4ae2ca794b7c1fd86daaf45e4145b2c6fd5d768",
       "title": "Russia Hacked Routers to Steal Microsoft Office Tokens",
       "url": "https://krebsonsecurity.com/2026/04/russia-hacked-routers-to-steal-microsoft-office-tokens/",
@@ -1828,6 +1828,94 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "de9d3923d7692177fa343c4b38c935669b864857",
+      "title": "Google API Keys in Android Apps Expose Gemini Endpoints to Unauthorized Access",
+      "url": "https://www.securityweek.com/google-api-keys-in-android-apps-expose-gemini-endpoints-to-unauthorized-access/",
+      "published": "2026-04-09T12:26:50+00:00",
+      "summary": "<p>Dozens of such keys can be extracted from apps\u2019 decompiled code to gain access to all Gemini endpoints.</p>\n<p>The post <a href=\"https://www.securityweek.com/google-api-keys-in-android-apps-expose-gemini-endpoints-to-unauthorized-access/\">Google API Keys in Android Apps Expose Gemini Endpoints to Unauthorized Access</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "db5b875231e8d845fbbc1c21e09ed77c2c14366b",
+      "title": "Palo Alto Networks, SonicWall Patch High-Severity Vulnerabilities",
+      "url": "https://www.securityweek.com/palo-alto-networks-sonicwall-patch-high-severity-vulnerabilities/",
+      "published": "2026-04-09T11:58:52+00:00",
+      "summary": "<p>The bugs could allow attackers to modify protected resources and escalate their privileges to administrator.</p>\n<p>The post <a href=\"https://www.securityweek.com/palo-alto-networks-sonicwall-patch-high-severity-vulnerabilities/\">Palo Alto Networks, SonicWall Patch High-Severity Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "5872d3e6435d1035ee18fbe40ae8c29b4ae42dd6",
+      "title": "The Hidden ROI of Visibility: Better Decisions, Better Behavior, Better Security",
+      "url": "https://www.securityweek.com/the-hidden-roi-of-visibility-better-decisions-better-behavior-better-security/",
+      "published": "2026-04-09T11:00:00+00:00",
+      "summary": "<p>Beyond monitoring and compliance, visibility acts as a powerful deterrent, shaping user behavior, improving collaboration, and enabling more accurate, data-driven security decisions.</p>\n<p>The post <a href=\"https://www.securityweek.com/the-hidden-roi-of-visibility-better-decisions-better-behavior-better-security/\">The Hidden ROI of Visibility: Better Decisions, Better Behavior, Better Security</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "b4c3b760edd4ffea5aec67972294667a2fff8a54",
+      "title": "Google Warns of New Campaign Targeting BPOs to Steal Corporate Data",
+      "url": "https://www.securityweek.com/google-warns-of-new-campaign-targeting-bpos-to-steal-corporate-data/",
+      "published": "2026-04-09T09:44:56+00:00",
+      "summary": "<p>Tracked as UNC6783, the threat actor is likely linked to Mr. Raccoon, the hacker behind the alleged theft of Adobe data from a BPO.</p>\n<p>The post <a href=\"https://www.securityweek.com/google-warns-of-new-campaign-targeting-bpos-to-steal-corporate-data/\">Google Warns of New Campaign Targeting BPOs to Steal Corporate Data</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "2d5f68f662c048d681832debfa33f1f7e20c803b",
+      "title": "Adobe Reader Zero-Day Exploited for Months: Researcher",
+      "url": "https://www.securityweek.com/adobe-reader-zero-day-exploited-for-months-researcher/",
+      "published": "2026-04-09T08:44:51+00:00",
+      "summary": "<p>Reputable researcher Haifei Li has come across what appears to be a PDF designed to exploit an unpatched vulnerability.</p>\n<p>The post <a href=\"https://www.securityweek.com/adobe-reader-zero-day-exploited-for-months-researcher/\">Adobe Reader Zero-Day Exploited for Months: Researcher</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "6bc70adb16fabf5a660442f53e648ae88056a586",
+      "title": "300,000 People Impacted by Eurail Data Breach",
+      "url": "https://www.securityweek.com/300000-people-impacted-by-eurail-data-breach/",
+      "published": "2026-04-09T08:28:05+00:00",
+      "summary": "<p>In December 2025, hackers stole names and passport numbers from the European travel company\u2019s network.</p>\n<p>The post <a href=\"https://www.securityweek.com/300000-people-impacted-by-eurail-data-breach/\">300,000 People Impacted by Eurail Data Breach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "384779ffa8617d0f704fe9c4ee251ddf97c908fe",
+      "title": "$3.6 Million Stolen in Bitcoin Depot Hack",
+      "url": "https://www.securityweek.com/3-6-million-stolen-in-bitcoin-depot-hack/",
+      "published": "2026-04-09T06:41:40+00:00",
+      "summary": "<p>A hacker transferred more than 50 bitcoin from the Bitcoin ATM operator\u2019s wallets after stealing credentials.\u00a0</p>\n<p>The post <a href=\"https://www.securityweek.com/3-6-million-stolen-in-bitcoin-depot-hack/\">$3.6 Million Stolen in Bitcoin Depot Hack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "aacea94aa5b227782bb966c1e5a3c6b68ae04b8b",
+      "title": "Shaky Ceasefire Unlikely to Stop Cyberattacks From Iran-Linked Hackers for Long",
+      "url": "https://www.securityweek.com/shaky-ceasefire-unlikely-to-stop-cyberattacks-from-iran-linked-hackers-for-long/",
+      "published": "2026-04-09T01:22:35+00:00",
+      "summary": "<p>Hackers vowed to revive its efforts against America when the time was right \u2014 demonstrating how digital warfare has become ingrained in military conflict. </p>\n<p>The post <a href=\"https://www.securityweek.com/shaky-ceasefire-unlikely-to-stop-cyberattacks-from-iran-linked-hackers-for-long/\">Shaky Ceasefire Unlikely to Stop Cyberattacks From Iran-Linked Hackers for Long</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "353929b508b9e27e81e2b907ace1cd81277afa3c",
       "title": "Data Leakage Vulnerability Patched in OpenSSL",
       "url": "https://www.securityweek.com/data-leakage-vulnerability-patched-in-openssl/",
@@ -1844,94 +1932,6 @@
       "url": "https://www.securityweek.com/rce-bug-lurked-in-apache-activemq-classic-for-13-years/",
       "published": "2026-04-08T14:30:27+00:00",
       "summary": "<p>The vulnerability requires authentication for successful exploitation, but another flaw exposes the Jolokia API without authentication.</p>\n<p>The post <a href=\"https://www.securityweek.com/rce-bug-lurked-in-apache-activemq-classic-for-13-years/\">RCE Bug Lurked in Apache ActiveMQ Classic for 13 Years</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "79f3f0665e2699997ea9b631b937dfaec4b064c9",
-      "title": "FBI: Cybercrime Losses Neared $21 Billion in 2025",
-      "url": "https://www.securityweek.com/fbi-cybercrime-losses-neared-21-billion-in-2025/",
-      "published": "2026-04-08T13:32:53+00:00",
-      "summary": "<p>The FBI received over 1 million complaints of malicious activity in 2025, with investment, BEC, and tech support scams causing the highest losses.</p>\n<p>The post <a href=\"https://www.securityweek.com/fbi-cybercrime-losses-neared-21-billion-in-2025/\">FBI: Cybercrime Losses Neared $21 Billion in 2025</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "f477ef084d9dc6c2e27e23ee220050dae5d5b001",
-      "title": "Massachusetts Hospital Diverts Ambulances as Cyberattack Causes Disruption",
-      "url": "https://www.securityweek.com/massachusetts-hospital-diverts-ambulances-as-cyberattack-causes-disruption/",
-      "published": "2026-04-08T12:31:39+00:00",
-      "summary": "<p>Signature Healthcare was forced to cancel some services, and pharmacies are unable to fill prescriptions due to the hacker attack.</p>\n<p>The post <a href=\"https://www.securityweek.com/massachusetts-hospital-diverts-ambulances-as-cyberattack-causes-disruption/\">Massachusetts Hospital Diverts Ambulances as Cyberattack Causes Disruption\u00a0</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "c149fa84f57c8dcab4369af290fee8806e30c8aa",
-      "title": "Evasive Masjesu DDoS Botnet Targets IoT Devices",
-      "url": "https://www.securityweek.com/evasive-masjesu-ddos-botnet-targets-iot-devices/",
-      "published": "2026-04-08T11:49:44+00:00",
-      "summary": "<p>Focused on persistence, the botnet does not engage in widespread infection and avoids blacklisted IPs and critical infrastructure entities.</p>\n<p>The post <a href=\"https://www.securityweek.com/evasive-masjesu-ddos-botnet-targets-iot-devices/\">Evasive Masjesu DDoS Botnet Targets IoT Devices</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "c65da5109208affdc8bf25da7168243ecdc6c031",
-      "title": "Hackers Targeting Ninja Forms Vulnerability That Exposes WordPress Sites to Takeover",
-      "url": "https://www.securityweek.com/hackers-targeting-critical-ninja-forms-bug-that-exposes-wordpress-sites-to-takeover/",
-      "published": "2026-04-08T11:20:23+00:00",
-      "summary": "<p>The vulnerability allows hackers to upload arbitrary files to a site\u2019s server and achieve remote code execution.</p>\n<p>The post <a href=\"https://www.securityweek.com/hackers-targeting-critical-ninja-forms-bug-that-exposes-wordpress-sites-to-takeover/\">Hackers Targeting Ninja Forms Vulnerability That Exposes WordPress Sites to Takeover</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "dd3959c36966095fefcf7d9e984d819bb959f671",
-      "title": "US Disrupts Russian Espionage Operation Involving Hacked Routers and DNS Hijacking",
-      "url": "https://www.securityweek.com/us-disrupts-russian-espionage-operation-involving-hacked-routers-and-dns-hijacking/",
-      "published": "2026-04-08T10:54:14+00:00",
-      "summary": "<p>The APT28 threat group exploited vulnerable TP-Link and MikroTik routers to conduct adversary-in-the-middle (AitM) attacks.</p>\n<p>The post <a href=\"https://www.securityweek.com/us-disrupts-russian-espionage-operation-involving-hacked-routers-and-dns-hijacking/\">US Disrupts Russian Espionage Operation Involving Hacked Routers and DNS Hijacking</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "809c3404adbea2b268262cae410bedd42c9035e3",
-      "title": "Iran-Linked Hackers Disrupt US Critical Infrastructure via PLC Attacks",
-      "url": "https://www.securityweek.com/iran-linked-hackers-disrupt-us-critical-infrastructure-via-plc-attacks/",
-      "published": "2026-04-08T02:57:56+00:00",
-      "summary": "<p>Federal agencies warn attackers are manipulating PLC and SCADA systems across multiple sectors, triggering operational disruptions and raising concerns over broader OT targeting.</p>\n<p>The post <a href=\"https://www.securityweek.com/iran-linked-hackers-disrupt-us-critical-infrastructure-via-plc-attacks/\">Iran-Linked Hackers Disrupt US Critical Infrastructure via PLC Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "a6c13b6074e46272d217f3e963f3da142f7716df",
-      "title": "Anthropic\u00a0Unveils \u2018Claude Mythos\u2019 \u2013 A Cybersecurity Breakthrough That Could Also Supercharge Attacks",
-      "url": "https://www.securityweek.com/anthropic-unveils-claude-mythos-a-cybersecurity-breakthrough-that-could-also-supercharge-attacks/",
-      "published": "2026-04-07T18:39:56+00:00",
-      "summary": "<p>New AI model drives Project Glasswing, a effort to secure critical software before advanced capabilities fall into the wrong hands.</p>\n<p>The post <a href=\"https://www.securityweek.com/anthropic-unveils-claude-mythos-a-cybersecurity-breakthrough-that-could-also-supercharge-attacks/\">Anthropic\u00a0Unveils \u2018Claude Mythos\u2019 &#8211; A Cybersecurity Breakthrough That Could Also Supercharge Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "384cc2954fc26a7e7b4c893d01f77700163368b3",
-      "title": "The New Rules of Engagement: Matching Agentic Attack Speed",
-      "url": "https://www.securityweek.com/the-new-rules-of-engagement-matching-agentic-attack-speed/",
-      "published": "2026-04-07T16:40:52+00:00",
-      "summary": "<p>The cybersecurity response to AI-enabled nation-state threats cannot be incremental. It must be architectural.</p>\n<p>The post <a href=\"https://www.securityweek.com/the-new-rules-of-engagement-matching-agentic-attack-speed/\">The New Rules of Engagement: Matching Agentic Attack Speed</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
