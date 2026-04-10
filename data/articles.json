@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-10T01:10:06.038399+00:00",
+  "generated_at": "2026-04-10T12:39:09.376408+00:00",
   "items": [
     {
       "id": "b9428443e6ebd50f5aa4461d57d5779a6384cb3e",
@@ -112,8 +112,52 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "b3849512912ba8d3b04851f59951891e81501180",
+      "title": "Browser Extensions Are the New AI Consumption Channel That No One Is Talking About",
+      "url": "https://thehackernews.com/2026/04/browser-extensions-are-new-ai.html",
+      "published": "2026-04-10T11:00:00+00:00",
+      "summary": "While&nbsp;much of the discussion on AI security centers around protecting&nbsp;\u2018shadow\u2019 AI and GenAI consumption, there's a wide-open&nbsp;window nobody's guarding: AI browser extensions.&nbsp;\nA&nbsp;new report from LayerX&nbsp;exposes just how deep this blind spot goes, and why AI extensions may be the most dangerous AI threat surface in your network&nbsp;that isn't&nbsp;on anyone's&nbsp;",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhj9DUEjhk2fpOJYkJSEMuXQKjwHL1MhXzLniQFjNXvUV_iJEcMwk4MacWDYrrCg096uqXg7pJVZYgagJF58e28tr2lOkZsGqpXbnKfnDVStpGIz2fBGvXayNRfbWWaJ2QueaZoYp72PNJHF6g0W4FPBhbw75r_Dm2cuRr1zCmHFHges6gPQ55gr3hI17TM/s1600/layerx.jpg"
+    },
+    {
+      "id": "f10d6526aaeb3e7d638257c4f7eff6c37cdbf6e6",
+      "title": "Google Rolls Out DBSC in Chrome 146 to Block Session Theft on Windows",
+      "url": "https://thehackernews.com/2026/04/google-rolls-out-dbsc-in-chrome-146-to.html",
+      "published": "2026-04-10T07:58:00+00:00",
+      "summary": "Google has&nbsp;made Device Bound Session Credentials&nbsp;(DBSC) generally available to all Windows users of its Chrome web browser, months after&nbsp;it began&nbsp;testing the security feature in open&nbsp;beta.\nThe public availability is currently limited to Windows users on Chrome 146, with macOS expansion planned in an upcoming Chrome&nbsp;release.\n\"This project represents a significant",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiC-kFnk6uDzN76983rxMJBgJzi5ByxqZ0SM5RAfG1171e3I_lRUCBHIZ0kmMRkxERMiWEO9WRX3D6mkadUuRhw69KYHi4VzPrIa4s4IVilNmFANa2EMbuk1blKF_4ChwqIBuTb4FLj_dqhTDUDsivEnw8OmDL85giaaJTiqATwZArXUq6_3_X7tfd_RLbV/s1600/chrome-cookies.jpg"
+    },
+    {
+      "id": "26c5bc2fcb42d2e0d6e00e8226d4ad0840cba579",
+      "title": "Marimo RCE Flaw CVE-2026-39987 Exploited Within 10 Hours of Disclosure",
+      "url": "https://thehackernews.com/2026/04/marimo-rce-flaw-cve-2026-39987.html",
+      "published": "2026-04-10T07:37:00+00:00",
+      "summary": "A critical security vulnerability&nbsp;in Marimo, an open-source Python notebook for data science and analysis, has been exploited within 10 hours of public disclosure, according&nbsp;to findings from&nbsp;Sysdig.\nThe vulnerability in question&nbsp;is CVE-2026-39987 (CVSS score: 9.3), a pre-authenticated remote code execution vulnerability impacting all versions of Marimo prior to and including",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLOQ2mcgefzP_nej8R2XYY5eLnbFWle2koFcBGH6gyLGu10rBVnI3f3oHUmafvlbNJFc8N50ghG-0d_MP-oLzJcZpObdY8MU67qbCc36iWMApPM0Z6QfMrklCirpFSnyXZeMyHIdD4NyfixepzOZ72qiadKBmUvdkNuzPs-QbZnuSUMBaxA0sWYmTT63v-/s1600/marimo.jpg"
+    },
+    {
+      "id": "c76edc83b74a4f99d16a7a251b7c33438b2824c7",
+      "title": "Backdoored Smart Slider 3 Pro Update Distributed via Compromised Nextend Servers",
+      "url": "https://thehackernews.com/2026/04/backdoored-smart-slider-3-pro-update.html",
+      "published": "2026-04-10T06:28:00+00:00",
+      "summary": "Unknown threat actors have hijacked the update system for the Smart Slider 3 Pro plugin for WordPress and Joomla to push a poisoned version containing a\u00a0backdoor.\nThe\u00a0incident impacts Smart Slider 3 Pro version 3.5.1.35\u00a0for WordPress, per WordPress security company Patchstack. Smart\u00a0Slider 3 is a popular WordPress slider plugin with more than 800,000 active installations across its free and Pro",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPUQqw4JQlrmSih69TSpC28TmE2G1rOMs1k_jrdeQbXFFNV6nPvlVQh9oMIwtOLiVJVUxYZFZ0RDiXmLDOPXpF-pbaStwjml7hxE-OITfsVlk2wA-nKUOpcn9R7FjQe03OInZdN2p8GmkFXAvYBbDeU_IDX1wuQ4iqc46lM6SraDPXhbEcCt-LNL0YTck/s1600/slider.jpg"
+    },
+    {
       "id": "f06c713635f2d793ff7e5104b1399f9a4b4dddc4",
-      "title": "EngageLab SDK Flaw Exposed 50M Android Users, Including 30M Crypto Wallets",
+      "title": "EngageLab SDK Flaw Exposed 50M Android Users, Including 30M Crypto Wallet Installs",
       "url": "https://thehackernews.com/2026/04/engagelab-sdk-flaw-exposed-50m-android.html",
       "published": "2026-04-09T17:26:00+00:00",
       "summary": "Details have emerged about a now-patched security vulnerability in a widely used third-party Android software development kit&nbsp;(SDK) called&nbsp;EngageLab&nbsp;SDK that could have put millions of cryptocurrency wallet users at&nbsp;risk.\n\"This flaw allows apps on the same device to bypass Android security sandbox and gain unauthorized access to private&nbsp;data,\" the Microsoft Defender",
@@ -616,50 +660,6 @@
       "region": "North America",
       "country": "US",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgq1lOqG2e9eetuSt3ne59NkxH-r0lCjnTmodLlbXt29w5AH_utoClwW1RfvpY5rC7vqb1rVBR4ApELx1ROFvmuMpPpk_9R7tshflL0WwPRuD25vu1gzaFuuldwTzAbcb1m7y7TBsTLr863BQhLHdJGwRUmVzuLayR1gTnkmG_XCraID8EuzUzeeVLtgp7p/s1600/whatsapp-exploit.jpg"
-    },
-    {
-      "id": "cafb1a86e069a75312f9a995f234eab3319e4486",
-      "title": "Block the Prompt, Not the Work: The End of \"Doctor No\"",
-      "url": "https://thehackernews.com/2026/04/block-prompt-not-work-end-of-doctor-no.html",
-      "published": "2026-04-01T12:46:00+00:00",
-      "summary": "There is a character that keeps appearing in enterprise security departments, and most CISOs know exactly who that is. It doesn&rsquo;t build. It doesn&rsquo;t enable. Its entire function is to say \"No.\"\nNo to ChatGPT.\nNo to DeepSeek.\nNo to the file-sharing tool the product team swears by.\nFor years, this looked like security. But in 2026, \"Doctor No\" is no longer just a management headache &",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvlo2Z4APlfxw_Y81FpX62ySlxihctfAGwiT0WYd1bPrdk5sMFO8w7__xRzVqn9vYqFpE4TSS80iuNQZ9SgcR4Hz8f6WYFhD5OaoRmY-sD20cYox6Tx-_xbhiawEh0cy3YNvv9iD75BIsW5NNA8tafY4inhGtFBer5pan0xjr-vyLZmHyIFHc-LaTNcMZC/s1600/red.jpg"
-    },
-    {
-      "id": "ff83746d73bb4a32e7eb1aabc971941e2f96025b",
-      "title": "Casbaneiro Phishing Targets Latin America and Europe Using Dynamic PDF Lures",
-      "url": "https://thehackernews.com/2026/04/casbaneiro-phishing-targets-latin.html",
-      "published": "2026-04-01T12:36:00+00:00",
-      "summary": "A multi-pronged phishing campaign is targeting Spanish-speaking users in organizations across Latin America and Europe to deliver Windows banking trojans like Casbaneiro (aka Metamorfo) via another malware called Horabot.\nThe activity has been attributed to a Brazilian cybercrime threat actor tracked as Augmented Marauder and Water Saci. The e-crime group was first documented by Trend Micro in",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpJd0tgZX0EzqjxkNOrJsyGRUV4N21qsJC30j2VYYargUXl2tPz_BidXWWmAG9Wfb5f683WOOle2CElerewagtzAAI8sbcJ9XrCbtgcSRtWF-itSYXH4hbTKvOIrjW9PKSgqi00rOrFCHRWzkWaWmP0qPH0vjrJ2LbbcXgl9aQv3n3tzcT45pdSPMcP54S/s1600/pdf-malware.jpg"
-    },
-    {
-      "id": "3505b58c991f3b34bf71cec86662a4fc0f448c45",
-      "title": "New Chrome Zero-Day CVE-2026-5281 Under Active Exploitation \u2014 Patch Released",
-      "url": "https://thehackernews.com/2026/04/new-chrome-zero-day-cve-2026-5281-under.html",
-      "published": "2026-04-01T11:42:00+00:00",
-      "summary": "Google on Thursday released security updates for its Chrome web browser to address 21 vulnerabilities, including a zero-day flaw that it said has been exploited in the wild.\nThe high-severity vulnerability, CVE-2026-5281 (CVSS score: N/A), concerns a use-after-free bug in Dawn, an open-source and cross-platform implementation of the WebGPU standard.\n\"Use-after-free in Dawn in Google Chrome prior",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyWMOJn1hR_Pua9p7XXWPbTqgrYvXyaNEXlnlLUQ0duD4P-W9fGyvbuprkiN0IMEE5_2vzt5mc603V4l_G5eH5KpKFgmk-lARuEXxcQVIgCNb-NPJghF3wvF9Wf8mF3kEJUY0TA6a3aBDw87MC9RivwM9ZVRfLRpwwNqaP67cU8nvtO8RKGsi5OsFIgSVn/s1600/chrome-exploit.jpg"
-    },
-    {
-      "id": "48e26293bb41bf1f4ae3c629aa273ac38e337ee4",
-      "title": "3 Reasons Attackers Are Using Your Trusted Tools Against You (And Why You Don\u2019t See It Coming)",
-      "url": "https://thehackernews.com/2026/04/3-reasons-attackers-are-using-your.html",
-      "published": "2026-04-01T10:58:00+00:00",
-      "summary": "For years, cybersecurity has followed a familiar model: block malware, stop the attack. Now, attackers are moving on to what\u2019s next.\nThreat actors now use malware less frequently in favor of what\u2019s already inside your environment, including abusing trusted tools, native binaries, and legitimate admin utilities to move laterally, escalate privileges, and persist without raising alarms. Most",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnuThJU5o7fpNxZwlNpyZFxPX9Y7rDp2TF2zUrPTRMhLEcnv7UQfdVgoAJ5gh8-JpgNvnJOG5dbOABLCmemzmYazgTwPTxScbn9vlwlCouNIuKZvmaeE3mcza5ceAfKBfpkbeAUKcOd9eZoBWXgjEvuDAORSPICahRqIz4g0BkwD84YZwB547OHBLsoZs/s1600/main.jpg"
     },
     {
       "id": "8651f4ee56aed6b483dcc24125a3626ca58e38a4",
@@ -1212,6 +1212,39 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt785465f8bc714950/69caef686b45b775670507cc/f5_SOPAImagesLimited_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
+      "id": "b275a8279029b4ab4195ad24364191bdee7280fe",
+      "title": "Project Glasswing and open source software: The good, the bad, and the ugly",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/10/project_glasswing/",
+      "published": "2026-04-10T11:30:08+00:00",
+      "summary": "<h4>Just what FOSS developers need \u2013 a flood of AI-discovered vulnerabilities</h4> <p><strong>Opinion</strong>\u00a0 Anthropic describes Project Glasswing as a coalition of tech giants committing $100 million in AI resources to hunt down and fix long-hidden vulnerabilities in critical open source software that it's finding with its new Mythos AI program. Or as <em>The Reg</em> <a href=\"https://www.theregister.com/2026/04/07/anthropic_all_your_zerodays_are_belong_to_us/\" target=\"_blank\">put it</a>, \"an AI model that can generate zero-day vulnerabilities.\"\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "5eb53f8ea162ae33172ae7c87b0a156a795cd409",
+      "title": "Britain seeks views before it drops the hammer on signal jammers",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/10/signal_jammer_consultation/",
+      "published": "2026-04-10T11:01:11+00:00",
+      "summary": "<h4>Four-week call for evidence intended to help shape laws aimed at devices linked to crime</h4> <p>The UK government is seeking views on radiofrequency jammers as it prepares legislation to ban the controversial devices.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "c791b1b270e5fe577380dc1e9625495e6f63decd",
+      "title": "Unpacking AI security in 2026 from experimentation to the agentic era",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/10/unpacking_ai_security_2026/",
+      "published": "2026-04-10T08:00:07+00:00",
+      "summary": "<h4>Cut through the noise and understand the real risks, responsibilities, and responses shaping enterprise AI today.</h4> <p><strong>Webinar Promo</strong>\u00a0 2025 was the year of AI experimentation. In 2026, the bills are coming due. AI adoption has moved from isolated pilots to autonomous, enterprise wide deployment, bringing with it a sophisticated new generation of security challenges.\u2026</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "3fc0cf821eb93ba9721889648d9dde37030ae752",
       "title": "Crypto? Huh. Good gawd y'all, what is it good for? $45M in this case",
       "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/09/crypto_fraud_scam_45_million/",
@@ -1729,39 +1762,6 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "b91a805856b62bf313b7abda3e4817329e67ad58",
-      "title": "Scammers have virtual smartphones on speed dial for fraud",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/25/virtual_smartphones_fraud/",
-      "published": "2026-03-25T20:25:53+00:00",
-      "summary": "<h4>They cleverly mimic most traits of a real phone</h4> <p>Smartphones have fast become the basis of our digital identities, securing payment systems and bank accounts. Now virtual devices that pretend to be real handsets have become a key tool for financial scammers, according to one company.\u00a0\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "ca30bef6718f93b42f05079b6d42751d697243e0",
-      "title": "Jen Easterly, cybersecurity's 'relentless optimist,' hopes feds come back to RSAC next year",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/25/jen_easterly_interview/",
-      "published": "2026-03-25T19:39:29+00:00",
-      "summary": "<h4>Ex-CISA boss also says no reason to panic about AI and security</h4> <p><strong>RSAC 2026</strong>\u00a0 \"Everybody feels massive FOMO if they don't get to RSAC,\" Jen Easterly says.\u2026</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "d5fb950c396a0d29d14a315c77d97ffa2a19cfaa",
-      "title": "Only Trump can decide when cyberwar turns into real war",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/25/whats_scarier_than_a_swarm/",
-      "published": "2026-03-25T18:55:14+00:00",
-      "summary": "<h4>Four former NSA bosses walk onto the stage at RSAC\u2026</h4> <p><strong>rsac 2026</strong>\u00a0 There's a theoretical red line with cyber warfare. Cross it, and the US will respond with a physical attack like missile strikes. And that line \"is whatever the President says it is,\" according to former NSA boss retired General Paul Nakasone.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
       "id": "f4ae2ca794b7c1fd86daaf45e4145b2c6fd5d768",
       "title": "Russia Hacked Routers to Steal Microsoft Office Tokens",
       "url": "https://krebsonsecurity.com/2026/04/russia-hacked-routers-to-steal-microsoft-office-tokens/",
@@ -1817,6 +1817,72 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "e9d17d478afba82358d21d362fc2bf0672e0733d",
+      "title": "Orthanc DICOM Vulnerabilities Lead to Crashes, RCE",
+      "url": "https://www.securityweek.com/orthanc-dicom-vulnerabilities-lead-to-crashes-rce/",
+      "published": "2026-04-10T11:53:45+00:00",
+      "summary": "<p>Attackers could exploit these vulnerabilities in denial-of-service, information disclosure, and arbitrary code execution attacks.</p>\n<p>The post <a href=\"https://www.securityweek.com/orthanc-dicom-vulnerabilities-lead-to-crashes-rce/\">Orthanc DICOM Vulnerabilities Lead to Crashes, RCE</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "903b3b0eb207b124beba7cd08858c80c22cc2cb3",
+      "title": "Chrome 147 Patches 60 Vulnerabilities, Including Two Critical Flaws Worth $86,000",
+      "url": "https://www.securityweek.com/chrome-147-patches-60-vulnerabilities-including-two-critical-flaws-worth-86000/",
+      "published": "2026-04-10T10:44:45+00:00",
+      "summary": "<p>The critical vulnerabilities affect Chrome\u2019s WebML component and they have been reported by anonymous researchers.</p>\n<p>The post <a href=\"https://www.securityweek.com/chrome-147-patches-60-vulnerabilities-including-two-critical-flaws-worth-86000/\">Chrome 147 Patches 60 Vulnerabilities, Including Two Critical Flaws Worth $86,000</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "74402a57dcadf05406533e1dedbc8558594c609d",
+      "title": "MITRE Releases Fight Fraud Framework",
+      "url": "https://www.securityweek.com/mitre-releases-fight-fraud-framework/",
+      "published": "2026-04-10T09:51:03+00:00",
+      "summary": "<p>The document provides a behavior-based model of the tactics and techniques employed by fraudsters.</p>\n<p>The post <a href=\"https://www.securityweek.com/mitre-releases-fight-fraud-framework/\">MITRE Releases Fight Fraud Framework</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "197c8b67db18e98592019c99479d138647b8910a",
+      "title": "Critical Marimo Flaw Exploited Hours After Public Disclosure",
+      "url": "https://www.securityweek.com/critical-marimo-flaw-exploited-hours-after-public-disclosure/",
+      "published": "2026-04-10T09:12:48+00:00",
+      "summary": "<p>Within nine hours, a hacker built an exploit from the unauthenticated bug\u2019s advisory and started using it in the wild.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-marimo-flaw-exploited-hours-after-public-disclosure/\">Critical Marimo Flaw Exploited Hours After Public Disclosure</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "3af0481eec2ff40fe69d421c540bd7c1374e59fa",
+      "title": "Google Rolls Out Cookie Theft Protections in Chrome",
+      "url": "https://www.securityweek.com/google-rolls-out-cookie-theft-protections-in-chrome/",
+      "published": "2026-04-10T07:50:00+00:00",
+      "summary": "<p>New Device Bound Session Credentials render stolen session cookies unusable by cryptographically binding authentication.</p>\n<p>The post <a href=\"https://www.securityweek.com/google-rolls-out-cookie-theft-protections-in-chrome/\">Google Rolls Out Cookie Theft Protections in Chrome</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "c77bd48f48a9929811bcfe595fdce16e3397d8cd",
+      "title": "Microsoft Finds Vulnerability Exposing Millions of Android Crypto Wallet Users",
+      "url": "https://www.securityweek.com/microsoft-finds-vulnerability-exposing-millions-of-android-crypto-wallet-users/",
+      "published": "2026-04-10T07:33:16+00:00",
+      "summary": "<p>The security hole affected an EngageLab SDK and it was reported by Microsoft to the vendor one year ago.</p>\n<p>The post <a href=\"https://www.securityweek.com/microsoft-finds-vulnerability-exposing-millions-of-android-crypto-wallet-users/\">Microsoft Finds Vulnerability Exposing Millions of Android Crypto Wallet Users</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "1846b1b726afd2dc00ce90e58b1cbe345d481917",
       "title": "Apple Intelligence AI Guardrails Bypassed in New Attack",
       "url": "https://www.securityweek.com/apple-intelligence-ai-guardrails-bypassed-in-new-attack/",
@@ -1829,10 +1895,10 @@
     },
     {
       "id": "9db4b036626961b15a40298876ded89370526346",
-      "title": "Can we Trust AI? No \u2013 But Eventually We Must",
+      "title": "Can We Trust AI? No \u2013 But Eventually We Must",
       "url": "https://www.securityweek.com/can-we-trust-ai-no-but-eventually-we-must/",
       "published": "2026-04-09T13:30:00+00:00",
-      "summary": "<p>From hallucinations and bias to model collapse and adversarial abuse, today\u2019s AI is built on probability rather than truth, yet enterprises are deploying it at speed without fully understanding the risks.</p>\n<p>The post <a href=\"https://www.securityweek.com/can-we-trust-ai-no-but-eventually-we-must/\">Can we Trust AI? No \u2013 But Eventually We Must</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "summary": "<p>From hallucinations and bias to model collapse and adversarial abuse, today\u2019s AI is built on probability rather than truth, yet enterprises are deploying it at speed without fully understanding the risks.</p>\n<p>The post <a href=\"https://www.securityweek.com/can-we-trust-ai-no-but-eventually-we-must/\">Can We Trust AI? No \u2013 But Eventually We Must</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
@@ -1855,72 +1921,6 @@
       "url": "https://www.securityweek.com/palo-alto-networks-sonicwall-patch-high-severity-vulnerabilities/",
       "published": "2026-04-09T11:58:52+00:00",
       "summary": "<p>The bugs could allow attackers to modify protected resources and escalate their privileges to administrator.</p>\n<p>The post <a href=\"https://www.securityweek.com/palo-alto-networks-sonicwall-patch-high-severity-vulnerabilities/\">Palo Alto Networks, SonicWall Patch High-Severity Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "5872d3e6435d1035ee18fbe40ae8c29b4ae42dd6",
-      "title": "The Hidden ROI of Visibility: Better Decisions, Better Behavior, Better Security",
-      "url": "https://www.securityweek.com/the-hidden-roi-of-visibility-better-decisions-better-behavior-better-security/",
-      "published": "2026-04-09T11:00:00+00:00",
-      "summary": "<p>Beyond monitoring and compliance, visibility acts as a powerful deterrent, shaping user behavior, improving collaboration, and enabling more accurate, data-driven security decisions.</p>\n<p>The post <a href=\"https://www.securityweek.com/the-hidden-roi-of-visibility-better-decisions-better-behavior-better-security/\">The Hidden ROI of Visibility: Better Decisions, Better Behavior, Better Security</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "b4c3b760edd4ffea5aec67972294667a2fff8a54",
-      "title": "Google Warns of New Campaign Targeting BPOs to Steal Corporate Data",
-      "url": "https://www.securityweek.com/google-warns-of-new-campaign-targeting-bpos-to-steal-corporate-data/",
-      "published": "2026-04-09T09:44:56+00:00",
-      "summary": "<p>Tracked as UNC6783, the threat actor is likely linked to Mr. Raccoon, the hacker behind the alleged theft of Adobe data from a BPO.</p>\n<p>The post <a href=\"https://www.securityweek.com/google-warns-of-new-campaign-targeting-bpos-to-steal-corporate-data/\">Google Warns of New Campaign Targeting BPOs to Steal Corporate Data</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "2d5f68f662c048d681832debfa33f1f7e20c803b",
-      "title": "Adobe Reader Zero-Day Exploited for Months: Researcher",
-      "url": "https://www.securityweek.com/adobe-reader-zero-day-exploited-for-months-researcher/",
-      "published": "2026-04-09T08:44:51+00:00",
-      "summary": "<p>Reputable researcher Haifei Li has come across what appears to be a PDF designed to exploit an unpatched vulnerability.</p>\n<p>The post <a href=\"https://www.securityweek.com/adobe-reader-zero-day-exploited-for-months-researcher/\">Adobe Reader Zero-Day Exploited for Months: Researcher</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "6bc70adb16fabf5a660442f53e648ae88056a586",
-      "title": "300,000 People Impacted by Eurail Data Breach",
-      "url": "https://www.securityweek.com/300000-people-impacted-by-eurail-data-breach/",
-      "published": "2026-04-09T08:28:05+00:00",
-      "summary": "<p>In December 2025, hackers stole names and passport numbers from the European travel company\u2019s network.</p>\n<p>The post <a href=\"https://www.securityweek.com/300000-people-impacted-by-eurail-data-breach/\">300,000 People Impacted by Eurail Data Breach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "384779ffa8617d0f704fe9c4ee251ddf97c908fe",
-      "title": "$3.6 Million Stolen in Bitcoin Depot Hack",
-      "url": "https://www.securityweek.com/3-6-million-stolen-in-bitcoin-depot-hack/",
-      "published": "2026-04-09T06:41:40+00:00",
-      "summary": "<p>A hacker transferred more than 50 bitcoin from the Bitcoin ATM operator\u2019s wallets after stealing credentials.\u00a0</p>\n<p>The post <a href=\"https://www.securityweek.com/3-6-million-stolen-in-bitcoin-depot-hack/\">$3.6 Million Stolen in Bitcoin Depot Hack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "aacea94aa5b227782bb966c1e5a3c6b68ae04b8b",
-      "title": "Shaky Ceasefire Unlikely to Stop Cyberattacks From Iran-Linked Hackers for Long",
-      "url": "https://www.securityweek.com/shaky-ceasefire-unlikely-to-stop-cyberattacks-from-iran-linked-hackers-for-long/",
-      "published": "2026-04-09T01:22:35+00:00",
-      "summary": "<p>Hackers vowed to revive its efforts against America when the time was right \u2014 demonstrating how digital warfare has become ingrained in military conflict. </p>\n<p>The post <a href=\"https://www.securityweek.com/shaky-ceasefire-unlikely-to-stop-cyberattacks-from-iran-linked-hackers-for-long/\">Shaky Ceasefire Unlikely to Stop Cyberattacks From Iran-Linked Hackers for Long</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
