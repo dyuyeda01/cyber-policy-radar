@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-11T01:05:59.130697+00:00",
+  "generated_at": "2026-04-11T12:28:05.696832+00:00",
   "items": [
     {
       "id": "518887417e5cf1b97879720a7b59ffbad9a161b3",
@@ -110,6 +110,17 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "908189f5db6f91be374a80164c108ca13ad6772b",
+      "title": "Citizen Lab: Law Enforcement Used Webloc to Track 500 Million Devices via Ad Data",
+      "url": "https://thehackernews.com/2026/04/citizen-lab-law-enforcement-used-webloc.html",
+      "published": "2026-04-11T06:02:00+00:00",
+      "summary": "Hungarian domestic intelligence, the national police in El Salvador, and several U.S. law&nbsp;enforcement and police departments have been attributed to the use of an advertising-based global geolocation surveillance system called&nbsp;Webloc.\nThe tool was developed by Israeli company Cobwebs Technologies and is now sold by its successor Penlink after&nbsp;the two firms merged in July&nbsp;2023",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJjyKn2cWWKQvAjaegOP6UqdtgG4Cr6nQdwobWhvYvaSKO-VGcFFSSAvT6ngpo8T9n0BitFhLNKPv669Qp3I_2ZajEs3DbveUT5qhc4zVWHRbjJH4fv0_84_FNhPFnN7EPFa9szLDP6B5G-1owBpAGGFILLSX4q8ZobwLXjI9CPn0DfExp6y0_33OdtmkV/s1600/location-data.jpg"
     },
     {
       "id": "84122a9348d67268a18fbb29145afd3cf00c5b98",
@@ -649,17 +660,6 @@
       "region": "North America",
       "country": "US",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOPIq2XjzxLFTE4iwZWuKsLifOBVn0sVZv2vDEl0D3eXsyiW8ePJH7ukb29zq7gb7-7fJy8WjCRC5e-sYoMLXT4ZE-12llaj0H76qjygPmEl7cuGiC4jrLaMdDX5M55YsuYhdtbn8k5gCosH-JwHU3H-b7ho_5Lvg4pjoKf2Lz39lOumTGuxldWK1YQvfJ/s1600/apple-update.jpg"
-    },
-    {
-      "id": "f88f9be65e2b70852d57b7f792d6eaaba77e1eca",
-      "title": "CERT-UA Impersonation Campaign Spread AGEWHEEZE Malware to 1 Million Emails",
-      "url": "https://thehackernews.com/2026/04/cert-ua-impersonation-campaign-spread.html",
-      "published": "2026-04-01T16:10:00+00:00",
-      "summary": "The Computer Emergency Response Team of Ukraine (CERT-UA) has disclosed details of a new phishing campaign in which the cybersecurity agency itself was impersonated to distribute a remote administration tool known as AGEWHEEZE.\nAs part of the attacks, the threat actors, tracked as UAC-0255, sent emails on March 26 and 27, 2026, posing as CERT-UA to distribute a password-protected ZIP archive",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4SwwNEiRJL3-C8lgR_Sj7XKNGuxhA-uAdcUZBQRRzmC16xbgg4bYkHTBz2VTfXOle8Su66hHz8vDXIOOQ2nFXlNo8wOIVWYGmVW-c9X4Luqx1-qFCiLmOMzUzwW8T5g0S73q4sr66bEAhjy9BrGmiz_pj52J3ug92X8hO5gMR6j9v_Fg8Iqu8lzqczge3/s1600/cert.jpg"
     },
     {
       "id": "6846461978890001345b28fdb01f858fec435d89",
@@ -1212,6 +1212,28 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc0adc75ba38320bc/69cc20666d4b6c62a6224f3a/cloud_RanczAndrei_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
+      "id": "0a0cc287d97837bf4e36ca4baf2e4f020869b404",
+      "title": "Two different attackers poisoned popular open source tools - and showed us the future of supply chain compromise",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/11/trivy_axios_supply_chain_attacks/",
+      "published": "2026-04-11T11:11:09+00:00",
+      "summary": "<h4>Time to start dropping SBOMs</h4> <p><strong>FEATURE</strong>\u00a0 Two supply chain attacks in March infected open source tools with malware and used this access to steal secrets from tens of thousands \u2013 if not more \u2013 organizations. We won't know the full blast radius for months.\u2026</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "07e3801b90e996e3f6e2b5eb871b4d3156cf8d00",
+      "title": "Hungarian government creds left in the safe hands of 'FrankLampard'",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/11/hungary_government_logins_breach/",
+      "published": "2026-04-11T08:30:14+00:00",
+      "summary": "<h4>Nearly 800 state logins surfaced in breach data, including defense and NATO-linked accounts</h4> <p>Hungary's government has discovered the hard way that the biggest threat to national security might just be its own password choices.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "cef00adc457e304e0e4b80db730d83a858be1dbe",
       "title": "CPUID site hijacked to serve malware instead of HWMonitor downloads",
       "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/10/cpuid_site_hijacked/",
@@ -1740,25 +1762,47 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "76547b47141a1ec1f203f739cea87fc5e0d08bee",
-      "title": "UK wants to know if banning under-16s from social media does anything useful",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/26/uk_social_media_ban_trial/",
-      "published": "2026-03-26T09:30:05+00:00",
-      "summary": "<h4>300 families undergo 6-week trial to test impact on sleep, school, and home life</h4> <p>The UK government will trial different levels of restrictions on social media for under-16s with the help of 300 families, alongside a public consultation that has already gathered nearly 30,000 responses.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
+      "id": "f4ae2ca794b7c1fd86daaf45e4145b2c6fd5d768",
+      "title": "Russia Hacked Routers to Steal Microsoft Office Tokens",
+      "url": "https://krebsonsecurity.com/2026/04/russia-hacked-routers-to-steal-microsoft-office-tokens/",
+      "published": "2026-04-07T17:02:44+00:00",
+      "summary": "Hackers linked to Russia's military intelligence units are using known flaws in older Internet routers to mass harvest authentication tokens from Microsoft Office users, security experts warned today. The spying campaign allowed state-backed Russian hackers to quietly siphon authentication tokens from users on more than 18,000 networks without deploying any malicious software or code.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "5dcd76823c61a7612a037726c2391192f5c6a96b",
-      "title": "Indian government probes CCTV espionage operation linked to Pakistan",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/26/india_pakistan_cctv/",
-      "published": "2026-03-26T03:18:01+00:00",
-      "summary": "<h4>Police found cameras pointing at infrastructure</h4> <p>Indian authorities have reportedly ordered an audit of the nation\u2019s CCTV cameras, after police uncovered what they claim was a Pakistan-backed surveillance operation.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
+      "id": "a8697ca5f1d9fdf9ccc343929a4a781742957f93",
+      "title": "Germany Doxes \u201cUNKN,\u201d Head of RU Ransomware Gangs REvil, GandCrab",
+      "url": "https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/",
+      "published": "2026-04-06T02:07:17+00:00",
+      "summary": "An elusive hacker who went by the handle \"UNKN\" and ran the early Russian ransomware groups GandCrab and REvil now has a name and a face. Authorities in Germany say 31-year-old Russian Daniil Maksimovich Shchukin headed both cybercrime gangs and helped carry out at least 130 acts of computer sabotage and extortion against victims across the country between 2019 and 2021.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "d5d8869d9ecc385f8111fb9f52449b6dfd78df36",
+      "title": "\u2018CanisterWorm\u2019 Springs Wiper Attack Targeting Iran",
+      "url": "https://krebsonsecurity.com/2026/03/canisterworm-springs-wiper-attack-targeting-iran/",
+      "published": "2026-03-23T15:43:04+00:00",
+      "summary": "A financially motivated data theft and extortion group is attempting to inject itself into the Iran war, unleashing a worm that spreads through poorly secured cloud services and wipes data on infected systems that use Iran's time zone or have Farsi set as the default language.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "4c218981900dfb4ec5f0a27ffe536f389ad55b35",
+      "title": "Feds Disrupt IoT Botnets Behind Huge DDoS Attacks",
+      "url": "https://krebsonsecurity.com/2026/03/feds-disrupt-iot-botnets-behind-huge-ddos-attacks/",
+      "published": "2026-03-20T00:49:19+00:00",
+      "summary": "The U.S. Justice Department joined authorities in Canada and Germany in dismantling the online infrastructure behind four highly disruptive botnets that compromised more than three million hacked Internet of Things (IoT) devices, such as routers and web cameras. The feds say the four botnets -- named Aisuru, Kimwolf, JackSkid and Mossad -- are responsible for a series of recent record-smashing distributed denial-of-service (DDoS) attacks capable of knocking nearly any target offline.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
