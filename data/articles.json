@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-12T01:14:14.279511+00:00",
+  "generated_at": "2026-04-12T12:31:26.170255+00:00",
   "items": [
     {
       "id": "518887417e5cf1b97879720a7b59ffbad9a161b3",
@@ -110,6 +110,28 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "ffa933ee628e21774546b1946efb1fe2ef9e3cc1",
+      "title": "CPUID Breach Distributes STX RAT via Trojanized CPU-Z and HWMonitor Downloads",
+      "url": "https://thehackernews.com/2026/04/cpuid-breach-distributes-stx-rat-via.html",
+      "published": "2026-04-12T05:54:00+00:00",
+      "summary": "Unknown threat actors compromised CPUID (\"cpuid[.]com\"), a website&nbsp;that hosts popular hardware monitoring tools like CPU-Z, HWMonitor, HWMonitor Pro, and PerfMonitor, for less than 24 hours to serve malicious executables for the software and deploy a remote access trojan called STX&nbsp;RAT.\nThe incident lasted from approximately April 9, 15:00 UTC, to about April 10, 10:00&nbsp;UTC, with",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCPq2en6ihCNpYdSr5mWkN43O4Rl3tXYz77I2achAfYSy7Emoaj8fNqmFHLOydg6Ai6DwDKBEKD91ywcO9eT2t-rrFxEiThe79Rsa4dap_UcNZSEdWl9NRGeaMqP_vsbWnKf2mMNHQ86cabK4wlspLPWRHMJ7Gj5guX6ynx57RhsDLbJeSDAdPR_BjGFNU/s1600/downloads.jpg"
+    },
+    {
+      "id": "1d662a2830cddb192c572bc7033a845f21d91272",
+      "title": "Adobe Patches Actively Exploited Acrobat Reader Flaw CVE-2026-34621",
+      "url": "https://thehackernews.com/2026/04/adobe-patches-actively-exploited.html",
+      "published": "2026-04-12T04:25:00+00:00",
+      "summary": "Adobe has released emergency updates to fix a critical security flaw in Acrobat Reader that&nbsp;has come under active exploitation in the&nbsp;wild.\nThe vulnerability, assigned the CVE identifier CVE-2026-34621, carries a CVSS score of 8.6 out of 10.0. Successful exploitation of the flaw could allow an attacker to run malicious code on affected installations.\nIt&nbsp;has been&nbsp;described as",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhg1374h3OcQ3MPg1BngGcQC6U8eVWUh3Ye84l6WpQKxC1a8_x1Mpp0K8-0DDfJU0YtVqWoUZcNE-bJ_bsfraWWWfafJoP8pF7jDlcb8L4LqNDYWtbhoaDcSbpcmEwNjDi0hzkie5VVRmqntS8uZe4hrAd4IDcc0CO95Bsj8y1rP7LhfPsCkvQIkOtx-B7D/s1600/adobe-adobe.jpg"
     },
     {
       "id": "908189f5db6f91be374a80164c108ca13ad6772b",
@@ -638,28 +660,6 @@
       "region": "North America",
       "country": "US",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5yI578d17vaAxuCMW2SLrz3ibI4ibSfdDCfum-B3VZ0Ukyd79Eue2VR8ofUCBpISSXsL8biYdRFyuMm78T6PTU7U1w_6jJK3qV7ohPRSt3NGDTtAkseitLCaEZVHqcVIhFZABPlyAP8KPV-JMlnlq42Flgl7lB2Rs5hkIQYVYtc0Z15Yd0WKaYSu7CLM/s1600/devsecops.jpg"
-    },
-    {
-      "id": "f276e37b8d3618bba2c75ee2010c73fcdd90b8ee",
-      "title": "WhatsApp Alerts 200 Users After Fake iOS App Installed Spyware; Italian Firm Faces Action",
-      "url": "https://thehackernews.com/2026/04/whatsapp-alerts-200-users-after-fake.html",
-      "published": "2026-04-02T09:51:00+00:00",
-      "summary": "Meta-owned messaging platform WhatsApp said it alerted about 200 users who were tricked into installing a bogus version of its iOS app that was infected with&nbsp;spyware.\nAccording to reports from Italian&nbsp;newspaper La Repubblica and news&nbsp;agency ANSA, the vast majority of the targets are located in Italy. It's assessed that the threat actors behind the activity used social engineering",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhH1Qe0E88MYHp7xg6ApE5TypZK__02tmUnhvX60svA9npwirnTJbAb-Wl4rvLo3gq3kX1l9JUXDgXZJ0yPGNZlUo8n5DG1-pqONNFQIA2epqNdU7tNGZSJPJCthWLHtnDdO8jWQ5YzwY7TWUn_9SJP5pu0vHX2i3-L0zM5dZscSR4wAUPWAN1fm-3zgOGE/s1600/whatsapp-alert.jpg"
-    },
-    {
-      "id": "9229cf6a8a98acb6a0666545a7c9a052cb655589",
-      "title": "Apple Expands iOS 18.7.7 Update to More Devices to Block DarkSword Exploit",
-      "url": "https://thehackernews.com/2026/04/apple-expands-ios-1877-update-to-more.html",
-      "published": "2026-04-02T07:09:00+00:00",
-      "summary": "Apple&nbsp;on&nbsp;Wednesday expanded the availability of iOS 18.7.7&nbsp;and iPadOS 18.7.7&nbsp;to a broader range of devices to protect users from the risk posed by a recently disclosed exploit kit known&nbsp;as DarkSword.\n\"We enabled the availability of iOS 18.7.7&nbsp;for more devices on April 1, 2026, so users with Automatic Updates turned on can automatically receive important security",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOPIq2XjzxLFTE4iwZWuKsLifOBVn0sVZv2vDEl0D3eXsyiW8ePJH7ukb29zq7gb7-7fJy8WjCRC5e-sYoMLXT4ZE-12llaj0H76qjygPmEl7cuGiC4jrLaMdDX5M55YsuYhdtbn8k5gCosH-JwHU3H-b7ho_5Lvg4pjoKf2Lz39lOumTGuxldWK1YQvfJ/s1600/apple-update.jpg"
     },
     {
       "id": "6846461978890001345b28fdb01f858fec435d89",
@@ -1806,6 +1806,17 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "7777b4f19f9e736131d2dbc91761b2b0f43040bb",
+      "title": "Adobe Patches Reader Zero-Day Exploited for Months",
+      "url": "https://www.securityweek.com/adobe-patches-reader-zero-day-exploited-for-months/",
+      "published": "2026-04-12T07:45:26+00:00",
+      "summary": "<p>The vulnerability is tracked as CVE-2026-34621 and Adobe has confirmed that it can be exploited for arbitrary code execution.</p>\n<p>The post <a href=\"https://www.securityweek.com/adobe-patches-reader-zero-day-exploited-for-months/\">Adobe Patches Reader Zero-Day Exploited for Months</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "8ee9686d23221afe6bb9f9082b7493930a23a99d",
       "title": "In Other News: Cyberattack Stings Stryker, Windows Zero-Day, China Supercomputer Hack",
       "url": "https://www.securityweek.com/in-other-news-cyberattack-stings-stryker-windows-zero-day-china-supercomputer-hack/",
@@ -1899,17 +1910,6 @@
       "url": "https://www.securityweek.com/microsoft-finds-vulnerability-exposing-millions-of-android-crypto-wallet-users/",
       "published": "2026-04-10T07:33:16+00:00",
       "summary": "<p>The security hole affected an EngageLab SDK and it was reported by Microsoft to the vendor one year ago.</p>\n<p>The post <a href=\"https://www.securityweek.com/microsoft-finds-vulnerability-exposing-millions-of-android-crypto-wallet-users/\">Microsoft Finds Vulnerability Exposing Millions of Android Crypto Wallet Users</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "1846b1b726afd2dc00ce90e58b1cbe345d481917",
-      "title": "Apple Intelligence AI Guardrails Bypassed in New Attack",
-      "url": "https://www.securityweek.com/apple-intelligence-ai-guardrails-bypassed-in-new-attack/",
-      "published": "2026-04-09T13:43:07+00:00",
-      "summary": "<p>RSAC researchers hacked Apple Intelligence using the Neural Exect method and Unicode manipulation.</p>\n<p>The post <a href=\"https://www.securityweek.com/apple-intelligence-ai-guardrails-bypassed-in-new-attack/\">Apple Intelligence AI Guardrails Bypassed in New Attack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
