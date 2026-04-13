@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-13T01:16:11.243070+00:00",
+  "generated_at": "2026-04-13T12:54:08.839868+00:00",
   "items": [
     {
       "id": "518887417e5cf1b97879720a7b59ffbad9a161b3",
@@ -110,6 +110,39 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "b55d9819b33e37c823bb4ef109559a0be6141430",
+      "title": "Your MTTD Looks Great. Your Post-Alert Gap Doesn't",
+      "url": "https://thehackernews.com/2026/04/your-mttd-looks-great-your-post-alert.html",
+      "published": "2026-04-13T11:41:00+00:00",
+      "summary": "Anthropic restricted its Mythos Preview model last week after it autonomously found and exploited zero-day vulnerabilities in every major operating system and browser. Palo&nbsp;Alto Networks' Wendi&nbsp;Whitmorewarned that similar capabilities are weeks or months from proliferation. CrowdStrike's 2026 Global Threat Report puts average eCrime breakout time at 29 minutes. Mandiant's M-Trends 2026",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6yIgStY_TVvAIztG3gjTOWA2HNY1juzcSFQVACCzI1G1EU97z9wTsAO9HJECkmv0RcAYSxu4xSALf9jELTrtC9ruDKbMS5DPq2U2TYXLtvxZ1F4sRaQ2KIe-FfGpB8kZEhs1LEuOvaEnvGO-50RM227cjDVRFdBaXeC8r5WPOQHG3n2SB8ui3USopqHM/s1600/pro.jpg"
+    },
+    {
+      "id": "1e1487ef8580e526d674c38d4de9e04209992d9c",
+      "title": "North Korea's APT37 Uses Facebook Social Engineering to Deliver RokRAT Malware",
+      "url": "https://thehackernews.com/2026/04/north-koreas-apt37-uses-facebook-social.html",
+      "published": "2026-04-13T09:15:00+00:00",
+      "summary": "The North Korean hacking group tracked&nbsp;as APT37 (aka ScarCruft) has been attributed to a fresh multi-stage, social engineering campaign in which threat actors approached targets on Facebook and added them as friends on the social media platform, turning the trust-building exercise into a delivery channel for a remote access trojan&nbsp;called RokRAT.\n\"The threat actor used two Facebook",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhm-HTAVB66ntSv8R4Bgh9szlrPPh6ah0eJGTDheDntj2w9bW9XzWcgs2CAGsN_C8DS7T4M7V8q18_DtgMZu3mJONEewq_oWlpefdtwp6BgudRjw2Z68jXoP8tHCdxSyvZ-xvVuPlh-xpxEeIRHk1v2mq5KqZxS1z316ncG5j2Q9HQe_bJhIJE4XWONvyYL/s1600/telegram.jpg"
+    },
+    {
+      "id": "40d14a5d72ef5bca675c2bfcded803a492a73c14",
+      "title": "OpenAI Revokes macOS App Certificate After Malicious Axios Supply Chain Incident",
+      "url": "https://thehackernews.com/2026/04/openai-revokes-macos-app-certificate.html",
+      "published": "2026-04-13T06:50:00+00:00",
+      "summary": "OpenAI revealed a GitHub Actions workflow used to sign its macOS apps led to the download of the malicious Axios library on March 31, but noted that no user data or internal system was compromised.\n\"Out of an abundance of caution, we are taking steps to protect the process that certifies our macOS applications are legitimate OpenAI apps,\"&nbsp;OpenAI said in a post last week. \"We found no",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjE5gb0KURzHAgdXMKzxbNFW1AJ8G2ezWXrHrLReEmbX6BKaG3-tIjiDVcjk-4nIZ3Kg2_564qiWXVVGcERIi4vaUvjqG-BuENXb7i6P3M2rdOHz-S9DOcKIHZ-pa1odUyUdTI-lLify_9CRXYcZu3hyY2LXeTMp1wMRr7mnu7yQdIIjGrFXCAecG4-XVpS/s1600/openai.jpg"
     },
     {
       "id": "ffa933ee628e21774546b1946efb1fe2ef9e3cc1",
@@ -629,44 +662,11 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjH6wuST9R8voZTpCC-v5LSwd4O7vlbuRDhXMzcSw9iu0k2JvFOao-3Jr2o9iCs0jqX3pIqHvcYo_n-5Ad80WXeQXKV_DTgJUN0A6nl9f73BA1U0wRoZBqgySfDR6Uk7KD8jXzw2BFLGvusf-96qsINw9jT4PnglZohYM2VhSsdHcpw-cl6vwAekfE-KD_H/s1600/cisco-exploit.jpg"
     },
     {
-      "id": "442d059e5c80be9dea86ab515e0e8ae0713f4d2a",
-      "title": "ThreatsDay Bulletin: Pre-Auth Chains, Android Rootkits, CloudTrail Evasion & 10 More Stories",
-      "url": "https://thehackernews.com/2026/04/threatsday-bulletin-pre-auth-chains.html",
-      "published": "2026-04-02T12:45:00+00:00",
-      "summary": "The&nbsp;latest ThreatsDay Bulletin is basically a cheat sheet for everything breaking on the internet right now. No&nbsp;corporate fluff or boring lectures here, just a quick and honest look at the messy reality of keeping systems safe this&nbsp;week.\nThings&nbsp;are moving fast. The&nbsp;list includes researchers chaining small bugs together to create massive backdoors, old software flaws",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEht9hzOUmn8npVxC_AyWUe1DLsv1VkWHox2PmDxZnVuG_XnQt7R5l7CZHlYu9m9BcwAib4L0j0x877sDuCF2shmSH3ef0Me-m0sbKDtu-ZEw5RLqLGNsjGJ0o-b_CuKtFg86fMFb-GKVBud7S8PfpsoL4HCqEZypO1NcWfx6ljXcUhC5O4GIjRbhRcG-fIi/s1600/threatsday.jpg"
-    },
-    {
-      "id": "f4c5ebc931fc54a25d4d608f85fcec327cade31d",
-      "title": "Researchers Uncover Mining Operation Using ISO Lures to Spread RATs and Crypto Miners",
-      "url": "https://thehackernews.com/2026/04/researchers-uncover-mining-operation.html",
-      "published": "2026-04-02T11:42:00+00:00",
-      "summary": "A&nbsp;financially motivated operation&nbsp;codenamed REF1695&nbsp;has been&nbsp;observed leveraging fake installers to deploy remote access trojans (RATs) and cryptocurrency miners since November&nbsp;2023.\n\"Beyond cryptomining, the threat actor monetizes infections through CPA (Cost Per Action) fraud, directing victims to content locker pages under the guise of software registration,\" Elastic",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpKoZinOy6MS9s0nTi1TV12H46KUmgkxu0kGinPE7yyq7Vpo9lmmcz30e5ve0yCk2T0ETCedeV6aXs0iEjI1rOykcXwBPa2a11yb75bjgjad7WKkKgsUAv0lO1tuZ8vVnYZtuiUHKqwM6Z6bxGtheJIhuWW5W6lKjo0FaHZf7ewPO_SFuKAjPKMh_sqDB2/s1600/monero.jpg"
-    },
-    {
-      "id": "216e4b0eaf2d53000e75267df9b7378e7bb1b4b0",
-      "title": "The State of Trusted Open Source Report",
-      "url": "https://thehackernews.com/2026/04/the-state-of-trusted-open-source-report.html",
-      "published": "2026-04-02T11:30:00+00:00",
-      "summary": "In December&nbsp;2025, we shared the first-ever The State of Trusted Open&nbsp;Source report, featuring insights from our product data and customer base on open source consumption across our catalog of container image projects, versions, images, language libraries, and builds. These&nbsp;insights shed light on what teams pull, deploy, and maintain day to day, alongside the vulnerabilities and",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5yI578d17vaAxuCMW2SLrz3ibI4ibSfdDCfum-B3VZ0Ukyd79Eue2VR8ofUCBpISSXsL8biYdRFyuMm78T6PTU7U1w_6jJK3qV7ohPRSt3NGDTtAkseitLCaEZVHqcVIhFZABPlyAP8KPV-JMlnlq42Flgl7lB2Rs5hkIQYVYtc0Z15Yd0WKaYSu7CLM/s1600/devsecops.jpg"
-    },
-    {
       "id": "6846461978890001345b28fdb01f858fec435d89",
       "title": "Hims Breach Exposes the Most Sensitive Kinds of PHI",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/hims-breach-exposes-sensitive-phi",
       "published": "2026-04-10T20:02:30+00:00",
-      "summary": "Threat actors breached the telehealth brand, and now they may know who's bald, overweight, and impotent. What could they do with that information?",
+      "summary": "Threat actors breached the telehealth brand, and now they may know patients' personal health details. What could they do with that information?",
       "source": "DarkReading",
       "region": "North America",
       "country": "US",
@@ -1212,6 +1212,50 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc0adc75ba38320bc/69cc20666d4b6c62a6224f3a/cloud_RanczAndrei_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
+      "id": "85039b4e0a3b5e02dd4af487a34a2f668a20cded",
+      "title": "Gym giant Basic-Fit confirms data on a million members stolen in cyberattack",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/13/basicfit_breach/",
+      "published": "2026-04-13T11:22:08+00:00",
+      "summary": "<h4>Names, addresses, dates of birth, and bank details accessed, though not passwords</h4> <p>Basic-Fit, Europe's largest gym chain, has confirmed data including the bank details of around a million customers was stolen from its systems.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "00e4858652ec16cd15867ea09b654aa5223a181c",
+      "title": "Rockstar Games gets a taste of grand theft data amid ShinyHunters threat of 'Pay or leak'",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/13/shinyhunters_rockstar_breach/",
+      "published": "2026-04-13T10:41:08+00:00",
+      "summary": "<h4>Gang claims it accessed Snowflake metrics via third-party tool</h4> <p>ShinyHunters is back, this time pinning Rockstar Games to its leak site and claiming it didn't so much hack its way in as walk through a door someone else left wide open.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "d5e90039a9ac4dcf8a50d374baffe0127d1582e5",
+      "title": "NHS pays \u00a346K to prep next Microsoft licensing round",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/13/nhs_benchmarking_microsoft/",
+      "published": "2026-04-13T09:27:14+00:00",
+      "summary": "<h4>Benchmarking contract lays groundwork for renegotiating \u00a3774M software agreement</h4> <p>NHS England is spending \u00a346,000 on \"benchmarking\" as it gears up for what looks like the next round of negotiations behind one of the UK public sector's biggest software deals.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "859c44f09fa2ef82cb465f5cf1bbfe94007ac9ee",
+      "title": "China wants AI to prepare school lessons and mark homework",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/13/asia_tech_news_roundup/",
+      "published": "2026-04-13T02:09:07+00:00",
+      "summary": "<h4>PLUS: Toyota wheels out basketball bot; Arm scores AI server win with SK Telecom; India ponders payment pauses to foil fraudsters; And more!</h4> <p><strong>Asia In Brief</strong>\u00a0 China\u2019s National Data Administration last Friday <a href=\"https://www.nda.gov.cn/sjj/zwgk/tzgg/0410/20260410162428109058250_pc.html\" target=\"_blank\">published</a> its action plan for AI in education which calls for upskilling of the nation\u2019s citizens to ensure they can put the technology to work.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "2df627a8b562e75c3728a62029ceae50fea87d00",
       "title": "Anthropic's mysterious Mythos AI threatens to upend the infosec world",
       "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/12/anthropic_mythos_kettle_podcast/",
@@ -1718,50 +1762,6 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "5e22f9ef55d44a8026b1c928103db034c921b519",
-      "title": "US foreign router ban criticized for being \u2018industrial policy disguised as cybersecurity\u2019",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/30/professor_criticizes_fcc_router_ban/",
-      "published": "2026-03-30T04:31:17+00:00",
-      "summary": "<h4>Public policy professor says it will make America less secure but hits Netgear\u2019s lobbying goals</h4> <p>The United States\u2019 ban on foreign-made SOHO routers won\u2019t improve security, and only makes sense as \u201cindustrial policy disguised as cybersecurity,\u201d according to Milton Mueller, Professor at the University of Georgia\u2019s School of Public Policy and founder of its Internet Governance Project.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "708981615c67988158656edc6a1b8f2602d02167",
-      "title": "AFC Ajax drops ball as flaws let hackers play admin with tickets and bans",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/27/afc_ajax_drops_ball_as/",
-      "published": "2026-03-27T12:30:11+00:00",
-      "summary": "<h4>Vulns in Dutch football club's systems didn't just expose data \u2013 they let outsiders play with accounts, and even lift stadium bans</h4> <p>Dutch football giant AFC Ajax has admitted to a data breach after an attacker gained access to its internal systems, in an incident that looks less like a stray pass and more like the gates left wide open.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "5f046bcec59afb3ca3c451cbc9d91f39278dca2a",
-      "title": "Iran war drives urgent need\u00a0to counter underwater attack drones",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/27/us_and_uk_forces_auv_tender/",
-      "published": "2026-03-27T11:17:32+00:00",
-      "summary": "<h4>US and UK forces seeking tech tender with an April 3 deadline</h4> <p>The UK and US are looking for technology to counter the threat posed by underwater drones to ships, harbors and other critical maritime infrastructure, and are asking industry for answers.\u2026</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "565bb004729680506f13a25304f41e64c38c90f4",
-      "title": "Security boffins scoured the web and found hundreds of valid API keys",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/27/security_boffins_harvest_bumper_crop/",
-      "published": "2026-03-27T07:04:15+00:00",
-      "summary": "<h4>Global bank's devs have some cleaning up to do after cloud creds found in website code</h4> <p>Computer security boffins have conducted an analysis of 10 million websites and found almost 2,000 API credentials strewn across 10,000 webpages.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
       "id": "f4ae2ca794b7c1fd86daaf45e4145b2c6fd5d768",
       "title": "Russia Hacked Routers to Steal Microsoft Office Tokens",
       "url": "https://krebsonsecurity.com/2026/04/russia-hacked-routers-to-steal-microsoft-office-tokens/",
@@ -1801,6 +1801,61 @@
       "published": "2026-03-20T00:49:19+00:00",
       "summary": "The U.S. Justice Department joined authorities in Canada and Germany in dismantling the online infrastructure behind four highly disruptive botnets that compromised more than three million hacked Internet of Things (IoT) devices, such as routers and web cameras. The feds say the four botnets -- named Aisuru, Kimwolf, JackSkid and Mossad -- are responsible for a series of recent record-smashing distributed denial-of-service (DDoS) attacks capable of knocking nearly any target offline.",
       "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "bf71655a78af3f31ca4d33e8644fec967be962e8",
+      "title": "OpenAI Impacted by North Korea-Linked Axios Supply Chain Hack",
+      "url": "https://www.securityweek.com/openai-impacted-by-north-korea-linked-axios-supply-chain-hack/",
+      "published": "2026-04-13T12:34:06+00:00",
+      "summary": "<p>The AI giant is taking action after determining that a macOS code signing certificate may have been compromised.</p>\n<p>The post <a href=\"https://www.securityweek.com/openai-impacted-by-north-korea-linked-axios-supply-chain-hack/\">OpenAI Impacted by North Korea-Linked Axios Supply Chain Hack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "e78b3ff377ec7d99e3c715b6baf7edf23249efdb",
+      "title": "International Operation Targets Multimillion-Dollar Crypto Theft Schemes",
+      "url": "https://www.securityweek.com/international-operation-targets-multimillion-dollar-crypto-theft-schemes/",
+      "published": "2026-04-13T11:34:35+00:00",
+      "summary": "<p>Law enforcement in the US, UK and Canada identified more than $45 million in cryptocurrency and froze $12 million.</p>\n<p>The post <a href=\"https://www.securityweek.com/international-operation-targets-multimillion-dollar-crypto-theft-schemes/\">International Operation Targets Multimillion-Dollar Crypto Theft Schemes</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "17ffd4c67222d46b67f33d088dcc610c94549db9",
+      "title": "CPUID Hacked to Serve Trojanized CPU-Z and HWMonitor Downloads",
+      "url": "https://www.securityweek.com/cpuid-hacked-to-serve-trojanized-cpu-z-and-hwmonitor-downloads/",
+      "published": "2026-04-13T10:52:57+00:00",
+      "summary": "<p>Download links were replaced by a Russian-speaking threat actor to distribute a recently emerged malware named STX RAT.</p>\n<p>The post <a href=\"https://www.securityweek.com/cpuid-hacked-to-serve-trojanized-cpu-z-and-hwmonitor-downloads/\">CPUID Hacked to Serve Trojanized CPU-Z and HWMonitor Downloads</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "174914593c2cf7bf7c9a49c2109ac506d4b2c1b0",
+      "title": "Fake Claude Website Distributes PlugX RAT",
+      "url": "https://www.securityweek.com/fake-claude-website-distributes-plugx-rat/",
+      "published": "2026-04-13T09:52:50+00:00",
+      "summary": "<p>The malware mimics the legitimate Anthropic installation, relies on DLL sideloading, and cleans up after itself.</p>\n<p>The post <a href=\"https://www.securityweek.com/fake-claude-website-distributes-plugx-rat/\">Fake Claude Website Distributes PlugX RAT</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "a7fe8863ababb43e540590ecfd8e3e05c32ab42e",
+      "title": "Gmail Brings End-to-End Encryption to Android and iOS for Enterprise Users",
+      "url": "https://www.securityweek.com/gmail-brings-end-to-end-encryption-to-android-and-ios-for-enterprise-users/",
+      "published": "2026-04-13T08:31:33+00:00",
+      "summary": "<p>The feature allows enterprise users to compose and read end-to-end encrypted messages natively on their mobile devices.</p>\n<p>The post <a href=\"https://www.securityweek.com/gmail-brings-end-to-end-encryption-to-android-and-ios-for-enterprise-users/\">Gmail Brings End-to-End Encryption to Android and iOS for Enterprise Users</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
@@ -1855,61 +1910,6 @@
       "url": "https://www.securityweek.com/orthanc-dicom-vulnerabilities-lead-to-crashes-rce/",
       "published": "2026-04-10T11:53:45+00:00",
       "summary": "<p>Attackers could exploit these vulnerabilities in denial-of-service, information disclosure, and arbitrary code execution attacks.</p>\n<p>The post <a href=\"https://www.securityweek.com/orthanc-dicom-vulnerabilities-lead-to-crashes-rce/\">Orthanc DICOM Vulnerabilities Lead to Crashes, RCE</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "903b3b0eb207b124beba7cd08858c80c22cc2cb3",
-      "title": "Chrome 147 Patches 60 Vulnerabilities, Including Two Critical Flaws Worth $86,000",
-      "url": "https://www.securityweek.com/chrome-147-patches-60-vulnerabilities-including-two-critical-flaws-worth-86000/",
-      "published": "2026-04-10T10:44:45+00:00",
-      "summary": "<p>The critical vulnerabilities affect Chrome\u2019s WebML component and they have been reported by anonymous researchers.</p>\n<p>The post <a href=\"https://www.securityweek.com/chrome-147-patches-60-vulnerabilities-including-two-critical-flaws-worth-86000/\">Chrome 147 Patches 60 Vulnerabilities, Including Two Critical Flaws Worth $86,000</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "74402a57dcadf05406533e1dedbc8558594c609d",
-      "title": "MITRE Releases Fight Fraud Framework",
-      "url": "https://www.securityweek.com/mitre-releases-fight-fraud-framework/",
-      "published": "2026-04-10T09:51:03+00:00",
-      "summary": "<p>The document provides a behavior-based model of the tactics and techniques employed by fraudsters.</p>\n<p>The post <a href=\"https://www.securityweek.com/mitre-releases-fight-fraud-framework/\">MITRE Releases Fight Fraud Framework</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "197c8b67db18e98592019c99479d138647b8910a",
-      "title": "Critical Marimo Flaw Exploited Hours After Public Disclosure",
-      "url": "https://www.securityweek.com/critical-marimo-flaw-exploited-hours-after-public-disclosure/",
-      "published": "2026-04-10T09:12:48+00:00",
-      "summary": "<p>Within nine hours, a hacker built an exploit from the unauthenticated bug\u2019s advisory and started using it in the wild.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-marimo-flaw-exploited-hours-after-public-disclosure/\">Critical Marimo Flaw Exploited Hours After Public Disclosure</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "3af0481eec2ff40fe69d421c540bd7c1374e59fa",
-      "title": "Google Rolls Out Cookie Theft Protections in Chrome",
-      "url": "https://www.securityweek.com/google-rolls-out-cookie-theft-protections-in-chrome/",
-      "published": "2026-04-10T07:50:00+00:00",
-      "summary": "<p>New Device Bound Session Credentials render stolen session cookies unusable by cryptographically binding authentication.</p>\n<p>The post <a href=\"https://www.securityweek.com/google-rolls-out-cookie-theft-protections-in-chrome/\">Google Rolls Out Cookie Theft Protections in Chrome</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "c77bd48f48a9929811bcfe595fdce16e3397d8cd",
-      "title": "Microsoft Finds Vulnerability Exposing Millions of Android Crypto Wallet Users",
-      "url": "https://www.securityweek.com/microsoft-finds-vulnerability-exposing-millions-of-android-crypto-wallet-users/",
-      "published": "2026-04-10T07:33:16+00:00",
-      "summary": "<p>The security hole affected an EngageLab SDK and it was reported by Microsoft to the vendor one year ago.</p>\n<p>The post <a href=\"https://www.securityweek.com/microsoft-finds-vulnerability-exposing-millions-of-android-crypto-wallet-users/\">Microsoft Finds Vulnerability Exposing Millions of Android Crypto Wallet Users</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
