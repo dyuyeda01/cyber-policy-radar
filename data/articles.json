@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-14T01:14:49.559156+00:00",
+  "generated_at": "2026-04-14T12:53:33.712786+00:00",
   "items": [
     {
       "id": "5ac2040c78dfc6947e3cc3a7651c7dfce66e2e5f",
@@ -110,6 +110,61 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "256044fb8312cfd0a3e0a294b2fb212b9a388981",
+      "title": "Mirax Android RAT Turns Devices into SOCKS5 Proxies, Reaching 220,000 via Meta Ads",
+      "url": "https://thehackernews.com/2026/04/mirax-android-rat-turns-devices-into.html",
+      "published": "2026-04-14T10:20:00+00:00",
+      "summary": "A nascent Android remote access trojan&nbsp;called Mirax has been observed actively targeting Spanish-speaking countries, with campaigns reaching more than 220,000 accounts on Facebook, Instagram, Messenger, and Threads through advertisements on&nbsp;Meta.\n\"Mirax integrates advanced Remote Access Trojan (RAT) capabilities, allowing threat actors to fully interact with compromised devices in real",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSTMJQqqJsKQgPpv94bO9xAc_tQCEJXJrZGAEmCuyUghslqHdHDYmuVYqIVLGqMLi_ZuY_zEBoDdGDQRVAX0KyGq9QcuIzQ5LVbNLBnwUwW2R7IBg0gopxAI9ml44zJsKXEoc1ig8zRbVDBNK3B4LZRE0WljzIfwnSMHx8Mv1kWYTK5qnxOB1YYl_WNWMa/s1600/android-malware.jpg"
+    },
+    {
+      "id": "b777608cc3918426c9734f8c4b2ce1ac07f04ac6",
+      "title": "Analysis of 216M Security Findings Shows a 4x Increase In Critical Risk (2026 Report)",
+      "url": "https://thehackernews.com/2026/04/analysis-of-216m-security-findings.html",
+      "published": "2026-04-14T10:00:00+00:00",
+      "summary": "OX Security recently analyzed 216 million security findings across 250 organizations over a 90-day period. The&nbsp;primary takeaway: while raw alert volume grew by 52% year-over-year, prioritized critical risk grew by nearly&nbsp;400%.\nThe surge in AI-assisted development is creating a \"velocity&nbsp;gap\" where the density of high-impact vulnerabilities&nbsp;is scaling faster&nbsp;than",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4H3KkiSOm6TbNn7e0Ceu3-etqqeLci47PtX9T-0WGgdGScHfd2tfFamA6oyOi62wWwKF7KwF_wcqNACSvRVJvH__1YKoP_fP7T5LFdDqX8jxFph0NSaVJjFEVhb0bjNvn5IWayqMwKyRNbp9mmW7f2JLs7I3pTF8yLuhCOHsbnpNVLrEVq6Uq63j8508/s1600/derailed.jpg"
+    },
+    {
+      "id": "c4ac1963135e5f8e1bf6ad7aa3ceb9c7e127f7ef",
+      "title": "108 Malicious Chrome Extensions Steal Google and Telegram Data, Affecting 20,000 Users",
+      "url": "https://thehackernews.com/2026/04/108-malicious-chrome-extensions-steal.html",
+      "published": "2026-04-14T08:35:00+00:00",
+      "summary": "Cybersecurity researchers have discovered a new campaign in which a cluster of 108 Google Chrome extensions has been found to communicate with the same command-and-control (C2) infrastructure with the goal of collecting user data and enabling browser-level abuse by injecting ads and arbitrary JavaScript code into every web page&nbsp;visited.\nAccording to Socket, the extensions are published",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEOmjr311c0yBDI593joFXQLaRdpm6DY67lbFv83YcYlRHaJkpocwXjDZDsV9F9DM-SavZwCOZ-fg10ncUJyW3ODlfBjqG6aK_ytdBfvXFGLswxeJ69oiZXfhGKdCgVO0Angg_qlYB6oAZYo-JQRKn4toBGWcS7OTDwPV0rkus7eNw-9BllIGJa2nkeKXn/s1600/chrome-telegram.jpg"
+    },
+    {
+      "id": "5a636486abf878309b5d306db0e04b5c09f24cd0",
+      "title": "ShowDoc RCE Flaw CVE-2025-0520 Actively Exploited on Unpatched Servers",
+      "url": "https://thehackernews.com/2026/04/showdoc-rce-flaw-cve-2025-0520-actively.html",
+      "published": "2026-04-14T05:50:00+00:00",
+      "summary": "A critical security vulnerability&nbsp;impacting ShowDoc, a document management and collaboration service popular in China, has come under active exploitation in the&nbsp;wild.\nThe vulnerability in question&nbsp;is CVE-2025-0520 (aka CNVD-2020-26585), which carries a CVSS score of 9.4&nbsp;out of&nbsp;10.0.\nIt relates to a case of unrestricted file upload that stems from improper validation of",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjthzbWdOOZKL2JKvluG78cobCs7bGxvHsfzSMHt4XgX1OO9h-r7W_dlYCCDrCoKo2dAXhh264NTGUrFKBpM8pv0WcePn5gUp1atSJ4-iC4_wr0jmo7nDZ46JYCs8P_5DLs5RcHi81-L7Wiw35cLHNWqCPe50LJ1a3tqfxwfB3S3ufQjYQfUrfRDwMo1BYE/s1600/showdoc.jpg"
+    },
+    {
+      "id": "05cfb8d25d5955dfdd7cf971aaeb2b23462c4487",
+      "title": "CISA Adds 6 Known Exploited Flaws in Fortinet, Microsoft, and Adobe Software",
+      "url": "https://thehackernews.com/2026/04/cisa-adds-6-known-exploited-flaws-in.html",
+      "published": "2026-04-14T05:39:00+00:00",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on\u00a0Monday added half a dozen security flaws to its Known Exploited Vulnerabilities\u00a0(KEV) catalog, citing evidence of active exploitation.\nThe list of vulnerabilities is as follows\u00a0-\n\nCVE-2026-21643 (CVSS score: 9.1) -\u00a0 An SQL injection vulnerability in\u00a0 Fortinet FortiClient EMS that could allow an unauthenticated attacker to",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkkewWzrjyqzejet7cyCWdTUMfgjGZgkDpis6rUlh7qnyPpmcN1k_vVdKvziAZq2cOkFQDrJNM8E6WE8Cl7oPNdq94MOXJLa0nkbEmAFCB_MnjLQzTy-WjHGa6yuLhm7dPzuW3YEQeFIfOT1Tr25NgALeTL6vFDhzmJrCRMLL0GBpOhkwQm_Zirk_9aNjr/s1600/warning.jpg"
     },
     {
       "id": "aadaa7d9cfa96b8dfff96ca6fc97d7747faad606",
@@ -607,66 +662,11 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh61_DDvLhdLZ8tHMrmQ8XlQ1vWwnEk-2lmYFnjw_1ZvJ4IUB4G7ffXU8pSd7JDknP0bqyaVVOTb1HJ62ujlQ_zfG3Lc7XMtLKUuZTO6v4jgrdqon90wrix6EaQNKtou3yz7Txf3ni5JOVn-D1-OcHB7e-UDxQI2ifZOBHAeDwFBnwAfanSeFn8EyP8oilj/s1600/fortinet.jpg"
     },
     {
-      "id": "5523793d39c5750a060a8efd69a175c4b0d51949",
-      "title": "China-Linked TA416 Targets European Governments with PlugX and OAuth-Based Phishing",
-      "url": "https://thehackernews.com/2026/04/china-linked-ta416-targets-european.html",
-      "published": "2026-04-03T17:34:00+00:00",
-      "summary": "A China-aligned threat actor has set its sights on European government and diplomatic organizations since mid-2025,&nbsp;following a two-year&nbsp;period of minimal targeting in the&nbsp;region.\nThe campaign has been attributed&nbsp;to TA416, a cluster of activity that overlaps with DarkPeony, RedDelta, Red Lich, SmugX, UNC6384, and Vertigo&nbsp;Panda.\n\"This TA416 activity included multiple",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgi-dKCldJqtZI1CocMVxHNKusU5tcnMKjx7mzG9EfehvGacnTy4tsTfZLMfhyphenhyphenC5W210OxrxijBNAP8UumXAZH15ZSOM4x8xb9VTIHxN1HCouzROU0pn7sCJki9zJOkk9_8SRns73KxO1KvxUY4YgKGbbme6ZcKdbt4cqSHUkG5WQQPgDDTx_OLRbms35Dv/s1600/chinese-hackers.jpg"
-    },
-    {
-      "id": "54d05721bf60a83923911f899e5dd2e885f1c341",
-      "title": "Microsoft Details Cookie-Controlled PHP Web Shells Persisting via Cron on Linux Servers",
-      "url": "https://thehackernews.com/2026/04/microsoft-details-cookie-controlled-php.html",
-      "published": "2026-04-03T15:32:00+00:00",
-      "summary": "Threat&nbsp;actors are increasingly using HTTP cookies as a control channel for PHP-based web shells on Linux servers and to achieve remote code execution, according to findings from the Microsoft Defender Security Research&nbsp;Team.\n\"Instead of exposing command execution through URL parameters or request bodies, these web shells rely on threat actor-supplied cookie values to gate execution,",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_2zEf8l08MTElI1sGlJPVVWtscud2RAXdsivOvcby3pO4NUWMBioT3FNaFL7Bw0GeEqnX_WqY10FVqXhVNBTOrl0UMPoyun7AvshwpvfJIdfdJ0yJ1V2mz7ZHQDE9motXuuW6urvTJYu0kLGvpZf10Qx1hNeobD4YV25tJY9nvNoW9Sqd8nSsWK7NWQP0/s1600/php-linux.jpg"
-    },
-    {
-      "id": "a55029071d54731ea25b67187e5c787229cbdb48",
-      "title": "UNC1069 Social Engineering of Axios Maintainer Led to npm Supply Chain Attack",
-      "url": "https://thehackernews.com/2026/04/unc1069-social-engineering-of-axios.html",
-      "published": "2026-04-03T11:04:00+00:00",
-      "summary": "The&nbsp;maintainer of the Axios npm package has confirmed that the supply chain compromise was the result of a highly-targeted social engineering campaign orchestrated by North Korean threat actors tracked&nbsp;as UNC1069.\nMaintainer Jason Saayman said the attackers tailored their social engineering efforts \"specifically to me\" by first approaching him under the guise of the founder of a",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzgZRu55MSbdanW8-1PyCciQIyWUcB9Dv4WhQQEELGJqahN5q7MyrDJKQ77e-9-fNetZJZiaJKERrgMWTGcQ-4TKhzhWE6veQp5w3wxhUnjq3NPMifbpdn1VLYpx5nngu4GsgPknNfAV8CNTGq_L_PBri4s3xz4hp8yt7OPin9Q-Kq_xcBNqzbgHx5SkrU/s1600/supplychain.jpg"
-    },
-    {
-      "id": "e0505e59a411e53ab78e217c522d66abe03b8124",
-      "title": "Why Third-Party Risk Is the Biggest Gap in Your Clients' Security Posture",
-      "url": "https://thehackernews.com/2026/04/why-third-party-risk-is-biggest-gap-in.html",
-      "published": "2026-04-03T11:00:00+00:00",
-      "summary": "The next major&nbsp;breach hitting your clients probably won't come&nbsp;from inside their&nbsp;walls. It'll come through a vendor they trust, a SaaS tool their finance team signed up for, or a subcontractor nobody in IT knows about. That's the new attack surface, and most organizations are underprepared for&nbsp;it.\nCynomi's new&nbsp;guide, Securing the Modern Perimeter: The Rise of Third-Party",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVOZWf-jO2_HykRTz3eVXj5HliZeT5oLJzIB9b4aX4fX_0nV9zUgCHL_WU9qxq7Uipi77Sf7I0DfRNGpmI0DwAZTusda6siewFmPGUnLjPIrsUDwagoy7PyaUlpR6anmdXp3OoTMB5aYEBlwKUt_zqRF0rxNQLub2TFqfqitAQdKXMA0ZPBwEV2hzJr1I/s1600/cynomi.jpg"
-    },
-    {
-      "id": "ef4f1913ba26bee8b45f98423bba0906beb9bf33",
-      "title": "New SparkCat Variant in iOS, Android Apps Steals Crypto Wallet Recovery Phrase Images",
-      "url": "https://thehackernews.com/2026/04/new-sparkcat-variant-in-ios-android.html",
-      "published": "2026-04-03T09:10:00+00:00",
-      "summary": "Cybersecurity researchers&nbsp;have discovered a new version of&nbsp;the SparkCat malware on the Apple App Store and Google Play Store, more than a year after the&nbsp;trojan was discovered targeting both the mobile operating&nbsp;systems.\nThe&nbsp;malware&nbsp;has&nbsp;been found to conceal itself within seemingly benign apps, such as enterprise messengers and food delivery services, while",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2s09d3X9qYABLHP5v1u9iyjRN5p28u6xvnL0qkKR1-s1CsqtIDAWeQCFKQ9S4Mde1ueUmzcjNA9SAzWN-lDWwbmTmmlwbbLkyKx-EJc2-bjhKlEsChsp3iZ6watrZ4I8LJdL_p0vatW4NrXntcs6_xdReGEQJMUCgfAFo-ZfCy_jDsxEZgPMx1T9e1e0L/s1600/mobile-wallet-seed.jpg"
-    },
-    {
       "id": "1259f45526c08418899d50e57cc38b71119c228e",
       "title": "CSA: CISOs Should Prepare for Post-Mythos Exploit Storm",
       "url": "https://www.darkreading.com/cloud-security/csa-cisos-prepare-post-mythos-exploit-storm",
       "published": "2026-04-13T21:29:31+00:00",
-      "summary": "Security experts warn of an &quot;AI vulnerability storm&quot; triggered by the introduction of Anthropic's Claude Mythos in a new paper from the Cloud Security Alliance (CSA).",
+      "summary": "In a new report from the Cloud Security Alliance (CSA), experts warn of an &quot;AI vulnerability storm&quot; triggered by the introduction of Anthropic's Claude Mythos.",
       "source": "DarkReading",
       "region": "North America",
       "country": "US",
@@ -1762,6 +1762,116 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "f4ae2ca794b7c1fd86daaf45e4145b2c6fd5d768",
+      "title": "Russia Hacked Routers to Steal Microsoft Office Tokens",
+      "url": "https://krebsonsecurity.com/2026/04/russia-hacked-routers-to-steal-microsoft-office-tokens/",
+      "published": "2026-04-07T17:02:44+00:00",
+      "summary": "Hackers linked to Russia's military intelligence units are using known flaws in older Internet routers to mass harvest authentication tokens from Microsoft Office users, security experts warned today. The spying campaign allowed state-backed Russian hackers to quietly siphon authentication tokens from users on more than 18,000 networks without deploying any malicious software or code.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "a8697ca5f1d9fdf9ccc343929a4a781742957f93",
+      "title": "Germany Doxes \u201cUNKN,\u201d Head of RU Ransomware Gangs REvil, GandCrab",
+      "url": "https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/",
+      "published": "2026-04-06T02:07:17+00:00",
+      "summary": "An elusive hacker who went by the handle \"UNKN\" and ran the early Russian ransomware groups GandCrab and REvil now has a name and a face. Authorities in Germany say 31-year-old Russian Daniil Maksimovich Shchukin headed both cybercrime gangs and helped carry out at least 130 acts of computer sabotage and extortion against victims across the country between 2019 and 2021.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "d5d8869d9ecc385f8111fb9f52449b6dfd78df36",
+      "title": "\u2018CanisterWorm\u2019 Springs Wiper Attack Targeting Iran",
+      "url": "https://krebsonsecurity.com/2026/03/canisterworm-springs-wiper-attack-targeting-iran/",
+      "published": "2026-03-23T15:43:04+00:00",
+      "summary": "A financially motivated data theft and extortion group is attempting to inject itself into the Iran war, unleashing a worm that spreads through poorly secured cloud services and wipes data on infected systems that use Iran's time zone or have Farsi set as the default language.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "4c218981900dfb4ec5f0a27ffe536f389ad55b35",
+      "title": "Feds Disrupt IoT Botnets Behind Huge DDoS Attacks",
+      "url": "https://krebsonsecurity.com/2026/03/feds-disrupt-iot-botnets-behind-huge-ddos-attacks/",
+      "published": "2026-03-20T00:49:19+00:00",
+      "summary": "The U.S. Justice Department joined authorities in Canada and Germany in dismantling the online infrastructure behind four highly disruptive botnets that compromised more than three million hacked Internet of Things (IoT) devices, such as routers and web cameras. The feds say the four botnets -- named Aisuru, Kimwolf, JackSkid and Mossad -- are responsible for a series of recent record-smashing distributed denial-of-service (DDoS) attacks capable of knocking nearly any target offline.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "ba91890ae1cb892a8bf498559c0c43fc6450a1e7",
+      "title": "Europe\u2019s Largest Gym Chain Says Data Breach Impacts 1 Million Members",
+      "url": "https://www.securityweek.com/europes-largest-gym-chain-says-data-breach-impacts-1-million-members/",
+      "published": "2026-04-14T12:43:30+00:00",
+      "summary": "<p>Basic-Fit has reported that hackers have stolen names, dates of birth, and even bank account details.\u00a0</p>\n<p>The post <a href=\"https://www.securityweek.com/europes-largest-gym-chain-says-data-breach-impacts-1-million-members/\">Europe&#8217;s Largest Gym Chain Says Data Breach Impacts 1 Million Members</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "ef77e163af72b51e739f3ce8f8e1d344e2fb0ed3",
+      "title": "SAP Patches Critical ABAP Vulnerability",
+      "url": "https://www.securityweek.com/sap-patches-critical-abap-vulnerability/",
+      "published": "2026-04-14T11:21:12+00:00",
+      "summary": "<p>The company has released 19 new security notes addressing flaws in over a dozen enterprise products.</p>\n<p>The post <a href=\"https://www.securityweek.com/sap-patches-critical-abap-vulnerability/\">SAP Patches Critical ABAP Vulnerability</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "223c13ee74bef4f8d9d563b32ee0aa2e466087f9",
+      "title": "Triad Nexus Evades Sanctions to Fuel Cybercrime",
+      "url": "https://www.securityweek.com/triad-nexus-evades-sanctions-to-fuel-cybercrime/",
+      "published": "2026-04-14T10:53:32+00:00",
+      "summary": "<p>The sprawling cybercrime operation abuses major providers to prevent takedowns and distance itself from sanctions.</p>\n<p>The post <a href=\"https://www.securityweek.com/triad-nexus-evades-sanctions-to-fuel-cybercrime/\">Triad Nexus Evades Sanctions to Fuel Cybercrime</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "c0c98494d04d6d096b9e9ee3226a59b7d9ef70d2",
+      "title": "Google Adds Rust DNS Parser to Pixel Phones for Better Security",
+      "url": "https://www.securityweek.com/google-adds-rust-dns-parser-to-pixel-phones-for-better-security/",
+      "published": "2026-04-14T10:21:33+00:00",
+      "summary": "<p>The parser is meant to mitigate the entire class of memory safety bugs in the low-level environment.</p>\n<p>The post <a href=\"https://www.securityweek.com/google-adds-rust-dns-parser-to-pixel-phones-for-better-security/\">Google Adds Rust DNS Parser to Pixel Phones for Better Security</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "22e7987743af73ffede6519f2409cc069fb00235",
+      "title": "Nightclub Giant RCI Hospitality Reports Data Breach",
+      "url": "https://www.securityweek.com/nightclub-giant-rci-hospitality-reports-data-breach/",
+      "published": "2026-04-14T09:35:06+00:00",
+      "summary": "<p>The company said in an SEC filing that an IDOR vulnerability affecting RCI Internet Services exposed contractor data.</p>\n<p>The post <a href=\"https://www.securityweek.com/nightclub-giant-rci-hospitality-reports-data-breach/\">Nightclub Giant RCI Hospitality Reports Data Breach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "8bb05c3eee4cc9a8f7d668e188e7264813498391",
+      "title": "Organizations Warned of Exploited Windows, Adobe Acrobat Vulnerabilities",
+      "url": "https://www.securityweek.com/organizations-warned-of-exploited-windows-adobe-acrobat-vulnerabilities/",
+      "published": "2026-04-14T08:57:18+00:00",
+      "summary": "<p>The security defects allow attackers to escalate privileges and execute arbitrary code remotely.</p>\n<p>The post <a href=\"https://www.securityweek.com/organizations-warned-of-exploited-windows-adobe-acrobat-vulnerabilities/\">Organizations Warned of Exploited Windows, Adobe Acrobat Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "1fef3f607d7511594e70cdc08f1ef90f983c2666",
       "title": "Booking.com Says Hackers Accessed User Information",
       "url": "https://www.securityweek.com/booking-com-says-hackers-accessed-user-information/",
@@ -1800,72 +1910,6 @@
       "url": "https://www.securityweek.com/international-operation-targets-multimillion-dollar-crypto-theft-schemes/",
       "published": "2026-04-13T11:34:35+00:00",
       "summary": "<p>Law enforcement in the US, UK and Canada identified more than $45 million in cryptocurrency and froze $12 million.</p>\n<p>The post <a href=\"https://www.securityweek.com/international-operation-targets-multimillion-dollar-crypto-theft-schemes/\">International Operation Targets Multimillion-Dollar Crypto Theft Schemes</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "17ffd4c67222d46b67f33d088dcc610c94549db9",
-      "title": "CPUID Hacked to Serve Trojanized CPU-Z and HWMonitor Downloads",
-      "url": "https://www.securityweek.com/cpuid-hacked-to-serve-trojanized-cpu-z-and-hwmonitor-downloads/",
-      "published": "2026-04-13T10:52:57+00:00",
-      "summary": "<p>Download links were replaced by a Russian-speaking threat actor to distribute a recently emerged malware named STX RAT.</p>\n<p>The post <a href=\"https://www.securityweek.com/cpuid-hacked-to-serve-trojanized-cpu-z-and-hwmonitor-downloads/\">CPUID Hacked to Serve Trojanized CPU-Z and HWMonitor Downloads</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "174914593c2cf7bf7c9a49c2109ac506d4b2c1b0",
-      "title": "Fake Claude Website Distributes PlugX RAT",
-      "url": "https://www.securityweek.com/fake-claude-website-distributes-plugx-rat/",
-      "published": "2026-04-13T09:52:50+00:00",
-      "summary": "<p>The malware mimics the legitimate Anthropic installation, relies on DLL sideloading, and cleans up after itself.</p>\n<p>The post <a href=\"https://www.securityweek.com/fake-claude-website-distributes-plugx-rat/\">Fake Claude Website Distributes PlugX RAT</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "a7fe8863ababb43e540590ecfd8e3e05c32ab42e",
-      "title": "Gmail Brings End-to-End Encryption to Android and iOS for Enterprise Users",
-      "url": "https://www.securityweek.com/gmail-brings-end-to-end-encryption-to-android-and-ios-for-enterprise-users/",
-      "published": "2026-04-13T08:31:33+00:00",
-      "summary": "<p>The feature allows enterprise users to compose and read end-to-end encrypted messages natively on their mobile devices.</p>\n<p>The post <a href=\"https://www.securityweek.com/gmail-brings-end-to-end-encryption-to-android-and-ios-for-enterprise-users/\">Gmail Brings End-to-End Encryption to Android and iOS for Enterprise Users</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "7777b4f19f9e736131d2dbc91761b2b0f43040bb",
-      "title": "Adobe Patches Reader Zero-Day Exploited for Months",
-      "url": "https://www.securityweek.com/adobe-patches-reader-zero-day-exploited-for-months/",
-      "published": "2026-04-12T07:45:26+00:00",
-      "summary": "<p>The vulnerability is tracked as CVE-2026-34621 and Adobe has confirmed that it can be exploited for arbitrary code execution.</p>\n<p>The post <a href=\"https://www.securityweek.com/adobe-patches-reader-zero-day-exploited-for-months/\">Adobe Patches Reader Zero-Day Exploited for Months</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "8ee9686d23221afe6bb9f9082b7493930a23a99d",
-      "title": "In Other News: Cyberattack Stings Stryker, Windows Zero-Day, China Supercomputer Hack",
-      "url": "https://www.securityweek.com/in-other-news-cyberattack-stings-stryker-windows-zero-day-china-supercomputer-hack/",
-      "published": "2026-04-10T14:44:53+00:00",
-      "summary": "<p>Other noteworthy stories that might have slipped under the radar: Jones Day hacked, Internet Bug Bounty program paused due to AI, new Mac stealer malware.</p>\n<p>The post <a href=\"https://www.securityweek.com/in-other-news-cyberattack-stings-stryker-windows-zero-day-china-supercomputer-hack/\">In Other News: Cyberattack Stings Stryker, Windows Zero-Day, China Supercomputer Hack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "7bd05a6880208697d6d520099e407bd311bd3723",
-      "title": "Juniper Networks Patches Dozens of Junos OS Vulnerabilities",
-      "url": "https://www.securityweek.com/juniper-networks-patches-dozens-of-junos-os-vulnerabilities/",
-      "published": "2026-04-10T13:44:17+00:00",
-      "summary": "<p>A critical-severity flaw could be exploited remotely, without authentication, to take over a vulnerable device.</p>\n<p>The post <a href=\"https://www.securityweek.com/juniper-networks-patches-dozens-of-junos-os-vulnerabilities/\">Juniper Networks Patches Dozens of Junos OS Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
