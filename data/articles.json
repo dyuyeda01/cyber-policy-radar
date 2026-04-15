@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-15T01:12:52.327890+00:00",
+  "generated_at": "2026-04-15T12:52:49.052005+00:00",
   "items": [
     {
       "id": "cf78dd2723c2537970975c7a92e7ce7e08afce54",
@@ -110,6 +110,39 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "05ac3db8c1ff72836b2e6ae0ddb29f673a6118c8",
+      "title": "Deterministic + Agentic AI: The Architecture Exposure Validation Requires",
+      "url": "https://thehackernews.com/2026/04/deterministic-agentic-ai-architecture.html",
+      "published": "2026-04-15T11:30:00+00:00",
+      "summary": "Few technologies have moved from experimentation to boardroom mandate as quickly as AI. Across&nbsp;industries, leadership teams have embraced its broader potential, and boards, investors, and executives are already pushing organizations to adopt it across operational and security functions.&nbsp;Pentera\u2019s AI Security and Exposure Report&nbsp;2026 reflects that&nbsp;momentum: every CISO surveyed",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3s5QStAA0bgcCWhxktRnDbuCjGGiFi6NUz1Z9zVK8-4CkZ8FS82Sc5Qg_9-wKK98yThRDobcnyJcD63TIzW4OUTXzNrXTD6PXHoNMBJpgt02mi7K24qVMxfq_8zsG6kBupb8S0DygwxK2F33miTnFivZKSguCqCv82v3mxOAYWnHrcFHF7Y1iTPgV9i6u/s1600/validation-main.jpg"
+    },
+    {
+      "id": "a781723982f1cab69e6e00ec13d283661e2f417b",
+      "title": "Microsoft Issues Patches for SharePoint Zero-Day and 168 Other New Vulnerabilities",
+      "url": "https://thehackernews.com/2026/04/microsoft-issues-patches-for-sharepoint.html",
+      "published": "2026-04-15T08:40:00+00:00",
+      "summary": "Microsoft on Tuesday released updates to address a&nbsp;record 169 security&nbsp;flaws across its product portfolio, including one vulnerability that&nbsp;has been actively&nbsp;exploited in the&nbsp;wild.\nOf these 169 vulnerabilities, 157 are rated Important, eight are rated&nbsp;Critical, three are rated Moderate,&nbsp;and one is rated Low in&nbsp;severity. Ninety-three of the flaws are",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKhAYMS4CZDglUzVBKPpIJJJjC7LSHIE8r8HSYTDvQtfuqIlLk-jorWPPNvMPaiuWSriWM2WP-cyKqr_TRwlOG65EY9ZZWuRYsrzcn05wg3mkQd_-j103HEjHaUryyOF7jWj6IuAM6VwCUloPq_9RMt959E-yG8qF4n1acw3OfY73fWw4p90V0ClaY4hjo/s1600/windows-update.jpg"
+    },
+    {
+      "id": "a3923a60038991ec5b73a7a5b8f25a5197339dbb",
+      "title": "OpenAI Launches GPT-5.4-Cyber with Expanded Access for Security Teams",
+      "url": "https://thehackernews.com/2026/04/openai-launches-gpt-54-cyber-with.html",
+      "published": "2026-04-15T04:30:00+00:00",
+      "summary": "OpenAI on Tuesday&nbsp;unveiled GPT-5.4-Cyber, a variant of its latest flagship&nbsp;model, GPT\u20115.4, that's specifically optimized for defensive cybersecurity use cases, days after rival Anthropic unveiled its own frontier&nbsp;model, Mythos.\n\"The progressive use of AI accelerates defenders \u2013 those responsible for keeping systems, data, and users safe \u2013 enabling them to find and fix problems",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrjpxBjlnOwelWhtbcyO3kBGpQwkfPkbL7RytRsDo26AL5rMz4inD_rjZLSfjy5R6skvnpiOA5M1LoDaAW1bCz4Isy4RMffGJVzgm4kYy5N-V1ijfLhVHefPcneHVGZyXZRjbLZZBHQRe3_QKhKfb5hss3a5hFveU8v2WkKHq-2wUmY_ocysIGGMP8GxdV/s1600/gpt.jpg"
     },
     {
       "id": "9225f25604b479d5fd8e7c30d1702f88d6732953",
@@ -629,41 +662,19 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZyEpyaWHYHm8-TyNZQgYtoAqrsAUDZ0_onxgp1BUSV0khgAkwy7S9fMT75sRAm2blJXN6xw6i4r0fXP_hayN2Afrr7ul6egJc2nvFJUoWqmy0iJCr5JdK9-915pCFpEtRdlOMb-BYexGAPQPdKnGjWPbPlfGFx5qOo5Dhzfjes7_k-s5bYgFDEyMCT5BJ/s1600/recaps.jpg"
     },
     {
-      "id": "45f3ef4e5615e09aef5fa1654425879671fbf136",
-      "title": "How LiteLLM Turned Developer Machines Into Credential Vaults for Attackers",
-      "url": "https://thehackernews.com/2026/04/how-litellm-turned-developer-machines.html",
-      "published": "2026-04-06T11:45:00+00:00",
-      "summary": "The&nbsp;most active piece of enterprise infrastructure in the company is the developer workstation. That&nbsp;laptop is where credentials are created, tested, cached, copied, and reused across services, bots, build tools, and now local AI&nbsp;agents.\nIn&nbsp;March 2026, the TeamPCP threat&nbsp;actor proved just how&nbsp;valuable developer&nbsp;machines are. Their&nbsp;supply chain attack on",
-      "source": "The Hacker News",
+      "id": "c1cfffa599d382b64e60ccc4d3e88a10b2749a82",
+      "title": "Microsoft, Salesforce Patch AI Agent Data Leak Flaws",
+      "url": "https://www.darkreading.com/cloud-security/microsoft-salesforce-patch-ai-agent-data-leak-flaws",
+      "published": "2026-04-15T12:00:00+00:00",
+      "summary": "Two recently fixed prompt injections in Salesforce Agentforce and Microsoft Copilot would have enabled an external attacker to leak sensitive data.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbMDHeEKBkLDrqXHQ8NZfqd3KdR2hzLuhCEQuQKp0yXA20kmu7JR385GZdV94U615EVunwKkJkDSHlqeoEiu5pB4uElhCSO_vOXWsVUUJvgNkmZE1Z22o_yIapvMEOwvqaG7B31S4ojGPnDwGVqd7zgdtg53IS0AsTkHJRBOvdwf726Fypp5CP7m-3rtc/s1600/liteLLM-breach.gif"
-    },
-    {
-      "id": "8f939837e3c7f3beb410222b865a0bb74344c19d",
-      "title": "Qilin and Warlock Ransomware Use Vulnerable Drivers to Disable 300+ EDR Tools",
-      "url": "https://thehackernews.com/2026/04/qilin-and-warlock-ransomware-use.html",
-      "published": "2026-04-06T10:07:00+00:00",
-      "summary": "Threat actors associated&nbsp;with Qilin&nbsp;and Warlock ransomware operations&nbsp;have been&nbsp;observed using the bring your own vulnerable driver&nbsp;(BYOVD) technique to silence security tools running on compromised hosts, according to findings from Cisco Talos and Trend&nbsp;Micro.\nQilin attacks analyzed by Talos&nbsp;have been&nbsp;found to deploy a malicious DLL named \"msimg32.dll,\"",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtrUKOrJ2Y_pSYHNcKDjbrBsZa2igYlNorTwmH31JNSjdA7VP84kXj23nmkk7DTqlrCUsfCjNo6xt-niyZeKeCR7VtBzMWW9eNUKzU0WGnpmw2yYjHBdboP2uF2UA8CCsdclyeDlRJcU7DEOD8OrFthlhQX-OkgePmyT__ZDQA4IXgRYbnNtp21MoleCTU/s1600/lock-ransomware.jpg"
-    },
-    {
-      "id": "c8b7528cd093ce1402bab83b6db525bcca4e4d39",
-      "title": "BKA Identifies REvil Leaders Behind 130 German Ransomware Attacks",
-      "url": "https://thehackernews.com/2026/04/bka-identifies-revil-leaders-behind-130.html",
-      "published": "2026-04-06T06:59:00+00:00",
-      "summary": "Germany's Federal Criminal Police Office (aka BKA or the Bundeskriminalamt) has unmasked the real identities of two of the key figures associated with the now-defunct REvil (aka Sodinokibi) ransomware-as-a-service (RaaS) operation.\nOne of the threat actors, who went by the alias UNKN, functioned as a representative of the group, advertising the ransomware in June 2019 on the XSS cybercrime forum",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsBHK8DX9E30isZVcn1e-a6p8bmNUAki0SmUh1Tkt9dP8L3D4_WcwT64CI5OVuh1brb1Z4pff7onp90K76ktHbs6-H6Kr0rq9Q2f03oW91e3mA5dN5XdLDyWNns5NcfXw7BKFzH28SbpaFo9l8TmMeZ7Mt6o1ePanKeFYGa8V1S9Rez_E30SIAx2yvfuNl/s1600/revil-ransomware.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte7dc263e75be56e5/69de87e3a047c9fc38c21430/AI_magnifying_glass_Techa_Tungateja_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "id": "10af13b905f848c271e1e4714ec8f665ea66da12",
-      "title": "Microsoft Bets $10 Billion to Boost Japan's AI, Cybersecurity",
+      "title": "Microsoft Bets $10B to Boost Japan's AI, Cybersecurity",
       "url": "https://www.darkreading.com/cloud-security/microsoft-bets-10-billion-to-boost-japan-s-ai-cybersecurity",
       "published": "2026-04-15T00:00:08+00:00",
       "summary": "The deal aims to accelerate AI adoption, train workers, and develop cybersecurity partnerships \u2014\u00a0the latest move by a hyperscaler to compete for sovereign AI and data centers.",
@@ -1201,15 +1212,48 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7c4a998794182807/69cdf0ad19dc583a4e26ec0f/conference1800_sebastien_bonaime_alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "6794dcee8b7b5ccb1cbd9e041f2cc23de4eba257",
-      "title": "Bank Trojan 'Casbaneiro' Worms Through Latin America",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/bank-trojan-casbaneiro-worms-latin-america",
-      "published": "2026-04-02T13:00:00+00:00",
-      "summary": "Augmented Marauder's multipronged banking-Trojan cyber campaigns are targeting Spanish speakers, evading detection, and replicating rapidly.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt16cb4a90b4357a88/69cd468c610d0ab0477bd007/Worm_carnival_ride-Hugo_Oliveira-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "id": "f6a4ca9b39057a508401661ec345c5059d4e1dc2",
+      "title": "Ancient Excel bug comes out of retirement for active attacks",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/15/excel_exploit/",
+      "published": "2026-04-15T11:46:05+00:00",
+      "summary": "<h4>Vuln old enough to drive lands on CISA's exploited list</h4> <p>While Microsoft was rolling out its bumper Patch Tuesday updates this week, US cybersecurity agency CISA was readying an alert about a 17-year-old critical Excel flaw now under exploit.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "afee401597df62069553d17a27fe1e08a1fa9dfe",
+      "title": "Raspberry Pi OS ends open-door policy for sudo",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/15/raspberry_pi_os_sudo/",
+      "published": "2026-04-15T11:35:48+00:00",
+      "summary": "<h4>Command prefix will require password by default</h4> <p>The latest version of Raspberry Pi OS now requires a password for <code>sudo</code> by default.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "cad56b00e249f7d03b2031cf5ffc3f272ba90f15",
+      "title": "UK told its Big Tech habit is now a national security risk",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/15/uk_big_tech_dependence/",
+      "published": "2026-04-15T10:15:15+00:00",
+      "summary": "<h4>Open Rights Group says years of reliance on US giants have left Britain exposed</h4> <p>Britain has spent years wiring its public sector into US Big Tech, and a new report says that dependence could quickly become a national security headache.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "a07addcc379bd4a7c0b856123b95811ad4ac3307",
+      "title": "Agents hooked into GitHub can steal creds \u2013 but Anthropic, Google, and Microsoft haven't warned users",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/15/claude_gemini_copilot_agents_hijacked/",
+      "published": "2026-04-15T08:01:13+00:00",
+      "summary": "<h4>Researchers who found the flaws scored beer money bounties and warn the problem is probably pervasive</h4> <p><strong>Exclusive</strong>\u00a0 Security researchers hijacked three popular AI agents that integrate with GitHub Actions by using a new type of prompt injection attack to steal API keys and access tokens, and the vendors who run agents didn\u2019t disclose the problem.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
       "id": "f504b42914b7316db9b308a2fcdb773d59331a66",
@@ -1718,50 +1762,6 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "6620c39cc4122a8fca0434ad95801601fba6920f",
-      "title": "'People's Panel' to check if UK wants controversial Digital ID will cost \u00a3630K",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/01/peoples_panel_digital_id/",
-      "published": "2026-04-01T14:23:14+00:00",
-      "summary": "<h4>We could tell you no for free</h4> <p>The UK government will spend about \u00a3630,000 running a discussion panel on its digital identity card plans, which minister James Frith said will \"consider different perspectives and debate trade-offs\" alongside a <a href=\"https://questions-statements.parliament.uk/written-questions/detail/2026-03-11/119980\" rel=\"nofollow\" target=\"_blank\">formal consultation</a>.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "2bc7ae29453a080bc8da8a7c9aed58a650a4745a",
-      "title": "UK manufacturers under cyber fire with 80% reporting attacks",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/01/uk_manufacturer_cyberattacks/",
-      "published": "2026-04-01T08:30:06+00:00",
-      "summary": "<h4>ESET says factory outages, lost revenue, and supply chain disruption are becoming routine</h4> <p>Nearly 80 percent of British manufacturers say they've been hit by a cyber incident in the past year, as new research suggests disruption on the factory floor is no longer an exception but business as usual.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "a40b038067c45e02424be48ea20eb4948afd0345",
-      "title": "Don't open that WhatsApp message, Microsoft warns",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/31/whatsapp_message_bad_msi_packages/",
-      "published": "2026-03-31T21:18:14+00:00",
-      "summary": "<h4>How to avoid social engineering attacks? Employee training tops the list</h4> <p>Be careful what you click on. Miscreants are abusing WhatsApp messages in a multi-stage attack that delivers malicious Microsoft Installer (MSI) packages, allowing criminals to control victims' machines and access all of their data.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "942d9711d1d11f0f4f6221258e456d1aac455f3c",
-      "title": "Iran targets M365 accounts with password-spraying attacks",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/03/31/iran_password_spraying_m365/",
-      "published": "2026-03-31T19:09:53+00:00",
-      "summary": "<h4>Researchers say some targets correlate with cities hit by Iranian missile strikes</h4> <p>Suspected Iran-linked threat actors are conducting password-spraying attacks against hundreds of organizations, primarily Middle Eastern municipalities, in campaigns that security researchers believe may have been aimed at supporting bomb-damage assessment following missile strikes.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
       "id": "440970fb36b038c70d5194dbf86cc8545a5ed7e4",
       "title": "Patch Tuesday, April 2026 Edition",
       "url": "https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/",
@@ -1817,6 +1817,72 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "c51537aa3d136393696972cc1b34912df6674d87",
+      "title": "Mirax RAT Targeting Android Users in Europe",
+      "url": "https://www.securityweek.com/mirax-rat-targeting-android-users-in-europe/",
+      "published": "2026-04-15T12:10:08+00:00",
+      "summary": "<p>Offered as a MaaS to a small number of affiliates, mainly Russian speakers, the RAT can turn devices into residential proxy nodes.</p>\n<p>The post <a href=\"https://www.securityweek.com/mirax-rat-targeting-android-users-in-europe/\">Mirax RAT Targeting Android Users in Europe</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "c281be696105a95f61730cda5d98fd2e2b56d6bb",
+      "title": "Two Vulnerabilities Patched in Ivanti Neurons for ITSM",
+      "url": "https://www.securityweek.com/two-vulnerabilities-patched-in-ivanti-neurons-for-itsm/",
+      "published": "2026-04-15T11:38:21+00:00",
+      "summary": "<p>The flaws could allow a remote attacker to maintain access after their account has been disabled and to access information from other user sessions.</p>\n<p>The post <a href=\"https://www.securityweek.com/two-vulnerabilities-patched-in-ivanti-neurons-for-itsm/\">Two Vulnerabilities Patched in Ivanti Neurons for ITSM\u00a0</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "c70fb9430feea7cc43fb97d22b1ed3fcc481bc9b",
+      "title": "$10 Domain Could Have Handed Hackers 25k Endpoints, Including in OT and Gov Networks",
+      "url": "https://www.securityweek.com/10-domain-could-have-handed-hackers-25k-endpoints-including-in-ot-and-gov-networks/",
+      "published": "2026-04-15T10:58:12+00:00",
+      "summary": "<p>Researchers found adware capable of killing cybersecurity products and pushing more dangerous payloads to infected systems.</p>\n<p>The post <a href=\"https://www.securityweek.com/10-domain-could-have-handed-hackers-25k-endpoints-including-in-ot-and-gov-networks/\">$10 Domain Could Have Handed Hackers 25k Endpoints, Including in OT and Gov Networks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "fb235f706213f66671944705d3571225ce306793",
+      "title": "Trump Urges Extending Foreign Surveillance Program as Some Lawmakers Push for US Privacy Protections",
+      "url": "https://www.securityweek.com/trump-urges-extending-foreign-surveillance-program-as-some-lawmakers-push-for-us-privacy-protections/",
+      "published": "2026-04-15T10:25:56+00:00",
+      "summary": "<p>Congress is set to take up the reauthorization of a divisive program that lets U.S. spy agencies pore over foreigners\u2019 calls, texts and emails.</p>\n<p>The post <a href=\"https://www.securityweek.com/trump-urges-extending-foreign-surveillance-program-as-some-lawmakers-push-for-us-privacy-protections/\">Trump Urges Extending Foreign Surveillance Program as Some Lawmakers Push for US Privacy Protections</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "afb72da1d034cf24d845b01c5f6be4d0fb49680d",
+      "title": "Fortinet Patches Critical FortiSandbox Vulnerabilities",
+      "url": "https://www.securityweek.com/fortinet-patches-critical-fortisandbox-vulnerabilities/",
+      "published": "2026-04-15T09:37:24+00:00",
+      "summary": "<p>The flaws could allow attackers to bypass authentication or execute arbitrary code or commands via HTTP requests.</p>\n<p>The post <a href=\"https://www.securityweek.com/fortinet-patches-critical-fortisandbox-vulnerabilities/\">Fortinet Patches Critical FortiSandbox Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "6da4e6d3197bbb7d81a960d159d868dbb0fa61f0",
+      "title": "ICS Patch Tuesday: 8 Industrial Giants Publish New Security Advisories",
+      "url": "https://www.securityweek.com/ics-patch-tuesday-8-industrial-giants-publish-new-security-advisories/",
+      "published": "2026-04-15T07:14:08+00:00",
+      "summary": "<p>Siemens, Schneider Electric, Aveva, Rockwell Automation, ABB, Phoenix Contact, Mitsubishi Electric, and Moxa patched vulnerabilities.</p>\n<p>The post <a href=\"https://www.securityweek.com/ics-patch-tuesday-8-industrial-giants-publish-new-security-advisories/\">ICS Patch Tuesday: 8 Industrial Giants Publish New Security Advisories</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "96b9500f70feff865314452c6b9f725caa1cb238",
       "title": "Microsoft Patches Exploited SharePoint Zero-Day and 160 Other Vulnerabilities",
       "url": "https://www.securityweek.com/microsoft-patches-exploited-sharepoint-zero-day-and-160-other-vulnerabilities/",
@@ -1855,72 +1921,6 @@
       "url": "https://www.securityweek.com/europes-largest-gym-chain-says-data-breach-impacts-1-million-members/",
       "published": "2026-04-14T12:43:30+00:00",
       "summary": "<p>Basic-Fit has reported that hackers have stolen names, dates of birth, and even bank account details.\u00a0</p>\n<p>The post <a href=\"https://www.securityweek.com/europes-largest-gym-chain-says-data-breach-impacts-1-million-members/\">Europe&#8217;s Largest Gym Chain Says Data Breach Impacts 1 Million Members</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "ef77e163af72b51e739f3ce8f8e1d344e2fb0ed3",
-      "title": "SAP Patches Critical ABAP Vulnerability",
-      "url": "https://www.securityweek.com/sap-patches-critical-abap-vulnerability/",
-      "published": "2026-04-14T11:21:12+00:00",
-      "summary": "<p>The company has released 19 new security notes addressing flaws in over a dozen enterprise products.</p>\n<p>The post <a href=\"https://www.securityweek.com/sap-patches-critical-abap-vulnerability/\">SAP Patches Critical ABAP Vulnerability</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "223c13ee74bef4f8d9d563b32ee0aa2e466087f9",
-      "title": "Triad Nexus Evades Sanctions to Fuel Cybercrime",
-      "url": "https://www.securityweek.com/triad-nexus-evades-sanctions-to-fuel-cybercrime/",
-      "published": "2026-04-14T10:53:32+00:00",
-      "summary": "<p>The sprawling cybercrime operation abuses major providers to prevent takedowns and distance itself from sanctions.</p>\n<p>The post <a href=\"https://www.securityweek.com/triad-nexus-evades-sanctions-to-fuel-cybercrime/\">Triad Nexus Evades Sanctions to Fuel Cybercrime</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "c0c98494d04d6d096b9e9ee3226a59b7d9ef70d2",
-      "title": "Google Adds Rust DNS Parser to Pixel Phones for Better Security",
-      "url": "https://www.securityweek.com/google-adds-rust-dns-parser-to-pixel-phones-for-better-security/",
-      "published": "2026-04-14T10:21:33+00:00",
-      "summary": "<p>The parser is meant to mitigate the entire class of memory safety bugs in the low-level environment.</p>\n<p>The post <a href=\"https://www.securityweek.com/google-adds-rust-dns-parser-to-pixel-phones-for-better-security/\">Google Adds Rust DNS Parser to Pixel Phones for Better Security</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "22e7987743af73ffede6519f2409cc069fb00235",
-      "title": "Nightclub Giant RCI Hospitality Reports Data Breach",
-      "url": "https://www.securityweek.com/nightclub-giant-rci-hospitality-reports-data-breach/",
-      "published": "2026-04-14T09:35:06+00:00",
-      "summary": "<p>The company said in an SEC filing that an IDOR vulnerability affecting RCI Internet Services exposed contractor data.</p>\n<p>The post <a href=\"https://www.securityweek.com/nightclub-giant-rci-hospitality-reports-data-breach/\">Nightclub Giant RCI Hospitality Reports Data Breach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "8bb05c3eee4cc9a8f7d668e188e7264813498391",
-      "title": "Organizations Warned of Exploited Windows, Adobe Acrobat Vulnerabilities",
-      "url": "https://www.securityweek.com/organizations-warned-of-exploited-windows-adobe-acrobat-vulnerabilities/",
-      "published": "2026-04-14T08:57:18+00:00",
-      "summary": "<p>The security defects allow attackers to escalate privileges and execute arbitrary code remotely.</p>\n<p>The post <a href=\"https://www.securityweek.com/organizations-warned-of-exploited-windows-adobe-acrobat-vulnerabilities/\">Organizations Warned of Exploited Windows, Adobe Acrobat Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "1fef3f607d7511594e70cdc08f1ef90f983c2666",
-      "title": "Booking.com Says Hackers Accessed User Information",
-      "url": "https://www.securityweek.com/booking-com-says-hackers-accessed-user-information/",
-      "published": "2026-04-13T14:25:07+00:00",
-      "summary": "<p>The online travel platform has not said how many customers\u2019 booking information was exposed, but said the issue has been contained.\u00a0</p>\n<p>The post <a href=\"https://www.securityweek.com/booking-com-says-hackers-accessed-user-information/\">Booking.com Says Hackers Accessed User Information</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
