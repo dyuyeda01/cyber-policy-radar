@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-16T01:17:11.133205+00:00",
+  "generated_at": "2026-04-16T12:57:21.117506+00:00",
   "items": [
     {
       "id": "d7ee91bed69ce5ce900f73d1090418bb48cfe2ac",
@@ -110,6 +110,61 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "7757d61ca1e65347b35ae533fca2c208204e7dc9",
+      "title": "[Webinar] Find and Eliminate Orphaned Non-Human Identities in Your Environment",
+      "url": "https://thehackernews.com/2026/04/webinar-find-and-eliminate-orphaned-non.html",
+      "published": "2026-04-16T11:55:00+00:00",
+      "summary": "In 2024, compromised service accounts and forgotten API keys were behind 68% of cloud breaches. Not&nbsp;phishing. Not&nbsp;weak passwords. Unmanaged non-human identities that nobody was&nbsp;watching.\nFor every employee in your org, there are 40 to 50 automated credentials: service accounts, API tokens, AI agent connections,&nbsp;andOAuth grants. When&nbsp;projects end or employees leave, most",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6vJpO9kksCQDpSksNkqDFNUCbXD70dMGYqI6P9S_XPMY5d8BR8PVdrsVQP1ZJO_-nzL6eQShM3Cap9heQ5kAglsPjfxwIcXPSsf_cfgUVnGQ2XzIWVOuo7JhxMjnHYDN6r9KlQ6LqZJisRZkjatnWChuzUkSlXRa1hFseUPq28PZ5gjGR7L2WzTFdZ3fM/s1600/ghost.jpg"
+    },
+    {
+      "id": "633f938264f316a77d209bb01d0f160a9b2b8c2c",
+      "title": "Cisco Patches Four Critical Identity Services, Webex Flaws Enabling Code Execution",
+      "url": "https://thehackernews.com/2026/04/cisco-patches-four-critical-identity.html",
+      "published": "2026-04-16T11:27:00+00:00",
+      "summary": "Cisco has announced patches to address four critical security flaws impacting Identity Services and Webex Services that could result in arbitrary code execution and allow an attacker to impersonate any user within the&nbsp;service.\nThe details of the vulnerabilities are below&nbsp;-\n\nCVE-2026-20184 (CVSS score: 9.8) - An improper certificate validation in the integration of single sign-on (SSO)",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihdjDVphpsoBIBjhimILabg28ZsD4p-xNzJol1uD3SSIRBvkp-juko45B2sjKpQmJi-h2tHZf2yWAvuCOZRs3m3q4w5sj7x-MyXWosuKglLblipF_94T8f8OQ8_peVgqZTrnjxF8dPRLfv63K8zrbQYqh898b31p_2C37UO0DNAuR8cESZeo4XTFlsDs0C/s1600/cisco-flaws.jpg"
+    },
+    {
+      "id": "bcce6c30998012f84673b616a6c220cccaa0ca17",
+      "title": "Obsidian Plugin Abuse Delivers PHANTOMPULSE RAT in Targeted Finance, Crypto Attacks",
+      "url": "https://thehackernews.com/2026/04/obsidian-plugin-abuse-delivers.html",
+      "published": "2026-04-16T11:02:00+00:00",
+      "summary": "A \"novel\" social engineering campaign has been observed abusing Obsidian, a cross-platform note-taking application, as an initial access vector to distribute a previously undocumented Windows remote access trojan called PHANTOMPULSE in attacks targeting individuals in the financial and cryptocurrency&nbsp;sectors.\nDubbed REF6598 by Elastic Security Labs, the activity has been found to leverage",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNoBvtFhZbLfNE2AsVSzuOt5V9YMzAumIA2M9c7QVbp_i-xMwDIgVtDgCIi2bCYgH_PviS8P-Ap1k-8aVmHABqLzNGE9g014MM1gnfJEJPKbKczoCjPoI6PxZ77bNlz2dSlv8XqoVFyZZqQ6SWBue3rpRegb_k62HJkfMl39GHTBIIzZOGrv_iKbxOYV8E/s1600/el.jpg"
+    },
+    {
+      "id": "94a89746a41eed64bf7541571444afdcb5e2f598",
+      "title": "Hidden Passenger? How Taboola Routes Logged-In Banking Sessions to Temu",
+      "url": "https://thehackernews.com/2026/04/hidden-passenger-how-taboola-routes.html",
+      "published": "2026-04-16T10:30:00+00:00",
+      "summary": "A&nbsp;bank approved a Taboola pixel. That&nbsp;pixel quietly redirected logged-in users to a Temu tracking endpoint. This&nbsp;occurred without the bank\u2019s knowledge, without user consent, and without a single security control registering a violation.\n\nRead the full technical breakdown in the Security Intelligence&nbsp;Brief.&nbsp;Download now&nbsp;\u2192\nThe \"First-Hop Bias\" Blind&nbsp;Spot\nMost&",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaSzIRGweO7UJkqOLQTUDsqPy53XtIWCzyLklGJLfFxhneZiFpxg8zJRXukUqEsT4TbdFwUZbvTfwuexfGuiYjcDQ-iZDjqwZ2lDlCIhgopZWevBpdi4rr6GxgXpU6MmFnzdMpq_WGdA9PRfaNw_7eDAOugAV1tccfmREgbXveM1N15G2_L9lFxCq1Pv0/s1600/reflectiz.jpg"
+    },
+    {
+      "id": "c8c9771562e45f675b713021000fa52038be0024",
+      "title": "UAC-0247 Targets Ukrainian Clinics and Government in Data-Theft Malware Campaign",
+      "url": "https://thehackernews.com/2026/04/uac-0247-targets-ukrainian-clinics-and.html",
+      "published": "2026-04-16T06:20:00+00:00",
+      "summary": "The Computer Emergencies Response Team of Ukraine (CERT-UA)&nbsp;has disclosed details of a new&nbsp;campaign that has&nbsp;targeted governments and municipal healthcare institutions, mainly clinics and emergency hospitals, to deliver malware capable of stealing sensitive data from Chromium-based web browsers and&nbsp;WhatsApp.\nThe activity,&nbsp;which was&nbsp;observed between March and April",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhH3uHu3ez1qUhePM8e1rCVaEUwBzhu09tblZcAl6jlOEYHN1Zq2-rm-dyEOArGNUm63UjM-_Qs8XwFKUa46UxOwufTn4BmRlfv1xiwlxkk3XboMQu8d4fHpy5Vb5y_0zcpXw5Alg-V_Ud85gINtfz6pfOZWWcco9Dy0jkeRCPCF-ssY2zJjRge1d3PJf_c/s1600/uk.jpg"
     },
     {
       "id": "0d995523dfd88273f218256d74cf091d4d291a7f",
@@ -607,59 +662,15 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNAquH2CuNdKvNbKqIsmTqg2Rpb5SRn8zxBKdQliREzpq_Byd0ye0aD8IFVa1JUj09QnQVJVnAVET30DX0jRBK1LBXJ-16QC_GoiYDH2ibCfoYcttx3McOurmn9e4cSugeNgEQa-oVqR13I9K1h6ktgggudmT3u88I_iN_ksHQvuS2N0u0uGlUNTW_Tv9l/s1600/compfyui.jpg"
     },
     {
-      "id": "625797bbdab4357aa3f03573c0f06fee3c2c7493",
-      "title": "The Hidden Cost of Recurring Credential Incidents",
-      "url": "https://thehackernews.com/2026/04/the-hidden-cost-of-recurring-credential.html",
-      "published": "2026-04-07T11:30:00+00:00",
-      "summary": "When talking about credential security, the focus usually lands on breach prevention. This&nbsp;makes sense&nbsp;when IBM\u2019s 2025 Cost of a Data Breach&nbsp;Report puts the average cost of a breach at $4.4&nbsp;million. Avoiding even one major incident is enough to justify most security investments, but that headline figure obscures the more persistent problems caused by recurring credential",
-      "source": "The Hacker News",
+      "id": "9ebd6b1c1a5cd8692455b6329261f4877c9553c9",
+      "title": "6-Year Ransomware Campaign Targets Turkish Homes &amp; SMBs",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/6-year-ransomware-campaign-turkish-homes-smbs",
+      "published": "2026-04-16T06:00:00+00:00",
+      "summary": "While enterprises breaches make more headlines, smaller incidents tend to be under-reported, if at all, allowing campaigns to last longer with less disruption.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKmTyBv8aWjZuBbedJ5TZkS6Y66K940b-vB3d1MoHwX2AXWb8xmabo8pN7pcFBicVbmRmK22bzd9nX3XceGzlcmkfej9nF5VJk1srniaJ2F28JEmeFynSREG8A_XMQBSSba4Rb6nn41RCXPT6p5a23xaEoM9Jxb4yvqStcl9j9cofRrotYh2dvxtrM7uc/s1600/out.jpg"
-    },
-    {
-      "id": "b19aa856e1b38f3db804a881ad3d41f3c2f2fb67",
-      "title": "New GPUBreach Attack Enables Full CPU Privilege Escalation via GDDR6 Bit-Flips",
-      "url": "https://thehackernews.com/2026/04/new-gpubreach-attack-enables-full-cpu.html",
-      "published": "2026-04-07T08:38:00+00:00",
-      "summary": "New academic research has identified multiple RowHammer attacks against high-performance graphics processing units (GPUs) that could be exploited to escalate privileges and, in some cases, even take full control of a&nbsp;host.\nThe efforts have been&nbsp;codenamed GPUBreach, GDDRHammer,&nbsp;and GeForge.\nGPUBreach goes a step further&nbsp;than GPUHammer, demonstrating for the first time that",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjD7E4oEicfW1OaHztWEuM4qrsJFnHRPJ41f8R-2VeKUFV3Y59XaBUctumc2R91miQ3dMPnwkEcpPMqFErKmPRJhS3VRceve1GOSGGUsP6WHGIfoQAuVV10JVy312CxGYvmb2xA_eQtuO69bNb-1NzYln9P4xbsFDoPgWG3BEdri4sRRj415XQr1NENZBh0/s1600/grpu.jpg"
-    },
-    {
-      "id": "ed621bd61e1eb168e1ccac5087aebee8ed7e1780",
-      "title": "China-Linked Storm-1175 Exploits Zero-Days to Rapidly Deploy Medusa Ransomware",
-      "url": "https://thehackernews.com/2026/04/china-linked-storm-1175-exploits-zero.html",
-      "published": "2026-04-07T06:35:00+00:00",
-      "summary": "A&nbsp;China-based threat actor known for deploying Medusa ransomware has been linked to the weaponization of a combination of zero-day and N-day vulnerabilities to orchestrate \"high-velocity\" attacks and break into susceptible internet-facing&nbsp;systems.\n\"The threat actor's high operational tempo and proficiency in identifying exposed perimeter assets have proven successful, with recent",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhN-ulbNH0WxLgcWOo1fnNpmYNLvHo4VW23VmfdGvDlcbd9IvuUBKMp1hY21B2NlBxtCNa5FCPEzjxPaLpOhz2uXR22uAmgHF0n-wJMb6DZmPFPjlC2QsYb0Vi4qvqmVzPcOmMr8NbwGSYYrceDknuVJ6xnzcDUUrmwO_ObAeq_Pmwf8AHeFlcQFwwpb-H3/s1600/medusa.jpg"
-    },
-    {
-      "id": "7da11528326d04f99fecb9646785c41ff6a7477f",
-      "title": "Flowise AI Agent Builder Under Active CVSS 10.0 RCE Exploitation; 12,000+ Instances Exposed",
-      "url": "https://thehackernews.com/2026/04/flowise-ai-agent-builder-under-active.html",
-      "published": "2026-04-07T05:56:00+00:00",
-      "summary": "Threat actors are exploiting a maximum-severity security flaw in Flowise, an open-source artificial intelligence (AI) platform, according to new findings from VulnCheck.\nThe vulnerability in question&nbsp;is CVE-2025-59528 (CVSS score: 10.0), a code injection vulnerability that could result in remote code execution.\n\"The CustomMCP node allows users to input configuration settings for connecting",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCGR6ZfT0_UppVPQsgk7lwTbzfybdDFY-HeJi9F6VE6HuN7-Ja-lpveDnPA-kcS7x8l1oZ0lUqPoEFdRTOMt0Z8H6EeT_NadV_P7bjlh8Je6Q-T5KAlOCzOWt-LyY3jY8RsTlRTUzuXsVwf_gs-_KyXw8G_LcFz2dY-2P9XozQWy2p9PneNGUMctvpIZYM/s1600/flowise.jpg"
-    },
-    {
-      "id": "d7fb2b510cb30bc92372a15ad8386550abbb6751",
-      "title": "Iran-Linked Password-Spraying Campaign Targets 300+ Israeli Microsoft 365 Organizations",
-      "url": "https://thehackernews.com/2026/04/iran-linked-password-spraying-campaign.html",
-      "published": "2026-04-06T18:37:00+00:00",
-      "summary": "An&nbsp;Iran-nexus threat actor is suspected to be behind a password-spraying campaign targeting Microsoft 365 environments in Israel and the U.A.E. amid&nbsp;ongoing conflict in the Middle&nbsp;East.\nThe&nbsp;activity, assessed to be ongoing, was carried out in three distinct attack waves that took place on March 3, March 13, and March 23, 2026, per Check&nbsp;Point.\n\"The campaign is primarily",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgf4g-Zhhi4P6IHkSqUlU3EzCQNKPJ1nV3mWfQAtS6gfGu6H7wuq5OgVXGvF1IM2afayopX3b0zj4bjVDYaO7dBc4rl0A0Y6GND1VkbLdug_ULVW6a6P7iNlhUFGwMsRSDHqbodsc8EeLcg2nXxDPXO0h8RABu_jr9o-5cx8g5GTXxFgDOx9PTRQIFECpL/s1600/iran.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7f40f3c081eecf91/69dd9708c01884640b682358/Turkey-Ivan_Tsyrkunovich-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "id": "928187d713fa3831ad1000dee0152cbaa6a76ca4",
@@ -765,7 +776,7 @@
       "title": "Why Orgs Need to Test Networks to Withstand DDoS Attacks During Peak Loads",
       "url": "https://www.darkreading.com/cloud-security/test-networks-withstand-ddos-attacks-peak-loads",
       "published": "2026-04-13T21:48:09+00:00",
-      "summary": "Security teams can't test distributed denial-of-service defenses in a vacuum. They need to test during periods of high demand, such as tax filing deadlines.",
+      "summary": "Security teams can't test distributed denial-of-service defenses in a vacuum. They need to test during periods of high demand, such as tax-filing deadlines.",
       "source": "DarkReading",
       "region": "North America",
       "country": "US",
@@ -1201,15 +1212,37 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc232543381a9006f/693207a41ab840449642b8fb/factory-robots-assemble-batteries-IM_Imagery-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "13dcb0ed9b4a4bb2ae8191803545a97eca498e99",
-      "title": "CrowdStrike Next-Gen SIEM Can Now Ingest Microsoft Defender Telemetry",
-      "url": "https://www.darkreading.com/endpoint-security/crowdstrike-falcon-ingest-microsoft-defender-telemetry",
-      "published": "2026-04-03T11:53:15+00:00",
-      "summary": "Once CrowdStrike's nemesis, Microsoft is now a collaborator. A shared interest in Formula 1 helped thaw the years-long fierce rivalry.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0bdf16aa665784b3/689f7412dc6d053d5644680d/edr_MauriceNorbert_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "id": "8973c5236d1d9b28d7d9af2b91e548a2e3b9a2b5",
+      "title": "Textbook titan McGraw Hill on ransomware crew's reading list after 13.5M records exposed",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/16/mcgraw_hill_salesforce/",
+      "published": "2026-04-16T11:49:35+00:00",
+      "summary": "<h4>Publisher claims misconfigured Salesforce-hosted page leaked data</h4> <p>Textbook giant McGraw Hill has landed on a ransomware crew's leak site after an alleged Salesforce-linked misconfiguration spilled 13.5 million records into the wild.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "9aae0e9e203db07a0e36e5aa15fdd94699c09bdf",
+      "title": "Microsoft announces product it doesn't want you to buy: Extended security updates for old Exchange, and Skype for Biz",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/16/microsoft_exchange_skype/",
+      "published": "2026-04-16T10:01:08+00:00",
+      "summary": "<h4>Just migrate already, would you? But if you can't, Redmond will take your cash</h4> <p>Microsoft will keep delivering security updates for old versions of Exchange Server and Skype for Business Server, after admitting that some customers aren't ready to make the move to newer products.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "da67429e279255b4a3840b4e930023daef6252c5",
+      "title": "Server-room lock was nothing but a crock",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/16/pwned_server_room_lock_lol/",
+      "published": "2026-04-16T08:00:10+00:00",
+      "summary": "<h4>Your cybersecurity is only as good as the physical security of the servers</h4> <p><strong>PWNED</strong>\u00a0 Welcome back to Pwned, the column where we immortalize the worst vulns that organizations opened up for themselves. If you\u2019re the kind of person who leaves your car doors unlocked with a pile of cash in the center console, this week\u2019s story is for you.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
       "id": "0b989e51485c960cfd27d2f4a44793feda914d59",
@@ -1729,39 +1762,6 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "463b33c35ab1b956a637c36d765e65eddfb41b87",
-      "title": "Anthropic sure has a mess on its hands thanks to that Claude Code source leak",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/06/anthropic_code_leak_kettle_podcast/",
-      "published": "2026-04-06T00:02:52+00:00",
-      "summary": "<h4>Pay no attention to that code behind the curtain, says Anthropic as it scrambles to defend its IPO</h4> <p><strong>Kettle</strong>\u00a0 When it comes to circling up for this week's Kettle, what is there to discuss but Anthropic's accidental release of Claude Code's source code?\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "51a84b529ae97272a19f426cd5e2ca135a5923a3",
-      "title": "Researchers didn\u2019t want to glamorize cybercrims. So they roasted them",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/05/trellix_john_fokker_roasting_crims/",
-      "published": "2026-04-05T13:00:13+00:00",
-      "summary": "<h4>True-crime tales of criminals making fools of themselves</h4> <p><strong>interview</strong>\u00a0 Cybercrime crews have become almost mystical entities, with security vendors assigning them names like Wizard Spider and Velvet Tempest.\u2026</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "a8746c5c9a394b8057640ab97628f587c359102a",
-      "title": "Trump wants to take a battle axe to CISA again and slash $707M from budget",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/03/trump_cisa_budget/",
-      "published": "2026-04-03T22:41:05+00:00",
-      "summary": "<h4>Ex-CISA official tells The Reg: 'this would weaken the system for managing cyber risk'</h4> <p>The US Cybersecurity and Infrastructure Security Agency's budget will see yet another deep cut if Congress approves President Trump's proposal to slash CISA's spending by $707 million in fiscal year 2027.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
       "id": "440970fb36b038c70d5194dbf86cc8545a5ed7e4",
       "title": "Patch Tuesday, April 2026 Edition",
       "url": "https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/",
@@ -1817,6 +1817,94 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "760ce12db16c503d1485298e2924dfca2467b003",
+      "title": "Data Breach at Tennessee Hospital Affects 337,000",
+      "url": "https://www.securityweek.com/data-breach-at-tennessee-hospital-affects-337000/",
+      "published": "2026-04-16T12:40:36+00:00",
+      "summary": "<p>Cookeville Regional Medical Center was targeted last year by the Rhysida ransomware group, which stole 500GB of data.</p>\n<p>The post <a href=\"https://www.securityweek.com/data-breach-at-tennessee-hospital-affects-337000/\">Data Breach at Tennessee Hospital Affects 337,000</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "7030c038c916e27511fdc403d7ccd7893a76b9c4",
+      "title": "Artemis Emerges From Stealth With $70 Million in Funding",
+      "url": "https://www.securityweek.com/artemis-emerges-from-stealth-with-70-million/",
+      "published": "2026-04-16T12:22:02+00:00",
+      "summary": "<p>The startup is leveraging AI to prevent AI-powered attacks across applications, users, machines, and cloud workloads.</p>\n<p>The post <a href=\"https://www.securityweek.com/artemis-emerges-from-stealth-with-70-million/\">Artemis Emerges From Stealth With $70 Million in Funding</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "f83f48a348c3f99ee055a7e641dac01bb602db0f",
+      "title": "Splunk Enterprise Update Patches Code Execution Vulnerability",
+      "url": "https://www.securityweek.com/splunk-enterprise-update-patches-code-execution-vulnerability/",
+      "published": "2026-04-16T11:51:39+00:00",
+      "summary": "<p>The flaw allows low-privileged users to upload files to a temporary directory to achieve remote code execution.</p>\n<p>The post <a href=\"https://www.securityweek.com/splunk-enterprise-update-patches-code-execution-vulnerability/\">Splunk Enterprise Update Patches Code Execution Vulnerability</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "acac7fa19007a17b7e316d6a5c558a14bf332ce5",
+      "title": "Microsoft Paid Out $2.3 Million at Zero Day Quest 2026 Hacking Contest",
+      "url": "https://www.securityweek.com/microsoft-paid-out-2-3-million-at-zero-day-quest-2026-hacking-contest/",
+      "published": "2026-04-16T11:21:27+00:00",
+      "summary": "<p>Researchers found more than 80 high-impact cloud and AI vulnerabilities during the event, which had a $5 million prize pool.</p>\n<p>The post <a href=\"https://www.securityweek.com/microsoft-paid-out-2-3-million-at-zero-day-quest-2026-hacking-contest/\">Microsoft Paid Out $2.3 Million at Zero Day Quest 2026 Hacking Contest</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "226ae0ae931f10203087b551a32146ade73a0680",
+      "title": "NIST Prioritizes NVD Enrichment for CVEs in CISA KEV, Critical Software",
+      "url": "https://www.securityweek.com/nist-prioritizes-nvd-enrichment-for-cves-in-cisa-kev-critical-software/",
+      "published": "2026-04-16T10:47:14+00:00",
+      "summary": "<p>To optimize management of CVE volume, entries that do not meet specific criteria will not be automatically enriched.</p>\n<p>The post <a href=\"https://www.securityweek.com/nist-prioritizes-nvd-enrichment-for-cves-in-cisa-kev-critical-software/\">NIST Prioritizes NVD Enrichment for CVEs in CISA KEV, Critical Software</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "60f02a2d2cbea7ec69c6ea708d17167b6dbfe557",
+      "title": "Cisco Patches Critical Vulnerabilities in Webex, ISE",
+      "url": "https://www.securityweek.com/cisco-patches-critical-vulnerabilities-in-webex-ise/",
+      "published": "2026-04-16T10:04:31+00:00",
+      "summary": "<p>The flaws can be exploited remotely to impersonate users or execute arbitrary commands on the underlying OS.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisco-patches-critical-vulnerabilities-in-webex-ise/\">Cisco Patches Critical Vulnerabilities in Webex, ISE</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "dda8497fd1d51124aa49dbb3f08507722b78fa1a",
+      "title": "Ransomware Hits Automotive Data Expert Autovista",
+      "url": "https://www.securityweek.com/ransomware-hits-automotive-data-expert-autovista/",
+      "published": "2026-04-16T09:30:16+00:00",
+      "summary": "<p>The automotive analysis and data company is working with external experts to investigate the attack.</p>\n<p>The post <a href=\"https://www.securityweek.com/ransomware-hits-automotive-data-expert-autovista/\">Ransomware Hits Automotive Data Expert Autovista</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "1d1767caed648b0497cebd1d6f5a787250e7b51b",
+      "title": "Claude Code, Gemini CLI, GitHub Copilot Agents Vulnerable to Prompt Injection via Comments",
+      "url": "https://www.securityweek.com/claude-code-gemini-cli-github-copilot-agents-vulnerable-to-prompt-injection-via-comments/",
+      "published": "2026-04-16T08:33:54+00:00",
+      "summary": "<p>A researcher has disclosed the details of the AI attack method he has named \u2018Comment and Control\u2019.</p>\n<p>The post <a href=\"https://www.securityweek.com/claude-code-gemini-cli-github-copilot-agents-vulnerable-to-prompt-injection-via-comments/\">Claude Code, Gemini CLI, GitHub Copilot Agents Vulnerable to Prompt Injection via Comments</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "04b8690729698e13116cfe276733424e14485b38",
       "title": "Sweden Blames Pro-Russian Group for Cyberattack Last Year on Its Energy Infrastructure",
       "url": "https://www.securityweek.com/sweden-blames-pro-russian-group-for-cyberattack-last-year-on-its-energy-infrastructure/",
@@ -1833,94 +1921,6 @@
       "url": "https://www.securityweek.com/exploited-vulnerability-exposes-nginx-servers-to-hacking/",
       "published": "2026-04-15T14:45:58+00:00",
       "summary": "<p>Hackers are exploiting CVE-2026-33032, a critical remote takeover vulnerability in the Nginx UI management tool.\u00a0</p>\n<p>The post <a href=\"https://www.securityweek.com/exploited-vulnerability-exposes-nginx-servers-to-hacking/\">Exploited Vulnerability Exposes Nginx Servers to Hacking</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "3f1c13501c51323083594dff25919950500dd4ae",
-      "title": "Capsule Security Emerges From Stealth With $7 Million in Funding",
-      "url": "https://www.securityweek.com/capsule-security-emerges-from-stealth-with-7-million-in-funding/",
-      "published": "2026-04-15T13:56:50+00:00",
-      "summary": "<p>The Israeli startup aims to secure AI agents at runtime, continuously monitoring their behavior to prevent unsafe actions.</p>\n<p>The post <a href=\"https://www.securityweek.com/capsule-security-emerges-from-stealth-with-7-million-in-funding/\">Capsule Security Emerges From Stealth With $7 Million in Funding</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "85852aac07bcde0a571a6f5747fcdb3c1daf0c1f",
-      "title": "\u2018By Design\u2019 Flaw in MCP Could Enable Widespread AI Supply Chain Attacks",
-      "url": "https://www.securityweek.com/by-design-flaw-in-mcp-could-enable-widespread-ai-supply-chain-attacks/",
-      "published": "2026-04-15T13:34:48+00:00",
-      "summary": "<p>Researchers warn that a flaw in Anthropic\u2019s Model Context Protocol allows unsanitized commands to execute silently, enabling full system compromise across widely used AI environments.</p>\n<p>The post <a href=\"https://www.securityweek.com/by-design-flaw-in-mcp-could-enable-widespread-ai-supply-chain-attacks/\">\u2018By Design\u2019 Flaw in MCP Could Enable Widespread AI Supply Chain Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "1e1fa4ebb4d9a0e0bc38a18568268041cd2dd1e3",
-      "title": "100 Chrome Extensions Steal User Data, Create Backdoor",
-      "url": "https://www.securityweek.com/100-chrome-extensions-steal-user-data-open-backdoor/",
-      "published": "2026-04-15T13:24:13+00:00",
-      "summary": "<p>Published through five accounts, the extensions appear part of a coordinated campaign based on shared C&#038;C infrastructure.</p>\n<p>The post <a href=\"https://www.securityweek.com/100-chrome-extensions-steal-user-data-open-backdoor/\">100 Chrome Extensions Steal User Data, Create Backdoor</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "3c7d77a6c549835602e8c4f3f4f9e8842ef3c8cf",
-      "title": "CISO Conversations: Ross McKerchar, CISO at Sophos",
-      "url": "https://www.securityweek.com/ciso-conversations-ross-mckerchar-ciso-at-sophos/",
-      "published": "2026-04-15T13:00:00+00:00",
-      "summary": "<p>Sophos\u2019 Ross McKerchar discusses leadership at scale, retaining talent, defending against AI-enabled threats, and the industry\u2019s growing trust problem.</p>\n<p>The post <a href=\"https://www.securityweek.com/ciso-conversations-ross-mckerchar-ciso-at-sophos/\">CISO Conversations: Ross McKerchar, CISO at Sophos</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "c51537aa3d136393696972cc1b34912df6674d87",
-      "title": "Mirax RAT Targeting Android Users in Europe",
-      "url": "https://www.securityweek.com/mirax-rat-targeting-android-users-in-europe/",
-      "published": "2026-04-15T12:10:08+00:00",
-      "summary": "<p>Offered as a MaaS to a small number of affiliates, mainly Russian speakers, the RAT can turn devices into residential proxy nodes.</p>\n<p>The post <a href=\"https://www.securityweek.com/mirax-rat-targeting-android-users-in-europe/\">Mirax RAT Targeting Android Users in Europe</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "c281be696105a95f61730cda5d98fd2e2b56d6bb",
-      "title": "Two Vulnerabilities Patched in Ivanti Neurons for ITSM",
-      "url": "https://www.securityweek.com/two-vulnerabilities-patched-in-ivanti-neurons-for-itsm/",
-      "published": "2026-04-15T11:38:21+00:00",
-      "summary": "<p>The flaws could allow a remote attacker to maintain access after their account has been disabled and to access information from other user sessions.</p>\n<p>The post <a href=\"https://www.securityweek.com/two-vulnerabilities-patched-in-ivanti-neurons-for-itsm/\">Two Vulnerabilities Patched in Ivanti Neurons for ITSM\u00a0</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "c70fb9430feea7cc43fb97d22b1ed3fcc481bc9b",
-      "title": "$10 Domain Could Have Handed Hackers 25k Endpoints, Including in OT and Gov Networks",
-      "url": "https://www.securityweek.com/10-domain-could-have-handed-hackers-25k-endpoints-including-in-ot-and-gov-networks/",
-      "published": "2026-04-15T10:58:12+00:00",
-      "summary": "<p>Researchers found adware capable of killing cybersecurity products and pushing more dangerous payloads to infected systems.</p>\n<p>The post <a href=\"https://www.securityweek.com/10-domain-could-have-handed-hackers-25k-endpoints-including-in-ot-and-gov-networks/\">$10 Domain Could Have Handed Hackers 25k Endpoints, Including in OT and Gov Networks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "fb235f706213f66671944705d3571225ce306793",
-      "title": "Trump Urges Extending Foreign Surveillance Program as Some Lawmakers Push for US Privacy Protections",
-      "url": "https://www.securityweek.com/trump-urges-extending-foreign-surveillance-program-as-some-lawmakers-push-for-us-privacy-protections/",
-      "published": "2026-04-15T10:25:56+00:00",
-      "summary": "<p>Congress is set to take up the reauthorization of a divisive program that lets U.S. spy agencies pore over foreigners\u2019 calls, texts and emails.</p>\n<p>The post <a href=\"https://www.securityweek.com/trump-urges-extending-foreign-surveillance-program-as-some-lawmakers-push-for-us-privacy-protections/\">Trump Urges Extending Foreign Surveillance Program as Some Lawmakers Push for US Privacy Protections</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
