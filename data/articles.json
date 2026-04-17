@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-17T01:15:08.957290+00:00",
+  "generated_at": "2026-04-17T12:48:03.193425+00:00",
   "items": [
     {
       "id": "b747d5f077ab82bef5164fb3a8a877e748590f79",
@@ -112,6 +112,50 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "2afc033340af2956e88ae40ddae90b4e6fb93c26",
+      "title": "Google Blocks 8.3B Policy-Violating Ads in 2025, Launches Android 17 Privacy Overhaul",
+      "url": "https://thehackernews.com/2026/04/google-blocks-83b-policy-violating-ads.html",
+      "published": "2026-04-17T10:47:00+00:00",
+      "summary": "Google this week announced a new set of Play policy updates to strengthen user privacy and protect businesses against fraud, even as it revealed it blocked or removed over 8.3 billion ads globally and suspended 24.9 million accounts in 2025.\nThe new policy updates relate to contact and location permissions in Android, allowing third-party apps to access the contact lists and a user's location in",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj84jgyS7JCiumwEWR-XKLRuLv_sljuCRx-alsYQHKikYlefpZeL1Wqh3GEALkiLdX886cZVY22LQA_ETSoYLrNdEJ4115IkJtXq5v1EMvQdvU-_xS61E89OwwSWXvE-F6Lw6_DH17w0wHHnBfUgqFxsy5cI1rTzinKIgA-X3q08jMLOOci5fkkUbCeIeId/s1600/google-ads-android.jpg"
+    },
+    {
+      "id": "581d1f3e97de4747835fe5edd5d26e0dc18895e5",
+      "title": "NIST Limits CVE Enrichment After 263% Surge in Vulnerability Submissions",
+      "url": "https://thehackernews.com/2026/04/nist-limits-cve-enrichment-after-263.html",
+      "published": "2026-04-17T07:14:00+00:00",
+      "summary": "The National Institute of Standards and Technology (NIST) has announced changes to the way it handles cybersecurity vulnerabilities and exposures (CVEs) listed in its National Vulnerability Database (NVD), stating it will only enrich those that fulfil certain conditions owing to an explosion in CVE submissions.\n\"CVEs that do not meet those criteria will still be listed in the NVD but will not",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrjR1nq2z66LZ-KZoSSgEdNs30l3Wv4kqz4R4acFd3CW2tqG0EDILlATrje1-tvZhdjnU9rSRO4cQNmlQGelsfBGGiMl_m9kxotVRlBDFyMISCJIFUPN78Aam2GAYPL0Nljz4aU5XrrWz2QuxBz-cZvY7vr2zSQJNdgrz3IWLldTPG_n_9tJx22A3TBQzZ/s1600/nist-cve.jpg"
+    },
+    {
+      "id": "0e26ecf45997b79c5d2a48c3bf959b3a2e999315",
+      "title": "Operation PowerOFF Seizes 53 DDoS Domains, Exposes 3 Million Criminal Accounts",
+      "url": "https://thehackernews.com/2026/04/operation-poweroff-seizes-53-ddos.html",
+      "published": "2026-04-17T05:46:00+00:00",
+      "summary": "An international law enforcement operation has taken down 53 domains and arrested four people in connection with commercial distributed denial-of-service (DDoS) operations that were used by more than 75,000 cybercriminals.\nThe ongoing effort, dubbed Operation PowerOFF, disrupted access to the DDoS-for-hire services, took down the technical infrastructure supporting them, and obtained access to",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgePkLgywRZdW-d26RoQHpyVUy3nKssYfrZuFEdZ-fjRzJHTpESHBPlLvUII_vjjeLVTn4G_TB_oH76mfzh5t4PoKyz_ZhXWBOnCAkssRVXvb_lAMkEdhlK4G9YE6IWvxUUDQ9KDeZSzurWEPKDoQAVozBVjwrRYtSjy6pSbenOhhctqh3NxELjQXeF7H7S/s1600/europol.jpg"
+    },
+    {
+      "id": "e76d225171bfbf833c3e8550632e79128d650869",
+      "title": "Apache ActiveMQ CVE-2026-34197 Added to CISA KEV Amid Active Exploitation",
+      "url": "https://thehackernews.com/2026/04/apache-activemq-cve-2026-34197-added-to.html",
+      "published": "2026-04-17T03:22:00+00:00",
+      "summary": "A recently disclosed high-severity security flaw in Apache ActiveMQ&nbsp;Classic has come under active exploitation in the wild, per the U.S. Cybersecurity and Infrastructure Security Agency&nbsp;(CISA).\nTo that end, the agency&nbsp;has added the vulnerability, tracked&nbsp;as CVE-2026-34197 (CVSS score: 8.8), to its Known Exploited Vulnerabilities&nbsp;(KEV) catalog, requiring Federal Civilian",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKAY7CueGuHevAtV544WN7RTKISrobQLFpjfi4kjdzP1I2BA3rnll69dv1kfvHYSCcU5tQISA0OOgcQVibKrl4o0AvtUyM9crfZuSb1XFH03iLtPglZeHn1e6S8urWxf_4CEH9-tCZdT9BBrvXOFygCxjO_AUmUXnzm4d37Q80fPw3lEn6Hb0_LWlP9XM5/s1600/apachemq.jpg"
+    },
+    {
       "id": "13c973aeafb90253c9157f5a96fd486fa621c61b",
       "title": "Newly Discovered PowMix Botnet Hits Czech Workers Using Randomized C2 Traffic",
       "url": "https://thehackernews.com/2026/04/newly-discovered-powmix-botnet-hits.html",
@@ -154,17 +198,6 @@
       "region": "North America",
       "country": "US",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihdjDVphpsoBIBjhimILabg28ZsD4p-xNzJol1uD3SSIRBvkp-juko45B2sjKpQmJi-h2tHZf2yWAvuCOZRs3m3q4w5sj7x-MyXWosuKglLblipF_94T8f8OQ8_peVgqZTrnjxF8dPRLfv63K8zrbQYqh898b31p_2C37UO0DNAuR8cESZeo4XTFlsDs0C/s1600/cisco-flaws.jpg"
-    },
-    {
-      "id": "94a89746a41eed64bf7541571444afdcb5e2f598",
-      "title": "Hidden Passenger? How Taboola Routes Logged-In Banking Sessions to Temu",
-      "url": "https://thehackernews.com/2026/04/hidden-passenger-how-taboola-routes.html",
-      "published": "2026-04-16T10:30:00+00:00",
-      "summary": "A&nbsp;bank approved a Taboola pixel. That&nbsp;pixel quietly redirected logged-in users to a Temu tracking endpoint. This&nbsp;occurred without the bank\u2019s knowledge, without user consent, and without a single security control registering a violation.\n\nRead the full technical breakdown in the Security Intelligence&nbsp;Brief.&nbsp;Download now&nbsp;\u2192\nThe \"First-Hop Bias\" Blind&nbsp;Spot\nMost&",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaSzIRGweO7UJkqOLQTUDsqPy53XtIWCzyLklGJLfFxhneZiFpxg8zJRXukUqEsT4TbdFwUZbvTfwuexfGuiYjcDQ-iZDjqwZ2lDlCIhgopZWevBpdi4rr6GxgXpU6MmFnzdMpq_WGdA9PRfaNw_7eDAOugAV1tccfmREgbXveM1N15G2_L9lFxCq1Pv0/s1600/reflectiz.jpg"
     },
     {
       "id": "bcce6c30998012f84673b616a6c220cccaa0ca17",
@@ -629,37 +662,15 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiJCapdeJ9Q-yAbFZ7EG69FNg_jPvK7YptY2C7TN6txlcPM_bvVrcbqN1bi-vy2IFi8Ai485K-DZblHR8XwZxdch90kWSv48wjvZF7oj0wy0IMd-B7VPuSiUbSFSJKAlErnSUZWjyVOf-Fyy-LqlxLbGLA7rxIkxlgc6_WRyCNH3XWDLb5GtnmjvxFjUrt/s1600/pack.jpg"
     },
     {
-      "id": "e633537c3796f4d33e0b9f4d1d1676cffd4bcd32",
-      "title": "Iran-Linked Hackers Disrupt U.S. Critical Infrastructure by Targeting Internet-Exposed PLCs",
-      "url": "https://thehackernews.com/2026/04/iran-linked-hackers-disrupt-us-critical.html",
-      "published": "2026-04-08T04:23:00+00:00",
-      "summary": "Iran-affiliated cyber actors are targeting internet-facing operational technology (OT) devices across critical infrastructures in the U.S., including programmable logic controllers (PLCs), cybersecurity and intelligence&nbsp;agencies warned&nbsp;Tuesday.\n\"These attacks have led to diminished PLC functionality, manipulation of display data and, in some cases, operational disruption and financial",
-      "source": "The Hacker News",
+      "id": "d34ac4d8dec65cfb4bd0a53e4e4b4a02cfd5a210",
+      "title": "NIST Revamps CVE Framework to Focus on High-Impact Vulnerabilities",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/nist-revamps-cve-framework-to-focus-on-high-impact-vulnerabilities",
+      "published": "2026-04-16T21:47:31+00:00",
+      "summary": "The National Institute of Standards and Technology carved a new path for vulnerability remediation by changing the way it prioritizes software flaws.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBiMBUkucAS1NG7NHlk46hGqNyjv5iU5w1Z6HVNXgQywcDfTSOdtQWSqYA5ccSojgRB45ScYHFfyPWqe_9QbOZYo6u6V5qUAcRQIm4CfIDvkRqhs7rtPhmD7yNR4bn_StYbNZm2UWqXfeqXCUeDL1eneK7VyGnHfGbk3EatILzs_fKtRN6VxF8vnKDgQL_/s1600/plc.jpg"
-    },
-    {
-      "id": "80ed7251dcfa65bfe3979b7b2858235239fcf4e9",
-      "title": "Russian State-Linked APT28 Exploits SOHO Routers in Global DNS Hijacking Campaign",
-      "url": "https://thehackernews.com/2026/04/russian-state-linked-apt28-exploits.html",
-      "published": "2026-04-07T16:48:00+00:00",
-      "summary": "The Russia-linked threat actor known&nbsp;as APT28 (aka Forest Blizzard) has been linked to a new campaign that has compromised insecure MikroTik and TP-Link routers and modified their settings to turn them into malicious infrastructure under their control as part of a cyber espionage campaign since at least May&nbsp;2025.\nThe large-scale exploitation campaign has&nbsp;been codenamed&nbsp;",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6xcrxyaKNQYXfVN-AHFfiSrJ_8SwW3v7MgKlJNBi-E5WIwT3ZNrNm4fcT0JZKHHLH9fbtMKdYhG_2DBHxkIy7-EydaWvEeeo4LDRPgAJ1K8i-YFeD9a0gPnw92xfN4FU3k7rQUhizsFLL8fiAo2YOw-ql-Ru07KtBUoA__B_fGYW4I6jnnn-OPwxoXnCx/s1600/router.jpg"
-    },
-    {
-      "id": "f942f915fb29e904226a8a5a29e0dffd818fb462",
-      "title": "[Webinar] How to Close Identity Gaps in 2026 Before AI Exploits Enterprise Risk",
-      "url": "https://thehackernews.com/2026/04/webinar-how-to-close-identity-gaps-in.html",
-      "published": "2026-04-07T16:29:00+00:00",
-      "summary": "In&nbsp;the rapid evolution of&nbsp;the 2026 threat landscape, a frustrating paradox has emerged for CISOs and security&nbsp;leaders: Identity programs are maturing, yet the risk is actually increasing.\nAccording to new research from&nbsp;the Ponemon&nbsp;Institute, hundreds of applications within the typical enterprise remain disconnected from centralized identity systems.&nbsp;These&nbsp;\"dark",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRHgJL0SczODx5PAnF85b8b0mRpiOOkIQdOWvhivyXu6H8UeZKH9ZUdaeW5IuU59q2hjMNioQWQ5vk1Km8yinGGc8GA079qvhTtFsp9PV76Kmp-3lpKh2zi3vgd_-6dFcOI6i1YHs7VkJ-p-HvOEuOwkjooBVSvYFOrVqXqNhZShZy3IUeD6BVHVvUIj50/s1600/webinar-cerby.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta5e672c25e2a318e/689359079136f61896630252/vulnerability-ktdesign-AdobeStock.jpeg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "id": "056cba06e77d984e50cddbe0e78c57caa99b949d",
@@ -1201,19 +1212,30 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt41107f0839743052/69d0356a4d3fefd8f0031c47/mobile-privacy-aphithana-chitmongkolthong-alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "cf665421bfe5855e1e89842ec94e8a7bd35c4a75",
-      "title": "Apple Breaks Precedent, Patches DarkSword for iOS 18",
-      "url": "https://www.darkreading.com/endpoint-security/apple-patches-darksword-ios-18",
-      "published": "2026-04-03T17:08:57+00:00",
-      "summary": "Even organizations with users unwilling or unable to adopt iOS 26 can now protect themselves from a severe mobile OS-cracking tool.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7015711bd72ffc83/69cff44a7535beaa9fb4616c/Apple_progress_bar-JENYA-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "id": "bcd5c9b57ab1ee868da9e290dbf7547f638a5933",
+      "title": "Locked-out iPhone user tells The Reg that Apple is scrambling to fix character flaw passcode bug",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/17/iphone_keyboard_error_fix/",
+      "published": "2026-04-17T10:00:08+00:00",
+      "summary": "<h4>University student says he plans to move to Android, but concedes iOS engineers acting fast</h4> <p>Apple is finally working on a fix for a bug that has locked some users out of their iPhones for months, <em>The Register</em> understands.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "ceaed3820d227fd258d961d98c7584c5cc939c69",
+      "title": "Claude Opus wrote a Chrome exploit for $2,283",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/17/claude_opus_wrote_chrome_exploit/",
+      "published": "2026-04-17T07:02:09+00:00",
+      "summary": "<h4>Pause your Mythos panic because mainstream models anyone can use already pick holes in popular software</h4> <p>Anthropic withheld its <a href=\"https://www.theregister.com/2026/04/07/anthropic_all_your_zerodays_are_belong_to_us/\" target=\"_blank\">Mythos</a> bug-finding model from public release due to concerns that it would enable attackers to find and exploit vulnerabilities before anyone could react.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
       "id": "667d5513a1b080e4db65510ae75bd1cd4792d96d",
-      "title": "Anthropic won't own MCP 'design flaw' putting 200K servers at risk, researcher says",
+      "title": "Anthropic won't own MCP 'design flaw' putting 200K servers at risk, researchers say",
       "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/16/anthropic_mcp_design_flaw/",
       "published": "2026-04-16T22:45:37+00:00",
       "summary": "<h4>Bug or feature?</h4> <p>A design flaw \u2013 or expected behavior based on a bad design choice, depending on who is telling the story \u2013 baked into Anthropic's official Model Context Protocol (MCP) puts as many as 200,000 servers at risk of complete takeover, according to security researchers.\u2026</p>",
@@ -1268,7 +1290,7 @@
     },
     {
       "id": "9aae0e9e203db07a0e36e5aa15fdd94699c09bdf",
-      "title": "Microsoft announces product it doesn't want you to buy: Extended security updates for old Exchange, and Skype for Biz",
+      "title": "Microsoft announces product it doesn't want anyone to buy",
       "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/16/microsoft_exchange_skype/",
       "published": "2026-04-16T10:01:08+00:00",
       "summary": "<h4>Just migrate already, would you? But if you can't, Redmond will take your cash</h4> <p>Microsoft will keep delivering security updates for old versions of Exchange Server and Skype for Business Server, after admitting that some customers aren't ready to make the move to newer products.\u2026</p>",
@@ -1740,28 +1762,6 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "69e743830323a897138810435c4362088f07c863",
-      "title": "Hundreds of orgs compromised daily in Microsoft device code phishing attacks",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/07/microsoft_device_code_phishing/",
-      "published": "2026-04-07T20:19:42+00:00",
-      "summary": "<h4>Who needs MFA when you've got EvilTokens?</h4> <p>Hundreds of organizations have been compromised daily by a Microsoft device-code phishing campaign that uses AI and automation at nearly every stage of the attack chain to ultimately snoop through corporate email inboxes and steal financial data.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "fad05d393fc31f0d7448f593d06babb75b6844ec",
-      "title": "US cybercrime losses pass $20B for first time as AI boosts online fraud",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/07/cybercrime_losses_reach_alltime_high/",
-      "published": "2026-04-07T17:59:11+00:00",
-      "summary": "<h4>Bots are now firmly in the toolbox, helping crooks scale old scams</h4> <p>Crims are taking advantage of AI to sharpen old scams. The FBI reported Monday that cybercrime losses hit a record $20.87 billion in 2025, with help from bots.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
       "id": "440970fb36b038c70d5194dbf86cc8545a5ed7e4",
       "title": "Patch Tuesday, April 2026 Edition",
       "url": "https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/",
@@ -1817,6 +1817,94 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "da9e063b6b1027fd7e7a4ab98f6539eb105c4be9",
+      "title": "In Other News: Satellite Cybersecurity Act, $90K Chrome Flaw, Teen Hacker Arrested",
+      "url": "https://www.securityweek.com/in-other-news-satellite-cybersecurity-act-90k-chrome-flaw-teen-hacker-arrested/",
+      "published": "2026-04-17T12:00:00+00:00",
+      "summary": "<p>Other noteworthy stories that might have slipped under the radar: ShinyHunters targets Rockstar Games, ShowDoc vulnerability exploited in the wild, and EPA to boost cybersecurity budget to $19 million.</p>\n<p>The post <a href=\"https://www.securityweek.com/in-other-news-satellite-cybersecurity-act-90k-chrome-flaw-teen-hacker-arrested/\">In Other News: Satellite Cybersecurity Act, $90K Chrome Flaw, Teen Hacker Arrested</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "e6287cb64b137e0da14549ba2bb3ae58b686fbd5",
+      "title": "Another DraftKings Hacker Sentenced to Prison",
+      "url": "https://www.securityweek.com/another-draftkings-hacker-sentenced-to-prison/",
+      "published": "2026-04-17T10:45:13+00:00",
+      "summary": "<p>Kamerin Stokes sold stolen credentials through an online marketplace even after pleading guilty to his role in the DraftKings attack.\u00a0</p>\n<p>The post <a href=\"https://www.securityweek.com/another-draftkings-hacker-sentenced-to-prison/\">Another DraftKings Hacker Sentenced to Prison</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "f8bfc0cc55fbabe52d9d086bd0bd91ffb403cfde",
+      "title": "Lawmakers Gathered Quietly to Talk About AI. Angst and Fears of \u2018Destruction\u2019 Followed",
+      "url": "https://www.securityweek.com/lawmakers-gathered-quietly-to-talk-about-ai-angst-and-fears-of-destruction-followed/",
+      "published": "2026-04-17T10:15:00+00:00",
+      "summary": "<p>Thursday\u2019s discussion comes as leaders on Capitol Hill grapple with the dizzying pace of global developments in which technology plays a central role.</p>\n<p>The post <a href=\"https://www.securityweek.com/lawmakers-gathered-quietly-to-talk-about-ai-angst-and-fears-of-destruction-followed/\">Lawmakers Gathered Quietly to Talk About AI. Angst and Fears of \u2018Destruction\u2019 Followed</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "9b23d303750c16191e168091fa2fc902f5b61d49",
+      "title": "Recent Apache ActiveMQ Vulnerability Exploited in the Wild",
+      "url": "https://www.securityweek.com/recent-apache-activemq-vulnerability-exploited-in-the-wild/",
+      "published": "2026-04-17T09:50:22+00:00",
+      "summary": "<p>The remote code execution vulnerability tracked as CVE-2026-34197 came to light in early April.</p>\n<p>The post <a href=\"https://www.securityweek.com/recent-apache-activemq-vulnerability-exploited-in-the-wild/\">Recent Apache ActiveMQ Vulnerability Exploited in the Wild</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "65b7c853af3e9294fb830976eba68c38cc0c5ab4",
+      "title": "Two North Korean IT Worker Scheme Facilitators Jailed in the US",
+      "url": "https://www.securityweek.com/two-north-korean-it-worker-scheme-facilitators-jailed-in-the-us/",
+      "published": "2026-04-17T09:21:02+00:00",
+      "summary": "<p>Kejia Wang and Zhenxing Wang compromised the identities of dozens of US persons to help land jobs at over 100 companies.</p>\n<p>The post <a href=\"https://www.securityweek.com/two-north-korean-it-worker-scheme-facilitators-jailed-in-the-us/\">Two North Korean IT Worker Scheme Facilitators Jailed in the US</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "811ae8eb25cb68af5f169abd94ece802371b8f86",
+      "title": "ZionSiphon Malware Targets ICS in Water Facilities",
+      "url": "https://www.securityweek.com/zionsiphon-malware-targets-ics-in-water-facilities/",
+      "published": "2026-04-17T08:30:00+00:00",
+      "summary": "<p>The malware is configured to operate on systems associated with Israeli water treatment and desalination plants.</p>\n<p>The post <a href=\"https://www.securityweek.com/zionsiphon-malware-targets-ics-in-water-facilities/\">ZionSiphon Malware Targets ICS in Water Facilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "fed0d53c80c2ac17462398694bf3bbbb1a38f131",
+      "title": "Cursor AI Vulnerability Exposed Developer Devices",
+      "url": "https://www.securityweek.com/cursor-ai-vulnerability-exposed-developer-devices/",
+      "published": "2026-04-17T07:29:16+00:00",
+      "summary": "<p>An indirect prompt injection could be chained with a sandbox bypass and Cursor\u2019s remote tunnel feature for shell access to machines.</p>\n<p>The post <a href=\"https://www.securityweek.com/cursor-ai-vulnerability-exposed-developer-devices/\">Cursor AI Vulnerability Exposed Developer Devices</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "e088b605efb246c2093d6ab8f4a4af1a4756e671",
+      "title": "53 DDoS Domains Taken Down by Law Enforcement",
+      "url": "https://www.securityweek.com/53-ddos-domains-taken-down-by-law-enforcement/",
+      "published": "2026-04-17T06:40:21+00:00",
+      "summary": "<p>Authorities in 21 countries participated in a coordinated action against DDoS-for-hire services.</p>\n<p>The post <a href=\"https://www.securityweek.com/53-ddos-domains-taken-down-by-law-enforcement/\">53 DDoS Domains Taken Down by Law Enforcement</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "c37f9ad723d6459f9c24aac062abe1efc8195889",
       "title": "Government Can\u2019t Win the Cyber War Without the Private Sector",
       "url": "https://www.securityweek.com/government-cant-win-the-cyber-war-without-the-private-sector/",
@@ -1833,94 +1921,6 @@
       "url": "https://www.securityweek.com/openai-widens-access-to-cybersecurity-model-after-anthropics-mythos-reveal/",
       "published": "2026-04-16T14:27:06+00:00",
       "summary": "<p>GPT\u20115.4\u2011Cyber is a model fine-tuned for defenders, lowering boundaries for legitimate cybersecurity work.</p>\n<p>The post <a href=\"https://www.securityweek.com/openai-widens-access-to-cybersecurity-model-after-anthropics-mythos-reveal/\">OpenAI Widens Access to Cybersecurity Model After Anthropic&#8217;s Mythos Reveal</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "760ce12db16c503d1485298e2924dfca2467b003",
-      "title": "Data Breach at Tennessee Hospital Affects 337,000",
-      "url": "https://www.securityweek.com/data-breach-at-tennessee-hospital-affects-337000/",
-      "published": "2026-04-16T12:40:36+00:00",
-      "summary": "<p>Cookeville Regional Medical Center was targeted last year by the Rhysida ransomware group, which stole 500GB of data.</p>\n<p>The post <a href=\"https://www.securityweek.com/data-breach-at-tennessee-hospital-affects-337000/\">Data Breach at Tennessee Hospital Affects 337,000</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "7030c038c916e27511fdc403d7ccd7893a76b9c4",
-      "title": "Artemis Emerges From Stealth With $70 Million in Funding",
-      "url": "https://www.securityweek.com/artemis-emerges-from-stealth-with-70-million/",
-      "published": "2026-04-16T12:22:02+00:00",
-      "summary": "<p>The startup is leveraging AI to prevent AI-powered attacks across applications, users, machines, and cloud workloads.</p>\n<p>The post <a href=\"https://www.securityweek.com/artemis-emerges-from-stealth-with-70-million/\">Artemis Emerges From Stealth With $70 Million in Funding</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "f83f48a348c3f99ee055a7e641dac01bb602db0f",
-      "title": "Splunk Enterprise Update Patches Code Execution Vulnerability",
-      "url": "https://www.securityweek.com/splunk-enterprise-update-patches-code-execution-vulnerability/",
-      "published": "2026-04-16T11:51:39+00:00",
-      "summary": "<p>The flaw allows low-privileged users to upload files to a temporary directory to achieve remote code execution.</p>\n<p>The post <a href=\"https://www.securityweek.com/splunk-enterprise-update-patches-code-execution-vulnerability/\">Splunk Enterprise Update Patches Code Execution Vulnerability</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "acac7fa19007a17b7e316d6a5c558a14bf332ce5",
-      "title": "Microsoft Paid Out $2.3 Million at Zero Day Quest 2026 Hacking Contest",
-      "url": "https://www.securityweek.com/microsoft-paid-out-2-3-million-at-zero-day-quest-2026-hacking-contest/",
-      "published": "2026-04-16T11:21:27+00:00",
-      "summary": "<p>Researchers found more than 80 high-impact cloud and AI vulnerabilities during the event, which had a $5 million prize pool.</p>\n<p>The post <a href=\"https://www.securityweek.com/microsoft-paid-out-2-3-million-at-zero-day-quest-2026-hacking-contest/\">Microsoft Paid Out $2.3 Million at Zero Day Quest 2026 Hacking Contest</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "226ae0ae931f10203087b551a32146ade73a0680",
-      "title": "NIST Prioritizes NVD Enrichment for CVEs in CISA KEV, Critical Software",
-      "url": "https://www.securityweek.com/nist-prioritizes-nvd-enrichment-for-cves-in-cisa-kev-critical-software/",
-      "published": "2026-04-16T10:47:14+00:00",
-      "summary": "<p>To optimize management of CVE volume, entries that do not meet specific criteria will not be automatically enriched.</p>\n<p>The post <a href=\"https://www.securityweek.com/nist-prioritizes-nvd-enrichment-for-cves-in-cisa-kev-critical-software/\">NIST Prioritizes NVD Enrichment for CVEs in CISA KEV, Critical Software</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "60f02a2d2cbea7ec69c6ea708d17167b6dbfe557",
-      "title": "Cisco Patches Critical Vulnerabilities in Webex, ISE",
-      "url": "https://www.securityweek.com/cisco-patches-critical-vulnerabilities-in-webex-ise/",
-      "published": "2026-04-16T10:04:31+00:00",
-      "summary": "<p>The flaws can be exploited remotely to impersonate users or execute arbitrary commands on the underlying OS.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisco-patches-critical-vulnerabilities-in-webex-ise/\">Cisco Patches Critical Vulnerabilities in Webex, ISE</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "dda8497fd1d51124aa49dbb3f08507722b78fa1a",
-      "title": "Ransomware Hits Automotive Data Expert Autovista",
-      "url": "https://www.securityweek.com/ransomware-hits-automotive-data-expert-autovista/",
-      "published": "2026-04-16T09:30:16+00:00",
-      "summary": "<p>The automotive analysis and data company is working with external experts to investigate the attack.</p>\n<p>The post <a href=\"https://www.securityweek.com/ransomware-hits-automotive-data-expert-autovista/\">Ransomware Hits Automotive Data Expert Autovista</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "1d1767caed648b0497cebd1d6f5a787250e7b51b",
-      "title": "Claude Code, Gemini CLI, GitHub Copilot Agents Vulnerable to Prompt Injection via Comments",
-      "url": "https://www.securityweek.com/claude-code-gemini-cli-github-copilot-agents-vulnerable-to-prompt-injection-via-comments/",
-      "published": "2026-04-16T08:33:54+00:00",
-      "summary": "<p>A researcher has disclosed the details of the AI attack method he has named \u2018Comment and Control\u2019.</p>\n<p>The post <a href=\"https://www.securityweek.com/claude-code-gemini-cli-github-copilot-agents-vulnerable-to-prompt-injection-via-comments/\">Claude Code, Gemini CLI, GitHub Copilot Agents Vulnerable to Prompt Injection via Comments</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
