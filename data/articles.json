@@ -1,6 +1,39 @@
 {
-  "generated_at": "2026-04-20T12:58:12.740656+00:00",
+  "generated_at": "2026-04-21T01:14:36.858693+00:00",
   "items": [
+    {
+      "id": "65fcc73ed67a59f254fa9b99096dd39135327159",
+      "title": "Stellantis teams with Microsoft to strengthen digital capabilities",
+      "url": "https://www.cybersecuritydive.com/news/stellantis-microsoft-5year-partnership-ai-cybersecurity/817948/",
+      "published": "2026-04-20T15:00:00+00:00",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/SiKwf-qDn01iVbJmE4AzicBOvzA2fS4orqbFP-xgJzg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9qZWVwLmpwZWc=.webp\" /></div></figure><p>As part of the 5-year agreement, collaborative teams will co-develop more than 100 initiatives relating to AI and cybersecurity.</p>",
+      "source": "Cybersecurity Dive",
+      "region": "North America",
+      "country": "US",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "59d05242178364c0b71c78ddb940bee1137a76e9",
+      "title": "Vulnerability exploitation surges often precede disclosure, offering possible early warnings",
+      "url": "https://www.cybersecuritydive.com/news/vulnerability-disclosure-surges-warnings-greynoise/817952/",
+      "published": "2026-04-20T14:59:08+00:00",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/G6cjGPfTL-9L3AlM0TMnDtq76QUOu5qj5EeCH0W3iUY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTY5MjA0NzU2LmpwZw==.webp\" /></div></figure><p>Organizations can get ahead of major flaws with the right threat intelligence, according to a new report.</p>",
+      "source": "Cybersecurity Dive",
+      "region": "North America",
+      "country": "US",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "c23a33ae9539f45ed7736103efd779444c9fca5e",
+      "title": "Vercel systems targeted after third-party tool compromised",
+      "url": "https://www.cybersecuritydive.com/news/vercel-customers-targeted-after-third-party-tool-compromised/817949/",
+      "published": "2026-04-20T14:58:56+00:00",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/KpqeTMnmA0HEhfD7EOaCnW0iotGV26GZB3tLjLqY0eY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE2MTkwODA5LmpwZw==.webp\" /></div></figure><p>An employee using a consumer app was breached after granting too many permissions.</p>",
+      "source": "Cybersecurity Dive",
+      "region": "North America",
+      "country": "US",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
     {
       "id": "d54db77125c6d200522c1d024d222a874cf37f7b",
       "title": "Beyond IT: Cybersecurity is a strategic business risk",
@@ -79,37 +112,26 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "bbf9726e2ddcb88c285ae0aa152bc4f2207aed14",
-      "title": "Medium-severity flaw in Microsoft SharePoint exploited",
-      "url": "https://www.cybersecuritydive.com/news/medium-severity-flaw-microsoft-sharepoint-exploitation/817559/",
-      "published": "2026-04-15T15:05:02+00:00",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/nVrw5rdF9p8cPaeSAY4NsHBBdWAS4A5HVCLPASAcT4U/g:nowe:0:305/c:3000:1694/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTU5ODY3MDU1XzZwa3RQM0UuanBn.webp\" /></div></figure><p>The flaw should be taken seriously, despite its relatively low score, according to researchers.</p>",
-      "source": "Cybersecurity Dive",
+      "id": "843c946f64902b48fffd761c9ba07f8cf2f4f434",
+      "title": "SGLang CVE-2026-5760 (CVSS 9.8) Enables RCE via Malicious GGUF Model Files",
+      "url": "https://thehackernews.com/2026/04/sglang-cve-2026-5760-cvss-98-enables.html",
+      "published": "2026-04-20T17:14:00+00:00",
+      "summary": "A critical security vulnerability has been disclosed in SGLang that, if successfully exploited, could result in remote code execution on susceptible systems.\nThe vulnerability, tracked as CVE-2026-5760, carries a CVSS score of 9.8 out of 10.0. It has been described as a case of command injection leading to the execution of arbitrary code.\nSGLang is a high-performance, open-source serving",
+      "source": "The Hacker News",
       "region": "North America",
       "country": "US",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHmSpfy0MbO4mTB5B4TYrJzfBNO0HD2Z194J1U3YlwUQpQsTGompmNqR7_Rx4nbgPXHs3Mel7tBcZDXOVeYDXev1luKnr5VUzbmPornwB-bcciiA_Zvmam5q9lwPK5b9K-my0_a1VBjA-2Pjmb31yWEiyBAl_ipNM5gvJM19yxcT-Q468-8VL8KrfCYHen/s1600/sgll.jpg"
     },
     {
-      "id": "cf78dd2723c2537970975c7a92e7ce7e08afce54",
-      "title": "Brute-force cyberattacks originating in Middle East surge in Q1",
-      "url": "https://www.cybersecuritydive.com/news/brute-force-cyberattacks-originating-in-middle-east-surge-in-q1/817440/",
-      "published": "2026-04-14T14:44:31+00:00",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/DlGqDteChCKB1QypUS6yitxxHsQaqtePpECP5r6XTfw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDU2NzM5OTc4XzBLOXhvSnAuanBn.webp\" /></div></figure><p>Hackers have primarily targeted SonicWall and Fortinet devices, according to researchers.&nbsp;</p>",
-      "source": "Cybersecurity Dive",
+      "id": "c74a7b343e3b729299adc9223b6f215f7fccf221",
+      "title": "\u26a1 Weekly Recap: Vercel Hack, Push Fraud, QEMU Abused, New Android RATs Emerge & More",
+      "url": "https://thehackernews.com/2026/04/weekly-recap-vercel-hack-push-fraud.html",
+      "published": "2026-04-20T13:41:00+00:00",
+      "summary": "Monday\u2019s recap shows the same pattern in different places. A third-party tool becomes a way in, then leads to internal access. A trusted download path is briefly swapped to deliver malware. Browser extensions act normally while pulling data and running code. Even update channels are used to push payloads. It\u2019s not breaking systems\u2014it\u2019s bending trust.\nThere\u2019s also a shift in how attacks run.",
+      "source": "The Hacker News",
       "region": "North America",
       "country": "US",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "c197f2a99ea6f4c54a40841d3983728d67083e5f",
-      "title": "FCC signals continued commitment to Cyber Trust Mark program",
-      "url": "https://www.cybersecuritydive.com/news/fcc-cyber-trust-mark-new-lead-administrator/817437/",
-      "published": "2026-04-14T14:24:33+00:00",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/q6Q9Xbly4im6ICq2Yv8hEzD1cE9po0GM7wDH2sIOMu8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9mY2MuanBn.webp\" /></div></figure><p>The government approved a new lead overseer for its IoT device security labeling initiative.</p>",
-      "source": "Cybersecurity Dive",
-      "region": "North America",
-      "country": "US",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirkQSoHlNZvcdjrevc7r-D8mPj49i3XRimQjk-HtEVDYVX4vKEcW4JLiTblV5oI8MtUib2Q5iFerdt0x4_mGDvMJqsDd2wX6QNQxM25Wnrq-MRYADw1YuJly5yoSTIz_ToqlWsAKA2hLwru4Crx8aSguTETpDl4mjRfrCg0G8Cca5Rk0Am6FCwRCNPIqBy/s1600/recap-april.jpg"
     },
     {
       "id": "14deeb2aae25859409f5bc41213dd1068456fb95",
@@ -640,26 +662,37 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6d4nK1zoWjzSmbdUmGPSycMwGmzcYM2XRrFH_ueobgO_8j7hwRdv8Ct856gg_k29HqAOw1-HGCtPpxyGDcuQIKY53ATLKb8bQCsJR5b_Jf8VqX1igItYBIe4iQazqSRe5fmFrFXS1fCcKdz6enbI6zYngIztjJ_UI262_ynNGJrd1EB_OUV1ZKYVl04-h/s1600/threatsdays-main.jpg"
     },
     {
-      "id": "4966ad21604261b723f7855ea5a872e143b63c71",
-      "title": "The Hidden Security Risks of Shadow AI in Enterprises",
-      "url": "https://thehackernews.com/2026/04/the-hidden-security-risks-of-shadow-ai.html",
-      "published": "2026-04-09T11:31:00+00:00",
-      "summary": "As&nbsp;AI tools become more accessible, employees are adopting them without formal approval from IT and security teams. While&nbsp;these tools may boost productivity, automate tasks, or fill gaps in existing workflows, they also operate outside the visibility of security teams, bypassing controls and creating new blind spots in what is known as shadow AI. While&nbsp;similar to the phenomenon of",
-      "source": "The Hacker News",
+      "id": "67ca6ef0729845e2003247582eb5ce032e63dad5",
+      "title": "Vercel Employee's AI Tool Access Led to Data Breach",
+      "url": "https://www.darkreading.com/application-security/vercel-employees-ai-tool-access-data-breach",
+      "published": "2026-04-20T21:01:31+00:00",
+      "summary": "Stolen OAuth tokens, which are at the root of these breaches, &quot;are the new attack surface, the new lateral movement,&quot; a researcher noted.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhO6OQHlRJgIjpCieiOfi48Mexu0Puimw_dz6w0h1spC2ZjcqifD2YPod5wd1AtUhr-e7CtAAoZ0bnRGnCH-BZRz4pDlB5Db2hJ4vFqsq5jc42UI4VTGXkxD8gNX1Ods9PpQZL4lk84RNL6EDSeI4YFCdjBgKSqKGimsqcsjekAAmr8CGYr3a2wPkchNYA/s1600/keeper.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3396b116c4a5d80b/69e6744aa61d112dbb7caf20/allow_access_keyboard_alon_harel_alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "d21a571ddbc90284837bc5987fdadb633d3d6dbd",
-      "title": "Adobe Reader Zero-Day Exploited via Malicious PDFs Since December 2025",
-      "url": "https://thehackernews.com/2026/04/adobe-reader-zero-day-exploited-via.html",
-      "published": "2026-04-09T11:15:00+00:00",
-      "summary": "Threat actors have been exploiting a previously unknown zero-day vulnerability in Adobe Reader using maliciously crafted PDF documents since at least December&nbsp;2025.\nThe finding, detailed by EXPMON's Haifei Li, has&nbsp;been described as a highly-sophisticated PDF exploit.&nbsp;The artifact (\"Invoice540.pdf\") first appeared on the VirusTotal platform on November 28, 2025.&nbsp;A second&nbsp;",
-      "source": "The Hacker News",
+      "id": "e635f0e00b2488c284e87982ea1fa33699fb5030",
+      "title": "Serial-to-IP Devices Hide Thousands of Old and New Bugs",
+      "url": "https://www.darkreading.com/ics-ot-security/serial-ip-devices-thousands-of-bugs",
+      "published": "2026-04-20T21:00:00+00:00",
+      "summary": "The OT devices that translate machine talk into Internet-speak are riddled with vulnerabilities and more frequently targeted for attacks, researchers say.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwKu6NdwE0kgawNywNJK7cGCEdRfzOKwsH9AeIT7zJ49RPq_KJAG3SyjH44SS8Zsd-gAUFDFKnfdpaFH8sAZT9wevB2fS0QVk-gCp8xg7j1XcwGJzv05xpoMN4O-oiEd1v3U3kuqW8cTGk0QlHPPS5GgifHq5DBgrE9R_6GxqxYb1erEN_qvAnUG6VFkx0/s1600/adobe.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt36307cc72d4778e2/69dd36cd61216874471aaef1/Industrial_site-Tony_Watson-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
+      "id": "691f4032a6e416e9300383fafa06bad57ddcbef3",
+      "title": "WhatsApp Leaks User Metadata to Attackers",
+      "url": "https://www.darkreading.com/endpoint-security/whatsapp-leaks-user-metadata",
+      "published": "2026-04-20T14:33:35+00:00",
+      "summary": "Strangers can infer limited info about you without knowing or messaging you, which could theoretically aid certain kinds of malicious activity.",
+      "source": "DarkReading",
+      "region": "North America",
+      "country": "US",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd2f4132144e85dfb/69e291d49ba34f4b11a4782a/WhatsApp-stLegat-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "id": "72117403d1e5f7fee22484fa643531c11476ebb8",
@@ -710,7 +743,7 @@
       "title": "NIST Revamps CVE Framework to Focus on High-Impact Vulnerabilities",
       "url": "https://www.darkreading.com/vulnerabilities-threats/nist-revamps-cve-framework-to-focus-on-high-impact-vulnerabilities",
       "published": "2026-04-16T21:47:31+00:00",
-      "summary": "The National Institute of Standards and Technology carved a new path for vulnerability remediation by changing the way it prioritizes software flaws.",
+      "summary": "The National Institute of Standards and Technology is carving a new path for vulnerability remediation by changing the way it prioritizes software flaws.",
       "source": "DarkReading",
       "region": "North America",
       "country": "US",
@@ -740,7 +773,7 @@
     },
     {
       "id": "c2ac4d6a6e2d62dc2f78b55dac5f721951f1f984",
-      "title": "Two-Factor Authentication Breaks Free from the Desktop",
+      "title": "Two-Factor Authentication Breaks Free From the Desktop",
       "url": "https://www.darkreading.com/endpoint-security/two-factor-authentication-breaks-free-from-the-desktop",
       "published": "2026-04-16T15:28:15+00:00",
       "summary": "Threat actors know how to bypass security systems outside of traditional IT environments. Implementing 2FA could provide a needed extra security barrier in the physical world.",
@@ -754,7 +787,7 @@
       "title": "Microsoft's Original Windows Secure Boot Certificate Is Expiring",
       "url": "https://www.darkreading.com/endpoint-security/microsoftoriginal-windows-secure-boot-certificates-expire",
       "published": "2026-04-16T15:16:30+00:00",
-      "summary": "The Secure Boot refresh is one of the largest coordinated security maintenance efforts across the Windows ecosystem, Microsoft said. Update those PCs soon.",
+      "summary": "The Secure Boot refresh is one of the largest coordinated security maintenance efforts across the Windows ecosystem, Microsoft said. In other words, update those PCs soon.",
       "source": "DarkReading",
       "region": "North America",
       "country": "US",
@@ -1179,37 +1212,48 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt79de1ac137dc7200/69d3f4d558d26eee5e1c3d8d/AI_Human_High_Five_Andriy_Popov_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "34ac47a517e8d007775a01606bac769a840da019",
-      "title": "AI-Assisted Supply Chain Attack Targets GitHub",
-      "url": "https://www.darkreading.com/application-security/ai-assisted-supply-chain-attack-targets-github",
-      "published": "2026-04-06T21:38:53+00:00",
-      "summary": "PRT-scan is the second campaign in recent months where a threat actor appears to have leveraged AI for automated targeting of a widespread GitHub misconfiguration.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb66926d4c6158b6c/69d41ea59d80127a3038fb86/github_PJ_McDonnell_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "id": "a5d6b578a303d613ccf5601ebc69746bb576cd39",
+      "title": "Vibe coding upstart Lovable denies data leak, cites 'intentional behavior,' then throws HackerOne under the bus",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/20/lovable_denies_data_leak/",
+      "published": "2026-04-20T23:26:12+00:00",
+      "summary": "<h4>A lesson in how not to respond to vulnerability reports</h4> <p>Vibe-coding platform Lovable is pooh-poohing a researcher\u2019s finding that anyone could open a free account on the service and read other users' sensitive info, including credentials, chat history, and source code. However, the company\u2019s story keeps changing: First it attributed the publicly exposed info to \"intentional behavior\" and \"unclear documentation,\" then threw bug-bounty service HackerOne under the bus.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "6cd2ab602bd534d0f8a438a2ab2622a66d8d0091",
-      "title": "Axios Attack Shows How Complex Social Engineering Is Industrialized",
-      "url": "https://www.darkreading.com/threat-intelligence/axios-attack-complex-social-engineering-industrialized",
-      "published": "2026-04-06T20:55:44+00:00",
-      "summary": "The attack on the popular NPM package Axios is just one of many targeting maintainers and has shone a light on how threat actors can scale sophisticated social engineering campaigns.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2af675b79749ae8f/69d40b83f54849446e9987de/oil_refinery_Arterra_Picture_Library_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "id": "5346cad1663914499788fde936cfc9bcbbd42cab",
+      "title": "Claude Desktop changes app access settings for browsers you don't even have installed yet",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/20/anthropic_claude_desktop_spyware_allegation/",
+      "published": "2026-04-20T19:56:55+00:00",
+      "summary": "<h4>Installation and pre-approval without consent looks dubious under EU law</h4> <p>One app should not modify another app without asking for and receiving your explicit consent. Yet Anthropic's Claude Desktop for macOS installs files that affect other vendors' applications without disclosure, even before those applications have been installed, and authorizes browser extensions without consent.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "3e649e5e63a74d04efeb9f75bddf327f7f9fb55e",
-      "title": "Fortinet Issues Emergency Patch for FortiClient Zero-Day",
-      "url": "https://www.darkreading.com/vulnerabilities-threats/fortinet-emergency-patch-forticlient-zero-day",
-      "published": "2026-04-06T20:24:19+00:00",
-      "summary": "The authentication bypass flaw, tracked as CVE-2026-35616, is the latest in a series of Fortinet vulnerabilities that have been exploited in the wild.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta136b3187f54aba9/69d402a467101a067adcc450/fortinet_SipaUSA_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "id": "3a72817b6ffd6aa0b5588c72136feeaba34e6955",
+      "title": "Scot becomes second Scattered Spider-linked crook to plead guilty in US",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/20/scattered_spider_linked_scot_plead_guilty/",
+      "published": "2026-04-20T17:22:17+00:00",
+      "summary": "<h4>Tyler Buchanan admits role in scheme that stole at least $8 million in virtual currency</h4> <p>A Scottish man linked to the Scattered Spider cybercrime crew has pleaded guilty in the US to a phishing and SIM-swap scheme that stole at least $8 million in cryptocurrency.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "27e1d9c3f2f86b8bf1b191486b7a80552df50dd2",
+      "title": "Microsoft releases Windows Server update fix to fix its April update fixes",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/20/microsoft_releases_a_windows_server_update_fix/",
+      "published": "2026-04-20T13:15:06+00:00",
+      "summary": "<h4>Out-of-band or out of control?</h4> <p>Microsoft has pushed out an out-of-band update to address the restart loop that hit some Windows Server devices after its April update.\u2026</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
       "id": "b674d9132bace72fdce1c026f9d24072aceb3ecf",
@@ -1718,50 +1762,6 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "b7513a7a56cc67e5a7ece4fd596b5dd5c256ce96",
-      "title": "Zephyr Energy loses \u00a3700K in cyber hit that rerouted contractor payment",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/09/zephyr_energy_cyberattack/",
-      "published": "2026-04-09T11:32:51+00:00",
-      "summary": "<h4>Attackers slipped into the process and redirected funds, leaving the company scrambling to recover the cash</h4> <p>UK-listed oil and gas outfit Zephyr Energy plc has admitted a cyber incident siphoned off roughly \u00a3700,000 after a single payment to a contractor was quietly redirected to an attacker-controlled account.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "c72226a8d70929e0a47ed730be1873c40849115d",
-      "title": "Sticky-note security turned gym into hall of '80s horrors",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/09/pwned/",
-      "published": "2026-04-09T08:00:08+00:00",
-      "summary": "<h4>Even fitness equipment is vulnerable to mischief makers these days</h4> <p><strong>PWNED</strong>\u00a0 Welcome back to Pwned, the column where we share war stories from IT soldiers who shot themselves \u2013 or watched someone else shoot themselves \u2013 in the foot. Today's tale shows that even when you're setting up something as simple as fitness gear, there's no excuse for leaving security credentials lying around.\u2026</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "91c6637c417df29c2a016f72dfd41a40a96bb00d",
-      "title": "Cryptographers place $5,000 bet whether quantum will matter",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/09/cryptograhpers_quantum_bet/",
-      "published": "2026-04-09T07:00:10+00:00",
-      "summary": "<h4>The time is maybe</h4> <p>Quantum computing exists in a sort of superposition with regard to cryptography \u2013 it's both a pending threat and a technology of no immediate consequence for decryption.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "e5db14ab50a2aa9688326ded112a4c65e6be3c43",
-      "title": "Criminal wannabes even more dangerous than the pros, says ex-FBI cyber chief",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/08/cynthia_kaiser_interview/",
-      "published": "2026-04-08T21:09:51+00:00",
-      "summary": "<h4>If they don't know what they're doing, you might never get your data back</h4> <p><strong>interview</strong>\u00a0 It's the biggest threat today, but it took her a while to appreciate it. After spending two decades at the FBI and much of that time working to intercept and stop cyber threats from the likes of China and Russia, Halcyon Ransomware Research Center SVP Cynthia Kaiser says she was a \"latercomer to really wanting to focus on ransomware.\"\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
       "id": "440970fb36b038c70d5194dbf86cc8545a5ed7e4",
       "title": "Patch Tuesday, April 2026 Edition",
       "url": "https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/",
@@ -1801,6 +1801,17 @@
       "published": "2026-03-23T15:43:04+00:00",
       "summary": "A financially motivated data theft and extortion group is attempting to inject itself into the Iran war, unleashing a worm that spreads through poorly secured cloud services and wipes data on infected systems that use Iran's time zone or have Farsi set as the default language.",
       "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "70cd7bc4922d007916485178040caaeac9e77894",
+      "title": "Serial-to-IP Converter Flaws Expose OT and Healthcare Systems to Hacking",
+      "url": "https://www.securityweek.com/serial-to-ip-converter-flaws-expose-ot-and-healthcare-systems-to-hacking/",
+      "published": "2026-04-20T15:42:22+00:00",
+      "summary": "<p>Forescout researchers discovered 20 new vulnerabilities in Lantronix and Silex products and described theoretical attack scenarios.</p>\n<p>The post <a href=\"https://www.securityweek.com/serial-to-ip-converter-flaws-expose-ot-and-healthcare-systems-to-hacking/\">Serial-to-IP Converter Flaws Expose OT and Healthcare Systems to Hacking</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
@@ -1899,17 +1910,6 @@
       "url": "https://www.securityweek.com/white-house-chief-of-staff-to-meet-ith-anthropic-ceo-over-its-new-ai-technology/",
       "published": "2026-04-17T19:00:00+00:00",
       "summary": "<p>A White House official said the administration is engaging with advanced AI labs about their models and the security of software.</p>\n<p>The post <a href=\"https://www.securityweek.com/white-house-chief-of-staff-to-meet-ith-anthropic-ceo-over-its-new-ai-technology/\">White House Chief of Staff to Meet With Anthropic CEO Over Its New AI Technology</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "fa153869db2d97040906cedf9d48c46128d31bab",
-      "title": "CoChat Launches AI Collaboration Platform to Combat Shadow AI",
-      "url": "https://www.securityweek.com/cochat-launches-ai-collaboration-platform-to-combat-shadow-ai/",
-      "published": "2026-04-17T15:00:00+00:00",
-      "summary": "<p>CoChat is fundamentally an AI collaboration platform designed for teamwork and to bring visibility and governance into enterprise AI shadows.</p>\n<p>The post <a href=\"https://www.securityweek.com/cochat-launches-ai-collaboration-platform-to-combat-shadow-ai/\">CoChat Launches AI Collaboration Platform to Combat Shadow AI</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
