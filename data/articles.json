@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-24T01:17:42.350771+00:00",
+  "generated_at": "2026-04-24T12:51:44.062445+00:00",
   "items": [
     {
       "id": "8d51a9864ae5d8974a3f95a887006ac2d8c27a1e",
@@ -112,11 +112,55 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "4bbc60b8f736a765a7acd0aaac90136165485a08",
+      "title": "Bridging the AI Agent Authority Gap: Continuous Observability as the Decision Engine",
+      "url": "https://thehackernews.com/2026/04/bridging-ai-agent-authority-gap.html",
+      "published": "2026-04-24T11:49:00+00:00",
+      "summary": "The AI Agent Authority Gap - From Ungoverned to Delegation\nAs discussed in our previous article, AI agents are exposing a structural gap in enterprise security, but the problem is often framed too narrowly.\nThe issue is not simply that agents are new actors. It is that agents are delegated actors. They do not emerge with independent authority. They are triggered, invoked, provisioned, or",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZTTjYlof51AlGz6c8vyYmpqVPODX_zgUiWkJ-Mgq8a5d6pfOrUQqgu2A7H3dIcv7k4_AYSTxitHZiCxve_l8QG-zLLqgkLLdudvwjASI7p3CUtk6O0rntkr_mDPcUK66NPMoGEVWvS1mMKFzNKpRTAN2Wv9jLdLwcOlNAtlqfLCSCKpqHldT1e9AnnD0/s1600/or.gif"
+    },
+    {
+      "id": "6ee8755e381c48729887d6e3baee2f8c6c7e4a6e",
+      "title": "26 FakeWallet Apps Found on Apple App Store Targeting Crypto Seed Phrases",
+      "url": "https://thehackernews.com/2026/04/26-fakewallet-apps-found-on-apple-app.html",
+      "published": "2026-04-24T11:48:00+00:00",
+      "summary": "Cybersecurity researchers have discovered a set of malicious apps on the Apple App Store that impersonate popular cryptocurrency wallets in an attempt to steal recovery phrases and private keys since at least fall 2025.\n\"Once launched, these apps redirect users to browser pages designed to look similar to the App Store and distribute trojanized versions of legitimate wallets,\" Kaspersky",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFcKlAJD87JqpQgBraCHiotcX52rMft8iVqUuhlFlU-NTgMxjYfB2UQ0WLUbQ7yR_qCy9kvXJDFbZEHe10gEEOSUcKcUY6arDzLhyurrKlngubO7Lulc_nSHthxHv7WXqma34SDUl4o_F9Zw9N-1GQnTsxo3v-jO8eWTvRCx8hHmf5EaLCZMknYfMGpfcP/s1600/iphone.jpg"
+    },
+    {
+      "id": "fa963107a978ef5bfa45ddea99b89f9c39b4e5b2",
+      "title": "Tropic Trooper Uses Trojanized SumatraPDF and GitHub to Deploy AdaptixC2",
+      "url": "https://thehackernews.com/2026/04/tropic-trooper-uses-trojanized.html",
+      "published": "2026-04-24T09:29:00+00:00",
+      "summary": "Chinese-speaking individuals are the target of a new campaign that uses a trojanized version of SumatraPDF reader to deploy the AdaptixC2 Beacon post-exploitation agent and ultimately facilitate the abuse of Microsoft Visual Studio Code (VS Code) tunnels for remote access.\nZscaler ThreatLabz, which discovered the campaign last month, has attributed it with high confidence to Tropic Trooper (aka",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheXZWhV-F6JpyIS7BshxCI158lslIFwx6XU9K15AoGDti8DVknLSrhAEc9HybQjSHfjfuKpGJ5by4EJamG4RV_7v8_SzlmhmSlxcfIBRaYX913E8f6-z0NQyMJ9g0VkszTUY726Csg6xWhwY16ygTe_JySvgj-JkaMyX4ZdM7yCuxRT_98lv22nywvy6r5/s1600/cyberattack.jpg"
+    },
+    {
+      "id": "eb6cd997c828ae6c5413183393f174b18d7f4097",
+      "title": "LMDeploy CVE-2026-33626 Flaw Exploited Within 13 Hours of Disclosure",
+      "url": "https://thehackernews.com/2026/04/lmdeploy-cve-2026-33626-flaw-exploited.html",
+      "published": "2026-04-24T07:24:00+00:00",
+      "summary": "A high-severity security flaw in LMDeploy, an open-source toolkit for compressing, deploying, and serving LLMs, has come under active exploitation in the wild less than 13 hours after its public disclosure.\nThe vulnerability, tracked as CVE-2026-33626 (CVSS score: 7.5), relates to a Server-Side Request Forgery (SSRF) vulnerability that could be exploited to access sensitive data.\n\"A server-side",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjQrFbHBSUJCgc3WB8IsBaYhvbOnk7jwkU3MRHO7YVAFZBBwi7LE2OZzC_oddjsfbh_YwW7czfQ0FzCpHyztt-N8po5TkqZqsOhm_LpW4dxmzaDtGkud-vho2R409maf5r_QBAPjGUpfFShbENQ-qIpwaQ0eNmBgD7U-Pgu4uFgSzGRxt6O7kKLAg_PyVg/s1600/lmdeploy.png"
+    },
+    {
       "id": "28630c22de5482e445742f3d9fe84fe67e955392",
-      "title": "UNC6692 Impersonates IT Helpdesk via Microsoft Teams to Deploy SNOW Malware",
+      "title": "UNC6692 Impersonates IT Help Desk via Microsoft Teams to Deploy SNOW Malware",
       "url": "https://thehackernews.com/2026/04/unc6692-impersonates-it-helpdesk-via.html",
       "published": "2026-04-23T18:16:00+00:00",
-      "summary": "A previously undocumented threat activity cluster known as UNC6692 has been observed leveraging social engineering tactics via Microsoft Teams to deploy a custom malware suite on compromised hosts.\n\"As with many other intrusions in recent years, UNC6692 relied heavily on impersonating IT helpdesk employees, convincing their victim to accept a Microsoft Teams chat invitation from an account",
+      "summary": "A previously undocumented threat activity cluster known as UNC6692 has been observed leveraging social engineering tactics via Microsoft Teams to deploy a custom malware suite on compromised hosts.\n\"As with many other intrusions in recent years, UNC6692 relied heavily on impersonating IT help desk employees, convincing their victim to accept a Microsoft Teams chat invitation from an account",
       "source": "The Hacker News",
       "region": "North America",
       "country": "US",
@@ -127,7 +171,7 @@
       "title": "Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain Campaign",
       "url": "https://thehackernews.com/2026/04/bitwarden-cli-compromised-in-ongoing.html",
       "published": "2026-04-23T13:42:00+00:00",
-      "summary": "Bitwarden CLI has been compromised as part of the newly discovered and ongoing Checkmarx supply chain campaign, according to new findings from JFrog and Socket.\n\"The affected package version appears to be @bitwarden/cli@2026.4.0, and the malicious code was published in 'bw1.js,' a file included in the package contents,\" the application security company said.\n\"The attack appears to have leveraged",
+      "summary": "Bitwarden CLI, the command-line interface for the password manager Bitwarden, has reportedly been compromised as part of a newly discovered and ongoing Checkmarx supply chain campaign, according to findings from JFrog and Socket.\n\"The affected package version appears to be @bitwarden/cli@2026.4.0, and the malicious code was published in 'bw1.js,' a file included in the package contents,\" the",
       "source": "The Hacker News",
       "region": "North America",
       "country": "US",
@@ -616,50 +660,6 @@
       "region": "North America",
       "country": "US",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-FBwJYevQ8Ner9ypyp5-H1XIPfa5guhQXC-W4llTZuBI072vjCoxKh9PUexQBZGJIeuZXoBAKboz9xz5Gzd0p1SiT5UME0wd0lTTOS6EIh3nJ6vsAeMzGmT0P38ry2ySiLc-je0e0YAZAPDYmhw3jSfqbExcsQW5nL8syaClAcSfZziU-KPneawQFfo6p/s1600/patches.jpg"
-    },
-    {
-      "id": "05ac3db8c1ff72836b2e6ae0ddb29f673a6118c8",
-      "title": "Deterministic + Agentic AI: The Architecture Exposure Validation Requires",
-      "url": "https://thehackernews.com/2026/04/deterministic-agentic-ai-architecture.html",
-      "published": "2026-04-15T11:30:00+00:00",
-      "summary": "Few technologies have moved from experimentation to boardroom mandate as quickly as AI. Across&nbsp;industries, leadership teams have embraced its broader potential, and boards, investors, and executives are already pushing organizations to adopt it across operational and security functions.&nbsp;Pentera\u2019s AI Security and Exposure Report&nbsp;2026 reflects that&nbsp;momentum: every CISO surveyed",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3s5QStAA0bgcCWhxktRnDbuCjGGiFi6NUz1Z9zVK8-4CkZ8FS82Sc5Qg_9-wKK98yThRDobcnyJcD63TIzW4OUTXzNrXTD6PXHoNMBJpgt02mi7K24qVMxfq_8zsG6kBupb8S0DygwxK2F33miTnFivZKSguCqCv82v3mxOAYWnHrcFHF7Y1iTPgV9i6u/s1600/validation-main.jpg"
-    },
-    {
-      "id": "a781723982f1cab69e6e00ec13d283661e2f417b",
-      "title": "Microsoft Issues Patches for SharePoint Zero-Day and 168 Other New Vulnerabilities",
-      "url": "https://thehackernews.com/2026/04/microsoft-issues-patches-for-sharepoint.html",
-      "published": "2026-04-15T08:40:00+00:00",
-      "summary": "Microsoft on Tuesday released updates to address a&nbsp;record 169 security&nbsp;flaws across its product portfolio, including one vulnerability that&nbsp;has been actively&nbsp;exploited in the&nbsp;wild.\nOf these 169 vulnerabilities, 157 are rated Important, eight are rated&nbsp;Critical, three are rated Moderate,&nbsp;and one is rated Low in&nbsp;severity. Ninety-three of the flaws are",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKhAYMS4CZDglUzVBKPpIJJJjC7LSHIE8r8HSYTDvQtfuqIlLk-jorWPPNvMPaiuWSriWM2WP-cyKqr_TRwlOG65EY9ZZWuRYsrzcn05wg3mkQd_-j103HEjHaUryyOF7jWj6IuAM6VwCUloPq_9RMt959E-yG8qF4n1acw3OfY73fWw4p90V0ClaY4hjo/s1600/windows-update.jpg"
-    },
-    {
-      "id": "a3923a60038991ec5b73a7a5b8f25a5197339dbb",
-      "title": "OpenAI Launches GPT-5.4-Cyber with Expanded Access for Security Teams",
-      "url": "https://thehackernews.com/2026/04/openai-launches-gpt-54-cyber-with.html",
-      "published": "2026-04-15T04:30:00+00:00",
-      "summary": "OpenAI on Tuesday&nbsp;unveiled GPT-5.4-Cyber, a variant of its latest flagship&nbsp;model, GPT\u20115.4, that's specifically optimized for defensive cybersecurity use cases, days after rival Anthropic unveiled its own frontier&nbsp;model, Mythos.\n\"The progressive use of AI accelerates defenders \u2013 those responsible for keeping systems, data, and users safe \u2013 enabling them to find and fix problems",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrjpxBjlnOwelWhtbcyO3kBGpQwkfPkbL7RytRsDo26AL5rMz4inD_rjZLSfjy5R6skvnpiOA5M1LoDaAW1bCz4Isy4RMffGJVzgm4kYy5N-V1ijfLhVHefPcneHVGZyXZRjbLZZBHQRe3_QKhKfb5hss3a5hFveU8v2WkKHq-2wUmY_ocysIGGMP8GxdV/s1600/gpt.jpg"
-    },
-    {
-      "id": "9225f25604b479d5fd8e7c30d1702f88d6732953",
-      "title": "New PHP Composer Flaws Enable Arbitrary Command Execution \u2014 Patches Released",
-      "url": "https://thehackernews.com/2026/04/new-php-composer-flaws-enable-arbitrary.html",
-      "published": "2026-04-14T15:57:00+00:00",
-      "summary": "Two high-severity security vulnerabilities&nbsp;have been disclosed in Composer, a package&nbsp;manager for&nbsp;PHP, that, if successfully exploited, could result in arbitrary command execution.\nThe vulnerabilities&nbsp;have been&nbsp;described as command injection flaws affecting the Perforce VCS (version control software) driver. Details of the two flaws are below&nbsp;-\n\nCVE-2026-40176 (CVSS",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgP-RqcuX8QuBEwVkchLNSjyIAqQEuFwy0prqQ1gGqxpBFESQLuCzgGB7-cjYhJrbLhbTk_j8G4NedN06plhhqLd_Rpd01mTh8XcOHjvQ_UuJqfjTROZeh40WlSN_7gzRL4yVKX-Aj0ui2gOxo9l70b3Dy5R6srKjne-gQXIhL7fNAHYZ7rDm6-yWl4-_JD/s1600/php-code.jpg"
     },
     {
       "id": "d09bdee91de136c2af7766062b4cf51c368dc02f",
@@ -1212,6 +1212,72 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt4f984646e283dc63/69d7e0dab4e85cb34394103b/US_Iran_flags-Karen_Hovsepyan-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
+      "id": "2c8227e0a7a250a11933da79ec8feac6c47acad9",
+      "title": "Microsoft beefs up Remote Desktop security with ... hard-to-read messages",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/24/remote_desktop_security_beefed_up/",
+      "published": "2026-04-24T11:47:52+00:00",
+      "summary": "<h4>Ailing scaling blamed by Windows-maker for unreadable missives</h4> <p>Microsoft's update to harden Remote Desktop against phishing attacks has arrived. When users open a Remote Desktop (.rdp) file, they should now see a warning listing all requested connection settings - or they would if it was displaying correctly.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "5c6e96d6679ed37a8174e9db31fadcacd70d2a58",
+      "title": "It's a myth that you need Mythos to find bugs: Open source models can do it just as well",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/24/ai_bugfinding_futures/",
+      "published": "2026-04-24T11:41:54+00:00",
+      "summary": "<h4>OpenAI's first security hire, Ari Herbert-Voss, thinks more automated bug finding will improve security without costing jobs</h4> <p><strong>Black Hat Asia</strong>\u00a0 Open source models can find bugs as effectively as Anthropic's Mythos, according to Ari Herbert-Voss, CEO of AI-powered security startup RunSybil and OpenAI's first security hire.\u2026</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "77788fc1890e1e1c44a5d5f675f9ec2b94003cf3",
+      "title": "Greece relaxes Euro biometric border entry rules amid airport chaos",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/24/greece_ees_rules/",
+      "published": "2026-04-24T09:15:13+00:00",
+      "summary": "<h4>Missed flights and more means something has got to give at the border</h4> <p>Greece is taking a flexible approach to introducing the European Union's biometric Entry/Exit System (EES), after some British passport holders missed flights home following the system's implementation on 10 April.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "0b19d66ea1229f848519807cf331d8b27c2c8e7e",
+      "title": "UK gov pays public \u00a3550 to discuss Digital ID \u2013 then bans journalists from the room",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/24/digital_it_consult/",
+      "published": "2026-04-24T08:30:07+00:00",
+      "summary": "<h4>Nothing says 'We want honest opinions' like a 36,000-letter mailshot with no awkward questions allowed</h4> <p>Members of the UK government\u2019s People\u2019s Panel on Digital ID will spend two weekends in Birmingham and three evenings on Zoom discussing how Britain should build a national digital identity system, earning \u00a3550 plus expenses for their trouble.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "0091c0a7333f3cb011c8ae5e2f9dc0c02aedec73",
+      "title": "Researchers find cyber-sabotage malware that may predate Stuxnet by five years",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/24/fast16_sabotage_malware/",
+      "published": "2026-04-24T06:56:22+00:00",
+      "summary": "<h4>FAST16 could be the first cyberweapon, and its effects could be with us today</h4> <p><strong>Black Hat Asia</strong>\u00a0 Infosec outfit SentinelOne found malware that tries to induce errors in engineering and physics simulation software and therefore represents an attempt at sabotage, and suggests it was created years before the Stuxnet worm that aimed to destroy Iran\u2019s uranium enrichment centrifuges.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "ddef0e0cbe449956b322110e043d648da99a3065",
+      "title": "Weak security means attackers could disable all of a city's public EV chargers",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/24/rentable_iot_security_flaws/",
+      "published": "2026-04-24T04:10:33+00:00",
+      "summary": "<h4>Demonstrated in China, probably applicable elsewhere</h4> <p><strong>Black Hat Asia</strong>\u00a0 Developers of rented internet of things infrastructure \u2013 stuff like public EV chargers and shared e-bikes \u2013 are prioritizing user convenience over security, and leaving themselves exposed to wide-scale denial of service attacks on their services.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "9746a622aa3954c63cf3af357806413b97681988",
       "title": "Dev targeted by sophisticated job scam: 'I let my guard down, and ran the freaking code'",
       "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/23/job_scam_targeted_developer/",
@@ -1696,72 +1762,6 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "da67429e279255b4a3840b4e930023daef6252c5",
-      "title": "Server-room lock was nothing but a crock",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/16/pwned_server_room_lock_lol/",
-      "published": "2026-04-16T08:00:10+00:00",
-      "summary": "<h4>Your cybersecurity is only as good as the physical security of the servers</h4> <p><strong>PWNED</strong>\u00a0 Welcome back to Pwned, the column where we immortalize the worst vulns that organizations opened up for themselves. If you\u2019re the kind of person who leaves your car doors unlocked with a pile of cash in the center console, this week\u2019s story is for you.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "0b989e51485c960cfd27d2f4a44793feda914d59",
-      "title": "Google Chrome lacks protection against one of the most basic and common ways to track users online",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/16/google_chrome_lacks_browser_fingerprinting/",
-      "published": "2026-04-16T00:28:39+00:00",
-      "summary": "<h4>Browser fingerprinting is everywhere</h4> <p>Google markets its Chrome browser by citing its superior safety features, but according to privacy consultant Alexander Hanff, Chrome does not protect against browser fingerprinting \u2013 a method of tracking people online by capturing technical details about their browser.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "a4dd4f590fbd9079944f7d5f187ad771c8193796",
-      "title": "Nobody knows how many CVEs Anthropic's Project Glasswing has actually found",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/15/project_glasswing_cves/",
-      "published": "2026-04-15T21:33:35+00:00",
-      "summary": "<h4>Like the majority of the companies participating, it remains a mystery</h4> <p>Last week, Anthropic surprised the world by declaring that its latest model, Mythos, is so good at finding vulns that it would create chaos if released. Now, under the title of Project Glasswing, over 50 selected companies and orgs are allowed to test the hyped up LLM to find security holes in their own products. But just how many problems have they really discovered?\u2026</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "b2152c0a452fd7fd6b889253575d3655dd26d59e",
-      "title": "Patch these critical Fortinet sandbox bugs that let attackers bypass login, run commands over HTTP",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/15/critical_fortinet_sandbox_bugs/",
-      "published": "2026-04-15T17:52:31+00:00",
-      "summary": "<h4>No reports of active exploitation (yet)</h4> <p>Watch out for more Fortinet vulns! Two critical bugs in Fortinet's sandbox could allow unauthenticated attackers to bypass authentication or execute unauthorized code on vulnerable systems.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "9ccc7077e3c9febcd302cc4a2071444717bd2046",
-      "title": "Automotive data biz Autovista blames ransomware for service disruption",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/15/automotive_data_biz_autovista_ransomware/",
-      "published": "2026-04-15T16:18:18+00:00",
-      "summary": "<h4>Some customer orgs tell staff to block inbound email from the provider</h4> <p>Autovista confirms that it called in outside support to help clean up a ransomware infection currently affecting systems in Europe and Australia.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "26e3cf3dd9c970c5f1246f6d0bc57bbb875d23af",
-      "title": "French cops free mother and son after 20-hour crypto kidnap ordeal",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/15/crypto_kidnap_france/",
-      "published": "2026-04-15T13:29:08+00:00",
-      "summary": "<h4>Latest in a string of cases that have earned France an unfortunate title</h4> <p>A mother and her ten-year-old son are now free after being kidnapped for around 20 hours while the father was being extorted for hundreds of thousands of euros.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
       "id": "34f5f0d9fa9b11f7df5d0cd4f2fa087685207d27",
       "title": "\u2018Scattered Spider\u2019 Member \u2018Tylerb\u2019 Pleads Guilty",
       "url": "https://krebsonsecurity.com/2026/04/scattered-spider-member-tylerb-pleads-guilty/",
@@ -1806,6 +1806,83 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "06ac0b7acdb858561a63243e976559b4b8ccdd2d",
+      "title": "Why Cybersecurity Must Rethink Defense in the Age of Autonomous Agents",
+      "url": "https://www.securityweek.com/why-cybersecurity-must-rethink-defense-in-the-age-of-autonomous-agents/",
+      "published": "2026-04-24T12:34:53+00:00",
+      "summary": "<p>From autonomous code generation to decision-making systems that initiate actions without human intervention, the industry is entering a new phase. </p>\n<p>The post <a href=\"https://www.securityweek.com/why-cybersecurity-must-rethink-defense-in-the-age-of-autonomous-agents/\">Why Cybersecurity Must Rethink Defense in the Age of Autonomous Agents</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "07f1d2ed9bddc814c725e5bb0d38e1d41abf3240",
+      "title": "Locked Shields 2026: 41 Nations Strengthen Cyber Resilience in World\u2019s Biggest Exercise",
+      "url": "https://www.securityweek.com/locked-shields-2026-41-nations-strengthen-cyber-resilience-in-worlds-biggest-exercise/",
+      "published": "2026-04-24T12:32:08+00:00",
+      "summary": "<p>Locked Shields has grown significantly over the past 16 years, with only four nations participating in the first edition.</p>\n<p>The post <a href=\"https://www.securityweek.com/locked-shields-2026-41-nations-strengthen-cyber-resilience-in-worlds-biggest-exercise/\">Locked Shields 2026: 41 Nations Strengthen Cyber Resilience in World&#8217;s Biggest Exercise</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "eafe1a5a0b8caa6abbd1777bceca19de46088bcf",
+      "title": "US Federal Agency\u2019s Cisco Firewall Infected With \u2018Firestarter\u2019 Backdoor",
+      "url": "https://www.securityweek.com/us-federal-agencys-cisco-firewall-infected-with-firestarter-backdoor/",
+      "published": "2026-04-24T11:26:09+00:00",
+      "summary": "<p>The malware provides remote access and control of infected devices and maintains post-patching persistence.</p>\n<p>The post <a href=\"https://www.securityweek.com/us-federal-agencys-cisco-firewall-infected-with-firestarter-backdoor/\">US Federal Agency&#8217;s Cisco Firewall Infected With &#8216;Firestarter&#8217; Backdoor</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "8bd60e2fcb44dba6fa2a4a50ea4a18f5306d3e82",
+      "title": "Trump Administration Vows Crackdown on Chinese Companies \u2018Exploiting\u2019 AI Models Made in US",
+      "url": "https://www.securityweek.com/trump-administration-vows-crackdown-on-chinese-companies-exploiting-ai-models-made-in-us/",
+      "published": "2026-04-24T11:13:55+00:00",
+      "summary": "<p>The Trump administration is vowing to crack down on foreign tech companies\u2019 exploitation of U.S. artificial intelligence models.</p>\n<p>The post <a href=\"https://www.securityweek.com/trump-administration-vows-crackdown-on-chinese-companies-exploiting-ai-models-made-in-us/\">Trump Administration Vows Crackdown on Chinese Companies &#8216;Exploiting&#8217; AI Models Made in US</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "3dbd0b27cb6a66509add8dad6c53c26ebc1e65fe",
+      "title": "Vulnerabilities Patched in CrowdStrike, Tenable Products",
+      "url": "https://www.securityweek.com/vulnerabilities-patched-in-crowdstrike-tenable-products/",
+      "published": "2026-04-24T09:49:27+00:00",
+      "summary": "<p>CrowdStrike has fixed a critical LogScale vulnerability, while Tenable addressed a high-severity Nessus flaw.</p>\n<p>The post <a href=\"https://www.securityweek.com/vulnerabilities-patched-in-crowdstrike-tenable-products/\">Vulnerabilities Patched in CrowdStrike, Tenable Products</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "ae076fc27ead32c4ea4ac2604179a427e7b527c9",
+      "title": "Bitwarden NPM Package Hit in Supply Chain Attack",
+      "url": "https://www.securityweek.com/bitwarden-npm-package-hit-in-supply-chain-attack/",
+      "published": "2026-04-24T08:07:02+00:00",
+      "summary": "<p>Tied to a fresh Checkmarx supply chain attack claimed by TeamPCP, the incident references the Shai-Hulud worm.</p>\n<p>The post <a href=\"https://www.securityweek.com/bitwarden-npm-package-hit-in-supply-chain-attack/\">Bitwarden NPM Package Hit in Supply Chain Attack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "c0958a69af7efabe261f4b557c547517ddb44aac",
+      "title": "Copperhelm Raises $7 Million for Agentic Cloud Security Platform",
+      "url": "https://www.securityweek.com/copperhelm-raises-7-million-for-agentic-cloud-security-platform/",
+      "published": "2026-04-24T07:31:09+00:00",
+      "summary": "<p>The Israel-based company, which just emerged from stealth mode, was founded by cloud and security experts from RSA, McAfee, and Unity.</p>\n<p>The post <a href=\"https://www.securityweek.com/copperhelm-raises-7-million-for-agentic-cloud-security-platform/\">Copperhelm Raises $7 Million for Agentic Cloud Security Platform</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "2902addd92440e5d33231282250220a38504c71e",
       "title": "Cloudsmith Raises $72 Million in Series C Funding",
       "url": "https://www.securityweek.com/cloudsmith-raises-72-million-in-series-c-funding/",
@@ -1833,83 +1910,6 @@
       "url": "https://www.securityweek.com/rilian-raises-17-5-million-for-ai-native-security-orchestration/",
       "published": "2026-04-23T11:45:30+00:00",
       "summary": "<p>The company will hire new talent and expand operations across the US and other allied countries.</p>\n<p>The post <a href=\"https://www.securityweek.com/rilian-raises-17-5-million-for-ai-native-security-orchestration/\">Rilian Raises $17.5 Million for AI-Native Security Orchestration</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "c160316f8b3d40665af75fdba1cac12bafe2abf8",
-      "title": "The Behavioral Shift: Why Trusted Relationships Are the Newest Attack Surface",
-      "url": "https://www.securityweek.com/the-behavioral-shift-why-trusted-relationships-are-the-newest-attack-surface/",
-      "published": "2026-04-23T11:06:44+00:00",
-      "summary": "<p>New analysis from Abnormal AI reveals how attackers have abandoned technical exploits to weaponize routine workflows and internal trust.</p>\n<p>The post <a href=\"https://www.securityweek.com/the-behavioral-shift-why-trusted-relationships-are-the-newest-attack-surface/\">The Behavioral Shift: Why Trusted Relationships Are the Newest Attack Surface</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "86667d318c1f8af474e3c82955d090d61d5845d6",
-      "title": "Luxury Cosmetics Giant Rituals Discloses Data Breach",
-      "url": "https://www.securityweek.com/luxury-cosmetics-giant-rituals-discloses-data-breach/",
-      "published": "2026-04-23T11:04:51+00:00",
-      "summary": "<p>The company is notifying My Rituals members that hackers downloaded part of their data, including names and addresses.</p>\n<p>The post <a href=\"https://www.securityweek.com/luxury-cosmetics-giant-rituals-discloses-data-breach/\">Luxury Cosmetics Giant Rituals Discloses Data Breach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "4953e34a57238848647e2e7f2f8c61e883784ae6",
-      "title": "AI Can Autonomously Hack Cloud Systems With Minimal Oversight: Researchers",
-      "url": "https://www.securityweek.com/ai-can-autonomously-hack-cloud-systems-with-minimal-oversight-researchers/",
-      "published": "2026-04-23T10:09:40+00:00",
-      "summary": "<p>Palo Alto Networks has developed Zealot, a multi-agent penetration testing PoC capable of reconnaissance, exploitation, and exfiltration.\u00a0</p>\n<p>The post <a href=\"https://www.securityweek.com/ai-can-autonomously-hack-cloud-systems-with-minimal-oversight-researchers/\">AI Can Autonomously Hack Cloud Systems With Minimal Oversight: Researchers\u00a0</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "05da3a10b40802ab4de0ae519d4198c5884fcb4e",
-      "title": "Apple Patches iOS Flaw Allowing Recovery of Deleted Chats",
-      "url": "https://www.securityweek.com/apple-patches-ios-flaw-allowing-recovery-of-deleted-chats/",
-      "published": "2026-04-23T08:50:19+00:00",
-      "summary": "<p>Apple rolled out the security patches for dozens of iPhone and iPad models and generations.</p>\n<p>The post <a href=\"https://www.securityweek.com/apple-patches-ios-flaw-allowing-recovery-of-deleted-chats/\">Apple Patches iOS Flaw Allowing Recovery of Deleted Chats</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "dc2b5d507edd859f636f40111f1270fd2e4c2a14",
-      "title": "Recent Microsoft Defender Vulnerability Exploited as Zero-Day",
-      "url": "https://www.securityweek.com/recent-microsoft-defender-vulnerability-exploited-as-zero-day/",
-      "published": "2026-04-23T08:00:36+00:00",
-      "summary": "<p>The flaw allows attackers to access the SAM database, extract NTLM hashes, and gain System privileges.</p>\n<p>The post <a href=\"https://www.securityweek.com/recent-microsoft-defender-vulnerability-exploited-as-zero-day/\">Recent Microsoft Defender Vulnerability Exploited as Zero-Day</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "8f2c592614b413138390c9d2b2fd68db5330d118",
-      "title": "After Bluesky, Mastodon Targeted in DDoS Attack",
-      "url": "https://www.securityweek.com/after-bluesky-mastodon-targeted-in-ddos-attack/",
-      "published": "2026-04-22T14:26:00+00:00",
-      "summary": "<p>The DDoS attack caused a major outage, but Mastodon mitigated it within a few hours.</p>\n<p>The post <a href=\"https://www.securityweek.com/after-bluesky-mastodon-targeted-in-ddos-attack/\">After Bluesky, Mastodon Targeted in DDoS Attack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "1d3509377300199fb3fc73360be62caf415a2bbf",
-      "title": "Most Serious Cyberattacks Against the UK Now From Russia, Iran and China, Cyber Chief Says",
-      "url": "https://www.securityweek.com/most-serious-cyberattacks-against-the-uk-now-from-russia-iran-and-china-cyber-chief-says/",
-      "published": "2026-04-22T12:57:01+00:00",
-      "summary": "<p>British businesses need to prepare themselves to defend against cyberattacks because the U.K. could be targeted \u201cat scale,\u201d if it became involved in an international conflict.</p>\n<p>The post <a href=\"https://www.securityweek.com/most-serious-cyberattacks-against-the-uk-now-from-russia-iran-and-china-cyber-chief-says/\">Most Serious Cyberattacks Against the UK Now From Russia, Iran and China, Cyber Chief Says</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
