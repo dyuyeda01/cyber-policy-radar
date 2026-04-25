@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-04-24T12:51:44.062445+00:00",
+  "generated_at": "2026-04-25T01:11:08.598381+00:00",
   "items": [
+    {
+      "id": "a5bf43857dbb25eb3534c8bb264e300fc4dbed35",
+      "title": "Hasbro expects March cyberattack to impact second-quarter revenue",
+      "url": "https://www.cybersecuritydive.com/news/hasbro-march-cyberattack-impact-second-quarter-revenue/818438/",
+      "published": "2026-04-24T15:16:29+00:00",
+      "summary": "<p>The toy maker is reviewing files and working to fully bring certain systems back online. The company will incur some costs related to the investigation.</p>",
+      "source": "Cybersecurity Dive",
+      "region": "North America",
+      "country": "US",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
     {
       "id": "8d51a9864ae5d8974a3f95a887006ac2d8c27a1e",
       "title": "AI-written software creates hassles for wary security teams",
@@ -39,7 +50,7 @@
       "title": "Trump\u2019s CISA director pick withdraws after tumultuous nomination",
       "url": "https://www.cybersecuritydive.com/news/cisa-sean-plankey-withdraw-nomination/818266/",
       "published": "2026-04-22T21:17:00+00:00",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/-vKnvw8K4t2s3FYX-Mat19x2rskujXzzcJXViJ5Spgs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9wbGFua2V5aGVhcmluZy5wbmc=.webp\" /></div></figure><p>CISA has been without a permanent director for more than a year, imperiling its efforts to establish a strategic direction.</p>\n\n<p>&nbsp;</p>",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/-vKnvw8K4t2s3FYX-Mat19x2rskujXzzcJXViJ5Spgs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9wbGFua2V5aGVhcmluZy5wbmc=.webp\" /></div></figure><p>CISA has been without a permanent director for more than a year, imperiling its efforts to establish a strategic direction.</p>",
       "source": "Cybersecurity Dive",
       "region": "North America",
       "country": "US",
@@ -101,15 +112,26 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "65fcc73ed67a59f254fa9b99096dd39135327159",
-      "title": "Stellantis teams with Microsoft to strengthen digital capabilities",
-      "url": "https://www.cybersecuritydive.com/news/stellantis-microsoft-5year-partnership-ai-cybersecurity/817948/",
-      "published": "2026-04-20T15:00:00+00:00",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/SiKwf-qDn01iVbJmE4AzicBOvzA2fS4orqbFP-xgJzg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9qZWVwLmpwZWc=.webp\" /></div></figure><p>As part of the 5-year agreement, collaborative teams will co-develop more than 100 initiatives relating to AI and cybersecurity.</p>",
-      "source": "Cybersecurity Dive",
+      "id": "fac946ad110cbc4aa57d45f34bef9359c55485bb",
+      "title": "FIRESTARTER Backdoor Hit Federal Cisco Firepower Device, Survives Security Patches",
+      "url": "https://thehackernews.com/2026/04/firestarter-backdoor-hit-federal-cisco.html",
+      "published": "2026-04-24T17:06:00+00:00",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has revealed that an unnamed federal civilian agency's Cisco Firepower device running Adaptive Security Appliance (ASA) software was compromised in September 2025 with malware called FIRESTARTER.\nFIRESTARTER, per CISA and the U.K.'s National Cyber Security Centre (NCSC), is assessed to be a backdoor designed for remote access and",
+      "source": "The Hacker News",
       "region": "North America",
       "country": "US",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhL39ca_K84pnKcPSv77aXouF3t3HCOjjL1zFVEdeDE64LiUxQ2Het8xQeTeO0JZRHZE56SbG87psVmhYCbSyu5PE3FZiHrAIzm0zp8nfGKk7XwVTUUjpeZ7zDEZwuJaQkZp6Cl20WF7qkWDAuaOQW5-OtTQ1ZvjW4xhHB9HrC2O-C6pPPnE94gLqp1GZrI/s1600/cisco.jpg"
+    },
+    {
+      "id": "ecd94658e690285c4613e93f2d78e04794b3488b",
+      "title": "NASA Employees Duped in Chinese Phishing Scheme Targeting U.S. Defense Software",
+      "url": "https://thehackernews.com/2026/04/nasa-employees-duped-in-chinese.html",
+      "published": "2026-04-24T14:13:00+00:00",
+      "summary": "The Office of Inspector General (OIG) of the U.S. National Aeronautics and Space Administration (NASA) has revealed how a Chinese national posed as a U.S. researcher as part of a spear-phishing campaign to obtain sensitive information from the space agency, as well as from government entities, universities, and private companies, in violation of export control laws.\n\"For years, NASA employees",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHAuHNFOxvs6UDl3EnaRiFcpN6xXjeqMCeudHBwRKzbIoUCdno0MHlfe2ijlnYU7D5k0vi4nlhv9j_hkR4zeaHTq2xewCOVza2_qYZZxpy_Qy1V_IQu5nO5lDyGzeG3P_B5kSbGT5W01Ic0E_FuSlWat1zsWYCDHhYbqQ_S5Q8p1WO14UStW8EJ4PIkKuX/s1600/WANTED.jpg"
     },
     {
       "id": "4bbc60b8f736a765a7acd0aaac90136165485a08",
@@ -640,26 +662,48 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSXMJaHSQp1aJ8l7rKKtfILQtDMLWTUVOPwWqizQ-nRzb5JbG1BJOFKTs0NYGVQ0fBFTzLkjaY0bntn7UDnlyy502mDQJzvqFhTJwmYlctN551StWLJf8hnET4i8ZrwWvtzhswLW_2GoSI1zlMVRnI89aVrFU1lbes9p7fpYFjT9V7OxAmbmMW3UR-hv9_/s1600/webhook.jpg"
     },
     {
-      "id": "aaebafda94ea821143a3e15ef02ba1164a4882ee",
-      "title": "Actively Exploited nginx-ui Flaw (CVE-2026-33032) Enables Full Nginx Server Takeover",
-      "url": "https://thehackernews.com/2026/04/critical-nginx-ui-vulnerability-cve.html",
-      "published": "2026-04-15T12:56:00+00:00",
-      "summary": "A recently disclosed critical security flaw impacting nginx-ui, an open-source, web-based Nginx management tool, has come under active exploitation in the&nbsp;wild.\nThe vulnerability in question is CVE-2026-33032 (CVSS score: 9.8), an authentication bypass vulnerability that enables threat actors to seize control of the Nginx service. It&nbsp;has been codenamed MCPwn by Pluto&nbsp;Security.\n\"",
-      "source": "The Hacker News",
+      "id": "4452a2c400ebae1706df9489a44ba4538a1727b5",
+      "title": "US Busts Myanmar Ring Targeting US Citizens in Financial Fraud",
+      "url": "https://www.darkreading.com/cyber-risk/us-busts-myanmar-ring-targeting-us-citizens-financial-fraud",
+      "published": "2026-04-24T16:48:04+00:00",
+      "summary": "Some 29 people were charged, including a Cambodian senator, and authorities seized more than 500 Web domains tied to fake investment sites.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-efZdYJpyjLdBQDLfJxWi6aiElSTIIzesGLR7SNMM0laIvBdFHioyAfxmOQkhV-bBV5SqCxRRhocp4-Q3EezvtE5Xp2aeNcFrP6d89jhOY2QiCVhhyMCMCVy39cE5YcTvg_7_tvXAEwI4N1g_eRKNzWwYtLH-k80d5he55NN2UK0sNNkbb0l35ix6MOBR/s1600/nui.png"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt798fb98cb0e72278/69eba133172e119ab194fef8/SE_Asia-slegers_hans-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "e24df1d700dcbb916dc6676c0d3d351c288e3789",
-      "title": "April Patch Tuesday Fixes Critical Flaws Across SAP, Adobe, Microsoft, Fortinet, and More",
-      "url": "https://thehackernews.com/2026/04/april-patch-tuesday-fixes-critical.html",
-      "published": "2026-04-15T12:37:00+00:00",
-      "summary": "A number&nbsp;of critical vulnerabilities impacting products from Adobe, Fortinet, Microsoft, and SAP have taken center stage in April's Patch Tuesday&nbsp;releases.\nTopping the list is an SQL injection vulnerability impacting SAP Business Planning and Consolidation and SAP Business Warehouse&nbsp;(CVE-2026-27681, CVSS score: 9.9) that could result in the execution of arbitrary database&nbsp;",
-      "source": "The Hacker News",
+      "id": "49fde301cceb95f6bd834fdd086005ae45b057bd",
+      "title": "Glasswing Secured the Code. The Rest of Your Stack Is Still on You",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/glasswing-secured-code-stack-on-you",
+      "published": "2026-04-24T15:04:29+00:00",
+      "summary": "Forgotten integrations, shadow IT, SaaS, and now shadow AI and agents are everywhere, and attackers don't need sophisticated AI models to take advantage.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-FBwJYevQ8Ner9ypyp5-H1XIPfa5guhQXC-W4llTZuBI072vjCoxKh9PUexQBZGJIeuZXoBAKboz9xz5Gzd0p1SiT5UME0wd0lTTOS6EIh3nJ6vsAeMzGmT0P38ry2ySiLc-je0e0YAZAPDYmhw3jSfqbExcsQW5nL8syaClAcSfZziU-KPneawQFfo6p/s1600/patches.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6fceb678bad33d92/69eace49fd15051754836a22/Glasswing_Casimiro_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
+      "id": "df4c1327746cc96dc5acfcd41176a7217ee429e5",
+      "title": "AI Phishing Is No. 1 With a Bullet for Cyberattackers",
+      "url": "https://www.darkreading.com/cyber-risk/ai-phishing-no-1-cyberattackers",
+      "published": "2026-04-24T13:30:00+00:00",
+      "summary": "In the past six months, companies have seen a significant influx of AI-powered phishing, as cyberattackers progress from small campaigns to 1-to-1 personalized attacks.",
+      "source": "DarkReading",
+      "region": "North America",
+      "country": "US",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6da71c7236b44e30/694ae29f19b0239070b0480f/AI_brain_sleepyellow_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
+      "id": "8147ca4b29a9feea9305ce120342900cfbd1611a",
+      "title": "North Korea's Lazarus Targets macOS Users via ClickFix",
+      "url": "https://www.darkreading.com/threat-intelligence/north-koreas-lazarus-targets-macos-users-clickfix",
+      "published": "2026-04-24T13:00:00+00:00",
+      "summary": "Lazarus continues leveraging ClickFix for initial access and data theft, in this case, against Mac-centric organizations and their high-value leaders.",
+      "source": "DarkReading",
+      "region": "North America",
+      "country": "US",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt955244a1688ad92a/69ea733c149efc64d46724f4/Mouse_click_Alexey_Stiop_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "id": "d09bdee91de136c2af7766062b4cf51c368dc02f",
@@ -1168,48 +1212,59 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9a6765cc1f632f66/69d817beee4441c1fd401ac2/industrial-facility-with-worker-1st_footage-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "f17bdea70ff3b3d8cb396f5d3de78fdc5b62301f",
-      "title": "Can Anthropic Keep Its Exploit-Writing AI Out of the Wrong Hands?",
-      "url": "https://www.darkreading.com/application-security/anthropic-exploit-writing-mythos-ai-safe",
-      "published": "2026-04-10T13:00:00+00:00",
-      "summary": "Its Mythos Preview model, which can allegedly find and exploit critical zero-days, also comes with certain controls, the vendor said.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc730ba5941b1717e/69d7fd1a31c96813522990cd/Anthropic_logo_Adrian_Vidal_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "id": "92da7f4240154249ee99ec510f0fdc2cf4bb0586",
+      "title": "US clarifies mobile hotspots part of foreign router ban despite rarity of American made consumer kit",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/24/fcc_does_a_doubletake_adds/",
+      "published": "2026-04-24T16:03:14+00:00",
+      "summary": "<h4>Silicon often from US, but the kit from APAC and elsewhere</h4> <p>America's telco regulator has clarified its ban on foreign-made routers also includes mobile hotspots and domestic routers that use a 5G cellular connection to the internet.\u2026</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "8651f4ee56aed6b483dcc24125a3626ca58e38a4",
-      "title": "Russia's 'Fancy Bear' APT Continues Its Global Onslaught",
-      "url": "https://www.darkreading.com/threat-intelligence/russias-fancy-bear-apt-continues-global-onslaught",
-      "published": "2026-04-09T20:50:37+00:00",
-      "summary": "Victims don't need to match the cyber espionage group's technical sophistication, experts say. But patching and some form of zero trust are now non-negotiable.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltee215733d1f4849e/69d6b1253032b219f34bebeb/Grizzly_bear_photo-fox_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "id": "73e366d7d4d926262e540d93326afc71d8be9d0e",
+      "title": "ShinyHunters claim they have cruise giant Carnival's booty as 7.5M emails surface",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/24/shinyhunters_claim_cruise_giant_carnivals/",
+      "published": "2026-04-24T15:35:52+00:00",
+      "summary": "<h4>Leak-site bragging meets breach hunters as Have I Been Pwned flags millions of records</h4> <p>Carnival Corporation, the world's largest cruise company, is dealing with choppy waters after Have I Been Pwned flagged what it claimed were 7.5 million unique email addresses all allegedly tied to one of its subsidiaries.\u00a0\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "c084f198669c6c704ef48c95857ab224834d3b79",
-      "title": "'BlueHammer' Windows Zero-Day Exploit Signals Microsoft Bug Disclosure Issues",
-      "url": "https://www.darkreading.com/vulnerabilities-threats/bluehammer-windows-exploit-microsoft-bug-disclosure-issues",
-      "published": "2026-04-09T20:13:34+00:00",
-      "summary": "Under the alias 'Chaotic Eclipse,' a researcher released a PoC exploit for a zero-day flaw that allows for system takeover by a local user, citing an undisclosed beef with Microsoft.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6c31ced607e735b5/69d4f2975553ecd2bca00f8a/Hammernails_MichaelFlippo_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "id": "9baf976f1aa1bf012ab4974626564281f1b0f7a3",
+      "title": "Governments on high alert after CISA snuffs out Firestarter backdoor on fed network",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/24/government_cni_on_high_alert/",
+      "published": "2026-04-24T14:46:07+00:00",
+      "summary": "<h4>Latest in long-running pwning of Cisco kit found in mystery Fed agency</h4> <p>A US federal agency was successfully targeted by a previously unknown backdoor malware called Firestarter, according to CISA cybersnoops and their UK counterparts \u2013 neither of which disclosed the agency's name.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "c137c7a8c556741d6757c53ffe54f88d609787cc",
-      "title": "Do Ceasefires Slow Cyberattacks? History Suggests Not",
-      "url": "https://www.darkreading.com/cybersecurity-analytics/ceasefires-slow-cyberattacks-history",
-      "published": "2026-04-09T18:15:00+00:00",
-      "summary": "The cybersecurity community is waiting with bated breath to see if Iranian hackers will honor a ceasefire that doesn't actually name or directly involve them.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt4f984646e283dc63/69d7e0dab4e85cb34394103b/US_Iran_flags-Karen_Hovsepyan-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "id": "b420a0d4cbb64ae0a932db127f58ac2d5e1092f5",
+      "title": "More ancient Linux device support faces the chop",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/24/ancient_linux_drivers_going/",
+      "published": "2026-04-24T14:15:10+00:00",
+      "summary": "<h4>One way to deal with bug hunting LLMs: ditch the old drivers</h4> <p>One tactic to deal with LLM-powered vulnerability detection is simple \u2013 just speed up the removal of old code. If it's gone, it no longer matters if it's buggy.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "556337c530b8b2fff8e3c109755a0b511f2ba58d",
+      "title": "Intel bets the farm on AI inference to drag CPU back to the top table",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/24/intel_expects_ai_inference_to/",
+      "published": "2026-04-24T12:50:36+00:00",
+      "summary": "<h4>Chipzilla hopes agents, robots, and edge devices make CPUs cool again... now it has to build the chips</h4> <p>Intel is betting on AI to reverse its fortunes, wagering that inference and agentic workloads will restore the CPU to the center of compute - even as its chip manufacturing struggles persist.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
       "id": "2c8227e0a7a250a11933da79ec8feac6c47acad9",
@@ -1707,61 +1762,6 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "e4fe7033bb04f7154fb25fca2d64602257aecea3",
-      "title": "North Korea targets macOS users in latest heist",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/16/north_korea_social_engineering_macos/",
-      "published": "2026-04-16T18:20:12+00:00",
-      "summary": "<h4>Social engineering: 'low-cost, hard to patch, and scales well'</h4> <p>North Korean criminals set on stealing Apple users' credentials and cryptocurrency are using a combination of social engineering and a fake Zoom software update to trick people into manually running malware on their own computers, according to Microsoft.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "c0a78ae193c95c9049e3a05be2cb0060a96ef989",
-      "title": "Americans who masterminded Nork IT worker fraud sentenced to 200 months behind bars",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/16/nork_it_worker_scam_facilitators_sentenced_200_months/",
-      "published": "2026-04-16T15:13:37+00:00",
-      "summary": "<h4>Fortune 500 companies and one US defense contractor got taken for $5m in four-year scam</h4> <p>Two Americans have been jailed for a combined 200 months for helping North Korea generate $5 million through fraudulent IT worker schemes.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "50e60134a229af58de89565bca614fa849bcbea9",
-      "title": "Git identity spoof fools Claude into giving bad code the nod",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/16/git_identity_spoof_claude/",
-      "published": "2026-04-16T12:57:22+00:00",
-      "summary": "<h4>Forged metadata made AI reviewer treat hostile changes as though they came from known maintainer</h4> <p>Security boffins say Anthropic's Claude can be tricked into approving malicious code with just two Git commands by spoofing a trusted developer's identity.\u2026</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "8973c5236d1d9b28d7d9af2b91e548a2e3b9a2b5",
-      "title": "Textbook titan McGraw Hill on ransomware crew's reading list after 13.5M records exposed",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/16/mcgraw_hill_salesforce/",
-      "published": "2026-04-16T11:49:35+00:00",
-      "summary": "<h4>Publisher claims misconfigured Salesforce-hosted page leaked data</h4> <p>Textbook giant McGraw Hill has landed on a ransomware crew's leak site after an alleged Salesforce-linked misconfiguration spilled 13.5 million records into the wild.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "9aae0e9e203db07a0e36e5aa15fdd94699c09bdf",
-      "title": "Microsoft announces product it doesn't want anyone to buy",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/16/microsoft_exchange_skype/",
-      "published": "2026-04-16T10:01:08+00:00",
-      "summary": "<h4>Just migrate already, would you? But if you can't, Redmond will take your cash</h4> <p>Microsoft will keep delivering security updates for old versions of Exchange Server and Skype for Business Server, after admitting that some customers aren't ready to make the move to newer products.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
       "id": "34f5f0d9fa9b11f7df5d0cd4f2fa087685207d27",
       "title": "\u2018Scattered Spider\u2019 Member \u2018Tylerb\u2019 Pleads Guilty",
       "url": "https://krebsonsecurity.com/2026/04/scattered-spider-member-tylerb-pleads-guilty/",
@@ -1801,6 +1801,28 @@
       "published": "2026-04-06T02:07:17+00:00",
       "summary": "An elusive hacker who went by the handle \"UNKN\" and ran the early Russian ransomware groups GandCrab and REvil now has a name and a face. Authorities in Germany say 31-year-old Russian Daniil Maksimovich Shchukin headed both cybercrime gangs and helped carry out at least 130 acts of computer sabotage and extortion against victims across the country between 2019 and 2021.",
       "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "3487d33570a4c0c35cec43c693f06f5ebe4ab783",
+      "title": "Pre-Stuxnet Sabotage Malware \u2018Fast16\u2019 Linked to US-Iran Cyber Tensions",
+      "url": "https://www.securityweek.com/pre-stuxnet-sabotage-malware-fast16-linked-to-us-iran-cyber-tensions/",
+      "published": "2026-04-24T14:57:18+00:00",
+      "summary": "<p>It targeted high-precision calculation software to tamper with results and packed a self-propagation mechanism.</p>\n<p>The post <a href=\"https://www.securityweek.com/pre-stuxnet-sabotage-malware-fast16-linked-to-us-iran-cyber-tensions/\">Pre-Stuxnet Sabotage Malware &#8216;Fast16&#8217; Linked to US-Iran Cyber Tensions</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "f921ea7cc3023754da06e8dfe371c441d79ebeb5",
+      "title": "In Other News: Unauthorized Mythos Access, Plankey CISA Nomination Ends, New Display Security Device",
+      "url": "https://www.securityweek.com/in-other-news-unauthorized-mythos-access-plankey-cisa-nomination-ends-new-display-security-device/",
+      "published": "2026-04-24T14:31:51+00:00",
+      "summary": "<p>Other noteworthy stories that might have slipped under the radar: Supreme Court hacker sentenced, Lovable exposed user data, Google expands enterprise security.\u00a0</p>\n<p>The post <a href=\"https://www.securityweek.com/in-other-news-unauthorized-mythos-access-plankey-cisa-nomination-ends-new-display-security-device/\">In Other News: Unauthorized Mythos Access, Plankey CISA Nomination Ends, New Display Security Device</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
@@ -1888,28 +1910,6 @@
       "url": "https://www.securityweek.com/cloudsmith-raises-72-million-in-series-c-funding/",
       "published": "2026-04-23T15:03:59+00:00",
       "summary": "<p>The company will use the investment to accelerate product development and grow go-to-market efforts.</p>\n<p>The post <a href=\"https://www.securityweek.com/cloudsmith-raises-72-million-in-series-c-funding/\">Cloudsmith Raises $72 Million in Series C Funding</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "fb87b5d4868d2e769c25ddc5e8622faac8852c72",
-      "title": "Chinese Cybersecurity Firm\u2019s AI Hacking Claims Draw Comparisons to Claude Mythos",
-      "url": "https://www.securityweek.com/chinese-cybersecurity-firms-ai-hacking-claims-draw-comparisons-to-claude-mythos/",
-      "published": "2026-04-23T12:36:45+00:00",
-      "summary": "<p>360 Digital Security Group claims to have uncovered 1,000 vulnerabilities using AI, including at the Tianfu Cup hacking contest.</p>\n<p>The post <a href=\"https://www.securityweek.com/chinese-cybersecurity-firms-ai-hacking-claims-draw-comparisons-to-claude-mythos/\">Chinese Cybersecurity Firm&#8217;s AI Hacking Claims Draw Comparisons to Claude Mythos</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "6f5c13f4e1e050dce47f7e337e22e2b184ff1900",
-      "title": "Rilian Raises $17.5 Million for AI-Native Security Orchestration",
-      "url": "https://www.securityweek.com/rilian-raises-17-5-million-for-ai-native-security-orchestration/",
-      "published": "2026-04-23T11:45:30+00:00",
-      "summary": "<p>The company will hire new talent and expand operations across the US and other allied countries.</p>\n<p>The post <a href=\"https://www.securityweek.com/rilian-raises-17-5-million-for-ai-native-security-orchestration/\">Rilian Raises $17.5 Million for AI-Native Security Orchestration</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
