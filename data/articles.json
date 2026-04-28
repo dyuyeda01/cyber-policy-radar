@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-28T01:27:15.809260+00:00",
+  "generated_at": "2026-04-28T13:21:17.285734+00:00",
   "items": [
     {
       "id": "9fe2bf13d23f8c262980c186fc26dfa9f97d764d",
@@ -110,6 +110,72 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "0b8468ab8aad07f171bf4bc64e675d061f97b084",
+      "title": "Why Secure Data Movement Is the Zero Trust Bottleneck Nobody Talks About",
+      "url": "https://thehackernews.com/2026/04/why-secure-data-movement-is-zero-trust.html",
+      "published": "2026-04-28T11:58:00+00:00",
+      "summary": "Every security program is betting on the same assumption: once a system is connected, the problem is solved. Open a ticket, stand up a gateway, push the data through. Done.\nThat assumption is wrong. It is also a major reason Zero Trust programs stall.\nNew research my team just published puts numbers on it. The Cyber360: Defending the Digital Battlespace report, based on a survey of 500 security",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrVD0Q_dTvO3tooHYWKp7i_lkLd6h30GSv_DDv4jIb_KZDY5heV39R01GFN6MWEq1JsilHFrd7EtDOBkmlkvXYAb7-w51A1SDN3AAiEAbuq7ZnNREakyHouZPVBMNhk_HnEOK8D7H5m51A2zcUvAvDjmPnrrzeZI_nQHFao1QbljV4ortyzuqbXsNR35c/s1600/everfox.jpg"
+    },
+    {
+      "id": "797e5495a26fd6b638d716dcd7878aa5dda0945d",
+      "title": "Critical Unpatched Flaw Leaves Hugging Face LeRobot Open to Unauthenticated RCE",
+      "url": "https://thehackernews.com/2026/04/critical-cve-2026-25874-leaves-hugging.html",
+      "published": "2026-04-28T11:18:00+00:00",
+      "summary": "Cybersecurity researchers have disclosed details of a critical security flaw impacting LeRobot, Hugging Face's open-source robotics platform with nearly 24,000 GitHub stars, that could be exploited to achieve remote code execution.\nThe vulnerability in question is CVE-2026-25874 (CVSS score: 9.3), which has been described as a case of untrusted data deserialization stemming from the use of the",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_yhcF_ELr7WEtcfHJTj6KXaci5hMzJMQzWlKpRwmiUDUDlRiLn5kZFpj4JkLxrqw0JBajNTAmlAxzIkQytW333ZnGJBKeGY-rBsLLrCPqATNkq3TvcBRbi61oogxsv5Z1a2REm5g7cpgfqKq_fnr2B1O1tPHDckGGiBA7YZY0Jcl7nWIzqaDYFGqEm3nZ/s1600/lerobots.jpg"
+    },
+    {
+      "id": "9fc259f4feb33b763f93b0b7b0e849547ba38698",
+      "title": "After Mythos: New Playbooks For a Zero-Window Era",
+      "url": "https://thehackernews.com/2026/04/after-mythos-new-playbooks-for-zero.html",
+      "published": "2026-04-28T10:30:00+00:00",
+      "summary": "When patching isn\u2019t fast enough, NDR helps contain the next era of threats.\nIf you\u2019ve been tracking advancements in AI, you know the exploit window, the short buffer that organizations relied on to patch and protect after a vulnerability disclosure, is closing fast.\nAnthropic\u2019s new model, Claude Mythos, and its Project Glasswing, showed that finding exploitable vulnerabilities and subtle cracks",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzc6SWl21t5zRKK4OvMIg-ZtrnsRwKm8E3dglWBxBpyC_vXdsbGazi1uRcQagObPghUhK33RtvJOFEZ5-W7jCVBV36HOC-iepqOkjgHuvAHkmeoKRvMw-IJ7Cq8KUV5iBwVg-1yLJ7XmTGLab6a4ECZ11eGP8lCOLORbJcng1onSTv_L2aDYHSVmNCMjw/s1600/corelight.jpg"
+    },
+    {
+      "id": "eb92e1e87ffd34f58a2fcb81bbc7b17ab3ea6173",
+      "title": "Chinese Silk Typhoon Hacker Extradited to U.S. Over COVID Research Cyberattacks",
+      "url": "https://thehackernews.com/2026/04/chinese-silk-typhoon-hacker-extradited.html",
+      "published": "2026-04-28T07:57:00+00:00",
+      "summary": "A Chinese national accused of being a member of the Silk Typhoon hacking group has been extradited to the U.S. from Italy.&nbsp;\nXu Zewei, 34, was arrested in July 2025 by Italian authorities for his alleged links to the Chinese state-sponsored threat group and for orchestrating cyber attacks against American organizations and government agencies between February 2020 and June 2021, including",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtGdvCIS6jOvz5WvlLwD34DqwHSyM4DaERfLDinlvQ4UfRqBUsjPp3o-sOVZL-gfqCHrsz53BMM3-fdFlaCLtMLshTfU9ncVM4qqkF9dzjsi9sF8XdMlbXvJSpDUSXdP_h4KN01TbwhT-10z626gUmlgrE4MlyM5lBTmZDKkB-g-xoMVgDFmM0b5sCCzQr/s1600/covid-hacker.png"
+    },
+    {
+      "id": "7d44ce82c7b22166f27b91c51fe615f4b855798b",
+      "title": "Microsoft Patches Entra ID Role Flaw That Enabled Service Principal Takeover",
+      "url": "https://thehackernews.com/2026/04/microsoft-patches-entra-id-role-flaw.html",
+      "published": "2026-04-28T06:37:00+00:00",
+      "summary": "An administrative role meant for artificial intelligence (AI) agents within Microsoft Entra ID could enable privilege escalation and identity takeover attacks, according to new findings from Silverfort.\nAgent ID Administrator is a privileged built-in role introduced by Microsoft as part of its agent identity platform to handle all aspects of an AI agent's identity lifecycle operations in a",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4YomH2AGnUSAePfyyvEMXCbULukirvclzEJ6gnsm30Y2PApuarWfCLpKrBng3qYhhINWPwn99rVtdqKcEtbnVR9jkXkpBY-vDByDzMmZgLPPPrqyodmgqBCfR3ojF1tbyaFHQxIdr8voZgDugagnBymAchRR99uUm_0btEdWYeir8B6njw6Q1lPTcugcB/s1600/azure.jpg"
+    },
+    {
+      "id": "8886c89da04f2cebdc769dfdea50e0d355f5a5ef",
+      "title": "Microsoft Confirms Active Exploitation of Windows Shell CVE-2026-32202",
+      "url": "https://thehackernews.com/2026/04/microsoft-confirms-active-exploitation.html",
+      "published": "2026-04-28T05:50:00+00:00",
+      "summary": "Microsoft on Monday revised its advisory for a now-patched, high-severity security flaw impacting Windows Shell to acknowledge that it has been actively exploited in the wild.\nThe vulnerability in question is CVE-2026-32202 (CVSS score: 4.3), a spoofing vulnerability that could allow an attacker to access sensitive information. It was addressed as part of its Patch Tuesday update for this",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMPU-2lLUg__kJUnPm1HSRP0cTelgKBaXgKDq4ODhX0XTKI83sddz2F_EHiOmoxnTYIkIFYIbFh8JLAMp6lqfK39czq_e1G5Ixe-Y53_-kXBSk0fqVZV6jFpECe1JjAy3ZD3MmnJ71jpZHuPpbNRjB4x7SsmfHNUCMVyzQiST7CTc9m3qteMc4zJ2U_GXo/s1600/windows-exploit.jpg"
     },
     {
       "id": "c823a7e1605b8c312bfe26f3b9eee7d7689b39f3",
@@ -596,72 +662,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcLAcekric_be3bGt2lBu4NxiCcd3FZap2VzD0r9Z8zGegVjwixsexsGVGVmwvLwpaercKHyq9BFA7WV2a_DApLP7qpjg17hE8bu63FHsBoW1wFV0BJmATkuKIM1YU2bf8v9gRPM_tyw8RNINMSXiwzM5jbxjamO8HYm-VsVxgB0lbyRKr4kNuzzRY-JXq/s1600/breach.jpg"
     },
     {
-      "id": "7757d61ca1e65347b35ae533fca2c208204e7dc9",
-      "title": "[Webinar] Eliminate Ghost Identities Before They Expose Your Enterprise Data",
-      "url": "https://thehackernews.com/2026/04/webinar-find-and-eliminate-orphaned-non.html",
-      "published": "2026-04-18T08:07:00+00:00",
-      "summary": "In 2024, compromised service accounts and forgotten API keys were behind 68% of cloud breaches. Not&nbsp;phishing. Not&nbsp;weak passwords. Unmanaged non-human identities that nobody was&nbsp;watching.\nFor every employee in your org, there are 40 to 50 automated credentials: service accounts, API tokens, AI agent connections,&nbsp;and OAuth grants. When&nbsp;projects end or employees leave, most",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6vJpO9kksCQDpSksNkqDFNUCbXD70dMGYqI6P9S_XPMY5d8BR8PVdrsVQP1ZJO_-nzL6eQShM3Cap9heQ5kAglsPjfxwIcXPSsf_cfgUVnGQ2XzIWVOuo7JhxMjnHYDN6r9KlQ6LqZJisRZkjatnWChuzUkSlXRa1hFseUPq28PZ5gjGR7L2WzTFdZ3fM/s1600/ghost.jpg"
-    },
-    {
-      "id": "c05a586b5f7d148209b322c96684eb3562478cb1",
-      "title": "$13.74M Hack Shuts Down Sanctioned Grinex Exchange After Intelligence Claims",
-      "url": "https://thehackernews.com/2026/04/1374m-hack-shuts-down-sanctioned-grinex.html",
-      "published": "2026-04-18T07:59:00+00:00",
-      "summary": "Grinex, a Kyrgyzstan-incorporated cryptocurrency exchange sanctioned by the U.K. and the U.S. last year, said it's suspending operations after it blamed Western intelligence agencies for a $13.74 million hack.\nThe exchange said it fell victim to what it described as a large-scale cyber attack that bore hallmarks of foreign intelligence agency involvement. This attack led to the theft of over 1",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPcUvJCFRqDmEr1ZDSaUJCAymmKwZOeXdmfPY6Eekp7tLOpqjXLKHilHOHlNyuxmennQE8H5oxuRTaCncC8hsoGYEloD8OrDlR1wpbxGivBBB7KdVX8kiv_pOzC6GQ7LNPKoJGkFklpW0XutuLRPjl3I5cPta1n-BqVyAdO1luW3EUR8jyiZEtVjVTGWUK/s1600/grinex.jpg"
-    },
-    {
-      "id": "19c456a6913d092502f8de9df67ede61481f4ac3",
-      "title": "Mirai Variant Nexcorium Exploits CVE-2024-3721 to Hijack TBK DVRs for DDoS Botnet",
-      "url": "https://thehackernews.com/2026/04/mirai-variant-nexcorium-exploits-cve.html",
-      "published": "2026-04-18T06:01:00+00:00",
-      "summary": "Threat actors are exploiting security flaws in TBK DVR and end\u2011of\u2011life (EoL) TP-Link Wi-Fi routers to deploy Mirai-botnet variants on compromised devices, according to findings from Fortinet FortiGuard Labs and Palo Alto Networks Unit 42.\nThe attack targeting TBK DVR devices has been found to exploit CVE-2024-3721 (CVSS score: 6.3), a medium-severity command injection vulnerability affecting",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6cxZZMfiWctk3Me9QO6UlzVRFab0SPGMTzThjpcPHCXm49bQ0rRvtG2W6gicJw4Mi1QUuv-yTDMK5GKJju3QicyjYJwdbA86Ok8w2oU5Vg28l4s0HAVv7_c03dStaM7OPd4Yq0khmm9MeQVUYnCYThMx4JvkCnZZ5PEtCXAA90vKfsAumsMAIw085JIsz/s1600/botnet-ddos.jpg"
-    },
-    {
-      "id": "9e5df7c376e785e1e86113bd0f76a3a1d4ce1461",
-      "title": "Three Microsoft Defender Zero-Days Actively Exploited; Two Still Unpatched",
-      "url": "https://thehackernews.com/2026/04/three-microsoft-defender-zero-days.html",
-      "published": "2026-04-17T13:21:00+00:00",
-      "summary": "Huntress is warning that threat actors are exploiting three recently disclosed security flaws in Microsoft Defender to gain elevated privileges in compromised systems.\nThe activity involves&nbsp;the exploitation of three vulnerabilities that are codenamed BlueHammer (requires GitHub sign-in), RedSun, and UnDefend, all of which were released as zero-days by a researcher known as Chaotic Eclipse (",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJ8x3Yg0CYomOu1IpHfhfmiqJtgaMSnnoE2tJR6RdXGIy1rLRTORge-ukCLYkEj6xzeGTvmuy-68qfU4me_nG7pvwZi21h7ycQFwY3OXCH1_p_g35BAYeaHdz3uRKJD2mQCjUIcxha2WzMePpup2VHarxZVxy3QNtaRAjET-2FK7GemiuvyI8MpNPFVyEQ/s1600/defender.jpg"
-    },
-    {
-      "id": "2afc033340af2956e88ae40ddae90b4e6fb93c26",
-      "title": "Google Blocks 8.3B Policy-Violating Ads in 2025, Launches Android 17 Privacy Overhaul",
-      "url": "https://thehackernews.com/2026/04/google-blocks-83b-policy-violating-ads.html",
-      "published": "2026-04-17T10:47:00+00:00",
-      "summary": "Google this week announced a new set of Play policy updates to strengthen user privacy and protect businesses against fraud, even as it revealed it blocked or removed over 8.3 billion ads globally and suspended 24.9 million accounts in 2025.\nThe new policy updates relate to contact and location permissions in Android, allowing third-party apps to access the contact lists and a user's location in",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj84jgyS7JCiumwEWR-XKLRuLv_sljuCRx-alsYQHKikYlefpZeL1Wqh3GEALkiLdX886cZVY22LQA_ETSoYLrNdEJ4115IkJtXq5v1EMvQdvU-_xS61E89OwwSWXvE-F6Lw6_DH17w0wHHnBfUgqFxsy5cI1rTzinKIgA-X3q08jMLOOci5fkkUbCeIeId/s1600/google-ads-android.jpg"
-    },
-    {
-      "id": "581d1f3e97de4747835fe5edd5d26e0dc18895e5",
-      "title": "NIST Limits CVE Enrichment After 263% Surge in Vulnerability Submissions",
-      "url": "https://thehackernews.com/2026/04/nist-limits-cve-enrichment-after-263.html",
-      "published": "2026-04-17T07:14:00+00:00",
-      "summary": "The National Institute of Standards and Technology (NIST) has announced changes to the way it handles cybersecurity vulnerabilities and exposures (CVEs) listed in its National Vulnerability Database (NVD), stating it will only enrich those that fulfil certain conditions owing to an explosion in CVE submissions.\n\"CVEs that do not meet those criteria will still be listed in the NVD but will not",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrjR1nq2z66LZ-KZoSSgEdNs30l3Wv4kqz4R4acFd3CW2tqG0EDILlATrje1-tvZhdjnU9rSRO4cQNmlQGelsfBGGiMl_m9kxotVRlBDFyMISCJIFUPN78Aam2GAYPL0Nljz4aU5XrrWz2QuxBz-cZvY7vr2zSQJNdgrz3IWLldTPG_n_9tJx22A3TBQzZ/s1600/nist-cve.jpg"
-    },
-    {
       "id": "bce80e604da2a0b7fb062a3784241f5957fb6cb8",
       "title": "UNC6692 Combines Social Engineering, Malware, Cloud Abuse",
       "url": "https://www.darkreading.com/cloud-security/unc6692-social-engineering-malware-cloud-abuse",
@@ -699,7 +699,7 @@
       "title": "Parsing Agentic Offensive Security's Existential Threat",
       "url": "https://www.darkreading.com/cyber-risk/industrialized-exploitation-agentic-offensive-security-existential-threat",
       "published": "2026-04-27T13:00:00+00:00",
-      "summary": "Some fear frontier LLMs like Claude Mythos and Anthropic's GPT-5.5 will lead to cybersecurity annihilation. Ari Herbert-Voss notes this could be an opportunity.",
+      "summary": "Some fear frontier LLMs like Claude Mythos and OpenAI's GPT-5.5 will lead to cybersecurity annihilation. Ari Herbert-Voss notes this could be an opportunity.",
       "source": "DarkReading",
       "region": "North America",
       "country": "US",
@@ -1210,6 +1210,17 @@
       "region": "North America",
       "country": "US",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2e8cc931a1c1d4d4/69dcc2c014d9c34775418603/chinaiptheft_Pixels_Hunter_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
+      "id": "73fdd6d46127dc6f316f57e75c136f8773a3cf47",
+      "title": "SUSE's sovereignty pitch meets an inconvenient $6 billion question",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/28/sovereignty_its_all_about_the/",
+      "published": "2026-04-28T10:00:07+00:00",
+      "summary": "<h4>Linux vendor touts European independence at SUSECON as majority stakeholder quietly explores its options</h4> <p>European-based SUSE devoted much of the annual SUSECON event to its sovereignty-focused pitch - even as reports swirl that its majority stakeholder is exploring a $6 billion sale which could land the Linux vendor in American hands.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
       "id": "edb65777c5ea63d7d1473527130e15b82fc6ac39",
@@ -1751,17 +1762,6 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "a5d6b578a303d613ccf5601ebc69746bb576cd39",
-      "title": "Vibe coding upstart Lovable denies data leak, cites 'intentional behavior,' then throws HackerOne under the bus",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/20/lovable_denies_data_leak/",
-      "published": "2026-04-20T23:26:12+00:00",
-      "summary": "<h4>A lesson in how not to respond to vulnerability reports</h4> <p><strong>UPDATED</strong>\u00a0 Vibe-coding platform Lovable is pooh-poohing a researcher\u2019s finding that anyone could open a free account on the service and read other users' sensitive info, including credentials, chat history, and source code. However, the company\u2019s story keeps changing: First it attributed the publicly exposed info to \"intentional behavior\" and \"unclear documentation,\" then threw bug-bounty service HackerOne under the bus.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
       "id": "34f5f0d9fa9b11f7df5d0cd4f2fa087685207d27",
       "title": "\u2018Scattered Spider\u2019 Member \u2018Tylerb\u2019 Pleads Guilty",
       "url": "https://krebsonsecurity.com/2026/04/scattered-spider-member-tylerb-pleads-guilty/",
@@ -1806,6 +1806,83 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "46d5a2afd262312b700d0163514fce2c4b5c758b",
+      "title": "Dozens of Open VSX Extension Clones Linked to GlassWorm Malware",
+      "url": "https://www.securityweek.com/dozens-of-open-vsx-extension-clones-linked-to-glassworm-malware/",
+      "published": "2026-04-28T12:40:24+00:00",
+      "summary": "<p>Over 70 cloned Open VSX extensions are likely sleeper extensions designed to distribute malware.</p>\n<p>The post <a href=\"https://www.securityweek.com/dozens-of-open-vsx-extension-clones-linked-to-glassworm-malware/\">Dozens of Open VSX Extension Clones Linked to GlassWorm Malware</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "89c8620182a267f287d855aada2e9a1bb738dcc8",
+      "title": "Sevii Launches Cyber Swarm Defense to Make Agentic AI Security Costs Predictable",
+      "url": "https://www.securityweek.com/sevii-launches-cyber-swarm-defense-to-make-agentic-ai-security-costs-predictable/",
+      "published": "2026-04-28T12:00:00+00:00",
+      "summary": "<p>Agentic AI can be expensive to use, causing further and unpredictable pressure on tight budgets.</p>\n<p>The post <a href=\"https://www.securityweek.com/sevii-launches-cyber-swarm-defense-to-make-agentic-ai-security-costs-predictable/\">Sevii Launches Cyber Swarm Defense to Make Agentic AI Security Costs Predictable</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "cd07b7de5020f52f19d38fdf1353cc8e5f4ad537",
+      "title": "Electric Motorcycles and Scooters Face Hacking Risks to Security and Rider Safety",
+      "url": "https://www.securityweek.com/electric-motorcycles-and-scooters-face-hacking-risks-to-security-and-rider-safety/",
+      "published": "2026-04-28T11:57:20+00:00",
+      "summary": "<p>Vulnerabilities in Zero Motorcycles electric motorcycles and Yadea electric scooters can pose physical security and safety risks.</p>\n<p>The post <a href=\"https://www.securityweek.com/electric-motorcycles-and-scooters-face-hacking-risks-to-security-and-rider-safety/\">Electric Motorcycles and Scooters Face Hacking Risks to Security and Rider Safety</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "dbe8aa9dd7a23ed2faaf1a49c446f2cbf2a10195",
+      "title": "No Patch for New PhantomRPC Privilege Escalation Technique in Windows",
+      "url": "https://www.securityweek.com/no-patch-for-new-phantomrpc-privilege-escalation-technique-in-windows/",
+      "published": "2026-04-28T11:31:02+00:00",
+      "summary": "<p>A fake RPC server can be used to listen for RPC requests and impersonate the target service to elevate privileges to System.</p>\n<p>The post <a href=\"https://www.securityweek.com/no-patch-for-new-phantomrpc-privilege-escalation-technique-in-windows/\">No Patch for New PhantomRPC Privilege Escalation Technique in Windows</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "25bcbf2fe2f9bcfa0c2963d66b9d83b532886344",
+      "title": "Germany Suspects Russia Is Behind Signal Phishing That Targeted Top Officials",
+      "url": "https://www.securityweek.com/germany-suspects-russia-is-behind-signal-phishing-that-targeted-top-officials/",
+      "published": "2026-04-28T10:54:57+00:00",
+      "summary": "<p>Federal prosecutors have been conducting a preliminary investigation since mid-February 2026 into alleged cyberattacks on Signal accounts.</p>\n<p>The post <a href=\"https://www.securityweek.com/germany-suspects-russia-is-behind-signal-phishing-that-targeted-top-officials/\">Germany Suspects Russia Is Behind Signal Phishing That Targeted Top Officials</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "4c375327ba03f21e1cba8a8a746b6f21985586d7",
+      "title": "Spectrum Security Emerges From Stealth Mode With $19 Million",
+      "url": "https://www.securityweek.com/spectrum-security-emerges-from-stealth-mode-with-19-million/",
+      "published": "2026-04-28T08:25:41+00:00",
+      "summary": "<p>The threat detection startup will invest in accelerating its engineering and go-to-market efforts.</p>\n<p>The post <a href=\"https://www.securityweek.com/spectrum-security-emerges-from-stealth-mode-with-19-million/\">Spectrum Security Emerges From Stealth Mode With $19 Million</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "91fb38bd5c7032ae4accf18aec406a34531ae6a3",
+      "title": "Medtronic Hack Confirmed After ShinyHunters Threatens Data Leak",
+      "url": "https://www.securityweek.com/medtronic-hack-confirmed-after-shinyhunters-threatens-data-leak/",
+      "published": "2026-04-28T06:35:19+00:00",
+      "summary": "<p>The ShinyHunters cybercrime group claimed to have stolen 9 million records containing personal information from Medtronic.</p>\n<p>The post <a href=\"https://www.securityweek.com/medtronic-hack-confirmed-after-shinyhunters-threatens-data-leak/\">Medtronic Hack Confirmed After ShinyHunters Threatens Data Leak</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "26011ba3d036d60369b986a3c329230df121688b",
       "title": "Incomplete Windows Patch Opens Door to Zero-Click Attacks",
       "url": "https://www.securityweek.com/incomplete-windows-patch-opens-door-to-zero-click-attacks/",
@@ -1833,83 +1910,6 @@
       "url": "https://www.securityweek.com/malicious-ai-prompt-injection-attacks-increasing-but-sophistication-still-low-google/",
       "published": "2026-04-27T12:08:19+00:00",
       "summary": "<p>The tech giant found that many indirect prompt injection attempts are harmless, but some malicious exploits have also been identified.</p>\n<p>The post <a href=\"https://www.securityweek.com/malicious-ai-prompt-injection-attacks-increasing-but-sophistication-still-low-google/\">Malicious AI Prompt Injection Attacks Increasing, but Sophistication Still Low: Google</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "2459f0f6c56810539bd362b64e9007bc6290fd2a",
-      "title": "Energy and Water Management Firm Itron Hacked",
-      "url": "https://www.securityweek.com/energy-and-water-management-firm-itron-hacked/",
-      "published": "2026-04-27T11:18:59+00:00",
-      "summary": "<p>Itron, which serves utilities and cities around the world, discovered unauthorized access to its systems on April 13.</p>\n<p>The post <a href=\"https://www.securityweek.com/energy-and-water-management-firm-itron-hacked/\">Energy and Water Management Firm Itron Hacked</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "88fc5226df655ac188df249635653647bbf48540",
-      "title": "UNC6692 Uses Email Bombing, Social Engineering to Deploy \u2018Snow\u2019 Malware",
-      "url": "https://www.securityweek.com/unc6692-uses-email-bombing-social-engineering-to-deploy-snow-malware/",
-      "published": "2026-04-27T10:44:55+00:00",
-      "summary": "<p>The threat actor infected victims with the Snow malware family \u2013 Snowbelt, Snowglaze, and Snowbasin \u2013 for persistent access.</p>\n<p>The post <a href=\"https://www.securityweek.com/unc6692-uses-email-bombing-social-engineering-to-deploy-snow-malware/\">UNC6692 Uses Email Bombing, Social Engineering to Deploy &#8216;Snow&#8217; Malware</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "7b673f61880f6475a08a3a4cb6e3ddc0352f604b",
-      "title": "Easily Exploitable \u2018Pack2TheRoot\u2019 Linux Vulnerability Leads to Root Access",
-      "url": "https://www.securityweek.com/easily-exploitable-pack2theroot-linux-vulnerability-leads-to-root-access/",
-      "published": "2026-04-27T10:10:14+00:00",
-      "summary": "<p>A race condition in PackageKit allows unprivileged users to escalate privileges when installing packages.</p>\n<p>The post <a href=\"https://www.securityweek.com/easily-exploitable-pack2theroot-linux-vulnerability-leads-to-root-access/\">Easily Exploitable &#8216;Pack2TheRoot&#8217; Linux Vulnerability Leads to Root Access</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "1430844d97760f348b36fcab324ca7d30551381d",
-      "title": "US Launches Sweeping Crackdown on Southeast Asia Cyberscams and Sanctions Cambodian Senator",
-      "url": "https://www.securityweek.com/us-launches-sweeping-crackdown-on-southeast-asia-cyberscams-and-sanctions-cambodian-senator/",
-      "published": "2026-04-27T09:39:33+00:00",
-      "summary": "<p>US conducts sweeping crackdown on Southeast Asian cyberscam operations as part of what officials say is a \u201cnew theater of war\u201d.</p>\n<p>The post <a href=\"https://www.securityweek.com/us-launches-sweeping-crackdown-on-southeast-asia-cyberscams-and-sanctions-cambodian-senator/\">US Launches Sweeping Crackdown on Southeast Asia Cyberscams and Sanctions Cambodian Senator</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "9aef6cf4cc0907287f8e55ec033f407a7512c1e0",
-      "title": "Firefox Vulnerability Allows Tor User Fingerprinting",
-      "url": "https://www.securityweek.com/firefox-vulnerability-allows-tor-user-fingerprinting/",
-      "published": "2026-04-27T08:39:28+00:00",
-      "summary": "<p>The vulnerability is tracked as CVE-2026-6770 and it has been patched with the release of Firefox 150 and Tor 15.0.10.</p>\n<p>The post <a href=\"https://www.securityweek.com/firefox-vulnerability-allows-tor-user-fingerprinting/\">Firefox Vulnerability Allows Tor User Fingerprinting</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "9baf9bc923e3b30ba4d425bb1be9f70934f4ef6a",
-      "title": "China-Linked APT GopherWhisper Abuses Legitimate Services in Government Attacks",
-      "url": "https://www.securityweek.com/china-linked-apt-gopherwhisper-abuses-legitimate-services-in-government-attacks/",
-      "published": "2026-04-25T10:50:00+00:00",
-      "summary": "<p>Dubbed GopherWhisper, the group relies on multiple Go-based backdoors alongside custom loaders and injectors.</p>\n<p>The post <a href=\"https://www.securityweek.com/china-linked-apt-gopherwhisper-abuses-legitimate-services-in-government-attacks/\">China-Linked APT GopherWhisper Abuses Legitimate Services in Government Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "3487d33570a4c0c35cec43c693f06f5ebe4ab783",
-      "title": "Pre-Stuxnet Sabotage Malware \u2018Fast16\u2019 Linked to US-Iran Cyber Tensions",
-      "url": "https://www.securityweek.com/pre-stuxnet-sabotage-malware-fast16-linked-to-us-iran-cyber-tensions/",
-      "published": "2026-04-24T14:57:18+00:00",
-      "summary": "<p>It targeted high-precision calculation software to tamper with results and packed a self-propagation mechanism.</p>\n<p>The post <a href=\"https://www.securityweek.com/pre-stuxnet-sabotage-malware-fast16-linked-to-us-iran-cyber-tensions/\">Pre-Stuxnet Sabotage Malware &#8216;Fast16&#8217; Linked to US-Iran Cyber Tensions</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
