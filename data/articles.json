@@ -1,6 +1,28 @@
 {
-  "generated_at": "2026-04-28T13:21:17.285734+00:00",
+  "generated_at": "2026-04-29T01:30:20.931310+00:00",
   "items": [
+    {
+      "id": "55e35280b250d81be5293c78a86a8662ad289644",
+      "title": "\u2018Fundamental tension\u2019 undermines manufacturers\u2019 cybersecurity",
+      "url": "https://www.cybersecuritydive.com/news/manufacturing-cybersecurity-threats-resilience/818680/",
+      "published": "2026-04-28T14:51:12+00:00",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/EnqYUd6FdjKmGtKHri0pq67ryyI15d-QTBDjXs34JEY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzgzMTI2NTEyLmpwZw==.webp\" /></div></figure><p>A simple security mistake caused roughly one-quarter of all financial losses in the sector in 2025, cybersecurity insurer Resilience said.</p>",
+      "source": "Cybersecurity Dive",
+      "region": "North America",
+      "country": "US",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "6e2730235716b877ebcb87cd828eafcddae9cd6c",
+      "title": "North Korea-linked actor targets Web3 execs in social-engineering campaign",
+      "url": "https://www.cybersecuritydive.com/news/north-korea-web3-execs-social-engineering-hacker/818639/",
+      "published": "2026-04-28T03:42:19+00:00",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/O3HQ8M7n3of2MQgDO4TeZppQAWkrkZa-SCV557HaI5c/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzIxNTE1ODM4LmpwZw==.webp\" /></div></figure><p>Founders and other top executives were compromised to gain access to crypto wallets.</p>",
+      "source": "Cybersecurity Dive",
+      "region": "North America",
+      "country": "US",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
     {
       "id": "9fe2bf13d23f8c262980c186fc26dfa9f97d764d",
       "title": "Major critical infrastructure supplier reports cyberattack",
@@ -90,26 +112,37 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "01ee6c944f416ce4c77a4025e8ab045e363b3445",
-      "title": "Microsoft SharePoint vulnerability widely exposed across multiple countries",
-      "url": "https://www.cybersecuritydive.com/news/microsoft-sharepoint-vulnerability-exposed-multiple-countries/818201/",
-      "published": "2026-04-22T15:49:13+00:00",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/3EqKR6Zo5_cpw3od5YmS8HQeh4mW4kJ4CXKkUfU1h2Q/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xODkwMjQzNTkwLmpwZw==.webp\" /></div></figure><p>The disclosure comes just weeks after a prior SharePoint flaw was discovered.</p>",
-      "source": "Cybersecurity Dive",
+      "id": "46c1be78b8ee725719a133982844ca00d345f19b",
+      "title": "Researchers Discover Critical GitHub CVE-2026-3854 RCE Flaw Exploitable via Single Git Push",
+      "url": "https://thehackernews.com/2026/04/researchers-discover-critical-github.html",
+      "published": "2026-04-28T18:19:00+00:00",
+      "summary": "Cybersecurity researchers have disclosed details of a critical security vulnerability impacting GitHub.com and GitHub Enterprise Server that could allow an authenticated user to obtain remote code execution with a single \"git push\" command.\nThe flaw, tracked as CVE-2026-3854 (CVSS score: 8.7), is a case of command injection that could allow an attacker with push access to a repository to achieve",
+      "source": "The Hacker News",
       "region": "North America",
       "country": "US",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgztlzahKA2HwUQiNDerhbX2l415JinNIW5jaU5tgskPVHqpMhba_NorYL9SSWRzLdSPjSnsxZKQic97f8H2Bx2G0Dsjb58dcdFuZoL0c5Gno3BVvYa4vi62_PNr1Qh-kBYED7YbTPw3fqQklMmnoPV0b1KYaienKHzIAtBuktMqyVCxGU0u8Hkd-zzYeNU/s1600/github.jpg"
     },
     {
-      "id": "1b65301a458c2583e1eb64cb1818462ff3cf61c5",
-      "title": "Phishing \u2014 sometimes with AI\u2019s help \u2014 topped initial-access methods in Q1, Cisco says",
-      "url": "https://www.cybersecuritydive.com/news/phishing-initial-access-ai-cisco/818185/",
-      "published": "2026-04-22T14:47:25+00:00",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/Qz9vXqiswcTCIsszdi8ElkqmCrEe7zYttcgwaC6G95M/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDI3NDE1MTMzLmpwZw==.webp\" /></div></figure><p>Hackers can now spin up fake login pages without writing a single line of code.</p>",
-      "source": "Cybersecurity Dive",
+      "id": "cf6223895a14337227269fe309739a12ceb694d6",
+      "title": "Brazilian LofyGang Resurfaces After Three Years With Minecraft LofyStealer Campaign",
+      "url": "https://thehackernews.com/2026/04/brazilian-lofygang-resurfaces-after.html",
+      "published": "2026-04-28T17:39:00+00:00",
+      "summary": "A cybercrime group of Brazilian origin has resurfaced after more than three years to orchestrate a campaign that targets Minecraft players with a new stealer called LofyStealer (aka GrabBot).\n\"The malware disguises itself as a Minecraft hack called 'Slinky,'\" Brazil-based cybersecurity company ZenoX said in a technical report. \"It uses the official game icon to induce voluntary execution,",
+      "source": "The Hacker News",
       "region": "North America",
       "country": "US",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQf8Wzg1Ms0KVsO546uQuwlR3w_8qW1MQZExs5TgKCGHSNNS1UEnOITq-_y8HIrA_3n_gfq7Hm0IMb-XSRJSsGL1ncRPlPoyDX7cf_wFbEGAJCPkv6ZDBzjN1Nswe9-CMR3Tmn1F5KuVyWGdOkGEIbeI9R7zGKplJPofRFBx-Ru20JOGfAFEpiZOAlDBXh/s1600/hackers.jpg"
+    },
+    {
+      "id": "536360ab9ac93b1817a274626fa164b8590563a5",
+      "title": "VECT 2.0 Ransomware Irreversibly Destroys Files Over 131KB on Windows, Linux, ESXi",
+      "url": "https://thehackernews.com/2026/04/vect-20-ransomware-irreversibly.html",
+      "published": "2026-04-28T14:01:00+00:00",
+      "summary": "Threat hunters are warning that the cybercriminal operation known as VECT 2.0 acts more like a wiper than a ransomware due to a critical flaw in its encryption implementation across Windows, Linux, and ESXi variants that renders recovery impossible even for the threat actors.\nThe fact that VECT's locker permanently destroys large files rather than encrypting them means even victims who opt to",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEji1Auw0eR5oiVkEiB8JPzjSCaFsUUiAOfNHrcsOzO4DElBB4gbQ20uu3p69nojIkLsgxZOj81fa7fK_dchUAx0WINAGMq3X0VSA7LH_Isc1hPAvls76rdLeSYCn40zw8P2xAikVwxb_pclaNQXER8G7nzPO41LAl0-ELu-i60_RLl7CLCWcC9gGrEC8oXw/s1600/vect.gif"
     },
     {
       "id": "0b8468ab8aad07f171bf4bc64e675d061f97b084",
@@ -629,37 +662,59 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihbqFqPAZp1E63toW329kiZdn6SI22yIZDqIGwAsO9Q2_Xi8g6qCWwj0dH2A4LupHGVzobsdiP9dcvAoSzXSKkte4q0yLnAN2V5wsntPma9PIiv4SzNQnU3wkFCztV-N8Dn36S_oP9tq3obvAVOUUPegjGguA1SUVYR2ptZigH9ET-5dTVZU966eoLh9A/s1600/tines.jpg"
     },
     {
-      "id": "e07a51a691d38fa32e77193ecb3f80fa47fdd579",
-      "title": "Anthropic MCP Design Vulnerability Enables RCE, Threatening AI Supply Chain",
-      "url": "https://thehackernews.com/2026/04/anthropic-mcp-design-vulnerability.html",
-      "published": "2026-04-20T10:42:00+00:00",
-      "summary": "Cybersecurity researchers have discovered a critical \"by design\" weakness in the Model Context Protocol's (MCP) architecture that could pave the way for remote code execution and have a cascading effect on the artificial intelligence (AI) supply chain.\n\"This flaw enables Arbitrary Command Execution (RCE) on any system running a vulnerable MCP implementation, granting attackers direct access to",
-      "source": "The Hacker News",
+      "id": "ba1e03be512d1152c38522b7ef9cfe40d4f12e09",
+      "title": "BlueNoroff Uses Fake Zoom Calls to Turn Victims Into Attack Lures",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/bluenoroff-turns-victims-into-new-attack-lures",
+      "published": "2026-04-28T21:38:39+00:00",
+      "summary": "The North Korean group is using stolen victim videos, AI-generated avatars, and fake Zoom calls to scale malware attacks against cryptocurrency executives.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbUnokdbuoiv9j36ekgZbT7VQVSUJBbB4xzoXJKD8iTTO76tSRyhXGdOk2aZKX-RU_WeGyRzHfAf0zwva_cSY7JL5a7Fhmrtzjd-p-kg6JK75nE-nQiSESaDAHlyTN8be1iUFxp9xCq94-1JwZ16pwYZJkKxIFwqa8vNmfxZl8OCXRWnT0GKWOpYVPgbMb/s1600/mcp.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0143cb21f34c0ad9/69f11ed6518c911d5067bb51/deepfake_Smile_Studio_AP_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "60a2d8b38ee8c9dd6a954274641cec499123c4e9",
-      "title": "Researchers Detect ZionSiphon Malware Targeting Israeli Water, Desalination OT Systems",
-      "url": "https://thehackernews.com/2026/04/researchers-detect-zionsiphon-malware.html",
-      "published": "2026-04-20T07:34:00+00:00",
-      "summary": "Cybersecurity researchers have flagged a new malware called ZionSiphon that appears to be specifically designed to target Israeli water treatment and desalination systems.\nThe malware has been codenamed ZionSiphon by Darktrace, highlighting its ability to set up persistence, tamper with local configuration files, and scan for operational technology (OT)-relevant services on the local subnet.",
-      "source": "The Hacker News",
+      "id": "e6f3b52d06de507218c63cbaf1aac41a8a9b3de7",
+      "title": "NSA Chief During Snowden Affair Shares Regrets, Reflections 13 Years Later",
+      "url": "https://www.darkreading.com/cyber-risk/nsa-chief-during-snowden-affair-13-years-later",
+      "published": "2026-04-28T20:38:59+00:00",
+      "summary": "Chris Inglis was the head civilian in charge at the NSA when the Snowden leak exploded. He gets candid about mistakes the organization made, and what CISOs need to know about spotting potential threats, media disclosures, and &quot;enculturation.&quot;",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihoHF4qP6hw3msdH8s3stwjZR1a2Aqp6kSB97wFpmQefaNtVM8lc-Eu0Gv3jeMK2qa9aLGjSSZp3cJGNaE3eft6h17HnKqPGlhLbfkVzLqfv3VW-SEDLToW6z8SGiDeSE8jXdHyNqxqG_a4B34PjM3rbiOddEvQlgOFfbow8n6V_qGB-70uEj9fRrNLVOt/s1600/water.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0469f94bd17817ff/6642699959fdc64aa5f9c5fa/dark-reading-confidential-logo-sq.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "8dd64d4317308660da164f21df3e08b0ec65813c",
-      "title": "Vercel Breach Tied to Context AI Hack Exposes Limited Customer Credentials",
-      "url": "https://thehackernews.com/2026/04/vercel-breach-tied-to-context-ai-hack.html",
-      "published": "2026-04-20T03:35:00+00:00",
-      "summary": "Web infrastructure provider Vercel has disclosed a security breach that allows bad actors to gain unauthorized access to \"certain\" internal Vercel systems.\nThe incident stemmed from the compromise of Context.ai, a third-party artificial intelligence (AI) tool, that was used by an employee at the company.\n\"The attacker used that access to take over the employee's Vercel Google Workspace account,",
-      "source": "The Hacker News",
+      "id": "24130f84f3dc5d05e20bb399ec55f33c221a897e",
+      "title": "Feuding Ransomware Groups Leak Each Other's Data",
+      "url": "https://www.darkreading.com/threat-intelligence/feuding-ransomware-groups-leak-data",
+      "published": "2026-04-28T20:13:30+00:00",
+      "summary": "When 0APT and KryBit attacked each other, they exposed infrastructure and operational data, giving defenders rare insight into ransomware operations.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcLAcekric_be3bGt2lBu4NxiCcd3FZap2VzD0r9Z8zGegVjwixsexsGVGVmwvLwpaercKHyq9BFA7WV2a_DApLP7qpjg17hE8bu63FHsBoW1wFV0BJmATkuKIM1YU2bf8v9gRPM_tyw8RNINMSXiwzM5jbxjamO8HYm-VsVxgB0lbyRKr4kNuzzRY-JXq/s1600/breach.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltbccf743048a8212d/69f10b44d85d6ebcc789c1d4/Hackers_hacking_hackers_Sergio_Azenha_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
+      "id": "de571a1258098ae61f92cff81deea257730a6664",
+      "title": "Vidar Rises to Top of Chaotic Infostealer Market",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/vidar-top-chaotic-infostealer-market",
+      "published": "2026-04-28T19:07:16+00:00",
+      "summary": "The malware has filled the gap created by last year's law enforcement takedowns of Lumma and Rhadamanthys.",
+      "source": "DarkReading",
+      "region": "North America",
+      "country": "US",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3a291e1dc97034df/69efcf5bd9eb8a77ca3cb9e9/infostealer_Bits_And_Splits_shutterstok.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
+      "id": "2abac123feb1001d6928b410c7606efc202c3a82",
+      "title": "Fresh Wave of GlassWorm VS Code Extensions Slices Through Supply Chain",
+      "url": "https://www.darkreading.com/application-security/fresh-glassworm-vs-code-extensions-supply-chain",
+      "published": "2026-04-28T14:59:24+00:00",
+      "summary": "Attackers continue to scale a campaign to seed Open VSX with seemingly benign VS Code extensions that spread self-propagating malware.",
+      "source": "DarkReading",
+      "region": "North America",
+      "country": "US",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt29f294da498da1a6/69b85a4f06fbf45feebd0234/Gummy_Worms_Clear_Brent_Hofacker_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "id": "bce80e604da2a0b7fb062a3784241f5957fb6cb8",
@@ -761,17 +816,6 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt955244a1688ad92a/69ea733c149efc64d46724f4/Mouse_click_Alexey_Stiop_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "d09bdee91de136c2af7766062b4cf51c368dc02f",
-      "title": "Tropic Trooper APT Takes Aim at Home Routers, Japanese Targets",
-      "url": "https://www.darkreading.com/threat-intelligence/tropic-trooper-apt-takes-aim-home-routers-japanese-targets",
-      "published": "2026-04-24T01:00:00+00:00",
-      "summary": "The Chinese state-sponsored cyber threat is known for moving fast and trying odd attack vectors; now it's branching out in tools, victimology, and TTPs.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf6b44cf37bbcf09b/69ea75dbb14e60a8c0fb9e7b/tropical1800_Marc_Anderson_alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
       "id": "323154552b436717d637754962f5f550de5661ae",
       "title": "Chinese APT Abuses Multiple Cloud Tools to Spy on Mongolia",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/chinese-apt-abuses-cloud-tools-spy-mongolia",
@@ -781,6 +825,17 @@
       "region": "North America",
       "country": "US",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt17fc2cec7ba9f5b3/69e90f257417a71b03305c14/Beijing_Ulaanbaatar-Trevor_Mogg-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
+      "id": "d09bdee91de136c2af7766062b4cf51c368dc02f",
+      "title": "Tropic Trooper APT Takes Aim at Home Routers, Japanese Targets",
+      "url": "https://www.darkreading.com/threat-intelligence/tropic-trooper-apt-takes-aim-home-routers-japanese-targets",
+      "published": "2026-04-24T01:00:00+00:00",
+      "summary": "The Chinese state-sponsored cyber threat is known for moving fast and trying odd attack vectors; now it's branching out in tools, victimology, and TTPs.",
+      "source": "DarkReading",
+      "region": "North America",
+      "country": "US",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf6b44cf37bbcf09b/69ea75dbb14e60a8c0fb9e7b/tropical1800_Marc_Anderson_alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "id": "90036058153addec1a7470ee8c4c79678fdc06d8",
@@ -1157,59 +1212,26 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1de06bcc392cd3d2/69de27d006575b379cbdd89f/Wargames_TCDProdDB_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "da50cb2079cbcc393824f1ff2a4aee95fcf3da53",
-      "title": "Why Orgs Need to Test Networks to Withstand DDoS Attacks During Peak Loads",
-      "url": "https://www.darkreading.com/cloud-security/test-networks-withstand-ddos-attacks-peak-loads",
-      "published": "2026-04-13T21:48:09+00:00",
-      "summary": "Security teams can't test distributed denial-of-service defenses in a vacuum. They need to test during periods of high demand, such as tax-filing deadlines.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc0c8d87f3c20fa1c/66169caf7b452bb8cbf7e896/DDoS_Dragon_Claws_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "id": "82caaf6de7c7c8d48077f913e27cd6003afc2c1d",
+      "title": "Don't pay Vect a ransom - your data's likely already wiped out",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/28/dont_pay_vect_a_ransom/",
+      "published": "2026-04-28T18:36:31+00:00",
+      "summary": "<h4>'Full recovery is impossible for anyone, including the attacker'</h4> <p>Organizations hit by the wave of Trivy and LiteLLM supply-chain compromises that paid Vect in hopes of recovering their data likely did not get much back, according to Check Point Research. That's because the ransomware Vect uses isn't actually ransomware at all, but a wiper that destroys any file larger than 128KB.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "1259f45526c08418899d50e57cc38b71119c228e",
-      "title": "CSA: CISOs Should Prepare for Post-Mythos Exploit Storm",
-      "url": "https://www.darkreading.com/cloud-security/csa-cisos-prepare-post-mythos-exploit-storm",
-      "published": "2026-04-13T21:29:31+00:00",
-      "summary": "In a new report from the Cloud Security Alliance (CSA), experts warn of an &quot;AI vulnerability storm&quot; triggered by the introduction of Anthropic's Claude Mythos.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt4847d5811e1a5d6d/69dd4bee41dce10dda27cdb9/storm_Doug_McCutcheon_LGPL_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
-      "id": "7215781067e13565c00279eb847d084f9f1a100e",
-      "title": "Adobe Patches Actively Exploited Zero-Day That Lingered for Months",
-      "url": "https://www.darkreading.com/application-security/adobe-patches-actively-exploited-zero-day",
-      "published": "2026-04-13T20:52:38+00:00",
-      "summary": "An attacker has been using maliciously crafted PDF files to exploit a zero-day in Adobe Acrobat and Reader for at least four months.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8988803ceeda1900/69dd49a17d660065071bed39/adobe_PJ_McDonnell_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
-      "id": "f91fa1eb8d2859f7019c1bb9a0c54c70d57d4718",
-      "title": "Empty Attestations: OT Lacks the Tools for Cryptographic Readiness",
-      "url": "https://www.darkreading.com/ics-ot-security/ot-lacks-tools-cryptographic-readiness",
-      "published": "2026-04-13T19:10:55+00:00",
-      "summary": "OT asset owners are being asked by regulators to attest to their post-quantum cryptographic readiness without the appropriate tooling, resulting in paperwork dressed up to look like genuine security.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt763a68df93335d36/69dd3c843775488332820d53/Quantum_Cryptography_Nick_Gregory_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
-      "id": "0296323a74a9cdf34e65b8f91b906c5dedf42b35",
-      "title": "APT41 Delivers 'Zero-Detection' Backdoor to Harvest Cloud Credentials",
-      "url": "https://www.darkreading.com/cloud-security/apt41-zero-detection-backdoor-harvest-cloud-credentials",
-      "published": "2026-04-13T15:08:12+00:00",
-      "summary": "The prolific China-backed threat group is targeting AWS, Google, Azure, and Alibaba cloud environments and using typosquatting to obscure C2 communication.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2e8cc931a1c1d4d4/69dcc2c014d9c34775418603/chinaiptheft_Pixels_Hunter_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "id": "dd361428abbbfd8ce13d65e568fdef55991dadef",
+      "title": "Have I Been Pwned claims Pitney Bowes hit by 8.2M email address leak",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/28/pitney_bowes_is_the_latest/",
+      "published": "2026-04-28T14:15:07+00:00",
+      "summary": "<h4>Names, phone numbers, physical addresses also included in Shiny Hunters alleged data dump</h4> <p>Logistics technology company Pitney Bowes, which makes franking machines for US postage, is the latest scalp claimed by ShinyHunters and its ongoing spree of pay-or-leak attacks against major organizations.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
       "id": "73fdd6d46127dc6f316f57e75c136f8773a3cf47",
@@ -1740,28 +1762,6 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "9133ae57a3a7ef4a76a9ef887c26b77ed1d19f41",
-      "title": "Panasonic creates device-locked QR codes to speed facial biometric capture",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/21/panasonic_locked_qr_codes/",
-      "published": "2026-04-21T07:37:42+00:00",
-      "summary": "<h4>Admins are tired of taking photos, so this enables secure on-site unattended enrolment</h4> <p>Japanese industrial giant Panasonic has created a new form of QR code it says will only work on designated devices and environments.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "31b11b496edcf8a9676b46467bb70c93c7cf7dc1",
-      "title": "Iran claims US used backdoors to knock out networking equipment during war",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/21/iran_claims_us_used_backdoors/",
-      "published": "2026-04-21T06:21:36+00:00",
-      "summary": "<h4>And China is loving it</h4> <p>Iranian media is claiming that the US used backdoors and/or botnets to disable networking equipment during the current war, and Chinese state media is dining out on the allegations.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
       "id": "34f5f0d9fa9b11f7df5d0cd4f2fa087685207d27",
       "title": "\u2018Scattered Spider\u2019 Member \u2018Tylerb\u2019 Pleads Guilty",
       "url": "https://krebsonsecurity.com/2026/04/scattered-spider-member-tylerb-pleads-guilty/",
@@ -1806,6 +1806,72 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "2ac70e269d9f3a8b741e5a67554e9543c5e28335",
+      "title": "Cyber Insurance Data Gives CISOs New Ammo for Budget Talks",
+      "url": "https://www.securityweek.com/cyber-insurance-data-gives-cisos-new-ammo-for-budget-talks/",
+      "published": "2026-04-28T18:32:11+00:00",
+      "summary": "<p>Boards may ignore alerts, but they listen to losses: new data from Resilience links security gaps directly to financial impact.</p>\n<p>The post <a href=\"https://www.securityweek.com/cyber-insurance-data-gives-cisos-new-ammo-for-budget-talks/\">Cyber Insurance Data Gives CISOs New Ammo for Budget Talks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "e1979007f3f52a43bbdccd5988d0b19255f48fe6",
+      "title": "Vimeo Confirms User and Customer Data Breach",
+      "url": "https://www.securityweek.com/vimeo-confirms-user-and-customer-data-breach/",
+      "published": "2026-04-28T17:11:55+00:00",
+      "summary": "<p>The ShinyHunters group is threatening to leak stolen files unless Vimeo agrees to pay a ransom.</p>\n<p>The post <a href=\"https://www.securityweek.com/vimeo-confirms-user-and-customer-data-breach/\">Vimeo Confirms User and Customer Data Breach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "8fcaf315251b04f3b388c15e592c317106b7ef0f",
+      "title": "The Mythos Moment: Enterprises Must Fight Agents with Agents",
+      "url": "https://www.securityweek.com/the-mythos-moment-enterprises-must-fight-agents-with-agents/",
+      "published": "2026-04-28T15:45:00+00:00",
+      "summary": "<p>Only with the right platform and an agentic, AI-driven defense, will enterprises be able to protect themselves in the agentic era.</p>\n<p>The post <a href=\"https://www.securityweek.com/the-mythos-moment-enterprises-must-fight-agents-with-agents/\">The Mythos Moment: Enterprises Must Fight Agents with Agents</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "6f2ce6f15e7d80ea4491b22c6e6c2ee6ad7dd639",
+      "title": "Webinar Today: A Step-by-Step Approach to AI Governance",
+      "url": "https://www.securityweek.com/webinar-today-a-step-by-step-approach-to-ai-governance/",
+      "published": "2026-04-28T15:29:45+00:00",
+      "summary": "<p>Join the webinar to explore a practical, multi-layered roadmap to transition from fragmented AI usage to a governed, scalable ecosystem.</p>\n<p>The post <a href=\"https://www.securityweek.com/webinar-today-a-step-by-step-approach-to-ai-governance/\">Webinar Today: A Step-by-Step Approach to AI Governance</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "74a008aacb3c5ecdaee220e54955f7f73ef7cb13",
+      "title": "Robinhood Vulnerability Exploited for Phishing Attacks",
+      "url": "https://www.securityweek.com/robinhood-vulnerability-exploited-for-phishing-attacks/",
+      "published": "2026-04-28T14:49:51+00:00",
+      "summary": "<p>Legitimate-looking emails coming from Robinhood systems lured recipients to phishing websites.</p>\n<p>The post <a href=\"https://www.securityweek.com/robinhood-vulnerability-exploited-for-phishing-attacks/\">Robinhood Vulnerability Exploited for Phishing Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "85246064a5c9abfb1a69359c0b46989f82f79f4d",
+      "title": "Alleged Chinese State Hacker Extradited to US",
+      "url": "https://www.securityweek.com/alleged-chinese-state-hacker-extradited-to-us/",
+      "published": "2026-04-28T13:36:12+00:00",
+      "summary": "<p>A member of Silk Typhoon, Xu Zewei is accused of launching cyberattacks against universities in the US.</p>\n<p>The post <a href=\"https://www.securityweek.com/alleged-chinese-state-hacker-extradited-to-us/\">Alleged Chinese State Hacker Extradited to US</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "46d5a2afd262312b700d0163514fce2c4b5c758b",
       "title": "Dozens of Open VSX Extension Clones Linked to GlassWorm Malware",
       "url": "https://www.securityweek.com/dozens-of-open-vsx-extension-clones-linked-to-glassworm-malware/",
@@ -1844,72 +1910,6 @@
       "url": "https://www.securityweek.com/no-patch-for-new-phantomrpc-privilege-escalation-technique-in-windows/",
       "published": "2026-04-28T11:31:02+00:00",
       "summary": "<p>A fake RPC server can be used to listen for RPC requests and impersonate the target service to elevate privileges to System.</p>\n<p>The post <a href=\"https://www.securityweek.com/no-patch-for-new-phantomrpc-privilege-escalation-technique-in-windows/\">No Patch for New PhantomRPC Privilege Escalation Technique in Windows</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "25bcbf2fe2f9bcfa0c2963d66b9d83b532886344",
-      "title": "Germany Suspects Russia Is Behind Signal Phishing That Targeted Top Officials",
-      "url": "https://www.securityweek.com/germany-suspects-russia-is-behind-signal-phishing-that-targeted-top-officials/",
-      "published": "2026-04-28T10:54:57+00:00",
-      "summary": "<p>Federal prosecutors have been conducting a preliminary investigation since mid-February 2026 into alleged cyberattacks on Signal accounts.</p>\n<p>The post <a href=\"https://www.securityweek.com/germany-suspects-russia-is-behind-signal-phishing-that-targeted-top-officials/\">Germany Suspects Russia Is Behind Signal Phishing That Targeted Top Officials</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "4c375327ba03f21e1cba8a8a746b6f21985586d7",
-      "title": "Spectrum Security Emerges From Stealth Mode With $19 Million",
-      "url": "https://www.securityweek.com/spectrum-security-emerges-from-stealth-mode-with-19-million/",
-      "published": "2026-04-28T08:25:41+00:00",
-      "summary": "<p>The threat detection startup will invest in accelerating its engineering and go-to-market efforts.</p>\n<p>The post <a href=\"https://www.securityweek.com/spectrum-security-emerges-from-stealth-mode-with-19-million/\">Spectrum Security Emerges From Stealth Mode With $19 Million</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "91fb38bd5c7032ae4accf18aec406a34531ae6a3",
-      "title": "Medtronic Hack Confirmed After ShinyHunters Threatens Data Leak",
-      "url": "https://www.securityweek.com/medtronic-hack-confirmed-after-shinyhunters-threatens-data-leak/",
-      "published": "2026-04-28T06:35:19+00:00",
-      "summary": "<p>The ShinyHunters cybercrime group claimed to have stolen 9 million records containing personal information from Medtronic.</p>\n<p>The post <a href=\"https://www.securityweek.com/medtronic-hack-confirmed-after-shinyhunters-threatens-data-leak/\">Medtronic Hack Confirmed After ShinyHunters Threatens Data Leak</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "26011ba3d036d60369b986a3c329230df121688b",
-      "title": "Incomplete Windows Patch Opens Door to Zero-Click Attacks",
-      "url": "https://www.securityweek.com/incomplete-windows-patch-opens-door-to-zero-click-attacks/",
-      "published": "2026-04-27T13:09:27+00:00",
-      "summary": "<p>The initial vulnerability was exploited by Russia-linked APT28 in attacks against Ukraine and EU countries.</p>\n<p>The post <a href=\"https://www.securityweek.com/incomplete-windows-patch-opens-door-to-zero-click-attacks/\">Incomplete Windows Patch Opens Door to Zero-Click Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "27315d9f0be71b57f1a5b8adaa9a298f1bb478ad",
-      "title": "OpenSSH Flaw Allowing Full Root Shell Access Lurked for 15 Years",
-      "url": "https://www.securityweek.com/openssh-flaw-allowing-full-root-shell-access-lurked-for-15-years/",
-      "published": "2026-04-27T12:29:18+00:00",
-      "summary": "<p>A code reuse issue enabled comma characters in certificate principals to be interpreted as list separators.</p>\n<p>The post <a href=\"https://www.securityweek.com/openssh-flaw-allowing-full-root-shell-access-lurked-for-15-years/\">OpenSSH Flaw Allowing Full Root Shell Access Lurked for 15 Years</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "5ba8494f8be0ac695b3b29bb52738eeb55287b72",
-      "title": "Malicious AI Prompt Injection Attacks Increasing, but Sophistication Still Low: Google",
-      "url": "https://www.securityweek.com/malicious-ai-prompt-injection-attacks-increasing-but-sophistication-still-low-google/",
-      "published": "2026-04-27T12:08:19+00:00",
-      "summary": "<p>The tech giant found that many indirect prompt injection attempts are harmless, but some malicious exploits have also been identified.</p>\n<p>The post <a href=\"https://www.securityweek.com/malicious-ai-prompt-injection-attacks-increasing-but-sophistication-still-low-google/\">Malicious AI Prompt Injection Attacks Increasing, but Sophistication Still Low: Google</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
