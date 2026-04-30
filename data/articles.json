@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-30T01:28:40.186403+00:00",
+  "generated_at": "2026-04-30T13:13:50.896327+00:00",
   "items": [
     {
       "id": "f2e0575de15d8de60b93afd04e2c846e9c0a6ac8",
@@ -112,11 +112,55 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "c798d2d2f5f1d36f5d824bae9a50b3348162ca1f",
+      "title": "New Python Backdoor Uses Tunneling Service to Steal Browser and Cloud Credentials",
+      "url": "https://thehackernews.com/2026/04/new-python-backdoor-uses-tunneling.html",
+      "published": "2026-04-30T12:36:00+00:00",
+      "summary": "Cybersecurity researchers have disclosed details of a stealthy Python-based backdoor framework called DEEP#DOOR that comes with capabilities to establish persistent access and harvest a wide range of sensitive information from compromised hosts.\n\"The intrusion chain begins with execution of a batch script ('install_obf.bat') that disables Windows security controls, dynamically extracts an",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnv1KtLLlZSnm9a16bN-o_szrBiAIN_QljTfe09K4RzFxSqhFADtuXmRzOPZ_Poazif-VadFAnRnboCWX5yZtc5JntGopn5Fy6T1X2BexXelFOxYtEA7qULoTCkAMwEybLf42JJ_yGjSPf_T-tjYvbqxscVgZ6OyL65yKcTjC0KQL48pgYLZUmLjxfBBhd/s1600/malware-data.jpg"
+    },
+    {
+      "id": "415f3385fd0393af446abef9f68ca14a3206df3a",
+      "title": "EtherRAT Distribution Spoofing Administrative Tools via GitHub Facades",
+      "url": "https://thehackernews.com/2026/04/etherrat-distribution-spoofing.html",
+      "published": "2026-04-30T11:30:00+00:00",
+      "summary": "Intro\nA sophisticated, high-resilience malicious campaign was identified by Atos Threat Research Center (TRC) in March 2026. This operation specifically targets the high-privilege professional accounts of enterprise administrators, DevOps engineers, and security analysts by impersonating administrative utilities they rely on for daily operations. By integrating&nbsp;Search Engine Order (SEO)",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8d19xBfapc_ToA1XOK4xdQ815tfHldoYH0Cy7zsTwOoWlFNQDdubeXMv4Udo6DaFXWJK3lG4meqdmtLAuaCMfa7R1KM_EfiGE5cZItYx6NdnqjB-R_6neMFv5iIG6SjUDkRUUiZg_j7oOaueXGZb4M-K7EmJM3MCjSvgxfok9gTFNd9Qwdf-AKu_DsP4/s1600/github-2.jpg"
+    },
+    {
+      "id": "8cfd0d3a26c753500ee233ce857f0394eef8d9a3",
+      "title": "New Linux 'Copy Fail' Vulnerability Enables Root Access on Major Distributions",
+      "url": "https://thehackernews.com/2026/04/new-linux-copy-fail-vulnerability.html",
+      "published": "2026-04-30T09:24:00+00:00",
+      "summary": "Cybersecurity researchers have disclosed details of a Linux local privilege escalation (LPE) flaw that could allow an unprivileged local user to obtain root.\nThe high-severity vulnerability tracked as CVE-2026-31431 (CVSS score: 7.8) has been codenamed Copy Fail by Xint.io and Theori.\n\"An unprivileged local user can write four controlled bytes into the page cache of any readable file on a Linux",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYpnBkrLNj-dAKcwAbvRIvfXg8YDXoO3yfrl3vvXBOBwo2zga2asWZ0at4FLcLbiqQ1N7BsYA2szKbuqeVLBkrD80tMqYguBbqvrhEude6Fe9ayQpNs-meP8h4-f6ReWVeIU0zYp31XU7K-Kgxm5OKdI77HPQWgTx41al_WH3gYkMjEoROl6zvXF8HPRf5/s1600/root.jpg"
+    },
+    {
+      "id": "15a54f0c111de7f3a4dcb6fbcc04043d02a7d4ef",
+      "title": "Google Fixes CVSS 10 Gemini CLI CI RCE and Cursor Flaws Enable Code Execution",
+      "url": "https://thehackernews.com/2026/04/google-fixes-cvss-10-gemini-cli-ci-rce.html",
+      "published": "2026-04-30T07:07:00+00:00",
+      "summary": "Google has addressed a maximum severity security flaw in Gemini CLI -- the \"@google/gemini-cli\" npm package and the \"google-github-actions/run-gemini-cli\" GitHub Actions workflow -- that could have allowed attackers to execute arbitrary commands on host systems.\n\"The vulnerability allowed an unprivileged external attacker to force their own malicious content to load as Gemini configuration,\"",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoqSVEXaseT8C79cbC1Wjec2TiF4nMK72XiCPL3WBxqwNy9iUk5CSEqSXgwJFRug0zXq5foMAXzMYCSIP0nEnr-CxCeYFgjmVcOfPtK4nocQaGDzIFecL9SScOScUhVAgGkff6wO5ks-sqWA_KCEZnfrQhfViSGai-g0MOd2IHOYX_N03JvwIipkQ1gso7/s1600/gemini-cursor.jpg"
+    },
+    {
       "id": "ebfd08a56f6e0f9e521e112903a59cf5ac5eb0a7",
       "title": "SAP-Related npm Packages Compromised in Credential-Stealing Supply Chain Attack",
       "url": "https://thehackernews.com/2026/04/sap-npm-packages-compromised-by-mini.html",
       "published": "2026-04-29T16:26:00+00:00",
-      "summary": "Cybersecurity researchers are sounding the alarm about a new supply chain attack campaign targeting SAP-related npm Packages with credential-stealing malware.\nAccording to reports from Aikido Security, SafeDep, Socket, StepSecurity, and Google-owned Wiz, the campaign \u2013 calling itself the mini Shai-Hulud \u2013 has affected the following packages associated with SAP's JavaScript and cloud application",
+      "summary": "Cybersecurity researchers are sounding the alarm about a new supply chain attack campaign targeting SAP-related npm Packages with credential-stealing malware.\nAccording to reports from Aikido Security, Onapsis, OX Security,&nbsp;SafeDep, Socket, StepSecurity, and Google-owned Wiz, the campaign \u2013 calling itself the mini Shai-Hulud \u2013 has affected the following packages associated with SAP's",
       "source": "The Hacker News",
       "region": "North America",
       "country": "US",
@@ -160,7 +204,7 @@
       "title": "Critical cPanel Authentication Vulnerability Identified \u2014 Update Your Server Immediately",
       "url": "https://thehackernews.com/2026/04/critical-cpanel-authentication.html",
       "published": "2026-04-29T09:37:00+00:00",
-      "summary": "cPanel has released security updates to address a security issue impacting various authentication paths that could allow an attacker to obtain access to the control panel software.\nThe problem affects all currently supported versions, according to an alert released by cPanel on Tuesday. The issue has been addressed in the following versions -\n\n11.110.0.97\n11.118.0.63\n11.126.0.54\n11.132.0.29",
+      "summary": "cPanel has released security updates to address a security issue impacting various authentication paths that could allow an attacker to obtain access to the control panel software.\nThe problem affects all currently supported versions of cPanel and WebHost Manager (WHM), according to an alert published by WebPros on Tuesday. It does not have an official identifier. The issue has been addressed in",
       "source": "The Hacker News",
       "region": "North America",
       "country": "US",
@@ -616,50 +660,6 @@
       "region": "North America",
       "country": "US",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQ3NMjiDO5jGFykZtDgbq7FvB0nT8CMXMucn5cumu_V80blg8Wt6cklpQnCeG-EuX6oGvqmQKRJxFlmynTBatMk0zgDDsdurGDcs5rXScEF_jVNV10bEqJSJcj5YsAtLS_Pag8LRPrUZr4w9M-JJldxaYYMxtf3zrGia8QjUq-PtjLk_g4-qkkINXx4uGY/s1600/sandbox.jpg"
-    },
-    {
-      "id": "5b0c6ed719bb687e8effa8b96edce777b436d484",
-      "title": "SystemBC C2 Server Reveals 1,570+ Victims in The Gentlemen Ransomware Operation",
-      "url": "https://thehackernews.com/2026/04/systembc-c2-server-reveals-1570-victims.html",
-      "published": "2026-04-21T18:18:00+00:00",
-      "summary": "Threat actors associated with The Gentlemen ransomware\u2011as\u2011a\u2011service (RaaS) operation have been observed attempting to deploy a known proxy malware called SystemBC.\nAccording to new research published by Check Point, the command-and-control (C2 or C&amp;C) server linked to SystemBC has led to the discovery of a botnet of more than 1,570 victims.\n\"SystemBC establishes SOCKS5 network tunnels within",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilP_Mn9bBsagBDSKxEcqQsy6typf-qNaLt59kGWS1jLvc22Z9AC8lY93_TZaBAUN3bx7PHgaGX8xfPIIipQgGZd5DViTIHxpnAS2mJj4X9EfkFWwlwPznOEgqu38CmzzUa4y4jUh6x0RBMkCG7AwRwLU6PhLNbbnOO1bq5sJxGVIy0GZije7IuCYZNuS4C/s1600/botnet.jpg"
-    },
-    {
-      "id": "aacfbeb7a9c6180a59ec5d0016b748469a13f728",
-      "title": "22 BRIDGE:BREAK Flaws Expose Thousands of Lantronix and Silex Serial-to-IP Converters",
-      "url": "https://thehackernews.com/2026/04/22-bridgebreak-flaws-expose-20000.html",
-      "published": "2026-04-21T15:46:00+00:00",
-      "summary": "Cybersecurity researchers have identified 22 new vulnerabilities in popular models of serial-to-IP converters from Lantronix and Silex that could be exploited to hijack susceptible devices and tamper with data exchanged by them.\nThe vulnerabilities have been collectively codenamed BRIDGE:BREAK by Forescout Research Vedere Labs, which identified nearly 20,000 Serial-to-Ethernet converters exposed",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguDEDMst3MIdrJaNrbo9p_7mjaF2nB_5UuQZR2JhNRNPw8h619BhPWYUZ0yYD-ix_jIluuAwjip4ho4huSuYqr4lXcperdn-4_tFKZ6yivKeOuDJd9O-1EDiwIvD1sPwRGL6keOFr5muqqXp2GWdOlpmi9_uQyREP_iiEz0ZoX-W4ACBSxYarYPb4CJTIY/s1600/hardware.jpg"
-    },
-    {
-      "id": "7ff5ec33c8d089550472ffa858a55401d9cf468b",
-      "title": "Ransomware Negotiator Pleads Guilty to Aiding BlackCat Attacks in 2023",
-      "url": "https://thehackernews.com/2026/04/ransomware-negotiator-pleads-guilty-to.html",
-      "published": "2026-04-21T14:31:00+00:00",
-      "summary": "A third individual who was employed as a ransomware negotiator has pleaded guilty to conducting ransomware attacks against U.S. companies in 2023.\nAngelo Martino, 41, of Land O'Lakes, Florida, teamed up with the operators of the BlackCat ransomware starting in April 2023 to assist the e-crime gang in extracting higher amounts as ransoms.\n\"Working as a negotiator on behalf of five different",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhau3OWhO8rBZT2xz8xcZ90Y8tYMmkZCI81G0GGeUkEHBQi4HzltJJJkzdQr6YS-4R8kZKSAf6Dc9YT6ifgHjmdQSpBvRgJbkEvzIW1dy57LQHQBJkc0YXS3zdYy6TTH8rklsIUGX32R0nk3hBrcYt804nqjBOND_ighh-SHyHHHBt-sJhfOszExZfVmwW8/s1600/ransomware-hacker.jpg"
-    },
-    {
-      "id": "4d8c9cca97c97ecbf58d8f7f0feae0c2d25cd590",
-      "title": "5 Places where Mature SOCs Keep MTTR Fast and Others Waste Time",
-      "url": "https://thehackernews.com/2026/04/5-places-where-mature-socs-keep-mttr.html",
-      "published": "2026-04-21T13:00:00+00:00",
-      "summary": "Security teams often present MTTR as an internal KPI. Leadership sees it differently: every hour a threat dwells inside the environment is an hour of potential data exfiltration, service disruption, regulatory exposure, and brand damage.&nbsp;\nThe root cause of slow MTTR is almost never \"not enough analysts.\" It is almost always the same structural problem: threat intelligence that exists",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZct3ObvKWOQuvm1iZXNZ2nc7pHglILHvCbnLW1HDwUNdkgjuBap_OEBwgsXuxXBkIqmlYLgcccvPt28Knlm3jG5B3MOsXk40-bBUlhVLU3BqjWwSlxuSbiyfwHj-S15tikmwmgH37VhkaM5lMC2sL7bod_uOo0VxatuOekhYxdmkci38SzbsnZHkN-ho/s1600/boosters.jpg"
     },
     {
       "id": "198d306ad1ac0c42d8dd92eeaef4b6f2ca1b6900",
@@ -1212,6 +1212,61 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt4602d9695ec3e1f1/69655ab9ae1d94027b8f024c/HWP2C7.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
+      "id": "051b88a7c92a70bc1667770d1e635b9f4c591199",
+      "title": "Nearly half of UK businesses pwned last year as phishing keeps doing the job like it's 2005",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/30/almost_half_of_uk_firms/",
+      "published": "2026-04-30T11:35:10+00:00",
+      "summary": "<h4>Turns out the real problem is not AI but staff still clicking on dodgy emails from 'IT support'</h4> <p>Nearly half of UK businesses are still getting breached, and in many cases, the attacker's big breakthrough is an employee clicking \"sure, why not\" on a fake login page.\u2026</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "24c5db19900a6287f3856b2cb817eb1df58c2155",
+      "title": "What type of 'C2 on a sleep cycle' do they leave behind? Novel Chinese spy group found in critical networks in Poland, Asia",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/30/chinese_spies_lurking_networks/",
+      "published": "2026-04-30T11:00:08+00:00",
+      "summary": "<h4>Just in time for the Trump-Xi summit</h4> <p><strong>Exclusive</strong>\u00a0 A novel China-linked threat group infiltrated more than a dozen critical networks in Poland, Asian countries, and possibly beyond, beginning in December 2024 and with activity uncovered as recently as this month.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "1599875094b4c8ad2824fdeee1cd8aafae7aee5a",
+      "title": "Bug of the year (so far): Nasty cPanel vulnerability probably exploited as a 0-day",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/30/cpanel_whn_cves/",
+      "published": "2026-04-30T10:14:07+00:00",
+      "summary": "<h4>Emergency patches out now for those managing the millions of domains assumed to be affected</h4> <p>Emergency patches are available for a critical vulnerability in cPanel and WHM that allows attackers to bypass authentication and gain root access to servers managed using it.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "e4b26670038c2c4c3429ef6b2eb8d2e9b12fae31",
+      "title": "Britain's \u00a36B armoured sickener Ajax cleared for duty despite injuring troops",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/30/ajax_armored_vehicle_cleared/",
+      "published": "2026-04-30T08:45:12+00:00",
+      "summary": "<h4>Investigation finds no single cause for soldiers falling ill, just bad bolts, cold air, and apparently the soldiers themselves</h4> <p>Britain's notorious Ajax armored vehicles are being accepted back from the manufacturer after investigations found no single cause for the symptoms plaguing crews, meaning soldiers will need to grin and bear it.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "18c777691a06f4e10da78271ecda7685dc2c901c",
+      "title": "Finance company stores DB credentials in helpfully labeled spreadsheet",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/30/finance_company_stored_their_db_pwned_column/",
+      "published": "2026-04-30T08:00:12+00:00",
+      "summary": "<h4>Great idea, guys. Let's keep all of the data in an Excel file with weak password protection</h4> <p><strong>PWNED</strong>\u00a0 Welcome, once again, to PWNED, the weekly column where we recount the adventures of IT explorers who found their own pile of quicksand and then jumped right into it. This week's story involves keeping sensitive information in a very vulnerable place and then not protecting it adequately.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "bac0f38e45efc2e4ee9a153abd5e7168c9d07e51",
       "title": "Linux cryptographic code flaw offers fast route to root",
       "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/30/linux_cryptographic_code_flaw/",
@@ -1707,61 +1762,6 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "e8151be9b0949b25a28da72ed251500256419fab",
-      "title": "Google unleashes even more AI security agents to fight the baddies",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/22/google_unleashes_even_more_ai/",
-      "published": "2026-04-22T12:01:43+00:00",
-      "summary": "<h4>Along with a bunch of new services to make sure those same agents don't cause chaos</h4> <p><strong>Google Cloud Next</strong>\u00a0 Google Cloud chief operating officer Francis deSouza has summed up his company's security strategy du jour as follows: \"You need to use AI to fight AI.\"\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "06a96a75251ccf0544bf7213ca478bac8ea7d577",
-      "title": "France's 'Secure' ID agency probes breach as crooks claim 19M records",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/22/frances_secure_id_agency_probes/",
-      "published": "2026-04-22T11:30:09+00:00",
-      "summary": "<h4>Gov admits 'incident' as forum sellers boast of fresh haul covering up to a third of the population</h4> <p>France's National Agency for \"Secure\" Documents is explaining a potential data spill just as crooks online claim they've nicked a third of the country's ID information.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "c9ad7f112a834f90416b4c19a83770978c33fa84",
-      "title": "Scotland Yard can keep using live facial recognition on people in London, say judges",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/22/high_court_gives_thumbs_up/",
-      "published": "2026-04-22T11:14:33+00:00",
-      "summary": "<h4>Judges say cops face-slurping not a problem under current human rights laws</h4> <p>London's Metropolitan Police Service (MPS) has survived a legal challenge that attempted to curb its rollout of live facial recognition (LFR) technology across the capital.\u2026</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "b19698b01a01433bda5be2a194bab0264f5de300",
-      "title": "Oil crisis? What oil crisis? IT spending de-coupled from wider war shock",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/22/oil_crisis_what_oil_crisis/",
-      "published": "2026-04-22T08:30:11+00:00",
-      "summary": "<h4>Gartner sees accelerating growth in IT spending, powered by cloud and AI infrastructure investment</h4> <p>A day after the International Energy Agency (IEA) said the US/Israel/Iran war was creating the <a href=\"https://www.reuters.com/business/energy/war-iran-is-causing-biggest-energy-crisis-history-iea-says-2026-04-21/\" target=\"_blank\">worst energy crisis ever faced</a> by the \u200cworld, Gartner increased its growth forecasts for global IT spending by nearly three percentage points.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "bccb17403e389586fc7898ac917f8188c0b1a05f",
-      "title": "Mythos found 271 Firefox flaws \u2013 but none a human couldn\u2019t spot",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/22/mozilla_firefox_mythos_future_defenders/",
-      "published": "2026-04-22T04:32:11+00:00",
-      "summary": "<h4>Mozilla CTO says AI means developers finally have a chance to get on top of security</h4> <p>The Mozilla has revealed it tested Anthropic\u2019s bug-finding \u201cMythos\u201d AI model and feels the results it experienced represent a watershed moment for software defenders.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
       "id": "34f5f0d9fa9b11f7df5d0cd4f2fa087685207d27",
       "title": "\u2018Scattered Spider\u2019 Member \u2018Tylerb\u2019 Pleads Guilty",
       "url": "https://krebsonsecurity.com/2026/04/scattered-spider-member-tylerb-pleads-guilty/",
@@ -1801,6 +1801,61 @@
       "published": "2026-04-06T02:07:17+00:00",
       "summary": "An elusive hacker who went by the handle \"UNKN\" and ran the early Russian ransomware groups GandCrab and REvil now has a name and a face. Authorities in Germany say 31-year-old Russian Daniil Maksimovich Shchukin headed both cybercrime gangs and helped carry out at least 130 acts of computer sabotage and extortion against victims across the country between 2019 and 2021.",
       "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "e01e7f4b4bf7827c3ec2d07243d38f57e5322378",
+      "title": "Critical Gemini CLI Flaw Enabled Host Code Execution, Supply Chain Attacks",
+      "url": "https://www.securityweek.com/critical-gemini-cli-flaw-enabled-host-code-execution-supply-chain-attacks/",
+      "published": "2026-04-30T12:34:05+00:00",
+      "summary": "<p>An attacker could have planted a malicious configuration to execute commands outside the sandbox.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-gemini-cli-flaw-enabled-host-code-execution-supply-chain-attacks/\">Critical Gemini CLI Flaw Enabled Host Code Execution, Supply Chain Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "123670eb170cb98d80dae0199f821c29c07d385e",
+      "title": "EnOcean SmartServer Flaws Expose Buildings to Remote Hacking",
+      "url": "https://www.securityweek.com/enocean-smartserver-flaws-expose-buildings-to-remote-hacking/",
+      "published": "2026-04-30T11:57:31+00:00",
+      "summary": "<p>Claroty researchers discovered two vulnerabilities that can be exploited for security bypass and remote code execution.</p>\n<p>The post <a href=\"https://www.securityweek.com/enocean-smartserver-flaws-expose-buildings-to-remote-hacking/\">EnOcean SmartServer Flaws Expose Buildings to Remote Hacking</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "f32c9ca27e63e81621c9f0f208033761fba0c51b",
+      "title": "Critical cPanel & WHM Vulnerability Exploited as Zero-Day for Months",
+      "url": "https://www.securityweek.com/critical-cpanel-whm-vulnerability-exploited-as-zero-day-for-months/",
+      "published": "2026-04-30T11:10:30+00:00",
+      "summary": "<p>The authentication bypass flaw allows attackers to gain administrative access to vulnerable servers.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-cpanel-whm-vulnerability-exploited-as-zero-day-for-months/\">Critical cPanel &#038; WHM Vulnerability Exploited as Zero-Day for Months</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "658019add7ab19a7ed89b9dfd2c251f7c203f2ab",
+      "title": "\u2018Copy Fail\u2019 Logic Flaw in Linux Kernel Enables System Takeover",
+      "url": "https://www.securityweek.com/copy-fail-logic-flaw-in-linux-kernel-enables-system-takeover/",
+      "published": "2026-04-30T10:06:00+00:00",
+      "summary": "<p>Affecting the kernel\u2019s authencesn cryptographic template, the vulnerability was introduced in 2017 and impacts all distributions.</p>\n<p>The post <a href=\"https://www.securityweek.com/copy-fail-logic-flaw-in-linux-kernel-enables-system-takeover/\">&#8216;Copy Fail&#8217; Logic Flaw in Linux Kernel Enables System Takeover</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "9af5e3bc136b99dce15a58e32b3caffa102c143d",
+      "title": "Sandhills Medical Says Ransomware Breach Affects 170,000",
+      "url": "https://www.securityweek.com/sandhills-medical-says-ransomware-breach-affects-170000/",
+      "published": "2026-04-30T08:35:59+00:00",
+      "summary": "<p>It took the healthcare organization nearly one year to publicly disclose a data breach after it was targeted by Inc Ransom.</p>\n<p>The post <a href=\"https://www.securityweek.com/sandhills-medical-says-ransomware-breach-affects-170000/\">Sandhills Medical Says Ransomware Breach Affects 170,000</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
@@ -1855,61 +1910,6 @@
       "url": "https://www.securityweek.com/38-vulnerabilities-found-in-openemr-medical-software/",
       "published": "2026-04-29T09:54:17+00:00",
       "summary": "<p>Some of the vulnerabilities discovered by Aisle can be exploited to access and alter sensitive patient information.</p>\n<p>The post <a href=\"https://www.securityweek.com/38-vulnerabilities-found-in-openemr-medical-software/\">38 Vulnerabilities Found in OpenEMR Medical Software</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "eea4ab05976a920fc53a2d7c610011d93d2b27c7",
-      "title": "Chrome 147, Firefox 150 Security Updates Rolling Out",
-      "url": "https://www.securityweek.com/chrome-147-firefox-150-security-updates-rolling-out/",
-      "published": "2026-04-29T09:24:29+00:00",
-      "summary": "<p>The browser refreshes resolve critical and high-severity vulnerabilities that could lead to arbitrary code execution.</p>\n<p>The post <a href=\"https://www.securityweek.com/chrome-147-firefox-150-security-updates-rolling-out/\">Chrome 147, Firefox 150 Security Updates Rolling Out</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "f8890c682f2ae343463a2c7190d8bf34b176da0c",
-      "title": "Critical GitHub Vulnerability Exposed Millions of Repositories",
-      "url": "https://www.securityweek.com/critical-github-vulnerability-exposed-millions-of-repositories/",
-      "published": "2026-04-29T06:27:49+00:00",
-      "summary": "<p>The remote code execution flaw CVE-2026-3854 was found to impact GitHub.com and GitHub Enterprise Server.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-github-vulnerability-exposed-millions-of-repositories/\">Critical GitHub Vulnerability Exposed Millions of Repositories</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "2ac70e269d9f3a8b741e5a67554e9543c5e28335",
-      "title": "Cyber Insurance Data Gives CISOs New Ammo for Budget Talks",
-      "url": "https://www.securityweek.com/cyber-insurance-data-gives-cisos-new-ammo-for-budget-talks/",
-      "published": "2026-04-28T18:32:11+00:00",
-      "summary": "<p>Boards may ignore alerts, but they listen to losses: new data from Resilience links security gaps directly to financial impact.</p>\n<p>The post <a href=\"https://www.securityweek.com/cyber-insurance-data-gives-cisos-new-ammo-for-budget-talks/\">Cyber Insurance Data Gives CISOs New Ammo for Budget Talks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "e1979007f3f52a43bbdccd5988d0b19255f48fe6",
-      "title": "Vimeo Confirms User and Customer Data Breach",
-      "url": "https://www.securityweek.com/vimeo-confirms-user-and-customer-data-breach/",
-      "published": "2026-04-28T17:11:55+00:00",
-      "summary": "<p>The ShinyHunters group is threatening to leak stolen files unless Vimeo agrees to pay a ransom.</p>\n<p>The post <a href=\"https://www.securityweek.com/vimeo-confirms-user-and-customer-data-breach/\">Vimeo Confirms User and Customer Data Breach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "8fcaf315251b04f3b388c15e592c317106b7ef0f",
-      "title": "The Mythos Moment: Enterprises Must Fight Agents with Agents",
-      "url": "https://www.securityweek.com/the-mythos-moment-enterprises-must-fight-agents-with-agents/",
-      "published": "2026-04-28T15:45:00+00:00",
-      "summary": "<p>Only with the right platform and an agentic, AI-driven defense, will enterprises be able to protect themselves in the agentic era.</p>\n<p>The post <a href=\"https://www.securityweek.com/the-mythos-moment-enterprises-must-fight-agents-with-agents/\">The Mythos Moment: Enterprises Must Fight Agents with Agents</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
