@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-01T01:44:35.972752+00:00",
+  "generated_at": "2026-05-01T12:47:24.064756+00:00",
   "items": [
     {
       "id": "1c5caaee17ab85102948fe5396009affecff444b",
@@ -110,6 +110,39 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "b9da97533179761a70ec591d12000ed26d50d136",
+      "title": "Top Five Sales Challenges Costing MSPs Cybersecurity Revenue",
+      "url": "https://thehackernews.com/2026/05/top-five-sales-challenges-costing-msps.html",
+      "published": "2026-05-01T10:30:00+00:00",
+      "summary": "The managed security services market is projected to grow from $38.31 billion in 2025 to $69.16 billion by 2030[1], with cybersecurity being the fastest-growing sector[2]. Despite this opportunity, many MSPs leave revenue on the table because their go-to-market strategy fails to connect technical expertise with business needs.\nThis execution gap is where most deals stall. MSPs often focus on",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgc4T6K9zSg5-BFr6xjfFnVhxj3Jx5R5CCUbEmTDssJXlPDiPYcCwFRAfSP_09Kcds90YN7CUwv2Y5ZhglKxLgEbyDRaudcoZXL1PfftGo5BloLB9LInZGWvVaKEdYEoHBJjyP3wwxkfEWWg4pcPTtBUnr6zCJRvre9YzZs4OagcnBVFiAbjbEGc7WY-98/s1600/cynomi.png"
+    },
+    {
+      "id": "27199cef802e9442c9ce49c245043f65606f8015",
+      "title": "Two Cybersecurity Professionals Get 4-Year Sentences in BlackCat Ransomware Attacks",
+      "url": "https://thehackernews.com/2026/05/two-cybersecurity-professionals-get-4.html",
+      "published": "2026-05-01T09:56:00+00:00",
+      "summary": "The U.S. Department of Justice (DoJ) on Thursday announced the sentencing of two cybersecurity professionals to four years each in prison for their role in facilitating BlackCat ransomware attacks in 2023.\nRyan Goldberg, 40, of Georgia, and Kevin Martin, 36, of Texas, were accused of deploying the ransomware against multiple victims located throughout the U.S. between April and December 2023.",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxhvaGpPe8ES3q62CqgJTkgm4Raiy6ugjF7dOgRUC4Sd6SsspaPB7tzYYK8lmeUi__TGffqjUeumdmUnA34ZmWJKLDG-TGoZXbyaFAaGR_49JYN9GxVGFQ13allcDdinlnrqtOUeRW6M3wdgvPyRYT_TzmYLpjYPGjYi43laVhtbrPjXs3P7dmN_DQ1Lnd/s1600/ransomware-install.jpg"
+    },
+    {
+      "id": "07a7968ae70aee2937d3c0e3322f29a865a9f93e",
+      "title": "Poisoned Ruby Gems and Go Modules Exploit CI Pipelines for Credential Theft",
+      "url": "https://thehackernews.com/2026/05/poisoned-ruby-gems-and-go-modules.html",
+      "published": "2026-05-01T09:43:00+00:00",
+      "summary": "A new software supply chain attack campaign has been observed using sleeper packages as a conduit to subsequently push malicious payloads that enabled credential theft, GitHub Actions tampering, and SSH persistence.\nThe activity has been attributed to the GitHub account \"BufferZoneCorp,\" which has published a set of repositories that are associated with malicious Ruby gems and Go modules. As of",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNz4euGufhcyWdY8TkRfdXBUj2XXZlzQWEb1QyI7otpos158ctsC236sEm2NAZ20sUZv4AOqrGCSTbjGsOOkMwhQv53ZjyrVXf9SVUsMfhvhQ4LzGL87j44f0kMkXRzBAoWeHDz8hywx4gbW_trN1mFk-xCCZatTf0zNsude7k-3WE9kIY_pPgza53qsdc/s1600/buffer.jpg"
     },
     {
       "id": "53090d061b0085bd2e2afae2ff3af75b9b5685f5",
@@ -629,37 +662,26 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiptXaD_Im0Bee0znCFTtBnOBEGGfeP-lS85crmRfAsd5-sMOsHstg9jATLVQOSJF2tiQQ6qkQ2ZWK98foU4WIQU_tHja8H882jF-_oiA5UGh-iG0-ByeaGfBbjDGid-FkfsNfKQUljfBsgejRsHBiBeX1DXRbjf1ohM1uhZiKdsjpBaH_0lYylOWSA9itt/s1600/linux.jpg"
     },
     {
-      "id": "e4fcd16ddc7bcd842842a7535f6e37e1706668d8",
-      "title": "Lotus Wiper Malware Targets Venezuelan Energy Systems in Destructive Attack",
-      "url": "https://thehackernews.com/2026/04/lotus-wiper-malware-targets-venezuelan.html",
-      "published": "2026-04-22T10:55:00+00:00",
-      "summary": "Cybersecurity researchers have discovered a previously undocumented data wiper that has been used in attacks targeting Venezuela at the end of last year and the start of 2026.\nDubbed Lotus Wiper, the novel file wiper has been used in a destructive campaign targeting the energy and utilities sector in Venezuela, per findings from Kaspersky.\n\"Two batch scripts are responsible for initiating the",
-      "source": "The Hacker News",
+      "id": "7c4f72afc257266c5a91887c36927074f0f53642",
+      "title": "Name That Toon: Mark of (Security) Progress",
+      "url": "https://www.darkreading.com/cybersecurity-operations/name-that-toon-mark-security-progress",
+      "published": "2026-05-01T12:00:55+00:00",
+      "summary": "Feeling creative? Have something to say about the last 20 years of cybersecurity? Our editors will award the best cybersecurity-related caption with a $20 gift card.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhANfDCr_4asg41Zj98h_tyRYig7XZGWHyCgPXHcVUvax_31CDUNrmrUp9rBFZK0u0Ai97i5pUlapu4ePRoBQAzvxt-KX3u80dTOjzyPPOOGzuCUmBZgaczzHisujoEXmfO08HtxqTbkAYBRI7JdBKffmATJHHM4uDe2RDsPyC11CkgenulBnQ7ZhyH8m-t/s1600/wiper-malware.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltdbf0428151d81445/69f49269d987a6e491ac5a94/name-toon-may2026.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "74c1815e922ee325766257c7ea8ee1b234437727",
-      "title": "Toxic Combinations: When Cross-App Permissions Stack into Risk",
-      "url": "https://thehackernews.com/2026/04/toxic-combinations-when-cross-app.html",
-      "published": "2026-04-22T10:41:36+00:00",
-      "summary": "On January 31, 2026, researchers disclosed that Moltbook, a social network built for AI agents, had left its database wide open, exposing 35,000 email addresses and 1.5 million agent API tokens across 770,000 active agents.\nThe more worrying part sat inside the private messages. Some of those conversations held plaintext third-party credentials, including OpenAI API keys shared between agents,",
-      "source": "The Hacker News",
+      "id": "4f4b0d3908d98af3e7b791d09f62a22aad508527",
+      "title": "20 Years in Cyber: Dark Reading Marks Milestone With Month of Special Coverage",
+      "url": "https://www.darkreading.com/cybersecurity-operations/20-years-cyber-dark-reading-milestone-special-coverage",
+      "published": "2026-05-01T12:00:00+00:00",
+      "summary": "On this day in 2006, Dark Reading went live. We have a celebration planned that spans our two decades of covering the industry, and you, dear readers, are invited.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeaSL6v6uahfzJpHJb0ATKZ7cbexnfYIayT74IyU1S-7f3T-4gfnWowlobm5RH4ZYrsIdeNq_OOHGxp2LbU-aELaO9RbYa15MfKN38-ZQPGhrgH0PYCsVIucG95SSw-WCzzo9eUhITn4A3txsa8H59XhTcAaOObC0r-Es_7i0RH8aDo_qhZ45MfaOTVF2t/s1600/reco.png"
-    },
-    {
-      "id": "c6397d08595b7174fd12ef18cf1b6fb98a3a4a06",
-      "title": "Microsoft Patches Critical ASP.NET Core CVE-2026-40372 Privilege Escalation Bug",
-      "url": "https://thehackernews.com/2026/04/microsoft-patches-critical-aspnet-core.html",
-      "published": "2026-04-22T09:29:00+00:00",
-      "summary": "Microsoft has released out-of-band updates to address a security vulnerability in ASP.NET Core that could allow an attacker to escalate privileges.\nThe vulnerability, tracked as CVE-2026-40372, carries a CVSS score of 9.1 out of 10.0. It's rated Important in severity. An anonymous researcher has been credited with discovering and reporting the flaw.\n\"Improper verification of cryptographic",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYMuDYXH3vQ6ycJCKfikptBR0jdQdnf-s36gDb0LYx3gvMwQOQLrt072KY5GZ0T2GRhyphenhyphenrfIg5qcCqjE0J_PtKQ1P409j_veWwKYoGsGssQcTotxI2-Dl8akDSyPif_j4LgFL3kWI6pvWKX5QBjsnIZIHdFzlAIRgxspuS4W0Ywe-Z63zmIyL7X39CG_3Ng/s1600/dotnet.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltfa15fad832804f71/69f25b673c5d474c908e45aa/KJHCol_DR20.jpeg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "id": "1c647507dd8ff64f264fdd900f9050d6930175a1",
@@ -1190,26 +1212,37 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltda93213c910e1221/69dfbf29f06161c424ab3b28/R5PNG0.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "3e97fcd386f4e8d0a77541d53efee24900db86b5",
-      "title": "Microsoft's Original Windows Secure Boot Certificate Is Expiring",
-      "url": "https://www.darkreading.com/endpoint-security/microsoftoriginal-windows-secure-boot-certificates-expire",
-      "published": "2026-04-16T15:16:30+00:00",
-      "summary": "The Secure Boot refresh is one of the largest coordinated security maintenance efforts across the Windows ecosystem, Microsoft said. In other words, update those PCs soon.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltcf80cca68990f44f/67db1175b6f1566998db1a71/laptop_windows_desktop_Wachiwit_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "id": "02c752646f3f773310d485e3b3c155ebbf0e1efd",
+      "title": "OpenAI locks GPT-5.5-Cyber behind velvet rope despite slamming Anthropic for doing exactly that",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/05/01/openai_locks_gpt55cyber_behind_velvet/",
+      "published": "2026-05-01T11:42:01+00:00",
+      "summary": "<h4>Altman's crew now doing the same gatekeeping it recently mocked</h4> <p>OpenAI is lining up a limited release of its new GPT-5.5-Cyber model to a handpicked circle of \"cyber defenders,\" just weeks after taking a swipe at Anthropic for doing almost exactly the same thing.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "9ebd6b1c1a5cd8692455b6329261f4877c9553c9",
-      "title": "6-Year Ransomware Campaign Targets Turkish Homes &amp; SMBs",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/6-year-ransomware-campaign-turkish-homes-smbs",
-      "published": "2026-04-16T06:00:00+00:00",
-      "summary": "While enterprises breaches make more headlines, smaller incidents tend to be under-reported, if at all, allowing campaigns to last longer with less disruption.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7f40f3c081eecf91/69dd9708c01884640b682358/Turkey-Ivan_Tsyrkunovich-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "id": "9fc3f44c6fbb6fcc8ff89ff2552806f1eae70e32",
+      "title": "Pro-Iran crew turns DDoS into shakedown as Ubuntu.com stays down",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/05/01/canonical_confirms_ubuntu_infrastructure_under/",
+      "published": "2026-05-01T11:05:59+00:00",
+      "summary": "<h4>313 Team tells Canonical: pay up or the packets keep coming</h4> <p>Canonical says its web infrastructure is under attack after a pro-Iran hacktivist group instructed its members to target the open source giant.\u2026</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "c1f6bb4873249e5ebf84c14fe3ef555a62319ecd",
+      "title": "Passport to \u00a3\u00a3\u00a3: Home Office adds \u00a3216M to travel doc contract before a single bid's been placed",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/05/01/passport_to_home_office_adds/",
+      "published": "2026-05-01T09:15:06+00:00",
+      "summary": "<h4>Start date pushed back a year, annual cost up a third, and UK's now handing out eight million passports a year</h4> <p>The Home Office has increased the annual value and overall duration of its new passport production contract, increasing it to a total of \u00a3576 million as it starts a third round of engagement with suppliers.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
       "id": "27fbdcfda469b6333659774d5bdbaaa765a24507",
@@ -1729,39 +1762,6 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "37843ea5d40abd40648a3afd95c2cca7f4b0ce66",
-      "title": "American farms have a new steward for their safety net, disaster programs... Palantir",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/23/palantir_wins_us_department_of_agriculture_contract/",
-      "published": "2026-04-23T13:26:10+00:00",
-      "summary": "<h4>Wins $300M deal over Salesforce, IBM because of 'integration with existing USDA systems,' among other things</h4> <p>Palantir has won a $300 million contract from the US Department of Agriculture (USDA) to support the National Farm Security Action Plan (NFSAP) and modernize how USDA delivers services to America's farmers.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "eab3f678843b55a8a7d5d8f0e42d29e1ce2570e1",
-      "title": "Medical data of 500k Biobank volunteers listed for sale on Alibaba, UK minister reveals",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/23/500k_biobank_volunteers_data_listed/",
-      "published": "2026-04-23T12:34:49+00:00",
-      "summary": "<h4>World's largest biomedical dataset lifted and shifted on Chinese mega marketplace</h4> <p><strong>Updated</strong>\u00a0 Details of volunteers of UK-based Biobank, which describes itself as the custodian of the world's most comprehensive biomedical dataset, are for sale on Chinese ecommerce site Alibaba.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "fa0fa0321ff0b9c176021f8abed65a9f6eb35219",
-      "title": "Hybrid clouds have two attack surfaces and you\u2019re not paying enough attention to either",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/23/wac_flaws_hybrid_cloud_security/",
-      "published": "2026-04-23T12:15:12+00:00",
-      "summary": "<h4>Windows Admin Center flaws mean on-prem can attack cloud, and vice-versa</h4> <p><strong>Black Hat Asia</strong>\u00a0 Israeli researchers found a series of flaws in Microsoft's Windows Admin Center (WAC) and suggest this shows hybrid cloud management tools are a two-way attack surface that users don't spend enough time worrying about.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
       "id": "7658a178c379a4d68bcdc6eac46d94668871ad90",
       "title": "Anti-DDoS Firm Heaped Attacks on Brazilian ISPs",
       "url": "https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps/",
@@ -1817,6 +1817,72 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "aaaf9dadafa354369a6e55881dfa1c0396128092",
+      "title": "Two US Security Experts Sentenced to Prison for Helping Ransomware Gang",
+      "url": "https://www.securityweek.com/two-us-security-experts-sentenced-to-prison-for-helping-ransomware-gang/",
+      "published": "2026-05-01T11:37:03+00:00",
+      "summary": "<p>Ryan Goldberg of Georgia and Kevin Martin of Texas were each sentenced to four years in prison.\u00a0</p>\n<p>The post <a href=\"https://www.securityweek.com/two-us-security-experts-sentenced-to-prison-for-helping-ransomware-gang/\">Two US Security Experts Sentenced to Prison for Helping Ransomware Gang</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "66837690b36e48a9ed3e60635668741c874d2b92",
+      "title": "Sophisticated Deep#Door Backdoor Enables Espionage, Disruption",
+      "url": "https://www.securityweek.com/sophisticated-deepdoor-backdoor-enables-espionage-disruption/",
+      "published": "2026-05-01T11:08:50+00:00",
+      "summary": "<p>The stealthy Python-based backdoor framework deploys a persistent Windows implant likely designed for espionage.</p>\n<p>The post <a href=\"https://www.securityweek.com/sophisticated-deepdoor-backdoor-enables-espionage-disruption/\">Sophisticated Deep#Door Backdoor Enables Espionage, Disruption</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "62b1d6ada8a4618834bc1f19890b5c6844fe8f0c",
+      "title": "Cisco Releases Open Source Tool for AI Model Provenance",
+      "url": "https://www.securityweek.com/cisco-releases-open-source-tool-for-ai-model-provenance/",
+      "published": "2026-05-01T10:18:39+00:00",
+      "summary": "<p>The new kit aims to address risks related to poisoned models, regulatory issues, supply chain integrity, and incident response.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisco-releases-open-source-tool-for-ai-model-provenance/\">Cisco Releases Open Source Tool for AI Model Provenance\u00a0</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "44d4bca874755390e05cc61fa90118d15a75fe27",
+      "title": "Hugging Face, ClawHub Abused for Malware Distribution",
+      "url": "https://www.securityweek.com/hugging-face-clawhub-abused-for-malware-distribution/",
+      "published": "2026-05-01T08:41:57+00:00",
+      "summary": "<p>Threat actors are relying on social engineering to lure users into downloading files containing malicious instructions.</p>\n<p>The post <a href=\"https://www.securityweek.com/hugging-face-clawhub-abused-for-malware-distribution/\">Hugging Face, ClawHub Abused for Malware Distribution</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "c92ae758886fcf662c37c2dcd030efb467cd4ab3",
+      "title": "FBI Warns of Surge in Hacker-Enabled Cargo Theft",
+      "url": "https://www.securityweek.com/fbi-warns-of-surge-in-hacker-enabled-cargo-theft/",
+      "published": "2026-05-01T08:11:20+00:00",
+      "summary": "<p>A new alert from the FBI says criminal enterprises are hacking both brokers and carriers to steal cargo for resale.</p>\n<p>The post <a href=\"https://www.securityweek.com/fbi-warns-of-surge-in-hacker-enabled-cargo-theft/\">FBI Warns of Surge in Hacker-Enabled Cargo Theft</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "065a12935adad15bc741c09ccf9482eb7190434d",
+      "title": "1,800 Hit in Mini Shai-Hulud Attack on SAP, Lightning, Intercom",
+      "url": "https://www.securityweek.com/1800-hit-in-mini-shai-hulud-attack-on-sap-lightning-intercom/",
+      "published": "2026-05-01T07:33:40+00:00",
+      "summary": "<p>The compromised Lightning and Intercom packages have a combined monthly download count of nearly 10 million.</p>\n<p>The post <a href=\"https://www.securityweek.com/1800-hit-in-mini-shai-hulud-attack-on-sap-lightning-intercom/\">1,800 Hit in Mini Shai-Hulud Attack on SAP, Lightning, Intercom</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "372195a4437078ae40d7f496668b048bc7b59c47",
       "title": "Anthropic Unveils Claude Security to Counter AI-Powered Exploit Surge",
       "url": "https://www.securityweek.com/anthropic-unveils-claude-security-to-counter-ai-powered-exploit-surge/",
@@ -1855,72 +1921,6 @@
       "url": "https://www.securityweek.com/sap-npm-packages-targeted-in-supply-chain-attack/",
       "published": "2026-04-30T14:27:36+00:00",
       "summary": "<p>The Mini Shai-Hulud attack introduced a preinstall hook to fetch and execute a Bun binary and bypass security monitoring.</p>\n<p>The post <a href=\"https://www.securityweek.com/sap-npm-packages-targeted-in-supply-chain-attack/\">SAP NPM Packages Targeted in Supply Chain Attack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "e01e7f4b4bf7827c3ec2d07243d38f57e5322378",
-      "title": "Critical Gemini CLI Flaw Enabled Host Code Execution, Supply Chain Attacks",
-      "url": "https://www.securityweek.com/critical-gemini-cli-flaw-enabled-host-code-execution-supply-chain-attacks/",
-      "published": "2026-04-30T12:34:05+00:00",
-      "summary": "<p>An attacker could have planted a malicious configuration to execute commands outside the sandbox.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-gemini-cli-flaw-enabled-host-code-execution-supply-chain-attacks/\">Critical Gemini CLI Flaw Enabled Host Code Execution, Supply Chain Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "123670eb170cb98d80dae0199f821c29c07d385e",
-      "title": "EnOcean SmartServer Flaws Expose Buildings to Remote Hacking",
-      "url": "https://www.securityweek.com/enocean-smartserver-flaws-expose-buildings-to-remote-hacking/",
-      "published": "2026-04-30T11:57:31+00:00",
-      "summary": "<p>Claroty researchers discovered two vulnerabilities that can be exploited for security bypass and remote code execution.</p>\n<p>The post <a href=\"https://www.securityweek.com/enocean-smartserver-flaws-expose-buildings-to-remote-hacking/\">EnOcean SmartServer Flaws Expose Buildings to Remote Hacking</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "f32c9ca27e63e81621c9f0f208033761fba0c51b",
-      "title": "Critical cPanel & WHM Vulnerability Exploited as Zero-Day for Months",
-      "url": "https://www.securityweek.com/critical-cpanel-whm-vulnerability-exploited-as-zero-day-for-months/",
-      "published": "2026-04-30T11:10:30+00:00",
-      "summary": "<p>The authentication bypass flaw allows attackers to gain administrative access to vulnerable servers.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-cpanel-whm-vulnerability-exploited-as-zero-day-for-months/\">Critical cPanel &#038; WHM Vulnerability Exploited as Zero-Day for Months</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "658019add7ab19a7ed89b9dfd2c251f7c203f2ab",
-      "title": "\u2018Copy Fail\u2019 Logic Flaw in Linux Kernel Enables System Takeover",
-      "url": "https://www.securityweek.com/copy-fail-logic-flaw-in-linux-kernel-enables-system-takeover/",
-      "published": "2026-04-30T10:06:00+00:00",
-      "summary": "<p>Affecting the kernel\u2019s authencesn cryptographic template, the vulnerability was introduced in 2017 and impacts all distributions.</p>\n<p>The post <a href=\"https://www.securityweek.com/copy-fail-logic-flaw-in-linux-kernel-enables-system-takeover/\">&#8216;Copy Fail&#8217; Logic Flaw in Linux Kernel Enables System Takeover</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "9af5e3bc136b99dce15a58e32b3caffa102c143d",
-      "title": "Sandhills Medical Says Ransomware Breach Affects 170,000",
-      "url": "https://www.securityweek.com/sandhills-medical-says-ransomware-breach-affects-170000/",
-      "published": "2026-04-30T08:35:59+00:00",
-      "summary": "<p>It took the healthcare organization nearly one year to publicly disclose a data breach after it was targeted by Inc Ransom.</p>\n<p>The post <a href=\"https://www.securityweek.com/sandhills-medical-says-ransomware-breach-affects-170000/\">Sandhills Medical Says Ransomware Breach Affects 170,000</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "2f15f294bcf6c4a5473d85978e497c87c4cb4b50",
-      "title": "Fresh LiteLLM Vulnerability Exploited Shortly After Disclosure",
-      "url": "https://www.securityweek.com/fresh-litellm-vulnerability-exploited-shortly-after-disclosure/",
-      "published": "2026-04-29T13:04:05+00:00",
-      "summary": "<p>The vulnerability allows attackers to read data from a LiteLLM proxy\u2019s database and potentially modify it.</p>\n<p>The post <a href=\"https://www.securityweek.com/fresh-litellm-vulnerability-exploited-shortly-after-disclosure/\">Fresh LiteLLM Vulnerability Exploited Shortly After Disclosure</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
