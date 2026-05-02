@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-02T01:22:51.412257+00:00",
+  "generated_at": "2026-05-02T12:39:07.340405+00:00",
   "items": [
     {
       "id": "4567df4c4f6a7f7a8be8ba1fca5241f4a7c2c8f4",
@@ -110,6 +110,17 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "d871604e8f4242aace52e5d29c2899ba1da0c2a7",
+      "title": "Trellix Confirms Source Code Breach With Unauthorized Repository Access",
+      "url": "https://thehackernews.com/2026/05/trellix-confirms-source-code-breach.html",
+      "published": "2026-05-02T06:41:00+00:00",
+      "summary": "Cybersecurity company Trellix has announced that it suffered a breach that enabled unauthorized access to a \"portion\" of its source code.\nIt said it \"recently identified\" the compromise of its source code repository and that it began working with \"leading forensic experts\" to resolve the matter immediately. It also said it has notified law enforcement of the matter.\nTrellix did not disclose the",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJ47NY9D4DSEZHqBNSGTjpmSJqwYVOzlIKGoG-0LTxSdIIDrMtyV2tOqRYcc-4kpxkE1UZ6nJhK4eXCGEsEmG6UcQeHn_YjAhRWXIAxo5yC75eUmLv3w5rur6SN6Qoee65gve-LgM0_3YGnAzQwTrQMTeTShRe_leh8_ImIlzU-Sgfy2kRqTcx5V-yG-3M/s1600/breach.jpg"
     },
     {
       "id": "c964fa83825effcbd727aee06505b41cab0b7c7e",
@@ -649,17 +660,6 @@
       "region": "North America",
       "country": "US",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzwM3USZlfhbZvEZWWJp8Qa4g-UzetuH1vkGUsyr3Ju00B8gC8z791k1Gv-WZ_pMB1VQtX1xLFj-ETJg33razqLHCpoOzMcbb65ucw8jruZ_ltVmaO4bky9WmoFSXfgquEn8HVbLx_I02h0BDOXPBn61_jdnRYKSleCpfUR8G4pkEpsn592IvR3D3qgt0X/s1600/vercel-breach.jpg"
-    },
-    {
-      "id": "ed49d08cfdbb4939af4f487ed57c1935bef28680",
-      "title": "Apple Fixes iOS Flaw That Let FBI Recover Deleted Signal Messages",
-      "url": "https://thehackernews.com/2026/04/apple-patches-ios-flaw-that-stored.html",
-      "published": "2026-04-23T08:06:00+00:00",
-      "summary": "Apple has rolled out a software fix for iOS and iPadOS to address a Notification Services flaw that stored notifications marked for deletion on the device.\nThe vulnerability, tracked as CVE-2026-28950 (CVSS score: N/A), has been described as a logging issue that has been addressed with improved data redaction.\n\"Notifications marked for deletion could be unexpectedly retained on the device,\"",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8iikjICH9h-OY06K3jZBcEcwtWEuusLcRgwG1T5SvE39V2ZfqSe7Z7N3NFXzfxgYicI_yo8bvme9f4RYazoU-5dUmoTKJMgdmW38AuWgFEWKNBTxgqQJAgpwZUOS926Ue1qCGUW7ou2wStgU-vRsle4Ky8pcp2I2mT_Sm3eyUw__JZaO-BrBZ80z3Zhvx/s1600/apple-signal.jpg"
     },
     {
       "id": "2ed2063bc3f1bfb43e4c80d322b9cda332728bec",
@@ -1212,6 +1212,17 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5cc61f368315b744/69e10ffdc8863fd06c049539/Mac_Mouse_Click_Edwin_Remsberg_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
+      "id": "5ab4a0d539b38463607e230432dd65f3412702eb",
+      "title": "Brace for the patch tsunami: AI is unearthing decades of buried code debt",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/05/02/ncsc_brace_for_patch_tsunami/",
+      "published": "2026-05-02T08:30:09+00:00",
+      "summary": "<h4>Britain's cyber agency says the bill for years of technical shortcuts is coming due, and it's arriving all at once</h4> <p>Britain's cyber agency is warning that AI-fuelled bug hunting is about to flush out years of buried flaws, leaving defenders scrambling to keep up.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "f3c9616c73b6783ee777752323e584605d873537",
       "title": "First reports come in of victims of critical cPanel vuln as 'millions' of sites potentially exposed",
       "url": "https://go.theregister.com/feed/www.theregister.com/2026/05/01/critical_cpanel_vuln_hits_cisa/",
@@ -1751,14 +1762,69 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "58a34b5f4d6b032f34050f293627f90a5239ad14",
-      "title": "Chinese attackers are pwning your infrastructure to use in attacks, 10 countries warn",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/23/china_covert_networks/",
-      "published": "2026-04-23T19:25:11+00:00",
-      "summary": "<h4>All the Typhoons, everywhere, all at once</h4> <p>A majority of China-linked threat actors are using compromised routers and IoT devices worldwide, turning this gear into proxy networks to carry out further intrusions, steal sensitive data, and disrupt victim organizations\u2019 operations, according to a joint 10-country advisory.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
+      "id": "7658a178c379a4d68bcdc6eac46d94668871ad90",
+      "title": "Anti-DDoS Firm Heaped Attacks on Brazilian ISPs",
+      "url": "https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps/",
+      "published": "2026-04-30T14:04:26+00:00",
+      "summary": "A Brazilian tech firm that specializes in protecting networks from distributed denial-of-service (DDoS) attacks has been enabling a botnet responsible for an extended campaign of massive DDoS attacks against other network operators in Brazil, KrebsOnSecurity has learned. The firm's chief executive says the malicious activity resulted from a security breach and was likely the work of a competitor trying to tarnish his company's public image.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "34f5f0d9fa9b11f7df5d0cd4f2fa087685207d27",
+      "title": "\u2018Scattered Spider\u2019 Member \u2018Tylerb\u2019 Pleads Guilty",
+      "url": "https://krebsonsecurity.com/2026/04/scattered-spider-member-tylerb-pleads-guilty/",
+      "published": "2026-04-21T14:53:59+00:00",
+      "summary": "A 24-year-old British national and senior member of the cybercrime group \"Scattered Spider\" has pleaded guilty to wire fraud conspiracy and aggravated identity theft. Tyler Robert Buchanan admitted his role in a series of text-message phishing attacks in the summer of 2022 that allowed the group to hack into at least a dozen major technology companies and steal tens of millions of dollars worth of cryptocurrency from investors.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "440970fb36b038c70d5194dbf86cc8545a5ed7e4",
+      "title": "Patch Tuesday, April 2026 Edition",
+      "url": "https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/",
+      "published": "2026-04-14T21:47:59+00:00",
+      "summary": "Microsoft today pushed software updates to fix a staggering 167 security vulnerabilities in its Windows operating systems and related software, including a SharePoint Server zero-day and a publicly disclosed weakness in Windows Defender dubbed \"BlueHammer.\" Separately, Google Chrome fixed its fourth zero-day of 2026, and an emergency update for Adobe Reader nixes an actively exploited flaw that can lead to remote code execution.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "f4ae2ca794b7c1fd86daaf45e4145b2c6fd5d768",
+      "title": "Russia Hacked Routers to Steal Microsoft Office Tokens",
+      "url": "https://krebsonsecurity.com/2026/04/russia-hacked-routers-to-steal-microsoft-office-tokens/",
+      "published": "2026-04-07T17:02:44+00:00",
+      "summary": "Hackers linked to Russia's military intelligence units are using known flaws in older Internet routers to mass harvest authentication tokens from Microsoft Office users, security experts warned today. The spying campaign allowed state-backed Russian hackers to quietly siphon authentication tokens from users on more than 18,000 networks without deploying any malicious software or code.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "a8697ca5f1d9fdf9ccc343929a4a781742957f93",
+      "title": "Germany Doxes \u201cUNKN,\u201d Head of RU Ransomware Gangs REvil, GandCrab",
+      "url": "https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/",
+      "published": "2026-04-06T02:07:17+00:00",
+      "summary": "An elusive hacker who went by the handle \"UNKN\" and ran the early Russian ransomware groups GandCrab and REvil now has a name and a face. Authorities in Germany say 31-year-old Russian Daniil Maksimovich Shchukin headed both cybercrime gangs and helped carry out at least 130 acts of computer sabotage and extortion against victims across the country between 2019 and 2021.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "4ac7947e95772a577da7e20996dfd2ad981a6453",
+      "title": "New Bluekit Phishing Kit Features AI Assistant",
+      "url": "https://www.securityweek.com/new-bluekit-phishing-kit-features-ai-assistant/",
+      "published": "2026-05-02T10:50:00+00:00",
+      "summary": "<p>Still under development, Bluekit provides users with automated domain registration and an AI Assistant.</p>\n<p>The post <a href=\"https://www.securityweek.com/new-bluekit-phishing-kit-features-ai-assistant/\">New Bluekit Phishing Kit Features AI Assistant</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
@@ -1855,17 +1921,6 @@
       "url": "https://www.securityweek.com/anthropic-unveils-claude-security-to-counter-ai-powered-exploit-surge/",
       "published": "2026-04-30T18:57:55+00:00",
       "summary": "<p>With Mythos signaling a new era of near-instant exploitation, Anthropic positions Claude Security to help defenders keep pace.</p>\n<p>The post <a href=\"https://www.securityweek.com/anthropic-unveils-claude-security-to-counter-ai-powered-exploit-surge/\">Anthropic Unveils Claude Security to Counter AI-Powered Exploit Surge</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "7773fbdd3caaca6ca91db431e85f5cb60be11a70",
-      "title": "AI Fuels \u2018Industrial\u2019 Cybercrime as Time-to-Exploit Shrinks to Hours",
-      "url": "https://www.securityweek.com/ai-fuels-industrial-cybercrime-as-time-to-exploit-shrinks-to-hours/",
-      "published": "2026-04-30T18:54:15+00:00",
-      "summary": "<p>Industrialized cybercrime delivers attacks with greater scale, speed and success. Defenders must match this with use of AI and automation.</p>\n<p>The post <a href=\"https://www.securityweek.com/ai-fuels-industrial-cybercrime-as-time-to-exploit-shrinks-to-hours/\">AI Fuels \u2018Industrial\u2019 Cybercrime as Time-to-Exploit Shrinks to Hours</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
