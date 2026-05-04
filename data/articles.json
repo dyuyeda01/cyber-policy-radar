@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-05-04T01:25:06.691423+00:00",
+  "generated_at": "2026-05-04T13:16:02.899605+00:00",
   "items": [
+    {
+      "id": "3ef57b7ab55d1b1eb44cfe448fc309612e8b8dac",
+      "title": "How OpenClaw\u2019s agent skills become an attack surface",
+      "url": "https://www.cybersecuritydive.com/spons/how-openclaws-agent-skills-become-an-attack-surface-1/818983/",
+      "published": "2026-05-04T09:00:00+00:00",
+      "summary": "<p>OpenClaw&nbsp;and similar AI agent ecosystems, present pressing security risks.</p>",
+      "source": "Cybersecurity Dive",
+      "region": "North America",
+      "country": "US",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
     {
       "id": "4567df4c4f6a7f7a8be8ba1fca5241f4a7c2c8f4",
       "title": "White House questions tech industry on defensive AI use, cybersecurity resilience",
@@ -101,15 +112,48 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "9fe2bf13d23f8c262980c186fc26dfa9f97d764d",
-      "title": "Major critical infrastructure supplier reports cyberattack",
-      "url": "https://www.cybersecuritydive.com/news/critical-infrastructure-cyberattack-itron-smart-meters/818547/",
-      "published": "2026-04-27T14:21:53+00:00",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/0xYO8piDBJPRbi5IGD4QgmkVuXrpKxGachXsOaO8xIs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNTc0MjIyOTQuanBn.webp\" /></div></figure><p>Itron, which makes devices that measure energy and water use, said its operations were continuing, despite the intrusion.</p>",
-      "source": "Cybersecurity Dive",
+      "id": "86ea4b30666e4e39dfd446797472b848663515a9",
+      "title": "2026: The Year of AI-Assisted Attacks",
+      "url": "https://thehackernews.com/2026/05/2026-year-of-ai-assisted-attacks.html",
+      "published": "2026-05-04T11:58:00+00:00",
+      "summary": "On December 4, 2025, a 17-year-old was arrested in Osaka under Japan\u2019s Unauthorized Access Prohibition Act. The young man had run malicious code to extract the personal data of over 7 million users of Kaikatsu Club, Japan's largest internet cafe chain. When asked, the young man shared his motivation for the hack: he wanted to buy Pok\u00e9mon cards.\nIn a sense, this is a fairly conventional story.",
+      "source": "The Hacker News",
       "region": "North America",
       "country": "US",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEji6GV4hhCDB_wJkm6REZZfugW5H5hF8g8X27oGcUHnOSxYst1aJJspKKl6joygytGLwgKYvfDU_DD8DFHQ-vPt-_Tc1yzG8fJl_0tHuyOLgJC3eHKGFM_YZA_OIYoL7wI8lUWZrpGO_E2Sjunen7Y9g2fY7sRTi6cvk4DgBW5plToR5U-Je5GQeJsKuqY/s1600/ai-cyberattacks.png"
+    },
+    {
+      "id": "57006dbae34645453fafaf2dabef8ae0d5257ad9",
+      "title": "Silver Fox Deploys ABCDoor Malware via Tax-Themed Phishing in India and Russia",
+      "url": "https://thehackernews.com/2026/05/silver-fox-deploys-abcdoor-malware-via.html",
+      "published": "2026-05-04T11:57:00+00:00",
+      "summary": "The China-based cybercrime group known as Silver Fox has been linked to a new campaign targeting organizations in Russia and India with a new malware called ABCDoor.\nThe activity involved using phishing emails that mimic correspondence from the Income Tax Department of India in December 2025, followed by a similar campaign aimed at Russian entities.\n\"Both waves followed a nearly identical",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjfw7HlDQIzbgA8xy1bk-sUkn-TVS85DGaL4vQkuTNYu3SGabQGuPKBD7C1qkCcpxwEFfdW6I9DJoSnmMmbkAu24SN1R_B2HNYwi-niSiST1LJqwMQ7tspMjxMyHXJtZUxGZbb2Hb1k-_2ywcG5hWFhOKQubJsYXiq8hyphenhyphenFfLyVewIet_ZcdTmNZEc9-Fum/s1600/godd.png"
+    },
+    {
+      "id": "7775e1d32ffc2bba9b28e875ec724493df3bd531",
+      "title": "Critical cPanel Vulnerability Weaponized to Target Government and MSP Networks",
+      "url": "https://thehackernews.com/2026/05/critical-cpanel-vulnerability.html",
+      "published": "2026-05-04T09:27:00+00:00",
+      "summary": "A previously unknown threat actor has been observed targeting government and military entities in Southeast Asia, alongside a smaller cluster of managed service providers (MSPs) and hosting providers in the Philippines, Laos, Canada, South Africa, and the U.S., by exploiting the recently disclosed vulnerability in cPanel.\nThe activity, detected by Ctrl-Alt-Intel on May 2, 2026, involves the",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlgjtQddA9U3D-xf2UWj5GKV2R5tEwjqWWY9fwRQi_fZgG5tf140uw2P4oVfmcvPZcMYuFDo1mvqYKkgKSmgfBxVloaWTrN7vgPiH1FX8ivdh8PFBN9LvfJF13a0ajbXDLEV20pr9d2rSoQo4KWbDYSpSOFJYoPYDHizXQ3tYNGVhhysD8h3FWWpOkHytN/s1600/ccc.jpg"
+    },
+    {
+      "id": "01d5fc440eeb4c89328f202b4369847b7aaed9e3",
+      "title": "Global Crackdown Arrests 276, Shuts 9 Crypto Scam Centers, Seizes $701M",
+      "url": "https://thehackernews.com/2026/05/global-crackdown-arrests-276-shuts-9.html",
+      "published": "2026-05-04T05:59:00+00:00",
+      "summary": "A coordinated international operation involving U.S. and Chinese authorities has arrested at least 276 suspects and shut down nine scam centers used for cryptocurrency investment fraud schemes targeting Americans, resulting in millions of dollars in losses.\nThe crackdown was led by the Dubai Police, under the United Arab Emirates (UAE) Ministry of Interior, in partnership with the U.S. Federal",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVrpguh4mhS2wkIhYWPYbS2Nsjl1RPI5gpXYCZwdMyJtKk9uRU1yDIxTq7itnRWazzARvSlJ9oZTsKvGyWqOMjGyOPQ0YX6nNgUuJ9R2dD0X3Mv9Bjc0HvY3TeZHVQfLhXZd-w88FMBV71qJCVedcKQhL0Wd8YH7Jzwbasus9GF6LLzaRGG0tOFxP5TwmS/s1600/SCAMS.jpg"
     },
     {
       "id": "12c77eec7a305ebe5190969354efe2d59e8d7f96",
@@ -618,48 +662,15 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3GuK50sJwMRH4ad8bcUVRSBm1Wk0X5Gj1dSalza49wWxFY9g3_E32271zOeqx6vsqrWY2SWAVnnXTKiJZvKbhxynk018zLTIlZpBNhFA_QVi6kzn7vATBe419m222ZMUcTToaSn19L4DgElrI9luwUv2EJk0efy5TLDIqIUyGcOnTvVU2KKZw9AMsMipz/s1600/bitwarden.jpg"
     },
     {
-      "id": "87768c2b55d851d8bbcea226b56718d8333cd32f",
-      "title": "ThreatsDay Bulletin: $290M DeFi Hack, macOS LotL Abuse, ProxySmart SIM Farms +25 New Stories",
-      "url": "https://thehackernews.com/2026/04/threatsday-bulletin-290m-defi-hack.html",
-      "published": "2026-04-23T13:17:00+00:00",
-      "summary": "You scroll past one incident and see another that feels familiar, like it should have been fixed years ago, but it still works with small changes. Same bugs. Same mistakes.\nThe supply chain is messy. Packages you did not check are stealing data, adding backdoors, and spreading. Attacking the systems behind apps is easier than breaking the apps themselves. The exploits are simple but still work",
-      "source": "The Hacker News",
+      "id": "8a45e453a80566125329f66346f9c8df57183beb",
+      "title": "How Dark Reading Lifted Off the Launchpad in 2006",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/how-dark-reading-lifted-off-launchpad-2006",
+      "published": "2026-05-04T11:15:08+00:00",
+      "summary": "Twenty years ago, this media brand didn't have a print edition to attract eyeballs and sponsors. Top-notch content and editorial talent did the heavy lifting.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCPlFIV8w3UXOQRe4cwOn8C-x6WYxvZnNAOHSUnzIg8TFswCnJNoyTFJTdzAbl_a6JNCzhbAk4yGQbhI_cjF-FATAAmJJJiLjo2cZgbMQpfhYnrH6MFv6TVEqC3sblGQPViYTDE0o3alqO3YsIzatrw7NwlTkv1g6NkiVegSWKuRuQcajEyNdAUEaTamQ-/s1600/threatsday.jpg"
-    },
-    {
-      "id": "cc493867d73c02dca31aafdf6a3458c626f69950",
-      "title": "[Webinar] Mythos Reality Check: Beating Automated Exploitation at AI Speed",
-      "url": "https://thehackernews.com/2026/04/webinar-mythos-reality-check-beating.html",
-      "published": "2026-04-23T12:03:00+00:00",
-      "summary": "Imagine a world where hackers don't sleep, don't take breaks, and find weak spots in your systems instantly.\nWell, that world is already here.\nThanks to AI, attackers are now launching automated, large-scale exploits faster than ever before. The time you have to fix a vulnerability before it gets attacked is shrinking to zero. We call this the Collapsing Exploit Window, and it means your",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirgCFjBm7wVU1Nve1GwsT-mX4Fm9C2OB25FN0xsgQxB5H1y0XN-I4TrfFH3f47uWBie1-yNBz_K2tuml0FOagCnaxI5xQvqoVbpzOUU6bCoaBZLohQWPSWF4r2YSEXIQKt3FRdoSXjvAk8OTmysTV4uoPD87y-3Boh7UzcJoUFIQxkmB576KIDMtU0YHDx/s1600/miggo-webinar.jpg"
-    },
-    {
-      "id": "14b31915839958589c775873e38f9b3081a3ae0a",
-      "title": "Project Glasswing Proved AI Can Find the Bugs. Who's Going to Fix Them?",
-      "url": "https://thehackernews.com/2026/04/project-glasswing-proved-ai-can-find.html",
-      "published": "2026-04-23T11:30:00+00:00",
-      "summary": "Last week, Anthropic announced Project Glasswing, an AI model so effective at discovering software vulnerabilities that they took the extraordinary step of postponing its public release. Instead, the company has given access to Apple, Microsoft, Google, Amazon, and a coalition of others to find and patch bugs before adversaries can.\nMythos Preview, the model that led to Project Glasswing, found",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkzSPo6TkrJjcTvsuM1O71fiiZ7gnKw4PqqtKu_TeAaZNr5qAEfsfVvoZv64F7EFULRIv8SKePHZehY_0g9AqyqlnMdTPF-OLf1S9RwmB-edOgYKEg1Llw-6m87CQBglHxbK3oS0Brnwc9_x_oi56XGuxe1V9vN0KfoY9cUmU4mplEHeqQxO-5byx79YY/s1600/picus-main.jpg"
-    },
-    {
-      "id": "5171ff98ef351e5e12cac06d86b6e978c3b87d55",
-      "title": "China-Linked GopherWhisper Infects 12 Mongolian Government Systems with Go Backdoors",
-      "url": "https://thehackernews.com/2026/04/china-linked-gopherwhisper-infects-12.html",
-      "published": "2026-04-23T09:04:00+00:00",
-      "summary": "Mongolian governmental institutions have emerged as the target of a previously undocumented China-aligned advanced persistent threat (APT) group tracked as GopherWhisper.\n\"The group wields a wide array of tools mostly written in Go, using injectors and loaders to deploy and execute various backdoors in its arsenal,\" Slovakian cybersecurity company ESET said in a report shared with The Hacker",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcPZEHQ2ePgeeD1JO3nqkHDxu5XWd53XZ8GsPxgX5Gl3vY-isf7bdT1_8ZGbMGOwic5gJKYXp0G5rIiSacQvidnb3_voREgqsyanhwo0uQs1HLNXACrsV2tLmHXlxA4FizErdbwb5o35MEDIrZKMkDsAAzIVPt0g6pTMbsZSN7SIwTEozmgX7MO26XxapY/s1600/chinese-hacking.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt68bbd8619ec3a55e/69f4fc58074d2d36cd223882/rocket_Tribune_Content_Agency_LLC.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "id": "2ed2063bc3f1bfb43e4c80d322b9cda332728bec",
@@ -1201,15 +1212,26 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta5e672c25e2a318e/689359079136f61896630252/vulnerability-ktdesign-AdobeStock.jpeg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "056cba06e77d984e50cddbe0e78c57caa99b949d",
-      "title": "North Korea Uses ClickFix to Target macOS Users' Data",
-      "url": "https://www.darkreading.com/application-security/north-korea-clickfix-target-macos-users-data",
-      "published": "2026-04-16T19:42:45+00:00",
-      "summary": "Sapphire Sleet uses fake job offers and phony Zoom updates to deliver ClickFix attacks that steal credentials and sensitive data from Macs.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5cc61f368315b744/69e10ffdc8863fd06c049539/Mac_Mouse_Click_Edwin_Remsberg_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "id": "4e1072ead29dfa02582ed728faae752de91976e7",
+      "title": "If the vote you rocked, your personal info can be grokked",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/05/04/public_voter_records_weaponized_for_privacy_violation/",
+      "published": "2026-05-04T09:06:12+00:00",
+      "summary": "<h4>Even limited voter rolls can be linked to identify people, research shows</h4> <p>Your voter data could be used against you. A foreign intelligence service that wished to identify the family members of deployed military personnel could do so by cross-referencing public voter record data and social media posts.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "906d17dc41409a199ecef6c0383e4abd4ae1f6dc",
+      "title": "Five Eyes spook shops warn rapid rollouts of agentic AI are too risky",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/05/04/five_eyes_agentic_ai_recommendations/",
+      "published": "2026-05-04T02:35:29+00:00",
+      "summary": "<h4>Prioritize resilience over productivity, say CISA, NCSC and their friends from Oz, NZ, Canada</h4> <p>Information security agencies from the nations of the Five Eyes security alliance have co-authored guidance on the use of agentic AI that warns the technology will likely misbehave and amplifies organizations\u2019 existing frailties, and therefore recommend slow and careful adoption of the tech.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
       "id": "5ab4a0d539b38463607e230432dd65f3412702eb",
@@ -1740,28 +1762,6 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "ddef0e0cbe449956b322110e043d648da99a3065",
-      "title": "Weak security means attackers could disable all of a city's public EV chargers",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/24/rentable_iot_security_flaws/",
-      "published": "2026-04-24T04:10:33+00:00",
-      "summary": "<h4>Demonstrated in China, probably applicable elsewhere</h4> <p><strong>Black Hat Asia</strong>\u00a0 Developers of rented internet of things infrastructure \u2013 stuff like public EV chargers and shared e-bikes \u2013 are prioritizing user convenience over security, and leaving themselves exposed to wide-scale denial of service attacks on their services.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "9746a622aa3954c63cf3af357806413b97681988",
-      "title": "Dev targeted by sophisticated job scam: 'I let my guard down, and ran the freaking code'",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/23/job_scam_targeted_developer/",
-      "published": "2026-04-23T21:38:27+00:00",
-      "summary": "<h4>Legit-looking website, camera-on interviews, jokes about backdoors ... it worked</h4> <p><strong>EXCLUSIVE</strong>\u00a0 It all started with a LinkedIn message, as so many employment scams do these days.\u2026</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
       "id": "7658a178c379a4d68bcdc6eac46d94668871ad90",
       "title": "Anti-DDoS Firm Heaped Attacks on Brazilian ISPs",
       "url": "https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps/",
@@ -1817,6 +1817,72 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "8690a12ab309b0bc19206d32c29cf88ba3c0f9f2",
+      "title": "Cybersecurity M&A Roundup: 33 Deals Announced in April 2026",
+      "url": "https://www.securityweek.com/cybersecurity-ma-roundup-33-deals-announced-in-april-2026/",
+      "published": "2026-05-04T13:02:28+00:00",
+      "summary": "<p>Significant cybersecurity M&#038;A deals announced by Airbus, Cyera, Fortra, Palo Alto Networks, Silverfort, and Socket.</p>\n<p>The post <a href=\"https://www.securityweek.com/cybersecurity-ma-roundup-33-deals-announced-in-april-2026/\">Cybersecurity M&#038;A Roundup: 33 Deals Announced in April 2026</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "87c9d507fe3211fe7a01102f4b2ba9331c48da69",
+      "title": "DigiCert Revokes Certificates After Support Portal Hack",
+      "url": "https://www.securityweek.com/digicert-revokes-certificates-after-support-portal-hack/",
+      "published": "2026-05-04T12:46:53+00:00",
+      "summary": "<p>Hackers delivered malware via a customer chat channel, infected an analyst\u2019s system, and accessed the internal support portal.</p>\n<p>The post <a href=\"https://www.securityweek.com/digicert-revokes-certificates-after-support-portal-hack/\">DigiCert Revokes Certificates After Support Portal Hack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "43a3337f3cbbf06096a4aa75bd3291ee881b9ab0",
+      "title": "Exploitation of \u2018Copy Fail\u2019 Linux Vulnerability Begins",
+      "url": "https://www.securityweek.com/exploitation-of-copy-fail-linux-vulnerability-begins/",
+      "published": "2026-05-04T10:42:33+00:00",
+      "summary": "<p>CISA has added the bug to its KEV list, and Microsoft has observed limited exploitation, mainly associated with PoC testing.</p>\n<p>The post <a href=\"https://www.securityweek.com/exploitation-of-copy-fail-linux-vulnerability-begins/\">Exploitation of &#8216;Copy Fail&#8217; Linux Vulnerability Begins</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "9adbc7b9ad4e211f2748486d7665e67be6f8279c",
+      "title": "OpenAI Rolls Out Advanced Security for ChatGPT Accounts",
+      "url": "https://www.securityweek.com/openai-rolls-out-advanced-security-for-chatgpt-accounts/",
+      "published": "2026-05-04T09:29:30+00:00",
+      "summary": "<p>Advanced Account Security provides stronger login methods, more secure account recovery, shorter sessions, and training exclusion.</p>\n<p>The post <a href=\"https://www.securityweek.com/openai-rolls-out-advanced-security-for-chatgpt-accounts/\">OpenAI Rolls Out Advanced Security for ChatGPT Accounts</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "a9c30db2125ef5d451ea2475f7646c65227596eb",
+      "title": "Over 40,000 Servers Compromised in Ongoing cPanel Exploitation",
+      "url": "https://www.securityweek.com/over-40000-servers-compromised-in-ongoing-cpanel-exploitation/",
+      "published": "2026-05-04T08:25:04+00:00",
+      "summary": "<p>The attacks likely target CVE-2026-41940, a recently patched zero-day leading to administrative access.</p>\n<p>The post <a href=\"https://www.securityweek.com/over-40000-servers-compromised-in-ongoing-cpanel-exploitation/\">Over 40,000 Servers Compromised in Ongoing cPanel Exploitation</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "bfff5328e7a323265d208c0c50ebcbfa9b281b94",
+      "title": "Edtech Firm Instructure Discloses Data Breach Amid Hacker Leak Threats",
+      "url": "https://www.securityweek.com/edtech-firm-instructure-discloses-data-breach/",
+      "published": "2026-05-04T07:02:51+00:00",
+      "summary": "<p>Hackers disrupted services and stole names, email addresses, student ID numbers, and user messages.</p>\n<p>The post <a href=\"https://www.securityweek.com/edtech-firm-instructure-discloses-data-breach/\">Edtech Firm Instructure Discloses Data Breach Amid Hacker Leak Threats</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "42625b9217bb70860f325589654ee2cbdb9a7aa2",
       "title": "US Military Reaches Deals With 7 Tech Companies to Use Their AI on Classified Systems",
       "url": "https://www.securityweek.com/us-military-reaches-deals-with-7-tech-companies-to-use-their-ai-on-classified-systems/",
@@ -1855,72 +1921,6 @@
       "url": "https://www.securityweek.com/google-adjusts-bug-bounties-chrome-payouts-drop-as-android-rewards-rise-amid-ai-surge/",
       "published": "2026-05-01T14:26:14+00:00",
       "summary": "<p>The maximum reward for a zero-click Pixel Titan M exploit with persistence has increased to $1.5 million.</p>\n<p>The post <a href=\"https://www.securityweek.com/google-adjusts-bug-bounties-chrome-payouts-drop-as-android-rewards-rise-amid-ai-surge/\">Google Adjusts Bug Bounties: Chrome Payouts Drop as Android Rewards Rise Amid AI Surge</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "aaaf9dadafa354369a6e55881dfa1c0396128092",
-      "title": "Two US Security Experts Sentenced to Prison for Helping Ransomware Gang",
-      "url": "https://www.securityweek.com/two-us-security-experts-sentenced-to-prison-for-helping-ransomware-gang/",
-      "published": "2026-05-01T11:37:03+00:00",
-      "summary": "<p>Ryan Goldberg of Georgia and Kevin Martin of Texas were each sentenced to four years in prison.\u00a0</p>\n<p>The post <a href=\"https://www.securityweek.com/two-us-security-experts-sentenced-to-prison-for-helping-ransomware-gang/\">Two US Security Experts Sentenced to Prison for Helping Ransomware Gang</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "66837690b36e48a9ed3e60635668741c874d2b92",
-      "title": "Sophisticated Deep#Door Backdoor Enables Espionage, Disruption",
-      "url": "https://www.securityweek.com/sophisticated-deepdoor-backdoor-enables-espionage-disruption/",
-      "published": "2026-05-01T11:08:50+00:00",
-      "summary": "<p>The stealthy Python-based backdoor framework deploys a persistent Windows implant likely designed for espionage.</p>\n<p>The post <a href=\"https://www.securityweek.com/sophisticated-deepdoor-backdoor-enables-espionage-disruption/\">Sophisticated Deep#Door Backdoor Enables Espionage, Disruption</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "62b1d6ada8a4618834bc1f19890b5c6844fe8f0c",
-      "title": "Cisco Releases Open Source Tool for AI Model Provenance",
-      "url": "https://www.securityweek.com/cisco-releases-open-source-tool-for-ai-model-provenance/",
-      "published": "2026-05-01T10:18:39+00:00",
-      "summary": "<p>The new kit aims to address risks related to poisoned models, regulatory issues, supply chain integrity, and incident response.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisco-releases-open-source-tool-for-ai-model-provenance/\">Cisco Releases Open Source Tool for AI Model Provenance\u00a0</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "44d4bca874755390e05cc61fa90118d15a75fe27",
-      "title": "Hugging Face, ClawHub Abused for Malware Distribution",
-      "url": "https://www.securityweek.com/hugging-face-clawhub-abused-for-malware-distribution/",
-      "published": "2026-05-01T08:41:57+00:00",
-      "summary": "<p>Threat actors are relying on social engineering to lure users into downloading files containing malicious instructions.</p>\n<p>The post <a href=\"https://www.securityweek.com/hugging-face-clawhub-abused-for-malware-distribution/\">Hugging Face, ClawHub Abused for Malware Distribution</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "c92ae758886fcf662c37c2dcd030efb467cd4ab3",
-      "title": "FBI Warns of Surge in Hacker-Enabled Cargo Theft",
-      "url": "https://www.securityweek.com/fbi-warns-of-surge-in-hacker-enabled-cargo-theft/",
-      "published": "2026-05-01T08:11:20+00:00",
-      "summary": "<p>A new alert from the FBI says criminal enterprises are hacking both brokers and carriers to steal cargo for resale.</p>\n<p>The post <a href=\"https://www.securityweek.com/fbi-warns-of-surge-in-hacker-enabled-cargo-theft/\">FBI Warns of Surge in Hacker-Enabled Cargo Theft</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "065a12935adad15bc741c09ccf9482eb7190434d",
-      "title": "1,800 Hit in Mini Shai-Hulud Attack on SAP, Lightning, Intercom",
-      "url": "https://www.securityweek.com/1800-hit-in-mini-shai-hulud-attack-on-sap-lightning-intercom/",
-      "published": "2026-05-01T07:33:40+00:00",
-      "summary": "<p>The compromised Lightning and Intercom packages have a combined monthly download count of nearly 10 million.</p>\n<p>The post <a href=\"https://www.securityweek.com/1800-hit-in-mini-shai-hulud-attack-on-sap-lightning-intercom/\">1,800 Hit in Mini Shai-Hulud Attack on SAP, Lightning, Intercom</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
