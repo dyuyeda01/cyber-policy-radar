@@ -1,6 +1,28 @@
 {
-  "generated_at": "2026-05-04T13:16:02.899605+00:00",
+  "generated_at": "2026-05-05T01:24:57.751364+00:00",
   "items": [
+    {
+      "id": "0cb37921a48951ce09e6207c8f9af9583a33cd81",
+      "title": "Critical vulnerability in cPanel leads to widespread exploitation",
+      "url": "https://www.cybersecuritydive.com/news/critical-vulnerability-cpanel-widespread-exploitation/819208/",
+      "published": "2026-05-04T15:20:00+00:00",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/e9UVn0J0pxbzSqZQul1LflrcRTLARXZ6kSZrCZUl-uU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTUxOTA0NTc5XzEuanBn.webp\" /></div></figure><p>Researchers warn that threat activity continues to surge, including brute force attacks and ransomware.</p>",
+      "source": "Cybersecurity Dive",
+      "region": "North America",
+      "country": "US",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "359030fdfa068bae4bb080eae4de63daf837a2d9",
+      "title": "New MOVEit vulnerabilities prompt urgent patch warning",
+      "url": "https://www.cybersecuritydive.com/news/moveit-vulnerabilities-authentication-bypass-privilege-escalation/819187/",
+      "published": "2026-05-04T14:24:46+00:00",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/NjwGuFSD7d2ngWzICtdu1cBGhU5xD8eFDtEstRsmNls/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTI4ODQ1MzYxLmpwZw==.webp\" /></div></figure><p>Progress Software warned customers to immediately upgrade the file-transfer tool to fix the serious flaws.</p>",
+      "source": "Cybersecurity Dive",
+      "region": "North America",
+      "country": "US",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
     {
       "id": "3ef57b7ab55d1b1eb44cfe448fc309612e8b8dac",
       "title": "How OpenClaw\u2019s agent skills become an attack surface",
@@ -90,26 +112,37 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "55e35280b250d81be5293c78a86a8662ad289644",
-      "title": "\u2018Fundamental tension\u2019 undermines manufacturers\u2019 cybersecurity",
-      "url": "https://www.cybersecuritydive.com/news/manufacturing-cybersecurity-threats-resilience/818680/",
-      "published": "2026-04-28T14:51:12+00:00",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/EnqYUd6FdjKmGtKHri0pq67ryyI15d-QTBDjXs34JEY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzgzMTI2NTEyLmpwZw==.webp\" /></div></figure><p>A simple security mistake caused roughly one-quarter of all financial losses in the sector in 2025, cybersecurity insurer Resilience said.</p>",
-      "source": "Cybersecurity Dive",
+      "id": "423da35cd9d46b1ac89dd99dc6f3fe095c08520a",
+      "title": "Phishing Campaign Hits 80+ Orgs Using SimpleHelp and ScreenConnect RMM Tools",
+      "url": "https://thehackernews.com/2026/05/phishing-campaign-hits-80-orgs-using.html",
+      "published": "2026-05-04T18:06:00+00:00",
+      "summary": "An active phishing campaign has been observed targeting multiple vectors since at least April 2025, with legitimate Remote Monitoring and Management (RMM) software as a way to establish persistent remote access to compromised hosts.\nThe activity, codenamed VENOMOUS#HELPER, has impacted over 80 organizations, most of which are in the U.S., according to Securonix. It shares overlaps with clusters",
+      "source": "The Hacker News",
       "region": "North America",
       "country": "US",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqa_ifaDYXI_GirxdHpZgSiE6fjnNdCmviv3QO9JsRvy1ddAWCRfoNd032ANB7pNfFMS4hLEwkfNHPHC5MNwkhK6XRjbe_y8qzWGpXRsdqhMnnUMGguScuIYtcUNQqQlmZkY4BUXy-ue6fAlor8LOfvEZNZrOq0JrIbOc2jXXAUBarqlodfdsIshRq7dXi/s1600/phishing-org.jpg"
     },
     {
-      "id": "6e2730235716b877ebcb87cd828eafcddae9cd6c",
-      "title": "North Korea-linked actor targets Web3 execs in social-engineering campaign",
-      "url": "https://www.cybersecuritydive.com/news/north-korea-web3-execs-social-engineering-hacker/818639/",
-      "published": "2026-04-28T03:42:19+00:00",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/O3HQ8M7n3of2MQgDO4TeZppQAWkrkZa-SCV557HaI5c/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzIxNTE1ODM4LmpwZw==.webp\" /></div></figure><p>Founders and other top executives were compromised to gain access to crypto wallets.</p>",
-      "source": "Cybersecurity Dive",
+      "id": "2f4f35446dc4963babf596bfaec17e6ce786c133",
+      "title": "Progress Patches Critical MOVEit Automation Bug Enabling Authentication Bypass",
+      "url": "https://thehackernews.com/2026/05/progress-patches-critical-moveit.html",
+      "published": "2026-05-04T16:34:00+00:00",
+      "summary": "Progress Software has released updates to address two security flaws in MOVEit Automation, including a critical bug that could result in an authentication bypass.\nMOVEit Automation (formerly Central) is a secure, server-based managed file transfer (MFT) solution used to schedule and automate file movement workflows in enterprise environments without requiring any custom scripts.&nbsp;\nThe",
+      "source": "The Hacker News",
       "region": "North America",
       "country": "US",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTvgdRkcdOwctclhM5XBvKXGGFrqpNsd7pJsR6Qk9QfhVd52KaiNWtY6kbWYbxzweFJDx5-sXo5UmIGJZ2yKbiSqntFDcYS7aDV_hUlAuNtcFzIPf_MDdqWq9eeyzZwJXx9__K5ynAXHc-7kJ6i66ifjuGrFqfLdn4-yDTvmL1oSZ-kVX2V9eoTq-xdiKa/s1600/moveit.jpg"
+    },
+    {
+      "id": "4885450a3111e0c4e99425a31147413e83a7dff7",
+      "title": "\u26a1 Weekly Recap: AI-Powered Phishing, Android Spying Tool, Linux Exploit, GitHub RCE & More",
+      "url": "https://thehackernews.com/2026/05/weekly-recap-ai-powered-phishing.html",
+      "published": "2026-05-04T14:23:00+00:00",
+      "summary": "This week, the shadows moved faster than the patches.\nWhile most teams were still triaging last month\u2019s alerts, attackers had already turned control panels into kill switches, kernels into open doors, and open-source pipelines into silent delivery systems.\nThe game has shifted from breach to occupation. They\u2019re living inside SaaS sessions, pushing code with trusted commits, and scaling",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_j3mVDqxMVjGlF1qpGV3nSUfIhHsxGDl7Nt6QQFwRUA-qOtj22zKVcE7B7UTCcjLdUrsjLPB5N7TiX8Hzjx8Hq8LPy_GdAfcO_AqMwDDWRyQ6dWdeXzFOQa1KYm8rUUDCgwCbR9kN7OCheQyc0Ijz2MuXGkY6bsqHwlBtV34Q6xH2VAPRDUjFFThKk46X/s1600/CYBERRECAP.jpg"
     },
     {
       "id": "86ea4b30666e4e39dfd446797472b848663515a9",
@@ -629,37 +662,37 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheXZWhV-F6JpyIS7BshxCI158lslIFwx6XU9K15AoGDti8DVknLSrhAEc9HybQjSHfjfuKpGJ5by4EJamG4RV_7v8_SzlmhmSlxcfIBRaYX913E8f6-z0NQyMJ9g0VkszTUY726Csg6xWhwY16ygTe_JySvgj-JkaMyX4ZdM7yCuxRT_98lv22nywvy6r5/s1600/cyberattack.jpg"
     },
     {
-      "id": "eb6cd997c828ae6c5413183393f174b18d7f4097",
-      "title": "LMDeploy CVE-2026-33626 Flaw Exploited Within 13 Hours of Disclosure",
-      "url": "https://thehackernews.com/2026/04/lmdeploy-cve-2026-33626-flaw-exploited.html",
-      "published": "2026-04-24T07:24:00+00:00",
-      "summary": "A high-severity security flaw in LMDeploy, an open-source toolkit for compressing, deploying, and serving large language models (LLMs), has come under active exploitation in the wild less than 13 hours after its public disclosure.\nThe vulnerability, tracked as CVE-2026-33626 (CVSS score: 7.5), relates to a Server-Side Request Forgery (SSRF) vulnerability that could be exploited to access",
-      "source": "The Hacker News",
+      "id": "5062b8648fc2df56a37c9530a88a3d3b67a5ce03",
+      "title": "RMM Tools Fuel Stealthy Phishing Campaign",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/rmm-tools-stealthy-phishing-campaign",
+      "published": "2026-05-04T20:56:34+00:00",
+      "summary": "Attackers are abusing two remote monitoring and management (RMM) tools to evade detection in a campaign that has impacted over 80 organizations so far.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjQrFbHBSUJCgc3WB8IsBaYhvbOnk7jwkU3MRHO7YVAFZBBwi7LE2OZzC_oddjsfbh_YwW7czfQ0FzCpHyztt-N8po5TkqZqsOhm_LpW4dxmzaDtGkud-vho2R409maf5r_QBAPjGUpfFShbENQ-qIpwaQ0eNmBgD7U-Pgu4uFgSzGRxt6O7kKLAg_PyVg/s1600/lmdeploy.png"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf46275f28f98b091/69f8f7d214132e1bc74be18d/rmm_Digitala_World_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "28630c22de5482e445742f3d9fe84fe67e955392",
-      "title": "UNC6692 Impersonates IT Help Desk via Microsoft Teams to Deploy SNOW Malware",
-      "url": "https://thehackernews.com/2026/04/unc6692-impersonates-it-helpdesk-via.html",
-      "published": "2026-04-23T18:16:00+00:00",
-      "summary": "A previously undocumented threat activity cluster known as UNC6692 has been observed leveraging social engineering tactics via Microsoft Teams to deploy a custom malware suite on compromised hosts.\n\"As with many other intrusions in recent years, UNC6692 relied heavily on impersonating IT help desk employees, convincing their victim to accept a Microsoft Teams chat invitation from an account",
-      "source": "The Hacker News",
+      "id": "e57c509292a0df0dc0c7526a89342e7de42974c9",
+      "title": "Exploit Cyber-Frenzy Threatens Millions via Critical cPanel Vulnerability",
+      "url": "https://www.darkreading.com/threat-intelligence/exploit-cyber-frenzy-critical-cpanel-vulnerability",
+      "published": "2026-05-04T19:14:14+00:00",
+      "summary": "Shortly after the authentication-bypass flaw was disclosed multiple proof-of-concept exploits appeared, and one researcher claims there's been zero-day activity for at least a month.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHoBLtF5qmS63UuZJdrs4DtwoJRc6V3OK_4vUjCp-mHUs99AlJkzxcQgZH-tD0dFneYJHfBEumdGw42jcqcYHYiqmNHBtHZVB7m83pxPakcbupcdcRmDzg2fedK4doHPUwOfGoqY2a44VUwgK1g8cyZSgpMmpzcbWuBrzxvdalA9bkt8_26WkdIfZy6qqa/s1600/helpdesk.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd788cf590f1679de/69f8f0d8468cc9ebbfe375b3/cpanel_IBPhotography_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "6efd8aabaa2d293aac535b0d67341511ba0e7ecd",
-      "title": "Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain Campaign",
-      "url": "https://thehackernews.com/2026/04/bitwarden-cli-compromised-in-ongoing.html",
-      "published": "2026-04-23T13:42:00+00:00",
-      "summary": "Bitwarden CLI, the command-line interface for the password manager Bitwarden, has reportedly been compromised as part of a newly discovered and ongoing Checkmarx supply chain campaign, according to findings from JFrog and Socket.\n\"The affected package version appears to be @bitwarden/cli@2026.4.0, and the malicious code was published in 'bw1.js,' a file included in the package contents,\" the",
-      "source": "The Hacker News",
+      "id": "1084384f7509f4f88e9189f0b470f790faef6f7a",
+      "title": "Silver Fox Springs Tax-Themed Attacks on Orgs in India, Russia",
+      "url": "https://www.darkreading.com/endpoint-security/silver-fox-tax-themed-attacks-india-russia",
+      "published": "2026-05-04T14:39:26+00:00",
+      "summary": "More than 1,600 socially engineered messages from the China-backed advanced persistent threat (APT) group target various sectors to deliver the previously undocumented ABCDoor backdoor, ValleyRAT, and other malware.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3GuK50sJwMRH4ad8bcUVRSBm1Wk0X5Gj1dSalza49wWxFY9g3_E32271zOeqx6vsqrWY2SWAVnnXTKiJZvKbhxynk018zLTIlZpBNhFA_QVi6kzn7vATBe419m222ZMUcTToaSn19L4DgElrI9luwUv2EJk0efy5TLDIqIUyGcOnTvVU2KKZw9AMsMipz/s1600/bitwarden.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta82565fb6653cd0e/69f88e988135d0869c215e99/silver-fox-closeup-ambquinn-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "id": "8a45e453a80566125329f66346f9c8df57183beb",
@@ -1179,37 +1212,26 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt70085bc1304b3cb3/69e2855c41f7f85ddb368bc3/QR_code-Harry_Wedzinga-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "c1a907075b9aa989a8bbe1160bc69eebd7db5026",
-      "title": "Every Old Vulnerability Is Now an AI Vulnerability",
-      "url": "https://www.darkreading.com/vulnerabilities-threats/every-old-vulnerability-ai-vulnerability",
-      "published": "2026-04-17T14:47:18+00:00",
-      "summary": "AI's danger isn't that it's creating new bugs, it's that it's amplifying old ones.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc29c0d49db0e3dc1/69e15cd7061435b0d4675403/cute_robot_power_off_button.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "id": "8b33d5c61c8319d7a643e8889e3b1438ce6584ea",
+      "title": "Kids say they can beat age checks by drawing on a fake mustache",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/05/04/uk_online_safety_act_age_checks_subvert/",
+      "published": "2026-05-04T20:50:10+00:00",
+      "summary": "<h4>46% say age checks are easy to bypass, and nearly a third admit getting around them</h4> <p>It\u2019s been months since the UK government began requiring stronger age checks under the Online Safety Act, and recent research suggests those measures are falling short of keeping kids away from harmful content. In some cases, even drawing on a mustache has been reported as enough to fool age detection software.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "2aba86e711a21bc6121280019d3264d1a6591046",
-      "title": "Coast Guard's New Cybersecurity Rules Offer Lessons for CISOs",
-      "url": "https://www.darkreading.com/cybersecurity-operations/coast-guards-cybersecurity-rules-lessons-cisos",
-      "published": "2026-04-17T13:00:00+00:00",
-      "summary": "The Maritime Transportation Security Act (MTSA) requires plans to protect OT systems, audits by independent third parties, and a hybrid OT-security role.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6abfeadd95d5d9a7/69e150afd52b1acba510683c/maritime-shipping-GreenOak-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
-      "id": "d34ac4d8dec65cfb4bd0a53e4e4b4a02cfd5a210",
-      "title": "NIST Revamps CVE Framework to Focus on High-Impact Vulnerabilities",
-      "url": "https://www.darkreading.com/vulnerabilities-threats/nist-revamps-cve-framework-to-focus-on-high-impact-vulnerabilities",
-      "published": "2026-04-16T21:47:31+00:00",
-      "summary": "The National Institute of Standards and Technology is carving a new path for vulnerability remediation by changing the way it prioritizes software flaws.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta5e672c25e2a318e/689359079136f61896630252/vulnerability-ktdesign-AdobeStock.jpeg?width=1280&auto=webp&quality=80&disable=upscale"
+      "id": "84a0ba9eed8fd010839745fbaf3ee20759ff4379",
+      "title": "Shadow IT has given way to shadow AI. Enter AI-BOMs",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/05/04/ai_bom_supply_chain/",
+      "published": "2026-05-04T15:04:20+00:00",
+      "summary": "<h4>'If you don't have visibility, you can't understand what to protect'</h4> <p>When it comes to securing enterprise supply chains, now heavily infused with AI applications and agents, a software bill of materials (SBOM) no longer provides a complete inventory of all the components in the environment. Enter AI-BOMs.\u2026</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
       "id": "4e1072ead29dfa02582ed728faae752de91976e7",
@@ -1740,78 +1762,23 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "0b19d66ea1229f848519807cf331d8b27c2c8e7e",
-      "title": "UK gov pays public \u00a3550 to discuss Digital ID \u2013 then bans journalists from the room",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/24/digital_it_consult/",
-      "published": "2026-04-24T08:30:07+00:00",
-      "summary": "<h4>Nothing says 'We want honest opinions' like a 36,000-letter mailshot with no awkward questions allowed</h4> <p>Members of the UK government\u2019s People\u2019s Panel on Digital ID will spend two weekends in Birmingham and three evenings on Zoom discussing how Britain should build a national digital identity system, earning \u00a3550 plus expenses for their trouble.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "0091c0a7333f3cb011c8ae5e2f9dc0c02aedec73",
-      "title": "Researchers find cyber-sabotage malware that may predate Stuxnet by five years",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/24/fast16_sabotage_malware/",
-      "published": "2026-04-24T06:56:22+00:00",
-      "summary": "<h4>FAST16 could be the first cyberweapon, and its effects could be with us today</h4> <p><strong>Black Hat Asia</strong>\u00a0 Infosec outfit SentinelOne found malware that tries to induce errors in engineering and physics simulation software and therefore represents an attempt at sabotage, and suggests it was created years before the Stuxnet worm that aimed to destroy Iran\u2019s uranium enrichment centrifuges.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "7658a178c379a4d68bcdc6eac46d94668871ad90",
-      "title": "Anti-DDoS Firm Heaped Attacks on Brazilian ISPs",
-      "url": "https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps/",
-      "published": "2026-04-30T14:04:26+00:00",
-      "summary": "A Brazilian tech firm that specializes in protecting networks from distributed denial-of-service (DDoS) attacks has been enabling a botnet responsible for an extended campaign of massive DDoS attacks against other network operators in Brazil, KrebsOnSecurity has learned. The firm's chief executive says the malicious activity resulted from a security breach and was likely the work of a competitor trying to tarnish his company's public image.",
-      "source": "Krebs on Security",
+      "id": "46c2ab5e8359f64ea998dc878bbc1620153356e8",
+      "title": "Cisco Moves to Acquire Astrix Security to Tackle Non-Human Identity Risks",
+      "url": "https://www.securityweek.com/cisco-moves-to-acquire-astrix-security-to-tackle-non-human-identity-risks/",
+      "published": "2026-05-04T19:00:26+00:00",
+      "summary": "<p>The acquisition strengthens Cisco\u2019s push into identity-centric security for AI and machine access.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisco-moves-to-acquire-astrix-security-to-tackle-non-human-identity-risks/\">Cisco Moves to Acquire Astrix Security to Tackle Non-Human Identity Risks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "34f5f0d9fa9b11f7df5d0cd4f2fa087685207d27",
-      "title": "\u2018Scattered Spider\u2019 Member \u2018Tylerb\u2019 Pleads Guilty",
-      "url": "https://krebsonsecurity.com/2026/04/scattered-spider-member-tylerb-pleads-guilty/",
-      "published": "2026-04-21T14:53:59+00:00",
-      "summary": "A 24-year-old British national and senior member of the cybercrime group \"Scattered Spider\" has pleaded guilty to wire fraud conspiracy and aggravated identity theft. Tyler Robert Buchanan admitted his role in a series of text-message phishing attacks in the summer of 2022 that allowed the group to hack into at least a dozen major technology companies and steal tens of millions of dollars worth of cryptocurrency from investors.",
-      "source": "Krebs on Security",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "440970fb36b038c70d5194dbf86cc8545a5ed7e4",
-      "title": "Patch Tuesday, April 2026 Edition",
-      "url": "https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/",
-      "published": "2026-04-14T21:47:59+00:00",
-      "summary": "Microsoft today pushed software updates to fix a staggering 167 security vulnerabilities in its Windows operating systems and related software, including a SharePoint Server zero-day and a publicly disclosed weakness in Windows Defender dubbed \"BlueHammer.\" Separately, Google Chrome fixed its fourth zero-day of 2026, and an emergency update for Adobe Reader nixes an actively exploited flaw that can lead to remote code execution.",
-      "source": "Krebs on Security",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "f4ae2ca794b7c1fd86daaf45e4145b2c6fd5d768",
-      "title": "Russia Hacked Routers to Steal Microsoft Office Tokens",
-      "url": "https://krebsonsecurity.com/2026/04/russia-hacked-routers-to-steal-microsoft-office-tokens/",
-      "published": "2026-04-07T17:02:44+00:00",
-      "summary": "Hackers linked to Russia's military intelligence units are using known flaws in older Internet routers to mass harvest authentication tokens from Microsoft Office users, security experts warned today. The spying campaign allowed state-backed Russian hackers to quietly siphon authentication tokens from users on more than 18,000 networks without deploying any malicious software or code.",
-      "source": "Krebs on Security",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "a8697ca5f1d9fdf9ccc343929a4a781742957f93",
-      "title": "Germany Doxes \u201cUNKN,\u201d Head of RU Ransomware Gangs REvil, GandCrab",
-      "url": "https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/",
-      "published": "2026-04-06T02:07:17+00:00",
-      "summary": "An elusive hacker who went by the handle \"UNKN\" and ran the early Russian ransomware groups GandCrab and REvil now has a name and a face. Authorities in Germany say 31-year-old Russian Daniil Maksimovich Shchukin headed both cybercrime gangs and helped carry out at least 130 acts of computer sabotage and extortion against victims across the country between 2019 and 2021.",
-      "source": "Krebs on Security",
+      "id": "79d2877debb66ef356b8c786d999a15f935acde0",
+      "title": "Trellix Source Code Repository Breached",
+      "url": "https://www.securityweek.com/trellix-source-code-repository-breached/",
+      "published": "2026-05-04T17:23:54+00:00",
+      "summary": "<p>The cybersecurity firm\u2019s investigation has not found any impact on its source code release or distribution process.\u00a0</p>\n<p>The post <a href=\"https://www.securityweek.com/trellix-source-code-repository-breached/\">Trellix Source Code Repository Breached</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
@@ -1899,28 +1866,6 @@
       "url": "https://www.securityweek.com/new-bluekit-phishing-kit-features-ai-assistant/",
       "published": "2026-05-02T10:50:00+00:00",
       "summary": "<p>Still under development, Bluekit provides users with automated domain registration and an AI Assistant.</p>\n<p>The post <a href=\"https://www.securityweek.com/new-bluekit-phishing-kit-features-ai-assistant/\">New Bluekit Phishing Kit Features AI Assistant</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "6c76e100438283adeb3174d5c652e98499374d8d",
-      "title": "In Other News: Scattered Spider Hacker Arrested, SOC Effectiveness Metrics, NSA Tool Vulnerability",
-      "url": "https://www.securityweek.com/in-other-news-scattered-spider-hacker-arrested-soc-effectiveness-metrics-nsa-tool-vulnerability/",
-      "published": "2026-05-01T15:01:27+00:00",
-      "summary": "<p>Other noteworthy stories that might have slipped under the radar: OFAC hits Iranian central bank crypto reserves, ADT data leak, CISA guidance for zero trust in OT.</p>\n<p>The post <a href=\"https://www.securityweek.com/in-other-news-scattered-spider-hacker-arrested-soc-effectiveness-metrics-nsa-tool-vulnerability/\">In Other News: Scattered Spider Hacker Arrested, SOC Effectiveness Metrics, NSA Tool Vulnerability\u00a0</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "685e387fa3a285cfd19bee463cc272e388003b15",
-      "title": "Google Adjusts Bug Bounties: Chrome Payouts Drop as Android Rewards Rise Amid AI Surge",
-      "url": "https://www.securityweek.com/google-adjusts-bug-bounties-chrome-payouts-drop-as-android-rewards-rise-amid-ai-surge/",
-      "published": "2026-05-01T14:26:14+00:00",
-      "summary": "<p>The maximum reward for a zero-click Pixel Titan M exploit with persistence has increased to $1.5 million.</p>\n<p>The post <a href=\"https://www.securityweek.com/google-adjusts-bug-bounties-chrome-payouts-drop-as-android-rewards-rise-amid-ai-surge/\">Google Adjusts Bug Bounties: Chrome Payouts Drop as Android Rewards Rise Amid AI Surge</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
