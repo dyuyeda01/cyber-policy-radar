@@ -1,6 +1,28 @@
 {
-  "generated_at": "2026-05-05T13:02:43.888002+00:00",
+  "generated_at": "2026-05-06T01:23:01.780320+00:00",
   "items": [
+    {
+      "id": "8d9d09df25285db8e8617531f380b04294b95de1",
+      "title": "Trellix investigating breach of source code repository",
+      "url": "https://www.cybersecuritydive.com/news/trellix-investigating-breach-source-code-repository/819327/",
+      "published": "2026-05-05T14:44:27+00:00",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/gCOJ_EwNreGTTTl9g9gZuHo047GIYZ66wEPdILb7MFU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9hZ2VudGljX0FJX2ltYWdlLmpwZw==.webp\" /></div></figure><p>The cybersecurity company said there is no immediate evidence of code being exploited or released.</p>",
+      "source": "Cybersecurity Dive",
+      "region": "North America",
+      "country": "US",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "73781a721e338c57666598f2253a7b56208981c0",
+      "title": "CISA urges critical infrastructure firms to \u2018fortify\u2019 before it\u2019s too late",
+      "url": "https://www.cybersecuritydive.com/news/cisa-ci-fortify-isolation-recovery-guidance/819317/",
+      "published": "2026-05-05T14:06:41+00:00",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/lxfs1zJVz8s3b4SHVN6cny7lkrXe3Jnr1HuR27unGIo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9jaXNhX29mZmljZS5qcGc=.webp\" /></div></figure><p>As concerns mount about potential cyber sabotage by the Chinese government, the U.S. is warning operators to practice maintaining services in a degraded state.</p>",
+      "source": "Cybersecurity Dive",
+      "region": "North America",
+      "country": "US",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
     {
       "id": "0cb37921a48951ce09e6207c8f9af9583a33cd81",
       "title": "Critical vulnerability in cPanel leads to widespread exploitation",
@@ -90,26 +112,37 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "f2e0575de15d8de60b93afd04e2c846e9c0a6ac8",
-      "title": "CISA adds Microsoft, ConnectWise vulnerabilities to active exploitation catalog",
-      "url": "https://www.cybersecuritydive.com/news/cisa-microsoft-connectwise-kev-update/818817/",
-      "published": "2026-04-29T14:56:07+00:00",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/p1t777lvRYTMuNm-9ZruuRPB3bo1Gk03gNobbnqCDZc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9DSVNBX2hlYWRlci5qcGc=.webp\" /></div></figure><p>Russia has used one of the flaws, security experts said, while North Korea has used the other.</p>",
-      "source": "Cybersecurity Dive",
+      "id": "36c123dc150cdcc57219fc8be3cbb08ce8cc4cfc",
+      "title": "Critical Apache HTTP/2 Flaw (CVE-2026-23918) Enables DoS and Potential RCE",
+      "url": "https://thehackernews.com/2026/05/critical-apache-http2-flaw-cve-2026.html",
+      "published": "2026-05-05T16:19:00+00:00",
+      "summary": "The Apache Software Foundation (ASF) has released security updates to address several security vulnerabilities in the HTTP Server, including a severe vulnerability that could potentially lead to remote code execution (RCE).\nThe vulnerability, tracked as CVE-2026-23918 (CVSS score: 8.8), has been described as a case of \"double free and possible RCE\" in the HTTP/2 protocol handling. This issue",
+      "source": "The Hacker News",
       "region": "North America",
       "country": "US",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjL7seGapCGfnl8pFznQajU2KsVPCE19qbtPTJb2sqpOuurkEKNI8ZwUui6QhYmDJODr1F5L7hrpfGBQfsCOT8oC2k_gbjmRPIFWpVZLpJzcdd9nb-UJyNNg4L9LTtEto1sSo3Fn1cIgWxgsH4Xs0GlRJgEt65_Eut7FRv7aQrkqYdJXiE9zDunU2spQOVP/s1600/apache.jpg"
     },
     {
-      "id": "33899f976241e70eaa8ceab79d7288543dd0841f",
-      "title": "State CISOs losing confidence in ability to manage cyber risks",
-      "url": "https://www.cybersecuritydive.com/news/state-cisos-losing-confidence-ability-manage-cyber-risks/818670/",
-      "published": "2026-04-29T13:00:00+00:00",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/8ilsQwGLasAHUXqupku8YyiXV6szKgbSXvM7A2zsFKI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjQ4MTY0NDU3LmpwZw==.webp\" /></div></figure><p>Deloitte-NASCIO study shows AI, budget pressures are forcing states to make tough decisions.</p>",
-      "source": "Cybersecurity Dive",
+      "id": "fa803931127700b0d59135b2ab8b1b18593714be",
+      "title": "DAEMON Tools Supply Chain Attack Compromises Official Installers with Malware",
+      "url": "https://thehackernews.com/2026/05/daemon-tools-supply-chain-attack.html",
+      "published": "2026-05-05T16:07:00+00:00",
+      "summary": "A newly identified supply chain attack targeting DAEMON Tools software has compromised its installers to serve a malicious payload, according to findings from Kaspersky.\n\"These installers are distributed from the legitimate website of DAEMON Tools and are signed with digital certificates belonging to DAEMON Tools developers,\" Kaspersky researchers&nbsp; Igor Kuznetsov, Georgy Kucherin, Leonid",
+      "source": "The Hacker News",
       "region": "North America",
       "country": "US",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghQDcWhFHnIEeEngbqyPFjkweCMgT7FoZRRZV0WYRuHg1cHip2O0lw2ahMc7jhJnzOCqqrLhzpM9w-O3eLpVdiCvI4C3-RD6XwqTkDxWdhzkS-W2BsbLy_SFwnjykdvvhuhjGnwPkFpOSJiapeWULhqx9er8hDH0sCCtoK51OrH4nSYqc_oAZwILcOi1A2/s1600/daemon.jpg"
+    },
+    {
+      "id": "433a4fbdf60c87a46e8fe4b25f6809a2f915e130",
+      "title": "China-Linked UAT-8302 Targets Governments Using Shared APT Malware Across Regions",
+      "url": "https://thehackernews.com/2026/05/china-linked-uat-8302-targets.html",
+      "published": "2026-05-05T14:19:00+00:00",
+      "summary": "A sophisticated China-nexus advanced persistent threat (APT) group has been attributed to attacks targeting government entities in South America since at least late 2024 and government agencies in southeastern Europe in 2025.\nThe activity is being tracked by Cisco Talos under the moniker UAT-8302, with post-exploitation involving the deployment of custom-made malware families that have been put",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcz8_PjYKknoot4F_PnjDZ7F1HhyphenhyphenIATFohYVF1OQYLSUFwiOPknnFF3ShgQKtKtfOEUbwUcfB-xhQAbi3dBsUvKki_ooKqYmQR3KfzcC1U443sR89JlLu5oPDJcEz9GXfEo5GwtMNj8s7HGg5-qsaR0sqqkSOUBsNFcqrz9NPDPyU6lQNl2RRtADTFzK0f/s1600/chinese-hackers-2.jpg"
     },
     {
       "id": "0422c4bf71ebf7b08933a5b48b7cd6d2900b7872",
@@ -226,7 +259,7 @@
       "title": "Silver Fox Deploys ABCDoor Malware via Tax-Themed Phishing in India and Russia",
       "url": "https://thehackernews.com/2026/05/silver-fox-deploys-abcdoor-malware-via.html",
       "published": "2026-05-04T11:57:00+00:00",
-      "summary": "The China-based cybercrime group known as Silver Fox has been linked to a new campaign targeting organizations in Russia and India with a new malware called ABCDoor.\nThe activity involved using phishing emails that mimic correspondence from the Income Tax Department of India in December 2025, followed by a similar campaign aimed at Russian entities in January 2026.\n\"Both waves followed a nearly",
+      "summary": "The China-based cybercrime group known as Silver Fox (aka Monarch, SwimSnake, The Great Thief of Valley, UTG-Q-1000, and Void Arachne) has been linked to a new campaign targeting organizations in Russia and India with a new malware called ABCDoor.\nThe activity involved using phishing emails that mimic correspondence from the Income Tax Department of India in December 2025, followed by a similar",
       "source": "The Hacker News",
       "region": "North America",
       "country": "US",
@@ -629,37 +662,26 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi02vvwkoYlj343usA-GYXcQHZKIceJufKYFzZNyHlsGQ6lCPD8H8bHEWtzBnJsWmnlQsGq0fBLgyKTdnOoEi83L3kQ8V3EOou_vlAmMhnMDFU5P5LxA-Sz1agVhDmFrd2qKHGnYZituJuoAEsHp0ExFR4pw6VCf9VNESl7C4q5Wkefh6_8rN2MDK96yh_a/s1600/russian-cyberattack.jpg"
     },
     {
-      "id": "5178a9d8910c161397bddfafb584ab9f82348b89",
-      "title": "Researchers Uncover 73 Fake VS Code Extensions Delivering GlassWorm v2 Malware",
-      "url": "https://thehackernews.com/2026/04/researchers-uncover-73-fake-vs-code.html",
-      "published": "2026-04-27T11:23:00+00:00",
-      "summary": "Cybersecurity researchers have flagged dozens of Microsoft Visual Studio Code (VS Code) extensions on the Open VSX repository that are linked to a persistent information-stealing campaign dubbed GlassWorm.\nThe cluster of 73 extensions has been identified as cloned versions of their legitimate counterparts. Of these, six have been confirmed to be malicious, with the remaining acting as seemingly",
-      "source": "The Hacker News",
+      "id": "c6582d07a6366108468eed63502398ce7f0fdcfc",
+      "title": "Trellix Source Code Breach Highlights Growing Supply Chain Threats",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/trellix-source-code-breach-supply-chain-threats",
+      "published": "2026-05-05T20:40:11+00:00",
+      "summary": "Info is scant, but such breaches can reveal where a security product's controls are located and how detections are designed, giving attackers a leg up.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhptNKAIMY9gm1kv8ULlpPvZh-F4HFaSveiiGCF8qbXkps5m4__rCDykkMAYSG4kg6r1pDv-EDRBTloxLF1yJC5hJJyfrq4J2anUCcgfYP9-nuYuPHh16pC7j0OzTqNvC2TQwbwFcna6nUQ_ZDkZt9NJRi3N3AZnt8qyVsmfans82j_uck31bzBMl4WWdRJ/s1600/vscode.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0ce2aa588d0574d6/69fa4ff52a5a217abee03ef2/trellix_frantic_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "86b430883ddc05b2ebb34414fd5dd1c7127c178e",
-      "title": "Fake CAPTCHA IRSF Scam and 120 Keitaro Campaigns Drive Global SMS, Crypto Fraud",
-      "url": "https://thehackernews.com/2026/04/fake-captcha-irsf-scam-and-120-keitaro.html",
-      "published": "2026-04-27T06:33:00+00:00",
-      "summary": "Cybersecurity researchers have disclosed details of a telecommunications fraud campaign that uses fake CAPTCHA verification tricks to dupe unsuspecting users into sending international text messages that incur charges on their mobile bills, generating illicit revenue for the threat actors who lease the phone numbers.\nAccording to a new report published by Infoblox, the operation is believed to",
-      "source": "The Hacker News",
+      "id": "41e1189872b7757cb1f62cd97dabf135b196d9fe",
+      "title": "Microsoft Edge Stores Passwords in Process Memory, Posing Enterprise Risk",
+      "url": "https://www.darkreading.com/cyber-risk/microsoft-edge-passwords-enterprise-risk",
+      "published": "2026-05-05T14:57:51+00:00",
+      "summary": "A proof-of-concept exploit (PoC) shows how someone with admin privileges can exploit the issue to steal passwords, and thus use them to engage in further malicious activity.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-cI0h0qDxREUkTFlIqeT_9-QNxJHPv6SqDQXpMs00i8A26QWukWlxtk1iwdZvnar80HiymWGDY9148_CiWIdL2xj-t9xC9KDM-8WdGALuTRxhdZqDcaZf2MG9adEpZLkLqsaA2uMP-3e_E0Ru-A5JSv0_dvEjAAniYpsdS71SCxFVlmB1NhkL20oangQz/s1600/sim-card.jpg"
-    },
-    {
-      "id": "1e317cff77bca66422c57d40b3589f983617d2e1",
-      "title": "Researchers Uncover Pre-Stuxnet \u2018fast16\u2019 Malware Targeting Engineering Software",
-      "url": "https://thehackernews.com/2026/04/researchers-uncover-pre-stuxnet-fast16.html",
-      "published": "2026-04-25T09:26:00+00:00",
-      "summary": "Cybersecurity researchers have discovered a new Lua-based malware created years before the notorious Stuxnet worm that aimed to sabotage Iran's nuclear program by destroying uranium enrichment centrifuges.\nAccording to a new report published by SentinelOne, the previously undocumented cyber sabotage framework dates back to 2005, primarily targeting high-precision calculation software to tamper",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizs_g3Pi3X0KEIbHkq8WujTF9X1RE6Fu_p8CiWmZrjsBj0MK-OTgAj5Dn8hz_8-n_3KmkNhFYDHeKUxeAnJv3nWdqwu5XlKsUEC0yq-uOESR7HkzKLJ1-FdrJtyBy05M0NZ4HkrXZ_eCvCSEX3Y4jauh6A4loJ_gY-F5aOT39ZMn4noffniWz8VgIv1zA2/s1600/fast16-exploit.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0e4c889f98a082d1/69f9c4de2b93d911f8c512dd/Passwords-1800_designer491_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "id": "ff123af17879d0f1380a7cccafda00882d3f18f0",
@@ -671,6 +693,17 @@
       "region": "North America",
       "country": "US",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0469f94bd17817ff/6642699959fdc64aa5f9c5fa/dark-reading-confidential-logo-sq.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
+      "id": "26675d76612c05554ccf3b317b40e8fa0eba64b2",
+      "title": "Physical Cargo Theft Gets a Boost From Cybercriminals",
+      "url": "https://www.darkreading.com/cyber-risk/physical-cargo-theft-cybercriminals",
+      "published": "2026-05-04T21:38:06+00:00",
+      "summary": "Cargo theft is no longer about small groups of criminals operating on the ground, but transnational cybercriminal syndicates using access to supply chain systems to reroute goods.",
+      "source": "DarkReading",
+      "region": "North America",
+      "country": "US",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1a20a00c4a995c76/69f91543b4185b753bc41213/cargo-trucks-with-containers-Siwakorn1933-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "id": "5062b8648fc2df56a37c9530a88a3d3b67a5ce03",
@@ -1179,37 +1212,26 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3396b116c4a5d80b/69e6744aa61d112dbb7caf20/allow_access_keyboard_alon_harel_alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "e635f0e00b2488c284e87982ea1fa33699fb5030",
-      "title": "Serial-to-IP Devices Hide Thousands of Old &amp; New Bugs",
-      "url": "https://www.darkreading.com/ics-ot-security/serial-ip-devices-thousands-of-bugs",
-      "published": "2026-04-20T21:00:00+00:00",
-      "summary": "The OT devices that translate machine talk into Internet-speak are riddled with vulnerabilities and more frequently targeted for attacks, researchers say.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt36307cc72d4778e2/69dd36cd61216874471aaef1/Industrial_site-Tony_Watson-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "id": "ec4c66a03b440cabd3f63f30237d3ded13d9d037",
+      "title": "Attackers are cashing in on fresh 'CopyFail' Linux flaw",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/05/05/cisa_sounds_the_alarm_on/",
+      "published": "2026-05-05T15:01:08+00:00",
+      "summary": "<h4>Researchers dropped a reliable root exploit and it didn\u2019t sit idle for long</h4> <p>CISA is warning that a newly-disclosed Linux kernel bug dubbed \"CopyFail\" is already being exploited, just days after researchers dropped a working root-level exploit.\u2026</p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "691f4032a6e416e9300383fafa06bad57ddcbef3",
-      "title": "WhatsApp Leaks User Metadata to Attackers",
-      "url": "https://www.darkreading.com/endpoint-security/whatsapp-leaks-user-metadata",
-      "published": "2026-04-20T14:33:35+00:00",
-      "summary": "Strangers can infer limited info about you without knowing or messaging you, which could theoretically aid certain kinds of malicious activity.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd2f4132144e85dfb/69e291d49ba34f4b11a4782a/WhatsApp-stLegat-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
-      "id": "72117403d1e5f7fee22484fa643531c11476ebb8",
-      "title": "How NIST's Cutback of CVE Handling Impacts Cyber Teams",
-      "url": "https://www.darkreading.com/threat-intelligence/nist-cutbacks-nvd-handling-impacts-cyber-teams",
-      "published": "2026-04-17T19:51:57+00:00",
-      "summary": "Industry and ad hoc coalitions appear poised to help fill the gap created by NIST's decision to cut back on CVE data enrichment.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf63750cb2e1d5266/69e26d60df4579bd291869e2/NIST_HQ_Grandbrothers_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "id": "edf8dbc83ac4484be510a9c1a86a9bf7eb378f2c",
+      "title": "Real estate giant confirms vishing incident as ShinyHunters and Qilin both come knocking",
+      "url": "https://go.theregister.com/feed/www.theregister.com/2026/05/05/cushman_wakefield/",
+      "published": "2026-05-05T13:34:25+00:00",
+      "summary": "<h4>Cushman &amp; Wakefield activated incident response protocols after serial extortionists issued separate threats</h4> <p>Real estate giant Cushman &amp; Wakefield has confirmed a data breach after two cybercrime groups, ShinyHunters and Qilin, separately claimed responsibility for attacks on the company.\u2026</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
       "id": "b315630071b1a4c6592cd2ed0c2f1b8380faf7b1",
@@ -1740,28 +1762,6 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "73e366d7d4d926262e540d93326afc71d8be9d0e",
-      "title": "ShinyHunters claim they have cruise giant Carnival's booty as 7.5M emails surface",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/24/shinyhunters_claim_cruise_giant_carnivals/",
-      "published": "2026-04-24T15:35:52+00:00",
-      "summary": "<h4>Leak-site bragging meets breach hunters as Have I Been Pwned flags millions of records</h4> <p>Carnival Corporation, the world's largest cruise company, is dealing with choppy waters after Have I Been Pwned flagged what it claimed were 7.5 million unique email addresses all allegedly tied to one of its subsidiaries.\u00a0\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "9baf976f1aa1bf012ab4974626564281f1b0f7a3",
-      "title": "Governments on high alert after CISA snuffs out Firestarter backdoor on fed network",
-      "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/24/government_cni_on_high_alert/",
-      "published": "2026-04-24T14:46:07+00:00",
-      "summary": "<h4>Latest in long-running pwning of Cisco kit found in mystery Fed agency</h4> <p>A US federal agency was successfully targeted by a previously unknown backdoor malware called Firestarter, according to CISA cybersnoops and their UK counterparts \u2013 neither of which disclosed the agency's name.\u2026</p>",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
       "id": "7658a178c379a4d68bcdc6eac46d94668871ad90",
       "title": "Anti-DDoS Firm Heaped Attacks on Brazilian ISPs",
       "url": "https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps/",
@@ -1812,6 +1812,28 @@
       "published": "2026-04-06T02:07:17+00:00",
       "summary": "An elusive hacker who went by the handle \"UNKN\" and ran the early Russian ransomware groups GandCrab and REvil now has a name and a face. Authorities in Germany say 31-year-old Russian Daniil Maksimovich Shchukin headed both cybercrime gangs and helped carry out at least 130 acts of computer sabotage and extortion against victims across the country between 2019 and 2021.",
       "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "6a5f4c29dcc9ae36fd1412b2bd9a7df32c0219d5",
+      "title": "Microsoft Warns of Sophisticated Phishing Campaign Targeting US Organizations",
+      "url": "https://www.securityweek.com/microsoft-warns-of-sophisticated-phishing-campaign-targeting-us-organizations/",
+      "published": "2026-05-05T14:45:04+00:00",
+      "summary": "<p>The malicious emails claim to contain a conduct report and lure victims to a Microsoft phishing website that leverages AitM.</p>\n<p>The post <a href=\"https://www.securityweek.com/microsoft-warns-of-sophisticated-phishing-campaign-targeting-us-organizations/\">Microsoft Warns of Sophisticated Phishing Campaign Targeting US Organizations</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "8502c6d40b4aba3ade95ab7176568db421970c58",
+      "title": "Hacker Conversations: Joey Melo on Hacking AI",
+      "url": "https://www.securityweek.com/hacker-conversations-joey-melo-on-hacking-ai/",
+      "published": "2026-05-05T13:30:00+00:00",
+      "summary": "<p>AI red team specialist details his methods for manipulating AI guardrails through jailbreaking and data poisoning, helping developers harden machine learning models.</p>\n<p>The post <a href=\"https://www.securityweek.com/hacker-conversations-joey-melo-on-hacking-ai/\">Hacker Conversations: Joey Melo on Hacking AI</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
@@ -1899,28 +1921,6 @@
       "url": "https://www.securityweek.com/trellix-source-code-repository-breached/",
       "published": "2026-05-04T17:23:54+00:00",
       "summary": "<p>The cybersecurity firm\u2019s investigation has not found any impact on its source code release or distribution process.\u00a0</p>\n<p>The post <a href=\"https://www.securityweek.com/trellix-source-code-repository-breached/\">Trellix Source Code Repository Breached</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "8690a12ab309b0bc19206d32c29cf88ba3c0f9f2",
-      "title": "Cybersecurity M&A Roundup: 33 Deals Announced in April 2026",
-      "url": "https://www.securityweek.com/cybersecurity-ma-roundup-33-deals-announced-in-april-2026/",
-      "published": "2026-05-04T13:02:28+00:00",
-      "summary": "<p>Significant cybersecurity M&#038;A deals announced by Airbus, Cyera, Fortra, Palo Alto Networks, Silverfort, and Socket.</p>\n<p>The post <a href=\"https://www.securityweek.com/cybersecurity-ma-roundup-33-deals-announced-in-april-2026/\">Cybersecurity M&#038;A Roundup: 33 Deals Announced in April 2026</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "87c9d507fe3211fe7a01102f4b2ba9331c48da69",
-      "title": "DigiCert Revokes Certificates After Support Portal Hack",
-      "url": "https://www.securityweek.com/digicert-revokes-certificates-after-support-portal-hack/",
-      "published": "2026-05-04T12:46:53+00:00",
-      "summary": "<p>Hackers delivered malware via a customer chat channel, infected an analyst\u2019s system, and accessed the internal support portal.</p>\n<p>The post <a href=\"https://www.securityweek.com/digicert-revokes-certificates-after-support-portal-hack/\">DigiCert Revokes Certificates After Support Portal Hack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
