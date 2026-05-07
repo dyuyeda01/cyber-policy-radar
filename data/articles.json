@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-07T01:28:26.062810+00:00",
+  "generated_at": "2026-05-07T13:22:33.114227+00:00",
   "items": [
     {
       "id": "7a5be55e2d6d834b1b64e24c38ad4b017b76d6c5",
@@ -110,6 +110,50 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "c50a45ca9d01b826990e9c9a7853ea6d8c6cea6a",
+      "title": "ThreatsDay Bulletin: Edge Plaintext Passwords, ICS 0-Days, Patch-or-Die Alerts and 25+ New Stories",
+      "url": "https://thehackernews.com/2026/05/threatsday-bulletin-edge-plaintext.html",
+      "published": "2026-05-07T11:33:00+00:00",
+      "summary": "Bad week.\nTurns out the easiest way to get hacked in 2026 is still the same old garbage: shady packages, fake apps, forgotten DNS junk, scam ads, and stolen logins getting dumped into Discord channels like it\u2019s normal. Some of these attack chains don\u2019t even feel sophisticated anymore. More like some tired guy with a Telegram account and too much free time. The worst part is how often this stuff",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYNaH2vOiD-OgAVnO0nGCSr8j4nnvHD2n7RieJD2mDMlPev_fKoBafjhvob13LV4pOFhgMuZd6ex8zyQnCM1AyVfl6fuRG9Max2F76Ku9rWbieBvF0AtGlQd0nXlIwHDKvq5H4BJn3hGCRfE86fHs5SL05RywOADNDC9J5lG9DF8goavgxWzAh7a7isNMB/s1600/threatsday-1.jpg"
+    },
+    {
+      "id": "e5b45b0f00e7f09c79a9723cfef29867b5ce7eb1",
+      "title": "Day Zero Readiness: The Operational Gaps That Break Incident Response",
+      "url": "https://thehackernews.com/2026/05/day-zero-readiness-operational-gaps.html",
+      "published": "2026-05-07T10:54:00+00:00",
+      "summary": "Having an incident response retainer, or even a pre-approved external incident response firm, is not the same as being ready for an incident. A retainer means someone will answer the phone. Operational readiness determines whether that team can do meaningful work the moment they do.&nbsp;\nThat distinction matters far more than many organizations realize. In the first hours of a security incident",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdEBtnOnAfYEV-De3NPPeeTCPWK_gSqYM7OZ0ioRJl84OvS49Fp-GJucJfc-ADDOhyTe11dUoYbkIlA1gYW5b8E6KxYIG71gNa0pU4tmqiEyfmxAEyI1A3n2ZOzfePdcm5WdqHVnFlrSwzgNlOmWKMUOHTqUjS_qUhHBEI9CpMJ_OZrUgn-yaHjTDaXJ0/s1600/main.jpg"
+    },
+    {
+      "id": "ea1a151cfcf0fd36080d52c9cb2249c3a1e9cddb",
+      "title": "PyPI Packages Deliver ZiChatBot Malware via Zulip APIs on Windows and Linux",
+      "url": "https://thehackernews.com/2026/05/pypi-packages-deliver-zichatbot-malware.html",
+      "published": "2026-05-07T09:20:00+00:00",
+      "summary": "Cybersecurity researchers have discovered three packages on the Python Package Index (PyPI) repository that are designed to stealthily deliver a previously unknown malware family called&nbsp;ZiChatBot on Windows and Linux systems.\n\"While these wheel packages do implement the features described on their PyPI web pages, their true purpose is to covertly deliver malicious files,\" Kaspersky&nbsp;",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGun7lMQJXWH3IQiR3ml3RMzAbb1QJcWEtgqDrKTjPbvBhTsDPaCWmI1vTAnevTVPx0lg4xvPkOcpx_86_Znxdgpj-hynQXGEHqf94dvYwOy5VqqnqBWEWrJ3MEkQcLVBVt00Y8pUqVWj4W-hYYepmDmtX9PRQh87qZC7XbJCwdEaLsBY-vTsbkS0yqikd/s1600/pypi.jpg"
+    },
+    {
+      "id": "24225351069b87eaa206a91403c5bd3c007d31bc",
+      "title": "vm2 Node.js Library Vulnerabilities Enable Sandbox Escape and Arbitrary Code Execution",
+      "url": "https://thehackernews.com/2026/05/vm2-nodejs-library-vulnerabilities.html",
+      "published": "2026-05-07T04:15:00+00:00",
+      "summary": "A dozen critical security vulnerabilities have been disclosed in the vm2 Node.js library that could be exploited by bad actors to break out of the sandbox and execute arbitrary code on susceptible systems.\nvm2 is an open-source library used to run untrusted JavaScript code inside a secure sandbox by intercepting and proxying JavaScript objects to prevent sandboxed code from accessing the host",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGJE3Tcr425AIfztOUrdhPUiEkVY8bMrHMmO-5FZ2N3cLaW9ErdLJJS3KwjzYNvLAIcVT7xpSw8wswiDIPenyZa_ki3ZrOHJFY-cXKHPu0EGnfCGXxkEAlvE6tLogT8T_lRolQ-qI-GFqlgwqpbLD1HfmDo4HkJbV9XNDh9rcGbM3Nc8ruu5I_47DBmzsy/s1600/vm2.jpg"
     },
     {
       "id": "d6116da89ae7e4cf7b87d121c4ad5dbc067ddca5",
@@ -618,48 +662,26 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQf8Wzg1Ms0KVsO546uQuwlR3w_8qW1MQZExs5TgKCGHSNNS1UEnOITq-_y8HIrA_3n_gfq7Hm0IMb-XSRJSsGL1ncRPlPoyDX7cf_wFbEGAJCPkv6ZDBzjN1Nswe9-CMR3Tmn1F5KuVyWGdOkGEIbeI9R7zGKplJPofRFBx-Ru20JOGfAFEpiZOAlDBXh/s1600/hackers.jpg"
     },
     {
-      "id": "536360ab9ac93b1817a274626fa164b8590563a5",
-      "title": "VECT 2.0 Ransomware Irreversibly Destroys Files Over 131KB on Windows, Linux, ESXi",
-      "url": "https://thehackernews.com/2026/04/vect-20-ransomware-irreversibly.html",
-      "published": "2026-04-28T14:01:00+00:00",
-      "summary": "Threat hunters are warning that the cybercriminal operation known as VECT 2.0 acts more like a wiper than a ransomware due to a critical flaw in its encryption implementation across Windows, Linux, and ESXi variants that renders recovery impossible even for the threat actors.\nThe fact that VECT's locker permanently destroys large files rather than encrypting them means even victims who opt to",
-      "source": "The Hacker News",
+      "id": "ea779afcd9a9f77d8ac49521df963c6b975ce2f0",
+      "title": "World's First AI-Driven Cyberattack Couldn't Breach OT Systems",
+      "url": "https://www.darkreading.com/ics-ot-security/worlds-first-ai-driven-cyberattack-couldnt-breach-ot-systems",
+      "published": "2026-05-07T13:00:00+00:00",
+      "summary": "The most sophisticated AI-integrated campaign to date hit a brick wall in the form of a SCADA login screen.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEji1Auw0eR5oiVkEiB8JPzjSCaFsUUiAOfNHrcsOzO4DElBB4gbQ20uu3p69nojIkLsgxZOj81fa7fK_dchUAx0WINAGMq3X0VSA7LH_Isc1hPAvls76rdLeSYCn40zw8P2xAikVwxb_pclaNQXER8G7nzPO41LAl0-ELu-i60_RLl7CLCWcC9gGrEC8oXw/s1600/vect.gif"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt98fa61979c1de1b0/69fb95aa4f86c99808c8fc96/Faucet-Steven_Liveoak-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "0b8468ab8aad07f171bf4bc64e675d061f97b084",
-      "title": "Why Secure Data Movement Is the Zero Trust Bottleneck Nobody Talks About",
-      "url": "https://thehackernews.com/2026/04/why-secure-data-movement-is-zero-trust.html",
-      "published": "2026-04-28T11:58:00+00:00",
-      "summary": "Every security program is betting on the same assumption: once a system is connected, the problem is solved. Open a ticket, stand up a gateway, push the data through. Done.\nThat assumption is wrong. It is also a major reason Zero Trust programs stall.\nNew research my team just published puts numbers on it. The Cyber360: Defending the Digital Battlespace report, based on a survey of 500 security",
-      "source": "The Hacker News",
+      "id": "1bd9529de4bcb261d6d089b74423d89126274a38",
+      "title": "'TrustFall' Exposes Claude Code Execution Risk",
+      "url": "https://www.darkreading.com/application-security/trustfall-exposes-claude-code-execution-risk",
+      "published": "2026-05-07T13:00:00+00:00",
+      "summary": "Researchers find malicious repositories can trigger code execution in Claude Code with minimal or no user interaction.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrVD0Q_dTvO3tooHYWKp7i_lkLd6h30GSv_DDv4jIb_KZDY5heV39R01GFN6MWEq1JsilHFrd7EtDOBkmlkvXYAb7-w51A1SDN3AAiEAbuq7ZnNREakyHouZPVBMNhk_HnEOK8D7H5m51A2zcUvAvDjmPnrrzeZI_nQHFao1QbljV4ortyzuqbXsNR35c/s1600/everfox.jpg"
-    },
-    {
-      "id": "797e5495a26fd6b638d716dcd7878aa5dda0945d",
-      "title": "Critical Unpatched Flaw Leaves Hugging Face LeRobot Open to Unauthenticated RCE",
-      "url": "https://thehackernews.com/2026/04/critical-cve-2026-25874-leaves-hugging.html",
-      "published": "2026-04-28T11:18:00+00:00",
-      "summary": "Cybersecurity researchers have disclosed details of a critical security flaw impacting LeRobot, Hugging Face's open-source robotics platform with nearly 24,000 GitHub stars, that could be exploited to achieve remote code execution.\nThe vulnerability in question is CVE-2026-25874 (CVSS score: 9.3), which has been described as a case of untrusted data deserialization stemming from the use of the",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_yhcF_ELr7WEtcfHJTj6KXaci5hMzJMQzWlKpRwmiUDUDlRiLn5kZFpj4JkLxrqw0JBajNTAmlAxzIkQytW333ZnGJBKeGY-rBsLLrCPqATNkq3TvcBRbi61oogxsv5Z1a2REm5g7cpgfqKq_fnr2B1O1tPHDckGGiBA7YZY0Jcl7nWIzqaDYFGqEm3nZ/s1600/lerobots.jpg"
-    },
-    {
-      "id": "9fc259f4feb33b763f93b0b7b0e849547ba38698",
-      "title": "After Mythos: New Playbooks For a Zero-Window Era",
-      "url": "https://thehackernews.com/2026/04/after-mythos-new-playbooks-for-zero.html",
-      "published": "2026-04-28T10:30:00+00:00",
-      "summary": "When patching isn\u2019t fast enough, NDR helps contain the next era of threats.\nIf you\u2019ve been tracking advancements in AI, you know the exploit window, the short buffer that organizations relied on to patch and protect after a vulnerability disclosure, is closing fast.\nAnthropic\u2019s new model, Claude Mythos, and its Project Glasswing, showed that finding exploitable vulnerabilities and subtle cracks",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzc6SWl21t5zRKK4OvMIg-ZtrnsRwKm8E3dglWBxBpyC_vXdsbGazi1uRcQagObPghUhK33RtvJOFEZ5-W7jCVBV36HOC-iepqOkjgHuvAHkmeoKRvMw-IJ7Cq8KUV5iBwVg-1yLJ7XmTGLab6a4ECZ11eGP8lCOLORbJcng1onSTv_L2aDYHSVmNCMjw/s1600/corelight.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3ca377db822451a1/69fa57f81032fe21f456f521/claude_Samuel_Boivin_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "id": "1bca86755ac7639ae49a6335cbe1d8ab69326642",
@@ -1124,17 +1146,6 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt955244a1688ad92a/69ea733c149efc64d46724f4/Mouse_click_Alexey_Stiop_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "323154552b436717d637754962f5f550de5661ae",
-      "title": "Chinese APT Abuses Multiple Cloud Tools to Spy on Mongolia",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/chinese-apt-abuses-cloud-tools-spy-mongolia",
-      "published": "2026-04-24T01:00:00+00:00",
-      "summary": "The threat actor gave itself plenty of options to support command and control, tapping Microsoft Outlook, Slack, Discord, and file.io for online espionage.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt17fc2cec7ba9f5b3/69e90f257417a71b03305c14/Beijing_Ulaanbaatar-Trevor_Mogg-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
       "id": "d09bdee91de136c2af7766062b4cf51c368dc02f",
       "title": "Tropic Trooper APT Takes Aim at Home Routers, Japanese Targets",
       "url": "https://www.darkreading.com/threat-intelligence/tropic-trooper-apt-takes-aim-home-routers-japanese-targets",
@@ -1144,6 +1155,17 @@
       "region": "North America",
       "country": "US",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf6b44cf37bbcf09b/69ea75dbb14e60a8c0fb9e7b/tropical1800_Marc_Anderson_alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
+      "id": "323154552b436717d637754962f5f550de5661ae",
+      "title": "Chinese APT Abuses Multiple Cloud Tools to Spy on Mongolia",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/chinese-apt-abuses-cloud-tools-spy-mongolia",
+      "published": "2026-04-24T01:00:00+00:00",
+      "summary": "The threat actor gave itself plenty of options to support command and control, tapping Microsoft Outlook, Slack, Discord, and file.io for online espionage.",
+      "source": "DarkReading",
+      "region": "North America",
+      "country": "US",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt17fc2cec7ba9f5b3/69e90f257417a71b03305c14/Beijing_Ulaanbaatar-Trevor_Mogg-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "id": "90036058153addec1a7470ee8c4c79678fdc06d8",
@@ -1190,26 +1212,15 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt041f5fc64dbe4d6f/679016b514bc5279608b2db9/Ground_Picture-Africa-cyber-identity-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "7b6b50ea38ccef06e9422d1cddd2dde7798908da",
-      "title": "'The Gentlemen' Rapidly Rises to Ransomware Prominence",
-      "url": "https://www.darkreading.com/threat-intelligence/gentlemen-rapidly-rise-ransomware",
-      "published": "2026-04-22T20:51:55+00:00",
-      "summary": "Not nearly as polite as the name suggests, the ransomware gang has impressed researchers with its speed in scaling up operations \u2014 and its sophistication.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9dfe08179358f99d/69e92147a425f3fc877c3bd4/Gentlemen_Sign_David_Morphew_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
-      "id": "b08cf167d8ba858eae3e49dcfdfbf2576cc0f120",
-      "title": "DPRK Fake Job Scams Self-Propagate in 'Contagious Interview'",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/dprk-fake-job-scams-self-propagate-contagious-interview",
-      "published": "2026-04-22T14:48:05+00:00",
-      "summary": "A compromised developer's repository serves as a worm-like infection vector to spread remote access Trojans (RATs) and other malware.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3fce2e5014a4ecec/694ad7a0ec1580176ac05f87/DPRK_Square_Ian_Cowe_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "id": "4718e43b956436cba20d83098201fb94d19e201e",
+      "title": "The network password was a key plot point in one of the most famous movies of all time",
+      "url": "https://www.theregister.com/security/2026/05/07/guessable-admin-password-exposes-sloppy-network-security/5231161",
+      "published": "2026-05-07T09:49:00+00:00",
+      "summary": "Fortunately, it was a legit contractor who guessed it",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=5231249&width=800"
     },
     {
       "id": "e980ba13ccc4f7a670d5946aed79e00e2d7507c4",
@@ -1751,17 +1762,6 @@
       "image": "https://image.theregister.com/?imageId=5221547&width=800"
     },
     {
-      "id": "4db17b747b87d2efe70c61df38e7e1dd53440f68",
-      "title": "Intel bets the farm on AI inference to drag CPU back to the top table",
-      "url": "https://www.theregister.com/security/2026/04/24/intel-expects-ai-inference-to-drive-demand-for-its-cpus/5227642",
-      "published": "2026-04-24T12:50:36+00:00",
-      "summary": "Chipzilla hopes agents, robots, and edge devices make CPUs cool again... now it has to build the chips",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=241611&width=800"
-    },
-    {
       "id": "7658a178c379a4d68bcdc6eac46d94668871ad90",
       "title": "Anti-DDoS Firm Heaped Attacks on Brazilian ISPs",
       "url": "https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps/",
@@ -1806,6 +1806,72 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "57226288c84383350ae2256c219a6bd8292aa7db",
+      "title": "Vendor Says Daemon Tools Supply Chain Attack Contained",
+      "url": "https://www.securityweek.com/vendor-says-daemon-tools-supply-chain-attack-contained/",
+      "published": "2026-05-07T13:21:02+00:00",
+      "summary": "<p>The software developer has identified the impacted systems, removed potentially compromised files, and validated installation packages.</p>\n<p>The post <a href=\"https://www.securityweek.com/vendor-says-daemon-tools-supply-chain-attack-contained/\">Vendor Says Daemon Tools Supply Chain Attack Contained</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "e3718fe0b46ddf155574a1c3651508c35ae062dd",
+      "title": "AI Coding Agents Could Fuel Next Supply Chain Crisis",
+      "url": "https://www.securityweek.com/ai-coding-agents-could-fuel-next-supply-chain-crisis/",
+      "published": "2026-05-07T13:00:00+00:00",
+      "summary": "<p>\u201cTrustFall\u201d attack shows how AI coding agents can be manipulated into launching stealthy supply chain compromises.</p>\n<p>The post <a href=\"https://www.securityweek.com/ai-coding-agents-could-fuel-next-supply-chain-crisis/\">AI Coding Agents Could Fuel Next Supply Chain Crisis</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "7f9a98d6e2e053bdc235521d08adb732129367df",
+      "title": "Webinar Today: Securing Identity Across Humans, Machines and AI",
+      "url": "https://www.securityweek.com/webinar-today-securing-identity-across-humans-machines-and-ai/",
+      "published": "2026-05-07T12:00:00+00:00",
+      "summary": "<p>From service accounts to AI-driven processes, identity is evolving faster than most security programs can adapt. Discover strategies for reducing risk and regaining control.</p>\n<p>The post <a href=\"https://www.securityweek.com/webinar-today-securing-identity-across-humans-machines-and-ai/\">Webinar Today: Securing Identity Across Humans, Machines and AI</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "8e47b169e43da862188b68fe2d22d29224a430f0",
+      "title": "Cisco Patches High-Severity Vulnerabilities in Enterprise Products",
+      "url": "https://www.securityweek.com/cisco-patches-high-severity-vulnerabilities-in-enterprise-products/",
+      "published": "2026-05-07T11:24:01+00:00",
+      "summary": "<p>Successful exploitation of the flaws could lead to code execution, server-side request forgery attacks, and denial-of-service conditions.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisco-patches-high-severity-vulnerabilities-in-enterprise-products/\">Cisco Patches High-Severity Vulnerabilities in Enterprise Products</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "41d8d5fcea2cb88311f7e2d3cf9e097eb3df0a58",
+      "title": "Gemini CLI Vulnerability Could Have Led to Code Execution, Supply Chain Attack",
+      "url": "https://www.securityweek.com/gemini-cli-vulnerability-could-have-led-to-code-execution-supply-chain-attack/",
+      "published": "2026-05-07T10:39:34+00:00",
+      "summary": "<p>Attackers could inject prompts into a GitHub issue and take over the AI agent designed to automatically triage the issue.</p>\n<p>The post <a href=\"https://www.securityweek.com/gemini-cli-vulnerability-could-have-led-to-code-execution-supply-chain-attack/\">Gemini CLI Vulnerability Could Have Led to Code Execution, Supply Chain Attack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "754dfa086846f6b85f4d4e0e2c39a8012bdf1107",
+      "title": "Claude AI Guided Hackers Toward OT Assets During Water Utility Intrusion",
+      "url": "https://www.securityweek.com/claude-ai-guided-hackers-toward-ot-assets-during-water-utility-intrusion/",
+      "published": "2026-05-07T07:35:25+00:00",
+      "summary": "<p>Dragos has published a report describing how threat actors used Claude AI in an attack on a water and drainage utility in Mexico.</p>\n<p>The post <a href=\"https://www.securityweek.com/claude-ai-guided-hackers-toward-ot-assets-during-water-utility-intrusion/\">Claude AI Guided Hackers Toward OT Assets During Water Utility Intrusion</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "1203ec467af3b64fbaec47c6e0d502217fa049b7",
       "title": "Autonomous Offensive Security Firm XBOW Raises $35 Million",
       "url": "https://www.securityweek.com/autonomous-offensive-security-firm-xbow-raises-35-million/",
@@ -1844,72 +1910,6 @@
       "url": "https://www.securityweek.com/romanian-extradited-to-us-for-role-in-hacking-scheme-17-years-ago/",
       "published": "2026-05-06T11:57:40+00:00",
       "summary": "<p>Gavril Sandu, 53, was indicted in 2017, but was arrested and extradited to the United States only in 2026.</p>\n<p>The post <a href=\"https://www.securityweek.com/romanian-extradited-to-us-for-role-in-hacking-scheme-17-years-ago/\">Romanian Man Extradited to US for Role in Hacking Scheme 17 Years Ago</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "0874ddf63fb4bb3c1ad7f916d0ef137eb729e3c1",
-      "title": "CISA Launches \u2018CI Fortify\u2019 to Prepare Critical Infrastructure for Geopolitical Cyber Conflict",
-      "url": "https://www.securityweek.com/cisa-critical-infrastructure-must-master-isolation-recovery/",
-      "published": "2026-05-06T10:15:34+00:00",
-      "summary": "<p>Agency issued guidance and calls on operators to build resilient OT environments capable of surviving extended isolation and cyber compromise.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisa-critical-infrastructure-must-master-isolation-recovery/\">CISA Launches \u2018CI Fortify\u2019 to Prepare Critical Infrastructure for Geopolitical Cyber Conflict</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "c711c664d5f198054b1735a5acda2b69d7ec4a3b",
-      "title": "Sophisticated Quasar Linux RAT Targets Software Developers",
-      "url": "https://www.securityweek.com/sophisticated-quasar-linux-rat-targets-software-developers/",
-      "published": "2026-05-06T09:48:39+00:00",
-      "summary": "<p>The persistent, evasive implant provides remote access, surveillance, and credential exfiltration capabilities.</p>\n<p>The post <a href=\"https://www.securityweek.com/sophisticated-quasar-linux-rat-targets-software-developers/\">Sophisticated Quasar Linux RAT Targets Software Developers</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "a93b2096f69c75409d0fc372f6932938f8997ee8",
-      "title": "Government, Scientific Entities Hit via Daemon Tools Supply Chain Attack",
-      "url": "https://www.securityweek.com/government-scientific-entities-hit-via-daemon-tools-supply-chain-attack/",
-      "published": "2026-05-06T08:33:40+00:00",
-      "summary": "<p>While trojanized Daemon Tools versions were installed worldwide, a sophisticated backdoor was dropped only on a dozen systems.</p>\n<p>The post <a href=\"https://www.securityweek.com/government-scientific-entities-hit-via-daemon-tools-supply-chain-attack/\">Government, Scientific Entities Hit via Daemon Tools Supply Chain Attack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "b1606192a8085f51b50ee2793adb1af43b0eb781",
-      "title": "Oracle Debuts Monthly Critical Security Patch Updates",
-      "url": "https://www.securityweek.com/oracle-debuts-monthly-critical-security-patch-updates/",
-      "published": "2026-05-06T06:32:17+00:00",
-      "summary": "<p>Containing fixes for critical-severity vulnerabilities, the monthly rollouts will focus on addressing priority issues faster.</p>\n<p>The post <a href=\"https://www.securityweek.com/oracle-debuts-monthly-critical-security-patch-updates/\">Oracle Debuts Monthly Critical Security Patch Updates</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "1f67c82d86ab67fc85f38cae0877c3f92079df35",
-      "title": "Palo Alto Networks to Patch Zero-Day Exploited to Hack Firewalls",
-      "url": "https://www.securityweek.com/palo-alto-networks-to-patch-zero-day-exploited-to-hack-firewalls/",
-      "published": "2026-05-06T04:46:23+00:00",
-      "summary": "<p>CVE-2026-0300 affects the Captive Portal service of PAN-OS software on PA and VM series firewalls.</p>\n<p>The post <a href=\"https://www.securityweek.com/palo-alto-networks-to-patch-zero-day-exploited-to-hack-firewalls/\">Palo Alto Networks to Patch Zero-Day Exploited to Hack Firewalls</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "6a5f4c29dcc9ae36fd1412b2bd9a7df32c0219d5",
-      "title": "Microsoft Warns of Sophisticated Phishing Campaign Targeting US Organizations",
-      "url": "https://www.securityweek.com/microsoft-warns-of-sophisticated-phishing-campaign-targeting-us-organizations/",
-      "published": "2026-05-05T14:45:04+00:00",
-      "summary": "<p>The malicious emails claim to contain a conduct report and lure victims to a Microsoft phishing website that leverages AitM.</p>\n<p>The post <a href=\"https://www.securityweek.com/microsoft-warns-of-sophisticated-phishing-campaign-targeting-us-organizations/\">Microsoft Warns of Sophisticated Phishing Campaign Targeting US Organizations</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
