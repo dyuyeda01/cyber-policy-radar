@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-09T01:28:25.440543+00:00",
+  "generated_at": "2026-05-09T12:44:45.365194+00:00",
   "items": [
     {
       "id": "4322b9aa3e284097bc39cbba74efba48895f8f84",
@@ -110,6 +110,17 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "aa67df4b71869bbb597849462d34fac18560f251",
+      "title": "cPanel, WHM Release Fixes for Three New Vulnerabilities \u2014 Patch Now",
+      "url": "https://thehackernews.com/2026/05/cpanel-whm-patch-3-new-vulnerabilities.html",
+      "published": "2026-05-09T07:16:00+00:00",
+      "summary": "cPanel has released updates to address three vulnerabilities in cPanel and Web Host Manager (WHM) that could be exploited to achieve privilege escalation, code execution, and denial-of-service.\nThe list of vulnerabilities is as follows -\n\nCVE-2026-29201 (CVSS score: 4.3) - An insufficient input validation of the feature file name in the \"feature::LOADFEATUREFILE\" adminbin call that could result",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8HLwOMzo20kbZmflPvJJmY7su6wWOWgDLV-dJNx-k76m5ivbwVoCkFrnsLXkyO4PHAyLSkPXinjK71SDmWabyOcTlKb3juZgkXTzOVuMvZk6-LUFMhoJ-UGFvv0qEby7QmYcjTWn1m1L19VTKeB7CdmKvpvIP5ifniLO92ARSLjtf8rcXIbm8AFMZei-M/s1600/cpanel-3.jpg"
     },
     {
       "id": "209ca3a7fe4bb72f08685179cac62af8b898586d",
@@ -649,17 +660,6 @@
       "region": "North America",
       "country": "US",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8d19xBfapc_ToA1XOK4xdQ815tfHldoYH0Cy7zsTwOoWlFNQDdubeXMv4Udo6DaFXWJK3lG4meqdmtLAuaCMfa7R1KM_EfiGE5cZItYx6NdnqjB-R_6neMFv5iIG6SjUDkRUUiZg_j7oOaueXGZb4M-K7EmJM3MCjSvgxfok9gTFNd9Qwdf-AKu_DsP4/s1600/github-2.jpg"
-    },
-    {
-      "id": "8cfd0d3a26c753500ee233ce857f0394eef8d9a3",
-      "title": "New Linux 'Copy Fail' Vulnerability Enables Root Access on Major Distributions",
-      "url": "https://thehackernews.com/2026/04/new-linux-copy-fail-vulnerability.html",
-      "published": "2026-04-30T09:24:00+00:00",
-      "summary": "Cybersecurity researchers have disclosed details of a Linux local privilege escalation (LPE) flaw that could allow an unprivileged local user to obtain root.\nThe high-severity vulnerability tracked as CVE-2026-31431 (CVSS score: 7.8) has been codenamed Copy Fail by Xint.io and Theori.\n\"An unprivileged local user can write four controlled bytes into the page cache of any readable file on a Linux",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYpnBkrLNj-dAKcwAbvRIvfXg8YDXoO3yfrl3vvXBOBwo2zga2asWZ0at4FLcLbiqQ1N7BsYA2szKbuqeVLBkrD80tMqYguBbqvrhEude6Fe9ayQpNs-meP8h4-f6ReWVeIU0zYp31XU7K-Kgxm5OKdI77HPQWgTx41al_WH3gYkMjEoROl6zvXF8HPRf5/s1600/root.jpg"
     },
     {
       "id": "4c5bf17aa3adbd146b583386f1ef5fe19563be19",
