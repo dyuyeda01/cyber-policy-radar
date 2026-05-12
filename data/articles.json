@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-05-12T01:30:11.005888+00:00",
+  "generated_at": "2026-05-12T13:28:46.658635+00:00",
   "items": [
+    {
+      "id": "1113caa283ae98b9f527f8f9d5975bb1a0a5e124",
+      "title": "AI and an absent government: Takeaways from RSAC 2026",
+      "url": "https://www.cybersecuritydive.com/news/ai-cybersecurity-government-partnerships-rsac-conference/817451/",
+      "published": "2026-05-12T12:00:00+00:00",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/apwALScEIhpKIzh5OhsAcoX3gpPBFvChy96m__twrZE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9yc2FjMjAyNmJhbm5lci5qcGc=.webp\" /></div></figure><p>Cybersecurity professionals spent the recent conference discussing the balance between autonomy and oversight.</p>",
+      "source": "Cybersecurity Dive",
+      "region": "North America",
+      "country": "US",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
     {
       "id": "1f23f7feef2e5b1853626086100be20866e89422",
       "title": "Second Canvas data breach causes major disruptions for schools, colleges",
@@ -101,15 +112,70 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "0aca892c64b905db882a27932247ddb616b7f732",
-      "title": "Iran-sponsored threat group behind false flag social engineering campaign",
-      "url": "https://www.cybersecuritydive.com/news/iran-threat-group-false-flag-social-engineering/819454/",
-      "published": "2026-05-06T14:43:56+00:00",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/2nDLcDt7LvBG3TNxxJW_Vh5attzBd1HM_gznnM6ltZg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9pbWFnZTEyMDQyMDIwX21haW4uanBn.webp\" /></div></figure><p>The state-linked actor has been masquerading as a criminal ransomware group in attacks targeting U.S. organizations.</p>",
-      "source": "Cybersecurity Dive",
+      "id": "696160a0503b7412a95af5b0854e5373889c0397",
+      "title": "Webinar: What the Riskiest SOC Alerts Go Unanswered - and How Radiant Security Can Help",
+      "url": "https://thehackernews.com/2026/05/webinar-what-riskiest-soc-alerts-go.html",
+      "published": "2026-05-12T11:58:00+00:00",
+      "summary": "Why do the Riskiest SOC Alerts Go Unanswered?\nSecurity operations teams are drowning in alerts. But the real problem isn't always alert volume; it's the blind spots. The most dangerous alerts are the ones no one is investigating.\nA recent report from The Hacker News examined why certain high-risk alert categories - WAF, DLP, OT/IoT, dark web intelligence, and supply chain signals- consistently",
+      "source": "The Hacker News",
       "region": "North America",
       "country": "US",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjA12ieHY1fiDaLvgyhGriQgzyEXJlSwwkQvcJXqP10JFEOcbwVa_EZD9H26tzLJovmlGHDHLL37-0H4y3ePSn5qDwRu6-X6I2StjAFHkiZ4_mgZOnjiKHdg2KId0sJ5OuxxWGeL7ULdNA3X_PTGcdv8_QJ4KS9RCtN-Oe3nLiOLWFwbDB46beV8jRaKG4/s1600/Radiant-webinar.jpg"
+    },
+    {
+      "id": "06dd92f800722c8f03ae618721bb5a37e98c00ca",
+      "title": "Mini Shai-Hulud Worm Compromises TanStack, Mistral AI, Guardrails AI & More Packages",
+      "url": "https://thehackernews.com/2026/05/mini-shai-hulud-worm-compromises.html",
+      "published": "2026-05-12T11:46:00+00:00",
+      "summary": "TeamPCP, the threat actor behind the recent&nbsp;supply chain attack spree, has been linked to the compromise of the npm and PyPI packages from TanStack, UiPath, Mistral AI, OpenSearch, and Guardrails AI as part of a fresh Mini Shai-Hulud campaign.\nThe affected npm packages have been modified to include an obfuscated JavaScript file (\"router_init.js\") that's designed to profile the execution",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXIhs2kZt0YGdDcd-Io67mq1GIN_iI_71LYhuin4qqmlgUgCuZ3fGUvglg_5nh5DK8kfPP8RHki86yMyqh4rTE27PGgPBh4RQjkh91-QGoB8cav5NUsYAwcV3ZJ7aEf-uEoH3pLGQ2eWuCh8lZSWAlTIa2U5I6eeB3HZmYMn4q-YoV7Ytmkpr1tN0lC2rG/s1600/mistral.jpg"
+    },
+    {
+      "id": "0d53d116bbf22e56e58c4db0c5573b9f67c34cc9",
+      "title": "Why Agentic AI Is Security's Next Blind Spot",
+      "url": "https://thehackernews.com/2026/05/why-agentic-ai-is-securitys-next-blind.html",
+      "published": "2026-05-12T10:30:00+00:00",
+      "summary": "Agentic AI is already running in production environments across many organizations today. It is executing tasks, consuming data, and taking actions \u2014 most likely without meaningful involvement from the security team. The industry conversation has largely framed this as a question of policy: allow it, restrict it, or monitor it? However, that framing misses the point.&nbsp;\nThe more urgent",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzo1TUnQJpFnJbrO50dvjG14LDr2L6gKHsIIr5P73rSCgksrt2B9eVmRGKxPVvJ1qVMF63ka4So6vj5ln9T1nBIt2MV2DcH_dnYyQp1RREL4nbtnPghY7q5SAwZCwv0bN1ZV58DyTZSLw3UN00nP7uUcX_3ZqFQmAjufAvNRFshC5AJCuMdHb2n9kzC3w/s1600/ai-agents.jpg"
+    },
+    {
+      "id": "77e5dc26318b712163df8db6cb7b475eedc7cf7b",
+      "title": "Instructure Reaches Ransom Agreement with ShinyHunters to Stop 3.65TB Canvas Leak",
+      "url": "https://thehackernews.com/2026/05/instructure-reaches-ransom-agreement.html",
+      "published": "2026-05-12T07:37:00+00:00",
+      "summary": "American educational technology company Instructure, the parent company of Canvas, said it reached an \"agreement\" with a decentralized cybercrime extortion group after it breached its network and threatened to leak stolen information from thousands of schools and universities.\nIn an update shared on Monday, the Utah-based firm said it \"reached an agreement with the unauthorized actor involved in",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiq_FVhPeK2Y77CmHxc0azDelzWwpgSb4m8GZPLeJlsr2QvCZU5ChGQK37bJ_2XsGQRaNszalreV1iNyYDzeLt1I8iqafNTvFCPFQ0czKwX3Q6Q23TqdavunyJJsy6X8vxG_jSz__X5BnFZc4AIIqr-kd0XiNcYgx3UnYaahiViFKAywuQ98a7bbtCPnwgo/s1600/ransom-breach.jpg"
+    },
+    {
+      "id": "1a0f7b141fb89dd97cbb6931e15de210837d3619",
+      "title": "OpenAI Launches Daybreak for AI-Powered Vulnerability Detection and Patch Validation",
+      "url": "https://thehackernews.com/2026/05/openai-launches-daybreak-for-ai-powered.html",
+      "published": "2026-05-12T06:55:00+00:00",
+      "summary": "OpenAI has launched Daybreak, a new cybersecurity initiative that brings together frontier artificial intelligence (AI) model capabilities and Codex Security to help organizations identify and patch vulnerabilities before attackers find a way in using the same issues.\n\"Daybreak combines the intelligence of OpenAI models, the extensibility of Codex as an agentic harness, and our partners across",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLWuBkkGzJLNmcxzqkKdh6dI6X-juFjpMWr-k6VGVTL6G1XZUH1sna06RS5PQY0e4A1VpUjvR-dpWMCx0yQJBdjFyjnoyOek-ysMpU7cgWBkUHChyADdRozT1XHNIvUhU_ibCkggQaGESD7St4aCfyx4SWOfLjUSuoeWiJQmmb1EkimfKA27g_tVHdV-G-/s1600/openai-daybreak.jpg"
+    },
+    {
+      "id": "af3ff357cb2ff4d95af90519d9ef62c9ebd7bc01",
+      "title": "iOS 26.5 Brings Default End-to-End Encrypted RCS Messaging Between iPhone and Android",
+      "url": "https://thehackernews.com/2026/05/ios-265-brings-default-end-to-end.html",
+      "published": "2026-05-12T05:18:00+00:00",
+      "summary": "Apple on Monday officially released iOS 26.5 with support for end-to-end encryption (E2EE) to Rich Communication Services (RCS) in beta as part of a \"cross-industry effort\" to replace traditional SMS with a more secure alternative.\nTo that end, E2EE RCS messaging is rolling out to iPhone users running iOS 26.5 with supported carriers and Android users on the latest version of Google Messages.",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8hWB1CFFk1cxzc9VF7NI2QB-oCzrDMhxoIeajumiDRPkGyEt1wzhH3A3awM8uAZlRb2OXf33nd2O4Ug_IwHlCRNED92zQwFnDvyi9ypYQgQ8gRLCzkA6pHfJ2rfKfl-mTo5ha7KH2Jnwp9S6qIYx_6H4DnUSvVGM6k-yZfPQtKkO0pcGdhC4yVwI8-NEk/s1600/e2ee-rcs.jpg"
     },
     {
       "id": "5637b17b34a2980aa680eb31e2f2579850fb537d",
@@ -596,72 +662,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlgjtQddA9U3D-xf2UWj5GKV2R5tEwjqWWY9fwRQi_fZgG5tf140uw2P4oVfmcvPZcMYuFDo1mvqYKkgKSmgfBxVloaWTrN7vgPiH1FX8ivdh8PFBN9LvfJF13a0ajbXDLEV20pr9d2rSoQo4KWbDYSpSOFJYoPYDHizXQ3tYNGVhhysD8h3FWWpOkHytN/s1600/ccc.jpg"
     },
     {
-      "id": "01d5fc440eeb4c89328f202b4369847b7aaed9e3",
-      "title": "Global Crackdown Arrests 276, Shuts 9 Crypto Scam Centers, Seizes $701M",
-      "url": "https://thehackernews.com/2026/05/global-crackdown-arrests-276-shuts-9.html",
-      "published": "2026-05-04T05:59:00+00:00",
-      "summary": "A coordinated international operation involving U.S. and Chinese authorities has arrested at least 276 suspects and shut down nine scam centers used for cryptocurrency investment fraud schemes targeting Americans, resulting in millions of dollars in losses.\nThe crackdown was led by the Dubai Police, under the United Arab Emirates (UAE) Ministry of Interior, in partnership with the U.S. Federal",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVrpguh4mhS2wkIhYWPYbS2Nsjl1RPI5gpXYCZwdMyJtKk9uRU1yDIxTq7itnRWazzARvSlJ9oZTsKvGyWqOMjGyOPQ0YX6nNgUuJ9R2dD0X3Mv9Bjc0HvY3TeZHVQfLhXZd-w88FMBV71qJCVedcKQhL0Wd8YH7Jzwbasus9GF6LLzaRGG0tOFxP5TwmS/s1600/SCAMS.jpg"
-    },
-    {
-      "id": "12c77eec7a305ebe5190969354efe2d59e8d7f96",
-      "title": "CISA Adds Actively Exploited Linux Root Access Bug CVE-2026-31431 to KEV",
-      "url": "https://thehackernews.com/2026/05/cisa-adds-actively-exploited-linux-root.html",
-      "published": "2026-05-03T06:26:00+00:00",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a recently disclosed security flaw impacting various Linux distributions to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation in the wild.\nThe vulnerability, tracked as CVE-2026-31431 (CVSS score: 7.8), is a case of local privilege escalation (LPE) flaw that could allow an",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibNApjovicg4aFV0VPiue9cUMmH_D-GkLlWwgXunP_-fUi8cRWaNM6Kl2TV99eBRKKVdXNq-0iQ2EJLotLO_TAvIA3xW-mE-tS5BDHSKrUmTgGuGEbAp4ek6uFJk4yRTsgJu6LStR3BqJkIm4fyXgZiBKxNGI0YBLiiAneTRvem-Ydh3gbIVsz8O0VBUQy/s1600/linux-root.jpg"
-    },
-    {
-      "id": "d871604e8f4242aace52e5d29c2899ba1da0c2a7",
-      "title": "Trellix Confirms Source Code Breach With Unauthorized Repository Access",
-      "url": "https://thehackernews.com/2026/05/trellix-confirms-source-code-breach.html",
-      "published": "2026-05-02T06:41:00+00:00",
-      "summary": "Cybersecurity company Trellix has announced that it suffered a breach that enabled unauthorized access to a \"portion\" of its source code.\nIt said it \"recently identified\" the compromise of its source code repository and that it began working with \"leading forensic experts\" to resolve the matter immediately. It also said it has notified law enforcement of the matter.\nTrellix did not disclose the",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJ47NY9D4DSEZHqBNSGTjpmSJqwYVOzlIKGoG-0LTxSdIIDrMtyV2tOqRYcc-4kpxkE1UZ6nJhK4eXCGEsEmG6UcQeHn_YjAhRWXIAxo5yC75eUmLv3w5rur6SN6Qoee65gve-LgM0_3YGnAzQwTrQMTeTShRe_leh8_ImIlzU-Sgfy2kRqTcx5V-yG-3M/s1600/breach.jpg"
-    },
-    {
-      "id": "c964fa83825effcbd727aee06505b41cab0b7c7e",
-      "title": "30,000 Facebook Accounts Hacked via Google AppSheet Phishing Campaign",
-      "url": "https://thehackernews.com/2026/05/30000-facebook-accounts-hacked-via.html",
-      "published": "2026-05-01T18:09:00+00:00",
-      "summary": "A newly discovered Vietnamese-linked operation has been observed using a Google AppSheet as a \"phishing relay\" to distribute phishing emails with an aim to compromise Facebook accounts.\nThe activity has been codenamed AccountDumpling by Guardio, with the scheme selling the stolen accounts back through an illicit storefront run by the threat actors. In all, roughly 30,000 Facebook accounts are",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilUS_xmTpvaJtwhFTnxsBtKSx2hWroMJKWUCKeB_CNx_9-5T85bdpqGfTZ0__XITi-i6ZnndaiiiFggf3Cgf-35KK-G6sEwvnlqom2DK6U-oH_o9GhEGNyd9kiSti-QC_dpl3v7b7IniC9kAUzV265yVbVsWAnLnH1RfQxrftUHj5MFAm03MOBw3Z6UEVb/s1600/phish.jpg"
-    },
-    {
-      "id": "40a5d9dea62a5d9983cc8856c7eea269f5ac8f00",
-      "title": "Cybercrime Groups Using Vishing and SSO Abuse in Rapid SaaS Extortion Attacks",
-      "url": "https://thehackernews.com/2026/05/cybercrime-groups-using-vishing-and-sso.html",
-      "published": "2026-05-01T14:26:00+00:00",
-      "summary": "Cybersecurity researchers are warning of two cybercrime groups that are carrying out \"rapid, high-impact attacks\" operating almost within the confines of SaaS environments, while leaving minimal traces of their actions.\nThe clusters, Cordial Spider (aka BlackFile, CL-CRI-1116, O-UNC-045, and UNC6671) and Snarky Spider (aka O-UNC-025 and UNC6661), have been attributed to high-speed data theft and",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4FSyjacFNJX32YMLQvN6jUeVwGJfoAHPLMIhtU6aNS6hrkIUokynaWWzqxOjr1JsP0lIooaL0ppYM-iQ_rEH2ruoqMw1UAb_bq4FNjI16P6P7CpTaYSkJtp-TpCFKOce9ODtmzskcTZnuWFLYyUdfA0UeHqmRVVNB1P6Mw28a5Yuc7T1kgEx4Pcyxbcsr/s1600/vishing.jpg"
-    },
-    {
-      "id": "5807671cf89d10f7290510c07c34a976a3eeb45f",
-      "title": "China-Linked Hackers Target Asian Governments, NATO State, Journalists, and Activists",
-      "url": "https://thehackernews.com/2026/05/china-linked-hackers-target-asian.html",
-      "published": "2026-05-01T14:02:00+00:00",
-      "summary": "Cybersecurity researchers have disclosed details of a new China-aligned espionage campaign targeting government and defense sectors across South, East, and Southeast Asia, along with one European government belonging to NATO.\nTrend Micro has attributed the activity to a threat activity cluster it tracks under the temporary designation SHADOW-EARTH-053. The adversarial collective is assessed to",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhD3mr1fHyy1yT3u6ebxE9skoiCRtBYdZnkvdputmKF0XgZW5BKeQKkvnYswwusYFG4tvzVeWOqP3wgGtqLA7Ds9I-PYlasFVkOmaClo8IIpRGtdvuFZuKzDgvktukM1YXbTDbBAZUfk1mtWx8lHFF8N_YZXRl0ncSWtGGkzXDkm5gWMovjixeiyh6w_64W/s1600/chinese-hackers.jpg"
-    },
-    {
       "id": "25f5eb61636511ffe867f69571afefb750110648",
       "title": "FCC Softens Ban on Foreign-Made Routers",
       "url": "https://www.darkreading.com/endpoint-security/fcc-softens-foreign-router-ban",
@@ -682,6 +682,17 @@
       "region": "North America",
       "country": "US",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc92afe17dbd34016/6a022fb240d9cd336435418d/cyber_eye_Lightfield_Studios_Inc_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
+      "id": "40e716289c1569e74088c9fb5a5c62126ef485de",
+      "title": "20 Leaders Who Built the CISO Era: 2 Decades of Change",
+      "url": "https://www.darkreading.com/cybersecurity-operations/20-leaders-ciso-era-2-decades-change",
+      "published": "2026-05-11T19:00:00+00:00",
+      "summary": "As part of Dark Reading's 20th anniversary special coverage, we profile the CISOs, founders, researchers, criminals, and policymakers who rewrote the enterprise risk playbook.",
+      "source": "DarkReading",
+      "region": "North America",
+      "country": "US",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt75b70c94d4929df4/69fe0f027b0753efdf549e04/architect-Artur_Marciniec-alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "id": "19db0f14286e75a15cda3127cae76715a28b334e",
@@ -1201,22 +1212,44 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt798fb98cb0e72278/69eba133172e119ab194fef8/SE_Asia-slegers_hans-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "49fde301cceb95f6bd834fdd086005ae45b057bd",
-      "title": "Glasswing Secured the Code. The Rest of Your Stack Is Still on You",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/glasswing-secured-code-stack-on-you",
-      "published": "2026-04-24T15:04:29+00:00",
-      "summary": "Forgotten integrations, shadow IT, SaaS, and now shadow AI and agents are everywhere, and attackers don't need sophisticated AI models to take advantage.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6fceb678bad33d92/69eace49fd15051754836a22/Glasswing_Casimiro_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "id": "035cd1b31b6def81c345ffad096195a9faf0388d",
+      "title": "Cache-poisoning caper turns TanStack npm packages toxic",
+      "url": "https://www.theregister.com/cyber-crime/2026/05/12/cache-poisoning-caper-turns-tanstack-npm-packages-toxic/5238650",
+      "published": "2026-05-12T12:00:00+00:00",
+      "summary": "Six-minute supply chain blitz pushed 84 malicious versions with credential theft and disk-wiping code",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=257723&width=800"
+    },
+    {
+      "id": "b4be8df3b66e56585c4dd6fc5ddd4460eae38f97",
+      "title": "Apple, Google drag cross-platform texting into the encrypted age",
+      "url": "https://www.theregister.com/security/2026/05/12/apple-google-drag-cross-platform-texting-into-the-encrypted-age/5238556",
+      "published": "2026-05-12T09:46:00+00:00",
+      "summary": "After years of stopping dead at the green bubble border, iPhone and Android users can finally send E2EE messages without relying on third-party apps",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=5238581&width=800"
+    },
+    {
+      "id": "e8dfa9c659910d5b7e2fbe6ba2f8f862b188b894",
+      "title": "Japan\u2019s PM orders cybersecurity review to stop Mythos going full CyberZilla",
+      "url": "https://www.theregister.com/security/2026/05/12/japans-pm-orders-cybersecurity-review-to-defend-against-anthropic-mythos/5238501",
+      "published": "2026-05-12T05:40:37+00:00",
+      "summary": "Fears exponential increase in attack scale and speed",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=5238519&width=800"
     },
     {
       "id": "76835e1aed39a53d9ff8e081782bfa95e983b2cb",
       "title": "Double Canvas breach acknowledged as ShinyHunters sets new pay-or-leak deadline",
       "url": "https://www.theregister.com/security/2026/05/12/double-canvas-intrusion-confirmed-as-shinyhunters-resets-leak-deadline/5238361",
       "published": "2026-05-11T23:16:25+00:00",
-      "summary": "UPDATED: Sorry, kids, everything's back up so get back to work on your new assignment - figuring out if Instructure paid a ransom",
+      "summary": "UPDATED: Sorry, kids, everything's back up so get to work on your new assignment - An essay on the ethics of paying ransoms, because it looks like that's what happened here",
       "source": "The Register \u2013 Security",
       "region": "Europe",
       "country": "UK",
@@ -1729,39 +1762,6 @@
       "image": "https://image.theregister.com/?imageId=225166&width=800"
     },
     {
-      "id": "73edaffc78eac840c2eb4854f2fe87a83c2519db",
-      "title": "CISA flags data-theft bug in NSA-built OT networking tool",
-      "url": "https://www.theregister.com/security/2026/04/29/cisa-flags-data-theft-bug-in-nsa-built-ot-networking-tool/5225947",
-      "published": "2026-04-29T15:35:04+00:00",
-      "summary": "GrassMarlin leaks sensitive information, provided your targeting phishing skills are sharp enough",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=241714&width=800"
-    },
-    {
-      "id": "27843169240242060aecfcf42b6aabb10d23f311",
-      "title": "GitHub: Zounds, a genuinely helpful AI-assisted bug report that isn't total slop! Here, Wiz, take this wad of cash",
-      "url": "https://www.theregister.com/security/2026/04/29/wiz-hands-github-ai-aided-bug-report-that-isnt-total-slop/5227744",
-      "published": "2026-04-29T13:02:16+00:00",
-      "summary": "Claude ploughs through months of work in rapid time, helps Wiz researchers nab lucrative award",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=225855&width=800"
-    },
-    {
-      "id": "9a431b68287ce0ef1d47c9b3a872edca3e3017e5",
-      "title": "30 ClawHub skills secretly turn AI agents into a crypto swarm",
-      "url": "https://www.theregister.com/security/2026/04/29/30-clawhub-skills-secretly-turn-ai-agents-into-crypto-swarm/5226209",
-      "published": "2026-04-29T06:32:14+00:00",
-      "summary": "Yet another reason not to feast on OpenClaw",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=5226539&width=800"
-    },
-    {
       "id": "9403440277d33caf3d2679e4f22bbb33dac14719",
       "title": "Canvas Breach Disrupts Schools & Colleges Nationwide",
       "url": "https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/",
@@ -1806,6 +1806,83 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "abd6c89775568872c1c56bec8b1b878e4b548f09",
+      "title": "Deal Reached With Hackers to Delete Data Stolen From the Canvas Educational Platform",
+      "url": "https://www.securityweek.com/deal-reached-with-hackers-to-delete-data-stolen-from-the-canvas-educational-platform/",
+      "published": "2026-05-12T13:26:46+00:00",
+      "summary": "<p>The company that operates online learning system Canvas said it struck a deal with hackers to delete the data they pilfered in a cyberattack that created chaos for students, many of them in the middle of finals.</p>\n<p>The post <a href=\"https://www.securityweek.com/deal-reached-with-hackers-to-delete-data-stolen-from-the-canvas-educational-platform/\">Deal Reached With Hackers to Delete Data Stolen From the Canvas Educational Platform</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "16443b946032703dddf9177aa4c703b4b147043f",
+      "title": "West Pharmaceutical Services Hit by Disruptive Ransomware Attack",
+      "url": "https://www.securityweek.com/west-pharmaceutical-services-hit-by-disruptive-ransomware-attack/",
+      "published": "2026-05-12T12:59:49+00:00",
+      "summary": "<p>The company took systems offline globally after hackers exfiltrated data and deployed file-encrypting ransomware.</p>\n<p>The post <a href=\"https://www.securityweek.com/west-pharmaceutical-services-hit-by-disruptive-ransomware-attack/\">West Pharmaceutical Services Hit by Disruptive Ransomware Attack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "2ba5f527d4858a180df8bfb4de521ef9e0250719",
+      "title": "Apple Patches Dozens of Vulnerabilities in macOS, iOS",
+      "url": "https://www.securityweek.com/apple-patches-dozens-of-vulnerabilities-in-macos-ios/",
+      "published": "2026-05-12T12:37:21+00:00",
+      "summary": "<p>The tech giant has also ported the patch for a recent deleted chats recovery issue to older versions of iOS.</p>\n<p>The post <a href=\"https://www.securityweek.com/apple-patches-dozens-of-vulnerabilities-in-macos-ios/\">Apple Patches Dozens of Vulnerabilities in macOS, iOS</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "26fb5c6b2a33f04d4aef34572e09d9d277ac90a5",
+      "title": "SAP Patches Critical S/4HANA, Commerce Vulnerabilities",
+      "url": "https://www.securityweek.com/sap-patches-critical-s-4hana-commerce-vulnerabilities/",
+      "published": "2026-05-12T12:13:41+00:00",
+      "summary": "<p>The flaws could allow attackers to inject malicious code, leading to information disclosure and code execution.</p>\n<p>The post <a href=\"https://www.securityweek.com/sap-patches-critical-s-4hana-commerce-vulnerabilities/\">SAP Patches Critical S/4HANA, Commerce Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "e3a4d75c380b05598985968a22459e23c55b72e5",
+      "title": "Claude Mythos Finds Only One Curl Vulnerability; Experts Divided on What It Really Means",
+      "url": "https://www.securityweek.com/claude-mythos-finds-only-one-curl-vulnerability-experts-divided-on-what-it-really-means/",
+      "published": "2026-05-12T11:15:51+00:00",
+      "summary": "<p>Curl\u2019s lead developer says Mythos claims are marketing, but many in the industry believe the results stem from Curl\u2019s robust security.</p>\n<p>The post <a href=\"https://www.securityweek.com/claude-mythos-finds-only-one-curl-vulnerability-experts-divided-on-what-it-really-means/\">Claude Mythos Finds Only One Curl Vulnerability; Experts Divided on What It Really Means</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "490d2a3665f3872cd3ccc26d4ec72a28a69fbeeb",
+      "title": "Is the SOC Obsolete, and We Just Haven\u2019t Admitted It Yet?",
+      "url": "https://www.securityweek.com/is-the-soc-obsolete-and-we-just-havent-admitted-it-yet/",
+      "published": "2026-05-12T11:00:00+00:00",
+      "summary": "<p>Many AI-first enterprises have already embraced sovereign architectures for general AI initiatives; cybersecurity\u2014and the SOC\u2014should be next.</p>\n<p>The post <a href=\"https://www.securityweek.com/is-the-soc-obsolete-and-we-just-havent-admitted-it-yet/\">Is the SOC Obsolete, and We Just Haven\u2019t Admitted It Yet?</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "35161a87dd273038ceb78f771c267815f71980b4",
+      "title": "TanStack, Mistral AI, UiPath Hit in Fresh Supply Chain Attack",
+      "url": "https://www.securityweek.com/tanstack-mistral-ai-uipath-hit-in-fresh-supply-chain-attack/",
+      "published": "2026-05-12T10:10:33+00:00",
+      "summary": "<p>Over 400 malicious versions of 170 packages were published as part of the new Mini Shai-Hulud campaign.</p>\n<p>The post <a href=\"https://www.securityweek.com/tanstack-mistral-ai-uipath-hit-in-fresh-supply-chain-attack/\">TanStack, Mistral AI, UiPath Hit in Fresh Supply Chain Attack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "7f488d35a2535e3d7310e5c6feb8a9c7301328b6",
       "title": "Frame Security Emerges From Stealth With $50M for Awareness and Training Platform",
       "url": "https://www.securityweek.com/frame-security-emerges-from-stealth-with-50m-for-awareness-and-training-platform/",
@@ -1833,83 +1910,6 @@
       "url": "https://www.securityweek.com/google-detects-first-ai-generated-zero-day-exploit/",
       "published": "2026-05-11T13:04:21+00:00",
       "summary": "<p>The zero-day was designed to bypass 2FA and it was developed by a prominent cybercrime group.</p>\n<p>The post <a href=\"https://www.securityweek.com/google-detects-first-ai-generated-zero-day-exploit/\">Google Detects First AI-Generated Zero-Day Exploit</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "84d9d3c16d509716cf22eed038a9cc2ebd142e72",
-      "title": "Skoda Data Breach Hits Online Shop Customers",
-      "url": "https://www.securityweek.com/skoda-data-breach-hits-online-shop-customers/",
-      "published": "2026-05-11T11:54:27+00:00",
-      "summary": "<p>Using a vulnerability in the portal, hackers accessed names, addresses, email addresses, and phone numbers.</p>\n<p>The post <a href=\"https://www.securityweek.com/skoda-data-breach-hits-online-shop-customers/\">Skoda Data Breach Hits Online Shop Customers</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "8c569456085580df0e1a2049cee23040dc875e4b",
-      "title": "Cloudflare Lays Off 1,100 Employees in AI-Driven Restructuring",
-      "url": "https://www.securityweek.com/cloudflare-lays-off-1100-employees-in-ai-driven-restructuring/",
-      "published": "2026-05-11T11:25:02+00:00",
-      "summary": "<p>The company topped revenue and earnings forecasts for the first quarter of 2026, but its shares plunged more than 20%.</p>\n<p>The post <a href=\"https://www.securityweek.com/cloudflare-lays-off-1100-employees-in-ai-driven-restructuring/\">Cloudflare Lays Off 1,100 Employees in AI-Driven Restructuring</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "e5b1250b8f15575fe48f87079257508d9c1f5380",
-      "title": "SailPoint Discloses GitHub Repository Hack",
-      "url": "https://www.securityweek.com/sailpoint-discloses-github-repository-hack/",
-      "published": "2026-05-11T10:52:23+00:00",
-      "summary": "<p>The incident occurred on April 20 and did not affect customer data in the company\u2019s production and staging environments.</p>\n<p>The post <a href=\"https://www.securityweek.com/sailpoint-discloses-github-repository-hack/\">SailPoint Discloses GitHub Repository Hack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "21637ac00ff141d24393e93c67dc6bedf779baa8",
-      "title": "Checkmarx Jenkins AST Plugin Compromised in Supply Chain Attack",
-      "url": "https://www.securityweek.com/checkmarx-jenkins-ast-plugin-compromised-in-supply-chain-attack/",
-      "published": "2026-05-11T09:34:55+00:00",
-      "summary": "<p>A malicious version of the plugin was published to the Jenkins Marketplace late last week.</p>\n<p>The post <a href=\"https://www.securityweek.com/checkmarx-jenkins-ast-plugin-compromised-in-supply-chain-attack/\">Checkmarx Jenkins AST Plugin Compromised in Supply Chain Attack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "d16d791ca061237ab9c1a64c84919b5149fd6399",
-      "title": "Canvas System Is Online After a Cyberattack Disrupted Thousands of Schools",
-      "url": "https://www.securityweek.com/canvas-system-is-online-after-a-cyberattack-disrupted-thousands-of-schools/",
-      "published": "2026-05-11T08:35:13+00:00",
-      "summary": "<p>Tens of thousands of students studying for final exams around the world have regained access to a key online learning system after a cyberattack had earlier knocked it offline.</p>\n<p>The post <a href=\"https://www.securityweek.com/canvas-system-is-online-after-a-cyberattack-disrupted-thousands-of-schools/\">Canvas System Is Online After a Cyberattack Disrupted Thousands of Schools</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "fd3abbaea53076e594ca4ab0b1bff33891fa1cf8",
-      "title": "New \u2018Dirty Frag\u2019 Linux Vulnerability Possibly Exploited in Attacks",
-      "url": "https://www.securityweek.com/new-dirty-frag-linux-vulnerability-possibly-exploited-in-attacks/",
-      "published": "2026-05-11T08:15:28+00:00",
-      "summary": "<p>Also called Copy Fail 2 and tracked as CVE-2026-43284 and CVE-2026-43500, the exploit was disclosed before a patch was released.</p>\n<p>The post <a href=\"https://www.securityweek.com/new-dirty-frag-linux-vulnerability-possibly-exploited-in-attacks/\">New &#8216;Dirty Frag&#8217; Linux Vulnerability Possibly Exploited in Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "08a57c9b8fe80ce3c7816f67783711eab313113f",
-      "title": "Resurrected \u2018Crimenetwork\u2019 Marketplace Taken Down, Administrator Arrested",
-      "url": "https://www.securityweek.com/resurrected-crimenetwork-marketplace-taken-down-administrator-arrested/",
-      "published": "2026-05-11T07:25:12+00:00",
-      "summary": "<p>The second iteration of the German-speaking online crime marketplace had over 22,000 users and more than 100 sellers.</p>\n<p>The post <a href=\"https://www.securityweek.com/resurrected-crimenetwork-marketplace-taken-down-administrator-arrested/\">Resurrected &#8216;Crimenetwork&#8217; Marketplace Taken Down, Administrator Arrested</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
