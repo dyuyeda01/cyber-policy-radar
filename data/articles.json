@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-05-13T01:49:00.572733+00:00",
+  "generated_at": "2026-05-13T13:57:52.620469+00:00",
   "items": [
+    {
+      "id": "9068a00c3dec485efa09b383c483e1769cc0bceb",
+      "title": "Canvas owner reaches \u2018agreement\u2019 with threat actors after data breach",
+      "url": "https://www.cybersecuritydive.com/news/canvas-agreement-threat-actors--ransomware/820084/",
+      "published": "2026-05-13T13:41:52+00:00",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/F6yfoA0Xw2DL_3jL8EcpmTh-IB0mNRfOwomqrjEJ6hM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzQzMzQ5NTU4LmpwZw==.webp\" /></div></figure><p>Cybersecurity experts suggest that Instructure appears to have made a ransomware payment, which the FBI highly discourages.</p>",
+      "source": "Cybersecurity Dive",
+      "region": "North America",
+      "country": "US",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
     {
       "id": "ae6003ad0c2a44cd5e01dc4ff11c531d8ee9f8c2",
       "title": "Guardrail Technologies launches Traffic Light for Code & AI\u2122; first security technology to verify & secure AI code and the people creating it",
@@ -101,15 +112,81 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "99573b9b65fbeacd9ad8804b754d437e4a263363",
-      "title": "Businesses hide vast majority of ransomware attacks, report finds",
-      "url": "https://www.cybersecuritydive.com/news/ransomware-undisclosed-attacks-blackfog/819595/",
-      "published": "2026-05-07T15:13:47+00:00",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/bXbNdhunP-59dQk-nu5LUq_ZM47X2ho7zbxbnf1KLSk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzk5OTgwMDQ2LmpwZw==.webp\" /></div></figure><p>The security firm BlackFog said the number of disclosed incidents it tracked in Q1 was roughly one-tenth of the number of undisclosed incidents.</p>",
-      "source": "Cybersecurity Dive",
+      "id": "c19ed1ef05a0fe26449affb36ebe15e878157519",
+      "title": "Microsoft's MDASH AI System Finds 16 Windows Flaws Fixed in Patch Tuesday",
+      "url": "https://thehackernews.com/2026/05/microsofts-mdash-ai-system-finds-16.html",
+      "published": "2026-05-13T13:46:02+00:00",
+      "summary": "Microsoft has unveiled a new multi-model artificial intelligence (AI)-driven system called MDASH to facilitate vulnerability discovery and remediation at scale, adding that it's being tested by some customers as part of a limited private preview.\nMDASH, short for multi-model agentic scanning harness, is designed as a model-agnostic system that uses bespoke AI agents for different vulnerability",
+      "source": "The Hacker News",
       "region": "North America",
       "country": "US",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1Iq16GS3jdGiIU24GHBkwg6unk05ctdgYwXO5df8zRu1qko95_XhszCjq6jlEIRozLsrtZHgi5GqDZnS1Sw_KDzUzsagwP0If3VswmYHsnuYwVseU2lapxQiPpItTdAiv-CCdTFR87ZVOu65buyvmvzmdWuJPKHuPA4DSo58HQIMAV__2ymsmRe2g3UVe/s1600/windows-ai.jpg"
+    },
+    {
+      "id": "e704bcdff089976c443569bd4ac65e161e5bf180",
+      "title": "Azerbaijani Energy Firm Hit by Repeated Microsoft Exchange Exploitation",
+      "url": "https://thehackernews.com/2026/05/azerbaijani-energy-firm-hit-by-repeated.html",
+      "published": "2026-05-13T13:00:00+00:00",
+      "summary": "A threat actor with affiliations to China has been linked to a \"multi-wave intrusion\" targeting an unnamed Azerbaijani oil and gas company between late December 2025 and late February 2026, marking an expansion of its targeting.\nThe activity has been attributed by Bitdefender with moderate-to-high confidence to a hacking group known as FamousSparrow (aka UAT-9244), which shares some level of",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOfGXVOYqF2EcrcnYIDCnTYdmWpV-uaZ5nV0_0ukZ8uCk19wFFOax_VvgwO8LtlIkVo8pvcSSBs8Afc66yo2PbiMDjq4UDqnytAqP-Nq8CqTOfEtqwuWRmjbUpRYzqaAXFnRiXozR34fXAPE8O6Gcix6f08Sped3oVUXcjIOTE04N8IInA0qVeG0Sc6LzB/s1600/energy-cyberattack.jpg"
+    },
+    {
+      "id": "bd7da8b567b6be9de81cfe12eb91c4807ef942ec",
+      "title": "[Webinar] Why Your AppSec Tools Miss the \"Lethal Path\" (and How to Fix It)",
+      "url": "https://thehackernews.com/2026/05/webinar-why-your-appsec-tools-miss.html",
+      "published": "2026-05-13T11:52:43+00:00",
+      "summary": "TL;DR: Stop chasing thousands of \"toast\" alerts. Join experts from Wiz and Okta/GitLab to learn how hackers connect tiny flaws to build a \"Lethal Chain\" to your data\u2014and how to break it. Register for the Strategic Briefing Here.\nMost security tools work like a smoke alarm that goes off every time you burn a piece of toast. You get so many alerts that you eventually start to ignore them.\nThe real",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-X1ZWS1wjhotRXh44H3uH6bxJmz3fwKA9tFIuYxCVV_b_BhzNKscxBa_St0ybBNSIpHYTlgBf0YvsuY1B2FUJebmGwtpkgeDh7DutT4ERpurg_iRTfDNbyWWzFOt5Z8PLGDu-kywwNTPdNVK_UDcAC8ZzdFCry5xDvx8c8l9QtNJKk6J4ZQVRIpvAfzwf/s1600/wiz.jpg"
+    },
+    {
+      "id": "f96f8c6c0ea31d19ab8ab1cd9ed1d1a7af298a40",
+      "title": "Most Remediation Programs Never Confirm the Fix Actually Worked",
+      "url": "https://thehackernews.com/2026/05/most-remediation-programs-never-confirm.html",
+      "published": "2026-05-13T11:30:00+00:00",
+      "summary": "Security teams have never had better visibility into their environments and never been worse at confirming what they fix stays fixed.\nMandiant's M-Trends 2026 report puts the mean time to exploit at an estimated negative seven days. The Verizon 2025 DBIR puts median time to remediate edge device vulnerabilities at 32 days. These numbers have understandably driven the industry toward a clear",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg70Fxtk3MEmUdZjXl_ocBSlT80rWfXtIj2kxPvypzCSlEK4cqkm8lo16NXHjvyCw9niiPk2gKSPhgTjSFTZpetxg2As7QL0AyWWHoTuvtcp1Ok-ALMfcUwaUMAyE8asDu-KjVDoUP4VLCOSDPWHru7V-ix6Xs-VSHvHDJ8KRn6NLq_EJJBm0B4xwa9vbLp/s1600/pentera.jpg"
+    },
+    {
+      "id": "3f0b5f448234ff148bb10e5fa83e5f621b6043c5",
+      "title": "Microsoft Patches 138 Vulnerabilities, Including DNS and Netlogon RCE Flaws",
+      "url": "https://thehackernews.com/2026/05/microsoft-patches-138-vulnerabilities.html",
+      "published": "2026-05-13T10:36:10+00:00",
+      "summary": "Microsoft on Tuesday released patches for 138 security vulnerabilities spanning its product portfolio, although none of them have been listed as publicly known or under active attack.\nOf the 138 flaws, 30 are rated Critical, 104 are rated Important, three are rated Moderate, and one is rated Low in severity. As many as 61 vulnerabilities are classified as privilege escalation bugs, followed by",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjk3m3CoTiKH2QVXSFAOVKKnTl-Ybt1FDE4M7BGK_ujskSYNQ8pOlcvZfyNv8CW2EJIVdMQaORcCE0H-_ufTvD6hR-LOOZ64GZPS_9bH7YrE4i0r4LrGCn7vXmG0GjpFk8aNlRR_4_GjrM-jhXBS1NzIbYiRydcmiNSXIV2eUczvgjGmp34_gNz3M5kt-Jf/s1600/windows-patch-update.jpg"
+    },
+    {
+      "id": "ff51c761ea4552ff965c4bc88a1110ef5264b38a",
+      "title": "GemStuffer Abuses 150+ RubyGems to Exfiltrate Scraped U.K. Council Portal Data",
+      "url": "https://thehackernews.com/2026/05/gemstuffer-abuses-150-rubygems-to.html",
+      "published": "2026-05-13T08:08:54+00:00",
+      "summary": "Cybersecurity researchers are calling attention to a new campaign dubbed GemStuffer that has targeted the RubyGems repository with more than 150 gems that use the registry as a data exfiltration channel rather than for malware distribution.\n\"The packages do not appear designed for mass developer compromise,\" Socket said. \"Many have little or no download activity, and the payloads are repetitive,",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZpbB_p88zZf6q_DhwCbgnYn2okFYqa7pwIPmknojvkOC3heteNMp3C6bzD_6WKChB4yVK0wLyoJ_-DebN0c229j-twjPyMAC-qkfGs1tjlaEoNg30fpEDh9DIByfz_h4nKhalTC_Su-FP0AYxywL_x85ILq1t-QFPtuMa_-KbLKlfsX15kvGpPCs1OZpw/s1600/rubygemss.jpg"
+    },
+    {
+      "id": "463638b65223054b6a816263877eba73fad4c2da",
+      "title": "Android Adds Intrusion Logging for Sophisticated Spyware Forensics",
+      "url": "https://thehackernews.com/2026/05/android-adds-intrusion-logging-for.html",
+      "published": "2026-05-13T06:55:42+00:00",
+      "summary": "Google on Tuesday unveiled a new opt-in Android feature called Intrusion Logging for storing forensic logs to better analyze sophisticated spyware attacks.\nIntrusion Logging, available as part of Advanced Protection Mode, enables \"persistent and privacy-preserving forensics logging to allow for investigation of devices in the event of a suspected compromise,\" the company said.\nThe feature, it",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBNoTD0wrxHsoNUfZVLT2ImOUNC-2Md_wih6gTim-zbqkCzgGfXbtvlDgDMWeczo9RzINqu7qqk_3XK0KHSdbpLMPbR9xg_pLpjtoxugUt3B5-G9pL9wBCMI80Rx-Aw9eNxH-XXE2XpQHDtqaGDeXe3P4mGDvPgmDiqom8B2Xdfz7irCpOZVvhP9jsqudo/s1600/adnroid-Intrusion-Logging.jpg"
     },
     {
       "id": "5fb6512a0aacb7a4a323d5ed6ac5ab254b76643b",
@@ -127,7 +204,7 @@
       "title": "RubyGems Suspends New Signups After Hundreds of Malicious Packages Are Uploaded",
       "url": "https://thehackernews.com/2026/05/rubygems-suspends-new-signups-after.html",
       "published": "2026-05-12T14:47:00+00:00",
-      "summary": "RubyGems, the standard package manager for the Ruby programming language, has temporarily paused account sign ups following what has been described as a \"major malicious attack.\"\n\"We're dealing with a major malicious attack on Ruby Gems right now,\" Maciej Mensfeld, senior product manager for software supply chain security at Mend.io, said in a post on X. \"Signups are paused for the time being.",
+      "summary": "RubyGems, the standard package manager for the Ruby programming language, has temporarily paused account sign ups following what has been described as a \"major malicious attack.\"\n\"We're dealing with a major malicious attack on RubyGems right now,\" Maciej Mensfeld, senior product manager for software supply chain security at Mend.io, said in a post on X. \"Signups are paused for the time being.",
       "source": "The Hacker News",
       "region": "North America",
       "country": "US",
@@ -585,85 +662,30 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6SZcQRIb_0i7jqHu2mcl7Ep1hX2C3rwLWwJmBwPHTPE2PvaP9KOHcMkvGAWxLeBFWxmfpW6IXwJqIsxHJvs2nIDc2ASwRwuXNlWFZRtatpMoksz5BRKmCVNSs4BxsrFX0_CGqlHZv_6VNWx6u1wD8dydja_fvpnRLezr_CBLyX-Lj6a2i4wRKxZnGFRen/s1600/phph.jpg"
     },
     {
-      "id": "0642acc78f569f5c82751fb35a9fc71c20a6352c",
-      "title": "We Scanned 1 Million Exposed AI Services. Here's How Bad the Security Actually Is",
-      "url": "https://thehackernews.com/2026/05/we-scanned-1-million-exposed-ai.html",
-      "published": "2026-05-05T10:30:00+00:00",
-      "summary": "While the software industry has made genuine strides over the past few decades to deliver products securely, the furious pace of AI adoption is putting that progress at risk. Businesses are moving fast to self-host LLM infrastructure, drawn by the promise of AI as a force multiplier and the pressure to deliver more value faster. But speed is coming at the expense of security.\nIn the wake of the",
-      "source": "The Hacker News",
+      "id": "da93dbec3ecd06d5069ad852f7129cb2d27f1f1a",
+      "title": "LatAm Vibe Hackers Generate Custom Hacking Tools on the Fly",
+      "url": "https://www.darkreading.com/cloud-security/ai-agents-generate-custom-hacking-tools",
+      "published": "2026-05-13T13:00:00+00:00",
+      "summary": "In the latest evolution of automated cyberattacks, two threat campaigns heavily leveraged AI agents to support attacks against entities in Mexico and Brazil.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJcSH4TD_VT_40WBni-IecCy9etWtsaPKvEXzvqJrDVNl0rTIg_XXWSygEBXAIP7y4saSzakCzASpQL6vtRnHRHULD71drQ3gr-y9PpzOeeQ4JzkDGorQe26Iy7zCRp0tyc_h8EYpJYEMkYjlophh6fnhGnb0ZnRqmier4jB4nMXO2A_4j2duMoSQGKbo/s1600/intruder.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt21f9c2318a5ab687/6a038ac9398f1c61e4de8097/evil_robot_Anna_Vaczi_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "65c3aaad2cfc6b57c0cfbb01ea2446e75273e51c",
-      "title": "ScarCruft Hacks Gaming Platform to Deploy BirdCall Malware on Android and Windows",
-      "url": "https://thehackernews.com/2026/05/scarcruft-hacks-gaming-platform-to.html",
-      "published": "2026-05-05T09:07:00+00:00",
-      "summary": "The North Korea-aligned state-sponsored hacking group known as ScarCruft has compromised a video game platform in a supply chain espionage attack, trojanizing its components with a backdoor called BirdCallto likely target ethnic Koreans residing in China.\nWhile prior versions of the backdoor have primarily targeted Windows users only, the supply chain attack is assessed to have enabled the",
-      "source": "The Hacker News",
+      "id": "b0e69528e03a4d1c768e7b669e0b21aa0f51c8d4",
+      "title": "China's 'FamousSparrow' APT Nests in South Caucasus Energy Firm",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/china-famoussparrow-apt-south-caucasus-energy-firm",
+      "published": "2026-05-13T13:00:00+00:00",
+      "summary": "The cyberthreat group targets an Azerbaijani oil and gas firm with repeated attacks, as the China-linked actors extend targeting beyond hospitality, telecom, and government sectors.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-UMvuxvPI2rmCsc57tI37aod9slTjeUUo0b7InSRMTwGg3UGwzu04cKgA6DE92m455noFtcxdsXfhhDlsc2CTWg8Un_DXBCEduVeDluA81mLc7YtMGBwiuVRjSmzCVXZ2jgrbb7CKnCpVZDJJLjjW5Wj6nrjpJ6B_eV7LeaK0TLGcP_wYm1P8hUjQAnsF/s1600/gear.jpg"
-    },
-    {
-      "id": "f264b34da332fb34cd0834b74a2cc73cadc9e72e",
-      "title": "Weaver E-cology RCE Flaw CVE-2026-22679 Actively Exploited via Debug API",
-      "url": "https://thehackernews.com/2026/05/weaver-e-cology-rce-flaw-cve-2026-22679.html",
-      "published": "2026-05-05T07:37:00+00:00",
-      "summary": "A critical security vulnerability in Weaver (Fanwei) E-cology, an enterprise office automation (OA) and collaboration platform, has come under active exploitation in the wild.\nThe vulnerability (CVE-2026-22679, CVSS score: 9.8) relates to a case of unauthenticated remote code execution affecting Weaver E-cology 10.0 versions prior to 20260312. The issue resides in the \"/papi/esearch/data/devops/",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1jDJPLahWSAtaecpFMUCFQvqRj4uVR8js9Fh_awxf84YnfBOfN_hPeVhdNAZEJZGh7hGtuT_RjThlb_R6mYKf0WMpsf-AEkDIb6jYGqq-Gg4WQ2Sban7RZY6oV4MCCAkA8AXEI-4ItHk9jo5DpfoBTHWdVQIuI97MEaGYgc9xlojHS7eMq23Huhl0K7qg/s1600/weaver.jpg"
-    },
-    {
-      "id": "c770a3b5aae9a20eca6c60606adc12926cc7f801",
-      "title": "Microsoft Details Phishing Campaign Targeting 35,000 Users Across 26 Countries",
-      "url": "https://thehackernews.com/2026/05/microsoft-details-phishing-campaign.html",
-      "published": "2026-05-05T06:35:00+00:00",
-      "summary": "Microsoft has disclosed details of a large-scale credential theft campaign that has leveraged a combination of code of conduct-themed lures and legitimate email services to direct users to attacker-controlled domains and steal authentication tokens.\nThe multi-stage campaign, observed between April 14 and 16, 2026, targeted more than 35,000 users across over 13,000 organizations in 26 countries,",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAfU-GpnCdjg1P2f40nj2Y7eLLpsjWNa1TnSlNm3m9F7VkOryT5etD2BouMGxbfatdzukMzeCPXsDagasXWNbcwUPJNkDY-sBox3DkrA0bTYjAEOk4JV8OySSD1_Ni2DgEnoWih83X65e9K1foEaEUetNxoyXFJnGx4Np8VQWrZSnxo2UMmR0Y68L-qf0y/s1600/ms-hook.jpg"
-    },
-    {
-      "id": "423da35cd9d46b1ac89dd99dc6f3fe095c08520a",
-      "title": "Phishing Campaign Hits 80+ Orgs Using SimpleHelp and ScreenConnect RMM Tools",
-      "url": "https://thehackernews.com/2026/05/phishing-campaign-hits-80-orgs-using.html",
-      "published": "2026-05-04T18:06:00+00:00",
-      "summary": "An active phishing campaign has been observed targeting multiple vectors since at least April 2025 with legitimate Remote Monitoring and Management (RMM) software as a way to establish persistent remote access to compromised hosts.\nThe activity, codenamed VENOMOUS#HELPER, has impacted over 80 organizations, most of which are in the U.S., according to Securonix. It shares overlaps with clusters",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqa_ifaDYXI_GirxdHpZgSiE6fjnNdCmviv3QO9JsRvy1ddAWCRfoNd032ANB7pNfFMS4hLEwkfNHPHC5MNwkhK6XRjbe_y8qzWGpXRsdqhMnnUMGguScuIYtcUNQqQlmZkY4BUXy-ue6fAlor8LOfvEZNZrOq0JrIbOc2jXXAUBarqlodfdsIshRq7dXi/s1600/phishing-org.jpg"
-    },
-    {
-      "id": "2f4f35446dc4963babf596bfaec17e6ce786c133",
-      "title": "Progress Patches Critical MOVEit Automation Bug Enabling Authentication Bypass",
-      "url": "https://thehackernews.com/2026/05/progress-patches-critical-moveit.html",
-      "published": "2026-05-04T16:34:00+00:00",
-      "summary": "Progress Software has released updates to address two security flaws in MOVEit Automation, including a critical bug that could result in an authentication bypass.\nMOVEit Automation (formerly Central) is a secure, server-based managed file transfer (MFT) solution used to schedule and automate file movement workflows in enterprise environments without requiring any custom scripts.&nbsp;\nThe",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTvgdRkcdOwctclhM5XBvKXGGFrqpNsd7pJsR6Qk9QfhVd52KaiNWtY6kbWYbxzweFJDx5-sXo5UmIGJZ2yKbiSqntFDcYS7aDV_hUlAuNtcFzIPf_MDdqWq9eeyzZwJXx9__K5ynAXHc-7kJ6i66ifjuGrFqfLdn4-yDTvmL1oSZ-kVX2V9eoTq-xdiKa/s1600/moveit.jpg"
-    },
-    {
-      "id": "4885450a3111e0c4e99425a31147413e83a7dff7",
-      "title": "\u26a1 Weekly Recap: AI-Powered Phishing, Android Spying Tool, Linux Exploit, GitHub RCE & More",
-      "url": "https://thehackernews.com/2026/05/weekly-recap-ai-powered-phishing.html",
-      "published": "2026-05-04T14:23:00+00:00",
-      "summary": "This week, the shadows moved faster than the patches.\nWhile most teams were still triaging last month\u2019s alerts, attackers had already turned control panels into kill switches, kernels into open doors, and open-source pipelines into silent delivery systems.\nThe game has shifted from breach to occupation. They\u2019re living inside SaaS sessions, pushing code with trusted commits, and scaling",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_j3mVDqxMVjGlF1qpGV3nSUfIhHsxGDl7Nt6QQFwRUA-qOtj22zKVcE7B7UTCcjLdUrsjLPB5N7TiX8Hzjx8Hq8LPy_GdAfcO_AqMwDDWRyQ6dWdeXzFOQa1KYm8rUUDCgwCbR9kN7OCheQyc0Ijz2MuXGkY6bsqHwlBtV34Q6xH2VAPRDUjFFThKk46X/s1600/CYBERRECAP.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt69a3ca2781c97543/6a039734559f883c8de4d9ec/pair-of-java-sparrows-Alen_Thien-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "id": "d04751c6c9306954f4dd90d8d0aa0d9f053a2d08",
-      "title": "It's Patch Tuesday for Microsoft and Not a Zero-Day In Sight",
+      "title": "It's Patch Tuesday for Microsoft &amp; Not a Zero-Day In Sight",
       "url": "https://www.darkreading.com/application-security/patch-tuesday-microsoft-zero-day-sight",
       "published": "2026-05-12T21:03:04+00:00",
       "summary": "It's the first time in two years with no zero-days. But with 137 flaws to patch, including nine critical ones, admins still have plenty of work to do.",
@@ -794,17 +816,6 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd78672b4ab1bba5b/69fbad02074d2d799822412b/CISA_Timon_Schneider_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "ea779afcd9a9f77d8ac49521df963c6b975ce2f0",
-      "title": "AI-Driven Cyberattack on Mexico Couldn't Breach OT Systems",
-      "url": "https://www.darkreading.com/ics-ot-security/worlds-first-ai-driven-cyberattack-couldnt-breach-ot-systems",
-      "published": "2026-05-07T13:00:00+00:00",
-      "summary": "The most sophisticated AI-integrated campaign to date hit a brick wall in the form of a SCADA login screen.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt98fa61979c1de1b0/69fb95aa4f86c99808c8fc96/Faucet-Steven_Liveoak-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
       "id": "1bd9529de4bcb261d6d089b74423d89126274a38",
       "title": "'TrustFall' Convention Exposes Claude Code Execution Risk",
       "url": "https://www.darkreading.com/application-security/trustfall-exposes-claude-code-execution-risk",
@@ -814,6 +825,17 @@
       "region": "North America",
       "country": "US",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3ca377db822451a1/69fa57f81032fe21f456f521/claude_Samuel_Boivin_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
+      "id": "ea779afcd9a9f77d8ac49521df963c6b975ce2f0",
+      "title": "AI-Driven Cyberattack on Mexico Couldn't Breach OT Systems",
+      "url": "https://www.darkreading.com/ics-ot-security/worlds-first-ai-driven-cyberattack-couldnt-breach-ot-systems",
+      "published": "2026-05-07T13:00:00+00:00",
+      "summary": "The most sophisticated AI-integrated campaign to date hit a brick wall in the form of a SCADA login screen.",
+      "source": "DarkReading",
+      "region": "North America",
+      "country": "US",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt98fa61979c1de1b0/69fb95aa4f86c99808c8fc96/Faucet-Steven_Liveoak-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "id": "1bca86755ac7639ae49a6335cbe1d8ab69326642",
@@ -1190,26 +1212,26 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltefbf4a39ab640f97/69efb7451d99c5d0f25b7d66/snowy_ski_resort_Marc_Muench_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "07a128f2dd206542fb819ecb96444a95cd819bdd",
-      "title": "Unpatched 'PhantomRPC' Flaw in Windows Enables Privilege Escalation",
-      "url": "https://www.darkreading.com/vulnerabilities-threats/unpatched-phantomrpc-flaw-windows-privilege-escalation",
-      "published": "2026-04-27T15:31:41+00:00",
-      "summary": "A researcher discovered five different exploit paths that stem from an architectural weakness in how Windows' Remote Procedure Call (RPC) mechanism handles connections to unavailable services.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7ddc6c26fd6a3096/69ef5e517417a7300d3067f1/Vulnerability_(1800)_Sergey_Tarasov_Alamy.png?width=1280&auto=webp&quality=80&disable=upscale"
+      "id": "b4276b590b80c275cde134b38b8006a68057225d",
+      "title": "Malware crew TeamPCP open-sources its Shai-Hulud worm on GitHub",
+      "url": "https://www.theregister.com/security/2026/05/13/malware-crew-teampcp-open-sources-its-shai-hulud-worm-on-github/5239319",
+      "published": "2026-05-13T06:23:32+00:00",
+      "summary": "Where it\u2019s been well and truly forked, seemingly without Microsoft\u2019s code locker noticing",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=109601&width=800"
     },
     {
-      "id": "3b7e6397287f6d143c129e29f419127d1c4c99f8",
-      "title": "20-Year-Old Malware Rewrites History of Cyber Sabotage",
-      "url": "https://www.darkreading.com/cyber-risk/20-year-old-malware-rewrites-history-of-cyber-sabotage",
-      "published": "2026-04-27T13:09:54+00:00",
-      "summary": "Researchers have uncovered a malware framework dubbed &quot;fast16&quot; that predates Stuxnet by five years.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt420e8d1d004052f7/69ebe377149efc36ed6727fc/math_vectorfusionart_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "id": "b364cce4e61670663c12dc4c2defa156495feb74",
+      "title": "Vietnam to develop domestic cloud so it can ditch risky overseas operators for government workloads",
+      "url": "https://www.theregister.com/public-sector/2026/05/13/vietnam-to-develop-domestic-cloud-so-it-can-ditch-risky-overseas-operators-for-government-workloads/5239269",
+      "published": "2026-05-13T03:44:46+00:00",
+      "summary": "Communist government plans personalized \u2018data-driven decision-making based on real-time information\u2019 by 2035",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=5239288&width=800"
     },
     {
       "id": "f2a5a666ba65b317076e4407282a5123f3b2e4d7",
@@ -1740,28 +1762,6 @@
       "image": "https://image.theregister.com/?imageId=5224619&width=800"
     },
     {
-      "id": "d8738d6091e63d29f3a03af892d6d70f5e548eb2",
-      "title": "Linux cryptographic code flaw offers fast route to root",
-      "url": "https://www.theregister.com/software/2026/04/30/linux-cryptographic-code-flaw-offers-fast-route-to-root/5229187",
-      "published": "2026-04-30T00:01:50+00:00",
-      "summary": "Patches land for authencesn flaw enabling local privilege escalation",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=5229698&width=800"
-    },
-    {
-      "id": "f3aa630ac648badae1997656e0b7dc5cbf274c6b",
-      "title": "Researchers move in the right direction, develop powerful GPS interference alarm",
-      "url": "https://www.theregister.com/security/2026/04/29/ornl-builds-more-sensitive-gps-interference-detector/5223865",
-      "published": "2026-04-29T20:11:05+00:00",
-      "summary": "ORNL says portable detector kit can separate real GPS signals from fake ones even at equal strength",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=230810&width=800"
-    },
-    {
       "id": "1272da189124f766c0a7e7669dee01d4e630100e",
       "title": "Patch Tuesday, May 2026 Edition",
       "url": "https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/",
@@ -1817,6 +1817,94 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "6457e7e682c0004be3fce175a357e03534040793",
+      "title": "Webinar Today: ROI for Cyber-Physical Security Programs",
+      "url": "https://www.securityweek.com/webinar-today-roi-for-cyber-physical-security-programs/",
+      "published": "2026-05-13T13:30:00+00:00",
+      "summary": "<p>This webinar will help OT security teams and asset owners stop being cost centers and start being resilience drivers.</p>\n<p>The post <a href=\"https://www.securityweek.com/webinar-today-roi-for-cyber-physical-security-programs/\">Webinar Today: ROI for Cyber-Physical Security Programs</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "6e40e93341cff18ef712f83fb86c9b29c3640a60",
+      "title": "Government to Scrutinize Instructure Over Canvas Disruption, Data Breach",
+      "url": "https://www.securityweek.com/government-to-scrutinize-instructure-on-canvas-disruption-data-breach/",
+      "published": "2026-05-13T12:13:14+00:00",
+      "summary": "<p>The Committee on Homeland Security has requested to be briefed on the incident and Instructure\u2019s remediation steps.</p>\n<p>The post <a href=\"https://www.securityweek.com/government-to-scrutinize-instructure-on-canvas-disruption-data-breach/\">Government to Scrutinize Instructure Over Canvas Disruption, Data Breach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "84a1848ec39e1d94a70d9017d33688e24701e883",
+      "title": "716,000 Impacted by OpenLoop Health Data Breach",
+      "url": "https://www.securityweek.com/716000-impacted-by-openloop-health-data-breach/",
+      "published": "2026-05-13T11:18:03+00:00",
+      "summary": "<p>The telehealth platform was hacked in January, and users\u2019 personal information was exfiltrated from its systems.</p>\n<p>The post <a href=\"https://www.securityweek.com/716000-impacted-by-openloop-health-data-breach/\">716,000 Impacted by OpenLoop Health Data Breach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "834a6d73875ff715a22d24ee59a0027981103c56",
+      "title": "Microsoft Patches Critical Zero-Click Outlook Vulnerability Threatening Enterprises",
+      "url": "https://www.securityweek.com/microsoft-patches-critical-zero-click-outlook-vulnerability-threatening-enterprises/",
+      "published": "2026-05-13T10:33:46+00:00",
+      "summary": "<p>CVE-2026-40361 is similar to a vulnerability found a decade ago, BadWinmail, which at the time was dubbed an \u201centerprise killer\u201d.</p>\n<p>The post <a href=\"https://www.securityweek.com/microsoft-patches-critical-zero-click-outlook-vulnerability-threatening-enterprises/\">Microsoft Patches Critical Zero-Click Outlook Vulnerability Threatening Enterprises</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "0814638b07c1a138b4a304eae6ac4ae06f77394d",
+      "title": "Fortinet, Ivanti Patch Critical Vulnerabilities",
+      "url": "https://www.securityweek.com/fortinet-ivanti-patch-critical-vulnerabilities/",
+      "published": "2026-05-13T09:36:55+00:00",
+      "summary": "<p>Successful exploitation of these flaws could lead to arbitrary code execution and information disclosure.</p>\n<p>The post <a href=\"https://www.securityweek.com/fortinet-ivanti-patch-critical-vulnerabilities/\">Fortinet, Ivanti Patch Critical Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "23da6140dc0b2dbb1fddacb614b2d0ce4a122383",
+      "title": "Chipmaker Patch Tuesday: Intel and AMD Patch 70 Vulnerabilities",
+      "url": "https://www.securityweek.com/chipmaker-patch-tuesday-intel-and-amd-patch-70-vulnerabilities/",
+      "published": "2026-05-13T08:37:34+00:00",
+      "summary": "<p>The two chip giants have published over two dozen advisories describing recently identified security defects.</p>\n<p>The post <a href=\"https://www.securityweek.com/chipmaker-patch-tuesday-intel-and-amd-patch-70-vulnerabilities/\">Chipmaker Patch Tuesday: Intel and AMD Patch 70 Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "fa8e6b74ba85185503f116943718258785c6d85a",
+      "title": "Hundreds of Malicious Packages Force RubyGems to Suspend Registrations",
+      "url": "https://www.securityweek.com/hundreds-of-malicious-packages-force-rubygems-to-suspend-registrations/",
+      "published": "2026-05-13T07:30:36+00:00",
+      "summary": "<p>More than 500 packages were pushed during the attack, but the target appears to have been RubyGems itself rather than users.</p>\n<p>The post <a href=\"https://www.securityweek.com/hundreds-of-malicious-packages-force-rubygems-to-suspend-registrations/\">Hundreds of Malicious Packages Force RubyGems to Suspend Registrations</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "dfad9f666c6a681f77dabe48fbb3347857b4cdb1",
+      "title": "ICS Patch Tuesday: New Security Advisories From Siemens, Schneider, CISA",
+      "url": "https://www.securityweek.com/ics-patch-tuesday-new-security-advisories-from-siemens-schneider-cisa/",
+      "published": "2026-05-13T06:50:51+00:00",
+      "summary": "<p>Many ICS vendors have not released new advisories for the May 2026 Patch Tuesday.</p>\n<p>The post <a href=\"https://www.securityweek.com/ics-patch-tuesday-new-security-advisories-from-siemens-schneider-cisa/\">ICS Patch Tuesday: New Security Advisories From Siemens, Schneider, CISA</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "8125c2181107bc43ecdd8bcdd43e142a9ad7e925",
       "title": "Microsoft Patches 137 Vulnerabilities",
       "url": "https://www.securityweek.com/microsoft-patches-137-vulnerabilities/",
@@ -1833,94 +1921,6 @@
       "url": "https://www.securityweek.com/exaforce-raises-125-million-for-agentic-soc-platform/",
       "published": "2026-05-12T17:23:00+00:00",
       "summary": "<p>Exaforce has raised a total of $200 million and plans on using the latest investment for product development and international expansion.\u00a0</p>\n<p>The post <a href=\"https://www.securityweek.com/exaforce-raises-125-million-for-agentic-soc-platform/\">Exaforce Raises $125 Million for Agentic SOC Platform</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "59d48384d6d6e429d4a23c95689847d3c1aa888a",
-      "title": "Adobe Patches 52 Vulnerabilities in 10 Products",
-      "url": "https://www.securityweek.com/adobe-patches-52-vulnerabilities-in-10-products/",
-      "published": "2026-05-12T16:47:21+00:00",
-      "summary": "<p>While none of the flaws have been exploited in the wild, many of them could lead to arbitrary code execution.</p>\n<p>The post <a href=\"https://www.securityweek.com/adobe-patches-52-vulnerabilities-in-10-products/\">Adobe Patches 52 Vulnerabilities in 10 Products</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "1bb100d40238997c01e6ecfed0f81a707fe25760",
-      "title": "White Circle Raises $11 Million for AI Control Platform",
-      "url": "https://www.securityweek.com/white-circle-raises-11-million-for-ai-control-platform/",
-      "published": "2026-05-12T15:40:21+00:00",
-      "summary": "<p>The startup will invest in accelerating product development, hiring new talent, and expanding its customer base.</p>\n<p>The post <a href=\"https://www.securityweek.com/white-circle-raises-11-million-for-ai-control-platform/\">White Circle Raises $11 Million for AI Control Platform</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "f8b7f79eb12babf8d95100bf1fb6f619cf63706a",
-      "title": "BWH Hotels Says Hackers Had Access to Reservation Data for 6 Months",
-      "url": "https://www.securityweek.com/bwh-hotels-says-hackers-had-access-to-reservation-data-for-6-months/",
-      "published": "2026-05-12T14:30:00+00:00",
-      "summary": "<p>Threat actors obtained names and contact information for an unspecified number of BWH Hotels guests. </p>\n<p>The post <a href=\"https://www.securityweek.com/bwh-hotels-says-hackers-had-access-to-reservation-data-for-6-months/\">BWH Hotels Says Hackers Had Access to Reservation Data for 6 Months</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "3ca59dfb3b522e1d29685ee256e37403888b3960",
-      "title": "Free OnlyFans Lure Used to Spread Cross-Platform CRPx0 Malware",
-      "url": "https://www.securityweek.com/free-onlyfans-lure-used-to-spread-cross-platform-crpx0-malware/",
-      "published": "2026-05-12T13:46:49+00:00",
-      "summary": "<p>CRPx0 is a complex, stealthy malware campaign that targets macOS and Windows systems, and appears to have Linux capabilities in development.</p>\n<p>The post <a href=\"https://www.securityweek.com/free-onlyfans-lure-used-to-spread-cross-platform-crpx0-malware/\">Free OnlyFans Lure Used to Spread Cross-Platform CRPx0 Malware</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "abd6c89775568872c1c56bec8b1b878e4b548f09",
-      "title": "Deal Reached With Hackers to Delete Data Stolen From the Canvas Educational Platform",
-      "url": "https://www.securityweek.com/deal-reached-with-hackers-to-delete-data-stolen-from-the-canvas-educational-platform/",
-      "published": "2026-05-12T13:26:46+00:00",
-      "summary": "<p>The company that operates online learning system Canvas said it struck a deal with hackers to delete the data they pilfered in a cyberattack that created chaos for students, many of them in the middle of finals.</p>\n<p>The post <a href=\"https://www.securityweek.com/deal-reached-with-hackers-to-delete-data-stolen-from-the-canvas-educational-platform/\">Deal Reached With Hackers to Delete Data Stolen From the Canvas Educational Platform</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "16443b946032703dddf9177aa4c703b4b147043f",
-      "title": "West Pharmaceutical Services Hit by Disruptive Ransomware Attack",
-      "url": "https://www.securityweek.com/west-pharmaceutical-services-hit-by-disruptive-ransomware-attack/",
-      "published": "2026-05-12T12:59:49+00:00",
-      "summary": "<p>The company took systems offline globally after hackers exfiltrated data and deployed file-encrypting ransomware.</p>\n<p>The post <a href=\"https://www.securityweek.com/west-pharmaceutical-services-hit-by-disruptive-ransomware-attack/\">West Pharmaceutical Services Hit by Disruptive Ransomware Attack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "2ba5f527d4858a180df8bfb4de521ef9e0250719",
-      "title": "Apple Patches Dozens of Vulnerabilities in macOS, iOS",
-      "url": "https://www.securityweek.com/apple-patches-dozens-of-vulnerabilities-in-macos-ios/",
-      "published": "2026-05-12T12:37:21+00:00",
-      "summary": "<p>The tech giant has also ported the patch for a recent deleted chats recovery issue to older versions of iOS.</p>\n<p>The post <a href=\"https://www.securityweek.com/apple-patches-dozens-of-vulnerabilities-in-macos-ios/\">Apple Patches Dozens of Vulnerabilities in macOS, iOS</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "26fb5c6b2a33f04d4aef34572e09d9d277ac90a5",
-      "title": "SAP Patches Critical S/4HANA, Commerce Vulnerabilities",
-      "url": "https://www.securityweek.com/sap-patches-critical-s-4hana-commerce-vulnerabilities/",
-      "published": "2026-05-12T12:13:41+00:00",
-      "summary": "<p>The flaws could allow attackers to inject malicious code, leading to information disclosure and code execution.</p>\n<p>The post <a href=\"https://www.securityweek.com/sap-patches-critical-s-4hana-commerce-vulnerabilities/\">SAP Patches Critical S/4HANA, Commerce Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
