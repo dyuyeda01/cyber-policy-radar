@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-15T01:49:19.685430+00:00",
+  "generated_at": "2026-05-15T13:21:02.069421+00:00",
   "items": [
     {
       "id": "f4e735d5e0df98169b2e8f115da8419477f35fd3",
@@ -112,6 +112,50 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "9e4e6c1629b12fb3601ce1514641df3153a36777",
+      "title": "What 45 Days of Watching Your Own Tools Will Tell You About Your Real Attack Surface",
+      "url": "https://thehackernews.com/2026/05/what-45-days-of-watching-your-own-tools.html",
+      "published": "2026-05-15T11:00:00+00:00",
+      "summary": "In Your Biggest Security Risk Isn't Malware \u2014 It's What You Already Trust, we made a simple argument: the most dangerous activity inside most organizations no longer looks like an attack. It looks like administration. PowerShell, WMIC, netsh, Certutil, MSBuild \u2014 the same trusted utilities your IT team uses every day are also the preferred toolkit of modern threat actors. Bitdefender's analysis",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVcSUDrpIZyFrHqIlIGnXfIShsEamRNviaM6TguPwmQI9KkhrIXOQbQ0WVKiOkcBGkFqKTKZmK16zPChmlcCbZHIkX3K_C0sjnyXYJjpZuJXO3OiIhUe7Ez8jCNiTxh0FGYS2-RR6HKsl9pWJVgc_uXAtHXj0hgU-mLSsOh-QHft6A92KtgWPQhk1OVPA/s1600/Attack-Surface.jpg"
+    },
+    {
+      "id": "a90e59666c1ba544143b327d717ee576f89e8953",
+      "title": "TanStack Supply Chain Attack Hits Two OpenAI Employee Devices, Forces macOS Updates",
+      "url": "https://thehackernews.com/2026/05/tanstack-supply-chain-attack-hits-two.html",
+      "published": "2026-05-15T10:54:44+00:00",
+      "summary": "OpenAI has disclosed that two of its employee devices in its corporate environment were impacted via the Mini Shai-Hulud supply chain attack on TanStack, but noted that no user data, production systems, or intellectual property were compromised or modified in an unauthorized manner.\n\"Upon identification of the malicious activity, we worked quickly to investigate, contain, and take steps to",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1l4Vq20M4553fkDfGbO9VqLV9Au-6EefivLp8HT2W5QxJvgWf1mr6pg5xsbC5j3FCJzOOCJv_CImY1LjjFYIN_25ajki1iS_EVPvTyeVY7bC3ogcQFzHmE1Xyaz3cRXneilC0rWcb8dLbUapLI_jZ-uBaUkku48absoxM6TG16jS3xxtw9lhhtCvJmemK/s1600/chatgpt.jpg"
+    },
+    {
+      "id": "68c55730dc4b17b48c382fb5865cec429be0ce9b",
+      "title": "On-Prem Microsoft Exchange Server CVE-2026-42897 Exploited via Crafted Email",
+      "url": "https://thehackernews.com/2026/05/on-prem-microsoft-exchange-server-cve.html",
+      "published": "2026-05-15T06:19:04+00:00",
+      "summary": "Microsoft has disclosed a new security vulnerability impacting on-premise versions of Exchange Server that it said has come under active exploitation in the wild.\nThe vulnerability, tracked as CVE-2026-42897 (CVSS score: 8.1), has been described as a spoofing bug stemming from a cross-site scripting flaw. An anonymous researcher has been credited with discovering and reporting the issue.\n\"",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirN79ZRjEd5wnVbOTlJJsWjQ54cwSj2bM5NDzBSgAFO8f_9LrlIwQRI0ZogQX42iejmhgc1n2YcA91pFrVqtqNKKyAIXblcQ1Yx9LTs1TeNDbNN6JMUBXCKDK1W0IwnwvYl1dhQmcyTPHwakckKT_Kc9fAUDAJRj94g2pENrjy4UyTCCniOXI2rO-q66PC/s1600/Microsoft-Exchange.png"
+    },
+    {
+      "id": "3ee69a3715c0819640a3895edc552c40a16b16dc",
+      "title": "CISA Adds Cisco SD-WAN CVE-2026-20182 to KEV After Admin Access Exploits",
+      "url": "https://thehackernews.com/2026/05/cisa-adds-cisco-sd-wan-cve-2026-20182.html",
+      "published": "2026-05-15T05:28:03+00:00",
+      "summary": "The U.S.Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a newly disclosed vulnerability impacting Cisco Catalyst SD-WAN Controller to its Known Exploited Vulnerabilities (KEV) catalog, requiring Federal Civilian Executive Branch (FCEB) agencies to remediate the issue by May 17, 2026.\nThe vulnerability is a critical authentication bypass tracked as CVE-2026-20182. It's",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4XG5z00sF3uL0ZbhtZNiergQ9QVaZJydwP1pXEdPh2o29mwvTS2nPKRbxHftwnEJ1pvxMQS9TQknWqbovk-vW7BRPHUSsBhN4yL2iOwJnlmK7lzCdW9tJbKtKLbnfSZSWgfGlWQ6HO807gjR6dP61VylH1zxWtvfo3c7ui8aBecSjVz5miCG0jHoa8rUA/s1600/cisa-exploit.png"
+    },
+    {
       "id": "8fb0046839bf43c4c60ffa58c951693de9032ec0",
       "title": "Cisco Catalyst SD-WAN Controller Auth Bypass Actively Exploited to Gain Admin Access",
       "url": "https://thehackernews.com/2026/05/cisco-catalyst-sd-wan-controller-auth.html",
@@ -160,7 +204,7 @@
       "title": "PraisonAI CVE-2026-44338 Auth Bypass Targeted Within Hours of Disclosure",
       "url": "https://thehackernews.com/2026/05/praisonai-cve-2026-44338-auth-bypass.html",
       "published": "2026-05-14T11:40:14+00:00",
-      "summary": "Threat actors have been observed attempting to exploit a recently disclosed security vulnerability in PraisonAI, an open-source multi-agent orchestration framework, within four hours of public disclosure.\nThe vulnerability in question is CVE-2026-44338 (CVSS score: 7.3), a case of missing authentication that exposes sensitive endpoints to anyone, potentially allowing an attacker to invoke the",
+      "summary": "Threat actors have been observed attempting to exploit a recently disclosed security vulnerability in PraisonAI, an open-source multi-agent orchestration framework, within four hours of its public disclosure.\nThe vulnerability in question is CVE-2026-44338 (CVSS score: 7.3), a case of missing authentication that exposes sensitive endpoints to anyone, potentially allowing an attacker to invoke",
       "source": "The Hacker News",
       "region": "North America",
       "country": "US",
@@ -618,48 +662,15 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGun7lMQJXWH3IQiR3ml3RMzAbb1QJcWEtgqDrKTjPbvBhTsDPaCWmI1vTAnevTVPx0lg4xvPkOcpx_86_Znxdgpj-hynQXGEHqf94dvYwOy5VqqnqBWEWrJ3MEkQcLVBVt00Y8pUqVWj4W-hYYepmDmtX9PRQh87qZC7XbJCwdEaLsBY-vTsbkS0yqikd/s1600/pypi.jpg"
     },
     {
-      "id": "24225351069b87eaa206a91403c5bd3c007d31bc",
-      "title": "vm2 Node.js Library Vulnerabilities Enable Sandbox Escape and Arbitrary Code Execution",
-      "url": "https://thehackernews.com/2026/05/vm2-nodejs-library-vulnerabilities.html",
-      "published": "2026-05-07T04:15:00+00:00",
-      "summary": "A dozen critical security vulnerabilities have been disclosed in the vm2 Node.js library that could be exploited by bad actors to break out of the sandbox and execute arbitrary code on susceptible systems.\nvm2 is an open-source library used to run untrusted JavaScript code inside a secure sandbox by intercepting and proxying JavaScript objects to prevent sandboxed code from accessing the host",
-      "source": "The Hacker News",
+      "id": "c08225d56c43e5f28b2a3ae5394dc6306a65f6ae",
+      "title": "Cyber Pioneers Ponder Past as Prologue",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/cybersecurity-pioneers-ponder-past-prologue",
+      "published": "2026-05-15T12:00:00+00:00",
+      "summary": "Robert &quot;RSnake&quot; Hansen, Katie Moussouris, Rich Mogull, Richard Stiennon, and Bruce Schneier reflect on how their favorite columns penned for Dark Reading over the past 20 years have stood the test of time.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGJE3Tcr425AIfztOUrdhPUiEkVY8bMrHMmO-5FZ2N3cLaW9ErdLJJS3KwjzYNvLAIcVT7xpSw8wswiDIPenyZa_ki3ZrOHJFY-cXKHPu0EGnfCGXxkEAlvE6tLogT8T_lRolQ-qI-GFqlgwqpbLD1HfmDo4HkJbV9XNDh9rcGbM3Nc8ruu5I_47DBmzsy/s1600/vm2.jpg"
-    },
-    {
-      "id": "d6116da89ae7e4cf7b87d121c4ad5dbc067ddca5",
-      "title": "Mirai-Based xlabs_v1 Botnet Exploits ADB to Hijack IoT Devices for DDoS Attacks",
-      "url": "https://thehackernews.com/2026/05/mirai-based-xlabsv1-botnet-exploits-adb.html",
-      "published": "2026-05-06T20:21:00+00:00",
-      "summary": "Cybersecurity researchers have exposed a new Mirai-derived botnet that self-identifies as xlabs_v1 and targets internet-exposed devices running Android Debug Bridge (ADB) to enlist them in a network capable of carrying out distributed denial-of-service (DDoS) attacks.\nHunt.io, which detailed the malware, said it made the discovery after identifying an exposed directory on a Netherlands-hosted",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHPb4dDONnDMbu5rdNKex39FCs_4elspTEwE3dJbDsEBn1OdHrNS_0oI2V2mKCG4PjUGsBy5T4ZCec8kSdK2hTXkaq3fIIDX5XLBKfU9X4dNamC0zGfgcZ5dxPy1PNGKtAIye5IpODYmyzgMYBSRfyUcAnLhOBsHSitLujoCQABiz9b2KfYnzUhPN8rqPK/s1600/botnet-malware.jpg"
-    },
-    {
-      "id": "e322187aad2c0442b8af7bd373a09e88438ac127",
-      "title": "MuddyWater Uses Microsoft Teams to Steal Credentials in False Flag Ransomware Attack",
-      "url": "https://thehackernews.com/2026/05/muddywater-uses-microsoft-teams-to.html",
-      "published": "2026-05-06T13:00:00+00:00",
-      "summary": "The Iranian state-sponsored hacking group known as MuddyWater (aka Mango Sandstorm, Seedworm, and Static Kitten) has been attributed to a ransomware attack in what has been described as a \"false flag\" operation.\nThe attack, observed by Rapid7 in early 2026, has been found to leverage social engineering techniques via Microsoft Teams to initiate the infection sequence. Although the incident",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjE6bniWklmqJDwZMxQ07Yrb1XNwfkmJE8SGUazlNaXgn1tcbJkvCSjtbo31oAqPZwb9U9KQ-uDMPmQbxwzthxG9J2j65qOUZAph7AAMJOeXYKbcU8jYwIIyjc_i7YnSrOKQ3jPtHAuCs_vdlyWe6O3ViLRYgza2usaIoYA2GgWxKpGGl6u05IZG_QZmP_/s1600/teams-hacker.jpg"
-    },
-    {
-      "id": "27d7c5c74a44d93b4245071194623d48a9fbdcbf",
-      "title": "The Hacker News Launches 'Cybersecurity Stars Awards 2026' \u2014 Submissions Now Open",
-      "url": "https://thehackernews.com/2026/05/the-hacker-news-launches-cybersecurity.html",
-      "published": "2026-05-06T12:03:00+00:00",
-      "summary": "For nearly 20 years, we at The Hacker News have mostly told scary stories about cyberspace \u2014 big hacks, broken systems, and new threats.\nBut behind every headline, there\u2019s a quieter, better story.\nIt\u2019s the story of leaders making tough calls under pressure, teams building smarter defenses, and security products that keep hunting threats 24/7 \u2014 even when it\u2019s hard.\nMost of the time, this work is",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1Yg33sY2y1VE4mkNb135928ke63sPOMciQgxVLYK0vXlJfSbZPCF0Q2b6URj-uZG0YOarE7-_WKyEc2OTstYRdmcdOagHSWstqHftoc-rv7vWrKepoENsBmKnR7P9jqH6MK9z-oa3RpOks3HGTqafjHUrPp2t-Xny6btfsAMIBcPWPBXq0hZv2-7XrkE/s1600/the-hacker-news-cybersecurity-stars-awards-2026.jpg.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6c991c2f510526e0/6a060dc5384002716e815d4f/typewriter_and_mobile_phone_mauritius_images_GmbH_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "id": "ca4a50fb60090f98c2148cb152d3a451daf36566",
@@ -1201,15 +1212,26 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt12893d714d366c26/69f2527b65fda7fdccea718b/ORBR_photos_01.JPG?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "198d306ad1ac0c42d8dd92eeaef4b6f2ca1b6900",
-      "title": "Claude Mythos Fears Startle Japan's Financial Services Sector",
-      "url": "https://www.darkreading.com/cyber-risk/claude-mythos-startle-japans-financial-sector",
-      "published": "2026-04-30T00:00:00+00:00",
-      "summary": "Global financial institutions are panicked over Anthropic's new superhacker AI model. Cyber experts aren't quite as worried.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt12df424bcfca2d2e/69f25c31d96b17efbb20a411/Claude_Mythos-GK_Images-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "id": "3c39463a5d27e7a109092949fb3923e9d962bc9a",
+      "title": "OpenAI caught in TanStack npm supply chain chaos after employee devices compromised",
+      "url": "https://www.theregister.com/security/2026/05/15/openai-caught-in-tanstack-npm-supply-chain-chaos-after-employee-devices-compromised/5241019",
+      "published": "2026-05-15T10:08:07+00:00",
+      "summary": "Attackers stole a limited amount of internal credential material after malware hidden in poisoned packages reached two staff machines",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=5241038&width=800"
+    },
+    {
+      "id": "b80c7dfac2fa6f0344db5319c6e6d191e43cd294",
+      "title": "MPs want social media treated more like unsafe toys than harmless apps",
+      "url": "https://www.theregister.com/security/2026/05/15/mps-want-social-media-treated-more-like-unsafe-toys-than-harmless-apps/5240578",
+      "published": "2026-05-15T08:33:00+00:00",
+      "summary": "Parliamentary committee tells ministers online safety regime is failing children and warns 'no action is not an option'",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=5240624&width=800"
     },
     {
       "id": "dfcdcde14b28304a0417bad3ab2d008e7b885e56",
@@ -1466,10 +1488,10 @@
     },
     {
       "id": "31a3470bdc9ff150c31f2cd6d218002405641d46",
-      "title": "Taiwan's train cyber-trauma reveals a global system that\u2019s coming off the tracks",
+      "title": "Taiwan's train cyber-trauma reveals a global system that's coming off the tracks",
       "url": "https://www.theregister.com/security/2026/05/11/taiwans-train-cyber-trauma-reveals-a-global-system-thats-coming-off-the-tracks/5237248",
       "published": "2026-05-11T08:30:00+00:00",
-      "summary": "That\u2019s not a radio. THIS is a radio",
+      "summary": "That's not a radio. THIS is a radio",
       "source": "The Register \u2013 Security",
       "region": "Europe",
       "country": "UK",
@@ -1740,28 +1762,6 @@
       "image": "https://image.theregister.com/?imageId=227324&width=800"
     },
     {
-      "id": "581cddd7e2e515baf3f6588b74979e79ccbe7822",
-      "title": "First reports come in of victims of critical cPanel vuln as 'millions' of sites potentially exposed",
-      "url": "https://www.theregister.com/security/2026/05/01/critical-cpanel-exploited-millions-of-sites-could-be-hit/5225588",
-      "published": "2026-05-01T13:10:15+00:00",
-      "summary": "Exploitation was underway before patches landed, at least one victim reports ransomware demand",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=254673&width=800"
-    },
-    {
-      "id": "8a73161f582e01e88a9cd4a4ee44855eb1e1997f",
-      "title": "OpenAI locks GPT-5.5-Cyber behind velvet rope despite slamming Anthropic for doing exactly that",
-      "url": "https://www.theregister.com/security/2026/05/01/openai-locks-gpt-55-cyber-behind-velvet-rope/5219691",
-      "published": "2026-05-01T11:42:01+00:00",
-      "summary": "Altman's crew now doing the same gatekeeping it recently mocked",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=5220120&width=800"
-    },
-    {
       "id": "1272da189124f766c0a7e7669dee01d4e630100e",
       "title": "Patch Tuesday, May 2026 Edition",
       "url": "https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/",
@@ -1806,6 +1806,72 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "d57a5521db182b582bd20984c5713c9d5b2c59d4",
+      "title": "Microsoft Warns of Exchange Server Zero-Day Exploited in the Wild",
+      "url": "https://www.securityweek.com/microsoft-warns-of-exchange-server-zero-day-exploited-in-the-wild/",
+      "published": "2026-05-15T12:06:53+00:00",
+      "summary": "<p>Microsoft has shared mitigations for CVE-2026-42897 until a permanent patch can be released for affected Exchange Server versions.</p>\n<p>The post <a href=\"https://www.securityweek.com/microsoft-warns-of-exchange-server-zero-day-exploited-in-the-wild/\">Microsoft Warns of Exchange Server Zero-Day Exploited in the Wild</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "764ba45e4e9fa6c788c7011f51f9175378011f57",
+      "title": "American Lending Center Data Breach Affects 123,000 Individuals",
+      "url": "https://www.securityweek.com/american-lending-center-data-breach-affects-123000-individuals/",
+      "published": "2026-05-15T11:06:55+00:00",
+      "summary": "<p>The non-bank lender discovered a ransomware attack nearly one year ago, but only recently completed its investigation.</p>\n<p>The post <a href=\"https://www.securityweek.com/american-lending-center-data-breach-affects-123000-individuals/\">American Lending Center Data Breach Affects 123,000 Individuals</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "3370e7d2b339fab296a20cbf572a8cb1cf3b842d",
+      "title": "OpenAI Hit by TanStack Supply Chain Attack",
+      "url": "https://www.securityweek.com/openai-hit-by-tanstack-supply-chain-attack/",
+      "published": "2026-05-15T10:37:00+00:00",
+      "summary": "<p>Two employee devices were compromised in the attack, and credential material was stolen from OpenAI code repositories.</p>\n<p>The post <a href=\"https://www.securityweek.com/openai-hit-by-tanstack-supply-chain-attack/\">OpenAI Hit by TanStack Supply Chain Attack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "1bf7561f4d6d780ce3fbbfcd896c20aebc7d245d",
+      "title": "TeamPCP Ups the Game, Releases Shai-Hulud Worm\u2019s Source Code",
+      "url": "https://www.securityweek.com/teampcp-ups-the-game-releases-shai-hulud-worms-source-code/",
+      "published": "2026-05-15T09:47:09+00:00",
+      "summary": "<p>The hacking group is encouraging miscreants to use the code in supply chain attacks, promising monetary rewards.</p>\n<p>The post <a href=\"https://www.securityweek.com/teampcp-ups-the-game-releases-shai-hulud-worms-source-code/\">TeamPCP Ups the Game, Releases Shai-Hulud Worm\u2019s Source Code</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "4add0268d143d01098ca15335aabacb173523549",
+      "title": "Chrome 148 Update Patches Critical Vulnerabilities",
+      "url": "https://www.securityweek.com/chrome-148-update-patches-critical-vulnerabilities/",
+      "published": "2026-05-15T07:25:15+00:00",
+      "summary": "<p>The refresh resolves critical-severity use-after-free and other types of bugs in various browser components.</p>\n<p>The post <a href=\"https://www.securityweek.com/chrome-148-update-patches-critical-vulnerabilities/\">Chrome 148 Update Patches Critical Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "6cd627300e6fa112946e2e418fb73d2f39366b66",
+      "title": "Cisco Patches Another SD-WAN Zero-Day, the Sixth Exploited in 2026",
+      "url": "https://www.securityweek.com/cisco-patches-another-sd-wan-zero-day-the-sixth-exploited-in-2026/",
+      "published": "2026-05-15T06:28:46+00:00",
+      "summary": "<p>The zero-day, tracked as CVE-2026-20182, has been exploited in targeted attacks by a sophisticated threat actor identified as UAT-8616.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisco-patches-another-sd-wan-zero-day-the-sixth-exploited-in-2026/\">Cisco Patches Another SD-WAN Zero-Day, the Sixth Exploited in 2026</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "ce4659de73ec8ece908b391cbddf6e0cd31baa66",
       "title": "Enhancing Data Center Security Without Sacrificing Performance",
       "url": "https://www.securityweek.com/enhancing-data-center-security-without-sacrificing-performance/",
@@ -1844,72 +1910,6 @@
       "url": "https://www.securityweek.com/akamai-to-acquire-ai-and-browser-security-firm-layerx-for-205-million/",
       "published": "2026-05-14T12:55:38+00:00",
       "summary": "<p>The acquisition enables Akamai to expand its Zero Trust portfolio to add protection directly into the browser.</p>\n<p>The post <a href=\"https://www.securityweek.com/akamai-to-acquire-ai-and-browser-security-firm-layerx-for-205-million/\">Akamai to Acquire AI and Browser Security Firm LayerX for $205 Million</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "65f4e6a4eabb4e34f87db7742ff8353b4e09210a",
-      "title": "Chinese APTs Expand Targets, Update Backdoors in Recent Campaigns",
-      "url": "https://www.securityweek.com/chinese-apts-expand-targets-update-backdoors-in-recent-campaigns/",
-      "published": "2026-05-14T12:11:15+00:00",
-      "summary": "<p>Salt Typhoon has hit an energy entity in Azerbaijan. Twill Typhoon has targeted Asian entities with an updated RAT.</p>\n<p>The post <a href=\"https://www.securityweek.com/chinese-apts-expand-targets-update-backdoors-in-recent-campaigns/\">Chinese APTs Expand Targets, Update Backdoors in Recent Campaigns</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "271205669bae12f10e8af6efebd74a3068ab4de9",
-      "title": "G7 Countries Release AI SBOM Guidance",
-      "url": "https://www.securityweek.com/g7-countries-release-ai-sbom-guidance/",
-      "published": "2026-05-14T11:15:05+00:00",
-      "summary": "<p>The goal of the guidance, which outlines minimum elements, is to help organizations enhance transparency in AI systems and supply chains.\u00a0</p>\n<p>The post <a href=\"https://www.securityweek.com/g7-countries-release-ai-sbom-guidance/\">G7 Countries Release AI SBOM Guidance</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "3c4e22a275216f471b532b71bd4327152ebf195a",
-      "title": "F5 Patches Over 50 Vulnerabilities",
-      "url": "https://www.securityweek.com/f5-patches-over-50-vulnerabilities/",
-      "published": "2026-05-14T10:47:58+00:00",
-      "summary": "<p>The company\u2019s latest quarterly advisory describes high and medium-severity issues in BIG-IP, BIG-IQ, and NGINX.</p>\n<p>The post <a href=\"https://www.securityweek.com/f5-patches-over-50-vulnerabilities/\">F5 Patches Over 50 Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "15fe86cb9a677328146c08fda56d50e13bf96f4c",
-      "title": "Hackers Targeted PraisonAI Vulnerability Hours After Disclosure",
-      "url": "https://www.securityweek.com/hackers-targeted-praisonai-vulnerability-hours-after-disclosure/",
-      "published": "2026-05-14T09:45:53+00:00",
-      "summary": "<p>The first exploitation attempts were observed less than four hours after the authentication bypass was publicly disclosed.</p>\n<p>The post <a href=\"https://www.securityweek.com/hackers-targeted-praisonai-vulnerability-hours-after-disclosure/\">Hackers Targeted PraisonAI Vulnerability Hours After Disclosure</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "59dcfdea9826269b856162b0a471a6faa7139609",
-      "title": "High-Severity Vulnerability Patched in VMware Fusion",
-      "url": "https://www.securityweek.com/high-severity-vulnerability-patched-in-vmware-fusion/",
-      "published": "2026-05-14T08:42:25+00:00",
-      "summary": "<p>The patch was announced as Broadcom is attending the Pwn2Own hacking competition in Berlin this week.</p>\n<p>The post <a href=\"https://www.securityweek.com/high-severity-vulnerability-patched-in-vmware-fusion/\">High-Severity Vulnerability Patched in VMware Fusion</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "865e1a9fe74c878278d8ded7a226c5ae422523f4",
-      "title": "Researcher Drops YellowKey, GreenPlasma Windows Zero-Days",
-      "url": "https://www.securityweek.com/researcher-drops-yellowkey-greenplasma-windows-zero-days/",
-      "published": "2026-05-14T07:27:42+00:00",
-      "summary": "<p>YellowKey is a BitLocker bypass that requires physical access. GreenPlasma enables elevation of privileges to System.</p>\n<p>The post <a href=\"https://www.securityweek.com/researcher-drops-yellowkey-greenplasma-windows-zero-days/\">Researcher Drops YellowKey, GreenPlasma Windows Zero-Days</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
