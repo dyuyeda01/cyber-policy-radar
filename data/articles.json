@@ -1,6 +1,28 @@
 {
-  "generated_at": "2026-05-15T13:21:02.069421+00:00",
+  "generated_at": "2026-05-16T01:29:31.759659+00:00",
   "items": [
+    {
+      "id": "83b38f5aa6425c50baf4fb8004e727a35ff6f254",
+      "title": "Attackers exploit critical flaw in Cisco Catalyst SD-WAN Controller",
+      "url": "https://www.cybersecuritydive.com/news/attackers-exploit-critical-flaw-in-cisco-catalyst-sd-wan-controller/820368/",
+      "published": "2026-05-15T15:20:47+00:00",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/D34TL7akgMEO3uCiMGwaOI3_LkvV5CNK34vc6Ug_0mM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjQ1MDY3MTE3LmpwZw==.webp\" /></div></figure><p>Researchers discovered the authentication bypass vulnerability while investigating a prior issue in the same service.</p>",
+      "source": "Cybersecurity Dive",
+      "region": "North America",
+      "country": "US",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "2bb6fa690db06acb9b1bc9b958f356320b32e647",
+      "title": "MSPs need AI to fight AI-fueled cyberthreats: Guardz",
+      "url": "https://www.cybersecuritydive.com/news/msps-need-ai-to-fight-ai-fueled-cyberthreats-guardz/820371/",
+      "published": "2026-05-15T15:00:00+00:00",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/fm2hDKQDRKiYWzxT2JhGqymQobKtRkuaMXOor3KWxMs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjczMjU0MzgwLmpwZw==.webp\" /></div></figure><p>Entry points haven&rsquo;t changed, but the speed and scale of attacks have intensified, the security vendor found.</p>",
+      "source": "Cybersecurity Dive",
+      "region": "North America",
+      "country": "US",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
     {
       "id": "f4e735d5e0df98169b2e8f115da8419477f35fd3",
       "title": "More money is going to physical security, but it\u2019s often CISOs that oversee it: EY",
@@ -90,26 +112,26 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "1113caa283ae98b9f527f8f9d5975bb1a0a5e124",
-      "title": "AI and an absent government: Takeaways from RSAC 2026",
-      "url": "https://www.cybersecuritydive.com/news/ai-cybersecurity-government-partnerships-rsac-conference/817451/",
-      "published": "2026-05-12T12:00:00+00:00",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/apwALScEIhpKIzh5OhsAcoX3gpPBFvChy96m__twrZE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9yc2FjMjAyNmJhbm5lci5qcGc=.webp\" /></div></figure><p>Cybersecurity professionals discussed the balance between autonomy and oversight at the recent conference.</p>",
-      "source": "Cybersecurity Dive",
+      "id": "52d77ff8bfbfefcdfd74e66a1f3c9d93bdb4afc1",
+      "title": "Turla Turns Kazuar Backdoor Into Modular P2P Botnet for Persistent Access",
+      "url": "https://thehackernews.com/2026/05/turla-turns-kazuar-backdoor-into.html",
+      "published": "2026-05-15T17:10:25+00:00",
+      "summary": "The Russian state-sponsored hacking group known as\n  \n    Turla\n  \n  has transformed its custom backdoor Kazuar into a modular peer-to-peer (P2P) botnet that's engineered for stealth and persistent access to compromised hosts.\n\n\n\n  Turla, per the U.S. Cybersecurity and Infrastructure Security Agency (CISA), is assessed to be affiliated with Center 16 of Russia's Federal Security Service (FSB)",
+      "source": "The Hacker News",
       "region": "North America",
       "country": "US",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8BT1AOScncZQM_A-0WBdCzTDAHGHSey48_Mywhij-TJupCdzP3s3o-MIImRtMZcoV2OqX3RjRV4COpVqkB1mrH3d_zjwvSTwCEXOq_2m80HgDo-xwAZ1KpR1h8eN9dAHGcKN_PpcE0cBsnv67FcthDycHLBJMYs8NkPszWNiQqdbhyL0YIlwVJn4NtgaR/s1600/code.jpg"
     },
     {
-      "id": "1f23f7feef2e5b1853626086100be20866e89422",
-      "title": "Second Canvas data breach causes major disruptions for schools, colleges",
-      "url": "https://www.cybersecuritydive.com/news/a-2nd-canvas-data-breach-causes-major-disruptions-for-schools-colleges/819784/",
-      "published": "2026-05-11T15:00:00+00:00",
-      "summary": "<p>The Instructure-owned learning management system went offline on May 7 after a threat actor once again gained unauthorized access.</p>",
-      "source": "Cybersecurity Dive",
+      "id": "3d84935ad4c5753cca4a91d11f5b2a6e6ee2e364",
+      "title": "Four OpenClaw Flaws Enable Data Theft, Privilege Escalation, and Persistence",
+      "url": "https://thehackernews.com/2026/05/four-openclaw-flaws-enable-data-theft.html",
+      "published": "2026-05-15T13:35:04+00:00",
+      "summary": "Cybersecurity researchers have disclosed a set of four security flaws in OpenClaw that could be chained to achieve data theft, privilege escalation, and persistence.\n\n\n  The vulnerabilities, collectively dubbed\n  \n    Claw Chain\n  \n  by Cyera, can permit an attacker to establish a foothold, expose sensitive data, and plant backdoors. A brief description of the flaws is below -",
+      "source": "The Hacker News",
       "region": "North America",
       "country": "US",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgz_tK9S8jS_n5CK694-FLGjQP5_Mmpg7z9ZRiBayWsJLsuFRIm-8j1hTlhH90779FvnvhpiFKeGP9CzI5RCPsxQEnOzAIQsPzUsAJhUWtNm9iwf9C1W9DbDmqoQ_jjHhM7huYDV210OB9o1L9NPoJ0IL6R9Xc-V4JQ91Kn-b47_2ravRJ6-qlZOVrqsuAz/s1600/openclaw.png"
     },
     {
       "id": "9e4e6c1629b12fb3601ce1514641df3153a36777",
@@ -640,26 +662,15 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYNaH2vOiD-OgAVnO0nGCSr8j4nnvHD2n7RieJD2mDMlPev_fKoBafjhvob13LV4pOFhgMuZd6ex8zyQnCM1AyVfl6fuRG9Max2F76Ku9rWbieBvF0AtGlQd0nXlIwHDKvq5H4BJn3hGCRfE86fHs5SL05RywOADNDC9J5lG9DF8goavgxWzAh7a7isNMB/s1600/threatsday-1.jpg"
     },
     {
-      "id": "e5b45b0f00e7f09c79a9723cfef29867b5ce7eb1",
-      "title": "Day Zero Readiness: The Operational Gaps That Break Incident Response",
-      "url": "https://thehackernews.com/2026/05/day-zero-readiness-operational-gaps.html",
-      "published": "2026-05-07T10:54:00+00:00",
-      "summary": "Having an incident response retainer, or even a pre-approved external incident response firm, is not the same as being ready for an incident. A retainer means someone will answer the phone. Operational readiness determines whether that team can do meaningful work the moment they do.&nbsp;\nThat distinction matters far more than many organizations realize. In the first hours of a security incident",
-      "source": "The Hacker News",
+      "id": "2c832b44a52d8b9c5cc1a45f0fbdaab420f7d07a",
+      "title": "The Boring Stuff is Dangerous Now",
+      "url": "https://www.darkreading.com/cyber-risk/ai-code-and-agents-forces-defenders-adapt",
+      "published": "2026-05-18T13:00:00+00:00",
+      "summary": "AI agents capable of discovering and exploiting obscure vulnerabilities are emerging alongside developers producing vast amounts of potentially flawed AI-generated code, forcing defenders to adapt accordingly.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdEBtnOnAfYEV-De3NPPeeTCPWK_gSqYM7OZ0ioRJl84OvS49Fp-GJucJfc-ADDOhyTe11dUoYbkIlA1gYW5b8E6KxYIG71gNa0pU4tmqiEyfmxAEyI1A3n2ZOzfePdcm5WdqHVnFlrSwzgNlOmWKMUOHTqUjS_qUhHBEI9CpMJ_OZrUgn-yaHjTDaXJ0/s1600/main.jpg"
-    },
-    {
-      "id": "ea1a151cfcf0fd36080d52c9cb2249c3a1e9cddb",
-      "title": "PyPI Packages Deliver ZiChatBot Malware via Zulip APIs on Windows and Linux",
-      "url": "https://thehackernews.com/2026/05/pypi-packages-deliver-zichatbot-malware.html",
-      "published": "2026-05-07T09:20:00+00:00",
-      "summary": "Cybersecurity researchers have discovered three packages on the Python Package Index (PyPI) repository that are designed to stealthily deliver a previously unknown malware family called&nbsp;ZiChatBot on Windows and Linux systems.\n\"While these wheel packages do implement the features described on their PyPI web pages, their true purpose is to covertly deliver malicious files,\" Kaspersky&nbsp;",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGun7lMQJXWH3IQiR3ml3RMzAbb1QJcWEtgqDrKTjPbvBhTsDPaCWmI1vTAnevTVPx0lg4xvPkOcpx_86_Znxdgpj-hynQXGEHqf94dvYwOy5VqqnqBWEWrJ3MEkQcLVBVt00Y8pUqVWj4W-hYYepmDmtX9PRQh87qZC7XbJCwdEaLsBY-vTsbkS0yqikd/s1600/pypi.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blted41bae888a74bd1/6a0780b73c21f620148b9b52/cyberattack_fear_Yuri_Arcurs_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "id": "c08225d56c43e5f28b2a3ae5394dc6306a65f6ae",
@@ -674,7 +685,7 @@
     },
     {
       "id": "ca4a50fb60090f98c2148cb152d3a451daf36566",
-      "title": "Taiwan Incident Highlights Cybersecurity Gaps in Rail Systems",
+      "title": "Taiwan Bullet Train Hack Highlights Cybersecurity Gaps in Rail Systems",
       "url": "https://www.darkreading.com/ics-ot-security/taiwan-incident-highlights-cybersecurity-gaps",
       "published": "2026-05-15T01:00:00+00:00",
       "summary": "A Taiwanese student experimenting with software-defined radio technology shut down three bullet trains for nearly an hour, leading to an anti-terrorism response.",
@@ -704,6 +715,17 @@
       "region": "North America",
       "country": "US",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt413a34f746df538e/6a0626f76111611c85c510d8/Cisco-MTP-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
+      "id": "38531cb944bdd437fbadd28e4da4f852eb181bc6",
+      "title": "Congress Puts Heat on Instructure After Canvas Outage",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/congress-instructure-shinyhunters-attacks",
+      "published": "2026-05-14T20:19:20+00:00",
+      "summary": "The House Committee on Homeland Security sent a letter about the Canvas cyberattack, the same day that the edtech company said it reached an &quot;agreement&quot; with the ShinyHunters cybercriminals.",
+      "source": "DarkReading",
+      "region": "North America",
+      "country": "US",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb9f102c416e36970/6a062de47896f162656ad15c/canvas_pictoKraft_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "id": "b052cef943b7eb82a71d63053b013dc26493fd5e",
@@ -1188,28 +1210,6 @@
       "region": "North America",
       "country": "US",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7fa0185a79d14223/69f3a155cd45aa40c4f50b2e/Penguin_sign-Gareth_McCormack-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
-      "id": "d63c239d168b95d8a6a4d293745cdb7decc44ab0",
-      "title": "Anthropic's Mythos Has Landed: Here's What Comes Next for Cyber",
-      "url": "https://www.darkreading.com/cybersecurity-operations/anthropic-mythos-cyber-what-comes-next",
-      "published": "2026-04-30T19:09:21+00:00",
-      "summary": "In this latest installment of the Reporters' Notebook video series, we discuss how the new AI model threatens to completely upend cybersecurity, and what industry leaders are telling the press.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6a494b89bd82b96f/69f3c069574eeb457137e4e8/claude1800_Ascannio_alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
-      "id": "7422f0f5af07f2a81014ac25e0e1ba87a470cf4a",
-      "title": "Oracle Red Bull Racing Team Revs Up Automation to Boost Security",
-      "url": "https://www.darkreading.com/identity-access-management-security/oracle-red-bull-racing-team-revs-up-automation-to-boost-security",
-      "published": "2026-04-30T13:45:58+00:00",
-      "summary": "While drivers race to shave off seconds on the track, the team's IT and engineering staff are speeding up how they deliver security.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt12893d714d366c26/69f2527b65fda7fdccea718b/ORBR_photos_01.JPG?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "id": "3c39463a5d27e7a109092949fb3923e9d962bc9a",
@@ -1806,6 +1806,17 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "39b43af5935f04450c12913a67e4424b84c89a53",
+      "title": "In Other News: Big Tech vs Canada Encryption Bill, Cisco\u2019s Free AI Security Spec, Audi App Flaws",
+      "url": "https://www.securityweek.com/in-other-news-big-tech-vs-canada-encryption-bill-ciscos-free-ai-security-spec-audi-app-flaws/",
+      "published": "2026-05-15T14:52:16+00:00",
+      "summary": "<p>Other noteworthy stories that might have slipped under the radar: Nvidia cloud gaming data breach, Android 17 security upgrades, FBI warning after ShinyHunters hacks Canvas.</p>\n<p>The post <a href=\"https://www.securityweek.com/in-other-news-big-tech-vs-canada-encryption-bill-ciscos-free-ai-security-spec-audi-app-flaws/\">In Other News: Big Tech vs Canada Encryption Bill, Cisco&#8217;s Free AI Security Spec, Audi App Flaws</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "d57a5521db182b582bd20984c5713c9d5b2c59d4",
       "title": "Microsoft Warns of Exchange Server Zero-Day Exploited in the Wild",
       "url": "https://www.securityweek.com/microsoft-warns-of-exchange-server-zero-day-exploited-in-the-wild/",
@@ -1899,17 +1910,6 @@
       "url": "https://www.securityweek.com/mythos-proves-potent-in-vulnerability-discovery-less-convincing-elsewhere/",
       "published": "2026-05-14T13:00:00+00:00",
       "summary": "<p>Independent benchmarking finds Mythos highly effective for source code audits, reverse engineering, and native-code analysis, though its exploit validation and reasoning capabilities remain inconsistent.</p>\n<p>The post <a href=\"https://www.securityweek.com/mythos-proves-potent-in-vulnerability-discovery-less-convincing-elsewhere/\">Mythos Proves Potent in Vulnerability Discovery, Less Convincing Elsewhere</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "61d7e06ea1e4c569e4f56d6119ffde49e2c27df0",
-      "title": "Akamai to Acquire AI and Browser Security Firm LayerX for $205 Million",
-      "url": "https://www.securityweek.com/akamai-to-acquire-ai-and-browser-security-firm-layerx-for-205-million/",
-      "published": "2026-05-14T12:55:38+00:00",
-      "summary": "<p>The acquisition enables Akamai to expand its Zero Trust portfolio to add protection directly into the browser.</p>\n<p>The post <a href=\"https://www.securityweek.com/akamai-to-acquire-ai-and-browser-security-firm-layerx-for-205-million/\">Akamai to Acquire AI and Browser Security Firm LayerX for $205 Million</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
