@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-17T01:47:00.605137+00:00",
+  "generated_at": "2026-05-17T12:47:06.809617+00:00",
   "items": [
     {
       "id": "83b38f5aa6425c50baf4fb8004e727a35ff6f254",
@@ -110,6 +110,17 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "570d34eb2ef025873ee9a848a0d0aabde37231b1",
+      "title": "Grafana GitHub Token Breach Led to Codebase Download and Extortion Attempt",
+      "url": "https://thehackernews.com/2026/05/grafana-github-token-breach-led-to.html",
+      "published": "2026-05-17T07:13:33+00:00",
+      "summary": "Grafana has disclosed that an \"unauthorized party\" obtained a token that granted them the ability to access the company's GitHub environment and download its codebase.\n\n\n  \"Our investigation has determined that no customer data or personal information was accessed during this incident, and we have found no evidence of impact to customer systems or operations,\" Grafana\n  said\n  in a series of",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNcCJY0s2GwOwFeSuqVz941pWrGK3theum-FBFyYO97JnK22OamMheCtr9yEEFfHMvurI7UBgl72blFK6Hm9u358g1V9HbZOk5vocuYMvgjfYLmf2XPNsSG1IiFxlbLvnRaotutjUB5I7sVLVTf1HTozz9FoeVxA3DJOn9wAOolL-HwmATDLlAD-Mgs-tO/s1600/grafana.jpg"
     },
     {
       "id": "f7c2e8f0e1e7f15b771420baa8a8933f36aaf1db",
@@ -649,17 +660,6 @@
       "region": "North America",
       "country": "US",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2N74T5rZvfRcHqUhwtyI3hbxAAQnB-RQQqpiGSIJqdplaQaZcjvqLR80d3pIjwJyGtAO5V0Ji6_3w4V4Ww901x4aSGY_Id3lzqXNdGUMbprz80zXoKzHVoIBqyhVBU_LvIMyJHV5MHaMWvZuWgREFmqG4jOdBLpW4gBtgKCrnfRS4mIXemDQ9U_fRERQf/s1600/clouds.jpg"
-    },
-    {
-      "id": "f33726726b959893a7c0b37b6f7ecbc788bcda9c",
-      "title": "PAN-OS RCE Exploit Under Active Use Enabling Root Access and Espionage",
-      "url": "https://thehackernews.com/2026/05/pan-os-rce-exploit-under-active-use.html",
-      "published": "2026-05-07T13:34:00+00:00",
-      "summary": "Palo Alto Networks has disclosed that threat actors may have attempted to unsuccessfully exploit a recently disclosed critical security flaw as early as April 9, 2026.\nThe vulnerability in question is CVE-2026-0300 (CVSS score: 9.3/8.7), a buffer overflow vulnerability in the User-ID Authentication Portal service of Palo Alto Networks PAN-OS software that could allow an unauthenticated attacker",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhA-FbTXMB7fJu_4ZxIlvKU2wHShSiMZaCQBah-p33256FjWEUsO0kd4s-LXOT_YQoS39Mj5f7nhj-ERtNF2EPNU9WG91ZWJXpl4cwYFoWz8npaMpVWzAhYjVVB-JnPyoycvPmik7Y5IsihIDXp7_mHvh4DYUz9vqkkVRYgylDqKeezcDEwqRJNs4F_2scA/s1600/paloalto-rce.jpg"
     },
     {
       "id": "2c832b44a52d8b9c5cc1a45f0fbdaab420f7d07a",
