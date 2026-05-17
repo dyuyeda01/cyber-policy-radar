@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-16T12:50:53.352657+00:00",
+  "generated_at": "2026-05-17T01:47:00.605137+00:00",
   "items": [
     {
       "id": "83b38f5aa6425c50baf4fb8004e727a35ff6f254",
@@ -110,6 +110,17 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "f7c2e8f0e1e7f15b771420baa8a8933f36aaf1db",
+      "title": "Funnel Builder Flaw Under Active Exploitation Enables WooCommerce Checkout Skimming",
+      "url": "https://thehackernews.com/2026/05/funnel-builder-flaw-under-active.html",
+      "published": "2026-05-16T15:20:48+00:00",
+      "summary": "A critical security vulnerability impacting the\n  Funnel Builder\n  plugin for WordPress has come under active exploitation in the wild to\n  inject malicious JavaScript code\n  into WooCommerce checkout pages with the goal of stealing payment data.\n\n\n\n  Details of the activity were\n  published\n  by Sansec this week. The vulnerability currently does not have an official CVE identifier. It",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYS8AhChFEeH6IwT4x1eB5VAeGfriF4VVcwINAxXVIGyap3g0CKx0R2BdI4s99cE3Q5JHr-KUVHqdhAFNfQIrCTJ6p-vq7u5naMTwb-WFjgis4vBdR29M94wAT-Dqh46zsbo4heSJOVdFRxXzR3SgHt2ZoTPPBEbB3cu4azACiFFl7jcIGNxw1d_U7eVU9/s1600/funnel.png"
     },
     {
       "id": "52d77ff8bfbfefcdfd74e66a1f3c9d93bdb4afc1",
@@ -649,17 +660,6 @@
       "region": "North America",
       "country": "US",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhA-FbTXMB7fJu_4ZxIlvKU2wHShSiMZaCQBah-p33256FjWEUsO0kd4s-LXOT_YQoS39Mj5f7nhj-ERtNF2EPNU9WG91ZWJXpl4cwYFoWz8npaMpVWzAhYjVVB-JnPyoycvPmik7Y5IsihIDXp7_mHvh4DYUz9vqkkVRYgylDqKeezcDEwqRJNs4F_2scA/s1600/paloalto-rce.jpg"
-    },
-    {
-      "id": "c50a45ca9d01b826990e9c9a7853ea6d8c6cea6a",
-      "title": "ThreatsDay Bulletin: Edge Plaintext Passwords, ICS 0-Days, Patch-or-Die Alerts and 25+ New Stories",
-      "url": "https://thehackernews.com/2026/05/threatsday-bulletin-edge-plaintext.html",
-      "published": "2026-05-07T11:33:00+00:00",
-      "summary": "Bad week.\nTurns out the easiest way to get hacked in 2026 is still the same old garbage: shady packages, fake apps, forgotten DNS junk, scam ads, and stolen logins getting dumped into Discord channels like it\u2019s normal. Some of these attack chains don\u2019t even feel sophisticated anymore. More like some tired guy with a Telegram account and too much free time. The worst part is how often this stuff",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYNaH2vOiD-OgAVnO0nGCSr8j4nnvHD2n7RieJD2mDMlPev_fKoBafjhvob13LV4pOFhgMuZd6ex8zyQnCM1AyVfl6fuRG9Max2F76Ku9rWbieBvF0AtGlQd0nXlIwHDKvq5H4BJn3hGCRfE86fHs5SL05RywOADNDC9J5lG9DF8goavgxWzAh7a7isNMB/s1600/threatsday-1.jpg"
     },
     {
       "id": "2c832b44a52d8b9c5cc1a45f0fbdaab420f7d07a",
