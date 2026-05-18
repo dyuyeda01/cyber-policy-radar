@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-05-18T01:55:54.385872+00:00",
+  "generated_at": "2026-05-18T14:47:57.665341+00:00",
   "items": [
+    {
+      "id": "fcdb13b8df33d93c344f1a3435e33b93f47bb790",
+      "title": "How a government contest launched a revolution in AI-based bug hunting",
+      "url": "https://www.cybersecuritydive.com/news/ai-vulnerability-discovery-darpa-challenge-critical-infrastructure/819494/",
+      "published": "2026-05-18T11:57:03+00:00",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/BAYj1ps6cYyJj0YAuuAs0ZagavChn58YXp3M4u6KlwM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9QWExfMjAyNTA4MDhfMTg0MTEzMjQxLmpwZw==.webp\" /></div></figure><p>Security researchers have spent months honing AI systems that can find and fix serious vulnerabilities. Critical infrastructure everywhere could benefit.</p>",
+      "source": "Cybersecurity Dive",
+      "region": "North America",
+      "country": "US",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
     {
       "id": "83b38f5aa6425c50baf4fb8004e727a35ff6f254",
       "title": "Attackers exploit critical flaw in Cisco Catalyst SD-WAN Controller",
@@ -101,15 +112,70 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "17b023dfe5669737e6630a79918d75b7313b43e5",
-      "title": "Identity takes center stage as a leading factor in enterprise cyberattacks",
-      "url": "https://www.cybersecuritydive.com/news/identity-enterprise-cyberattacks-ai-ransomware/819977/",
-      "published": "2026-05-12T14:43:59+00:00",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/rfLjpiXulc4Vn_XS33ev3J1dACnLMfjbnqVGfTcn_fA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDEzMTEzODUwLmpwZw==.webp\" /></div></figure><p>A new report shows two-thirds of ransomware attacks began with an identity-related breach.</p>",
-      "source": "Cybersecurity Dive",
+      "id": "419e9817baeb44b6e80c40e72ebc4c9625990d36",
+      "title": "How to Reduce Phishing Exposure Before It Turns into Business Disruption",
+      "url": "https://thehackernews.com/2026/05/how-to-reduce-phishing-exposure-before.html",
+      "published": "2026-05-18T13:00:00+00:00",
+      "summary": "What happens when a phishing email looks clean enough to pass through security, but dangerous enough to expose the business after one click? That is the gap many SOCs still struggle with: the attacks that leave teams unsure what was exposed, who else was targeted, and how far the risk has spread.\nEarly phishing detection closes that gap. It helps teams move from uncertainty to evidence faster,",
+      "source": "The Hacker News",
       "region": "North America",
       "country": "US",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiu4cbMji6f7O37Q6sBOEkOEXWMs7Eg4ixA0RdW8AiO6cIPai9yYqLTvVVkUH9ApXP8XycVeezSCvDMXhldVsCiaA-_kr5SwWJ4EjTfkyX0RdUacOUF3plBO9C6PHCLsUGM-L-ZthpQA7mhdPmH4nLgPPQIVBWK9BZUNQf7V17Y_5jVVvZ0FNaiOsG7mvs/s1600/anyrun-main.jpg"
+    },
+    {
+      "id": "265c4042567b3aa03b32c34693f3a2ecb5f5eb3e",
+      "title": "Developer Workstations Are Now Part of the Software Supply Chain",
+      "url": "https://thehackernews.com/2026/05/developer-workstations-are-now-part-of.html",
+      "published": "2026-05-18T11:23:41+00:00",
+      "summary": "Supply chain attackers are not only trying to slip malicious code into trusted software. They are trying to steal the access that makes trusted software possible. Recently, three separate campaigns hit npm, PyPI, and Docker Hub in a 48-hour window, and all three targeted secrets from developer environments and CI/CD pipelines, including API keys, cloud credentials, SSH keys, and tokens. This is",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjylLL25uQ3uU6RshKkTv9isR22Y_6_b4uJJ4koE1MqtmGs4IWdz88_aH8up_7WDxghA7-GeMbm6gpoKUXRw99Cm1ljO03H8bdcv91vvO_ch313e_JAwtYH-CewZJF2WkNrYWtcp-acMiPTvSs5aan7v2DLpEjVSBuEarfJ-eCLEHCL2WK9zjxOho_gj3k/s1600/git.gif"
+    },
+    {
+      "id": "d2c17f1fc95bc84579bb7456ed23b46f616c6ac6",
+      "title": "Ivanti, Fortinet, SAP, VMware, n8n Patch RCE, SQL Injection, Privilege Escalation Flaws",
+      "url": "https://thehackernews.com/2026/05/ivanti-fortinet-sap-vmware-n8n-patch.html",
+      "published": "2026-05-18T10:54:05+00:00",
+      "summary": "Ivanti, Fortinet, n8n, SAP, and VMware have released security fixes for various vulnerabilities that could be exploited by bad actors to bypass authentication and execute arbitrary code.\nTopping the list is a critical flaw impacting Ivanti Xtraction (CVE-2026-8043, CVSS score: 9.6) that could be exploited to achieve information disclosure or client-side attacks.\n\"External control of a file name",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2iqd3uRuOdLaM83LyZC9GOeOLeP9BnBVQQQzF7LZUeBTXfGo6e6b9c7PSC0Tkt_vhN_FUFUiDwnLXXNmzpIubE5bI0rA7dRaDhuiV35uiNTcMab7o8E_1ehn3CzUUsfno-6fYECbYzGNS1dyNof1ihn-hf4QYjLn7ZD53y_byQigukme9w-LAeBKDWXAg/s1600/patches.jpg"
+    },
+    {
+      "id": "bfdd74eb91e257fe071b18be8d8265e1a341c8f1",
+      "title": "MiniPlasma Windows 0-Day Enables SYSTEM Privilege Escalation on Fully Patched Systems",
+      "url": "https://thehackernews.com/2026/05/miniplasma-windows-0-day-enables-system.html",
+      "published": "2026-05-18T08:57:34+00:00",
+      "summary": "Chaotic Eclipse, the security researcher behind the recently disclosed Windows flaws, YellowKey and GreenPlasma, has released a proof-of-concept (PoC) for a Windows privilege escalation zero-day flaw that grants attackers SYSTEM privileges on fully patched Windows systems.\nCodenamed MiniPlasma, the vulnerability impacts \"cldflt.sys,\" which refers to the Windows Cloud Files Mini Filter Driver,",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvmx8dRRiQKx4cT0aT1-zTuzdjfThwxmlbzb2ikeeqIXUXGdcJhRrq4BykcdBB572URpoAHQhSTSyahR3M7TyvOsLSCekQGCUFM8sTcdsxkrpRFrT41wF8EqKA5LjzYHpzUtro2136Iy55cKQ_wixFUSsFDnilkUNCvrDvJbHBKK3k_IelHt9lOmbW01_u/s1600/windows-exploits.jpg"
+    },
+    {
+      "id": "9807b461e5855ce367a4901bc1dd6009f81dbc2d",
+      "title": "Four Malicious npm Packages Deliver Infostealers and Phantom Bot DDoS Malware",
+      "url": "https://thehackernews.com/2026/05/four-malicious-npm-packages-deliver.html",
+      "published": "2026-05-18T08:57:26+00:00",
+      "summary": "Cybersecurity researchers have discovered four new npm packages containing information-stealing malware, one of which is a clone of the Shai-Hulud worm open-sourced by TeamPCP.\nThe list of identified packages is below -\n\nchalk-tempalte (825 Downloads)\n@deadcode09284814/axios-util (284 Downloads)\naxois-utils (963 Downloads)\ncolor-style-utils (934 Downloads)\n\n\"One of the packages (chalk-tempalte)",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbN7WbW1cUkMzMJl0HPvRrQQUc5MQEE3Pvrc735aG7RGwpguum4POxa4yeQjyYIyiAYBDj_Zl6Ud8esex0AnQSG2J6TVWat57BLALA4WTi3gr5mfrLC2AHloSuvzx6fg9bTxZUvO-aA5VwHjyqbYecAWm2DnM9SRyt0M1GaqYzlBBKdgUR8BXV3xIDVnVN/s1600/npm-hacking.jpg"
+    },
+    {
+      "id": "28ea519925d08b254afa891ac16dd7f0d644f178",
+      "title": "Pre-Stuxnet Fast16 Malware Tampered with Nuclear Weapons Simulations",
+      "url": "https://thehackernews.com/2026/05/pre-stuxnet-fast16-malware-tampered.html",
+      "published": "2026-05-18T06:46:37+00:00",
+      "summary": "A new analysis of the Lua-based fast16 malware has confirmed that it was a cyber sabotage tool designed to tamper with nuclear weapons testing simulations.\nAccording to Broadcom-owned Symantec and Carbon Black teams, the pre-Stuxnet tool was engineered to corrupt uranium-compression simulations that are central to nuclear weapon design.\n\"Fast16's hook engine is selectively interested in",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis3jEEpg3n_4z5YYUwDaXETZ4KJGxCqjzrZMHUmpgvOCC7pxoSs6Rn9klL5REej9UUJJxIrOstlQDWjbTeAOUhJ7wFSoTvpLkOVx3hb5fKerxA6NkeNMDQ7bt4F-kLwEPXWZPCsVa_wXaonk9mb9CKTF4cVDToquGN57Xzw1VmszeNoEKVEvtcHMSnTCOi/s1600/fast16-stuxnet.jpg"
     },
     {
       "id": "c17577b41e6ab29051340a05051717e987c4a4d2",
@@ -596,72 +662,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBMXgW6K0BZvt0-jhZ_smX3Uy-nsd9wb9g7Gs7d3G7uH-HIlEcNhEt9xpaKD_62iJol_LK5Expt-6qCuvIf7llqtQclB64I9zZm_i8CIC0lMJiIz8nx6r4C-Nj4cUgd3cQEtu3_lGFa7wcmR6q9otQhCLoB1Mbnmn7NgH6-djLs_ScqanZFNC-EVOwYyO7/s1600/android-calls.jpg"
     },
     {
-      "id": "1e603e1088742f3a15a5ca305ef69506863fa3f0",
-      "title": "One Click, Total Shutdown: The \"Patient Zero\" Webinar on Killing Stealth Breaches",
-      "url": "https://thehackernews.com/2026/05/one-click-total-shutdown-patient-zero.html",
-      "published": "2026-05-08T14:01:00+00:00",
-      "summary": "The hardest part of cybersecurity isn't the technology, it\u2019s the people.\nEvery major breach you\u2019ve read about lately usually starts the same way: one employee, one clever email, and one \"Patient Zero\" infection.\nIn 2026, hackers are using AI to make these \"first clicks\" nearly impossible to spot. If a single laptop gets compromised on your watch, do you have a plan to stop it from taking down",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhz_1BMhUux9JB2X26ToAMnW32GttimEIwRX1fG4_LrlZjedjkjzps_Ad-eiSX-2LlJ1FFIw3g1kvH1kKrgwETmSgTk8wal5a7AJQNIY2IH3317GaUYEj-_3tko2hxjKBc1ms0WQ7UjHHTst0aKtjFz1jOPasyD8x5U_GQW4KdhKxDPHhlmYVOY9TM6vLy_/s1600/zz-webinar.jpg"
-    },
-    {
-      "id": "0cb2317f127153aa070ed0e959835a8ffef0b7fc",
-      "title": "Quasar Linux RAT Steals Developer Credentials for Software Supply Chain Compromise",
-      "url": "https://thehackernews.com/2026/05/quasar-linux-rat-steals-developer.html",
-      "published": "2026-05-08T11:00:00+00:00",
-      "summary": "A previously undocumented Linux implant codenamed Quasar Linux RAT (QLNX) is targeting developers' systems to establish a silent foothold as well as facilitate a broad range of post-compromise functionality, such as credential harvesting, keylogging, file manipulation, clipboard monitoring, and network tunneling.\n\"QLNX targets developers and DevOps credentials across the software supply chain,\"",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiholjenZRIykmReErkRiguk5xd9RV4BIEEPM0nT-o3LvMvDkCTLpd3G0NpqDGEFHp-f6QyvGRMip6CBhGlllYVlp9wS3XBVoV6xW47CDka7Ig8S_aotcuNlmAv3SYgS4hJzxjLp2nrV4SzqlTXnQLG_w68Cq0Bf5hiOoV6CaN9QZliRDa-StzsvIkJAdSF/s1600/kube.jpg"
-    },
-    {
-      "id": "755765df9ee37bd173eaffe4a99ec638d2ea5c5a",
-      "title": "One Missed Threat Per Week: What 25M Alerts Reveal About Low-Severity Risk",
-      "url": "https://thehackernews.com/2026/05/one-missed-threat-per-week-what-25m.html",
-      "published": "2026-05-08T10:30:00+00:00",
-      "summary": "The dark secret of enterprise security operations is that defenders have quietly institutionalized the practice of not looking. This is not just anecdotal, but rather backed by a recent report investigating more than 25 million security alerts, including informational and low-severity, across live enterprise environments.&nbsp;\nThe dataset behind these findings includes 10 million monitored",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUaPw5V89Ez9z5x8eFLFOhwPphGqXDQVGfd2sI-pX9Q1XTcpYlWEhFiZ6o12fzAyvtCFDQ0zs4AFlHl4HJNnjWH8hUXM9r_-oBl7YMEnU1F41Ho7DL23NJbgG4M3eoqF6CTZWqFtFcw0gOB8QfkCPW1_xQ-HwmvWr3GMzEeRFbC8SLgG5LsdnopTAHDOs/s1600/ai-soc.jpg"
-    },
-    {
-      "id": "ebf40297105237f0441f16ef1c4acdfd46fcfa80",
-      "title": "New Linux PamDOORa Backdoor Uses PAM Modules to Steal SSH Credentials",
-      "url": "https://thehackernews.com/2026/05/new-linux-pamdoora-backdoor-uses-pam.html",
-      "published": "2026-05-08T08:41:00+00:00",
-      "summary": "Cybersecurity researchers have disclosed details of a new Linux backdoor named PamDOORa that's being advertised on the Rehub Russian cybercrime forum for $1,600 by a threat actor called \"darkworm.\"\nThe backdoor is designed as a Pluggable Authentication Module (PAM)-based post-exploitation toolkit that enables persistent SSH access by means of a magic password and specific TCP port combination.",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixNgyNI9ObZi3Il87CVXhEWyWgcK-O1IKhQKRs7NPrNVqTMBZRw7AZpmbk5RdsPxNPmO9IyXaq6QzYBN691HBgfE8HpwnyJuE4-vaCAwHPpb6UfeSRcrMI-GRjcX53cELs31s7ps6YkGx5bAAB67w4m9GQ7ZVWjSdnaPOFczjHlsS3967ZvBh-4ZvTBWEJ/s1600/linux-pam.jpg"
-    },
-    {
-      "id": "6306faaad2c146b4b8007a00503c0b634e5b2f8e",
-      "title": "Linux Kernel Dirty Frag LPE Exploit Enables Root Access Across Major Distributions",
-      "url": "https://thehackernews.com/2026/05/linux-kernel-dirty-frag-lpe-exploit.html",
-      "published": "2026-05-08T05:12:00+00:00",
-      "summary": "Details have emerged about a new, unpatched local privilege escalation (LPE) vulnerability impacting the Linux kernel.\nDubbed Dirty Frag, it has been described as a successor to Copy Fail (CVE-2026-31431, CVSS score: 7.8), a recently disclosed LPE flaw impacting the Linux kernel that has since come under active exploitation in the wild. The vulnerability was reported to Linux kernel maintainers",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnVSDBWt4hKZ-DOrZqHWPVH0JxrpcUeup9hpMpoH5Ny8bpuJ6Lviv58aH0aK2S2IJvAugaYRhM8P9wUW3tbVCu2kFMQbG5F16kI3PvS6gmR2Px8qOxcat-tK-UHV9oSDsAv9MHjvrduyndsqhicJxX1GroDTBo8it4ANI2wKIUVauhdxbgrNBQHhdgq2SW/s1600/linux.gif"
-    },
-    {
-      "id": "9b6419969ce3f1d2219da0d0c68bf0e4c5ff98a4",
-      "title": "Ivanti EPMM CVE-2026-6973 RCE Under Active Exploitation Grants Admin-Level Access",
-      "url": "https://thehackernews.com/2026/05/ivanti-epmm-cve-2026-6973-rce-under.html",
-      "published": "2026-05-07T17:55:00+00:00",
-      "summary": "Ivanti is warning that a new security flaw impacting Endpoint Manager Mobile (EPMM) has been explored in limited attacks in the wild.\nThe high-severity vulnerability, CVE-2026-6973 (CVSS score: 7.2), is a case of improper input validation affecting EPMM before versions 12.6.1.1, 12.7.0.1, and 12.8.0.1.\nIt allows \"a remotely authenticated user with administrative access to achieve remote code",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX-v9Rdn-UppGqdbm0oFYXNg6myRCPn8r-d4BXVN0e2r2hqrYbGPUwOKafMbwKlojjbck4C8Ez6dxZ7WcLF45PNphvCo1K4OGhXl0u9fWanVMbO62iZoWMQJrplTa6VaXfI2rhQL40PoDK0ZNh2jqDJGBc9LylbIE92LWSNEIkVUhSpkGyAfV7g-DVZlU1/s1600/ivanti.jpg"
-    },
-    {
       "id": "2c832b44a52d8b9c5cc1a45f0fbdaab420f7d07a",
       "title": "The Boring Stuff is Dangerous Now",
       "url": "https://www.darkreading.com/cyber-risk/ai-code-and-agents-forces-defenders-adapt",
@@ -682,6 +682,17 @@
       "region": "North America",
       "country": "US",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltbca6faddbee78c86/6a073d95eb9f4a233d786122/Lee_Jay-myung_Xinhua_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
+      "id": "38531cb944bdd437fbadd28e4da4f852eb181bc6",
+      "title": "Congress Puts Heat on Instructure After Canvas Outage",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/congress-instructure-shinyhunters-attacks",
+      "published": "2026-05-15T20:19:20+00:00",
+      "summary": "The House Committee on Homeland Security sent a letter about the Canvas cyberattack, the same day that the edtech company said it reached an &quot;agreement&quot; with the ShinyHunters cybercriminals.",
+      "source": "DarkReading",
+      "region": "North America",
+      "country": "US",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb9f102c416e36970/6a062de47896f162656ad15c/canvas_pictoKraft_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "id": "c08225d56c43e5f28b2a3ae5394dc6306a65f6ae",
@@ -726,17 +737,6 @@
       "region": "North America",
       "country": "US",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt413a34f746df538e/6a0626f76111611c85c510d8/Cisco-MTP-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
-      "id": "38531cb944bdd437fbadd28e4da4f852eb181bc6",
-      "title": "Congress Puts Heat on Instructure After Canvas Outage",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/congress-instructure-shinyhunters-attacks",
-      "published": "2026-05-14T20:19:20+00:00",
-      "summary": "The House Committee on Homeland Security sent a letter about the Canvas cyberattack, the same day that the edtech company said it reached an &quot;agreement&quot; with the ShinyHunters cybercriminals.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb9f102c416e36970/6a062de47896f162656ad15c/canvas_pictoKraft_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "id": "b052cef943b7eb82a71d63053b013dc26493fd5e",
@@ -1212,6 +1212,72 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt66addf126723d9f7/69f3b58b50f92923bac9ec22/sandworms_Nature_Picture_Library_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
+      "id": "2110325a025012dbf5dd6538eeab80288ef3d99f",
+      "title": "TanStack weighs invitation-only pull requests after supply chain attack",
+      "url": "https://www.theregister.com/security/2026/05/18/tanstack-weighs-invitation-only-pull-requests-after-supply-chain-attack/5241899",
+      "published": "2026-05-18T14:15:00+00:00",
+      "summary": "Shai-Hulud worm exploited GitHub Actions misconfiguration to poison shared cache, now project weighing nuclear option on unsolicited contributions",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=261796&width=800"
+    },
+    {
+      "id": "c2a5029b4e7572596757f67fc94ff379c3721b84",
+      "title": "NGINX Rift attackers waste no time targeting exposed servers",
+      "url": "https://www.theregister.com/security/2026/05/18/nginx-rift-attackers-waste-no-time-targeting-exposed-servers/5241851",
+      "published": "2026-05-18T13:02:00+00:00",
+      "summary": "Researchers say 18-year-old flaw already being probed and exploited just days after disclosure",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=5241871&width=800"
+    },
+    {
+      "id": "0e920dff4318edc5dafdd942581c621b79dafc1f",
+      "title": "Poland directs officials to ditch Signal in favor of 'secure' state-developed alternative",
+      "url": "https://www.theregister.com/security/2026/05/18/poland-builds-its-own-signal-amid-security-concerns/5241824",
+      "published": "2026-05-18T12:15:00+00:00",
+      "summary": "Shift comes amid mounting reports of successful social engineering attacks targeting higher-ups in government",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=227546&width=800"
+    },
+    {
+      "id": "be646fcc888d76c833427c89e7d7f05a366fbfc1",
+      "title": "F-35 software delays leave UK buying time with US glide bombs",
+      "url": "https://www.theregister.com/security/2026/05/18/f-35-software-delays-leave-uk-buying-time-with-us-glide-bombs/5241737",
+      "published": "2026-05-18T10:48:00+00:00",
+      "summary": "MoD says StormBreaker will plug gap until homegrown SPEAR 3 integration lands",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=5241759&width=800"
+    },
+    {
+      "id": "aed0092e6a66ab6780ccd884ae3de379d7f7a821",
+      "title": "Mozilla warns UK: Breaking VPNs will not magically fix Britain's age-check mess",
+      "url": "https://www.theregister.com/security/2026/05/18/mozilla-warns-uk-breaking-vpns-will-not-magically-fix-britains-age-check-mess/5241770",
+      "published": "2026-05-18T09:54:01+00:00",
+      "summary": "Firefox maker says the tools are basic security infrastructure, not teenage contraband",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=4094224&width=800"
+    },
+    {
+      "id": "97c19592df05a1eb7aaf07f145e4ac170fb862b0",
+      "title": "Grafana Labs admits all its codebase are belong to someone who popped its GitHub account",
+      "url": "https://www.theregister.com/cyber-crime/2026/05/18/grafana-labs-admits-attackers-downloaded-its-codebase-from-github/5241686",
+      "published": "2026-05-18T05:46:31+00:00",
+      "summary": "No customer info stolen, no impact to operations, and no blackmail payment",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=224087&width=800"
+    },
+    {
       "id": "d057c89f7ec279fa0f62b71ed5e8d5ecc2b93c83",
       "title": "Linus Torvalds says AI-powered bug hunters have made Linux security mailing list \u2018almost entirely unmanageable\u2019",
       "url": "https://www.theregister.com/security/2026/05/18/linus-torvalds-says-ai-powered-bug-hunters-have-made-linux-security-mailing-list-almost-entirely-unmanageable/5241633",
@@ -1498,17 +1564,6 @@
       "image": "https://image.theregister.com/?imageId=5237931&width=800"
     },
     {
-      "id": "31a3470bdc9ff150c31f2cd6d218002405641d46",
-      "title": "Taiwan's train cyber-trauma reveals a global system that's coming off the tracks",
-      "url": "https://www.theregister.com/security/2026/05/11/taiwans-train-cyber-trauma-reveals-a-global-system-thats-coming-off-the-tracks/5237248",
-      "published": "2026-05-11T08:30:00+00:00",
-      "summary": "That's not a radio. THIS is a radio",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=5237307&width=800"
-    },
-    {
       "id": "8dbbd57f8e9e1837d3984f2240b70780ea696687",
       "title": "Worm rubs out competitor's malware, then takes control",
       "url": "https://www.theregister.com/security/2026/05/08/worm-rubs-out-competitors-malware-then-takes-control/5237389",
@@ -1707,61 +1762,6 @@
       "image": "https://image.theregister.com/?imageId=257106&width=800"
     },
     {
-      "id": "a990be4aa8eb5b915e507c5809e2b933d9a95e6d",
-      "title": "Singapore boffins get diverse SIEMs singing in harmony with agentic rule translation",
-      "url": "https://www.theregister.com/security/2026/05/05/singapore-boffins-get-diverse-siems-singing-in-harmony/5220619",
-      "published": "2026-05-05T02:12:16+00:00",
-      "summary": "Vendors all use different formats. This tech translates them all so you can smooth your SOC",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=261362&width=800"
-    },
-    {
-      "id": "16533740f4a720aa1ac7d2f636a6919d03853128",
-      "title": "Kids say they can beat age checks by drawing on a fake mustache",
-      "url": "https://www.theregister.com/security/2026/05/04/kids-can-bypass-some-age-checks-with-a-drawn-on-mustache/5224601",
-      "published": "2026-05-04T20:50:10+00:00",
-      "summary": "46% say age checks are easy to bypass, and nearly a third admit getting around them",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=5224997&width=800"
-    },
-    {
-      "id": "607398904dbeca09fbb72ecd9c12c535427c5e1b",
-      "title": "Shadow IT has given way to shadow AI. Enter AI-BOMs",
-      "url": "https://www.theregister.com/security/2026/05/04/ai-boms-replace-sboms-as-way-to-track-ai-agents-and-bots/5221716",
-      "published": "2026-05-04T15:04:20+00:00",
-      "summary": "'If you don't have visibility, you can't understand what to protect'",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=258525&width=800"
-    },
-    {
-      "id": "123cd919d5c62ed88bc28925d004a178acd8cd01",
-      "title": "If the vote you rocked, your personal info can be grokked",
-      "url": "https://www.theregister.com/security/2026/05/04/public-voter-records-can-expose-personal-data-when-linked/5226708",
-      "published": "2026-05-04T09:06:12+00:00",
-      "summary": "Even limited voter rolls can be linked to identify people, research shows",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=232589&width=800"
-    },
-    {
-      "id": "d4de02457e501f558718e3527956730da70d9065",
-      "title": "Five Eyes spook shops warn rapid rollouts of agentic AI are too risky",
-      "url": "https://www.theregister.com/security/2026/05/04/five-eyes-warn-agentic-ai-is-too-dangerous-for-rapid-rollout/5229103",
-      "published": "2026-05-04T02:35:29+00:00",
-      "summary": "Prioritize resilience over productivity, say CISA, NCSC and their friends from Oz, NZ, Canada",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=262625&width=800"
-    },
-    {
       "id": "1272da189124f766c0a7e7669dee01d4e630100e",
       "title": "Patch Tuesday, May 2026 Edition",
       "url": "https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/",
@@ -1806,6 +1806,94 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "87f3a1f858eb96e15424c5b98f6e9f21c8bf282d",
+      "title": "Millions Impacted Across Several US Healthcare Data Breaches",
+      "url": "https://www.securityweek.com/millions-impacted-across-several-us-healthcare-data-breaches/",
+      "published": "2026-05-18T12:58:44+00:00",
+      "summary": "<p>Several healthcare data breaches impacting hundreds of thousands and even millions were added to the HHS tracker.</p>\n<p>The post <a href=\"https://www.securityweek.com/millions-impacted-across-several-us-healthcare-data-breaches/\">Millions Impacted Across Several US Healthcare Data Breaches</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "46748b49ffacb405cafb7e1f3e1686235e9f8c2e",
+      "title": "\u2018Claw Chain\u2019 OpenClaw Flaws Allow Sandbox Escape, Backdoor Delivery",
+      "url": "https://www.securityweek.com/claw-chain-openclaw-flaws-allow-sandbox-escape-backdoor-delivery/",
+      "published": "2026-05-18T12:14:43+00:00",
+      "summary": "<p>Four vulnerabilities in OpenClaw can be chained together to steal credentials, escape the sandbox, and plant persistent backdoors.</p>\n<p>The post <a href=\"https://www.securityweek.com/claw-chain-openclaw-flaws-allow-sandbox-escape-backdoor-delivery/\">&#8216;Claw Chain&#8217; OpenClaw Flaws Allow Sandbox Escape, Backdoor Delivery</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "5f7f0860b1144a72575c27d672d25fd8083721db",
+      "title": "7-Eleven Data Breach Confirmed After ShinyHunters Ransom Demand",
+      "url": "https://www.securityweek.com/7-eleven-data-breach-confirmed-after-shinyhunters-ransom-demand/",
+      "published": "2026-05-18T11:25:54+00:00",
+      "summary": "<p>The hackers claimed to have stolen more than 600,000 Salesforce records, including personal information and corporate data.\u00a0</p>\n<p>The post <a href=\"https://www.securityweek.com/7-eleven-data-breach-confirmed-after-shinyhunters-ransom-demand/\">7-Eleven Data Breach Confirmed After ShinyHunters Ransom Demand</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "67c90e9f341ce7ba3d8b6daea1b8f1f8536133dc",
+      "title": "Researcher Drops MiniPlasma Windows Exploit for Unpatched 2020 CVE",
+      "url": "https://www.securityweek.com/researcher-drops-miniplasma-windows-exploit-for-unpatched-2020-cve/",
+      "published": "2026-05-18T10:38:22+00:00",
+      "summary": "<p>The researcher dropped the MiniPlasma exploit that uses the original proof-of-concept (PoC) code targeting the bug.</p>\n<p>The post <a href=\"https://www.securityweek.com/researcher-drops-miniplasma-windows-exploit-for-unpatched-2020-cve/\">Researcher Drops MiniPlasma Windows Exploit for Unpatched 2020 CVE</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "ddcb85a29b063ee59a09b62eb194579907d844b0",
+      "title": "First Shai-Hulud Worm Clones Emerge",
+      "url": "https://www.securityweek.com/first-shai-hulud-worm-clones-emerge/",
+      "published": "2026-05-18T09:45:15+00:00",
+      "summary": "<p>At least one threat actor has adopted the recently released malware source code in attacks against NPM developers.</p>\n<p>The post <a href=\"https://www.securityweek.com/first-shai-hulud-worm-clones-emerge/\">First Shai-Hulud Worm Clones Emerge</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "6b29975e7443df44ed203bd74aa1380cc638a1b0",
+      "title": "Grafana Confirms Breach After Hackers Claim They Stole Data",
+      "url": "https://www.securityweek.com/grafana-confirms-breach-after-hackers-claim-they-stole-data/",
+      "published": "2026-05-18T08:34:59+00:00",
+      "summary": "<p>Grafana appears to have been targeted by Coinbase Cartel, a cybercrime group linked to ShinyHunters, Scattered Spider, and Lapsus$.</p>\n<p>The post <a href=\"https://www.securityweek.com/grafana-confirms-breach-after-hackers-claim-they-stole-data/\">Grafana Confirms Breach After Hackers Claim They Stole Data</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "22499c573008f84681d3b6a13aa960f735728bcf",
+      "title": "Exploitation of Critical NGINX Vulnerability Begins",
+      "url": "https://www.securityweek.com/exploitation-of-critical-nginx-vulnerability-begins/",
+      "published": "2026-05-18T07:27:42+00:00",
+      "summary": "<p>The flaw leads to denial-of-service on default configurations and to remote code execution if ASLR is disabled.</p>\n<p>The post <a href=\"https://www.securityweek.com/exploitation-of-critical-nginx-vulnerability-begins/\">Exploitation of Critical NGINX Vulnerability Begins</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "34d2008b4a1fc00e3b2f6e527b700f63b5f93de1",
+      "title": "Hackers Earn $1.3 Million at Pwn2Own Berlin 2026",
+      "url": "https://www.securityweek.com/hackers-earn-1-3-million-at-pwn2own-berlin-2026/",
+      "published": "2026-05-18T04:05:21+00:00",
+      "summary": "<p>Participants demonstrated exploits for Windows, Linux, VMware, Nvidia, and AI products.</p>\n<p>The post <a href=\"https://www.securityweek.com/hackers-earn-1-3-million-at-pwn2own-berlin-2026/\">Hackers Earn $1.3 Million at Pwn2Own Berlin 2026\u00a0</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "7ee7e1c439811a1f596c9b8e30bf09f1d5dc98c9",
       "title": "PoC Code Published for Critical NGINX Vulnerability",
       "url": "https://www.securityweek.com/poc-code-published-for-critical-nginx-vulnerability/",
@@ -1822,94 +1910,6 @@
       "url": "https://www.securityweek.com/in-other-news-big-tech-vs-canada-encryption-bill-ciscos-free-ai-security-spec-audi-app-flaws/",
       "published": "2026-05-15T14:52:16+00:00",
       "summary": "<p>Other noteworthy stories that might have slipped under the radar: Nvidia cloud gaming data breach, Android 17 security upgrades, FBI warning after ShinyHunters hacks Canvas.</p>\n<p>The post <a href=\"https://www.securityweek.com/in-other-news-big-tech-vs-canada-encryption-bill-ciscos-free-ai-security-spec-audi-app-flaws/\">In Other News: Big Tech vs Canada Encryption Bill, Cisco&#8217;s Free AI Security Spec, Audi App Flaws</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "d57a5521db182b582bd20984c5713c9d5b2c59d4",
-      "title": "Microsoft Warns of Exchange Server Zero-Day Exploited in the Wild",
-      "url": "https://www.securityweek.com/microsoft-warns-of-exchange-server-zero-day-exploited-in-the-wild/",
-      "published": "2026-05-15T12:06:53+00:00",
-      "summary": "<p>Microsoft has shared mitigations for CVE-2026-42897 until a permanent patch can be released for affected Exchange Server versions.</p>\n<p>The post <a href=\"https://www.securityweek.com/microsoft-warns-of-exchange-server-zero-day-exploited-in-the-wild/\">Microsoft Warns of Exchange Server Zero-Day Exploited in the Wild</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "764ba45e4e9fa6c788c7011f51f9175378011f57",
-      "title": "American Lending Center Data Breach Affects 123,000 Individuals",
-      "url": "https://www.securityweek.com/american-lending-center-data-breach-affects-123000-individuals/",
-      "published": "2026-05-15T11:06:55+00:00",
-      "summary": "<p>The non-bank lender discovered a ransomware attack nearly one year ago, but only recently completed its investigation.</p>\n<p>The post <a href=\"https://www.securityweek.com/american-lending-center-data-breach-affects-123000-individuals/\">American Lending Center Data Breach Affects 123,000 Individuals</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "3370e7d2b339fab296a20cbf572a8cb1cf3b842d",
-      "title": "OpenAI Hit by TanStack Supply Chain Attack",
-      "url": "https://www.securityweek.com/openai-hit-by-tanstack-supply-chain-attack/",
-      "published": "2026-05-15T10:37:00+00:00",
-      "summary": "<p>Two employee devices were compromised in the attack, and credential material was stolen from OpenAI code repositories.</p>\n<p>The post <a href=\"https://www.securityweek.com/openai-hit-by-tanstack-supply-chain-attack/\">OpenAI Hit by TanStack Supply Chain Attack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "1bf7561f4d6d780ce3fbbfcd896c20aebc7d245d",
-      "title": "TeamPCP Ups the Game, Releases Shai-Hulud Worm\u2019s Source Code",
-      "url": "https://www.securityweek.com/teampcp-ups-the-game-releases-shai-hulud-worms-source-code/",
-      "published": "2026-05-15T09:47:09+00:00",
-      "summary": "<p>The hacking group is encouraging miscreants to use the code in supply chain attacks, promising monetary rewards.</p>\n<p>The post <a href=\"https://www.securityweek.com/teampcp-ups-the-game-releases-shai-hulud-worms-source-code/\">TeamPCP Ups the Game, Releases Shai-Hulud Worm\u2019s Source Code</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "4add0268d143d01098ca15335aabacb173523549",
-      "title": "Chrome 148 Update Patches Critical Vulnerabilities",
-      "url": "https://www.securityweek.com/chrome-148-update-patches-critical-vulnerabilities/",
-      "published": "2026-05-15T07:25:15+00:00",
-      "summary": "<p>The refresh resolves critical-severity use-after-free and other types of bugs in various browser components.</p>\n<p>The post <a href=\"https://www.securityweek.com/chrome-148-update-patches-critical-vulnerabilities/\">Chrome 148 Update Patches Critical Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "6cd627300e6fa112946e2e418fb73d2f39366b66",
-      "title": "Cisco Patches Another SD-WAN Zero-Day, the Sixth Exploited in 2026",
-      "url": "https://www.securityweek.com/cisco-patches-another-sd-wan-zero-day-the-sixth-exploited-in-2026/",
-      "published": "2026-05-15T06:28:46+00:00",
-      "summary": "<p>The zero-day, tracked as CVE-2026-20182, has been exploited in targeted attacks by a sophisticated threat actor identified as UAT-8616.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisco-patches-another-sd-wan-zero-day-the-sixth-exploited-in-2026/\">Cisco Patches Another SD-WAN Zero-Day, the Sixth Exploited in 2026</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "ce4659de73ec8ece908b391cbddf6e0cd31baa66",
-      "title": "Enhancing Data Center Security Without Sacrificing Performance",
-      "url": "https://www.securityweek.com/enhancing-data-center-security-without-sacrificing-performance/",
-      "published": "2026-05-14T14:00:00+00:00",
-      "summary": "<p>For AI data centers, where the stakes are the highest and performance constraints are the tightest, security and performance are no longer a zero-sum game.</p>\n<p>The post <a href=\"https://www.securityweek.com/enhancing-data-center-security-without-sacrificing-performance/\">Enhancing Data Center Security Without Sacrificing Performance</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "95e800abcf0d575708e313d6e266a370e639c1fd",
-      "title": "New Linux Kernel Vulnerability Fragnesia Allows Root Privilege Escalation",
-      "url": "https://www.securityweek.com/new-linux-kernel-vulnerability-fragnesia-allows-root-privilege-escalation/",
-      "published": "2026-05-14T13:44:46+00:00",
-      "summary": "<p>The vulnerability, tracked as CVE-2026-46300, is similar to the recently disclosed exploits named Dirty Frag and Copy Fail.</p>\n<p>The post <a href=\"https://www.securityweek.com/new-linux-kernel-vulnerability-fragnesia-allows-root-privilege-escalation/\">New Linux Kernel Vulnerability Fragnesia Allows Root Privilege Escalation</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
