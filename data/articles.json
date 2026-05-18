@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-17T12:47:06.809617+00:00",
+  "generated_at": "2026-05-18T01:55:54.385872+00:00",
   "items": [
     {
       "id": "83b38f5aa6425c50baf4fb8004e727a35ff6f254",
@@ -110,6 +110,17 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "c17577b41e6ab29051340a05051717e987c4a4d2",
+      "title": "NGINX CVE-2026-42945 Exploited in the Wild, Causing Worker Crashes and Possible RCE",
+      "url": "https://thehackernews.com/2026/05/nginx-cve-2026-42945-exploited-in-wild.html",
+      "published": "2026-05-17T11:57:53+00:00",
+      "summary": "A newly disclosed security flaw impacting NGINX Plus and NGINX Open has come under active exploitation in the wild, days after its public disclosure, according to VulnCheck.\nThe vulnerability, tracked as CVE-2026-42945 (CVSS score: 9.2), is a heap buffer overflow in ngx_http_rewrite_module affecting NGINX versions 0.6.27 through 1.30.0. According to AI-native security company depthfirst, the",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdFtAiSRukEdQXVvEzXdQKy0O9SY7RCuqFLuAEIBe4rECuQuUS76qEXnxPuEcKIIFUysRNOGdBW2Mf2n1sh1W35aU0nCksWiW7v-20p1K7RhdPPDnxKh7kt_OmQaPrmtYPJ3larEwWr9iHeQMoRtlW767YpsXBFP5-5CQ2jTJUB_jWaMmt_29uLJvaGZE_/s1600/nginx.jpg"
     },
     {
       "id": "570d34eb2ef025873ee9a848a0d0aabde37231b1",
@@ -651,17 +662,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX-v9Rdn-UppGqdbm0oFYXNg6myRCPn8r-d4BXVN0e2r2hqrYbGPUwOKafMbwKlojjbck4C8Ez6dxZ7WcLF45PNphvCo1K4OGhXl0u9fWanVMbO62iZoWMQJrplTa6VaXfI2rhQL40PoDK0ZNh2jqDJGBc9LylbIE92LWSNEIkVUhSpkGyAfV7g-DVZlU1/s1600/ivanti.jpg"
     },
     {
-      "id": "577f122a38d5d4d138915495a2ae31601f61c2ce",
-      "title": "PCPJack Credential Stealer Exploits 5 CVEs to Spread Worm-Like Across Cloud Systems",
-      "url": "https://thehackernews.com/2026/05/pcpjack-credential-stealer-exploits-5.html",
-      "published": "2026-05-07T17:45:00+00:00",
-      "summary": "Cybersecurity researchers have disclosed details of a new credential theft framework dubbed PCPJack that targets exposed cloud infrastructure and ousts any artifacts linked to TeamPCP from the environments.\n\"The toolset harvests credentials from cloud, container, developer, productivity, and financial services, then exfiltrates the data through attacker-controlled infrastructure while attempting",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2N74T5rZvfRcHqUhwtyI3hbxAAQnB-RQQqpiGSIJqdplaQaZcjvqLR80d3pIjwJyGtAO5V0Ji6_3w4V4Ww901x4aSGY_Id3lzqXNdGUMbprz80zXoKzHVoIBqyhVBU_LvIMyJHV5MHaMWvZuWgREFmqG4jOdBLpW4gBtgKCrnfRS4mIXemDQ9U_fRERQf/s1600/clouds.jpg"
-    },
-    {
       "id": "2c832b44a52d8b9c5cc1a45f0fbdaab420f7d07a",
       "title": "The Boring Stuff is Dangerous Now",
       "url": "https://www.darkreading.com/cyber-risk/ai-code-and-agents-forces-defenders-adapt",
@@ -671,6 +671,17 @@
       "region": "North America",
       "country": "US",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blted41bae888a74bd1/6a0780b73c21f620148b9b52/cyberattack_fear_Yuri_Arcurs_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
+      "id": "de0c1902ca81db28fd48b5c3083482114b323140",
+      "title": "Can Laws Stop Deepfakes? South Korea Aims to Find Out",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/can-laws-stop-deepfakes-south-korea",
+      "published": "2026-05-18T01:00:00+00:00",
+      "summary": "South Korea's local elections next month will be a test bed for how effective regulations might be to stymie the flow of deepfakes.",
+      "source": "DarkReading",
+      "region": "North America",
+      "country": "US",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltbca6faddbee78c86/6a073d95eb9f4a233d786122/Lee_Jay-myung_Xinhua_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "id": "c08225d56c43e5f28b2a3ae5394dc6306a65f6ae",
@@ -1201,15 +1212,15 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt66addf126723d9f7/69f3b58b50f92923bac9ec22/sandworms_Nature_Picture_Library_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "b9e6e61d0b65daae195ed6c6d4893dd0839cec9c",
-      "title": "Another AI-Assisted Software Scan Yields 9-Year-Old Linux Bug",
-      "url": "https://www.darkreading.com/vulnerabilities-threats/ai-assisted-software-scan-linux-bug",
-      "published": "2026-04-30T20:41:18+00:00",
-      "summary": "The proof-of-concept exploit code runs only 10 lines long, but luckily, a patch is already available.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7fa0185a79d14223/69f3a155cd45aa40c4f50b2e/Penguin_sign-Gareth_McCormack-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "id": "d057c89f7ec279fa0f62b71ed5e8d5ecc2b93c83",
+      "title": "Linus Torvalds says AI-powered bug hunters have made Linux security mailing list \u2018almost entirely unmanageable\u2019",
+      "url": "https://www.theregister.com/security/2026/05/18/linus-torvalds-says-ai-powered-bug-hunters-have-made-linux-security-mailing-list-almost-entirely-unmanageable/5241633",
+      "published": "2026-05-17T23:39:47+00:00",
+      "summary": "Multiple researchers using the same tools to find the same bugs are creating \u2018unnecessary pain and pointless work\u2019",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=234872&width=800"
     },
     {
       "id": "3c39463a5d27e7a109092949fb3923e9d962bc9a",
@@ -1749,17 +1760,6 @@
       "region": "Europe",
       "country": "UK",
       "image": "https://image.theregister.com/?imageId=262625&width=800"
-    },
-    {
-      "id": "5b8f71d8cd90881985ba859a7580fd4e991a7a7c",
-      "title": "Brace for the patch tsunami: AI is unearthing decades of buried code debt",
-      "url": "https://www.theregister.com/security/2026/05/02/ai-digs-up-decades-of-code-debt-patch-up/5219734",
-      "published": "2026-05-02T08:30:09+00:00",
-      "summary": "Britain's cyber agency says the bill for years of technical shortcuts is coming due, and it's arriving all at once",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=227324&width=800"
     },
     {
       "id": "1272da189124f766c0a7e7669dee01d4e630100e",
