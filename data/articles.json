@@ -1,6 +1,28 @@
 {
-  "generated_at": "2026-05-19T14:26:27.615438+00:00",
+  "generated_at": "2026-05-20T01:55:37.789390+00:00",
   "items": [
+    {
+      "id": "ad45f24149514858d73d52ea4ade71d8c105d77a",
+      "title": "Telecom sector launches its own private ISAC",
+      "url": "https://www.cybersecuritydive.com/news/telecom-cybersecurity-c2-isac-launch/820553/",
+      "published": "2026-05-19T15:12:00+00:00",
+      "summary": "<p>Federal government involvement in an existing group chilled some cybersecurity discussions among major telecom providers. The new group is intended to alleviate those anxieties.</p>",
+      "source": "Cybersecurity Dive",
+      "region": "North America",
+      "country": "US",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "ccc9b35d7ee2cc4074b572ceff21e6f430bcfadb",
+      "title": "Patch bypass allows hackers to exploit prior flaw in SonicWall SSL-VPN",
+      "url": "https://www.cybersecuritydive.com/news/patch-bypass-hackers-exploit-flaw-sonicwall/820600/",
+      "published": "2026-05-19T14:24:04+00:00",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/PCW98DqJRuLwlc24ukfUe0F3_yWvuLliL-gofCCfNec/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzcwMjMzMzIwXzlFekpzb1QuanBn.webp\" /></div></figure><p>Researchers said a wave of attacks began in February targeting firewalls that appeared to be protected.&nbsp;</p>",
+      "source": "Cybersecurity Dive",
+      "region": "North America",
+      "country": "US",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
     {
       "id": "94e89202729aa9acf505b2edbd565e2b16b0805c",
       "title": "Grafana Labs says hacker gained access to codebase through leaked token",
@@ -90,26 +112,26 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "73a34a923eeeb2d17c401eed0d51b23a281bd2a7",
-      "title": "OpenAI launches Daybreak to combat cyber threats",
-      "url": "https://www.cybersecuritydive.com/news/OpenAI-Daybreak-cyber-threats/820122/",
-      "published": "2026-05-13T15:00:00+00:00",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/pVouhsiT4fZcaQslZY9yUYUyZTwpp9MjyzT0pLFxYh4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE4MzQ0MTk0LmpwZw==.webp\" /></div></figure><p>The cybersecurity initiative uses AI to detect software vulnerabilities, partnering with Cloudflare, Cisco and CrowdStrike to counter threats.</p>",
-      "source": "Cybersecurity Dive",
+      "id": "b2410dd27d54dd85688a7f7bcf0b359b94ea17f0",
+      "title": "Trapdoor Android Ad Fraud Scheme Hit 659 Million Daily Bid Requests Using 455 Apps",
+      "url": "https://thehackernews.com/2026/05/trapdoor-android-ad-fraud-scheme-hit.html",
+      "published": "2026-05-19T16:38:12+00:00",
+      "summary": "Cybersecurity researchers have disclosed details of a new ad fraud and malvertising operation dubbed Trapdoor targeting Android device users.\n\nThe activity, per HUMAN's Satori Threat Intelligence and Research Team, encompassed 455 malicious Android apps and 183 threat actor-owned command-and-control (C2) domains, turning the infrastructure into a pipeline for multi-stage fraud.\n\n\"Users",
+      "source": "The Hacker News",
       "region": "North America",
       "country": "US",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4-ldAXS8Yw3BhdSS9xeJFNzwDm-mrNDxHr28zcknAKH8knTU_WleHEhmJ-vgNokgVbm9y8vRH18v9Oxz6F7twmnBoJfIQ2fVeuhEErRAF31F9MES02sZMhYG-i7F9Ty-C-yD64U4cmgq3CD7nuEnD9OZpxWCTKAPCXfIDKycUeZEfJIBBagPPW72JgWZO/s1600/android-ad-fraud.jpg"
     },
     {
-      "id": "9068a00c3dec485efa09b383c483e1769cc0bceb",
-      "title": "Canvas owner reaches \u2018agreement\u2019 with threat actors after data breach",
-      "url": "https://www.cybersecuritydive.com/news/canvas-agreement-threat-actors--ransomware/820084/",
-      "published": "2026-05-13T13:41:52+00:00",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/F6yfoA0Xw2DL_3jL8EcpmTh-IB0mNRfOwomqrjEJ6hM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzQzMzQ5NTU4LmpwZw==.webp\" /></div></figure><p>Cybersecurity experts suggest that Instructure appears to have made a ransomware payment, which the FBI highly discourages.</p>",
-      "source": "Cybersecurity Dive",
+      "id": "181448b61bff7cd5dd9635e5d99543a440393200",
+      "title": "DirtyDecrypt PoC Released for Linux Kernel CVE-2026-31635 LPE Vulnerability",
+      "url": "https://thehackernews.com/2026/05/dirtydecrypt-poc-released-for-linux.html",
+      "published": "2026-05-19T14:56:26+00:00",
+      "summary": "Proof-of-concept (PoC) exploit code has now been released for a recently patched security flaw in the Linux kernel that could allow for local privilege escalation (LPE).\nDubbed DirtyDecrypt (aka DirtyCBC), the vulnerability was discovered and reported by the Zellic and V12 security team on May 9, 2026, only to be informed by the maintainers that it was a duplicate of a vulnerability that had",
+      "source": "The Hacker News",
       "region": "North America",
       "country": "US",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgecVdZ_vIxfMWdiQkn7dC_SCueSRLBHaU01aHrtW1lUsx3_5gwbM6fG5NyV-VUhnDxvolk_tzMNWgINg06cwjKL1xIeDIFMiFH56IUO_zwZwJqiLnMp-VJcIWFjhulk1AHnlZ_ETgH3vg6Q6SHS4Ae-teRmaLDY4XZhONjoz4MeKvQLyzJ_YdckL8lk3fe/s1600/linux-poc.jpg"
     },
     {
       "id": "094633e524d2c73cd084a6f1577c332473d85e08",
@@ -640,26 +662,48 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8hWB1CFFk1cxzc9VF7NI2QB-oCzrDMhxoIeajumiDRPkGyEt1wzhH3A3awM8uAZlRb2OXf33nd2O4Ug_IwHlCRNED92zQwFnDvyi9ypYQgQ8gRLCzkA6pHfJ2rfKfl-mTo5ha7KH2Jnwp9S6qIYx_6H4DnUSvVGM6k-yZfPQtKkO0pcGdhC4yVwI8-NEk/s1600/e2ee-rcs.jpg"
     },
     {
-      "id": "5637b17b34a2980aa680eb31e2f2579850fb537d",
-      "title": "TeamPCP Compromises Checkmarx Jenkins AST Plugin Weeks After KICS Supply Chain Attack",
-      "url": "https://thehackernews.com/2026/05/teampcp-compromises-checkmarx-jenkins.html",
-      "published": "2026-05-11T18:30:00+00:00",
-      "summary": "Checkmarx has confirmed that a modified version of the Jenkins AST plugin was published to the Jenkins Marketplace.\n\"If you are using Checkmarx Jenkins AST plugin, you need to ensure that you are using the version 2.0.13-829.vc72453fa_1c16 that was published on December 17, 2025 or previously,\" the cybersecurity company said in a statement over the weekend.\nAs of writing, Checkmarx has released",
-      "source": "The Hacker News",
+      "id": "885fcee6e1741ab0ecd53c43500ff648175a4502",
+      "title": "Verizon DBIR: Enterprises Face a Dangerous Vulnerability Glut",
+      "url": "https://www.darkreading.com/threat-intelligence/verizon-dbir-enterprises-vulnerability-glut",
+      "published": "2026-05-19T21:55:35+00:00",
+      "summary": "Verizon's &quot;2026 Data Breach Investigations Report&quot; (&quot;DBIR&quot;) finds that exploits are now involved in 31% of initial access for breaches, while patching lags too far behind the bad guys.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiq0A3_8O89uC968dpFnFxE4v3J4fpr5nEqC-2QiSJ_rtZlgPocPYIaowCvCMeONhcrFiaoSdBVeNsuTa2ipAZZ3HBMUDcfO8DZ06pughteYJItHhMLeBr_jnfLL-5WX6xBE_EjIfPDGjCYyDCa6aImjimPNl7FtM1evdnTUVEk54x9pczRaFlmEZy1Cv8B/s1600/Jenkins.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltdf277665f3314cb9/6a0cc97e3c21f6422d8ba496/risk_blocks_Cagkan_Sayin_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "b6f54173009ed076a8d6dea095cfd0669add22fe",
-      "title": "cPanel CVE-2026-41940 Under Active Exploitation to Deploy Filemanager Backdoor",
-      "url": "https://thehackernews.com/2026/05/cpanel-cve-2026-41940-under-active.html",
-      "published": "2026-05-11T17:54:00+00:00",
-      "summary": "A threat actor named Mr_Rot13 has been attributed to the exploitation of a recently disclosed critical cPanel flaw to deploy a backdoor codenamed Filemanager on compromised environments.\nThe attack exploits CVE-2026-41940, a vulnerability impacting cPanel and WebHost Manager (WHM) that could result in an authentication bypass and allow remote attackers to gain elevated control of the control",
-      "source": "The Hacker News",
+      "id": "e78adca5ac1939def8fe9163dda35e0a37c5c8de",
+      "title": "Windows Zero-Day Barrage Continues After Patch Tuesday",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/windows-zero-day-barrage-continues-after-patch-tuesday",
+      "published": "2026-05-19T21:06:54+00:00",
+      "summary": "YellowKey, GreenPlasma, and MiniPlasma add to the growing list of vulnerabilities a security researcher disclosed over the past six weeks.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgInpdPoL0Kf1i9D6daAAGB1QPCR3E0d_ArELz-ks1Y6cJ_low0jdZYqamKMKMxC12OC-XMwUrDIWdh_xK_d7zLLQfH-rDl0-Vi_VSsFswAuJL0mEtQg-FW66c_1it8d59p2An-T3_oQJ_Q_yHLiX0PHtEq2OdLcGXwxniVKGJGLusWdjJfP7M-H9ADm8cK/s1600/cpcp.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt94e5c85a811ff21b/6a0cc864ccb12f62a67122e5/zeroday_JLStock_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
+      "id": "992d66a3b3ad7c7354268ba02761c7a5090f9853",
+      "title": "CISA Exposes Secrets, Credentials in 'Private' Repo",
+      "url": "https://www.darkreading.com/cybersecurity-operations/cisa-exposes-secrets-credentials-private-repo",
+      "published": "2026-05-19T19:49:53+00:00",
+      "summary": "The agency's GitHub repository, publicly available since November 2025, was ironically named &quot;Private-CISA.&quot;",
+      "source": "DarkReading",
+      "region": "North America",
+      "country": "US",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt188d6215ae555513/6a0cb49ac7403d88c6336bf7/github_PJ_McDonnell_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
+      "id": "3326fc124d8f5c66e14e27518abf4b10a2184184",
+      "title": "Stealer Spoofs Google, Microsoft &amp; Apple, Then Backdoors macOS",
+      "url": "https://www.darkreading.com/threat-intelligence/stealer-spoofs-google-microsoft-apple-backdoors-macos",
+      "published": "2026-05-19T19:49:40+00:00",
+      "summary": "The SHub Reaper stealer, which hides behind fake WeChat and Miro installers, marks a shift from ClickFix social engineering to Apple script-based execution.",
+      "source": "DarkReading",
+      "region": "North America",
+      "country": "US",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt92862d21865d67ee/6a0c49b0d929ba87161f7f33/macOS_AfricaStudio_AlamyStockPhoto.png?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "id": "e38b8f69f48c3b9ecf7427f8f749db49f218a40f",
@@ -814,6 +858,17 @@
       "region": "North America",
       "country": "US",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt413a34f746df538e/6a0626f76111611c85c510d8/Cisco-MTP-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
+      "id": "ce4ca4e01005b632d69da225e58e254f1528d62e",
+      "title": "[Virtual Event] Anatomy of a Data Breach: What to Do if it Happens to You",
+      "url": "https://www.darkreading.com/events/anatomy-of-a-data-breach-what-to-do-if-it-happens-to-you",
+      "published": "2026-06-18T15:00:00+00:00",
+      "summary": "",
+      "source": "DarkReading",
+      "region": "North America",
+      "country": "US",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt947fd68cd895a80d/6a060e70239afa534b9406ac/DR_Anatomy_of_a_Data_Breach_Virtual_Event_2026.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "id": "b052cef943b7eb82a71d63053b013dc26493fd5e",
@@ -1157,59 +1212,37 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3c43a304b72dbf9f/69f4fa5efd88b890dc44f905/pentest_dizain_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "41e1189872b7757cb1f62cd97dabf135b196d9fe",
-      "title": "Microsoft Edge Stores Passwords in Process Memory, Posing Enterprise Risk",
-      "url": "https://www.darkreading.com/cyber-risk/microsoft-edge-passwords-enterprise-risk",
-      "published": "2026-05-05T14:57:51+00:00",
-      "summary": "A proof-of-concept exploit (PoC) shows how someone with admin privileges can exploit the issue to steal passwords, and thus use them to engage in further malicious activity.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0e4c889f98a082d1/69f9c4de2b93d911f8c512dd/Passwords-1800_designer491_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "id": "0b1b22b560356ef257ed9e618e951f2d2f823e72",
+      "title": "Microsoft shuts down illegal code-signing operation used by ransomware crims to mask their malware",
+      "url": "https://www.theregister.com/security/2026/05/19/microsoft-disrupts-alleged-malware-signing-operation-used-by-ransomware-gangs/5243013",
+      "published": "2026-05-19T21:56:18+00:00",
+      "summary": "'Thousands' of US victims, including 12+ machines owned and operated by Redmond",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=5243050&width=800"
     },
     {
-      "id": "ff123af17879d0f1380a7cccafda00882d3f18f0",
-      "title": "How the Story of a USB Penetration Test Went Viral",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/how-story-usb-penetration-test-went-viral",
-      "published": "2026-05-05T11:56:15+00:00",
-      "summary": "Two decades ago, pen tester Steve Stasiukonis caused a sensation by sprinkling rigged thumb drives around a credit union parking lot and following what curious employees did next. This episode looks back at the history-making event.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0469f94bd17817ff/6642699959fdc64aa5f9c5fa/dark-reading-confidential-logo-sq.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "id": "6bca233e6566225254562a7cea46cf45409532c9",
+      "title": "America's top cyber-defense agency left a GitHub repo open with with passwords, keys, tokens \u2013 and incredibly obvious filenames",
+      "url": "https://www.theregister.com/security/2026/05/19/americas-top-cyber-defense-agency-left-a-github-repo-open-with-with-passwords-keys-tokens-and-incredibly-obvious-filenames/5242915",
+      "published": "2026-05-19T17:49:17+00:00",
+      "summary": "I wonder what's in 'external-secret-repo-creds.yaml' and 'AWS-Workspace-Firefox-Passwords.csv'?",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=5242949&width=800"
     },
     {
-      "id": "26675d76612c05554ccf3b317b40e8fa0eba64b2",
-      "title": "Physical Cargo Theft Gets a Boost From Cybercriminals",
-      "url": "https://www.darkreading.com/cyber-risk/physical-cargo-theft-cybercriminals",
-      "published": "2026-05-04T21:38:06+00:00",
-      "summary": "Cargo theft is no longer about small groups of criminals operating on the ground, but transnational cybercriminal syndicates using access to supply chain systems to reroute goods.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1a20a00c4a995c76/69f91543b4185b753bc41213/cargo-trucks-with-containers-Siwakorn1933-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
-      "id": "5062b8648fc2df56a37c9530a88a3d3b67a5ce03",
-      "title": "RMM Tools Fuel Stealthy Phishing Campaign",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/rmm-tools-stealthy-phishing-campaign",
-      "published": "2026-05-04T20:56:34+00:00",
-      "summary": "Attackers are abusing two remote monitoring and management (RMM) tools to evade detection in a campaign that has impacted over 80 organizations so far.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf46275f28f98b091/69f8f7d214132e1bc74be18d/rmm_Digitala_World_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
-      "id": "e57c509292a0df0dc0c7526a89342e7de42974c9",
-      "title": "Exploit Cyber-Frenzy Threatens Millions via Critical cPanel Vulnerability",
-      "url": "https://www.darkreading.com/threat-intelligence/exploit-cyber-frenzy-critical-cpanel-vulnerability",
-      "published": "2026-05-04T19:14:14+00:00",
-      "summary": "Shortly after the authentication-bypass flaw was disclosed multiple proof-of-concept exploits appeared, and one researcher claims there's been zero-day activity for at least a month.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd788cf590f1679de/69f8f0d8468cc9ebbfe375b3/cpanel_IBPhotography_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "id": "b56e565f89d8f532612d83bcdbb6be73e9547a6f",
+      "title": "Clear your calendar, Drupal user: You have a critically urgent patch to install",
+      "url": "https://www.theregister.com/security/2026/05/19/drupal-warns-admins-to-brace-for-highly-critical-core-patch/5242728",
+      "published": "2026-05-19T15:56:25+00:00",
+      "summary": "The org\u2019s staying mum on the details, but Wednesday\u2019s fixes reach back to unsupported 8.9 branches",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=5242858&width=800"
     },
     {
       "id": "96d406c942e56873f6b31daf8c5e039e13090a66",
@@ -1729,39 +1762,6 @@
       "image": "https://image.theregister.com/?imageId=5222295&width=800"
     },
     {
-      "id": "537c083802d2a991fe146b28ccfeca448aab17c8",
-      "title": "UK age-gating plans risk breaking the internet, privacy groups warn",
-      "url": "https://www.theregister.com/security/2026/05/06/uk-age-gating-plans-risk-breaking-the-internet-privacy-groups-warn/5230732",
-      "published": "2026-05-06T13:03:58+00:00",
-      "summary": "Activists say ministers are targeting access rather than Big Tech's data-hungry business models",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=5230803&width=800"
-    },
-    {
-      "id": "3a18d912bcb15f25cc7c89bec32a1c2662e73fef",
-      "title": "India orders infosec red alert in case Mythos sparks crime spree",
-      "url": "https://www.theregister.com/security/2026/05/06/india-orders-infosec-red-alert-in-case-mythos-sparks-crime/5224961",
-      "published": "2026-05-06T02:32:56+00:00",
-      "summary": "Securities regulator urges market players to develop new strategies and nail cyber-basics before AI models fuel mass attacks",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=257475&width=800"
-    },
-    {
-      "id": "c2dad156d7df751dae916eaca4e20129f4689a67",
-      "title": "ServiceNow clears agents for landing with new AI control tower",
-      "url": "https://www.theregister.com/software/2026/05/05/servicenow-adds-agent-kill-switches-to-ai-control-tower/5228579",
-      "published": "2026-05-05T17:00:10+00:00",
-      "summary": "ServiceNow acquisitions Veza and Traceloop join to monitor agents and AI workflows",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=5228864&width=800"
-    },
-    {
       "id": "94138721a3a5194919ce144a496ac0f5dc5ee0c1",
       "title": "CISA Admin Leaked AWS GovCloud Keys on Github",
       "url": "https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/",
@@ -1812,6 +1812,39 @@
       "published": "2026-04-21T14:53:59+00:00",
       "summary": "A 24-year-old British national and senior member of the cybercrime group \"Scattered Spider\" has pleaded guilty to wire fraud conspiracy and aggravated identity theft. Tyler Robert Buchanan admitted his role in a series of text-message phishing attacks in the summer of 2022 that allowed the group to hack into at least a dozen major technology companies and steal tens of millions of dollars worth of cryptocurrency from investors.",
       "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "19168e56d7c4bab598ebb35835a689cf00860100",
+      "title": "Verizon DBIR 2026: Vulnerability Exploitation Overtakes Credential Theft as Top Breach Vector",
+      "url": "https://www.securityweek.com/verizon-dbir-2026-vulnerability-exploitation-overtakes-credential-theft-as-top-breach-vector/",
+      "published": "2026-05-20T00:04:48+00:00",
+      "summary": "<p>Verizon\u2019s 2026 DBIR finds vulnerability exploitation has overtaken credential abuse as the leading breach vector, as AI accelerates attacks, patching delays worsen, and ransomware and third-party compromises continue to surge.</p>\n<p>The post <a href=\"https://www.securityweek.com/verizon-dbir-2026-vulnerability-exploitation-overtakes-credential-theft-as-top-breach-vector/\">Verizon DBIR 2026: Vulnerability Exploitation Overtakes Credential Theft as Top Breach Vector</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "30e718e4b93242bf380205405a26fb7f75c90e8b",
+      "title": "Drupal to Patch Highly Critical Vulnerability at Risk of Quick Exploitation",
+      "url": "https://www.securityweek.com/drupal-to-patch-highly-critical-vulnerability-at-risk-of-quick-exploitation/",
+      "published": "2026-05-19T16:22:18+00:00",
+      "summary": "<p>Drupal says attackers may develop an exploit for the vulnerability within hours or days.</p>\n<p>The post <a href=\"https://www.securityweek.com/drupal-to-patch-highly-critical-vulnerability-at-risk-of-quick-exploitation/\">Drupal to Patch Highly Critical Vulnerability at Risk of Quick Exploitation</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "0cf3f12af3c1b7980dc87ac2ce770fa7923a6117",
+      "title": "Microsoft Disrupts Malware-Signing Service Run by \u2018Fox Tempest\u2019",
+      "url": "https://www.securityweek.com/microsoft-disrupts-malware-signing-service-run-by-fox-tempest/",
+      "published": "2026-05-19T16:06:22+00:00",
+      "summary": "<p>\u202fFox Tempest provides a service that cybercriminals use to distribute ransomware and other malware disguised as legitimate software.</p>\n<p>The post <a href=\"https://www.securityweek.com/microsoft-disrupts-malware-signing-service-run-by-fox-tempest/\">Microsoft Disrupts Malware-Signing Service Run by &#8216;Fox Tempest&#8217;\u00a0</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
@@ -1888,39 +1921,6 @@
       "url": "https://www.securityweek.com/critical-vulnerability-exposes-industrial-robot-fleets-to-hacking/",
       "published": "2026-05-19T06:18:51+00:00",
       "summary": "<p>The vulnerability, CVE-2026-8153, affects Universal Robots PolyScope 5 and it can be exploited for OS command injection.\u00a0</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-vulnerability-exposes-industrial-robot-fleets-to-hacking/\">Critical Vulnerability Exposes Industrial Robot Fleets to Hacking</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "87f3a1f858eb96e15424c5b98f6e9f21c8bf282d",
-      "title": "Millions Impacted Across Several US Healthcare Data Breaches",
-      "url": "https://www.securityweek.com/millions-impacted-across-several-us-healthcare-data-breaches/",
-      "published": "2026-05-18T12:58:44+00:00",
-      "summary": "<p>Several healthcare data breaches impacting hundreds of thousands and even millions were added to the HHS tracker.</p>\n<p>The post <a href=\"https://www.securityweek.com/millions-impacted-across-several-us-healthcare-data-breaches/\">Millions Impacted Across Several US Healthcare Data Breaches</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "46748b49ffacb405cafb7e1f3e1686235e9f8c2e",
-      "title": "\u2018Claw Chain\u2019 OpenClaw Flaws Allow Sandbox Escape, Backdoor Delivery",
-      "url": "https://www.securityweek.com/claw-chain-openclaw-flaws-allow-sandbox-escape-backdoor-delivery/",
-      "published": "2026-05-18T12:14:43+00:00",
-      "summary": "<p>Four vulnerabilities in OpenClaw can be chained together to steal credentials, escape the sandbox, and plant persistent backdoors.</p>\n<p>The post <a href=\"https://www.securityweek.com/claw-chain-openclaw-flaws-allow-sandbox-escape-backdoor-delivery/\">&#8216;Claw Chain&#8217; OpenClaw Flaws Allow Sandbox Escape, Backdoor Delivery</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "5f7f0860b1144a72575c27d672d25fd8083721db",
-      "title": "7-Eleven Data Breach Confirmed After ShinyHunters Ransom Demand",
-      "url": "https://www.securityweek.com/7-eleven-data-breach-confirmed-after-shinyhunters-ransom-demand/",
-      "published": "2026-05-18T11:25:54+00:00",
-      "summary": "<p>The hackers claimed to have stolen more than 600,000 Salesforce records, including personal information and corporate data.\u00a0</p>\n<p>The post <a href=\"https://www.securityweek.com/7-eleven-data-breach-confirmed-after-shinyhunters-ransom-demand/\">7-Eleven Data Breach Confirmed After ShinyHunters Ransom Demand</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
