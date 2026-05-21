@@ -1,6 +1,39 @@
 {
-  "generated_at": "2026-05-20T14:26:17.541153+00:00",
+  "generated_at": "2026-05-21T01:54:25.691356+00:00",
   "items": [
+    {
+      "id": "c9b44cdd4db4a75453674ec3fba0b1f7fce756f6",
+      "title": "7-Eleven hit by data breach",
+      "url": "https://www.cybersecuritydive.com/news/7-eleven-cyberattack-franchisee-data/820698/",
+      "published": "2026-05-20T14:57:00+00:00",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/prLI76tSrPvKIxQZAEAQqeoJslYslJvNrrg3NMTooOM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS83RV9uZXdfc3RhbmRhcmRfb3V0X2Zyb250LmpwZw==.webp\" /></div></figure><p>The retailer confirmed that an unauthorized third party gained access to certain systems used to store franchisee documents earlier this spring.</p>",
+      "source": "Cybersecurity Dive",
+      "region": "North America",
+      "country": "US",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "a82e76eecaee240ffefb3bd99417b08f70c4a6f2",
+      "title": "Microsoft disrupts cybercrime operation that hid behind legitimate software",
+      "url": "https://www.cybersecuritydive.com/news/microsoft-disrupts-cybercrime-hid-legitimate-software/820724/",
+      "published": "2026-05-20T14:48:29+00:00",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/ohJtMBfSGKPS9l_wb8SifrZkqFDT-35YyKPswWzuI3A/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy04MDgxNTc4MzIuanBn.webp\" /></div></figure><p>The Fox Tempest malware-signing-as-a-service operation was linked to numerous ransomware attacks.</p>",
+      "source": "Cybersecurity Dive",
+      "region": "North America",
+      "country": "US",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "762dc68eef72de4e165fbde04fd4ced673df3115",
+      "title": "Compromised coding tool helped hackers breach thousands of GitHub repositories",
+      "url": "https://www.cybersecuritydive.com/news/github-hacked-repository-data/820722/",
+      "published": "2026-05-20T14:43:31+00:00",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/AHSQLHBuFt4CyOiOJ6aGMLli05m53esIYQslrqZ4Q1A/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMDMyNzA5ODM5LmpwZw==.webp\" /></div></figure><p>The attack is the latest example of hackers&rsquo; intense focus on open-source packages.</p>",
+      "source": "Cybersecurity Dive",
+      "region": "North America",
+      "country": "US",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
     {
       "id": "ad45f24149514858d73d52ea4ade71d8c105d77a",
       "title": "Telecom sector launches its own private ISAC",
@@ -79,37 +112,26 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "b8ea2118ae9f7b686f749f8c90c9e7316f888674",
-      "title": "Frontier AI models reap rapid discovery of security vulnerabilities",
-      "url": "https://www.cybersecuritydive.com/news/frontier-ai-rapid-discovery-security-vulnerabilities/820258/",
-      "published": "2026-05-14T15:28:29+00:00",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/gCOJ_EwNreGTTTl9g9gZuHo047GIYZ66wEPdILb7MFU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9hZ2VudGljX0FJX2ltYWdlLmpwZw==.webp\" /></div></figure><p>Security teams have just a few months before AI-driven exploitation becomes the norm, researchers warn.</p>",
-      "source": "Cybersecurity Dive",
+      "id": "03ee68797a7d971cfbb4e23ae5dc49cddab2057d",
+      "title": "Microsoft Open-Sources RAMPART and Clarity to Secure AI Agents During Development",
+      "url": "https://thehackernews.com/2026/05/microsoft-open-sources-rampart-and.html",
+      "published": "2026-05-20T17:06:54+00:00",
+      "summary": "Microsoft has unveiled two new open-source tools called RAMPART and Clarity to assist developers in better testing the security of artificial intelligence (AI) agents.\n\nRAMPART, short for Risk Assessment and Measurement Platform for Agentic Red Teaming, functions as a Pytest-native safety and security testing framework for writing and running safety and security tests for AI agents, covering",
+      "source": "The Hacker News",
       "region": "North America",
       "country": "US",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPuhFp_KGzG3yZEzqIYh-at7Dm3vg4_QX97ilaSXDjsUbfhU7KCmRS-uQ2UrV9D855Nvy8HcBDKe25VMT63dfyzh-B2bzSx649SJQSQhL3bfm4Eitv4KLW4PhzRfE1HvoFOFDu2bB4alNLTFzvr6_IkKWjqxShcuWytNgDR4b3wR1xGE6z06xSyWo6NVg3/s1600/ms-tools.jpg"
     },
     {
-      "id": "bd04d31f1be909e37553e2e5c84d5d5229fc09a1",
-      "title": "West Pharmaceutical starts restoring operations after ransomware attack",
-      "url": "https://www.cybersecuritydive.com/news/west-pharmaceutical-restoring-operations-ransomware-attack/820250/",
-      "published": "2026-05-14T14:46:36+00:00",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/ASriUTXYU57UTRsGa3uHudK6MLnQNX56KJ_GYOScOw8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy04MTc0ODYxNzQuanBn.webp\" /></div></figure><p>The company confirmed data was stolen and encrypted by the attackers.</p>",
-      "source": "Cybersecurity Dive",
+      "id": "d16cd19af560364ece692051155d7b8a56ed6a92",
+      "title": "Microsoft Takes Down Malware-Signing Service Behind Ransomware Attacks",
+      "url": "https://thehackernews.com/2026/05/microsoft-takes-down-malware-signing.html",
+      "published": "2026-05-20T14:36:44+00:00",
+      "summary": "Microsoft on Tuesday said it disrupted a malware-signing-as-a-service (MSaaS) operation that weaponized the company's Artifact Signing system to deliver malicious code and conduct ransomware and other attacks, compromising thousands of machines and networks across the world.\n\nThe tech giant attributed the activity to a threat actor it calls Fox Tempest, which it said offered the MSaaS scheme",
+      "source": "The Hacker News",
       "region": "North America",
       "country": "US",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "876a7f822f195a13cc74279a4e62098ed0773874",
-      "title": "Foxconn confirms cyberattack affecting some North American facilities",
-      "url": "https://www.cybersecuritydive.com/news/foxconn-confirms-cyberattack-affecting-some-north-american-facilities/820120/",
-      "published": "2026-05-13T15:13:44+00:00",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/YOaeM189qXJ1uGUIoGBsPuo5qeVlJHebu4M7nP8xaHE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9mb3hjb25uX3dpc2NvbnNpbl9wbGFudC5qcGc=.webp\" /></div></figure><p>A ransomware group has claimed a major attack against the electronics manufacturer.</p>",
-      "source": "Cybersecurity Dive",
-      "region": "North America",
-      "country": "US",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiypJnCUStqk0SRgnT6bFPLXM9F10uUBgEZgGScKH8lNthkNnD4zP2-CBNIvo2eukKJzGKOs7RFjIq1KmR-pIGFT3pFS1wgz8ySDW7O9OaMkAHXSaZvHSP_Y2JxqGgkdbCLXcn-VZOYwirKa9gU7FqEZXDafHhgxupVx6cuJam1wsnjq3qjz7q36GlvirT/s1600/windows-ransomware.jpg"
     },
     {
       "id": "a5f16b1002f7ec21239c97c727a18ac119b6b6bf",
@@ -640,26 +662,59 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrSn3emm_NbwXDi3elR0wo5ErHhg-gPT4-u4zk7MHZg4u0ruMmj2_KGgPF8fz06Riv6Gu5NXMN3eBP8H5bVf6dmvOz-lvb-qrvhLlssLUzl97ZVmIWoIOmMPOGrupv864dt0d4V_dxgaaxYYNuy2z9rbZMWIOcjlwZaiifq4-ktRqlEBCJ6a_m3MFiwq65/s1600/exim.jpg"
     },
     {
-      "id": "6bced755ddba6291731ab6c82a780d69350faeea",
-      "title": "RubyGems Suspends New Signups After Hundreds of Malicious Packages Are Uploaded",
-      "url": "https://thehackernews.com/2026/05/rubygems-suspends-new-signups-after.html",
-      "published": "2026-05-12T14:47:00+00:00",
-      "summary": "RubyGems, the standard package manager for the Ruby programming language, has temporarily paused account sign ups following what has been described as a \"major malicious attack.\"\n\"We're dealing with a major malicious attack on RubyGems right now,\" Maciej Mensfeld, senior product manager for software supply chain security at Mend.io, said in a post on X. \"Signups are paused for the time being.",
-      "source": "The Hacker News",
+      "id": "e133b597c11b03850dee918f651e233eedb47a88",
+      "title": "Cyber Pros Can't Decide If AI Is a Good or a Bad Thing",
+      "url": "https://www.darkreading.com/cybersecurity-analytics/cyber-pros-ai",
+      "published": "2026-05-20T20:52:25+00:00",
+      "summary": "There is nothing cybersecurity professionals are more excited about, and nothing they fear more, than AI.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggIbYm86Vn45Nd86Hd5IEqHufRIS5Ud3spGUy5JWHy-My-NBVocyj-aR7E3gBKibPnrWd5DRYnDfmbaHUMuaYcNn_paUIDN11VLySLNUsXwFwVIALsNo419985zWvtepK7NVp9J4W3d7uHGWkQFgqI6zY_9Y5LWe5hsTLk-c9ZMKQ4TDlUMcMh8-_vhdIH/s1600/rubygems.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2c0354b9fcf6985f/6a0e106f7896f1466e6adf8e/Star_Wars-John_Bingham-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "4340e9c3f0587ed7c0b738bc3dedde5ebe513ab2",
-      "title": "New TrickMo Variant Uses TON C2 and SOCKS5 to Create Android Network Pivots",
-      "url": "https://thehackernews.com/2026/05/new-trickmo-variant-uses-ton-c2-and.html",
-      "published": "2026-05-12T12:50:00+00:00",
-      "summary": "Cybersecurity researchers have flagged a new version of the TrickMo Android banking trojan that uses The Open Network (TON) for command-and-control (C2).\nThe new variant, observed by ThreatFabric between January and February 2026, has been observed actively targeting banking and cryptocurrency wallet users in France, Italy, and Austria.\n\"TrickMo relies on a runtime-loaded APK&nbsp; (dex.module),",
-      "source": "The Hacker News",
+      "id": "be4c122daeb67679d8fca5c8b9f99543b2371146",
+      "title": "GitHub Confirms Breach, 4K Internal Repos Stolen",
+      "url": "https://www.darkreading.com/application-security/github-confirms-breach-4k-internal-repos-stolen",
+      "published": "2026-05-20T20:51:32+00:00",
+      "summary": "Open source software giant GitHub confirmed a data breach this week involving the theft of thousands of repos. One threat actor \u2014 TeamPCP \u2014 took credit.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbBy7H5qvorFUmJqREACqqxVC0ogVq88dP8wLyKyUPF9fCowpUSkb7foEsEPDALt0ccCpcJc6PXCJjFmQo0oX3furU-cYPULBa0-pjpiLGV04JD6kr4G0VIrvFoJo54WmgjU1YocsquA15N3hxDmwt4i82QpYdil7F4fI0SMFVv9YCkbqqGKjIi-dEmcIx/s1600/tricks.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt14b264d36a8b1972/6a0e0edae87cf56bc17d8b98/GitHub_Octocat_logo_Sundry_Photography_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
+      "id": "30e22c47f338c1d81fb4e6416cdfd2d1a554816a",
+      "title": "Fake Android Apps Commit Carrier Billing Fraud for Premium Svcs.",
+      "url": "https://www.darkreading.com/mobile-security/fake-android-apps-carrier-billing-fraud",
+      "published": "2026-05-20T20:35:35+00:00",
+      "summary": "The disguised apps use WebView automation, JavaScript injection, and OTP interception to avoid detection and complete fraudulent subscriptions.",
+      "source": "DarkReading",
+      "region": "North America",
+      "country": "US",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3de65670685255f7/6a0e1b5c27e92be2fabee02d/android_Stockinq_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
+      "id": "c88a39f7ba8d49421036e3896c1e32e1fe7fe80f",
+      "title": "Processes and Culture Top Reasons Behind Data Breaches",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/processes-and-culture-top-reasons-behind-data-breaches",
+      "published": "2026-05-20T17:42:30+00:00",
+      "summary": "Government leaders revealed that, in spite of state laws meant to improve cyber hygiene, an analysis of incidents showed issues persist and visibility falls short.",
+      "source": "DarkReading",
+      "region": "North America",
+      "country": "US",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt15c2853fa69a58ba/673f45b5df958859a25544ab/Breach_(1800)_Brain_light_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
+      "id": "0b48ff58bae24496c06351bd985ec302a123bbe6",
+      "title": "Patch Now: Critical Flaw in OT Robot OS Gives Attackers Control",
+      "url": "https://www.darkreading.com/ics-ot-security/patch-now-critical-flaw-ot-robot-os",
+      "published": "2026-05-20T16:12:08+00:00",
+      "summary": "An unauthenticated attacker can exploit the command injection vulnerability to gain remote access to robotic systems, causing significant disruption to the environment.",
+      "source": "DarkReading",
+      "region": "North America",
+      "country": "US",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7b8562594e40786d/6a0d83f54c91d13579cb3c25/robot-safety-cage-gen_A-AdobeStock.png?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "id": "a8d85b1759f69fb98c1fb800f9689f48d4e9473f",
@@ -710,7 +765,7 @@
       "title": "Verizon DBIR: Enterprises Face a Dangerous Vulnerability Glut",
       "url": "https://www.darkreading.com/threat-intelligence/verizon-dbir-enterprises-vulnerability-glut",
       "published": "2026-05-19T21:55:35+00:00",
-      "summary": "Verizon's &quot;2026 Data Breach Investigations Report&quot; (&quot;DBIR&quot;) finds that exploits are now involved in 31% of initial access for breaches, while patching lags too far behind the bad guys.",
+      "summary": "Verizon's 2026 Data Breach Investigations Report (DBIR) finds that exploits are now involved in 31% of initial access for breaches, while patching lags too far behind the bad guys.",
       "source": "DarkReading",
       "region": "North America",
       "country": "US",
@@ -1146,17 +1201,6 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd78672b4ab1bba5b/69fbad02074d2d799822412b/CISA_Timon_Schneider_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "1bd9529de4bcb261d6d089b74423d89126274a38",
-      "title": "'TrustFall' Convention Exposes Claude Code Execution Risk",
-      "url": "https://www.darkreading.com/application-security/trustfall-exposes-claude-code-execution-risk",
-      "published": "2026-05-07T13:00:00+00:00",
-      "summary": "Malicious repositories can trigger code execution in Claude Code, Cursor CLI, Gemini CLI, and CoPilot CLI with minimal or no user interaction, thanks to skimpy warning dialogs.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3ca377db822451a1/69fa57f81032fe21f456f521/claude_Samuel_Boivin_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
       "id": "ea779afcd9a9f77d8ac49521df963c6b975ce2f0",
       "title": "AI-Driven Cyberattack on Mexico Couldn't Breach OT Systems",
       "url": "https://www.darkreading.com/ics-ot-security/worlds-first-ai-driven-cyberattack-couldnt-breach-ot-systems",
@@ -1168,48 +1212,15 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt98fa61979c1de1b0/69fb95aa4f86c99808c8fc96/Faucet-Steven_Liveoak-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "1bca86755ac7639ae49a6335cbe1d8ab69326642",
-      "title": "VoidStealer Malware Darts Past Google Chrome's Encryption",
-      "url": "https://www.darkreading.com/endpoint-security/yet-another-way-bypass-google-chromes-encryption-protection",
-      "published": "2026-05-06T21:19:11+00:00",
-      "summary": "Authors of the VoidStealer Trojan uncovered yet another way to get around Google's App-Bound Encryption (ABE), opening the door to infostealers.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0b9267d0fd783b29/69fba7aa14132e45944be6c4/cookies_izzuanroslan_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
-      "id": "056ff638ef15cccae071cd19a0355d63ed97eed3",
-      "title": "Instructure Breach Exposes Schools' Vendor Dependence",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/instructure-breach-exposes-schools-vendor-dependence",
-      "published": "2026-05-06T21:02:57+00:00",
-      "summary": "ShinyHunters' attack on Instructure, which owns the widely used Canvas learning management system (LMS), carries big questions about the trust educational institutions put into their vendors.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc313eec07f19bb91/69fb990fce7a03313d4341a4/Instructure_Timon_Schneider_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
-      "id": "d40e966e1067ed77b1e7a8149f33d4e2bf8e5e6b",
-      "title": "From Stuxnet to ChatGPT: 20 News Events That Shaped Cyber",
-      "url": "https://www.darkreading.com/threat-intelligence/stuxnet-chatgpt-20-news-events-cyber",
-      "published": "2026-05-06T12:00:00+00:00",
-      "summary": "As part of its 20th anniversary celebration, Dark Reading looks back on 20 of the biggest newsmaking events from the past two decades that influenced the risk landscape for today's cybersecurity teams.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9677f673333f2cf1/69fa1c7e14132e49be4be3e1/20-Ink_Drop-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
-      "id": "b167e2785e70e2701c4b406eb308e59b9cafbde3",
-      "title": "Attacks Abuse Windows Phone Link to Steal Texts &amp; Bypass 2FA",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/attacks-abuse-windows-phone-link-texts-bypass-2fa",
-      "published": "2026-05-06T10:30:27+00:00",
-      "summary": "In hard-to-detect attacks, hackers are dropping the CloudZ RAT and a fresh plug-in, Pheno, to hijack the Windows-based bridge between PCs and smartphones.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1e09d5a76fa90123/69fb1b614f86c9e600c8fbcf/smartphone_warning_Mohd_Izzuan_Roslan_Alamy.png?width=1280&auto=webp&quality=80&disable=upscale"
+      "id": "6a57f659c0fdb5cf29af278747df4b41118b5bd9",
+      "title": "Even Claude agrees: hole in its sandbox was real and dangerous",
+      "url": "https://www.theregister.com/security/2026/05/20/even-claude-agrees-hole-in-its-sandbox-was-real-and-dangerous/5243662",
+      "published": "2026-05-20T20:34:15+00:00",
+      "summary": "Another day, another AI bug silently fixed with no CVE and no public disclosure",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=224154&width=800"
     },
     {
       "id": "da442f075fd5cad229ba127cd3b65a34f03e8358",
@@ -1245,9 +1256,9 @@
       "image": "https://image.theregister.com/?imageId=5243050&width=800"
     },
     {
-      "id": "6bca233e6566225254562a7cea46cf45409532c9",
-      "title": "America's top cyber-defense agency left a GitHub repo open with with passwords, keys, tokens \u2013 and incredibly obvious filenames",
-      "url": "https://www.theregister.com/security/2026/05/19/americas-top-cyber-defense-agency-left-a-github-repo-open-with-with-passwords-keys-tokens-and-incredibly-obvious-filenames/5242915",
+      "id": "3b402c86360f74956a2a07b4c3ba60f19b6e6f91",
+      "title": "America's top cyber-defense agency left a GitHub repo open with passwords, keys, tokens \u2013 and incredibly obvious filenames",
+      "url": "https://www.theregister.com/security/2026/05/19/americas-top-cyber-defense-agency-left-a-github-repo-open-with-passwords-keys-tokens-and-incredibly-obvious-filenames/5242915",
       "published": "2026-05-19T17:49:17+00:00",
       "summary": "I wonder what's in 'external-secret-repo-creds.yaml' and 'AWS-Workspace-Firefox-Passwords.csv'?",
       "source": "The Register \u2013 Security",
@@ -1751,17 +1762,6 @@
       "image": "https://image.theregister.com/?imageId=5231249&width=800"
     },
     {
-      "id": "e980ba13ccc4f7a670d5946aed79e00e2d7507c4",
-      "title": "Arctic Wolf kicks 250 employees out of the pack to save money for AI",
-      "url": "https://www.theregister.com/ai-and-ml/2026/05/06/arctic-wolf-cuts-250-jobs-in-ai-push/5231213",
-      "published": "2026-05-06T18:20:00+00:00",
-      "summary": "Cuts appear to hit sales, product, and marketing, accounting for under 10% of staff",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=5231225&width=800"
-    },
-    {
       "id": "94138721a3a5194919ce144a496ac0f5dc5ee0c1",
       "title": "CISA Admin Leaked AWS GovCloud Keys on Github",
       "url": "https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/",
@@ -1812,6 +1812,39 @@
       "published": "2026-04-21T14:53:59+00:00",
       "summary": "A 24-year-old British national and senior member of the cybercrime group \"Scattered Spider\" has pleaded guilty to wire fraud conspiracy and aggravated identity theft. Tyler Robert Buchanan admitted his role in a series of text-message phishing attacks in the summer of 2022 that allowed the group to hack into at least a dozen major technology companies and steal tens of millions of dollars worth of cryptocurrency from investors.",
       "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "b63726f9f1b2d1232adc865786b69679907d02a2",
+      "title": "Quantum Bridge Raises $8 Million for Quantum-Safe Key Distribution Solution",
+      "url": "https://www.securityweek.com/quantum-bridge-raises-8-million-for-quantum-safe-key-distribution-solution/",
+      "published": "2026-05-20T15:45:07+00:00",
+      "summary": "<p>The new Series A funding round brings the total raised by Quantum Bridge to $16 million.\u00a0</p>\n<p>The post <a href=\"https://www.securityweek.com/quantum-bridge-raises-8-million-for-quantum-safe-key-distribution-solution/\">Quantum Bridge Raises $8 Million for Quantum-Safe Key Distribution Solution</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "bea67c8e0654ff29250335bf520c4ab718af610e",
+      "title": "Microsoft Rolls Out Mitigations for \u2018YellowKey\u2019 BitLocker Bypass",
+      "url": "https://www.securityweek.com/microsoft-rolls-out-mitigations-for-yellowkey-bitlocker-bypass/",
+      "published": "2026-05-20T15:39:00+00:00",
+      "summary": "<p>The exploitation is mitigated by preventing the FsTx Auto Recovery Utility from starting when the WinRE image launches.</p>\n<p>The post <a href=\"https://www.securityweek.com/microsoft-rolls-out-mitigations-for-yellowkey-bitlocker-bypass/\">Microsoft Rolls Out Mitigations for &#8216;YellowKey&#8217; BitLocker Bypass</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "494472a8bec6357353229d03e6329aba04eee6e1",
+      "title": "AI-Powered App Attacks Are Faster, More Frequent and Harder to Stop",
+      "url": "https://www.securityweek.com/ai-powered-app-attacks-are-faster-more-frequent-and-harder-to-stop/",
+      "published": "2026-05-20T14:37:36+00:00",
+      "summary": "<p>Digital.ai\u2019s latest threat report warns that agentic AI has erased the distinction between emerging and primary targets, enabling attackers to strike mobile apps within hours of release across every industry.</p>\n<p>The post <a href=\"https://www.securityweek.com/ai-powered-app-attacks-are-faster-more-frequent-and-harder-to-stop/\">AI-Powered App Attacks Are Faster, More Frequent and Harder to Stop</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
@@ -1888,39 +1921,6 @@
       "url": "https://www.securityweek.com/github-confirms-hack-impacting-3800-internal-repositories/",
       "published": "2026-05-20T09:28:53+00:00",
       "summary": "<p>The TeamPCP hacking group accessed the repositories after a GitHub employee installed a poisoned VS Code extension.</p>\n<p>The post <a href=\"https://www.securityweek.com/github-confirms-hack-impacting-3800-internal-repositories/\">GitHub Confirms Hack Impacting 3,800 Internal Repositories</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "19168e56d7c4bab598ebb35835a689cf00860100",
-      "title": "Verizon DBIR 2026: Vulnerability Exploitation Overtakes Credential Theft as Top Breach Vector",
-      "url": "https://www.securityweek.com/verizon-dbir-2026-vulnerability-exploitation-overtakes-credential-theft-as-top-breach-vector/",
-      "published": "2026-05-20T00:04:48+00:00",
-      "summary": "<p>Verizon\u2019s 2026 DBIR finds vulnerability exploitation has overtaken credential abuse as the leading breach vector, as AI accelerates attacks, patching delays worsen, and ransomware and third-party compromises continue to surge.</p>\n<p>The post <a href=\"https://www.securityweek.com/verizon-dbir-2026-vulnerability-exploitation-overtakes-credential-theft-as-top-breach-vector/\">Verizon DBIR 2026: Vulnerability Exploitation Overtakes Credential Theft as Top Breach Vector</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "30e718e4b93242bf380205405a26fb7f75c90e8b",
-      "title": "Drupal to Patch Highly Critical Vulnerability at Risk of Quick Exploitation",
-      "url": "https://www.securityweek.com/drupal-to-patch-highly-critical-vulnerability-at-risk-of-quick-exploitation/",
-      "published": "2026-05-19T16:22:18+00:00",
-      "summary": "<p>Drupal says attackers may develop an exploit for the vulnerability within hours or days.</p>\n<p>The post <a href=\"https://www.securityweek.com/drupal-to-patch-highly-critical-vulnerability-at-risk-of-quick-exploitation/\">Drupal to Patch Highly Critical Vulnerability at Risk of Quick Exploitation</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "0cf3f12af3c1b7980dc87ac2ce770fa7923a6117",
-      "title": "Microsoft Disrupts Malware-Signing Service Run by \u2018Fox Tempest\u2019",
-      "url": "https://www.securityweek.com/microsoft-disrupts-malware-signing-service-run-by-fox-tempest/",
-      "published": "2026-05-19T16:06:22+00:00",
-      "summary": "<p>\u202fFox Tempest provides a service that cybercriminals use to distribute ransomware and other malware disguised as legitimate software.</p>\n<p>The post <a href=\"https://www.securityweek.com/microsoft-disrupts-malware-signing-service-run-by-fox-tempest/\">Microsoft Disrupts Malware-Signing Service Run by &#8216;Fox Tempest&#8217;\u00a0</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
