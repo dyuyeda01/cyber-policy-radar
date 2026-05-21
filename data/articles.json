@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-21T01:54:25.691356+00:00",
+  "generated_at": "2026-05-21T14:32:10.599791+00:00",
   "items": [
     {
       "id": "c9b44cdd4db4a75453674ec3fba0b1f7fce756f6",
@@ -112,6 +112,72 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "352bdf77cae749f1a3edb4c91f4afaf35745d5b6",
+      "title": "ThreatsDay Bulletin: Linux Rootkits, Router 0-Day, AI Intrusions, Scam Kits and 25 New Stories",
+      "url": "https://thehackernews.com/2026/05/threatsday-bulletin-linux-rootkits.html",
+      "published": "2026-05-21T11:52:14+00:00",
+      "summary": "This week starts small.\n\nA token leaks. A bad package slips in. A login trick works. An old tool shows up again. At first, it feels like the usual mess. Then you see the pattern: attackers are not always breaking in. They are using the parts we already trust.\n\nThat is what makes it worrying. The danger is in normal things now - updates, apps, cloud buttons, support chats, trusted accounts. AI",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifIiAs3r9mSWAyNYngQby6QllKy0gx1dGJB4MNtgMjRQLUIkp7-fr851xuTEe6-izLAtNHux1PgdVBiWmEQctN2QM1bzV_CP0bcR7_ReqHg-lXrDa-EqUsZAUgC8da72h6tdbZU6H8nWMzAfZEItMY49Big4dpxtSHr5r7sgm7W01mhA31E274dUfWBHMi/s1600/tday.png"
+    },
+    {
+      "id": "656eec434cef8cddc184969afa02206bed8b22be",
+      "title": "Microsoft Warns of Two Actively Exploited Defender Vulnerabilities",
+      "url": "https://thehackernews.com/2026/05/microsoft-warns-of-two-actively.html",
+      "published": "2026-05-21T10:55:57+00:00",
+      "summary": "Microsoft has disclosed that a privilege escalation and a denial-of-service flaw in Defender has come under active exploitation in the wild.\n\nThe former, tracked as CVE-2026-41091, is rated 7.8 on the CVSS scoring system. Successful exploitation of the flaw could allow an attacker to gain SYSTEM privileges.\n\n\"Improper link resolution before file access ('link following') in Microsoft Defender",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNxp-fCwFOYcXoyRTmhjpwfvFCjfE36YoU8z-7es2XrOajnfSfpttiB9KMfwqCNbwzHQ85kILhlUwo4DeQFWXFq29J8p_oVAIe-gKCCegmTid4YW_22sK6CQO_TwELXa7Z-RZmvDvHx7N3Vg7y-xm78iSGjzCg2AU3FnHo1Hp7v80JJkBruCc05JVvVwnx/s1600/windows-defender.jpg"
+    },
+    {
+      "id": "677ad7451ccf5984547cb943739ff03386961391",
+      "title": "When Identity is the Attack Path",
+      "url": "https://thehackernews.com/2026/05/when-identity-is-attack-path.html",
+      "published": "2026-05-21T10:30:00+00:00",
+      "summary": "Consider a cached access key on a single Windows machine. It got there the way most cached credentials do - a user logged in, and the key stored itself automatically. Standard AWS behavior. No one misconfigured anything or violated a policy. Yet that single key, which was easily accessible to a minor-league attacker, could have opened a path to some 98% of entities in the company's cloud",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgv9W2lSuCdHjvqeLUN5WtqUOgCwe2FAyP1Y_z4oUr1LgM1MdOE5A83gkzSOfGjIosfdlfB4SuLbeVbydeuParENW4MH2aWYuWqnB-DeOd7gC3RJnp7wFucmuinh9kiMBI99337kQYcBrlIX-WH3u204eu7FTy5b_gpkXC6ZHupWD3P60yFk4-2DUrTuuc/s1600/xmxm.jpg"
+    },
+    {
+      "id": "ab00d989810bc9f58b5be76bd2a512669c0cf94a",
+      "title": "9-Year-Old Linux Kernel Flaw Enables Root Command Execution on Major Distros",
+      "url": "https://thehackernews.com/2026/05/9-year-old-linux-kernel-flaw-enables.html",
+      "published": "2026-05-21T07:35:53+00:00",
+      "summary": "Cybersecurity researchers have disclosed details of a vulnerability in the Linux kernel that remained undetected for nine years.\n\nThe vulnerability, tracked as CVE-2026-46333 (CVSS score: 5.5), is a case of improper privilege management that could permit an unprivileged local user to disclose sensitive files and execute arbitrary commands as root on default installations of several major",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCjgJwva2lZrAwxHWPZFiphHAhxBdWRyU4gUiAZIStkUP4JU6yej3Z1xVhUtrhaIYVu4IL5KpvOomBDHU_aLtvgHV-R9_41nUSrngG0BGBlCv2pByfkVZNKxmwA3Nf6NR7pi6XgwdUjkwFw27lm_vNR_w2Cr1An46yOM8kfIEphrSCq2aRcaKNNj9D-PiN/s1600/linux-exploit.gif"
+    },
+    {
+      "id": "4db825ca2508a675d1f24228103f650ad18061fd",
+      "title": "GitHub Internal Repositories Breached via Malicious Nx Console VS Code Extension",
+      "url": "https://thehackernews.com/2026/05/github-internal-repositories-breached.html",
+      "published": "2026-05-21T04:27:01+00:00",
+      "summary": "GitHub on Wednesday officially confirmed that the breach of its internal repositories was the result of a compromise of an employee device involving a poisoned version of the Nx Console Microsoft Visual Studio Code (VS Code) extension.&nbsp;\n\nThe development comes as the Nx team revealed that the extension, nrwl.angular-console, was breached after one of its developers' systems was hacked in the",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJ64wgVqZTQx208NgY0sBvUUQcR5mb-G4ENkfw4PEX9KlJJxEI_uUKQvPG0rReXB4chZ3wXrvNSR1QsrK525DDHkzY9X3nQYduh36qKTyC-k4EfixFeOU7YR1mRIw8ZJL-oYN8k_wwBid2GU8NYJtCqEFLOSzomuu-Xx7yA3Djim0nq79RyoZJs6HGga_H/s1600/github-hacked.jpg"
+    },
+    {
+      "id": "a3751dbba3ed7d0b18dd5eddc57f136d2ff6cfc7",
+      "title": "Highly Critical Drupal Core Flaw Exposes PostgreSQL Sites to RCE Attacks",
+      "url": "https://thehackernews.com/2026/05/highly-critical-drupal-core-flaw.html",
+      "published": "2026-05-21T03:44:11+00:00",
+      "summary": "Drupal has released security updates for a \"highly critical\" security vulnerability in Drupal Core that could be exploited by attackers to achieve remote code execution, privilege escalation, or information disclosure.\nThe vulnerability, now tracked as CVE-2026-9082, carries a CVSS score of 6.5 out of 10.0, per CVE.org. Drupal said the vulnerability resides in a database abstraction API that is",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyhKX1WKEWbBPd4sElCP9BB26eorxZX1Lo25Mcu-A5bfBUuWT63SQ-Hyycv1YPSlvVeZPfLSEbb8mQnuPvf0KEDm8mYTtCLoYZuMG6A8maidLefE12_3Plum0keZ-mbAS4dGN-x7Oj0NWOmoeqp6_PEK0fqpnZwz8ZFV-NhyFl78WS4Nck76yAbfgWRpK7/s1600/drupal-flaw.jpg"
+    },
+    {
       "id": "03ee68797a7d971cfbb4e23ae5dc49cddab2057d",
       "title": "Microsoft Open-Sources RAMPART and Clarity to Secure AI Agents During Development",
       "url": "https://thehackernews.com/2026/05/microsoft-open-sources-rampart-and.html",
@@ -120,7 +186,7 @@
       "source": "The Hacker News",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPuhFp_KGzG3yZEzqIYh-at7Dm3vg4_QX97ilaSXDjsUbfhU7KCmRS-uQ2UrV9D855Nvy8HcBDKe25VMT63dfyzh-B2bzSx649SJQSQhL3bfm4Eitv4KLW4PhzRfE1HvoFOFDu2bB4alNLTFzvr6_IkKWjqxShcuWytNgDR4b3wR1xGE6z06xSyWo6NVg3/s1600/ms-tools.jpg"
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheh8SBZDUM83ug6w9EopUahk6CPc27TOD5qpmZWVC8hDMYM-8wdgTLXt1KHv_66Q061_5gm3crZszZf-UvSWWZKb6Aax7BxJ5gzPEyfQTp9JPEcNUmLZnEBD3YuFHoqCU4stvSdSVON7hFJq4ZYb4Rdq1vyOK0VUURDjUpCcEP9_SN5xkQckqwaFS_-dQz/s1600/mss.jpg"
     },
     {
       "id": "d16cd19af560364ece692051155d7b8a56ed6a92",
@@ -596,70 +662,26 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOfGXVOYqF2EcrcnYIDCnTYdmWpV-uaZ5nV0_0ukZ8uCk19wFFOax_VvgwO8LtlIkVo8pvcSSBs8Afc66yo2PbiMDjq4UDqnytAqP-Nq8CqTOfEtqwuWRmjbUpRYzqaAXFnRiXozR34fXAPE8O6Gcix6f08Sped3oVUXcjIOTE04N8IInA0qVeG0Sc6LzB/s1600/energy-cyberattack.jpg"
     },
     {
-      "id": "bd7da8b567b6be9de81cfe12eb91c4807ef942ec",
-      "title": "[Webinar] How Modern Attack Paths Cross Code, Pipelines, and Cloud",
-      "url": "https://thehackernews.com/2026/05/webinar-why-your-appsec-tools-miss.html",
-      "published": "2026-05-13T11:52:43+00:00",
-      "summary": "TL;DR: Stop chasing thousands of \"toast\" alerts. Join experts from Wiz to learn how hackers connect tiny flaws to build a \"Lethal Chain\" to your data\u2014and how to break it. Register for the Strategic Briefing Here.\nMost security tools work like a smoke alarm that goes off every time you burn a piece of toast. You get so many alerts that you eventually start to ignore them.\nThe real danger? While",
-      "source": "The Hacker News",
+      "id": "e236cce195391438f7aab0bda8d1e1d0825f9336",
+      "title": "Chinese APTs Share Linux Backdoor in Central Asia Telco Attacks",
+      "url": "https://www.darkreading.com/threat-intelligence/chinese-apts-linux-backdoor-telco-attacks",
+      "published": "2026-05-21T14:00:00+00:00",
+      "summary": "&quot;Showboat&quot; doesn't show off, but clearly it doesn't need to, as it's long helped China spy on small market communications providers.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhKoTt2TCJhCZC7cgKpISoFL1hoD6YqAXVIIIzKZEyYmvXusJXxb2WQ_cYnjRCYdKeOJj2756fnWj2had24_OCECDq5bDf7y98vuYhsKSbrbRH1WYIqpwCF47lLsvrgFGLPkhomycGiEHqDa50OjwuwIZmH6cAu1vOXoXOiTzU4Si8qq6YPfo2r4OsP4KI/s1600/wiz.png"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt4ed651e9b0fd01c3/6a0c7dba3c21f60b728ba42d/Showboat-Mark_Summerfield-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "f96f8c6c0ea31d19ab8ab1cd9ed1d1a7af298a40",
-      "title": "Most Remediation Programs Never Confirm the Fix Actually Worked",
-      "url": "https://thehackernews.com/2026/05/most-remediation-programs-never-confirm.html",
-      "published": "2026-05-13T11:30:00+00:00",
-      "summary": "Security teams have never had better visibility into their environments and never been worse at confirming what they fix stays fixed.\nMandiant's M-Trends 2026 report puts the mean time to exploit at an estimated negative seven days. The Verizon 2025 DBIR puts median time to remediate edge device vulnerabilities at 32 days. These numbers have understandably driven the industry toward a clear",
-      "source": "The Hacker News",
+      "id": "5fd33189a0dfdfcc30816564be44a8a998bfd466",
+      "title": "Content Delivery Exploit Opens Websites to Brand Hijacking",
+      "url": "https://www.darkreading.com/cyber-risk/content-delivery-exploit-websites-brand-hijacking",
+      "published": "2026-05-21T13:05:00+00:00",
+      "summary": "The Underminr domain-fronting attack allows threat actors to modify Web requests and leverage trusted websites to cloak malicious activity.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg70Fxtk3MEmUdZjXl_ocBSlT80rWfXtIj2kxPvypzCSlEK4cqkm8lo16NXHjvyCw9niiPk2gKSPhgTjSFTZpetxg2As7QL0AyWWHoTuvtcp1Ok-ALMfcUwaUMAyE8asDu-KjVDoUP4VLCOSDPWHru7V-ix6Xs-VSHvHDJ8KRn6NLq_EJJBm0B4xwa9vbLp/s1600/pentera.jpg"
-    },
-    {
-      "id": "3f0b5f448234ff148bb10e5fa83e5f621b6043c5",
-      "title": "Microsoft Patches 138 Vulnerabilities, Including DNS and Netlogon RCE Flaws",
-      "url": "https://thehackernews.com/2026/05/microsoft-patches-138-vulnerabilities.html",
-      "published": "2026-05-13T10:36:10+00:00",
-      "summary": "Microsoft on Tuesday released patches for 138 security vulnerabilities spanning its product portfolio, although none of them have been listed as publicly known or under active attack.\nOf the 138 flaws, 30 are rated Critical, 104 are rated Important, three are rated Moderate, and one is rated Low in severity. As many as 61 vulnerabilities are classified as privilege escalation bugs, followed by",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjk3m3CoTiKH2QVXSFAOVKKnTl-Ybt1FDE4M7BGK_ujskSYNQ8pOlcvZfyNv8CW2EJIVdMQaORcCE0H-_ufTvD6hR-LOOZ64GZPS_9bH7YrE4i0r4LrGCn7vXmG0GjpFk8aNlRR_4_GjrM-jhXBS1NzIbYiRydcmiNSXIV2eUczvgjGmp34_gNz3M5kt-Jf/s1600/windows-patch-update.jpg"
-    },
-    {
-      "id": "ff51c761ea4552ff965c4bc88a1110ef5264b38a",
-      "title": "GemStuffer Abuses 150+ RubyGems to Exfiltrate Scraped U.K. Council Portal Data",
-      "url": "https://thehackernews.com/2026/05/gemstuffer-abuses-150-rubygems-to.html",
-      "published": "2026-05-13T08:08:54+00:00",
-      "summary": "Cybersecurity researchers are calling attention to a new campaign dubbed GemStuffer that has targeted the RubyGems repository with more than 150 gems that use the registry as a data exfiltration channel rather than for malware distribution.\n\"The packages do not appear designed for mass developer compromise,\" Socket said. \"Many have little or no download activity, and the payloads are repetitive,",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZpbB_p88zZf6q_DhwCbgnYn2okFYqa7pwIPmknojvkOC3heteNMp3C6bzD_6WKChB4yVK0wLyoJ_-DebN0c229j-twjPyMAC-qkfGs1tjlaEoNg30fpEDh9DIByfz_h4nKhalTC_Su-FP0AYxywL_x85ILq1t-QFPtuMa_-KbLKlfsX15kvGpPCs1OZpw/s1600/rubygemss.jpg"
-    },
-    {
-      "id": "463638b65223054b6a816263877eba73fad4c2da",
-      "title": "Android Adds Intrusion Logging for Sophisticated Spyware Forensics",
-      "url": "https://thehackernews.com/2026/05/android-adds-intrusion-logging-for.html",
-      "published": "2026-05-13T06:55:42+00:00",
-      "summary": "Google on Tuesday unveiled a new opt-in Android feature called Intrusion Logging for storing forensic logs to better analyze sophisticated spyware attacks.\nIntrusion Logging, available as part of Advanced Protection Mode, enables \"persistent and privacy-preserving forensics logging to allow for investigation of devices in the event of a suspected compromise,\" the company said.\nThe feature, it",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBNoTD0wrxHsoNUfZVLT2ImOUNC-2Md_wih6gTim-zbqkCzgGfXbtvlDgDMWeczo9RzINqu7qqk_3XK0KHSdbpLMPbR9xg_pLpjtoxugUt3B5-G9pL9wBCMI80Rx-Aw9eNxH-XXE2XpQHDtqaGDeXe3P4mGDvPgmDiqom8B2Xdfz7irCpOZVvhP9jsqudo/s1600/adnroid-Intrusion-Logging.jpg"
-    },
-    {
-      "id": "5fb6512a0aacb7a4a323d5ed6ac5ab254b76643b",
-      "title": "New Exim BDAT Vulnerability Exposes GnuTLS Builds to Potential Code Execution",
-      "url": "https://thehackernews.com/2026/05/new-exim-bdat-vulnerability-exposes.html",
-      "published": "2026-05-12T16:44:00+00:00",
-      "summary": "Exim has released security updates to address a severe security issue affecting certain configurations that could enable memory corruption and potential code execution.\nExim is an open-source Mail Transfer Agent (MTA) designed for Unix-like systems to receive, route, and deliver email.\nThe vulnerability, tracked as CVE-2026-45185 (CVSS score: 9.8), aka Dead.Letter, has been described as a",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrSn3emm_NbwXDi3elR0wo5ErHhg-gPT4-u4zk7MHZg4u0ruMmj2_KGgPF8fz06Riv6Gu5NXMN3eBP8H5bVf6dmvOz-lvb-qrvhLlssLUzl97ZVmIWoIOmMPOGrupv864dt0d4V_dxgaaxYYNuy2z9rbZMWIOcjlwZaiifq4-ktRqlEBCJ6a_m3MFiwq65/s1600/exim.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta4e69c10af67b9ac/6a0b28b90c15634015ba260b/Landmine-hernandez_jose_maria-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "id": "e133b597c11b03850dee918f651e233eedb47a88",
@@ -677,7 +699,7 @@
       "title": "GitHub Confirms Breach, 4K Internal Repos Stolen",
       "url": "https://www.darkreading.com/application-security/github-confirms-breach-4k-internal-repos-stolen",
       "published": "2026-05-20T20:51:32+00:00",
-      "summary": "Open source software giant GitHub confirmed a data breach this week involving the theft of thousands of repos. One threat actor \u2014 TeamPCP \u2014 took credit.",
+      "summary": "GitHub confirmed a data breach this week involving the theft of thousands of developer code repositories. One threat actor \u2014 TeamPCP \u2014 took credit.",
       "source": "DarkReading",
       "region": "North America",
       "country": "US",
@@ -685,7 +707,7 @@
     },
     {
       "id": "30e22c47f338c1d81fb4e6416cdfd2d1a554816a",
-      "title": "Fake Android Apps Commit Carrier Billing Fraud for Premium Svcs.",
+      "title": "Fake Android Apps Commit Carrier Billing Fraud for Premium Services",
       "url": "https://www.darkreading.com/mobile-security/fake-android-apps-carrier-billing-fraud",
       "published": "2026-05-20T20:35:35+00:00",
       "summary": "The disguised apps use WebView automation, JavaScript injection, and OTP interception to avoid detection and complete fraudulent subscriptions.",
@@ -1047,17 +1069,6 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "da93dbec3ecd06d5069ad852f7129cb2d27f1f1a",
-      "title": "LatAm Vibe Hackers Generate Custom Hacking Tools on the Fly",
-      "url": "https://www.darkreading.com/cloud-security/ai-agents-generate-custom-hacking-tools",
-      "published": "2026-05-13T13:00:00+00:00",
-      "summary": "In the latest evolution of automated cyberattacks, threat actors heavily leveraged AI agents to support campaigns against entities in Mexico and Brazil.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt21f9c2318a5ab687/6a038ac9398f1c61e4de8097/evil_robot_Anna_Vaczi_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
       "id": "b0e69528e03a4d1c768e7b669e0b21aa0f51c8d4",
       "title": "China's 'FamousSparrow' APT Nests in South Caucasus Energy Firm",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/china-famoussparrow-apt-south-caucasus-energy-firm",
@@ -1067,6 +1078,17 @@
       "region": "North America",
       "country": "US",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt69a3ca2781c97543/6a039734559f883c8de4d9ec/pair-of-java-sparrows-Alen_Thien-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
+      "id": "da93dbec3ecd06d5069ad852f7129cb2d27f1f1a",
+      "title": "LatAm Vibe Hackers Generate Custom Hacking Tools on the Fly",
+      "url": "https://www.darkreading.com/cloud-security/ai-agents-generate-custom-hacking-tools",
+      "published": "2026-05-13T13:00:00+00:00",
+      "summary": "In the latest evolution of automated cyberattacks, threat actors heavily leveraged AI agents to support campaigns against entities in Mexico and Brazil.",
+      "source": "DarkReading",
+      "region": "North America",
+      "country": "US",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt21f9c2318a5ab687/6a038ac9398f1c61e4de8097/evil_robot_Anna_Vaczi_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "id": "d04751c6c9306954f4dd90d8d0aa0d9f053a2d08",
@@ -1190,26 +1212,48 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7d42ab7db3a9305d/69fced373a447bc0eea0e5a0/Outlaw_duel-North_Wind_Picture_Archives-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "e056442e413bf5b498c94f4839229630daed5ea1",
-      "title": "Has CISA Finally Found Its New Leader in Tom Parker?",
-      "url": "https://www.darkreading.com/cybersecurity-operations/cisa-new-leader-tom-parker",
-      "published": "2026-05-07T19:07:17+00:00",
-      "summary": "Dark Reading investigates rumors that Tom Parker, a board room &quot;operator&quot; and longtime cyber exec, could be next in line to take over CISA.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd78672b4ab1bba5b/69fbad02074d2d799822412b/CISA_Timon_Schneider_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "id": "d31cffecb5a10b92cda04ae8d173ce8c638abbd9",
+      "title": "Attackers spill plaintext passwords of 46k Myspace93 users after 2021 breach",
+      "url": "https://www.theregister.com/security/2026/05/21/46k-plaintext-passwords-pwned-in-myspace93-breach/5244024",
+      "published": "2026-05-21T12:20:00+00:00",
+      "summary": "Leakage blamed on treacherous friends exposed unencrypted credentials, email addresses",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=5244092&width=800"
     },
     {
-      "id": "ea779afcd9a9f77d8ac49521df963c6b975ce2f0",
-      "title": "AI-Driven Cyberattack on Mexico Couldn't Breach OT Systems",
-      "url": "https://www.darkreading.com/ics-ot-security/worlds-first-ai-driven-cyberattack-couldnt-breach-ot-systems",
-      "published": "2026-05-07T13:00:00+00:00",
-      "summary": "What researchers dubbed the most sophisticated AI-integrated ICS campaign to date hit a brick wall in the form of a SCADA login screen.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt98fa61979c1de1b0/69fb95aa4f86c99808c8fc96/Faucet-Steven_Liveoak-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "id": "ef7df2391e1a9801cd08536a33c5e94abda6b398",
+      "title": "Cisco serves up yet another perfect 10 bug with Secure Workload admin flaw",
+      "url": "https://www.theregister.com/security/2026/05/21/cisco-serves-up-yet-another-perfect-10-bug-with-secure-workload-admin-flaw/5244012",
+      "published": "2026-05-21T11:27:00+00:00",
+      "summary": "Switchzilla says attackers could access sensitive data and make configuration changes across tenant boundaries through vulnerable internal APIs",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=5244089&width=800"
+    },
+    {
+      "id": "cbd26241f5c1f771ae78cfbbd3dc2fae5771c91d",
+      "title": "Microsoft storms RAMPART, adds Clarity to agentic AI safety",
+      "url": "https://www.theregister.com/security/2026/05/21/microsoft-open-sources-agentic-ai-safety-tools/5243822",
+      "published": "2026-05-21T10:30:00+00:00",
+      "summary": "Redmond open sources two tools for building and maintaining safer agents",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=5243846&width=800"
+    },
+    {
+      "id": "f0f0d6f68ac748fa02da52eca23887e3a4190f00",
+      "title": "Zombie user account let hackers control the city\u2019s water",
+      "url": "https://www.theregister.com/security/2026/05/21/zombie-user-account-let-hackers-control-the-citys-water/5243724",
+      "published": "2026-05-21T07:00:00+00:00",
+      "summary": "Failing to disable a former employee\u2019s account was a huge mistake",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=5243744&width=800"
     },
     {
       "id": "6a57f659c0fdb5cf29af278747df4b41118b5bd9",
@@ -1718,50 +1762,6 @@
       "image": "https://image.theregister.com/?imageId=5235702&width=800"
     },
     {
-      "id": "7d3c64f5606fa08dd5cb18e1a74d05421e0243c9",
-      "title": "Mozilla boasts Mythos boosted Firefox bug cull",
-      "url": "https://www.theregister.com/security/2026/05/08/mozilla-says-ai-helped-squash-423-firefox-security-bugs/5235438",
-      "published": "2026-05-07T23:32:16+00:00",
-      "summary": "Yet it remains unclear if Anthropic's uber model was effective, or if better model middleware is what makes the difference",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=5224549&width=800"
-    },
-    {
-      "id": "be0e83809cc1ab2a6b4c386b19db7140d47a359f",
-      "title": "Anthropic response to 1-click pwn: Shouldn't have clicked 'ok'",
-      "url": "https://www.theregister.com/security/2026/05/07/claude-code-trust-prompt-can-trigger-one-click-rce/5235319",
-      "published": "2026-05-07T20:03:11+00:00",
-      "summary": "Security biz Adversa AI argues users of AI tools need clearer warnings",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=5235377&width=800"
-    },
-    {
-      "id": "1e6b1d7414a24b54c0018dfe70ce7febfe56f112",
-      "title": "60% of MD5 password hashes are crackable in under an hour",
-      "url": "https://www.theregister.com/security/2026/05/07/60-of-md5-password-hashes-are-crackable-in-under-an-hour/5234954",
-      "published": "2026-05-07T16:47:43+00:00",
-      "summary": "Happy World Password Day! Maybe it's finally time to kill this holiday in favor of World No-More-Passwords Day?",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=5228156&width=800"
-    },
-    {
-      "id": "4718e43b956436cba20d83098201fb94d19e201e",
-      "title": "The network password was a key plot point in one of the most famous movies of all time",
-      "url": "https://www.theregister.com/security/2026/05/07/guessable-admin-password-exposes-sloppy-network-security/5231161",
-      "published": "2026-05-07T09:49:00+00:00",
-      "summary": "Fortunately, it was a legit contractor who guessed it",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=5231249&width=800"
-    },
-    {
       "id": "94138721a3a5194919ce144a496ac0f5dc5ee0c1",
       "title": "CISA Admin Leaked AWS GovCloud Keys on Github",
       "url": "https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/",
@@ -1817,6 +1817,94 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "895cce602d6b6cb5245f2344929cf4df80deba89",
+      "title": "Cisco Patches Critical Vulnerability in Secure Workload",
+      "url": "https://www.securityweek.com/cisco-patches-critical-vulnerability-in-secure-workload/",
+      "published": "2026-05-21T12:04:13+00:00",
+      "summary": "<p>Insufficient validation and authentication in the Secure Workload\u2019s REST APIs provide remote attackers with Site Admin privileges.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisco-patches-critical-vulnerability-in-secure-workload/\">Cisco Patches Critical Vulnerability in Secure Workload</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "95cd053ef85eb8d2895170ee7ab2d3a9690e2454",
+      "title": "Ocean Emerges From Stealth With $28M for Agentic Email Security Platform",
+      "url": "https://www.securityweek.com/ocean-emerges-from-stealth-with-28m-for-agentic-email-security-platform/",
+      "published": "2026-05-21T11:45:51+00:00",
+      "summary": "<p>The company has developed a platform that uses specialized AI agents to inspect every incoming message.</p>\n<p>The post <a href=\"https://www.securityweek.com/ocean-emerges-from-stealth-with-28m-for-agentic-email-security-platform/\">Ocean Emerges From Stealth With $28M for Agentic Email Security Platform</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "c8891d434700957763204fcfa16506a57f7318d4",
+      "title": "Apple Rejected 2 Million App Store Submissions in 2025 for Security and Fraud Prevention",
+      "url": "https://www.securityweek.com/apple-rejected-2-million-app-store-submissions-in-2025-for-security-and-fraud-prevention/",
+      "published": "2026-05-21T11:17:15+00:00",
+      "summary": "<p>The company blocked over 1.1 billion accounts and $2.2 billion in potentially fraudulent transactions.</p>\n<p>The post <a href=\"https://www.securityweek.com/apple-rejected-2-million-app-store-submissions-in-2025-for-security-and-fraud-prevention/\">Apple Rejected 2 Million App Store Submissions in 2025 for Security and Fraud Prevention</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "3f762e7bd3acd01a4fa093d66fade69d1f45b687",
+      "title": "Drupal Patches Highly Critical Vulnerability Exposing Websites to Hacking",
+      "url": "https://www.securityweek.com/drupal-patches-highly-critical-vulnerability-exposing-websites-to-hacking/",
+      "published": "2026-05-21T10:58:49+00:00",
+      "summary": "<p>CVE-2026-9082 can be exploited without authentication for information disclosure, privilege escalation, and remote code execution.</p>\n<p>The post <a href=\"https://www.securityweek.com/drupal-patches-highly-critical-vulnerability-exposing-websites-to-hacking/\">Drupal Patches Highly Critical Vulnerability Exposing Websites to Hacking</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "356c3d4e85241d45fc79b9b222d99854eb074a0a",
+      "title": "Socket Raises $60 Million at $1 Billion Valuation",
+      "url": "https://www.securityweek.com/socket-raises-60-million-at-1-billion-valuation/",
+      "published": "2026-05-21T10:32:37+00:00",
+      "summary": "<p>The company will invest in its firewall, certified patches, protection extensions, new products, and team expansion.</p>\n<p>The post <a href=\"https://www.securityweek.com/socket-raises-60-million-at-1-billion-valuation/\">Socket Raises $60 Million at $1 Billion Valuation</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "f4d11e89f7c6b42790d048f2c8204f711e8d98a3",
+      "title": "Microsoft Patches Exploited UnDefend and RedSun Defender Zero-Days",
+      "url": "https://www.securityweek.com/microsoft-patches-exploited-undefend-and-redsun-defender-zero-days/",
+      "published": "2026-05-21T09:52:05+00:00",
+      "summary": "<p>The bugs could be exploited to elevate privileges to System or create a denial-of-service (DoS) condition.</p>\n<p>The post <a href=\"https://www.securityweek.com/microsoft-patches-exploited-undefend-and-redsun-defender-zero-days/\">Microsoft Patches Exploited UnDefend and RedSun Defender Zero-Days</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "260021c0ef881f5ddb98f5de38cdd8be52377d95",
+      "title": "Google\u2019s Surge in Chrome Vulnerability Discoveries Likely Driven by AI",
+      "url": "https://www.securityweek.com/googles-surge-in-chrome-vulnerability-discoveries-likely-driven-by-ai/",
+      "published": "2026-05-21T09:37:08+00:00",
+      "summary": "<p>More than 200 vulnerabilities patched in recent Chrome releases are marked as \u2018reported by Google\u2019.</p>\n<p>The post <a href=\"https://www.securityweek.com/googles-surge-in-chrome-vulnerability-discoveries-likely-driven-by-ai/\">Google&#8217;s Surge in Chrome Vulnerability Discoveries Likely Driven by AI</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "7be55e40a7be3abb6baa34f5fbb2f72faad75aa0",
+      "title": "Supply Chain Security Crisis: Too Many Vulnerabilities, Too Little Visibility",
+      "url": "https://www.securityweek.com/supply-chain-security-crisis-too-many-vulnerabilities-too-little-visibility/",
+      "published": "2026-05-21T08:14:53+00:00",
+      "summary": "<p>New vulnerabilities are being discovered too fast, the time-to-exploitation is too short, and our visibility into them is largely lacking.</p>\n<p>The post <a href=\"https://www.securityweek.com/supply-chain-security-crisis-too-many-vulnerabilities-too-little-visibility/\">Supply Chain Security Crisis: Too Many Vulnerabilities, Too Little Visibility</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "b63726f9f1b2d1232adc865786b69679907d02a2",
       "title": "Quantum Bridge Raises $8 Million for Quantum-Safe Key Distribution Solution",
       "url": "https://www.securityweek.com/quantum-bridge-raises-8-million-for-quantum-safe-key-distribution-solution/",
@@ -1833,94 +1921,6 @@
       "url": "https://www.securityweek.com/microsoft-rolls-out-mitigations-for-yellowkey-bitlocker-bypass/",
       "published": "2026-05-20T15:39:00+00:00",
       "summary": "<p>The exploitation is mitigated by preventing the FsTx Auto Recovery Utility from starting when the WinRE image launches.</p>\n<p>The post <a href=\"https://www.securityweek.com/microsoft-rolls-out-mitigations-for-yellowkey-bitlocker-bypass/\">Microsoft Rolls Out Mitigations for &#8216;YellowKey&#8217; BitLocker Bypass</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "494472a8bec6357353229d03e6329aba04eee6e1",
-      "title": "AI-Powered App Attacks Are Faster, More Frequent and Harder to Stop",
-      "url": "https://www.securityweek.com/ai-powered-app-attacks-are-faster-more-frequent-and-harder-to-stop/",
-      "published": "2026-05-20T14:37:36+00:00",
-      "summary": "<p>Digital.ai\u2019s latest threat report warns that agentic AI has erased the distinction between emerging and primary targets, enabling attackers to strike mobile apps within hours of release across every industry.</p>\n<p>The post <a href=\"https://www.securityweek.com/ai-powered-app-attacks-are-faster-more-frequent-and-harder-to-stop/\">AI-Powered App Attacks Are Faster, More Frequent and Harder to Stop</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "8302498e1e51cc1d224a80a76d4efefd37fe2314",
-      "title": "1Password\u00a0Teams With\u00a0OpenAI\u00a0to Stop AI Coding Agents From Leaking Credentials",
-      "url": "https://www.securityweek.com/1password-teams-with-openai-to-stop-ai-coding-agents-from-leaking-credentials/",
-      "published": "2026-05-20T13:34:54+00:00",
-      "summary": "<p>1Password says AI coding agents should never hold persistent secrets, introducing a just-in-time credential model for OpenAI Codex designed to keep credentials out of prompts, code repositories, and model context.</p>\n<p>The post <a href=\"https://www.securityweek.com/1password-teams-with-openai-to-stop-ai-coding-agents-from-leaking-credentials/\">1Password\u00a0Teams With\u00a0OpenAI\u00a0to Stop AI Coding Agents From Leaking Credentials</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "fd9ad815299c47d0c1fc4e7451d76aa777be4b0d",
-      "title": "Anthropic Silently Patches Claude Code Sandbox Bypass",
-      "url": "https://www.securityweek.com/anthropic-silently-patches-claude-code-sandbox-bypass/",
-      "published": "2026-05-20T13:00:00+00:00",
-      "summary": "<p>The researcher who found it says the vulnerability could have been chained with a prompt injection to exfiltrate data.</p>\n<p>The post <a href=\"https://www.securityweek.com/anthropic-silently-patches-claude-code-sandbox-bypass/\">Anthropic Silently Patches Claude Code Sandbox Bypass</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "9944e1aaed6df71811bde554fade682851485626",
-      "title": "Over 320 NPM Packages Hit by Fresh Mini Shai-Hulud Supply Chain Attack",
-      "url": "https://www.securityweek.com/over-320-npm-packages-hit-by-fresh-mini-shai-hulud-supply-chain-attack/",
-      "published": "2026-05-20T11:06:49+00:00",
-      "summary": "<p>A compromised maintainer account was used to publish malicious package versions across the @antv namespace.</p>\n<p>The post <a href=\"https://www.securityweek.com/over-320-npm-packages-hit-by-fresh-mini-shai-hulud-supply-chain-attack/\">Over 320 NPM Packages Hit by Fresh Mini Shai-Hulud Supply Chain Attack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "6d741460ec0c8b9ca80f77cfe633c28a3eb77f72",
-      "title": "Caught Off Guard: Securing AI After It Hits Production",
-      "url": "https://www.securityweek.com/caught-off-guard-securing-ai-after-it-hits-production/",
-      "published": "2026-05-20T11:00:00+00:00",
-      "summary": "<p>As enterprises rush AI projects into production, security teams are increasingly being forced into reactive mode.</p>\n<p>The post <a href=\"https://www.securityweek.com/caught-off-guard-securing-ai-after-it-hits-production/\">Caught Off Guard: Securing AI After It Hits Production</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "3fd59631450a69abdefe7c9ead8e824ff3c29721",
-      "title": "Real-World ICS Security Tales From the Trenches",
-      "url": "https://www.securityweek.com/real-world-ics-security-tales-from-the-trenches/",
-      "published": "2026-05-20T10:15:00+00:00",
-      "summary": "<p>SecurityWeek spoke with several ICS security experts and companies about their most memorable experiences in the field.</p>\n<p>The post <a href=\"https://www.securityweek.com/real-world-ics-security-tales-from-the-trenches/\">Real-World ICS Security Tales From the Trenches</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "71209eaa247b046ab783a0bf8a74f2e55983557b",
-      "title": "Virtual Event Today: Threat Detection & Incident Response Summit",
-      "url": "https://www.securityweek.com/virtual-event-today-threat-detection-incident-response-summit/",
-      "published": "2026-05-20T10:00:00+00:00",
-      "summary": "<p>Don't miss this virtual event as we explore how to cut through alert fatigue, leverage AI and unified platforms to accelerate investigations, and apply actionable threat intelligence.</p>\n<p>The post <a href=\"https://www.securityweek.com/virtual-event-today-threat-detection-incident-response-summit/\">Virtual Event Today: Threat Detection &amp; Incident Response Summit</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "92dcdfcdc397ccff33fc117daa54ccf74cae7c19",
-      "title": "GitHub Confirms Hack Impacting 3,800 Internal Repositories",
-      "url": "https://www.securityweek.com/github-confirms-hack-impacting-3800-internal-repositories/",
-      "published": "2026-05-20T09:28:53+00:00",
-      "summary": "<p>The TeamPCP hacking group accessed the repositories after a GitHub employee installed a poisoned VS Code extension.</p>\n<p>The post <a href=\"https://www.securityweek.com/github-confirms-hack-impacting-3800-internal-repositories/\">GitHub Confirms Hack Impacting 3,800 Internal Repositories</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
