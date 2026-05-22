@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-22T01:55:52.981110+00:00",
+  "generated_at": "2026-05-22T14:07:44.421477+00:00",
   "items": [
     {
       "id": "4bd0914cc1a1c2970f4fb044601b3cb8b273855e",
@@ -110,6 +110,61 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "143167e87dbe820093cbea33ac9d60e83ed06daf",
+      "title": "Megalodon GitHub Attack Targets 5,561 Repos with Malicious CI/CD Workflows",
+      "url": "https://thehackernews.com/2026/05/megalodon-github-attack-targets-5561.html",
+      "published": "2026-05-22T11:55:24+00:00",
+      "summary": "Cybersecurity researchers have disclosed details of a new automated campaign called Megalodon that has pushed 5,718 malicious commits to 5,561 GitHub repositories within a six-hour window.\n\n\"Using throwaway accounts and forged author identities (build-bot, auto-ci, ci-bot, pipeline-bot), the attacker injected GitHub Actions workflows containing base64-encoded bash payloads that exfiltrate CI",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC_sjVeLejyyBZJ0DWW2y9-Z2Jvmrzz9h-5XEIKPFTcJvDj49Jlt-z1FNbSp51K9XcQ8FqC9MBDFPPPdZuzRfjqtYvKNaqT0Qzd61oCHVhNq59IcAVcWV3LvDmKCsX5pHn4nU3LclQPEozMp3XsgYZnVHCZEj89AGkWJpqL1EjCjiqMLnvggZLsgb08MYp/s1600/github-worm.jpg"
+    },
+    {
+      "id": "b964a53000642719b63f25dc34371b3cf32919b6",
+      "title": "Making Vulnerable Drivers Exploitable Without Hardware - The BYOVD Perspective",
+      "url": "https://thehackernews.com/2026/05/making-vulnerable-drivers-exploitable.html",
+      "published": "2026-05-22T11:38:12+00:00",
+      "summary": "1 Introduction\n\nThis article provides a technical analysis of how many Windows kernel mode drivers can be interacted with from user mode without the hardware they were developed for. This work was motivated by driver-oriented vulnerability research and the need to evaluate the exploitability of individual findings, which frequently affect code whose reachability is hardware-gated. The",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUdjbDFZeTbwpdUFibGsmuDSgX_NHbFfTYroqcGYEGB6yvuKR3eUBSHo9XaphMTYmXC3cqmICDOGUjlsBrwwyJOxzkj1Cdh2xZcYxLz1WpHrV9QmloScYivp7jfyynDTiB51MTpsgGffJ9bZgYJeV3VhY6OA32tot8mC08F-g6KpU47zR513SkVqk-hIim/s1600/driver.jpg"
+    },
+    {
+      "id": "6f75cd3a4b4e5e67ca74c914affda200b6153047",
+      "title": "Kimwolf DDoS Botnet Operator Arrested in Canada Over DDoS-for-Hire Attacks",
+      "url": "https://thehackernews.com/2026/05/kimwolf-ddos-botnet-operator-arrested.html",
+      "published": "2026-05-22T08:50:18+00:00",
+      "summary": "The U.S. Department of Justice (DoJ) on Thursday announced the arrest of a Canadian man in connection with allegedly operating a distributed denial-of-service (DDoS) botnet known as Kimwolf.\n\nIn tandem, Jacob Butler (aka Dort), 23, Ottawa, Canada, has been charged with offenses related to the development and operation of the botnet. Kimwolf is assessed to be a variant of AISURU.\n\n\"Kimwolf",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5VYMnsK-UMv3L8TZp1KhZ4PQti0VtUXkbDREtK-R9Hbtj6bdYrPRwwn8VItL49asZcHEMSOFJyfV25Da96CerBXrPRnHZHncrTuo7Mj7dxEkNGNR4jZZs19Y2pep2dl7KZ0IK1CkexVOQhr14e5MIP5oe5vglQ2StuxG6xv2ataqy8jvD9T1fXLToZHc5/s1600/ddos-canada.jpg"
+    },
+    {
+      "id": "c0a405f7807975a018b8bfd57fcbc145811db74e",
+      "title": "CISA Adds Exploited Langflow and Trend Micro Apex One Vulnerabilities to KEV",
+      "url": "https://thehackernews.com/2026/05/cisa-adds-exploited-langflow-and-trend.html",
+      "published": "2026-05-22T05:47:33+00:00",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added two security flaws impacting Langflow and Trend Micro Apex One to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\n\nThe vulnerabilities in question are listed below -\n\n\n  CVE-2025-34291 (CVSS score: 9.4) - An origin validation error vulnerability in Langflow that could",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi04a_rowIzNPvHHvDTUE34d3bZlOhBeQXtC0UdXyjlf988G4zVE89QKWqSWASKd2LD0T8O2XhkDVgG7UGFIxlpvQWHPx-o_X7vfMK5fH4uSDg3eSUDAaWKtgresEyD9JpINkxtdELWn-qiv6usoLgwSlYNi89xJeVBwYYsCF2y-KKNz0x04KS0PeDPL57J/s1600/cisa-kev-flaws.jpg"
+    },
+    {
+      "id": "289e87ac70a4b68cbb3474a891db70688ab53adb",
+      "title": "Cisco Patches CVSS 10.0 Secure Workload REST API Flaw Enabling Data Access",
+      "url": "https://thehackernews.com/2026/05/cisco-patches-cvss-100-secure-workload.html",
+      "published": "2026-05-22T05:36:18+00:00",
+      "summary": "Cisco has rolled out updates for a maximum-severity security flaw impacting Secure Workload that could allow an unauthenticated, remote attacker to access sensitive data.\n\nTracked as CVE-2026-20223 (CVSS score: 10.0), the vulnerability arises from insufficient validation and authentication when accessing REST API endpoints.\n\n\"An attacker could exploit this vulnerability if they are able to send",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLweJvl8B70zomibdr4U6WvYgbmZn4gKKOG9F7xDPXzgeENKK0kg2kgK1yvZDS7AJFkY9De2rG2EQzCLvN1FmjrXXDIm-CkmU88QcexbMkr60gKVKexF-d1qtGHusrr6_j5yrtMv31PSUEygioHJikBsifQ0VHW18IU7lu_oItTzQXugwHPLoO_DYNdnYx/s1600/cisco-workload.jpg"
     },
     {
       "id": "c58b2322b78e8cad9b194b981b094aafbba3f299",
@@ -607,77 +662,22 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2IaSkdVZD_wyJJT-sODoazviDXhw3MGkn5XHYocnTL1YfLJpgJ-1wNaAm0Rk0phyrIv8vS73SNNkPSmlxRkK9ySAQGnn_tCP9JcVKyqee6lxjlYEp0cs2C_R9cDtgCEXwsjWtx1XnafF5r_fAuDDAvg0CRMOgJk8ZMwSjRsw1Js90uR-97t-rh5yU12Oj/s1600/praison.jpg"
     },
     {
-      "id": "dc7f8c1855eee99142e78fc5fc1a98de0a6ea597",
-      "title": "How AI Hallucinations Are Creating Real Security Risks",
-      "url": "https://thehackernews.com/2026/05/how-ai-hallucinations-are-creating-real.html",
-      "published": "2026-05-14T11:30:00+00:00",
-      "summary": "AI hallucinations are introducing serious security risks into critical infrastructure decision-making by exploiting human trust through highly confident yet incorrect outputs. When an AI model lacks certainty, it doesn\u2019t have a mechanism to recognize that. Instead, it generates the most probable response based on patterns in its training data, even if that response is inaccurate. These outputs",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi45HPlwBwWVoL1fRSEGy7bjtz4Z05lAO8NWxLqPrzQ93c3j5aaj_CaK5gCrJC6aYP0ePV36n27rw33vJv5mUXf3mtdOEItJjHrSkzckVGAdTU2UMp8s-HAVjNUE7jVDeTH0UikGxNZWeB6J3qVNguP2iO5V5-qUgW3g_IqxZ9cMEZy0tS0iEsl8MnSjB0/s1600/keeper.jpg"
-    },
-    {
-      "id": "c7358f7b20ab0f616e88fbdba8f1244fe2507876",
-      "title": "Windows Zero-Days Expose BitLocker Bypasses And CTFMON Privilege Escalation",
-      "url": "https://thehackernews.com/2026/05/windows-zero-days-expose-bitlocker.html",
-      "published": "2026-05-14T09:25:50+00:00",
-      "summary": "An anonymous cybersecurity researcher who disclosed three Microsoft Defender vulnerabilities has returned with two more zero-days involving a BitLocker bypass and a privilege escalation impacting Windows Collaborative Translation Framework (CTFMON).\nThe security defects have been codenamed YellowKey and GreenPlasma, respectively, by the researcher, who goes by the online aliases Chaotic Eclipse",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXt7ooDl2PwJY4nazAKdW9rmILsmosve2FZaO9usxTk_rkksEEvsLgY-uc_MErXvjvusuWjN7PWRM9KaRXB1OkL75gio7tcqpMsPZxaFNE9XDpYmARH3Dw_gGgddwWXHSt5VUJ-lb56F9bCVzTYghEo7qELWVv8K_W8V1BrWgssgqWkzPJxW6I31i_GyYf/s1600/windowss.jpg"
-    },
-    {
-      "id": "b77db9a757e6652ca3fb8ae80763f049827b2aa8",
-      "title": "New Fragnesia Linux Kernel LPE Grants Root Access via Page Cache Corruption",
-      "url": "https://thehackernews.com/2026/05/new-fragnesia-linux-kernel-lpe-grants.html",
-      "published": "2026-05-14T07:06:15+00:00",
-      "summary": "Details have emerged about a new variant of the recent Dirty Frag Linux local privilege escalation (LPE) vulnerability that allows local attackers to gain root access, making it the third such bug to be identified in the kernel within a span of two weeks.\nCodenamed Fragnesia, the security vulnerability is tracked as CVE-2026-46300 (CVSS score: 7.8) and is rooted in the Linux kernel's XFRM",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZEVPJhl5rAx5o22-s1GQ6E1KKHMlOsazAfObgwK72r5EGxr52OkNRHHQXJdHt39DQop0SAhxE_t9nMKgXxHNgYv1zyB-ZR1IqCIKUK2feTpx1swr4dZzKLpZ5uldjrOAX6qH-wYnUfRWieA2xQWPbAUB1JpXhkBGq4AA0Ft07F7MFqZSHCS9SMR6uXjoC/s1600/linux-2.jpg"
-    },
-    {
-      "id": "771a355ef09395a7e69abf37996e6a91f28e35a9",
-      "title": "18-Year-Old NGINX Rewrite Module Flaw Enables Unauthenticated RCE",
-      "url": "https://thehackernews.com/2026/05/18-year-old-nginx-rewrite-module-flaw.html",
-      "published": "2026-05-14T06:00:09+00:00",
-      "summary": "Cybersecurity researchers have disclosed multiple security vulnerabilities impacting NGINX Plus and NGINX Open, including a critical flaw that remained undetected for 18 years.\nThe vulnerability, discovered by depthfirst, is a heap buffer overflow issue impacting ngx_http_rewrite_module (CVE-2026-42945, CVSS v4 score: 9.2) that could allow an attacker to achieve remote code execution or cause a",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhCvxtNv7UYYMCITB2HLsBgkN83LdRXcw0wmP9gMAfXeNpmJoOJKNIaQb55b-GLDeQHx-dUBkASGDYgstnvYAE5eFuwyzMSxY804fn56OaTsGlESOab9y-kFHJ-iV5iUlWrc5j27WLduUDhW6nRSjkv5tFMKZjDbbmDdk7_NMZ3y7sipHKy7t4XuMQ9YfG/s1600/nn.gif"
-    },
-    {
-      "id": "c19ed1ef05a0fe26449affb36ebe15e878157519",
-      "title": "Microsoft's MDASH AI System Finds 16 Windows Flaws Fixed in Patch Tuesday",
-      "url": "https://thehackernews.com/2026/05/microsofts-mdash-ai-system-finds-16.html",
-      "published": "2026-05-13T13:46:02+00:00",
-      "summary": "Microsoft has unveiled a new multi-model artificial intelligence (AI)-driven system called MDASH to facilitate vulnerability discovery and remediation at scale, adding that it's being tested by some customers as part of a limited private preview.\nMDASH, short for multi-model agentic scanning harness, is designed as a model-agnostic system that uses bespoke AI agents for different vulnerability",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1Iq16GS3jdGiIU24GHBkwg6unk05ctdgYwXO5df8zRu1qko95_XhszCjq6jlEIRozLsrtZHgi5GqDZnS1Sw_KDzUzsagwP0If3VswmYHsnuYwVseU2lapxQiPpItTdAiv-CCdTFR87ZVOu65buyvmvzmdWuJPKHuPA4DSo58HQIMAV__2ymsmRe2g3UVe/s1600/windows-ai.jpg"
-    },
-    {
-      "id": "f28ec821ba84982148c8b494f2511c2e28f413ba",
-      "title": "How CISOs Should Prep for Agentic-Ready AI BOMs",
-      "url": "https://www.darkreading.com/cyber-risk/how-cisos-should-prep-for-agentic-ready-ai-boms",
-      "published": "2026-05-21T21:11:40+00:00",
-      "summary": "Finding ways to document both component and execution attributes for AI bill of materials (AI BOM).",
+      "id": "1f3b126bf2c0e353e3d452b4f8267f1ac92865a3",
+      "title": "China's Webworm Uses Discord, Microsoft Graphs to Hack EU Governments",
+      "url": "https://www.darkreading.com/endpoint-security/chinas-webworm-discord-microsoft-graphs",
+      "published": "2026-05-22T07:01:00+00:00",
+      "summary": "The advanced persistent threat group also relied on SOCKS proxies like SoftEther VPN, tunneling tools that act as a middleman between victim and attacker.",
       "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc910f7f1381f9cc0/6a0c51d37e010876184b0788/robot-book-KittipongJirasukhanont-alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9bbd9e9f246990ad/6a0f5eeab6882cd3afc7c328/Discord_app_iPhone_True_Images_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "id": "37154a7a827ac840e58cb7ff0c0c15537bffd8db",
       "title": "Google API Keys Remain Active After Deletion",
       "url": "https://www.darkreading.com/identity-access-management-security/google-api-keys-active-after-deletion",
       "published": "2026-05-21T20:07:47+00:00",
-      "summary": "A security researcher discovered the API keys can still be used for 23 minutes after deletion, even though the cloud provider claims deletion is immediate.",
+      "summary": "A security researcher discovered the API keys can still be used for up to 23 minutes after deletion, even though the cloud provider claims deletion is immediate.",
       "source": "DarkReading",
       "region": "North America",
       "country": "US",
@@ -751,10 +751,10 @@
     },
     {
       "id": "c88a39f7ba8d49421036e3896c1e32e1fe7fe80f",
-      "title": "Processes and Culture Top Reasons Behind Data Breaches",
+      "title": "Processes &amp; Culture Top Reasons Behind Data Breaches",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/processes-and-culture-top-reasons-behind-data-breaches",
       "published": "2026-05-20T17:42:30+00:00",
-      "summary": "Government leaders revealed that, in spite of state laws meant to improve cyber hygiene, an analysis of incidents showed issues persist and visibility falls short.",
+      "summary": "Despite state laws meant to improve cyber hygiene, an analysis of incidents shows issues persist and visibility falls short.",
       "source": "DarkReading",
       "region": "North America",
       "country": "US",
@@ -783,6 +783,17 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta212ce7bfdb601e7/6a0dbacd3c21f6a4c08ba686/Infosecurity_Europe_2026.png?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
+      "id": "f28ec821ba84982148c8b494f2511c2e28f413ba",
+      "title": "How CISOs Should Prep for Agentic-Ready AI BOMs",
+      "url": "https://www.darkreading.com/cyber-risk/how-cisos-should-prep-for-agentic-ready-ai-boms",
+      "published": "2026-05-20T13:27:07+00:00",
+      "summary": "Finding ways to document both component and execution attributes for AI bills of materials (AI BOMs).",
+      "source": "DarkReading",
+      "region": "North America",
+      "country": "US",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc910f7f1381f9cc0/6a0c51d37e010876184b0788/robot-book-KittipongJirasukhanont-alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
       "id": "4e6cfbf34e6e1451cf6b102caf1208f776c0361a",
       "title": "Interpol's 'Operation Ramz' Pioneers Cross-Region Collabs in Middle East",
       "url": "https://www.darkreading.com/cybersecurity-operations/interpol-operation-ramz-cross-region-middle-east",
@@ -798,7 +809,7 @@
       "title": "What It'll Take to Make AI BOMs Usable in a Modern Security Program",
       "url": "https://www.darkreading.com/cyber-risk/make-ai-bom-usable-modern-security-program",
       "published": "2026-05-20T03:44:40+00:00",
-      "summary": "Five ways CISOs can prepare for consuming AI Bill of Materials and influence the direction of how they're generated.",
+      "summary": "Five ways CISOs can prepare for consuming AI bills of materials and influence the direction of how they're generated.",
       "source": "DarkReading",
       "region": "North America",
       "country": "US",
@@ -1102,17 +1113,6 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "da93dbec3ecd06d5069ad852f7129cb2d27f1f1a",
-      "title": "LatAm Vibe Hackers Generate Custom Hacking Tools on the Fly",
-      "url": "https://www.darkreading.com/cloud-security/ai-agents-generate-custom-hacking-tools",
-      "published": "2026-05-13T13:00:00+00:00",
-      "summary": "In the latest evolution of automated cyberattacks, threat actors heavily leveraged AI agents to support campaigns against entities in Mexico and Brazil.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt21f9c2318a5ab687/6a038ac9398f1c61e4de8097/evil_robot_Anna_Vaczi_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
       "id": "b0e69528e03a4d1c768e7b669e0b21aa0f51c8d4",
       "title": "China's 'FamousSparrow' APT Nests in South Caucasus Energy Firm",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/china-famoussparrow-apt-south-caucasus-energy-firm",
@@ -1122,6 +1122,17 @@
       "region": "North America",
       "country": "US",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt69a3ca2781c97543/6a039734559f883c8de4d9ec/pair-of-java-sparrows-Alen_Thien-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
+      "id": "da93dbec3ecd06d5069ad852f7129cb2d27f1f1a",
+      "title": "LatAm Vibe Hackers Generate Custom Hacking Tools on the Fly",
+      "url": "https://www.darkreading.com/cloud-security/ai-agents-generate-custom-hacking-tools",
+      "published": "2026-05-13T13:00:00+00:00",
+      "summary": "In the latest evolution of automated cyberattacks, threat actors heavily leveraged AI agents to support campaigns against entities in Mexico and Brazil.",
+      "source": "DarkReading",
+      "region": "North America",
+      "country": "US",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt21f9c2318a5ab687/6a038ac9398f1c61e4de8097/evil_robot_Anna_Vaczi_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "id": "d04751c6c9306954f4dd90d8d0aa0d9f053a2d08",
@@ -1201,15 +1212,26 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6294394cb13e6ebe/6a01bfb65f98bb6fdefc0215/bombs-Valeriy_Kachaev-Alamy.png?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "2aee864b5fd8fa00050e999cfe89c6f5464f6c82",
-      "title": "Hackers Use AI for Exploit Development, Attack Automation",
-      "url": "https://www.darkreading.com/cloud-security/hackers-ai-exploit-dev-attack-automation",
-      "published": "2026-05-11T13:00:00+00:00",
-      "summary": "Cyber adversaries have long used AI, but now attackers are using large language models to develop exploits and orchestrate complex attacks.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta6129261e6e03886/69fe1d8aac518193326b56b8/AI_orchestration_NicoElNino_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "id": "b660971e1c84d23209897a1746fd0bb374abc09d",
+      "title": "Techie claims Trump Mobile website was leaking thousands of people's data",
+      "url": "https://www.theregister.com/security/2026/05/22/trump-mobile-site-leaks-customer-data-as-phone-finally-ships/5244828",
+      "published": "2026-05-22T10:59:09+00:00",
+      "summary": "Customers' info potentially handed to anyone who could send an HTTP request",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=254116&width=800"
+    },
+    {
+      "id": "59f02e2f095f0be4710fde57d337dd046526576a",
+      "title": "Cisco used AI to write security incident reports, with mixed results",
+      "url": "https://www.theregister.com/security/2026/05/22/cisco-used-ai-to-write-security-incident-reports-with-mixed-results/5244692",
+      "published": "2026-05-22T05:38:19+00:00",
+      "summary": "You\u2019ll need a lot of detailed prompts to get solid output - and even then it may have errors and typos",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=230011&width=800"
     },
     {
       "id": "9825e49e65076711c13f1d4c498370b69e657664",
@@ -1227,7 +1249,7 @@
       "title": "Threat hunters find Google API keys still usable 23 minutes after deletion",
       "url": "https://www.theregister.com/devops/2026/05/21/threat-hunters-find-google-api-keys-still-usable-23-minutes-after-deletion/5244504",
       "published": "2026-05-21T20:23:00+00:00",
-      "summary": "Plenty of time for bad actors to grab data or hit you with a giant bill",
+      "summary": "Plenty of time for cyber crims to grab data or hit you with a giant bill",
       "source": "The Register \u2013 Security",
       "region": "Europe",
       "country": "UK",
@@ -1740,28 +1762,6 @@
       "image": "https://image.theregister.com/?imageId=5237931&width=800"
     },
     {
-      "id": "8dbbd57f8e9e1837d3984f2240b70780ea696687",
-      "title": "Worm rubs out competitor's malware, then takes control",
-      "url": "https://www.theregister.com/security/2026/05/08/worm-rubs-out-competitors-malware-then-takes-control/5237389",
-      "published": "2026-05-08T17:26:00+00:00",
-      "summary": "All your compromised credentials are belong to us now instead of the other gang",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=5237442&width=800"
-    },
-    {
-      "id": "36e986e109b887d4a16a740a2b1e3a9f7e646fff",
-      "title": "'Dirty Frag' Linux flaw one-ups CopyFail with no patches and public root exploit",
-      "url": "https://www.theregister.com/security/2026/05/08/dirty-frag-linux-flaw-one-ups-copyfail-with-no-patches-and-public-root-exploit/5237230",
-      "published": "2026-05-08T13:36:08+00:00",
-      "summary": "Broken disclosure embargo left admins facing a fresh root-level flaw with no CVE",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=5237244&width=800"
-    },
-    {
       "id": "b18b50288d0bd38f70cf508a9d36d83e7239ea42",
       "title": "Alleged Kimwolf Botmaster \u2018Dort\u2019 Arrested, Charged in U.S. and Canada",
       "url": "https://krebsonsecurity.com/2026/05/alleged-kimwolf-botmaster-dort-arrested-charged-in-u-s-and-canada/",
@@ -1817,6 +1817,61 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "0acdc8f5002aa2104e68832808fdb1085ecb0a2e",
+      "title": "In Other News: Industrial Router Exploitation, CISA KEV Nomination Form, Gas Station Hacking",
+      "url": "https://www.securityweek.com/in-other-news-industrial-router-exploitation-cisa-kev-nomination-form-gas-station-hacking/",
+      "published": "2026-05-22T14:07:06+00:00",
+      "summary": "<p>Other noteworthy stories that might have slipped under the radar: CISA contractor exposes credentials, Mythos testing and new features, Huawei router flaw triggered telecom blackout.</p>\n<p>The post <a href=\"https://www.securityweek.com/in-other-news-industrial-router-exploitation-cisa-kev-nomination-form-gas-station-hacking/\">In Other News: Industrial Router Exploitation, CISA KEV Nomination Form, Gas Station Hacking</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "c2a9fb9223dd8e513b68cca02341576f4cdaaf5d",
+      "title": "Canadian Man Arrested for Operating Kimwolf Botnet",
+      "url": "https://www.securityweek.com/canadian-man-arrested-for-operating-kimwolf-botnet/",
+      "published": "2026-05-22T12:11:03+00:00",
+      "summary": "<p>Jacob Butler, 23, has been arrested in Canada and US authorities are seeking his extradition on computer hacking charges.</p>\n<p>The post <a href=\"https://www.securityweek.com/canadian-man-arrested-for-operating-kimwolf-botnet/\">Canadian Man Arrested for Operating Kimwolf Botnet</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "d34a6c79655aa3af38e09735af7eb0a14e4d8aa7",
+      "title": "\u2018First VPN\u2019 Cybercrime Service Disrupted, Administrator Arrested",
+      "url": "https://www.securityweek.com/first-vpn-cybercrime-service-disrupted-administrator-arrested/",
+      "published": "2026-05-22T09:24:22+00:00",
+      "summary": "<p>The FBI says First VPN has been used by dozens of ransomware groups for network reconnaissance and intrusions.</p>\n<p>The post <a href=\"https://www.securityweek.com/first-vpn-cybercrime-service-disrupted-administrator-arrested/\">&#8216;First VPN&#8217; Cybercrime Service Disrupted, Administrator Arrested</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "7ed51499b3f5a5d9a553d70eb055f4ddbadb3393",
+      "title": "TrendAI Patches Apex One Zero-Day Exploited in the Wild",
+      "url": "https://www.securityweek.com/trendai-patches-apex-one-zero-day-exploited-in-the-wild/",
+      "published": "2026-05-22T08:19:24+00:00",
+      "summary": "<p>CVE-2026-34926 is a directory traversal flaw that can be exploited against the on-premise version of Apex One.</p>\n<p>The post <a href=\"https://www.securityweek.com/trendai-patches-apex-one-zero-day-exploited-in-the-wild/\">TrendAI Patches Apex One Zero-Day Exploited in the Wild</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "bda0af9acd669bde5405c643ed59996b9a02d51d",
+      "title": "Grafana Says Codebase and Other Data Stolen via TanStack Supply Chain Attack",
+      "url": "https://www.securityweek.com/grafana-says-codebase-and-other-data-stolen-via-tanstack-supply-chain-attack/",
+      "published": "2026-05-22T07:49:38+00:00",
+      "summary": "<p>Hackers accessed Grafana\u2019s GitHub repositories after a token compromised in the TanStack attack was not rotated.</p>\n<p>The post <a href=\"https://www.securityweek.com/grafana-says-codebase-and-other-data-stolen-via-tanstack-supply-chain-attack/\">Grafana Says Codebase and Other Data Stolen via TanStack Supply Chain Attack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "895cce602d6b6cb5245f2344929cf4df80deba89",
       "title": "Cisco Patches Critical Vulnerability in Secure Workload",
       "url": "https://www.securityweek.com/cisco-patches-critical-vulnerability-in-secure-workload/",
@@ -1866,61 +1921,6 @@
       "url": "https://www.securityweek.com/socket-raises-60-million-at-1-billion-valuation/",
       "published": "2026-05-21T10:32:37+00:00",
       "summary": "<p>The company will invest in its firewall, certified patches, protection extensions, new products, and team expansion.</p>\n<p>The post <a href=\"https://www.securityweek.com/socket-raises-60-million-at-1-billion-valuation/\">Socket Raises $60 Million at $1 Billion Valuation</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "f4d11e89f7c6b42790d048f2c8204f711e8d98a3",
-      "title": "Microsoft Patches Exploited UnDefend and RedSun Defender Zero-Days",
-      "url": "https://www.securityweek.com/microsoft-patches-exploited-undefend-and-redsun-defender-zero-days/",
-      "published": "2026-05-21T09:52:05+00:00",
-      "summary": "<p>The bugs could be exploited to elevate privileges to System or create a denial-of-service (DoS) condition.</p>\n<p>The post <a href=\"https://www.securityweek.com/microsoft-patches-exploited-undefend-and-redsun-defender-zero-days/\">Microsoft Patches Exploited UnDefend and RedSun Defender Zero-Days</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "260021c0ef881f5ddb98f5de38cdd8be52377d95",
-      "title": "Google\u2019s Surge in Chrome Vulnerability Discoveries Likely Driven by AI",
-      "url": "https://www.securityweek.com/googles-surge-in-chrome-vulnerability-discoveries-likely-driven-by-ai/",
-      "published": "2026-05-21T09:37:08+00:00",
-      "summary": "<p>More than 200 vulnerabilities patched in recent Chrome releases are marked as \u2018reported by Google\u2019.</p>\n<p>The post <a href=\"https://www.securityweek.com/googles-surge-in-chrome-vulnerability-discoveries-likely-driven-by-ai/\">Google&#8217;s Surge in Chrome Vulnerability Discoveries Likely Driven by AI</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "7be55e40a7be3abb6baa34f5fbb2f72faad75aa0",
-      "title": "Supply Chain Security Crisis: Too Many Vulnerabilities, Too Little Visibility",
-      "url": "https://www.securityweek.com/supply-chain-security-crisis-too-many-vulnerabilities-too-little-visibility/",
-      "published": "2026-05-21T08:14:53+00:00",
-      "summary": "<p>New vulnerabilities are being discovered too fast, the time-to-exploitation is too short, and our visibility into them is largely lacking.</p>\n<p>The post <a href=\"https://www.securityweek.com/supply-chain-security-crisis-too-many-vulnerabilities-too-little-visibility/\">Supply Chain Security Crisis: Too Many Vulnerabilities, Too Little Visibility</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "b63726f9f1b2d1232adc865786b69679907d02a2",
-      "title": "Quantum Bridge Raises $8 Million for Quantum-Safe Key Distribution Solution",
-      "url": "https://www.securityweek.com/quantum-bridge-raises-8-million-for-quantum-safe-key-distribution-solution/",
-      "published": "2026-05-20T15:45:07+00:00",
-      "summary": "<p>The new Series A funding round brings the total raised by Quantum Bridge to $16 million.\u00a0</p>\n<p>The post <a href=\"https://www.securityweek.com/quantum-bridge-raises-8-million-for-quantum-safe-key-distribution-solution/\">Quantum Bridge Raises $8 Million for Quantum-Safe Key Distribution Solution</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "bea67c8e0654ff29250335bf520c4ab718af610e",
-      "title": "Microsoft Rolls Out Mitigations for \u2018YellowKey\u2019 BitLocker Bypass",
-      "url": "https://www.securityweek.com/microsoft-rolls-out-mitigations-for-yellowkey-bitlocker-bypass/",
-      "published": "2026-05-20T15:39:00+00:00",
-      "summary": "<p>The exploitation is mitigated by preventing the FsTx Auto Recovery Utility from starting when the WinRE image launches.</p>\n<p>The post <a href=\"https://www.securityweek.com/microsoft-rolls-out-mitigations-for-yellowkey-bitlocker-bypass/\">Microsoft Rolls Out Mitigations for &#8216;YellowKey&#8217; BitLocker Bypass</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
