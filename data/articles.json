@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-26T01:51:45.081634+00:00",
+  "generated_at": "2026-05-26T14:28:56.281298+00:00",
   "items": [
     {
       "id": "c52c5bfc6f2bec62762e4d0576addc09ff5eb014",
@@ -110,6 +110,72 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "1510c0ff3ba817a7d5ce93c4291e2f28d3220e4a",
+      "title": "[THN Webinar] New AI DDoS Attacks Are Smarter. Learn How to Fight Back",
+      "url": "https://thehackernews.com/2026/05/new-ai-ddos-attacks-are-smarter-learn.html",
+      "published": "2026-05-26T11:58:00+00:00",
+      "summary": "Every single day, hackers are finding new ways to crash websites and steal data.\n\nBut right now, something has changed. Hackers are no longer working alone. They are now using powerful Artificial Intelligence (AI) tools to make their attacks faster, stronger, and much harder to stop.\n\nAccording to recent updates from The Hacker News, bad actors are using AI to find weak spots in systems and",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiphaRoHMD4mkIzApkJZumEOEdIR0c_RxQrvmjv5qM6Kgo8MBnKrIAxicsojC-CdXhcOfRR9t0DxQeyEMXjXtER-bkSqe97zvFr7mfz3HjwA-79JjLWg0IwhZFTulr__kB02fXgX09tOpLWUjqy-fFmQbfvCZG-2uLLAhJpFAFrPo5d9H0PVZHEaSvmZKFE/s1600/ddossss.jpg"
+    },
+    {
+      "id": "553e76e303431126aa71fddc7a58cbfd8c25a6de",
+      "title": "Microsoft Patches SharePoint RCE Flaw CVE-2026-45659 Across Server Versions",
+      "url": "https://thehackernews.com/2026/05/microsoft-patches-sharepoint-rce-flaw.html",
+      "published": "2026-05-26T11:49:53+00:00",
+      "summary": "Microsoft has rolled out updates to fix a remote code execution vulnerability impacting SharePoint that could be exploited by bad actors in attacks without requiring any specialized conditions to be met.\n\nThe vulnerability, tracked as CVE-2026-45659, carries a CVSS score of 8.8. It has been assigned an important severity.\n\n\"Deserialization of untrusted data in Microsoft Office SharePoint allows",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi34meakbjhvY3-jNVG7Q8tPJ5Xk1a-vtGSeKgfVDApX6pn88G7gYhK2oz34my6QeWHsldmSJuV4o8tlBOmw-9Ul32EJYhC-aFmExZvn6ibinw10_4DhBf6pHmIum2Ha_HggakezqS_uKiOPJzrIdwioMru5Oj74p87z_ZbQt_c-bH8kQl6jEXYycod7Vrw/s1600/sharepoint.png"
+    },
+    {
+      "id": "bf6994b39180d5693f7a8a7154a49f0396d6aed3",
+      "title": "MFA Prompt Bombing: Why Your Second Factor Isn't Saving You",
+      "url": "https://thehackernews.com/2026/05/mfa-prompt-bombing-why-your-second.html",
+      "published": "2026-05-26T10:30:00+00:00",
+      "summary": "Multi-factor authentication (MFA) was supposed to close a critical gap in identity security. It meant that, even if an attacker possessed the account credentials, they couldn't log in without the second factor. While that logic was sound, attackers have now figured out that they don't need to steal the second factor: they just need the user to hand it over.\n\nIf your workforce authenticates with",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtums9LZoPXx5AzbNIYmdrNPI6vAAWAnYGfW6NzZ4DkICva0wX2GjMPvmYoq4EVuhvWUc6FyLrgJJ0Hvh8w0TBJ4MLkQplbffUwg89oiQxoJhV-93mboD0D2rdkrrhsblZ2tLJv-auc2GBNjIMsg8wGUCYOkZHNDHaQoqhDbLXrFC3-rD3cz0pI12U7rR2/s1600/prompt-1.jpg"
+    },
+    {
+      "id": "e1c3009e9bbd007cee24cd73cb7d5e19ec43b794",
+      "title": "CERT-In Recommends 12-Hour Patching for Internet-Facing Flaws Amid AI-Assisted Attacks",
+      "url": "https://thehackernews.com/2026/05/cert-in-mandates-12-hour-patching-for.html",
+      "published": "2026-05-26T09:13:02+00:00",
+      "summary": "The Indian Computer Emergency Response Team (CERT-In) has issued new guidelines requiring organizations to patch critical security vulnerabilities in internet-exposed systems within 12 hours of being flagged where \"feasible\" to safeguard against potential threats stemming from threat actors' abuse of artificial intelligence (AI) tools and large language models (LLMs) to automate vulnerability",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9yN2AliOVdy0oCCMNYXnnrLjE6yWRz_eXVGFhiIw9vxnia2BMUxqhMrI8Q23Y2hHcF-hjqbw4aIqJTvO4zDD1k_WlKzEqx_FZ7P45mn8RiQ1UEqNUgqXv4DqrkzyyjjjgjKcPnNjzKHTTX8NIelTf4L_Cbx4XyYK6piDr1oPFfSmtk-59NCbU3cGCQEcQ/s1600/indian-cert.jpg"
+    },
+    {
+      "id": "5bb52f2c1a0c83a9de3532100965423dc37d3a83",
+      "title": "Iranian Hackers Deploy MiniFast and MiniJunk V2 via Phishing and SEO Poisoning",
+      "url": "https://thehackernews.com/2026/05/iranian-hackers-deploy-minifast-and.html",
+      "published": "2026-05-26T07:13:05+00:00",
+      "summary": "The Iranian state-sponsored threat actor known as Nimbus Manticore (aka Screening Serpens and UNC1549) has been attributed to a fresh campaign using lures impersonating organizations in the aviation and software sectors across the U.S., Europe, and the Middle East following the joint U.S.-Israeli military campaign against the country in late February 2026.\n\nThe activity, besides embracing",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhL7Xqq7FlHxai3-wKrWcUujSg4cXnMJ_0LiXDaZHaZosFt3sPF1_PwcaqufOoM7q66vakQyKX5-odysTHOhtIG7ESj52Kna0i3OxaOA0sTONuH3NhkmautF8CTeiLBDzHFWjEvIT286ZnhERvK2VsvzxTdqjlEpXsbSELeqVHyr18JodeQZC-qudm2yblS/s1600/iran-hackers.jpg"
+    },
+    {
+      "id": "1a46f25eafe37389023858781b35ad9ce9f384d6",
+      "title": "KnowledgeDeliver LMS Flaw Exploited to Deploy Godzilla and Cobalt Strike",
+      "url": "https://thehackernews.com/2026/05/knowledgedeliver-lms-flaw-exploited-to.html",
+      "published": "2026-05-26T05:19:38+00:00",
+      "summary": "A now-patched high-severity security flaw affecting Digital Knowledge KnowledgeDeliver, a Learning Management System (LMS) popular in Japan, was exploited as a zero-day to deliver the Godzilla web shell and ultimately facilitate the deployment of Cobalt Strike Beacon.\n\nThe vulnerability, tracked as CVE-2026-5426 (CVSS score: 7.5), stems from the use of hard-coded ASP.NET machine keys, leading to",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZKxsveHlyTguEODsRiYVuCPiOkIgyd3imCYdnpwwV2NQ0pw9oPEQoVw-2T98HW0KgZvRqQ_zeZIT-4E3b6WH6hE-fxJeZ9YN2S9T5769SS11QP-Pf8E1kf8kk0mbwyX_sjXTgrqKDzbDivmQRRmB_qGQmTKkB673oTFD-gWDet_ptXihujQMioqvryplT/s1600/KnowledgeDeliver.jpg"
     },
     {
       "id": "a3dc8f18b436a7280da92ccc50cd2d253d6b1a9d",
@@ -596,70 +662,15 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiu4cbMji6f7O37Q6sBOEkOEXWMs7Eg4ixA0RdW8AiO6cIPai9yYqLTvVVkUH9ApXP8XycVeezSCvDMXhldVsCiaA-_kr5SwWJ4EjTfkyX0RdUacOUF3plBO9C6PHCLsUGM-L-ZthpQA7mhdPmH4nLgPPQIVBWK9BZUNQf7V17Y_5jVVvZ0FNaiOsG7mvs/s1600/anyrun-main.jpg"
     },
     {
-      "id": "265c4042567b3aa03b32c34693f3a2ecb5f5eb3e",
-      "title": "Developer Workstations Are Now Part of the Software Supply Chain",
-      "url": "https://thehackernews.com/2026/05/developer-workstations-are-now-part-of.html",
-      "published": "2026-05-18T11:23:41+00:00",
-      "summary": "Supply chain attackers are not only trying to slip malicious code into trusted software. They are trying to steal the access that makes trusted software possible. Recently, three separate campaigns hit npm, PyPI, and Docker Hub in a 48-hour window, and all three targeted secrets from developer environments and CI/CD pipelines, including API keys, cloud credentials, SSH keys, and tokens. This is",
-      "source": "The Hacker News",
+      "id": "a2e86ec32490ef3027e0099b43daec634ad4ca34",
+      "title": "Remembering Tim Wilson, Whose Legacy Lives on at Dark Reading",
+      "url": "https://www.darkreading.com/cybersecurity-operations/remembering-tim-wilson-legacy-dark-reading",
+      "published": "2026-05-26T12:00:00+00:00",
+      "summary": "The co-founder and former editor-in-chief passed away five years ago in November. As Dark Reading enters is third decade, we pause to celebrate and honor Wilson's instrumental role in building and elevating the media site.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjylLL25uQ3uU6RshKkTv9isR22Y_6_b4uJJ4koE1MqtmGs4IWdz88_aH8up_7WDxghA7-GeMbm6gpoKUXRw99Cm1ljO03H8bdcv91vvO_ch313e_JAwtYH-CewZJF2WkNrYWtcp-acMiPTvSs5aan7v2DLpEjVSBuEarfJ-eCLEHCL2WK9zjxOho_gj3k/s1600/git.gif"
-    },
-    {
-      "id": "d2c17f1fc95bc84579bb7456ed23b46f616c6ac6",
-      "title": "Ivanti, Fortinet, SAP, VMware, n8n Patch RCE, SQL Injection, Privilege Escalation Flaws",
-      "url": "https://thehackernews.com/2026/05/ivanti-fortinet-sap-vmware-n8n-patch.html",
-      "published": "2026-05-18T10:54:05+00:00",
-      "summary": "Ivanti, Fortinet, n8n, SAP, and VMware have released security fixes for various vulnerabilities that could be exploited by bad actors to bypass authentication and execute arbitrary code.\nTopping the list is a critical flaw impacting Ivanti Xtraction (CVE-2026-8043, CVSS score: 9.6) that could be exploited to achieve information disclosure or client-side attacks.\n\"External control of a file name",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2iqd3uRuOdLaM83LyZC9GOeOLeP9BnBVQQQzF7LZUeBTXfGo6e6b9c7PSC0Tkt_vhN_FUFUiDwnLXXNmzpIubE5bI0rA7dRaDhuiV35uiNTcMab7o8E_1ehn3CzUUsfno-6fYECbYzGNS1dyNof1ihn-hf4QYjLn7ZD53y_byQigukme9w-LAeBKDWXAg/s1600/patches.jpg"
-    },
-    {
-      "id": "bfdd74eb91e257fe071b18be8d8265e1a341c8f1",
-      "title": "MiniPlasma Windows 0-Day Enables SYSTEM Privilege Escalation on Fully Patched Systems",
-      "url": "https://thehackernews.com/2026/05/miniplasma-windows-0-day-enables-system.html",
-      "published": "2026-05-18T08:57:34+00:00",
-      "summary": "Chaotic Eclipse, the security researcher behind the recently disclosed Windows flaws, YellowKey and GreenPlasma, has released a proof-of-concept (PoC) for a Windows privilege escalation zero-day flaw that grants attackers SYSTEM privileges on fully patched Windows systems.\nCodenamed MiniPlasma, the vulnerability impacts \"cldflt.sys,\" which refers to the Windows Cloud Files Mini Filter Driver,",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvmx8dRRiQKx4cT0aT1-zTuzdjfThwxmlbzb2ikeeqIXUXGdcJhRrq4BykcdBB572URpoAHQhSTSyahR3M7TyvOsLSCekQGCUFM8sTcdsxkrpRFrT41wF8EqKA5LjzYHpzUtro2136Iy55cKQ_wixFUSsFDnilkUNCvrDvJbHBKK3k_IelHt9lOmbW01_u/s1600/windows-exploits.jpg"
-    },
-    {
-      "id": "9807b461e5855ce367a4901bc1dd6009f81dbc2d",
-      "title": "Four Malicious npm Packages Deliver Infostealers and Phantom Bot DDoS Malware",
-      "url": "https://thehackernews.com/2026/05/four-malicious-npm-packages-deliver.html",
-      "published": "2026-05-18T08:57:26+00:00",
-      "summary": "Cybersecurity researchers have discovered four new npm packages containing information-stealing malware, one of which is a clone of the Shai-Hulud worm open-sourced by TeamPCP.\nThe list of identified packages is below -\n\nchalk-tempalte (825 Downloads)\n@deadcode09284814/axios-util (284 Downloads)\naxois-utils (963 Downloads)\ncolor-style-utils (934 Downloads)\n\n\"One of the packages (chalk-tempalte)",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbN7WbW1cUkMzMJl0HPvRrQQUc5MQEE3Pvrc735aG7RGwpguum4POxa4yeQjyYIyiAYBDj_Zl6Ud8esex0AnQSG2J6TVWat57BLALA4WTi3gr5mfrLC2AHloSuvzx6fg9bTxZUvO-aA5VwHjyqbYecAWm2DnM9SRyt0M1GaqYzlBBKdgUR8BXV3xIDVnVN/s1600/npm-hacking.jpg"
-    },
-    {
-      "id": "28ea519925d08b254afa891ac16dd7f0d644f178",
-      "title": "Pre-Stuxnet Fast16 Malware Tampered with Nuclear Weapons Simulations",
-      "url": "https://thehackernews.com/2026/05/pre-stuxnet-fast16-malware-tampered.html",
-      "published": "2026-05-18T06:46:37+00:00",
-      "summary": "A new analysis of the Lua-based fast16 malware has confirmed that it was a cyber sabotage tool designed to tamper with nuclear weapons testing simulations.\nAccording to Broadcom-owned Symantec and Carbon Black teams, the pre-Stuxnet tool was engineered to corrupt uranium-compression simulations that are central to nuclear weapon design.\n\"Fast16's hook engine is selectively interested in",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis3jEEpg3n_4z5YYUwDaXETZ4KJGxCqjzrZMHUmpgvOCC7pxoSs6Rn9klL5REej9UUJJxIrOstlQDWjbTeAOUhJ7wFSoTvpLkOVx3hb5fKerxA6NkeNMDQ7bt4F-kLwEPXWZPCsVa_wXaonk9mb9CKTF4cVDToquGN57Xzw1VmszeNoEKVEvtcHMSnTCOi/s1600/fast16-stuxnet.jpg"
-    },
-    {
-      "id": "c17577b41e6ab29051340a05051717e987c4a4d2",
-      "title": "NGINX CVE-2026-42945 Exploited in the Wild, Causing Worker Crashes and Possible RCE",
-      "url": "https://thehackernews.com/2026/05/nginx-cve-2026-42945-exploited-in-wild.html",
-      "published": "2026-05-17T11:57:53+00:00",
-      "summary": "A newly disclosed security flaw impacting NGINX Plus and NGINX Open has come under active exploitation in the wild, days after its public disclosure, according to VulnCheck.\nThe vulnerability, tracked as CVE-2026-42945 (CVSS score: 9.2), is a heap buffer overflow in ngx_http_rewrite_module affecting NGINX versions 0.6.27 through 1.30.0. According to AI-native security company depthfirst, the",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdFtAiSRukEdQXVvEzXdQKy0O9SY7RCuqFLuAEIBe4rECuQuUS76qEXnxPuEcKIIFUysRNOGdBW2Mf2n1sh1W35aU0nCksWiW7v-20p1K7RhdPPDnxKh7kt_OmQaPrmtYPJ3larEwWr9iHeQMoRtlW767YpsXBFP5-5CQ2jTJUB_jWaMmt_29uLJvaGZE_/s1600/nginx.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltca0b99a2b1a5609d/6a0e204172bcb64834c99c46/timwine.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "id": "8ebe65c5fa660f962c8d261a4663d7b602307180",
@@ -1201,15 +1212,15 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt98af205e9fd3397b/6a030d8e8affd2e99d18dd19/sandworms_FlixPix_Alamy.png?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "25f5eb61636511ffe867f69571afefb750110648",
-      "title": "FCC Softens Ban on Foreign-Made Routers",
-      "url": "https://www.darkreading.com/endpoint-security/fcc-softens-foreign-router-ban",
-      "published": "2026-05-11T21:15:48+00:00",
-      "summary": "The Federal Communications Commission eased some restrictions and pushed back deadlines for foreign router manufacturers, but the ban is still in place.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc4f403067dc54e94/6a02390040d9cd7e103541a1/router_Casezy_idea_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "id": "19d73f6e44f16ec3c1706db9b8890106c65b91a9",
+      "title": "Experts pour cold borscht on Farage's Russian hack claim",
+      "url": "https://www.theregister.com/security/2026/05/26/experts-question-nigel-farages-russian-phone-hacking-claims/5246114",
+      "published": "2026-05-26T12:12:51+00:00",
+      "summary": "Reform UK leader alleges Moscow broke into his phone and leaked \u00a35M gift story, but security specialists await evidence",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=256312&width=800"
     },
     {
       "id": "3345356f4f9516277c3c3358929a448f6bf3f3be",
@@ -1751,17 +1762,6 @@
       "image": "https://image.theregister.com/?imageId=5238519&width=800"
     },
     {
-      "id": "76835e1aed39a53d9ff8e081782bfa95e983b2cb",
-      "title": "Double Canvas breach acknowledged as ShinyHunters sets new pay-or-leak deadline",
-      "url": "https://www.theregister.com/security/2026/05/12/double-canvas-intrusion-confirmed-as-shinyhunters-resets-leak-deadline/5238361",
-      "published": "2026-05-11T23:16:25+00:00",
-      "summary": "UPDATED: Sorry, kids, everything's back up so get to work on your new assignment - An essay on the ethics of paying ransoms, because it looks like that's what happened here",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=5238393&width=800"
-    },
-    {
       "id": "9180696aa4788b0b2cc3ec55e64f2688433c1cd4",
       "title": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
       "url": "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/",
@@ -1839,110 +1839,110 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "10fc9b13456fffc49ba5a733b25b2c44ae671f98",
+      "title": "AppOmni\u2019s Marlin AI Brings Autonomous Investigation to SaaS Security",
+      "url": "https://www.securityweek.com/appomnis-marlin-ai-brings-autonomous-investigation-to-saas-security/",
+      "published": "2026-05-26T14:00:00+00:00",
+      "summary": "<p>Marlin AI automatically analyzes SaaS misconfigurations, investigates related activity across enterprise environments, and recommends remediation steps \u2014 while stopping short of fully autonomous corrective action.</p>\n<p>The post <a href=\"https://www.securityweek.com/appomnis-marlin-ai-brings-autonomous-investigation-to-saas-security/\">AppOmni\u2019s Marlin AI Brings Autonomous Investigation to SaaS Security</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "903a1e6e2e650c705e29d053458837517e841ab6",
+      "title": "Iranian APT Targets Aviation, Software Companies With Updated Tools",
+      "url": "https://www.securityweek.com/iranian-apt-targets-aviation-software-companies-with-updated-tools/",
+      "published": "2026-05-26T13:26:17+00:00",
+      "summary": "<p>Nimbus Manticore has continued its operations during and after the US military campaign against Iran.</p>\n<p>The post <a href=\"https://www.securityweek.com/iranian-apt-targets-aviation-software-companies-with-updated-tools/\">Iranian APT Targets Aviation, Software Companies With Updated Tools</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "a82a62be74605e788c96fe625b2c8dcb6fa72b8b",
+      "title": "185,000 Likely Impacted by 7-Eleven Data Breach",
+      "url": "https://www.securityweek.com/185000-likely-impacted-by-7-eleven-data-breach/",
+      "published": "2026-05-26T11:59:40+00:00",
+      "summary": "<p>The allegedly stolen information leaked by ShinyHunters contains email addresses, names, addresses, and dates of birth.</p>\n<p>The post <a href=\"https://www.securityweek.com/185000-likely-impacted-by-7-eleven-data-breach/\">185,000 Likely Impacted by 7-Eleven Data Breach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "065a8771842c3d92153499e8ee35101932d06cf9",
+      "title": "Anthropic Expands Claude\u2019s Enterprise Security Governance With 28 New Integrations",
+      "url": "https://www.securityweek.com/anthropic-expands-claudes-enterprise-security-reach-with-28-new-integrations/",
+      "published": "2026-05-26T11:44:53+00:00",
+      "summary": "<p>Notable integrations include CrowdStrike, Palo Alto Networks, Microsoft, Okta, Zscaler, Netskope, Cloudflare, Fortinet, and Wiz.</p>\n<p>The post <a href=\"https://www.securityweek.com/anthropic-expands-claudes-enterprise-security-reach-with-28-new-integrations/\">Anthropic Expands Claude&#8217;s Enterprise Security Governance With 28 New Integrations</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "86260efdcd9d02935a8371951e45e569ed1c86d4",
+      "title": "Hackers Exploited KnowledgeDeliver Zero-Day for Web Shell Deployment",
+      "url": "https://www.securityweek.com/hackers-exploited-knowledgedeliver-zero-day-for-web-shell-deployment/",
+      "published": "2026-05-26T11:14:31+00:00",
+      "summary": "<p>Hardcoded machineKey values in a configuration file enabled ViewState deserialization attacks leading to remote code execution.</p>\n<p>The post <a href=\"https://www.securityweek.com/hackers-exploited-knowledgedeliver-zero-day-for-web-shell-deployment/\">Hackers Exploited KnowledgeDeliver Zero-Day for Web Shell Deployment</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "f05129048649a90eea874a3dbf4dfe5526d3d125",
+      "title": "Watch on Demand: Threat Detection & Incident Response Summit \u2013 All Sessions Available",
+      "url": "https://www.securityweek.com/watch-on-demand-threat-detection-incident-response-summit-all-sessions-available/",
+      "published": "2026-05-26T11:00:00+00:00",
+      "summary": "<p>Register to enjoy free access and explore the tools, strategies, and frameworks needed to build a resilient security program for a world where every minute counts.</p>\n<p>The post <a href=\"https://www.securityweek.com/watch-on-demand-threat-detection-incident-response-summit-all-sessions-available/\">Watch on Demand: Threat Detection &amp; Incident Response Summit &#8211; All Sessions Available</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "a0460ee7da69412b6216b467267ee0a68e6cd36c",
+      "title": "Open Source DockSec Uses AI to Cut Through Vulnerability Noise in Docker Images",
+      "url": "https://www.securityweek.com/open-source-docksec-uses-ai-to-cut-through-vulnerability-noise-in-docker-images/",
+      "published": "2026-05-26T10:45:00+00:00",
+      "summary": "<p>DockSec, an OWASP incubator project, correlates findings from multiple container security scanners and uses AI to generate plain-English remediation guidance and exact Dockerfile fixes.</p>\n<p>The post <a href=\"https://www.securityweek.com/open-source-docksec-uses-ai-to-cut-through-vulnerability-noise-in-docker-images/\">Open Source DockSec Uses AI to Cut Through Vulnerability Noise in Docker Images</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "6d2f114a14355cf60ca8216ee34de0c54b134f67",
+      "title": "Lithuania Suspects Foreign Involvement in Data Leak of Over 600,000 National Register Entries",
+      "url": "https://www.securityweek.com/lithuania-suspects-foreign-involvement-in-data-leak-of-over-600000-national-register-entries/",
+      "published": "2026-05-26T10:26:56+00:00",
+      "summary": "<p>Lithuanian authorities are on high alert after a massive data leak involving more than 600,000 entries from national data registers.</p>\n<p>The post <a href=\"https://www.securityweek.com/lithuania-suspects-foreign-involvement-in-data-leak-of-over-600000-national-register-entries/\">Lithuania Suspects Foreign Involvement in Data Leak of Over 600,000 National Register Entries</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "53166a73005fc21d3f91f69b4e9eafb4ef523cae",
+      "title": "Admins of Bulletproof Hosting Service Used by Russian Hackers Arrested in Netherlands",
+      "url": "https://www.securityweek.com/admins-of-bulletproof-hosting-service-used-by-russian-hackers-arrested-in-netherlands/",
+      "published": "2026-05-26T09:47:19+00:00",
+      "summary": "<p>The two own Dutch companies that allegedly provided bulletproof hosting services to Russia-aligned threat actors.</p>\n<p>The post <a href=\"https://www.securityweek.com/admins-of-bulletproof-hosting-service-used-by-russian-hackers-arrested-in-netherlands/\">Admins of Bulletproof Hosting Service Used by Russian Hackers Arrested in Netherlands</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "61eb7785904ebb46e61a0139557fca8344e86987",
       "title": "Ghost CMS Vulnerability Exploited to Hack Over 700 Websites",
       "url": "https://www.securityweek.com/ghost-cms-vulnerability-exploited-to-hack-over-700-websites/",
       "published": "2026-05-25T13:27:12+00:00",
       "summary": "<p>Sites belonging to major universities such as Harvard and Oxford, as well as DuckDuckGo, have been compromised in the attack.</p>\n<p>The post <a href=\"https://www.securityweek.com/ghost-cms-vulnerability-exploited-to-hack-over-700-websites/\">Ghost CMS Vulnerability Exploited to Hack Over 700 Websites</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "ad01d4f00898b3d4bf9f6383c5ed2cc2cd25be59",
-      "title": "Oncology Institute Discloses Data Breach",
-      "url": "https://www.securityweek.com/oncology-institute-discloses-third-party-data-breach/",
-      "published": "2026-05-25T12:17:02+00:00",
-      "summary": "<p>The affected third-party vendor has not been named, but one possible candidate is TriZetto.</p>\n<p>The post <a href=\"https://www.securityweek.com/oncology-institute-discloses-third-party-data-breach/\">Oncology Institute Discloses Data Breach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "9d01d58cd64a8215523db26eab24f55a9751214c",
-      "title": "266,000 Affected by Data Breach at Radiology Associates of Richmond",
-      "url": "https://www.securityweek.com/266000-affected-by-data-breach-at-radiology-associates-of-richmond/",
-      "published": "2026-05-25T11:17:07+00:00",
-      "summary": "<p>Threat actors stole files containing names and protected health information from the healthcare organization\u2019s systems.</p>\n<p>The post <a href=\"https://www.securityweek.com/266000-affected-by-data-breach-at-radiology-associates-of-richmond/\">266,000 Affected by Data Breach at Radiology Associates of Richmond</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "c73769995385bac38e22bb46e1066ddb7f68436f",
-      "title": "Anthropic: Mythos Detected 23,000 Potential Vulnerabilities Across 1,000 OSS Projects",
-      "url": "https://www.securityweek.com/anthropic-mythos-detected-23000-potential-vulnerabilities-across-1000-oss-projects/",
-      "published": "2026-05-25T10:58:07+00:00",
-      "summary": "<p>Many findings have been confirmed to be critical or high-severity vulnerabilities and the number will continue to increase.\u00a0</p>\n<p>The post <a href=\"https://www.securityweek.com/anthropic-mythos-detected-23000-potential-vulnerabilities-across-1000-oss-projects/\">Anthropic: Mythos Detected 23,000 Potential Vulnerabilities Across 1,000 OSS Projects</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "7846e12752ea8f4a2d8359d133cff4efda36b175",
-      "title": "Laravel-Lang Packages Poisoned for Malware Delivery",
-      "url": "https://www.securityweek.com/laravel-lang-packages-poisoned-for-malware-delivery/",
-      "published": "2026-05-25T10:41:07+00:00",
-      "summary": "<p>Published within a 15-minute window, the malicious tags introduced backdoors to exfiltrate CI secrets.</p>\n<p>The post <a href=\"https://www.securityweek.com/laravel-lang-packages-poisoned-for-malware-delivery/\">Laravel-Lang Packages Poisoned for Malware Delivery</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "3a6ac72cfa0420b5fa2733e0e3588764b64faec4",
-      "title": "DocketWise Data Breach Impacts 143,000",
-      "url": "https://www.securityweek.com/docketwise-data-breach-impacts-143000/",
-      "published": "2026-05-25T09:37:27+00:00",
-      "summary": "<p>Hackers accessed names, addresses, Social Security numbers, financial information, and medical data from third-party partner repositories.</p>\n<p>The post <a href=\"https://www.securityweek.com/docketwise-data-breach-impacts-143000/\">DocketWise Data Breach Impacts 143,000</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "13c2d82557edc284bc765e6ac1c16b494e0efc4c",
-      "title": "Over 5,500 GitHub Repositories Infected in \u2018Megalodon\u2019 Supply Chain Attack",
-      "url": "https://www.securityweek.com/over-5500-github-repositories-infected-in-megalodon-supply-chain-attack/",
-      "published": "2026-05-25T07:40:55+00:00",
-      "summary": "<p>Fake automated commits injected GitHub Actions workflows containing payloads to steal credentials, CI secrets, keys, and tokens.</p>\n<p>The post <a href=\"https://www.securityweek.com/over-5500-github-repositories-infected-in-megalodon-supply-chain-attack/\">Over 5,500 GitHub Repositories Infected in &#8216;Megalodon&#8217; Supply Chain Attack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "9702e9600c111c25439652a19d999fc985255e96",
-      "title": "\u2018Underminr\u2019 Vulnerability Lets Attackers Hide Malicious Connections Behind Trusted Domains",
-      "url": "https://www.securityweek.com/underminr-vulnerability-lets-attackers-hide-malicious-connections-behind-trusted-domains/",
-      "published": "2026-05-23T11:00:00+00:00",
-      "summary": "<p>The stealthy vulnerability impacts roughly 88 million domains and can be exploited to bypass DNS filtering and hide command-and-control traffic.</p>\n<p>The post <a href=\"https://www.securityweek.com/underminr-vulnerability-lets-attackers-hide-malicious-connections-behind-trusted-domains/\">\u2018Underminr\u2019 Vulnerability Lets Attackers Hide Malicious Connections Behind Trusted Domains</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "4c2ed41176f90599c28e873bc0ccd4b6df1dd005",
-      "title": "Drupal Vulnerability in Hacker Crosshairs Shortly After Disclosure",
-      "url": "https://www.securityweek.com/drupal-vulnerability-in-hacker-crosshairs-shortly-after-disclosure/",
-      "published": "2026-05-22T17:15:26+00:00",
-      "summary": "<p>Drupal is warning users that it has already seen attempts to exploit CVE-2026-9082 and security firms are seeing attacks against thousands of websites.</p>\n<p>The post <a href=\"https://www.securityweek.com/drupal-vulnerability-in-hacker-crosshairs-shortly-after-disclosure/\">Drupal Vulnerability in Hacker Crosshairs Shortly After Disclosure</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "0acdc8f5002aa2104e68832808fdb1085ecb0a2e",
-      "title": "In Other News: Industrial Router Exploitation, CISA KEV Nomination Form, Gas Station Hacking",
-      "url": "https://www.securityweek.com/in-other-news-industrial-router-exploitation-cisa-kev-nomination-form-gas-station-hacking/",
-      "published": "2026-05-22T14:07:06+00:00",
-      "summary": "<p>Other noteworthy stories that might have slipped under the radar: CISA contractor exposes credentials, Mythos testing and new features, Huawei router flaw triggered telecom blackout.</p>\n<p>The post <a href=\"https://www.securityweek.com/in-other-news-industrial-router-exploitation-cisa-kev-nomination-form-gas-station-hacking/\">In Other News: Industrial Router Exploitation, CISA KEV Nomination Form, Gas Station Hacking</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
