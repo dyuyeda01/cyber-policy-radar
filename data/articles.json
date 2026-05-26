@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-25T14:26:18.739793+00:00",
+  "generated_at": "2026-05-26T01:51:45.081634+00:00",
   "items": [
     {
       "id": "c52c5bfc6f2bec62762e4d0576addc09ff5eb014",
@@ -110,6 +110,17 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "a3dc8f18b436a7280da92ccc50cd2d253d6b1a9d",
+      "title": "\u26a1 Weekly Recap: Linux Flaws, Defender 0-Days, Router Botnets, and Supply Chain Chaos",
+      "url": "https://thehackernews.com/2026/05/weekly-recap-linux-flaws-defender-0.html",
+      "published": "2026-05-25T14:13:27+00:00",
+      "summary": "Monday recap. Same mess, new week.\n\nA sketchy dev tool got people pwned, old bugs came back from the dead, and security products somehow needed protecting from themselves. A bunch of companies spent the week checking old boxes and forgotten servers they should've patched years ago. Good times.\n\nPhishing crews are getting smarter too - less obvious scam junk, more targeted stuff that actually",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8B3KNTIZROmtfiYkIEINzg34cq_-I4prGGMjQ8F8oHbOcrNNB0FyCuQq-bb9ChCEtkO5TxGqm_5YRrG7r3IJAkcsX_eC3vmpR1Va-b3NOfEQynjPDmOm2A_uJ15IZk5VPnrmZzOKKjzA6_kjUFNbUkFHKsEk_Ts92DfPZXa3x4r8o8UQkOpMmNUfBwGxx/s1600/rere.jpg"
     },
     {
       "id": "7c51921d36a1a846244fc4d562ae38aca855902f",
@@ -651,17 +662,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdFtAiSRukEdQXVvEzXdQKy0O9SY7RCuqFLuAEIBe4rECuQuUS76qEXnxPuEcKIIFUysRNOGdBW2Mf2n1sh1W35aU0nCksWiW7v-20p1K7RhdPPDnxKh7kt_OmQaPrmtYPJ3larEwWr9iHeQMoRtlW767YpsXBFP5-5CQ2jTJUB_jWaMmt_29uLJvaGZE_/s1600/nginx.jpg"
     },
     {
-      "id": "570d34eb2ef025873ee9a848a0d0aabde37231b1",
-      "title": "Grafana GitHub Token Breach Led to Codebase Download and Extortion Attempt",
-      "url": "https://thehackernews.com/2026/05/grafana-github-token-breach-led-to.html",
-      "published": "2026-05-17T07:13:33+00:00",
-      "summary": "Grafana has disclosed that an \"unauthorized party\" obtained a token that granted them the ability to access the company's GitHub environment and download its codebase.\n\n\n  \"Our investigation has determined that no customer data or personal information was accessed during this incident, and we have found no evidence of impact to customer systems or operations,\" Grafana\n  said\n  in a series of",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNcCJY0s2GwOwFeSuqVz941pWrGK3theum-FBFyYO97JnK22OamMheCtr9yEEFfHMvurI7UBgl72blFK6Hm9u358g1V9HbZOk5vocuYMvgjfYLmf2XPNsSG1IiFxlbLvnRaotutjUB5I7sVLVTf1HTozz9FoeVxA3DJOn9wAOolL-HwmATDLlAD-Mgs-tO/s1600/grafana.jpg"
-    },
-    {
       "id": "8ebe65c5fa660f962c8d261a4663d7b602307180",
       "title": "Akamai Joins Growing Chorus of Vendors Betting Big on Secure Enterprise Browsers",
       "url": "https://www.darkreading.com/remote-workforce/akamai-growing-chorus-betting-on-secure-enterprise-browsers",
@@ -1135,17 +1135,6 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "da93dbec3ecd06d5069ad852f7129cb2d27f1f1a",
-      "title": "LatAm Vibe Hackers Generate Custom Hacking Tools on the Fly",
-      "url": "https://www.darkreading.com/cloud-security/ai-agents-generate-custom-hacking-tools",
-      "published": "2026-05-13T13:00:00+00:00",
-      "summary": "In the latest evolution of automated cyberattacks, threat actors heavily leveraged AI agents to support campaigns against entities in Mexico and Brazil.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt21f9c2318a5ab687/6a038ac9398f1c61e4de8097/evil_robot_Anna_Vaczi_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
       "id": "b0e69528e03a4d1c768e7b669e0b21aa0f51c8d4",
       "title": "China's 'FamousSparrow' APT Nests in South Caucasus Energy Firm",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/china-famoussparrow-apt-south-caucasus-energy-firm",
@@ -1155,6 +1144,17 @@
       "region": "North America",
       "country": "US",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt69a3ca2781c97543/6a039734559f883c8de4d9ec/pair-of-java-sparrows-Alen_Thien-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
+      "id": "da93dbec3ecd06d5069ad852f7129cb2d27f1f1a",
+      "title": "LatAm Vibe Hackers Generate Custom Hacking Tools on the Fly",
+      "url": "https://www.darkreading.com/cloud-security/ai-agents-generate-custom-hacking-tools",
+      "published": "2026-05-13T13:00:00+00:00",
+      "summary": "In the latest evolution of automated cyberattacks, threat actors heavily leveraged AI agents to support campaigns against entities in Mexico and Brazil.",
+      "source": "DarkReading",
+      "region": "North America",
+      "country": "US",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt21f9c2318a5ab687/6a038ac9398f1c61e4de8097/evil_robot_Anna_Vaczi_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "id": "d04751c6c9306954f4dd90d8d0aa0d9f053a2d08",
