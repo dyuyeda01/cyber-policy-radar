@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29T01:53:25.655976+00:00",
+  "generated_at": "2026-05-29T14:31:10.070144+00:00",
   "items": [
     {
       "id": "e54c93922d32f8dafb6d906bbe71318f3b57db9c",
@@ -110,6 +110,50 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "46fc71566ca0b384deb11626173fc8270bc331c8",
+      "title": "New Russian-Linked GREYVIBE Targets Ukraine with AI-Powered Cyberattacks",
+      "url": "https://thehackernews.com/2026/05/new-russian-linked-greyvibe-targets.html",
+      "published": "2026-05-29T11:31:59+00:00",
+      "summary": "A previously undocumented threat actor dubbed GREYVIBE has been attributed to ongoing and persistent attacks targeting Ukraine and Ukraine-related entities since at least August 2025.\n\nGREYVIBE, per WithSecure, is assessed to be a Russian-speaking group operating broadly in the Russian time zone, with the activities aligning with Kremlin state interests, specifically when it comes to",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzJ8u1-LKZwf1FFeVF2K2D2pupLFnsW_zsTumbLXt6eRSNY5NYPuBVxyacqbH-WZRBmTpGmnB0pulEcGex16O8u6812DC7RjtV5fBtVmRG55MdKOdmX2B5m1AtcgfZLCGnH_wNVxrdpfvRR70-MjsT7fzuS8wasEGhnDKmavU02xE6HjMg6FLpv3dvSFi7/s1600/russia-ai-cyberattacks.jpg"
+    },
+    {
+      "id": "8b4b43d89df19fb9f3d78df7f8cee3ea847977d0",
+      "title": "What 2,000 Exposed Vibe-Coded Apps Reveal About the Limits of Most Security Stacks",
+      "url": "https://thehackernews.com/2026/05/what-2000-exposed-vibe-coded-apps.html",
+      "published": "2026-05-29T10:30:00+00:00",
+      "summary": "Shadow AI used to mean employees pasting things they shouldn't into ChatGPT. It now means something bigger: employees building full applications with AI, wiring them into production systems, and publishing them on the open internet. Without Security or IT in the loop.\n\nThe artifact moved from a prompt to a product. The risk surface moved with it.\n\nIn The Shadow Builders report (get it here), a",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9_WTd_LhWXwvu2jTcVVVgE_IpLISA8vfn0awG8fVwVv_vxx1LvLU7XOxFCtSLMbiP6JKPQfFMdpA7cRJy0Phlu-RWtKH8m57ZMUwRI-tz0C-cAiASKIFS2Fytms6DnCCEif9l-CYN0drhFUEbrt71isM3LmzuA8Guqmhn6iiRqrTROcX-9tniNTQsglc/s1600/red.jpg"
+    },
+    {
+      "id": "c7e7f0c00e8f99951bfc00c9d4d69027553f16cb",
+      "title": "Malicious Sicoob NuGet Steals Banking Credentials as npm Packages Target Cloud Secrets",
+      "url": "https://thehackernews.com/2026/05/malicious-sicoob-nuget-steals-banking.html",
+      "published": "2026-05-29T09:11:25+00:00",
+      "summary": "Cybersecurity researchers have discovered a malicious NuGet package that masquerades as a C# software development kit for Sicoob, one of Brazil's largest cooperative financial systems, to siphon client IDs and PFX certificates.\n\nAccording to Socket, versions 2.0.0 through 2.0.4 of \"Sicoob.Sdk\" contain functionality to exfiltrate sensitive information, including PFX certificates that are used to",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUbmZyAOVZRXrWddG8PMuXbVyex9s5HPD2cH8rDjYP6EHuVadkyj72NdN9PreAnGX9iOCVGxWI2YmSLu818VmdLGEcPkb60qPIUgBYh5oBHsA4KKYufsHbFGhAQDD7SjpZU0In0TPiHN4TxCR4THBwmKa4Bus98vBgx5mO3QTQRpTM5RERk8bFWi4psF7d/s1600/sdk.jpg"
+    },
+    {
+      "id": "9fc7eeb6b2bd31e2ab634c0f1841cf545639ff34",
+      "title": "Kimsuky Deploys HTTPSpy, Expands Arsenal with HelloDoor and VS Code Tunnels",
+      "url": "https://thehackernews.com/2026/05/kimsuky-deploys-httpspy-expands-arsenal.html",
+      "published": "2026-05-29T05:57:41+00:00",
+      "summary": "The North Korean state-sponsored threat actor known as Kimsuky (aka Velvet Chollima) has been attributed to a fresh set of cyber attacks targeting South Korean military and corporate entities through March and April 2026.\n\n\"Kimsuky employed a range of tailored social engineering tactics, such as spoofing security software installation pages and crafting a fake Webex meeting page that leveraged",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJfUl1K-os1XyLN-SBt6PgMia_jFG03ArRa3H0FI2hsiUqNa3lqSWY2NJcvOhY33TArSKJxeookUpkATdERUpEwKw-IUi6iv9ZVuUq4c1A99mLwgQB4ibCxBx4MBR1XXmM98zH7v-QWDO7bhh1AONQ8Op0htvwHhuivwI1Cch9rgLPO-zSGCjjQbvXdDte/s1600/north-korea.png"
     },
     {
       "id": "2a7ef96513b2eef78b4c7fbf37351e26a67196f8",
@@ -618,48 +662,26 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheh8SBZDUM83ug6w9EopUahk6CPc27TOD5qpmZWVC8hDMYM-8wdgTLXt1KHv_66Q061_5gm3crZszZf-UvSWWZKb6Aax7BxJ5gzPEyfQTp9JPEcNUmLZnEBD3YuFHoqCU4stvSdSVON7hFJq4ZYb4Rdq1vyOK0VUURDjUpCcEP9_SN5xkQckqwaFS_-dQz/s1600/mss.jpg"
     },
     {
-      "id": "d16cd19af560364ece692051155d7b8a56ed6a92",
-      "title": "Microsoft Takes Down Malware-Signing Service Behind Ransomware Attacks",
-      "url": "https://thehackernews.com/2026/05/microsoft-takes-down-malware-signing.html",
-      "published": "2026-05-20T14:36:44+00:00",
-      "summary": "Microsoft on Tuesday said it disrupted a malware-signing-as-a-service (MSaaS) operation that weaponized the company's Artifact Signing system to deliver malicious code and conduct ransomware and other attacks, compromising thousands of machines and networks across the world.\n\nThe tech giant attributed the activity to a threat actor it calls Fox Tempest, which it said offered the MSaaS scheme",
-      "source": "The Hacker News",
+      "id": "43041307b972e7395975164b3e2fc8261bf90161",
+      "title": "With Complex Cloud Integrations, Small Errors Lead to Major Compromises",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/complex-cloud-integrations-small-errors-compromises",
+      "published": "2026-05-29T13:00:01+00:00",
+      "summary": "Researchers discover an exploit chain combining over-permissioned roles, secrets discovery, and non-human identities that could have compromised a popular automation service.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiypJnCUStqk0SRgnT6bFPLXM9F10uUBgEZgGScKH8lNthkNnD4zP2-CBNIvo2eukKJzGKOs7RFjIq1KmR-pIGFT3pFS1wgz8ySDW7O9OaMkAHXSaZvHSP_Y2JxqGgkdbCLXcn-VZOYwirKa9gU7FqEZXDafHhgxupVx6cuJam1wsnjq3qjz7q36GlvirT/s1600/windows-ransomware.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt33ea1925a9f97ba7/6a18a8b047696a7d03d6ca07/rube-goldberg-machine-complexity-T_N_Sursock-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "a5f16b1002f7ec21239c97c727a18ac119b6b6bf",
-      "title": "Webworm Deploys EchoCreep and GraphWorm Backdoors Using Discord and MS Graph API",
-      "url": "https://thehackernews.com/2026/05/webworm-deploys-echocreep-and-graphworm.html",
-      "published": "2026-05-20T12:51:43+00:00",
-      "summary": "Cybersecurity researchers have flagged fresh activity from a China-aligned threat actor known as Webworm in 2025, deploying custom backdoors that employ Discord and Microsoft Graph API for command-and-control (C2 or C&amp;C) communications.\n\nWebworm, first publicly documented by Broadcom-owned Symantec in September 2022, is assessed to be active since at least 2022, targeting government agencies",
-      "source": "The Hacker News",
+      "id": "6e4681d4f1ae97ea3ed627b05b908c7da61882a9",
+      "title": "'The Com' Cyberattacks Support Violence &amp; Sexploitation",
+      "url": "https://www.darkreading.com/threat-intelligence/the-com-cyberattacks-violence-sexploitation",
+      "published": "2026-05-29T12:00:00+00:00",
+      "summary": "Your organization's security failures have consequences for everyone else too, since this neo-Nazi-infested criminal gang uses its cyber winnings to support more violent and widespread crimes.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjt4cD52DtnzH5FM8ZMrW9KyPrD1ysrJURSmqalrw9f6siP8XxYqClsqV6ofHpM8ir7gBnmmvehj5HB1k0aSHdPmLtKKwtLLvjSi4ELa9eMq12maW7p56a2yBdl7xzdfv6893fvQxLIH0kKGYKnzYM_7-3XysWIGsSNiEYXBjmiWFqe0Pe8uq-TkWlQjjv4/s1600/cyberattack-paki.jpg"
-    },
-    {
-      "id": "14e9a238f3491019ff1324977593e8e9f1ee29a0",
-      "title": "Agent AI is Coming. Are You Ready?",
-      "url": "https://thehackernews.com/2026/05/agent-ai-is-coming-are-you-ready.html",
-      "published": "2026-05-20T11:58:00+00:00",
-      "summary": "New Industry Data Just Released Suggests Not.\n\nOn May 19th, 2026, Orchid Security released the results of our Identity Gap: Snapshot 2026. Among the findings, \"identity dark matter\" (the unseen, unmanaged elements of identity) now overshadows the visible elements 57% vs. 43%. And it couldn't have occurred at a worse time, with enterprises embracing Agent AI with both arms (and unfortunately, as",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjYQaF0euKIc86WLed9RLojSVHUNrnpx7_OeZHvmaPtnFPmL3WrhC-DU-7asOtrYx8fBGP-UCdxI1QljVgaT_wYA6uIye4yHpzpk-uSQb934K7NDSPn-jFJR63cEeUZ8SsDevlcvX-O62_-C8HZeVreeg2aB5stt6z9kluLUvIUgXAGVpAMccDc19lrsmK/s1600/agentai.gif"
-    },
-    {
-      "id": "c507821067d487798275110b5f9a97b859ef749e",
-      "title": "GitHub Breached \u2014 Employee Device Hack Led to Exfiltration of 3,800+ Internal Repos",
-      "url": "https://thehackernews.com/2026/05/github-investigating-teampcp-claimed.html",
-      "published": "2026-05-20T11:38:43+00:00",
-      "summary": "GitHub on Tuesday said it's investigating unauthorized access to its internal repositories after the notorious threat actor known as TeamPCP listed the platform's source code and internal organizations for sale on a cybercrime forum.\n\n\"While we currently have no evidence of impact to customer information stored outside of GitHub's internal repositories (such as our customers' enterprises,",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoDiyeJZY33dxAsa8qElLYXNILLDT4NhloINZiuzcx3La2JvDK_d54kM8qsx_obt8vQ3FpTJr2ZVoMYiEcqHN0sbt-1A_MHlS7mSavlbDiEDg42HN1d4wCffs7ytuZhDvmMjuej5oljVIqIuRezyZCLmafRclN3wNBKcboV-19F0VMMBkVsQZckV5UaiiH/s1600/github.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltdf36383b6981cdfc/6a189af651a3babba50e026a/Hooded_crowd-John_Williams_RF-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "id": "bce09b8a143246c47408c1dfec01935ae40a67fb",
@@ -1190,26 +1212,48 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6c991c2f510526e0/6a060dc5384002716e815d4f/typewriter_and_mobile_phone_mauritius_images_GmbH_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "ca4a50fb60090f98c2148cb152d3a451daf36566",
-      "title": "Taiwan Bullet Train Hack Highlights Cybersecurity Gaps in Rail Systems",
-      "url": "https://www.darkreading.com/ics-ot-security/taiwan-incident-highlights-cybersecurity-gaps",
-      "published": "2026-05-15T01:00:00+00:00",
-      "summary": "A Taiwanese student experimenting with software-defined radio technology shut down three bullet trains for nearly an hour, leading to an anti-terrorism response.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltba3a137dbf767ae6/6a061f2f41bd583c0c8882d7/taiwan-bullet-trains-eric1207cvb-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "id": "ea140f2a859f2778e99e18ed8a39091a6da07698",
+      "title": "Dutch cops wrest 17M devices from mystery botnet's clutches",
+      "url": "https://www.theregister.com/security/2026/05/29/dutch-cops-liberate-17m-devices-from-botnets-clutches/5248312",
+      "published": "2026-05-29T13:00:00+00:00",
+      "summary": "Hosting provider pulled the plug after police traced 200 servers to the Netherlands",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=253920&width=800"
     },
     {
-      "id": "cfcb3f30ff8e670295fc68b43c82c28dbb4407b8",
-      "title": "SecurityScorecard Snags Driftnet to Level Up Threat Intelligence",
-      "url": "https://www.darkreading.com/cyber-risk/securityscorecard-snags-driftnet-to-level-up-threat-intelligence",
-      "published": "2026-05-14T20:57:27+00:00",
-      "summary": "The acquisition looks to boost visibility into third-party ecosystems, which are becoming a bigger concern as vectors for supply chain attacks.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltfcc8475497281343/67e40db954e011810a508de7/threat_intelligence_(1800)_Futuristic_overlay_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "id": "2eb52fd303639ba626846f1cd884f889f402c2ac",
+      "title": "ChatGPT blindly trusts browser content, turning the page into a payload",
+      "url": "https://www.theregister.com/research/2026/05/29/chatgpt-prompt-injection-turns-web-pages-into-phishing-lures/5248137",
+      "published": "2026-05-29T12:00:00+00:00",
+      "summary": "You and me go ChatGPhish-ing in the dark",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=5248172&width=800"
+    },
+    {
+      "id": "ee2f520aff6c76cecb492d67a788c0a594a7507f",
+      "title": "Russia-linked threat group put ChatGPT to work from lure to payload",
+      "url": "https://www.theregister.com/research/2026/05/29/russia-linked-threat-group-put-chatgpt-to-work-from-lure-to-payload/5248368",
+      "published": "2026-05-29T11:49:45+00:00",
+      "summary": "Researchers say 'GREYVIBE' crew used AI tools throughout a campaign targeting Ukrainian military and government",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=5248389&width=800"
+    },
+    {
+      "id": "27d82c09f7fe48846db6baef1ba2e781278a39ad",
+      "title": "ShinyHunters adds Charter to trophy shelf after 4.9M customer records leak",
+      "url": "https://www.theregister.com/cyber-crime/2026/05/29/shinyhunters-adds-charter-to-trophy-shelf-after-49m-customer-records-leak/5248281",
+      "published": "2026-05-29T10:22:31+00:00",
+      "summary": "Telco giant says no sensitive data was taken, though names, addresses, phones, and emails are now out there",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=260501&width=800"
     },
     {
       "id": "e157285d39dc04f74378cd052fd1603a0725a011",
@@ -1718,50 +1762,6 @@
       "image": "https://image.theregister.com/?imageId=5240380&width=800"
     },
     {
-      "id": "dc9d1f0017d693fe8f0c4698d3863b6956104ebd",
-      "title": "Dirty Frag gets a sequel as Fragnesia hands Linux attackers root-level access",
-      "url": "https://www.theregister.com/security/2026/05/14/dirty-frag-gets-a-sequel-as-fragnesia-hands-linux-attackers-root-level-access/5240270",
-      "published": "2026-05-14T10:01:52+00:00",
-      "summary": "Fresh kernel flaw comes with public exploit code and continues ugly run of highly reliable privilege escalation bugs tied to memory and page-cache handling",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=101588&width=800"
-    },
-    {
-      "id": "172d4037113a3f101d7fefe27d3d744d0da394df",
-      "title": "To gain root access at this company, all an intruder had to do was ask nicely",
-      "url": "https://www.theregister.com/security/2026/05/14/to-gain-root-access-intruder-just-had-to-ask/5239853",
-      "published": "2026-05-14T07:00:00+00:00",
-      "summary": "Human IT managers thought they were being nice to the boss, but were assisting a threat actor",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=5239865&width=800"
-    },
-    {
-      "id": "206d701265ffa2852d327a0ef13c56a96dbe2abf",
-      "title": "AI models are getting better at replacing cybersecurity pros on certain tasks",
-      "url": "https://www.theregister.com/ai-ml/2026/05/14/ai-models-are-getting-better-at-replacing-cybersecurity-pros-on-certain-tasks/5240065",
-      "published": "2026-05-14T06:27:00+00:00",
-      "summary": "UK researchers find LLMs are learning to finish jobs faster and improving all the time",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=5240104&width=800"
-    },
-    {
-      "id": "c12d2fa09a79c1fc07c670deaefe6170cf0b39d6",
-      "title": "Cisco to fire 4,000 staff and generously give them free training \u2013 on Cisco",
-      "url": "https://www.theregister.com/networks/2026/05/14/cisco-to-fire-4000-staff-and-generously-give-them-free-training-on-cisco/5240125",
-      "published": "2026-05-14T03:32:53+00:00",
-      "summary": "Reducing memory requirements to control costs in a new wave of kit",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=5231225&width=800"
-    },
-    {
       "id": "9180696aa4788b0b2cc3ec55e64f2688433c1cd4",
       "title": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
       "url": "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/",
@@ -1839,6 +1839,39 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "62574d7a85cef87b903ed9616996839a64d66313",
+      "title": "Gogs Zero-Day Exposes Servers to Remote Code Execution",
+      "url": "https://www.securityweek.com/gogs-zero-day-exposes-servers-to-remote-code-execution/",
+      "published": "2026-05-29T12:59:37+00:00",
+      "summary": "<p>The critical-severity issue, assigned a CVSS score of 9.4, is an argument injection flaw that can be exploited by authenticated attackers via pull requests with malicious branch names.</p>\n<p>The post <a href=\"https://www.securityweek.com/gogs-zero-day-exposes-servers-to-remote-code-execution/\">Gogs Zero-Day Exposes Servers to Remote Code Execution</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "48c586aca194e6be98c593e5708ba1f28bea5e2f",
+      "title": "California Sues 23andMe, Alleging It Failed to Protect User Data in 2023 Breach",
+      "url": "https://www.securityweek.com/california-sues-23andme-alleging-it-failed-to-protect-user-data-in-2023-breach/",
+      "published": "2026-05-29T11:12:15+00:00",
+      "summary": "<p>Attorney General Rob Bonta filed the lawsuit against Chrome Holding Co., which 23andMe rebranded under after filing for bankruptcy last March.</p>\n<p>The post <a href=\"https://www.securityweek.com/california-sues-23andme-alleging-it-failed-to-protect-user-data-in-2023-breach/\">California Sues 23andMe, Alleging It Failed to Protect User Data in 2023 Breach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "1c0f675c5a2735ec6efd1953420bcfc11e476980",
+      "title": "Chrome 148 Update Patches 151 Vulnerabilities",
+      "url": "https://www.securityweek.com/chrome-148-update-patches-151-vulnerabilities/",
+      "published": "2026-05-29T10:17:23+00:00",
+      "summary": "<p>The browser update resolves critical-severity security defects that could potentially lead to remote code execution.</p>\n<p>The post <a href=\"https://www.securityweek.com/chrome-148-update-patches-151-vulnerabilities/\">Chrome 148 Update Patches 151 Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "b1dddda16179c6fdd01d7781ea9b245f1251a5f4",
       "title": "Russia-Linked \u2018GreyVibe\u2019 Attackers Use AI to Supercharge Cyberattacks",
       "url": "https://www.securityweek.com/russia-linked-greyvibe-attackers-use-ai-to-supercharge-cyberattacks/",
@@ -1910,39 +1943,6 @@
       "url": "https://www.securityweek.com/new-edamame-platform-aims-to-catch-ai-coding-agents-going-off-the-rails/",
       "published": "2026-05-28T12:00:00+00:00",
       "summary": "<p>France-based startup Edamame says its runtime verification platform uses host telemetry and AI analysis to detect coding-agent \u201cintent drift,\u201d secret theft and supply-chain attacks in real time.</p>\n<p>The post <a href=\"https://www.securityweek.com/new-edamame-platform-aims-to-catch-ai-coding-agents-going-off-the-rails/\">New Edamame Platform Aims to Catch AI Coding Agents Going Off the Rails</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "b45811b9beeaf2454582051e99557dec4494c84b",
-      "title": "Gitea Vulnerability Exposed 30,000 Deployments to Attacks",
-      "url": "https://www.securityweek.com/gitea-vulnerability-exposed-30000-deployments-to-attacks/",
-      "published": "2026-05-28T11:24:51+00:00",
-      "summary": "<p>The security flaw allowed attackers to pull private container images, exposing source code, credentials, and infrastructure.</p>\n<p>The post <a href=\"https://www.securityweek.com/gitea-vulnerability-exposed-30000-deployments-to-attacks/\">Gitea Vulnerability Exposed 30,000 Deployments to Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "c268e350d698fb9eef198cf12eef74ad8b6a1a9d",
-      "title": "Raising the Cybersecurity Stakes: Ante up for the Agentic Era",
-      "url": "https://www.securityweek.com/raising-the-cybersecurity-stakes-ante-up-for-the-agentic-era/",
-      "published": "2026-05-28T11:15:00+00:00",
-      "summary": "<p>CISOs are now facing machine-speed attacks and asking, \u201cHow do I agent?\u201d The industry must provide remediation at scale.</p>\n<p>The post <a href=\"https://www.securityweek.com/raising-the-cybersecurity-stakes-ante-up-for-the-agentic-era/\">Raising the Cybersecurity Stakes: Ante up for the Agentic Era</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "4760578e9ba3d6d8f2a5efde47bb26087624edf4",
-      "title": "Google Unveils AI Threat Defense Platform to Fight AI-Powered Cyberattacks",
-      "url": "https://www.securityweek.com/google-unveils-ai-threat-defense-platform-to-fight-ai-powered-cyberattacks/",
-      "published": "2026-05-28T09:55:00+00:00",
-      "summary": "<p>New AI Threat Defense platform combines capabilities from Mandiant, Wiz and Gemini to help customers fight AI with AI.</p>\n<p>The post <a href=\"https://www.securityweek.com/google-unveils-ai-threat-defense-platform-to-fight-ai-powered-cyberattacks/\">Google Unveils AI Threat Defense Platform to Fight AI-Powered Cyberattacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
