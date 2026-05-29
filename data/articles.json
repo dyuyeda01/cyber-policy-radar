@@ -1,6 +1,28 @@
 {
-  "generated_at": "2026-05-28T14:58:13.116603+00:00",
+  "generated_at": "2026-05-29T01:53:25.655976+00:00",
   "items": [
+    {
+      "id": "e54c93922d32f8dafb6d906bbe71318f3b57db9c",
+      "title": "How CISOs can manage sovereign-cloud security risks",
+      "url": "https://www.cybersecuritydive.com/news/how-cisos-can-manage-sovereign-cloud-security-risks/821323/",
+      "published": "2026-05-28T15:03:00+00:00",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/VL7SjJ3p7wDxCjztNEfWy6qXM_cipDUg68AuY2xIbgo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjczODIzNzIwXzBxQlJxU3MuanBn.webp\" /></div></figure><p>Selecting and adopting cloud services from non-U.S. regional providers requires solid cyber risk and security assessment.</p>",
+      "source": "Cybersecurity Dive",
+      "region": "North America",
+      "country": "US",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "ebf5c29488e62f7e5183914845e360daf751b84c",
+      "title": "IBM\u2019s new $5B initiative will help enterprises rapidly patch open-source vulnerabilities",
+      "url": "https://www.cybersecuritydive.com/news/ibm-open-source-security-ai-project-lightwell/821348/",
+      "published": "2026-05-28T14:12:36+00:00",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/szGPbvrwVS4YUrlKlZfO11QuIOSxGj1PRq4KJBrchH0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTcwNzYzMzIzLmpwZw==.webp\" /></div></figure><p>The tech giant&rsquo;s project could make it easier for businesses to safely use open-source packages.</p>",
+      "source": "Cybersecurity Dive",
+      "region": "North America",
+      "country": "US",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
     {
       "id": "97d8a8db3f20dd6125fce967cbac95892f3c3ee5",
       "title": "Enterprise data is creeping its way into shadow AI tools",
@@ -90,26 +112,26 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "82429d0c783e9cab9429abde87c9b5914d59678f",
-      "title": "Grafana Labs links GitHub environment breach to TanStack npm supply chain attack",
-      "url": "https://www.cybersecuritydive.com/news/grafana-labs-github-environment-breach-tanstack-npm-supply-chain/820866/",
-      "published": "2026-05-21T14:49:54+00:00",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/tp5ao3khN4HZ6yQwuItrq0qkr_3jaBgfcstPyItc9d0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzU2MzY0MjY4XzEuanBn.webp\" /></div></figure><p>The company behind the widely used observability platform refused an extortion demand and has since taken steps to harden its security.</p>",
-      "source": "Cybersecurity Dive",
+      "id": "2a7ef96513b2eef78b4c7fbf37351e26a67196f8",
+      "title": "Critical Gogs RCE Vulnerability Lets Any Authenticated User Execute Arbitrary Code",
+      "url": "https://thehackernews.com/2026/05/critical-gogs-rce-vulnerability-lets.html",
+      "published": "2026-05-28T17:24:44+00:00",
+      "summary": "A critical security vulnerability has been disclosed in Gogs, a popular open-source self-hosted Git service, that allows an authenticated user to execute arbitrary code under certain conditions.\n\nThe security flaw, per Rapid7, is rated 9.4 on the CVSS scoring system. It does not have a CVE identifier.\n\n\"The vulnerability allows any authenticated user to achieve remote code execution (RCE) on",
+      "source": "The Hacker News",
       "region": "North America",
       "country": "US",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaqRd_3DDSSASg_YzvuUEqv3elhvFWSjk56bXPoqJeNIWVo-K0giuJ3TNEXV-aYpnuVfOv00_VM428vIFVaMiuZzfL0dQdQvz0_xMNFq4CtrppgTZu5dupV0asq1wZjPW3FoMgUnyGMR_RgBpWT2oTnJFuhaldo3Cd3eNP-MOlDNhP9Uu2KDRiDpYHdoeq/s1600/exploit-meta.jpg"
     },
     {
-      "id": "c9b44cdd4db4a75453674ec3fba0b1f7fce756f6",
-      "title": "7-Eleven hit by data breach",
-      "url": "https://www.cybersecuritydive.com/news/7-eleven-cyberattack-franchisee-data/820698/",
-      "published": "2026-05-20T14:57:00+00:00",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/prLI76tSrPvKIxQZAEAQqeoJslYslJvNrrg3NMTooOM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS83RV9uZXdfc3RhbmRhcmRfb3V0X2Zyb250LmpwZw==.webp\" /></div></figure><p>The retailer confirmed that an unauthorized third party gained access to certain systems used to store franchisee documents earlier this spring.</p>",
-      "source": "Cybersecurity Dive",
+      "id": "bf0579a55ffc1a58f3f05620d174b04a0166bb3a",
+      "title": "Threat Actors Exploit Critical FortiClient EMS Flaw to Deploy Credential Stealer",
+      "url": "https://thehackernews.com/2026/05/threat-actors-exploit-critical.html",
+      "published": "2026-05-28T15:26:04+00:00",
+      "summary": "Threat actors are continuing to exploit a critical, now-patched security flaw impacting FortiClient Endpoint Management Server (EMS) deployments to deliver credential-stealing malware.\n\n\"The campaign abused trusted endpoint management infrastructure to deliver malware across managed endpoints,\" Arctic Wolf said. \"Threat actors disguised the credential stealer payload as a Fortinet endpoint",
+      "source": "The Hacker News",
       "region": "North America",
       "country": "US",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLo8Mb8UwcN2lkMlnUi-l3a8DXNNL2_dW0VcATt8d34xxXX-kQN8HMolrIuw8ty0WZmpURI7hyphenhyphenDrvCAiKAarvJU1__tzxaKMxX3U4ZJbuwydE2zGoyFmutxDtid410NLBq_wi7fv_QFMdmkHGqRPwVcLY8xfeJ1PSb46o0RpCA4ubLLl8_LlLg-Id7ceU8/s1600/fort.jpg"
     },
     {
       "id": "81b37aa99a838bee9cbad0c926aff4096d89dbca",
@@ -640,26 +662,37 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoDiyeJZY33dxAsa8qElLYXNILLDT4NhloINZiuzcx3La2JvDK_d54kM8qsx_obt8vQ3FpTJr2ZVoMYiEcqHN0sbt-1A_MHlS7mSavlbDiEDg42HN1d4wCffs7ytuZhDvmMjuej5oljVIqIuRezyZCLmafRclN3wNBKcboV-19F0VMMBkVsQZckV5UaiiH/s1600/github.jpg"
     },
     {
-      "id": "08a7bb349009f75acdb19722864276c57aa3e58e",
-      "title": "Typosquatting Is No Longer a User Problem. It's a Supply Chain Problem",
-      "url": "https://thehackernews.com/2026/05/typosquatting-is-no-longer-user-problem.html",
-      "published": "2026-05-20T10:30:00+00:00",
-      "summary": "AI-generated lookalike domains are now embedded inside the third-party scripts running on your web properties. Here's why your current stack can't see them, and what detection actually requires.\nDownload the CISO Expert Guide to Typosquatting in the AI Era \u2192\n\n\nTL;DR&nbsp;\n\n\n  Typosquatting is no longer a user problem. Attackers now embed lookalike domains inside legitimate third-party scripts.",
-      "source": "The Hacker News",
+      "id": "bce09b8a143246c47408c1dfec01935ae40a67fb",
+      "title": "Dutch Raid Fails to Dent Russian Bulletproof Host",
+      "url": "https://www.darkreading.com/cyber-risk/dutch-raid-russian-bulletproof-host",
+      "published": "2026-05-28T19:04:37+00:00",
+      "summary": "Dutch law enforcement seized 800 servers and arrested two operators of THE.Hosting but left the hosting provider's core IP address space intact.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLWPxY_gRwc5keQNREyoTXSadlwpCLyUdAq4v1fQA5_lA2tJ0Ia6xOk-FaLuNHwJjV_xaF7M0xzPvqHk4e7aym6R7J2aaGCGm7Bnv8OXh7GScZ-G7ic5pdEgK-0E0_y_yLz16V2A2GL5uTmU7tRPUyoDl5LfzTzQnuMlI1QV7SEhRC9Cli7zci_no9pyk/s1600/ref.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt75939e9e57fa1b91/6a1777b27e488fa22d7404ec/bulletproof_Viktollio_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "7c4c449d9a5047858edd2bc3657c2eee4dd2b921",
-      "title": "Microsoft Releases Mitigation for YellowKey BitLocker Bypass CVE-2026-45585 Exploit",
-      "url": "https://thehackernews.com/2026/05/microsoft-releases-mitigation-for.html",
-      "published": "2026-05-20T08:28:26+00:00",
-      "summary": "Microsoft on Tuesday released a mitigation for a BitLocker bypass vulnerability named YellowKey following its public disclosure last week.\n\nThe zero-day flaw, now tracked as CVE-2026-45585, carries a CVSS score of 6.8. It has been described as a BitLocker security feature bypass.\n\n\"Microsoft is aware of a security feature bypass vulnerability in Windows publicly referred to as 'YellowKey,'\" the",
-      "source": "The Hacker News",
+      "id": "2a7572e94ca0ef808f0e740b72831f050bacaea5",
+      "title": "Name That Toon Contest",
+      "url": "https://www.darkreading.com/events/celebrate-20-years-of-dark-reading-name-that-toon-contest",
+      "published": "2026-06-26T11:00:00+00:00",
+      "summary": "",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8DmW5nAG63-9iR2RmnP7i3GVJ9EBtLznscnnjROZ-DWRALYo0zsPNjUm2J6khkqSDJiX5Gmwb8sxPh4jHRcsJWFhKSdxZzz4D2f5bOahbfcnmQrUdvhyphenhyphenNVrE-LFMUhhf6rvSyxG2CoVhEFxbZSpEc0y52PM-qxwn02cDP3K3hEzf1nqcRNZEG1wOTjAiQ/s1600/bitlocker-exploit.png"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt638feb7893167b94/6a186a557f1d278d580dc037/Remove_InformationWeek_Logo_from_Header_(1).png?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
+      "id": "c5972400b032b595e0515f4139bb19d8bb8c9262",
+      "title": "Agentic AI Isn't Risky; the Way Orgs Deploy It Is",
+      "url": "https://www.darkreading.com/application-security/agentic-ai-risky",
+      "published": "2026-05-28T15:36:25+00:00",
+      "summary": "AI agents aren't black boxes \u2014 they're models interacting with software tools. The risk lies in their overlap.",
+      "source": "DarkReading",
+      "region": "North America",
+      "country": "US",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0dbefeb02aa6a89d/6a184e146efe0009ef849df5/Black_box-Rawf8-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "id": "fa533570d4010f5535adb3464af39cc9032eeb8c",
@@ -671,6 +704,17 @@
       "region": "North America",
       "country": "US",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf9514fbeb5a1fa18/6a168d897e488f337374002f/insuranceload-Bordeianu_Andrei-alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
+      "id": "ec2891006281593884eabab65a093d14f71dde53",
+      "title": "BTMOB RAT Spreads Across Brazil, LatAm via MaaS Model",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/btmob-rat-brazil-latam-maas-model",
+      "published": "2026-05-28T09:06:11+00:00",
+      "summary": "An advanced remote access Trojan is propagating online. Notably, it's delivered via an operator licensing model and features a no-code malware-development interface.",
+      "source": "DarkReading",
+      "region": "North America",
+      "country": "US",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt50056046e2acf85d/6a1805a808b87d2f6a04c317/androidmalware_rafapress_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "id": "171627d06d4b87956cc55d4876194e4027a2a0fc",
@@ -740,10 +784,10 @@
     },
     {
       "id": "30f6215f56180303f99cf830f292f969a6f8bce4",
-      "title": "State Cyber Leaders Beg Congress for More Funding, Support",
+      "title": "State Cyber Leaders Push Congress for More Funding, Support",
       "url": "https://www.darkreading.com/threat-intelligence/state-leaders-beg-congress-resume-cyber-funding",
       "published": "2026-05-26T19:29:56+00:00",
-      "summary": "A recent congressional hearing highlighted how states are reeling from federal cutbacks to important cyber grants and information sharing initiatives amid damaging attacks to critical infrastructure.",
+      "summary": "A recent congressional hearing highlighted how states are reeling from federal cutbacks to important cybergrants and information-sharing initiatives amid damaging attacks to critical infrastructure.",
       "source": "DarkReading",
       "region": "North America",
       "country": "US",
@@ -765,7 +809,7 @@
       "title": "For Enterprises, Security Remains Agentic AI's Biggest Challenge",
       "url": "https://www.darkreading.com/application-security/enterprises-agentic-ai-security-biggest-challenge",
       "published": "2026-05-26T19:12:52+00:00",
-      "summary": "Every company needs an agentic AI strategy, but the tools to allow agentic AI frameworks to be safely and securely adopted are just starting to appear.",
+      "summary": "Every company needs an agentic AI strategy, but the tools to allow agentic AI frameworks be safely and securely adopted are just starting to appear.",
       "source": "DarkReading",
       "region": "North America",
       "country": "US",
@@ -927,7 +971,7 @@
     },
     {
       "id": "a8d85b1759f69fb98c1fb800f9689f48d4e9473f",
-      "title": "Infosecurity Europe",
+      "title": "[An RX Global Event] Infosecurity Europe",
       "url": "https://www.darkreading.com/events/infosecurity-europe",
       "published": "2026-06-02T13:30:00+00:00",
       "summary": "",
@@ -1168,48 +1212,48 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltfcc8475497281343/67e40db954e011810a508de7/threat_intelligence_(1800)_Futuristic_overlay_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "025a89493d5fb1b5f74c7073a13abd9758d6fa08",
-      "title": "Maximum Severity Cisco SD-WAN Bug Exploited in the Wild",
-      "url": "https://www.darkreading.com/vulnerabilities-threats/maximum-severity-cisco-sd-wan-bug-exploited",
-      "published": "2026-05-14T20:25:31+00:00",
-      "summary": "This is the second time this year a threat actor has leveraged a CVSS 10.0 vulnerability in Cisco's network control system.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt413a34f746df538e/6a0626f76111611c85c510d8/Cisco-MTP-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "id": "e157285d39dc04f74378cd052fd1603a0725a011",
+      "title": "Troops\u2019 phones gave away location data to foreign adversaries",
+      "url": "https://www.theregister.com/security/2026/05/28/troops-phones-leaked-location-data-to-foreign-adversaries/5248108",
+      "published": "2026-05-28T21:35:36+00:00",
+      "summary": "Lawmakers push DoD to tighten smartphone controls after adversaries exploited commercial tracking data",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=225434&width=800"
     },
     {
-      "id": "ce4ca4e01005b632d69da225e58e254f1528d62e",
-      "title": "[Virtual Event] Anatomy of a Data Breach: What to Do if it Happens to You",
-      "url": "https://www.darkreading.com/events/anatomy-of-a-data-breach-what-to-do-if-it-happens-to-you",
-      "published": "2026-06-18T15:00:00+00:00",
-      "summary": "",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt947fd68cd895a80d/6a060e70239afa534b9406ac/DR_Anatomy_of_a_Data_Breach_Virtual_Event_2026.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "id": "c34309c86f4863ba41600e4390d1af3d71730556",
+      "title": "Disgruntled 0-day hunter 'humiliated' by Microsoft pledges 'bone shattering drop' as Redmond calls cops",
+      "url": "https://www.theregister.com/security/2026/05/28/microsoft-0-day-feud-escalates-as-researcher-threatens-another-windows-exploit-dump/5248085",
+      "published": "2026-05-28T20:19:09+00:00",
+      "summary": "Six 0-days, three under active exploitation, more to come on July 14?",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=254471&width=800"
     },
     {
-      "id": "b052cef943b7eb82a71d63053b013dc26493fd5e",
-      "title": "'FrostyNeighbor' APT Carefully Targets Govt Orgs in Poland, Ukraine",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/frostyneighbor-apt-govt-orgs-poland-ukraine",
-      "published": "2026-05-14T16:59:25+00:00",
-      "summary": "Attackers uniquely fingerprint victims before delivering spear-phishing payloads aimed at espionage, in the latest campaign from the Belarussian nation-state threat group.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf983cc244eaa1c16/6a04800d239afae8d4940268/Frost_Piotr_Malczyk_AlamyStockPhoto.png?width=1280&auto=webp&quality=80&disable=upscale"
+      "id": "15b3d2f4d2c6ee4e3647dad414feefc73074e510",
+      "title": "Snowflake buys Natoma to help freeze out rogue agents",
+      "url": "https://www.theregister.com/ai-ml/2026/05/28/snowflake-buys-natoma-to-help-freeze-out-rogue-agents/5248062",
+      "published": "2026-05-28T19:52:47+00:00",
+      "summary": "It is the database titan\u2019s sixth acquisition announcement since June 2025",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=5248082&width=800"
     },
     {
-      "id": "0ab5ea03a996889f2e46b0676beef828b4bbb2ec",
-      "title": "AI Drives Cybersecurity Investments, Widening 'Valley of Death'",
-      "url": "https://www.darkreading.com/cybersecurity-operations/ai-cybersecurity-investments-valley-death",
-      "published": "2026-05-14T13:00:00+00:00",
-      "summary": "In a role reversal, investment dollars in security startups exceeded the value of mergers and acquisitions in 1Q26 by more than $1 billion, a rare occurrence.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8d0adcdfb0592b29/6a023182733969819914d590/venturecapital_AlekseyFuntap_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "id": "92495bfb19d0de0ab25c42992b72961fa284d671",
+      "title": "Microsoft tests the 15-character limit of Windows Server admins' patience",
+      "url": "https://www.theregister.com/oses/2026/05/28/microsoft-tests-the-15-character-limit-of-windows-server-admins-patience/5247943",
+      "published": "2026-05-28T16:30:00+00:00",
+      "summary": "May security update trips over hostnames of a very specific length",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=5247969&width=800"
     },
     {
       "id": "1bb45ee3314ade0e1711623cad9aed8673fc24b7",
@@ -1718,50 +1762,6 @@
       "image": "https://image.theregister.com/?imageId=5231225&width=800"
     },
     {
-      "id": "73701cbf6173d4c9bec19c0fce570028ae473ffc",
-      "title": "Welcome to the vulnpocalypse, as vendors use AI to find bugs and patches multiply like rabbits",
-      "url": "https://www.theregister.com/patches/2026/05/14/welcome-to-the-vulnpocalypse-as-vendors-use-ai-to-find-bugs-and-patches-multiply-like-rabbits/5240027",
-      "published": "2026-05-13T23:27:50+00:00",
-      "summary": "Palo Alto Networks found and fixed 75 flaws this month, up from its usual five",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=5240107&width=800"
-    },
-    {
-      "id": "b3fd0ccdc3eb13d1a33111835b7c48d66514a4a4",
-      "title": "AWS to Quick admins: The access control didn't work, but you weren't using it anyway, so what's the problem?",
-      "url": "https://www.theregister.com/columnists/2026/05/13/aws-patched-quick-auth-bypass-says-customers-werent-using-control/5240041",
-      "published": "2026-05-13T22:56:41+00:00",
-      "summary": "If a setting fails in the forest and nobody hears it ...",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=5240076&width=800"
-    },
-    {
-      "id": "4375d366d9a42c209f923c42c9774b93a057f6b7",
-      "title": "Bug hunter tracks down three massive MCP flaws and one vendor won't fix theirs",
-      "url": "https://www.theregister.com/security/2026/05/13/bug-hunter-tracks-down-three-serious-mcp-database-flaws-one-left-unpatched/5238916",
-      "published": "2026-05-13T20:17:24+00:00",
-      "summary": "Apache, Alibaba databases vulnerable and only one has a patch",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=5239946&width=800"
-    },
-    {
-      "id": "de488768a3df8aca1fabdf7dfb62c8aaccce18bf",
-      "title": "Mystery Microsoft bug leaker keeps the zero-days coming",
-      "url": "https://www.theregister.com/security/2026/05/13/disgruntled-researcher-releases-two-more-microsoft-zero-days/5239758",
-      "published": "2026-05-13T16:16:02+00:00",
-      "summary": "Security pros warn YellowKey claim could make stolen laptops a much bigger problem",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=5239796&width=800"
-    },
-    {
       "id": "9180696aa4788b0b2cc3ec55e64f2688433c1cd4",
       "title": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
       "url": "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/",
@@ -1834,6 +1834,28 @@
       "published": "2026-04-30T14:04:26+00:00",
       "summary": "A Brazilian tech firm that specializes in protecting networks from distributed denial-of-service (DDoS) attacks has been enabling a botnet responsible for an extended campaign of massive DDoS attacks against other network operators in Brazil, KrebsOnSecurity has learned. The firm's chief executive says the malicious activity resulted from a security breach and was likely the work of a competitor trying to tarnish his company's public image.",
       "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "b1dddda16179c6fdd01d7781ea9b245f1251a5f4",
+      "title": "Russia-Linked \u2018GreyVibe\u2019 Attackers Use AI to Supercharge Cyberattacks",
+      "url": "https://www.securityweek.com/russia-linked-greyvibe-attackers-use-ai-to-supercharge-cyberattacks/",
+      "published": "2026-05-28T18:50:49+00:00",
+      "summary": "<p>Researchers warn GreyVibe\u2019s extensive use of ChatGPT, Gemini, and other AI tools offers a glimpse into how future cybercriminal and state-aligned groups will operate.</p>\n<p>The post <a href=\"https://www.securityweek.com/russia-linked-greyvibe-attackers-use-ai-to-supercharge-cyberattacks/\">Russia-Linked \u2018GreyVibe\u2019 Attackers Use AI to Supercharge Cyberattacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "051dfa1244829ae2a02425659a5e1b4d19803e5c",
+      "title": "Geordie Raises $30 Million for AI Security and Governance Platform",
+      "url": "https://www.securityweek.com/geordie-raises-30-million-for-ai-security-and-governance-platform/",
+      "published": "2026-05-28T17:07:16+00:00",
+      "summary": "<p>The funding round was led by Balderton Capital, with additional support from Crosspoint Capital and previous investors General Catalyst and Ten Eleven Ventures.</p>\n<p>The post <a href=\"https://www.securityweek.com/geordie-raises-30-million-for-ai-security-and-governance-platform/\">Geordie Raises $30 Million for AI Security and Governance Platform</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
@@ -1921,28 +1943,6 @@
       "url": "https://www.securityweek.com/google-unveils-ai-threat-defense-platform-to-fight-ai-powered-cyberattacks/",
       "published": "2026-05-28T09:55:00+00:00",
       "summary": "<p>New AI Threat Defense platform combines capabilities from Mandiant, Wiz and Gemini to help customers fight AI with AI.</p>\n<p>The post <a href=\"https://www.securityweek.com/google-unveils-ai-threat-defense-platform-to-fight-ai-powered-cyberattacks/\">Google Unveils AI Threat Defense Platform to Fight AI-Powered Cyberattacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "c8cd67c6826cb215a0b80f1a2f80407a78d5ee48",
-      "title": "UK Cyberspying Chief Calls AI \u2018an Unstoppable Force\u2019 and Warns About Russia",
-      "url": "https://www.securityweek.com/uk-cyberspying-chief-calls-ai-an-unstoppable-force-and-warns-about-russia/",
-      "published": "2026-05-27T17:32:14+00:00",
-      "summary": "<p>The speech is the latest in a string of warnings from intelligence experts that Russia is stepping up hostile activity in a \u201cgray zone\u201d that falls just below the threshold of war.</p>\n<p>The post <a href=\"https://www.securityweek.com/uk-cyberspying-chief-calls-ai-an-unstoppable-force-and-warns-about-russia/\">UK Cyberspying Chief Calls AI \u2018an Unstoppable Force\u2019 and Warns About Russia</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "0341952aeb3c24d51e8291e6c2de27d9410d9222",
-      "title": "Vulnerability in Popular Conference Software Granted Attackers a 100% Talk Acceptance Rate",
-      "url": "https://www.securityweek.com/vulnerability-in-popular-conference-software-granted-attackers-a-100-talk-acceptance-rate/",
-      "published": "2026-05-27T14:30:00+00:00",
-      "summary": "<p>Novee researchers discovered an account takeover vulnerability in the open source CFP management tool Pretalx.</p>\n<p>The post <a href=\"https://www.securityweek.com/vulnerability-in-popular-conference-software-granted-attackers-a-100-talk-acceptance-rate/\">Vulnerability in Popular Conference Software Granted Attackers a 100% Talk Acceptance Rate</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
