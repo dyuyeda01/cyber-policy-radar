@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-30T01:49:11.876116+00:00",
+  "generated_at": "2026-05-30T12:55:44.998082+00:00",
   "items": [
     {
       "id": "7c4ab6470fb659550958d2db4af59edb1c8046c0",
@@ -112,6 +112,17 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "86589dcb0fd98812908761515af507c290227f81",
+      "title": "PAN-OS GlobalProtect Authentication Bypass (CVE-2026-0257) Under Active Exploitation",
+      "url": "https://thehackernews.com/2026/05/pan-os-globalprotect-authentication.html",
+      "published": "2026-05-30T06:41:26+00:00",
+      "summary": "Palo Alto Networks has warned that a recently disclosed medium-severity security flaw impacting PAN-OS and Prisma Access has come under active exploitation in the wild.\n\nThe vulnerability, tracked as CVE-2026-0257 (CVSS score: 7.8), refers to a case of authentication bypass that could be exploited by bad actors to set up VPN connections.\n\n\"Authentication bypass vulnerabilities in the",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkaW0i4ALAlpWQ_cOjfhoqUlNgMlZysJA6ay0qPViGI_KxEEG-Hh0KdtWLqBXDH42ZBGSONs0ZJuzOqdRF7vbx6Xa9J8HlP60lY45JHy0ivdRQs0exe4wZT2lI3TW4oDO-XXPVz2pek2M3izLqT3ONwq2iuHPN31ZZvK3jl0zIDq_h5XF1CTRk7fUPzjEQ/s1600/panos.jpg"
+    },
+    {
       "id": "1696c2ab816edc4125a5b55a1d770a39a4d3a906",
       "title": "ChatGPhish Vulnerability Turns ChatGPT Web Summaries Into a Phishing Surface",
       "url": "https://thehackernews.com/2026/05/chatgphish-vulnerability-turns-chatgpt.html",
@@ -135,7 +146,7 @@
     },
     {
       "id": "46fc71566ca0b384deb11626173fc8270bc331c8",
-      "title": "New Russian-Linked GREYVIBE Targets Ukraine with AI-Powered Cyberattacks",
+      "title": "New Russia-Linked GREYVIBE Targets Ukraine with AI-Powered Cyberattacks",
       "url": "https://thehackernews.com/2026/05/new-russian-linked-greyvibe-targets.html",
       "published": "2026-05-29T11:31:59+00:00",
       "summary": "A previously undocumented threat actor dubbed GREYVIBE has been attributed to ongoing and persistent attacks targeting Ukraine and Ukraine-related entities since at least August 2025.\n\nGREYVIBE, per WithSecure, is assessed to be a Russian-speaking group operating broadly in the Russian time zone, with the activities aligning with Kremlin state interests, specifically when it comes to",
@@ -649,17 +660,6 @@
       "region": "North America",
       "country": "US",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCjgJwva2lZrAwxHWPZFiphHAhxBdWRyU4gUiAZIStkUP4JU6yej3Z1xVhUtrhaIYVu4IL5KpvOomBDHU_aLtvgHV-R9_41nUSrngG0BGBlCv2pByfkVZNKxmwA3Nf6NR7pi6XgwdUjkwFw27lm_vNR_w2Cr1An46yOM8kfIEphrSCq2aRcaKNNj9D-PiN/s1600/linux-exploit.gif"
-    },
-    {
-      "id": "4db825ca2508a675d1f24228103f650ad18061fd",
-      "title": "GitHub Internal Repositories Breached via Malicious Nx Console VS Code Extension",
-      "url": "https://thehackernews.com/2026/05/github-internal-repositories-breached.html",
-      "published": "2026-05-21T04:27:01+00:00",
-      "summary": "GitHub on Wednesday officially confirmed that the breach of its internal repositories was the result of a compromise of an employee device involving a poisoned version of the Nx Console Microsoft Visual Studio Code (VS Code) extension.&nbsp;\n\nThe development comes as the Nx team revealed that the extension, nrwl.angular-console, was breached after one of its developers' systems was hacked in the",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJ64wgVqZTQx208NgY0sBvUUQcR5mb-G4ENkfw4PEX9KlJJxEI_uUKQvPG0rReXB4chZ3wXrvNSR1QsrK525DDHkzY9X3nQYduh36qKTyC-k4EfixFeOU7YR1mRIw8ZJL-oYN8k_wwBid2GU8NYJtCqEFLOSzomuu-Xx7yA3Djim0nq79RyoZJs6HGga_H/s1600/github-hacked.jpg"
     },
     {
       "id": "88ced96d51ee18c214572ed226da18a8d37849c0",
