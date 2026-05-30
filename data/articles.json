@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-05-29T14:31:10.070144+00:00",
+  "generated_at": "2026-05-30T01:49:11.876116+00:00",
   "items": [
+    {
+      "id": "7c4ab6470fb659550958d2db4af59edb1c8046c0",
+      "title": "CISA urges security teams to check for software development compromises",
+      "url": "https://www.cybersecuritydive.com/news/cisa-security-software-supply-chain-compromises-GitHub/821487/",
+      "published": "2026-05-29T15:03:07+00:00",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/M3HPAJxk-UrOmMQzGWIW6sOTLiZCCLRWWc9mr7XuCAc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9nZXR0eWltYWdlcy02NTUxNDY5NTYtMTcwNjY3YS5qcGc=.webp\" /></div></figure><p>The agency warned about a wave of attacks targeting credentials and other secrets across critical supply chains.</p>",
+      "source": "Cybersecurity Dive",
+      "region": "North America",
+      "country": "US",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
     {
       "id": "e54c93922d32f8dafb6d906bbe71318f3b57db9c",
       "title": "How CISOs can manage sovereign-cloud security risks",
@@ -101,15 +112,26 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "4bd0914cc1a1c2970f4fb044601b3cb8b273855e",
-      "title": "CISA asks cybersecurity community to alert it to vulnerability exploitation",
-      "url": "https://www.cybersecuritydive.com/news/cisa-cve-vulnerability-exploitation-nominations/820870/",
-      "published": "2026-05-21T15:00:25+00:00",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/p1t777lvRYTMuNm-9ZruuRPB3bo1Gk03gNobbnqCDZc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9DSVNBX2hlYWRlci5qcGc=.webp\" /></div></figure><p>The agency wants to ensure that its public catalog of actively exploited flaws is as comprehensive as possible.</p>",
-      "source": "Cybersecurity Dive",
+      "id": "1696c2ab816edc4125a5b55a1d770a39a4d3a906",
+      "title": "ChatGPhish Vulnerability Turns ChatGPT Web Summaries Into a Phishing Surface",
+      "url": "https://thehackernews.com/2026/05/chatgphish-vulnerability-turns-chatgpt.html",
+      "published": "2026-05-29T18:07:12+00:00",
+      "summary": "Cybersecurity researchers have disclosed details of a vulnerability in OpenAI ChatGPT that leverages the artificial intelligence (AI) assistant's implicit trust in Markdown links and images to trigger prompt injections and open the door to phishing attacks.\n\nThe technique has been codenamed ChatGPhish by Permiso Security.\n\n\"The chatgpt.com response renderer trusts Markdown links and Markdown",
+      "source": "The Hacker News",
       "region": "North America",
       "country": "US",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikkk-MbHPjc5UpAORUC9pUfe-LntIu7A2tsg3EBFPXh3b6WXoiv8HtxvSakdqICfwN1YGSY452zIdjuyafscYfbf7yKnzbE_SxWxmPeX9uBLkTWY7aNyzLK903ts83ThlQGKOPYKNCW6UHg2c7ia4O7cVIwV5p24c-POfHYTJak6tRmL03rbjOWxCfpPYb/s1600/chatgpt-phishing.jpg"
+    },
+    {
+      "id": "6e4e360444c493176f25fc8245ae565f9e30e95c",
+      "title": "Attackers Use LLM Agent for Post-Exploitation After Marimo CVE-2026-39987 Exploit",
+      "url": "https://thehackernews.com/2026/05/attackers-use-llm-agent-for-post.html",
+      "published": "2026-05-29T14:39:56+00:00",
+      "summary": "An unknown threat actor has been observed using a large language model (LLM) agent to conduct post-compromise actions after obtaining initial access following the exploitation of a publicly-accessible Marimo network using a recently disclosed vulnerability.\n\n\"The attacker compromised an internet-reachable Marimo notebook via CVE-2026-39987, extracted two cloud credentials from the compromised",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi20dgnD8cZh6NCcPM9Xa3fzLgNygU4O6AmBUmN1w6KwsDMJ8_jkpZPk77r8phf3MX-cXOlVxke-ypIuj2xh3AB3dy1HSuIa4YYFlgH8Odm1jCRVESBGqxgiDoRbQEG4L_QrKOoH8TSvLLKZxnBfPEemz4kaqWto4t_3cZCmWW44NX-Q1aWakBWVDhAza7T/s1600/marimo.png"
     },
     {
       "id": "46fc71566ca0b384deb11626173fc8270bc331c8",
@@ -640,26 +662,26 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJ64wgVqZTQx208NgY0sBvUUQcR5mb-G4ENkfw4PEX9KlJJxEI_uUKQvPG0rReXB4chZ3wXrvNSR1QsrK525DDHkzY9X3nQYduh36qKTyC-k4EfixFeOU7YR1mRIw8ZJL-oYN8k_wwBid2GU8NYJtCqEFLOSzomuu-Xx7yA3Djim0nq79RyoZJs6HGga_H/s1600/github-hacked.jpg"
     },
     {
-      "id": "a3751dbba3ed7d0b18dd5eddc57f136d2ff6cfc7",
-      "title": "Highly Critical Drupal Core Flaw Exposes PostgreSQL Sites to RCE Attacks",
-      "url": "https://thehackernews.com/2026/05/highly-critical-drupal-core-flaw.html",
-      "published": "2026-05-21T03:44:11+00:00",
-      "summary": "Drupal has released security updates for a \"highly critical\" security vulnerability in Drupal Core that could be exploited by attackers to achieve remote code execution, privilege escalation, or information disclosure.\nThe vulnerability, now tracked as CVE-2026-9082, carries a CVSS score of 6.5 out of 10.0, per CVE.org. Drupal said the vulnerability resides in a database abstraction API that is",
-      "source": "The Hacker News",
+      "id": "88ced96d51ee18c214572ed226da18a8d37849c0",
+      "title": "Name That Toon: Mark of (Cybersecurity) Progress",
+      "url": "https://www.darkreading.com/cloud-security/name-that-toon-mark-of-cybersecurity-progress",
+      "published": "2026-05-29T20:22:04+00:00",
+      "summary": "As part of Dark Reading's 20th anniversary package, we asked readers for a cybersecurity-related caption that captures their thoughts about the industry's last two decades.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyhKX1WKEWbBPd4sElCP9BB26eorxZX1Lo25Mcu-A5bfBUuWT63SQ-Hyycv1YPSlvVeZPfLSEbb8mQnuPvf0KEDm8mYTtCLoYZuMG6A8maidLefE12_3Plum0keZ-mbAS4dGN-x7Oj0NWOmoeqp6_PEK0fqpnZwz8ZFV-NhyFl78WS4Nck76yAbfgWRpK7/s1600/drupal-flaw.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltcecddc9a9b77560b/6a19f878719ad34f2440c903/dr20-toon-may26-final.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "03ee68797a7d971cfbb4e23ae5dc49cddab2057d",
-      "title": "Microsoft Open-Sources RAMPART and Clarity to Secure AI Agents During Development",
-      "url": "https://thehackernews.com/2026/05/microsoft-open-sources-rampart-and.html",
-      "published": "2026-05-20T17:06:54+00:00",
-      "summary": "Microsoft has unveiled two new open-source tools called RAMPART and Clarity to assist developers in better testing the security of artificial intelligence (AI) agents.\n\nRAMPART, short for Risk Assessment and Measurement Platform for Agentic Red Teaming, functions as a Pytest-native safety and security testing framework for writing and running safety and security tests for AI agents, covering",
-      "source": "The Hacker News",
+      "id": "c1d29f0aac7ff36343802fc2ce1a429598b4fcb7",
+      "title": "Asia's Cyber Insurance Market Shows Signs of Life",
+      "url": "https://www.darkreading.com/cybersecurity-operations/asias-cyber-insurance-market-signs-of-life",
+      "published": "2026-05-29T14:35:33+00:00",
+      "summary": "The cyber insurance industry has made relatively weak inroads into Asia due to a a variety of factors, but that could be changing.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheh8SBZDUM83ug6w9EopUahk6CPc27TOD5qpmZWVC8hDMYM-8wdgTLXt1KHv_66Q061_5gm3crZszZf-UvSWWZKb6Aax7BxJ5gzPEyfQTp9JPEcNUmLZnEBD3YuFHoqCU4stvSdSVON7hFJq4ZYb4Rdq1vyOK0VUURDjUpCcEP9_SN5xkQckqwaFS_-dQz/s1600/mss.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb9e3fbe8c75eb597/6a19745b69143b73c43502c5/Blue_globe_Asia_Jimmie_Tolliver_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "id": "43041307b972e7395975164b3e2fc8261bf90161",
@@ -682,6 +704,17 @@
       "region": "North America",
       "country": "US",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltdf36383b6981cdfc/6a189af651a3babba50e026a/Hooded_crowd-John_Williams_RF-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
+      "id": "2b5c9925322abeaef161aaa69273e608079b769b",
+      "title": "As Global Powers Explore Humanoid Robots, Cyber-Risk Looms",
+      "url": "https://www.darkreading.com/cyber-risk/global-powers-explore-humanoids-cyber-risk",
+      "published": "2026-05-28T23:05:23+00:00",
+      "summary": "The future of cybersecurity is germinating, as nation states vie for dominance in the embodied AI market and its supply chain.",
+      "source": "DarkReading",
+      "region": "North America",
+      "country": "US",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd919de1e6eb08bb9/6a18cae74c25b5264e1e240f/Terminator-Over_There_Pics-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "id": "bce09b8a143246c47408c1dfec01935ae40a67fb",
@@ -1179,37 +1212,48 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8bb440d26c1c8c62/6a077adfeb51442934d177c1/decay-DBURKE-alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "de0c1902ca81db28fd48b5c3083482114b323140",
-      "title": "Can Laws Stop Deepfakes? South Korea Aims to Find Out",
-      "url": "https://www.darkreading.com/vulnerabilities-threats/can-laws-stop-deepfakes-south-korea",
-      "published": "2026-05-18T01:00:00+00:00",
-      "summary": "South Korea's local elections next month will be a test bed for how effective regulations might be to stymie the flow of deepfakes.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltbca6faddbee78c86/6a073d95eb9f4a233d786122/Lee_Jay-myung_Xinhua_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "id": "61ef3d845a892c45b0aef1037a47e4a2055dee92",
+      "title": "Lone attacker published 14 malicious npm packages mimicking popular OpenSearch, Elasticsearch libraries",
+      "url": "https://www.theregister.com/security/2026/05/29/14-malicious-npm-packages-impersonated-opensearch-elasticsearch-libraries/5248792",
+      "published": "2026-05-29T21:46:34+00:00",
+      "summary": "And then Microsoft busted them all",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=5248815&width=800"
     },
     {
-      "id": "38531cb944bdd437fbadd28e4da4f852eb181bc6",
-      "title": "Congress Puts Heat on Instructure After Canvas Outage",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/congress-instructure-shinyhunters-attacks",
-      "published": "2026-05-15T20:19:20+00:00",
-      "summary": "The House Committee on Homeland Security sent a letter about the Canvas cyberattack, the same day that the edtech company said it reached an &quot;agreement&quot; with the ShinyHunters cybercriminals.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb9f102c416e36970/6a062de47896f162656ad15c/canvas_pictoKraft_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "id": "1738fb8674cd57e3eb40775b8605fc550199c9ff",
+      "title": "ICE to keep an eye on your eyes under $25M biometric scanner deal",
+      "url": "https://www.theregister.com/public-sector/2026/05/29/ice-awards-bi2-25m-contract-for-1570-biometric-scanners/5248733",
+      "published": "2026-05-29T19:35:45+00:00",
+      "summary": "And you thought a face recognition app was intrusive?",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=5225489&width=800"
     },
     {
-      "id": "c08225d56c43e5f28b2a3ae5394dc6306a65f6ae",
-      "title": "Cyber Pioneers Ponder Past as Prologue",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/cybersecurity-pioneers-ponder-past-prologue",
-      "published": "2026-05-15T12:00:00+00:00",
-      "summary": "Robert &quot;RSnake&quot; Hansen, Katie Moussouris, Rich Mogull, Richard Stiennon, and Bruce Schneier reflect on how their favorite columns penned for Dark Reading over the past 20 years have stood the test of time.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6c991c2f510526e0/6a060dc5384002716e815d4f/typewriter_and_mobile_phone_mauritius_images_GmbH_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "id": "52246e9a188f86dd35773630d1b45d6a55b2ead5",
+      "title": "No fix yet for critical RCE bug in open-source Git service Gogs - exploit module is out",
+      "url": "https://www.theregister.com/security/2026/05/29/no-fix-yet-for-critical-gogs-rce-bug-exploit-module-is-out/5248691",
+      "published": "2026-05-29T18:26:48+00:00",
+      "summary": "Researcher reported the vuln in March. Maintainers haven't responded to his messages since",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=5248726&width=800"
+    },
+    {
+      "id": "2c63a67b177a4d6a216d963ad913f5063217abcd",
+      "title": "23andMe inherits lawsuit over 'disturbing' DNA data breach",
+      "url": "https://www.theregister.com/legal/2026/05/29/rob-bonta-sues-23andmes-new-owners-over-2023-breach/5248565",
+      "published": "2026-05-29T16:12:26+00:00",
+      "summary": "California AG claims genetics biz downplayed 2023 mega-leak while paying ransom to attacker",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=260962&width=800"
     },
     {
       "id": "ea140f2a859f2778e99e18ed8a39091a6da07698",
@@ -1718,50 +1762,6 @@
       "image": "https://image.theregister.com/?imageId=234872&width=800"
     },
     {
-      "id": "3c39463a5d27e7a109092949fb3923e9d962bc9a",
-      "title": "OpenAI caught in TanStack npm supply chain chaos after employee devices compromised",
-      "url": "https://www.theregister.com/security/2026/05/15/openai-caught-in-tanstack-npm-supply-chain-chaos-after-employee-devices-compromised/5241019",
-      "published": "2026-05-15T10:08:07+00:00",
-      "summary": "Attackers stole a limited amount of internal credential material after malware hidden in poisoned packages reached two staff machines",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=5241038&width=800"
-    },
-    {
-      "id": "b80c7dfac2fa6f0344db5319c6e6d191e43cd294",
-      "title": "MPs want social media treated more like unsafe toys than harmless apps",
-      "url": "https://www.theregister.com/security/2026/05/15/mps-want-social-media-treated-more-like-unsafe-toys-than-harmless-apps/5240578",
-      "published": "2026-05-15T08:33:00+00:00",
-      "summary": "Parliamentary committee tells ministers online safety regime is failing children and warns 'no action is not an option'",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=5240624&width=800"
-    },
-    {
-      "id": "dfcdcde14b28304a0417bad3ab2d008e7b885e56",
-      "title": "Nobody believes the 'criminals and scumbags' who hacked Canvas really deleted stolen student data",
-      "url": "https://www.theregister.com/cyber-crime/2026/05/14/security-pros-doubt-canvas-attackers-really-deleted-stolen-student-data/5240799",
-      "published": "2026-05-14T22:42:11+00:00",
-      "summary": "Other than Instructure execs - maybe?",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=5240833&width=800"
-    },
-    {
-      "id": "5720f48479f3846badd1cd590a07d2bcf750ea90",
-      "title": "Cops arrest man suspected of being Dream Market kingpin",
-      "url": "https://www.theregister.com/security/2026/05/14/alleged-dream-market-kingpin-faces-us-german-charges/5240315",
-      "published": "2026-05-14T11:26:36+00:00",
-      "summary": "Owe Martin Andresen faces charges in both US and Germany connected with money laundering, claims he sent gold bars directly to his doorstep",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=5240380&width=800"
-    },
-    {
       "id": "9180696aa4788b0b2cc3ec55e64f2688433c1cd4",
       "title": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
       "url": "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/",
@@ -1839,6 +1839,39 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "86260220307ab3b9d3c34aa3a19e82f1b3acf188",
+      "title": "In Other News: Trump Mobile Data Breach, FIFA World Cup Phishing, CISA Responds to Supply Chain Attacks",
+      "url": "https://www.securityweek.com/in-other-news-trump-mobile-data-breach-fifa-world-cup-phishing-cisa-responds-to-supply-chain-attacks/",
+      "published": "2026-05-29T16:20:49+00:00",
+      "summary": "<p>Noteworthy stories that might have slipped under the radar: Trump Mobile exposes customer data, phishers target the 2026 FIFA World Cup, CISA responds to recent supply chain attacks. </p>\n<p>The post <a href=\"https://www.securityweek.com/in-other-news-trump-mobile-data-breach-fifa-world-cup-phishing-cisa-responds-to-supply-chain-attacks/\">In Other News: Trump Mobile Data Breach, FIFA World Cup Phishing, CISA Responds to Supply Chain Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "2eaedd10d5927f26facd80ae323129e7d1339d65",
+      "title": "Charter Communications Data Breach Could Impact Nearly 5 Million",
+      "url": "https://www.securityweek.com/charter-communications-data-breach-could-impact-nearly-5-million/",
+      "published": "2026-05-29T14:49:58+00:00",
+      "summary": "<p>The notorious ShinyHunters extortion group leaked over 42 million records allegedly stolen from Charter in April.</p>\n<p>The post <a href=\"https://www.securityweek.com/charter-communications-data-breach-could-impact-nearly-5-million/\">Charter Communications Data Breach Could Impact Nearly 5 Million</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "176fc582e5a8980248e852eda6fcc3ca0656ff27",
+      "title": "MokN Raises $15 Million for Phish-Back Platform",
+      "url": "https://www.securityweek.com/mokn-raises-15-million-for-phish-back-platform/",
+      "published": "2026-05-29T14:34:15+00:00",
+      "summary": "<p>MokN's platform deploys realistic decoy access points to lure attackers into revealing compromised credentials, enabling organizations to respond before abuse occurs.</p>\n<p>The post <a href=\"https://www.securityweek.com/mokn-raises-15-million-for-phish-back-platform/\">MokN Raises $15 Million for Phish-Back Platform</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "62574d7a85cef87b903ed9616996839a64d66313",
       "title": "Gogs Zero-Day Exposes Servers to Remote Code Execution",
       "url": "https://www.securityweek.com/gogs-zero-day-exposes-servers-to-remote-code-execution/",
@@ -1910,39 +1943,6 @@
       "url": "https://www.securityweek.com/new-btmob-android-malware-enables-full-device-takeover/",
       "published": "2026-05-28T13:05:04+00:00",
       "summary": "<p>Delivered via phishing lures, the malware combines financial theft with data exfiltration and remote access.</p>\n<p>The post <a href=\"https://www.securityweek.com/new-btmob-android-malware-enables-full-device-takeover/\">New BTMOB Android Malware Enables Full Device Takeover</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "bb761a8f9eaa06d3733a53a7d413f98f4fa83e52",
-      "title": "Critical FortiClient EMS Vulnerability Exploited in Fresh Attacks",
-      "url": "https://www.securityweek.com/critical-forticlient-ems-vulnerability-exploited-in-fresh-attacks/",
-      "published": "2026-05-28T12:55:47+00:00",
-      "summary": "<p>Fortinet rolled out hotfixes for the security defect in April, warning that it had been exploited in the wild as a zero-day and urging immediate patching.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-forticlient-ems-vulnerability-exploited-in-fresh-attacks/\">Critical FortiClient EMS Vulnerability Exploited in Fresh Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "c8acf092f81a48dffd027239e0fdeb1dc6946b81",
-      "title": "IBM and Red Hat Commit $5 Billion to Secure Open Source Supply Chains Under \u201cProject Lightwell\u201d",
-      "url": "https://www.securityweek.com/ibm-and-red-hat-commit-5-billion-to-secure-open-source-supply-chains-under-project-lightwell/",
-      "published": "2026-05-28T12:41:45+00:00",
-      "summary": "<p>Project Lightwell is designed to fix vulnerabilities without breaking what is already in production.</p>\n<p>The post <a href=\"https://www.securityweek.com/ibm-and-red-hat-commit-5-billion-to-secure-open-source-supply-chains-under-project-lightwell/\">IBM and Red Hat Commit $5 Billion to Secure Open Source Supply Chains Under &#8220;Project Lightwell&#8221;</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "37b100c0fb77aa07b5fb0e434545cd3dd70e94b3",
-      "title": "New Edamame Platform Aims to Catch AI Coding Agents Going Off the Rails",
-      "url": "https://www.securityweek.com/new-edamame-platform-aims-to-catch-ai-coding-agents-going-off-the-rails/",
-      "published": "2026-05-28T12:00:00+00:00",
-      "summary": "<p>France-based startup Edamame says its runtime verification platform uses host telemetry and AI analysis to detect coding-agent \u201cintent drift,\u201d secret theft and supply-chain attacks in real time.</p>\n<p>The post <a href=\"https://www.securityweek.com/new-edamame-platform-aims-to-catch-ai-coding-agents-going-off-the-rails/\">New Edamame Platform Aims to Catch AI Coding Agents Going Off the Rails</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
