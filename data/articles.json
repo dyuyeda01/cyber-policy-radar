@@ -1,6 +1,50 @@
 {
-  "generated_at": "2026-06-01T02:09:22.389343+00:00",
+  "generated_at": "2026-06-01T17:08:31.771797+00:00",
   "items": [
+    {
+      "id": "fc2221f47f20285eebf5aafc56aacbce212b5a70",
+      "title": "Without strong governance, companies put credit ratings at risk in AI era",
+      "url": "https://www.cybersecuritydive.com/news/ai-cyberattacks-credit-ratings-sp-analysis/821599/",
+      "published": "2026-06-01T14:45:33+00:00",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/e64gCoC2KGbLJQl7gVMsZrqATi6TVk_P6kqgxoPCNhg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDcwNjI5MTM1LmpwZw==.webp\" /></div></figure><p>A new report from S&amp;P Global provides a blueprint for how companies can adapt to the changing threat environment.</p>",
+      "source": "Cybersecurity Dive",
+      "region": "North America",
+      "country": "US",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "5c6f62d91e31374e8870b86724937a3c91d74f9f",
+      "title": "CISA adds critical Palo Alto Networks firewall flaw to KEV as company, researchers warn of exploitation",
+      "url": "https://www.cybersecuritydive.com/news/palo-alto-networks-firewall-flaw-exploitation-cisa-kev/821598/",
+      "published": "2026-06-01T14:45:33+00:00",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/oMiO7cn-S7dKO_1oOhCqov0YSQtLd6TD9e5Z4ggXOvw/g:nowe:8:185/c:4023:2273/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfMjIxOS5KUEc=.webp\" /></div></figure><p>The vulnerability in a vital defensive technology creates serious risks for federal networks, CISA said.</p>",
+      "source": "Cybersecurity Dive",
+      "region": "North America",
+      "country": "US",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "f793bd3faa8848f319ec12fbead76cfc1b5a57f2",
+      "title": "How Canva scaled to 260+M users while elevating security and productivity",
+      "url": "https://www.cybersecuritydive.com/spons/how-canva-scaled-to-260m-users-while-elevating-security-and-productivity/821203/",
+      "published": "2026-06-01T09:00:00+00:00",
+      "summary": "<p>See how Canva uses 1Password to integrate new teams fast, empower developers and maintain high standards for customers.</p>",
+      "source": "Cybersecurity Dive",
+      "region": "North America",
+      "country": "US",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "354f96f010745267cdedeb317b5c6c154052087c",
+      "title": "Top 4 data security best practices for the AI-enabled enterprise",
+      "url": "https://www.cybersecuritydive.com/spons/top-4-data-security-best-practices-for-the-ai-enabled-enterprise/820564/",
+      "published": "2026-06-01T09:00:00+00:00",
+      "summary": "<p>To maximize AI&rsquo;s value without increasing security risk, organizations must enforce best\u2011practice data protections across their environment.</p>",
+      "source": "Cybersecurity Dive",
+      "region": "North America",
+      "country": "US",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
     {
       "id": "7c4ab6470fb659550958d2db4af59edb1c8046c0",
       "title": "CISA urges security teams to check for software development compromises",
@@ -68,48 +112,59 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "35298d80bb4fe0e6563d00ddc145f0a5ac66ad62",
-      "title": "Iranian government, not hacktivist group, breached LA Metro system, security firm says",
-      "url": "https://www.cybersecuritydive.com/news/iranian-government-not-hacktivist-group-breached-la-metro-system-securit/821112/",
-      "published": "2026-05-26T15:29:37+00:00",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/Ll4WnSpYU4VKAuc2F-yRICm_Uz8yIqQg1cxJbccm5jA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzE5NzU4MTE2LmpwZw==.webp\" /></div></figure><p>A report by Israel-based Gambit Security dismisses the hackers&rsquo; claims of being patriotic but unaffiliated activists.</p>",
-      "source": "Cybersecurity Dive",
+      "id": "6d98e1c3c6c64ffe8fb705a57c7911bc31bb4ddb",
+      "title": "\u26a1 Weekly Recap: New Linux Flaw, PAN-OS Exploit, AI-Powered Attacks, OAuth Phishing and More",
+      "url": "https://thehackernews.com/2026/06/weekly-recap-new-linux-flaw-pan-os.html",
+      "published": "2026-06-01T13:59:54+00:00",
+      "summary": "Monday hit like a cron job with anger issues.\n\nA busted auth path here, a repo-side faceplant there, some \"patched-ish\" thing already getting chewed on in the wild, and then the usual bonus round: poisoned dev tools, sketchy forum chatter, phishing kits pretending to be productivity, and AI lowering the bar for people who already thought 'curl | sh' had a personality.\n\nThe vibe is simple: old",
+      "source": "The Hacker News",
       "region": "North America",
       "country": "US",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiV-leTG-MQremNN5Ju342L6LQMn36xeD4jiS4YWT7EdYluHOtFDqIN8y3bQuV-A0D0wtsO5sRpG3Bpy5xdHhMs_sO_w3WoiiJzCd7o-7Hxw736ERxQs4WDd71EQEBIHLzT_UNFMwCDvC8Nij-gDNpMhsRnpsqoDHkuxUWLUEZSSTfDc4aXpx2qlpsaqlgH/s1600/cyberrecap.png"
     },
     {
-      "id": "95c1d75c4db4c56c6b047b266f4678daebe89df2",
-      "title": "FBI warns about PhaaS platform used to access Microsoft 365 environments",
-      "url": "https://www.cybersecuritydive.com/news/fbi-warns-phishing-platform-microsoft-365/821105/",
-      "published": "2026-05-26T14:59:07+00:00",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/zBLOFaVj5F6mOaRFXRaS_FL328ZJooOzEVfqrnYD4a0/g:nowe:0:0/c:3000:1694/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTM2MzQxNjc1LmpwZw==.webp\" /></div></figure><p>Device code phishing enabled hackers to bypass multifactor authentication without credentials.</p>",
-      "source": "Cybersecurity Dive",
+      "id": "7472cf9d01d2031d8824700f622b794da0ad1616",
+      "title": "China-Aligned Groups Ramp Up Attacks: Dragon Weave Hits Czech Republic & Taiwan",
+      "url": "https://thehackernews.com/2026/06/china-aligned-groups-ramp-up-attacks.html",
+      "published": "2026-06-01T11:54:24+00:00",
+      "summary": "A new cyber espionage campaign codenamed Operation Dragon Weave has been observed targeting officials and citizens in the Czech Republic and Taiwan to deliver an AdaptixC2 agent.\n\nAccording to Seqrite Labs, targets of the campaign include government, research, academic, technology, and financial services sectors. The activity entails distributing spear-phishing emails containing ZIP attachments",
+      "source": "The Hacker News",
       "region": "North America",
       "country": "US",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUhiw46hdnhoY05E-0EyhOX5AxQrqJeNM0WDEWiYHAi5pPt4kIFPbvqGZhyAK4NxlAF7KJKxPfWlbGLbZUJJD9PgGmazvyhzaSgBXokM_6eYQfWXQ1HDv2heSDTnps4EGhjKqwCbuQOl0d9QN25tmn85xLujp-htCwLhhywI4A6BKJxkOOKb9FSu02AMjX/s1600/china.jpg"
     },
     {
-      "id": "c52c5bfc6f2bec62762e4d0576addc09ff5eb014",
-      "title": "Iran-linked hackers target key US, allied sectors with sophisticated spear-phishing messages",
-      "url": "https://www.cybersecuritydive.com/news/iran-cyberattacks-espionage-us-israel-uae/820990/",
-      "published": "2026-05-22T15:01:06+00:00",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/Ll4WnSpYU4VKAuc2F-yRICm_Uz8yIqQg1cxJbccm5jA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzE5NzU4MTE2LmpwZw==.webp\" /></div></figure><p>Companies, particularly those in the affected industries, should harden their defenses against impersonation schemes, Palo Alto Networks said.</p>",
-      "source": "Cybersecurity Dive",
+      "id": "47d185b416c2597acc1440c65be6f833ba11d726",
+      "title": "The Security Growth Platform: Why MSPs Are Moving Beyond vCISO Tools",
+      "url": "https://thehackernews.com/2026/06/the-security-growth-platform-why-msps.html",
+      "published": "2026-06-01T11:30:00+00:00",
+      "summary": "Three years ago, the practical question for an MSP building a cybersecurity practice was which \"vCISO platform\" to buy. The term was good shorthand for the work at the time: assessments, advisory, reporting, maybe a compliance module bolted on the side. The work has since outgrown the descriptor.\n\nA Security Growth Platform is the more precise name for what MSPs and MSSPs need from the software",
+      "source": "The Hacker News",
       "region": "North America",
       "country": "US",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOvm8XaHJ9FBjwjKyTkm_2pt81tT-4sHdK9UDWm7_hCk4rA95U0peF3Zi7kO_fmJioaGKKloqru4yC-AwrSOdZ17v7m8K2K-t4lyYOGfC66J8r3cSi_v09IPRAfknHSeRBv13kjrk6XBzqpCvKS6ujugm4cR6Xrt1LK40bC091c0k_SgptQnGYIznwWwQ/s1600/cynomi.jpg"
     },
     {
-      "id": "cb28414a65e8f13cb04349a0ab29642a46d44434",
-      "title": "New York regulator calls for additional cyber mitigation amid heightened threat environment",
-      "url": "https://www.cybersecuritydive.com/news/new-york-regulator-cyber-mitigation-threat-AI-Iran/820979/",
-      "published": "2026-05-22T14:24:26+00:00",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/DS1j_tyx70TyMTqD1al7lzoYVsAKPr4EQWWdRFY-Yq0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS81MzEwNDI2NTYzMl8wNzNjMWExYjRmX28uanBn.webp\" /></div></figure><p>The guidance from the state Department of Financial Services arises from concerns about frontier AI and threats linked to the Iran war and other geopolitical risks.</p>",
-      "source": "Cybersecurity Dive",
+      "id": "fac583a743fb9f53f0dbf08030ec4b3e7f3ba119",
+      "title": "OpenAI Codex Authentication Tokens Stolen in codexui-android npm Supply Chain Attack",
+      "url": "https://thehackernews.com/2026/06/openai-codex-authentication-tokens.html",
+      "published": "2026-06-01T09:31:15+00:00",
+      "summary": "Cybersecurity researchers have disclosed details of a new malicious supply chain campaign that's targeting developers using OpenAI Codex through a legitimate-looking remote web UI.\n\nThe tool, named codexui-android, is advertised on GitHub and npm as a remote web UI for OpenAI Codex, attracting over 29,000 weekly downloads. The package is still available for download from the repository.\n\nWhat",
+      "source": "The Hacker News",
       "region": "North America",
       "country": "US",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4veBAmEJHF2nXN_nIgXeWxVSxlTDBc6uWiLwVCYNUqGMF9ZtPre3zF_CXmGnAxX2rbqfwgm_Au0tXvYwv1oTGim1STiGCeVOyMXglUTd-3LeJEN3q718Fdlck9mbQ6aUUYP0NM9S7bakZ4_XF5HHYH-cz2QmKBlge6xNMxbbEjDjZQ4wd1maPKnjgKrsu/s1600/codex.png"
+    },
+    {
+      "id": "740b72e9a9645c1ae633448a9c0aa96e52a3a7ab",
+      "title": "Critical WP Maps Pro Flaw Actively Exploited to Create Admin Accounts",
+      "url": "https://thehackernews.com/2026/06/critical-wp-maps-pro-flaw-actively.html",
+      "published": "2026-06-01T08:45:29+00:00",
+      "summary": "Threat actors are attempting to actively exploit a critical security flaw impacting WP Maps Pro, a WordPress plugin that has had over 15,000 sales on the Envato Market, to create malicious administrator accounts on susceptible sites.\n\nWP Maps Pro allows site owners to embed customizable Google Maps and OpenStreetMap with markers, listings, and advanced location features on WordPress sites. It is",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhR5AZVDVlhPdPOYO4FsyfLsBmtohzgdjmh688BLU6VRpwi-MaKq4XYgE5-ygnQtcUDMKcR8R4-f9IrfiSFpCodN01gveAWlDpu4Jg4AI9DMKQG50zMr5M1QhqjVAjyuYJQ-vF849bn3jkkDJuBRahpyUwAz8libDqBIwh08wgQNsfmchLwqRUqiYKRDkMT/s1600/wordpress-2.jpg"
     },
     {
       "id": "fd4bdf546af1ece7be661d0911b88dff0e66a4ff",
@@ -607,59 +662,15 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi04a_rowIzNPvHHvDTUE34d3bZlOhBeQXtC0UdXyjlf988G4zVE89QKWqSWASKd2LD0T8O2XhkDVgG7UGFIxlpvQWHPx-o_X7vfMK5fH4uSDg3eSUDAaWKtgresEyD9JpINkxtdELWn-qiv6usoLgwSlYNi89xJeVBwYYsCF2y-KKNz0x04KS0PeDPL57J/s1600/cisa-kev-flaws.jpg"
     },
     {
-      "id": "289e87ac70a4b68cbb3474a891db70688ab53adb",
-      "title": "Cisco Patches CVSS 10.0 Secure Workload REST API Flaw Enabling Data Access",
-      "url": "https://thehackernews.com/2026/05/cisco-patches-cvss-100-secure-workload.html",
-      "published": "2026-05-22T05:36:18+00:00",
-      "summary": "Cisco has rolled out updates for a maximum-severity security flaw impacting Secure Workload that could allow an unauthenticated, remote attacker to access sensitive data.\n\nTracked as CVE-2026-20223 (CVSS score: 10.0), the vulnerability arises from insufficient validation and authentication when accessing REST API endpoints.\n\n\"An attacker could exploit this vulnerability if they are able to send",
-      "source": "The Hacker News",
+      "id": "db78ab85179f9269be0d9a1e77af7a97304f4d3b",
+      "title": "Patch Now: Another Palo Alto Auth Bypass Bug Under Active Exploit",
+      "url": "https://www.darkreading.com/threat-intelligence/patch-palo-alto-auth-bypass-bug-exploit",
+      "published": "2026-06-01T14:35:51+00:00",
+      "summary": "Exploiting the PAN-OS GlobalProtect VPN vulnerability requires certain conditions, but adversaries have done so in two attack waves that started in mid-May.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLweJvl8B70zomibdr4U6WvYgbmZn4gKKOG9F7xDPXzgeENKK0kg2kgK1yvZDS7AJFkY9De2rG2EQzCLvN1FmjrXXDIm-CkmU88QcexbMkr60gKVKexF-d1qtGHusrr6_j5yrtMv31PSUEygioHJikBsifQ0VHW18IU7lu_oItTzQXugwHPLoO_DYNdnYx/s1600/cisco-workload.jpg"
-    },
-    {
-      "id": "c58b2322b78e8cad9b194b981b094aafbba3f299",
-      "title": "Showboat Linux Malware Hits Middle East Telecom with SOCKS5 Proxy Backdoor",
-      "url": "https://thehackernews.com/2026/05/showboat-linux-malware-hits-middle-east.html",
-      "published": "2026-05-21T14:17:09+00:00",
-      "summary": "Cybersecurity researchers have disclosed details of a new Linux malware dubbed Showboat that has been put to use in a campaign targeting a telecommunications provider in the Middle East since at least mid-2022.\n\n\"Showboat is a modular post-exploitation framework designed for Linux systems, capable of spawning a remote shell, transferring files, and functioning as a SOCKS5 proxy,\" Lumen",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYTZEcd3s0q7NssZnOYvAFrMtE1fTJQtdNoUDwBZKG1DkQWYL4uY6gExiUwuNcMnZG-J8dM8iTJIm6nD2Bv80qI2xMubYmnGScqUNQfeI6kF49vFkU0wKpi7iaVvbl1MX1zPleKP2iOShCd9u4S-EpLA-cBKf5lNlW7OXLu0NmiUlw35Qr0GzXmpylPcXz/s1600/telecom-linux.jpg"
-    },
-    {
-      "id": "352bdf77cae749f1a3edb4c91f4afaf35745d5b6",
-      "title": "ThreatsDay Bulletin: Linux Rootkits, Router 0-Day, AI Intrusions, Scam Kits and 25 New Stories",
-      "url": "https://thehackernews.com/2026/05/threatsday-bulletin-linux-rootkits.html",
-      "published": "2026-05-21T11:52:14+00:00",
-      "summary": "This week starts small.\n\nA token leaks. A bad package slips in. A login trick works. An old tool shows up again. At first, it feels like the usual mess. Then you see the pattern: attackers are not always breaking in. They are using the parts we already trust.\n\nThat is what makes it worrying. The danger is in normal things now - updates, apps, cloud buttons, support chats, trusted accounts. AI",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifIiAs3r9mSWAyNYngQby6QllKy0gx1dGJB4MNtgMjRQLUIkp7-fr851xuTEe6-izLAtNHux1PgdVBiWmEQctN2QM1bzV_CP0bcR7_ReqHg-lXrDa-EqUsZAUgC8da72h6tdbZU6H8nWMzAfZEItMY49Big4dpxtSHr5r7sgm7W01mhA31E274dUfWBHMi/s1600/tday.png"
-    },
-    {
-      "id": "656eec434cef8cddc184969afa02206bed8b22be",
-      "title": "Microsoft Warns of Two Actively Exploited Defender Vulnerabilities",
-      "url": "https://thehackernews.com/2026/05/microsoft-warns-of-two-actively.html",
-      "published": "2026-05-21T10:55:57+00:00",
-      "summary": "Microsoft has disclosed that a privilege escalation and a denial-of-service flaw in Defender has come under active exploitation in the wild.\n\nThe former, tracked as CVE-2026-41091, is rated 7.8 on the CVSS scoring system. Successful exploitation of the flaw could allow an attacker to gain SYSTEM privileges.\n\n\"Improper link resolution before file access ('link following') in Microsoft Defender",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNxp-fCwFOYcXoyRTmhjpwfvFCjfE36YoU8z-7es2XrOajnfSfpttiB9KMfwqCNbwzHQ85kILhlUwo4DeQFWXFq29J8p_oVAIe-gKCCegmTid4YW_22sK6CQO_TwELXa7Z-RZmvDvHx7N3Vg7y-xm78iSGjzCg2AU3FnHo1Hp7v80JJkBruCc05JVvVwnx/s1600/windows-defender.jpg"
-    },
-    {
-      "id": "677ad7451ccf5984547cb943739ff03386961391",
-      "title": "When Identity is the Attack Path",
-      "url": "https://thehackernews.com/2026/05/when-identity-is-attack-path.html",
-      "published": "2026-05-21T10:30:00+00:00",
-      "summary": "Consider a cached access key on a single Windows machine. It got there the way most cached credentials do - a user logged in, and the key stored itself automatically. Standard AWS behavior. No one misconfigured anything or violated a policy. Yet that single key, which was easily accessible to a minor-league attacker, could have opened a path to some 98% of entities in the company's cloud",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgv9W2lSuCdHjvqeLUN5WtqUOgCwe2FAyP1Y_z4oUr1LgM1MdOE5A83gkzSOfGjIosfdlfB4SuLbeVbydeuParENW4MH2aWYuWqnB-DeOd7gC3RJnp7wFucmuinh9kiMBI99337kQYcBrlIX-WH3u204eu7FTy5b_gpkXC6ZHupWD3P60yFk4-2DUrTuuc/s1600/xmxm.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt225868f85dab8e5a/6a1d6cdb688dd44956baf7b6/Vulnerability_(1800)_Sergey_Tarasov_Alamy.png?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "id": "88ced96d51ee18c214572ed226da18a8d37849c0",
@@ -673,11 +684,22 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltcecddc9a9b77560b/6a19f878719ad34f2440c903/dr20-toon-may26-final.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
+      "id": "2b5c9925322abeaef161aaa69273e608079b769b",
+      "title": "As Global Powers Explore Humanoid Robots, Cyber-Risk Looms",
+      "url": "https://www.darkreading.com/cyber-risk/global-powers-explore-humanoids-cyber-risk",
+      "published": "2026-05-29T15:56:23+00:00",
+      "summary": "The future of cybersecurity is germinating, as nation-states vie for dominance in the embodied AI market and its supply chain.",
+      "source": "DarkReading",
+      "region": "North America",
+      "country": "US",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd919de1e6eb08bb9/6a18cae74c25b5264e1e240f/Terminator-Over_There_Pics-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
       "id": "c1d29f0aac7ff36343802fc2ce1a429598b4fcb7",
       "title": "Asia's Cyber Insurance Market Shows Signs of Life",
       "url": "https://www.darkreading.com/cybersecurity-operations/asias-cyber-insurance-market-signs-of-life",
       "published": "2026-05-29T14:35:33+00:00",
-      "summary": "The cyber insurance industry has made relatively weak inroads into Asia due to a a variety of factors, but that could be changing.",
+      "summary": "The cyber insurance industry has made relatively weak inroads into Asia due to a variety of factors, but that could be changing.",
       "source": "DarkReading",
       "region": "North America",
       "country": "US",
@@ -699,22 +721,11 @@
       "title": "'The Com' Cyberattacks Support Violence &amp; Sexploitation",
       "url": "https://www.darkreading.com/threat-intelligence/the-com-cyberattacks-violence-sexploitation",
       "published": "2026-05-29T12:00:00+00:00",
-      "summary": "Your organization's security failures have consequences for everyone else too, since this neo-Nazi-infested criminal gang uses its cyber winnings to support more violent and widespread crimes.",
+      "summary": "Your organization's security failures have consequences for everyone else\u00a0as well since this criminal gang uses its cyber winnings to support more violent and widespread crimes.",
       "source": "DarkReading",
       "region": "North America",
       "country": "US",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltdf36383b6981cdfc/6a189af651a3babba50e026a/Hooded_crowd-John_Williams_RF-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
-      "id": "2b5c9925322abeaef161aaa69273e608079b769b",
-      "title": "As Global Powers Explore Humanoid Robots, Cyber-Risk Looms",
-      "url": "https://www.darkreading.com/cyber-risk/global-powers-explore-humanoids-cyber-risk",
-      "published": "2026-05-28T23:05:23+00:00",
-      "summary": "The future of cybersecurity is germinating, as nation states vie for dominance in the embodied AI market and its supply chain.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd919de1e6eb08bb9/6a18cae74c25b5264e1e240f/Terminator-Over_There_Pics-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "id": "bce09b8a143246c47408c1dfec01935ae40a67fb",
@@ -1201,15 +1212,48 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blted41bae888a74bd1/6a0780b73c21f620148b9b52/cyberattack_fear_Yuri_Arcurs_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "7dafd4671c30d0e309fb5a8b42b1c0721645193a",
-      "title": "Boulevard of Broken Dreams: 2 Decades of Cyber Fails",
-      "url": "https://www.darkreading.com/cyber-risk/broken-dreams-2-decades-cyber-fails",
-      "published": "2026-05-18T12:00:00+00:00",
-      "summary": "From the MGM and Caesars fiasco and MOVEit's patch nightmare to epic business blunders and the jaded reality of living in a post-breach world, Dark Reading looks back at the mistakes, miscalculations, systemic failures, and cringeworthy moments that still have us shaking our heads.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8bb440d26c1c8c62/6a077adfeb51442934d177c1/decay-DBURKE-alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "id": "6c30250e41fd2d6189c777b39de29b7d9821857f",
+      "title": "GTA cheat service Atlas Menu hacked as attacker alleges screenshot spying",
+      "url": "https://www.theregister.com/security/2026/06/01/gta-cheat-service-atlas-menu-hacked-as-attacker-alleges-screenshot-spying/5249192",
+      "published": "2026-06-01T14:15:00+00:00",
+      "summary": "A database containing 64,000 user records was published to GitHub after an attacker claimed to have compromised all Atlas systems",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=259706&width=800"
+    },
+    {
+      "id": "a19decc7a8d215942b00dd752d0410b44f88c1dd",
+      "title": "Palo Alto VPN bug graduates from advisory to active exploitation",
+      "url": "https://www.theregister.com/cyber-crime/2026/06/01/palo-alto-vpn-bug-graduates-from-advisory-to-active-exploitation/5249114",
+      "published": "2026-06-01T12:15:00+00:00",
+      "summary": "Rapid7: Attackers exploit authentication bypass flaw in the wild, meaning more emergency patching for PAN-OS users",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=5249134&width=800"
+    },
+    {
+      "id": "f8a81f7b5cdeb94bf9abbe41ea24d267767342b6",
+      "title": "Password manager Dashlane suspends customer accounts amid brute-force attacks",
+      "url": "https://www.theregister.com/security/2026/06/01/password-manager-dashlane-suspends-customer-accounts-amid-brute-force-attacks/5248991",
+      "published": "2026-06-01T11:15:00+00:00",
+      "summary": "Engineers' weekends ruined as Dashlane's automatic protections kicked in",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=5231199&width=800"
+    },
+    {
+      "id": "04f0419a1e53b3a4be9326a3f4e865254f84fbd3",
+      "title": "Putin sends submarines to survey Britain's subsea cables. UK deploys Royal Navy, mobilizes parliamentary draftsmen",
+      "url": "https://www.theregister.com/networks/2026/06/01/putin-sends-submarines-to-survey-britains-subsea-cables-uk-deploys-royal-navy-mobilizes-parliamentary-draftsmen/5248978",
+      "published": "2026-06-01T10:48:11+00:00",
+      "summary": "Proposed legislation threatens fines and prison for reckless damage. Russian Prez must be shaking in his boots",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=243072&width=800"
     },
     {
       "id": "61ef3d845a892c45b0aef1037a47e4a2055dee92",
@@ -1718,50 +1762,6 @@
       "image": "https://image.theregister.com/?imageId=227546&width=800"
     },
     {
-      "id": "be646fcc888d76c833427c89e7d7f05a366fbfc1",
-      "title": "F-35 software delays leave UK buying time with US glide bombs",
-      "url": "https://www.theregister.com/security/2026/05/18/f-35-software-delays-leave-uk-buying-time-with-us-glide-bombs/5241737",
-      "published": "2026-05-18T10:48:00+00:00",
-      "summary": "MoD says StormBreaker will plug gap until homegrown SPEAR 3 integration lands",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=5241759&width=800"
-    },
-    {
-      "id": "aed0092e6a66ab6780ccd884ae3de379d7f7a821",
-      "title": "Mozilla warns UK: Breaking VPNs will not magically fix Britain's age-check mess",
-      "url": "https://www.theregister.com/security/2026/05/18/mozilla-warns-uk-breaking-vpns-will-not-magically-fix-britains-age-check-mess/5241770",
-      "published": "2026-05-18T09:54:01+00:00",
-      "summary": "Firefox maker says the tools are basic security infrastructure, not teenage contraband",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=4094224&width=800"
-    },
-    {
-      "id": "97c19592df05a1eb7aaf07f145e4ac170fb862b0",
-      "title": "Grafana Labs admits all its codebase are belong to someone who popped its GitHub account",
-      "url": "https://www.theregister.com/cyber-crime/2026/05/18/grafana-labs-admits-attackers-downloaded-its-codebase-from-github/5241686",
-      "published": "2026-05-18T05:46:31+00:00",
-      "summary": "No customer info stolen, no impact to operations, and no blackmail payment",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=224087&width=800"
-    },
-    {
-      "id": "d057c89f7ec279fa0f62b71ed5e8d5ecc2b93c83",
-      "title": "Linus Torvalds says AI-powered bug hunters have made Linux security mailing list \u2018almost entirely unmanageable\u2019",
-      "url": "https://www.theregister.com/security/2026/05/18/linus-torvalds-says-ai-powered-bug-hunters-have-made-linux-security-mailing-list-almost-entirely-unmanageable/5241633",
-      "published": "2026-05-17T23:39:47+00:00",
-      "summary": "Multiple researchers using the same tools to find the same bugs are creating \u2018unnecessary pain and pointless work\u2019",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=234872&width=800"
-    },
-    {
       "id": "9180696aa4788b0b2cc3ec55e64f2688433c1cd4",
       "title": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
       "url": "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/",
@@ -1828,6 +1828,61 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "4e21675028ef425117819a6ee9d8c1cf03d3b60e",
+      "title": "Critical Windows Netlogon Vulnerability in Attackers\u2019 Crosshairs",
+      "url": "https://www.securityweek.com/critical-windows-netlogon-vulnerability-in-attackers-crosshairs/",
+      "published": "2026-06-01T15:02:17+00:00",
+      "summary": "<p>Organizations are advised to patch CVE-2026-41089 as soon as possible, given its severity, the potential ongoing exploitation.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-windows-netlogon-vulnerability-in-attackers-crosshairs/\">Critical Windows Netlogon Vulnerability in Attackers\u2019 Crosshairs</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "74d265c7dfceb42c46c49d616052fd0bca4c5a02",
+      "title": "Dragos Acquires xIoT Security Firm Phosphorus",
+      "url": "https://www.securityweek.com/dragos-acquires-xiot-security-firm-phosphorus/",
+      "published": "2026-06-01T12:46:58+00:00",
+      "summary": "<p>Dragos said customers will soon gain expanded asset visibility and integrated device intelligence, with automated remediation workflows and a unified platform experience to follow.</p>\n<p>The post <a href=\"https://www.securityweek.com/dragos-acquires-xiot-security-firm-phosphorus/\">Dragos Acquires xIoT Security Firm Phosphorus</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "2583513a4b34c6dcabd37387ee1a2ca67fb52553",
+      "title": "As the Pentagon Pushes for Battlefield AI, Some Military Leaders Urge Caution",
+      "url": "https://www.securityweek.com/as-the-pentagon-pushes-for-battlefield-ai-some-military-leaders-urge-caution/",
+      "published": "2026-06-01T11:48:59+00:00",
+      "summary": "<p>AI\u2019s use in the military is part of the administration\u2019s larger push to grow the capability it sees as a unique American advantage.</p>\n<p>The post <a href=\"https://www.securityweek.com/as-the-pentagon-pushes-for-battlefield-ai-some-military-leaders-urge-caution/\">As the Pentagon Pushes for Battlefield AI, Some Military Leaders Urge Caution</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "54693ba59da2957dcfa11deed5d9f64a245b73f6",
+      "title": "19-Year-Old Linux Kernel Vulnerability Exposes Systems to Root Access",
+      "url": "https://www.securityweek.com/19-year-old-linux-kernel-vulnerability-exposes-systems-to-root-access/",
+      "published": "2026-06-01T11:19:31+00:00",
+      "summary": "<p>Proof-of-concept (PoC) exploit code has been released for the CIFSwitch flaw, which allows low-privileged users to escalate to root on vulnerable Linux systems.</p>\n<p>The post <a href=\"https://www.securityweek.com/19-year-old-linux-kernel-vulnerability-exposes-systems-to-root-access/\">19-Year-Old Linux Kernel Vulnerability Exposes Systems to Root Access</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "42492202c431ef98246c500134024c5139423c49",
+      "title": "Recent Palo Alto Networks Vulnerability Exploited for Weeks",
+      "url": "https://www.securityweek.com/recent-palo-alto-networks-vulnerability-exploited-for-weeks/",
+      "published": "2026-06-01T10:00:00+00:00",
+      "summary": "<p>Hackers began exploiting CVE-2026-0257, an authentication bypass in Palo Alto Networks PAN-OS, four days after public disclosure.</p>\n<p>The post <a href=\"https://www.securityweek.com/recent-palo-alto-networks-vulnerability-exploited-for-weeks/\">Recent Palo Alto Networks Vulnerability Exploited for Weeks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "353a47104cb3f514e94618e23a4cfe14759a6a83",
       "title": "Russian Spies Are Aggressively Seeking Western Technology as Sanctions Bite, Officials Say",
       "url": "https://www.securityweek.com/russian-spies-are-aggressively-seeking-western-technology-as-sanctions-bite-officials-say/",
@@ -1877,61 +1932,6 @@
       "url": "https://www.securityweek.com/mokn-raises-15-million-for-phish-back-platform/",
       "published": "2026-05-29T14:34:15+00:00",
       "summary": "<p>MokN's platform deploys realistic decoy access points to lure attackers into revealing compromised credentials, enabling organizations to respond before abuse occurs.</p>\n<p>The post <a href=\"https://www.securityweek.com/mokn-raises-15-million-for-phish-back-platform/\">MokN Raises $15 Million for Phish-Back Platform</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "62574d7a85cef87b903ed9616996839a64d66313",
-      "title": "Gogs Zero-Day Exposes Servers to Remote Code Execution",
-      "url": "https://www.securityweek.com/gogs-zero-day-exposes-servers-to-remote-code-execution/",
-      "published": "2026-05-29T12:59:37+00:00",
-      "summary": "<p>The critical-severity issue, assigned a CVSS score of 9.4, is an argument injection flaw that can be exploited by authenticated attackers via pull requests with malicious branch names.</p>\n<p>The post <a href=\"https://www.securityweek.com/gogs-zero-day-exposes-servers-to-remote-code-execution/\">Gogs Zero-Day Exposes Servers to Remote Code Execution</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "48c586aca194e6be98c593e5708ba1f28bea5e2f",
-      "title": "California Sues 23andMe, Alleging It Failed to Protect User Data in 2023 Breach",
-      "url": "https://www.securityweek.com/california-sues-23andme-alleging-it-failed-to-protect-user-data-in-2023-breach/",
-      "published": "2026-05-29T11:12:15+00:00",
-      "summary": "<p>Attorney General Rob Bonta filed the lawsuit against Chrome Holding Co., which 23andMe rebranded under after filing for bankruptcy last March.</p>\n<p>The post <a href=\"https://www.securityweek.com/california-sues-23andme-alleging-it-failed-to-protect-user-data-in-2023-breach/\">California Sues 23andMe, Alleging It Failed to Protect User Data in 2023 Breach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "1c0f675c5a2735ec6efd1953420bcfc11e476980",
-      "title": "Chrome 148 Update Patches 151 Vulnerabilities",
-      "url": "https://www.securityweek.com/chrome-148-update-patches-151-vulnerabilities/",
-      "published": "2026-05-29T10:17:23+00:00",
-      "summary": "<p>The browser update resolves critical-severity security defects that could potentially lead to remote code execution.</p>\n<p>The post <a href=\"https://www.securityweek.com/chrome-148-update-patches-151-vulnerabilities/\">Chrome 148 Update Patches 151 Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "b1dddda16179c6fdd01d7781ea9b245f1251a5f4",
-      "title": "Russia-Linked \u2018GreyVibe\u2019 Attackers Use AI to Supercharge Cyberattacks",
-      "url": "https://www.securityweek.com/russia-linked-greyvibe-attackers-use-ai-to-supercharge-cyberattacks/",
-      "published": "2026-05-28T18:50:49+00:00",
-      "summary": "<p>Researchers warn GreyVibe\u2019s extensive use of ChatGPT, Gemini, and other AI tools offers a glimpse into how future cybercriminal and state-aligned groups will operate.</p>\n<p>The post <a href=\"https://www.securityweek.com/russia-linked-greyvibe-attackers-use-ai-to-supercharge-cyberattacks/\">Russia-Linked \u2018GreyVibe\u2019 Attackers Use AI to Supercharge Cyberattacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "051dfa1244829ae2a02425659a5e1b4d19803e5c",
-      "title": "Geordie Raises $30 Million for AI Security and Governance Platform",
-      "url": "https://www.securityweek.com/geordie-raises-30-million-for-ai-security-and-governance-platform/",
-      "published": "2026-05-28T17:07:16+00:00",
-      "summary": "<p>The funding round was led by Balderton Capital, with additional support from Crosspoint Capital and previous investors General Catalyst and Ten Eleven Ventures.</p>\n<p>The post <a href=\"https://www.securityweek.com/geordie-raises-30-million-for-ai-security-and-governance-platform/\">Geordie Raises $30 Million for AI Security and Governance Platform</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
