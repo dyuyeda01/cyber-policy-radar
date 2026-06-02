@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-01T17:08:31.771797+00:00",
+  "generated_at": "2026-06-02T02:09:56.752321+00:00",
   "items": [
     {
       "id": "fc2221f47f20285eebf5aafc56aacbce212b5a70",
@@ -110,6 +110,17 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "f264f7d6f339b6cf6ae20c102f533b5507b5a5b4",
+      "title": "Miasma Supply Chain Attack Compromises Red Hat npm Packages with Credential-Stealing Worm",
+      "url": "https://thehackernews.com/2026/06/miasma-supply-chain-attack-compromises.html",
+      "published": "2026-06-01T17:40:28+00:00",
+      "summary": "A new Mini Shai-Hulud supply chain attack campaign, codenamed Miasma, has compromised @redhat-cloud-services packages to steal credentials and secrets from developer machines and deliver a self-propagating worm.\n\n\"This is effectively a Mini Shai-Hulud campaign: it uses the same core tactics of install-time execution, credential harvesting, CI/CD targeting, encrypted exfiltration, and potential",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOyc2NTiIl0XKOTZBsFh1bTPqNpVXfDhASWkCsYz17d-nbiWVKlxCzoq3WthMD8kMomrRPPOYLM-XRmSdtXNKAxtk1QLtmZH47y2RExMGohBaBDPkpFp2PteUgaA16VcCs7tK-ImqCiLnpqyLg8Pwp6cWE5d9QT2_v0-QBduT7ovYrs7WSZ9t1MnQJ4EuO/s1600/redhat.png"
     },
     {
       "id": "6d98e1c3c6c64ffe8fb705a57c7911bc31bb4ddb",
@@ -651,15 +662,26 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5VYMnsK-UMv3L8TZp1KhZ4PQti0VtUXkbDREtK-R9Hbtj6bdYrPRwwn8VItL49asZcHEMSOFJyfV25Da96CerBXrPRnHZHncrTuo7Mj7dxEkNGNR4jZZs19Y2pep2dl7KZ0IK1CkexVOQhr14e5MIP5oe5vglQ2StuxG6xv2ataqy8jvD9T1fXLToZHc5/s1600/ddos-canada.jpg"
     },
     {
-      "id": "c0a405f7807975a018b8bfd57fcbc145811db74e",
-      "title": "CISA Adds Exploited Langflow and Trend Micro Apex One Vulnerabilities to KEV",
-      "url": "https://thehackernews.com/2026/05/cisa-adds-exploited-langflow-and-trend.html",
-      "published": "2026-05-22T05:47:33+00:00",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added two security flaws impacting Langflow and Trend Micro Apex One to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\n\nThe vulnerabilities in question are listed below -\n\n\n  CVE-2025-34291 (CVSS score: 9.4) - An origin validation error vulnerability in Langflow that could",
-      "source": "The Hacker News",
+      "id": "1576f044e42e3f2f41dcea4f7898812aa7d377b6",
+      "title": "Anthropic to Open Mythos AI to EU's ENISA",
+      "url": "https://www.darkreading.com/cyber-risk/anthropic-mythos-ai-eu-enisa",
+      "published": "2026-06-01T21:07:48+00:00",
+      "summary": "The European security agency's entry to Project Glasswing is the result of &quot;strong bilateral cooperation&quot; between the European Commission and Anthropic.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi04a_rowIzNPvHHvDTUE34d3bZlOhBeQXtC0UdXyjlf988G4zVE89QKWqSWASKd2LD0T8O2XhkDVgG7UGFIxlpvQWHPx-o_X7vfMK5fH4uSDg3eSUDAaWKtgresEyD9JpINkxtdELWn-qiv6usoLgwSlYNi89xJeVBwYYsCF2y-KKNz0x04KS0PeDPL57J/s1600/cisa-kev-flaws.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt301abc846275d0a4/6a1de7c8479f3e4dd25cf448/enisa_ricochet64_shuttrstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
+      "id": "45f2a1ff6add633dac948b5e3403ab692febf38b",
+      "title": "Microsoft's Zero-Day Legal Threats Spark Backlash",
+      "url": "https://www.darkreading.com/application-security/microsoft-zero-day-legal-threats-backlash",
+      "published": "2026-06-01T18:52:26+00:00",
+      "summary": "After a disgruntled security researcher published several zero-day exploits in recent weeks, Microsoft seemingly indicated criminal charges were in order.",
+      "source": "DarkReading",
+      "region": "North America",
+      "country": "US",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt110b7f1326599f0b/6a1dd3554d48bfcf20ade268/RMmicrosoft-DrewAngerer-Getty-675949746.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "id": "db78ab85179f9269be0d9a1e77af7a97304f4d3b",
@@ -1190,26 +1212,26 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt4a4214dc2b88ddc4/6a0b5b14fe7bf093eb769187/sandworms_FlixPix_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "1210216b143f849f8b08d4286a70829b3e3cb3d6",
-      "title": "Fuel Tank Breaches Expand Scope of Iran's Cyber Offensive",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/fuel-tank-breaches-expand-scope-irans-cyber-offensive",
-      "published": "2026-05-18T15:41:55+00:00",
-      "summary": "Security experts have long warned that insecure automatic tank gauge (ATG) systems exposed on the Internet can be tampered with by threat actors.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7f692ec12934e4c2/6a0af74e239afa81b3940d8e/iran1800_Hakan_Gider_alamy.png?width=1280&auto=webp&quality=80&disable=upscale"
+      "id": "3b6922ef9e2545780ffb703c8dfe1526c336eb43",
+      "title": "Shai-Hulud malware worms Red Hat npm package versions downloaded 80K times a week",
+      "url": "https://www.theregister.com/security/2026/06/01/shai-hulud-malware-infects-red-hat-npm-packages-downloaded-80k-times-weekly/5249803",
+      "published": "2026-06-01T21:54:07+00:00",
+      "summary": "TeamPCP? Or copycat malware dev?",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=5249823&width=800"
     },
     {
-      "id": "2c832b44a52d8b9c5cc1a45f0fbdaab420f7d07a",
-      "title": "The Boring Stuff Is Dangerous Now",
-      "url": "https://www.darkreading.com/cyber-risk/ai-code-and-agents-forces-defenders-adapt",
-      "published": "2026-05-18T13:00:00+00:00",
-      "summary": "AI agents capable of discovering and exploiting obscure vulnerabilities are emerging alongside developers producing vast amounts of potentially flawed AI-generated code, forcing defenders to adapt accordingly.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blted41bae888a74bd1/6a0780b73c21f620148b9b52/cyberattack_fear_Yuri_Arcurs_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "id": "84af61da993dfd63a180651b38430fb91e48fea5",
+      "title": "Election interlopers register 5K+ domains, hope to catch some voting phish",
+      "url": "https://www.theregister.com/security/2026/06/01/5k-election-domains-registered-ahead-of-us-midterms/5249764",
+      "published": "2026-06-01T19:46:47+00:00",
+      "summary": "Hacking voting machines is so 2017. Phishing, impersonation pose the real election risks",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=222504&width=800"
     },
     {
       "id": "6c30250e41fd2d6189c777b39de29b7d9821857f",
@@ -1740,26 +1762,15 @@
       "image": "https://image.theregister.com/?imageId=261796&width=800"
     },
     {
-      "id": "c2a5029b4e7572596757f67fc94ff379c3721b84",
-      "title": "NGINX Rift attackers waste no time targeting exposed servers",
-      "url": "https://www.theregister.com/security/2026/05/18/nginx-rift-attackers-waste-no-time-targeting-exposed-servers/5241851",
-      "published": "2026-05-18T13:02:00+00:00",
-      "summary": "Researchers say 18-year-old flaw already being probed and exploited just days after disclosure",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=5241871&width=800"
-    },
-    {
-      "id": "0e920dff4318edc5dafdd942581c621b79dafc1f",
-      "title": "Poland directs officials to ditch Signal in favor of 'secure' state-developed alternative",
-      "url": "https://www.theregister.com/security/2026/05/18/poland-builds-its-own-signal-amid-security-concerns/5241824",
-      "published": "2026-05-18T12:15:00+00:00",
-      "summary": "Shift comes amid mounting reports of successful social engineering attacks targeting higher-ups in government",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=227546&width=800"
+      "id": "98cb187e46e268fca6d742e73673a27899384710",
+      "title": "Hackers Used Meta\u2019s AI Support Bot to Seize Instagram Accounts",
+      "url": "https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/",
+      "published": "2026-06-01T17:32:50+00:00",
+      "summary": "The Instagram accounts for the Obama White House and the Chief Master Sergeant of the U.S. Space Force were briefly defaced with pro-Iranian images and messages over the weekend, after instructions began circulating on Telegram showing how to trick Meta's \"AI support assistant\" bot into resetting account passwords.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
       "id": "9180696aa4788b0b2cc3ec55e64f2688433c1cd4",
@@ -1823,6 +1834,28 @@
       "published": "2026-05-08T02:58:46+00:00",
       "summary": "An ongoing data extortion attack targeting the widely-used education technology platform Canvas disrupted classes and coursework at school districts and universities across the United States today, after a cybercrime group defaced the service's login page with a ransom demand that threatened to leak data from 275 million students and faculty across nearly 9,000 educational institutions.",
       "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "4285d71823ca010294dbdcd335cdc52ff0233480",
+      "title": "WP Maps Pro Vulnerability Exploited to Take Over WordPress Sites",
+      "url": "https://www.securityweek.com/wp-maps-pro-vulnerability-exploited-to-take-over-wordpress-sites/",
+      "published": "2026-06-01T18:19:23+00:00",
+      "summary": "<p>The security defect (CVE-2026-8732) allows unauthenticated attackers to create administrative accounts on the affected installations.</p>\n<p>The post <a href=\"https://www.securityweek.com/wp-maps-pro-vulnerability-exploited-to-take-over-wordpress-sites/\">WP Maps Pro Vulnerability Exploited to Take Over WordPress Sites</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "93c710f49f5b378a98c8967a068c6427cb9cd612",
+      "title": "Dutch Police Dismantle Massive 17-Million-Device Botnet",
+      "url": "https://www.securityweek.com/dutch-police-dismantle-massive-17-million-device-botnet/",
+      "published": "2026-06-01T17:55:26+00:00",
+      "summary": "<p>Dutch authorities seized command-and-control servers tied to a botnet of infected computers, smartphones, and tablets that was allegedly used to power a residential proxy network and facilitate cybercrime.</p>\n<p>The post <a href=\"https://www.securityweek.com/dutch-police-dismantle-massive-17-million-device-botnet/\">Dutch Police Dismantle Massive 17-Million-Device Botnet</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
@@ -1910,28 +1943,6 @@
       "url": "https://www.securityweek.com/in-other-news-trump-mobile-data-breach-fifa-world-cup-phishing-cisa-responds-to-supply-chain-attacks/",
       "published": "2026-05-29T16:20:49+00:00",
       "summary": "<p>Noteworthy stories that might have slipped under the radar: Trump Mobile exposes customer data, phishers target the 2026 FIFA World Cup, CISA responds to recent supply chain attacks. </p>\n<p>The post <a href=\"https://www.securityweek.com/in-other-news-trump-mobile-data-breach-fifa-world-cup-phishing-cisa-responds-to-supply-chain-attacks/\">In Other News: Trump Mobile Data Breach, FIFA World Cup Phishing, CISA Responds to Supply Chain Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "2eaedd10d5927f26facd80ae323129e7d1339d65",
-      "title": "Charter Communications Data Breach Could Impact Nearly 5 Million",
-      "url": "https://www.securityweek.com/charter-communications-data-breach-could-impact-nearly-5-million/",
-      "published": "2026-05-29T14:49:58+00:00",
-      "summary": "<p>The notorious ShinyHunters extortion group leaked over 42 million records allegedly stolen from Charter in April.</p>\n<p>The post <a href=\"https://www.securityweek.com/charter-communications-data-breach-could-impact-nearly-5-million/\">Charter Communications Data Breach Could Impact Nearly 5 Million</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "176fc582e5a8980248e852eda6fcc3ca0656ff27",
-      "title": "MokN Raises $15 Million for Phish-Back Platform",
-      "url": "https://www.securityweek.com/mokn-raises-15-million-for-phish-back-platform/",
-      "published": "2026-05-29T14:34:15+00:00",
-      "summary": "<p>MokN's platform deploys realistic decoy access points to lure attackers into revealing compromised credentials, enabling organizations to respond before abuse occurs.</p>\n<p>The post <a href=\"https://www.securityweek.com/mokn-raises-15-million-for-phish-back-platform/\">MokN Raises $15 Million for Phish-Back Platform</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
