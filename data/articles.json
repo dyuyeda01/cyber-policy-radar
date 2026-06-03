@@ -1,6 +1,28 @@
 {
-  "generated_at": "2026-06-03T02:27:51.106627+00:00",
+  "generated_at": "2026-06-03T16:08:15.999046+00:00",
   "items": [
+    {
+      "id": "973ea0af3ce4183171c5682bbde51ef3e2d83bb7",
+      "title": "\u2018Don\u2019t panic\u2019: AI reality checks dominate major cybersecurity conference",
+      "url": "https://www.cybersecuritydive.com/news/ai-cybersecurity-hype-reality-check-gartner/821867/",
+      "published": "2026-06-03T15:32:00+00:00",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/rpEwLb_8llr7AD9x0TzcGHmvws6EE_dln0KCgeT1LPo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9QWExfMjAyNjA2MDFfMTU1MDQ5ODM1LmpwZw==.webp\" /></div></figure><p>CISOs and their colleagues should focus on network security basics, not AI vendors&rsquo; overhyped promises, analysts said at an annual Gartner cybersecurity event.</p>",
+      "source": "Cybersecurity Dive",
+      "region": "North America",
+      "country": "US",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "23bfe320bda66e765bb4fefd92fe569e6206c639",
+      "title": "CISA, FBI warn that hackers are targeting systems used to monitor industrial fluids",
+      "url": "https://www.cybersecuritydive.com/news/cisa-fbi-hackers-targeting-systems-monitor-industrial-fluits/821873/",
+      "published": "2026-06-03T14:51:27+00:00",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/8T7m_B7SD6Q11V6iR3a2OCfBixbugNH-7N6W0dGlW9E/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzg4OTc1MDcxLmpwZw==.webp\" /></div></figure><p>Automatic tank gauge systems are widely used across multiple industries, including energy, agriculture and transportation.</p>",
+      "source": "Cybersecurity Dive",
+      "region": "North America",
+      "country": "US",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
     {
       "id": "436953e566a8b692c81eb4d6ad7c47cc07f4c535",
       "title": "Trump signs EO seeking early government access to powerful AI models",
@@ -90,26 +112,70 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "7c4ab6470fb659550958d2db4af59edb1c8046c0",
-      "title": "CISA urges security teams to check for software development compromises",
-      "url": "https://www.cybersecuritydive.com/news/cisa-security-software-supply-chain-compromises-GitHub/821487/",
-      "published": "2026-05-29T15:03:07+00:00",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/M3HPAJxk-UrOmMQzGWIW6sOTLiZCCLRWWc9mr7XuCAc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9nZXR0eWltYWdlcy02NTUxNDY5NTYtMTcwNjY3YS5qcGc=.webp\" /></div></figure><p>The agency warned about a wave of attacks targeting credentials and other secrets across critical supply chains.</p>",
-      "source": "Cybersecurity Dive",
+      "id": "73d3eedfbf67e6b3e6eed2965b69e33523e32ce9",
+      "title": "One-Click GitHub Dev Attack Lets Attackers Steal Full GitHub OAuth Tokens",
+      "url": "https://thehackernews.com/2026/06/one-click-github-dev-attack-lets.html",
+      "published": "2026-06-03T12:58:22+00:00",
+      "summary": "Cybersecurity researchers have disclosed a one-click attack via Microsoft Visual Studio Code (VS Code) that makes it possible to steal a user's GitHub token.\n\n\"Just by clicking a link, it's possible for an attacker to steal a GitHub token that can read and write to your repos, including private ones,\" security researcher Ammar Askar said.\n\nGitHub supports a feature called GitHub.dev that runs as",
+      "source": "The Hacker News",
       "region": "North America",
       "country": "US",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeHvqmNHvAhdxgoBLbfFWsFBMdvH5SbJovunxx8AYHRkq7HOQ2l6I_ZaJGi_PF5WHKOlHEQHK4HyPBhmzOpYNhPS4HJSna2uLVlEwUV9i2j5YuRqGOLUqgKIrhx2ndFm1OSME7usiLk_ohtIBYyR5Xpq5Pzc2eHAjCK0OA_89JwPNxVrrBVDbTDRVbRG6e/s1600/github.jpg"
     },
     {
-      "id": "e54c93922d32f8dafb6d906bbe71318f3b57db9c",
-      "title": "How CISOs can manage sovereign-cloud security risks",
-      "url": "https://www.cybersecuritydive.com/news/how-cisos-can-manage-sovereign-cloud-security-risks/821323/",
-      "published": "2026-05-28T15:03:00+00:00",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/VL7SjJ3p7wDxCjztNEfWy6qXM_cipDUg68AuY2xIbgo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjczODIzNzIwXzBxQlJxU3MuanBn.webp\" /></div></figure><p>Selecting and adopting cloud services from non-U.S. regional providers requires solid cyber risk and security assessment.</p>",
-      "source": "Cybersecurity Dive",
+      "id": "bfdcf657258037fef681d2bb234c6ba115def0e7",
+      "title": "Shrinking the IAM Attack Surface through Identity Visibility and Intelligence Platforms (IVIP)",
+      "url": "https://thehackernews.com/2026/06/shrinking-iam-attack-surface-through.html",
+      "published": "2026-06-03T11:58:00+00:00",
+      "summary": "The Fragmented State of Modern Enterprise Identity\n\nEnterprise IAM is approaching a breaking point. As organizations scale, identity becomes increasingly fragmented across thousands of applications, decentralized teams, machine identities, and autonomous systems.\n\nThe result is Identity Dark Matter: identity activity that sits outside the visibility of centralized IAM and beyond the reach of",
+      "source": "The Hacker News",
       "region": "North America",
       "country": "US",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuT21gubKVL2cAsQrEiju_yAE3Pxe1IPxsl9RlGfhMEeis2IuQglnZjwTme6xM1_IJNymXFY1kZsouMGecR2lQnzvMDXyjnY1Y7CT1Dz_xf0pRVkwJEJG9o1EfOlPMfgfZ0MO6eyKGKJDwRHrEsw2-Cai9QO3pfrryeSENy5kH4C_pdjDgsXVOO80TPy8/s1600/orchid.jpg"
+    },
+    {
+      "id": "ff8c2e8bf469dd2393ae2a631b8222a242ee9e45",
+      "title": "Beyond the Zero-Day: See Your Network Like an Attacker | Webinar with HD Moore",
+      "url": "https://thehackernews.com/2026/06/beyond-zero-day-see-your-network-like.html",
+      "published": "2026-06-03T11:28:59+00:00",
+      "summary": "Assume the breach. Zero-days keep shipping, AI is writing exploits faster than anyone patches, and \"patch everything in time\" stopped working years ago. Stop betting the org on winning that race. You don't control which bug lands. You control what it can reach once it does.\n\nThat is a question about the shape of your network, and most teams have the shape wrong. HD Moore, creator of Metasploit",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzZPASJ7ymlBpeDWq_d-byWp58FpBR6tdX6QfLJFFoGRHK9xB5mTbx0guIcMFKFYV87inRtJyM-cKJXI0Td5fVtpC1ITBFmp2myS2wBynVSF3rZP2jZWH6uR-_14ZEalErJASiKWVDJ_TD551AC0pN5A3Mu8y-Z1zW5mKvFMOmdLzrdWnhYCif0FR1lOE/s1600/hd.jpg"
+    },
+    {
+      "id": "0934bc3faa1fbdc4ec6449e1c9662744a47682cf",
+      "title": "Unpatched Windows Search URI Vulnerability Lets Attackers Steal NTLMv2 Hashes",
+      "url": "https://thehackernews.com/2026/06/unpatched-windows-search-uri.html",
+      "published": "2026-06-03T10:18:52+00:00",
+      "summary": "Cybersecurity researchers have disclosed details of an unpatched issue that could be exploited to disclose a user's NTLMv2 hash to the attacker.\n\nLike in the case of CVE-2026-33829, which impacted the Windows Snipping Tool's ms-screensketch: URI handler, the newly flagged issue resides in the search: URI handler, per Huntress.\n\nCVE-2026-33829 refers to a spoofing vulnerability that could expose",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9Y4FY1kH_mrU4oH2X7TPrnmPdf9Ib4UZ4Xgud4Qgjie69on9qP9D1OU8i3ol3THTISUTy8OBJzPXzbUTyHwx1xF8cWuYvb9r-_7r_g-gFXyW62phdyaEAd41PI5cfduXxd084XQdwhxQ40Ti5n7SvkhIbZRktqP8G9bhufjlrxzxHYWpFTAXAfSSWstwc/s1600/NTLM.jpg"
+    },
+    {
+      "id": "340295bc766a058cec251bcd316294c5c76fe0e5",
+      "title": "New HTTP/2 Bomb Vulnerability Allows Remote DoS on NGINX, Apache, IIS, Envoy & Cloudflare",
+      "url": "https://thehackernews.com/2026/06/new-http2-bomb-vulnerability-allows.html",
+      "published": "2026-06-03T08:33:35+00:00",
+      "summary": "Cybersecurity researchers have discovered a remote denial-of-service exploit that affects major web servers, including NGINX, Apache HTTPD, Microsoft IIS, Envoy, and Cloudflare Pingora.\n\nThe vulnerability has been codenamed HTTP/2 Bomb by Calif.\n\n\"The vulnerable behavior exists in each server's default HTTP/2 configuration,\" the company said, adding it was discovered by OpenAI Codex by chaining",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhP07q0cgsa0a9VyTU6oPpxqvoZ5Gg2spx-ClmUIzn9LjYzDfuKNxnLXNuXMexiMB8GjKewhk7CnAL5HXgpCL_wq5eaU8VK2mTxxcKJHAZ9eLBskg516sBn4SV5XHWOuZIozDzBD_0MUCAMcVpGyqOEWITNKi2mQFxFLl9gqg_3UxPlwmXCkRfm2JERftyN/s1600/http2.gif"
+    },
+    {
+      "id": "b1841ce04a5146ca9c5ce536eeb5fe70fcfa9885",
+      "title": "Weedhack Attacks Minecraft Users, CountLoader Hits 86K, Miners Spread via Pirated Content",
+      "url": "https://thehackernews.com/2026/06/weedhack-attacks-minecraft-users.html",
+      "published": "2026-06-03T06:16:54+00:00",
+      "summary": "Cybersecurity researchers have flagged a new campaign targeting Minecraft players via YouTube to spread malware capable of gaining control of victims' systems.\n\nThe Minecraft-focused malware-as-a-service (MaaS) campaign has been codenamed Weedhack by McAfee Labs, stating the activity has been active since January 2026 and impersonates Minecraft clients and mods to infect users. In all, 3820",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBhPg_oWS3s5XgNMW4vuwq3Pwrnsw3l3FyzGwoYkQ7AwCuU6VXH6sOv03o04S4jw-7pkVzAsccuFCxzMX1tg8JbB8D9k5onrVg0-D7HBQduN4pAHq2FOH9a-tSeokVqGIyJS-hStrL7fs5I9u67yp2gRKjOYuTYF_xUrsJnIWL3GdTZ7bLiU6u1vObezoD/s1600/hacker-pirate.jpg"
     },
     {
       "id": "67eebfefc075e88be1a714f0e629d90b8cb4890e",
@@ -596,77 +662,33 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhULc1VvUr1LQ1qZPTiw_sPmN3JbNIk0OSlxHRT0MFdY2kM5Z7psdZtrctiSOybvu8i1sCwcMeSUtXxHb0xBkQ2lCUt2l_kKmhp93ydvN4-E-qObRkmiFK2s-jOPqipBTGfBnv4o-d9nLuPIL2JMGO6FhCFsFV2NkBlARzWW9ScqccGvAVHzM9o-6MDwn4/s1600/corelight-main.jpg"
     },
     {
-      "id": "8b2b80c0b9b97493bec8b4be6324f17af1d2d356",
-      "title": "Lazarus Deploys RemotePE Memory-Only RAT Against Financial and Crypto Firms",
-      "url": "https://thehackernews.com/2026/05/lazarus-deploys-remotepe-memory-only.html",
-      "published": "2026-05-25T09:32:54+00:00",
-      "summary": "Cybersecurity researchers have shed light on a cross-platform malware called RemotePE that has been put to use by the North Korea-linked Lazarus Group in attacks targeting financial and cryptocurrency organizations.\n\nRemotePE, per NCC Group subsidiary Fox-IT, is part of a multi-stage attack chain that involves two loaders tracked as DPAPILoader and RemotePELoader.\n\n\"DPAPILoader decrypts and",
-      "source": "The Hacker News",
+      "id": "8cbfe36ad38458540a7ebda8e70f1edc95e4fabe",
+      "title": "Malicious Notifications Could Trick Google Gemini Users",
+      "url": "https://www.darkreading.com/application-security/malicious-notifications-could-trick-google-gemini-users",
+      "published": "2026-06-03T12:01:00+00:00",
+      "summary": "A prompt injection flaw in Google Gemini's voice assistant let attackers hide malicious commands in notifications, enabling social engineering and more.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinuOeS1qVC0UHhPnJ0jlSdfScsZDRtkI6VU366iePjKdNTqLiqHcqjRcGL-sNBdUkShUH71YDDVwavzXM1cIu2UU9zE8VYgbJYsRUQeWRZAO75JC2vQHYs4saWOM3rQZKFPqNvlL8ASBocRiZXdO1jLgqLuCCeLHX0bAA1EQEhiBAq3i3Os97qHt_xF5ub/s1600/crypto-firms.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5b11efb4c67c9e8c/6a1f2620668c359305c948cc/AIappsphone-Nazar_Rybak-getty-2198117815.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "758e6e49f201b2c99533bbc522cb7aa20a789fbb",
-      "title": "TrapDoor Supply Chain Attack Spreads Credential-Stealing Malware via npm, PyPI, and CratesIO",
-      "url": "https://thehackernews.com/2026/05/trapdoor-supply-chain-attack-spreads.html",
-      "published": "2026-05-25T05:59:13+00:00",
-      "summary": "A new coordinated cross-ecosystem software supply chain attack campaign has targeted npm, PyPI, and Crates.io to distribute credential-stealing malware.\n\nThe campaign, codenamed TrapDoor, spans more than 34 malicious packages across over 384 versions. The earliest activity was recorded on May 22, 2026, at 8:20 p.m. UTC, with new packages published to the ecosystems in waves from a cluster of",
-      "source": "The Hacker News",
+      "id": "330a1122f8a803ba7d41dac455151d9de7600665",
+      "title": "Global Stock Exchange Hit by Monthslong Email Campaign",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/global-stock-exchange-hit-monthslong-email-campaign",
+      "published": "2026-06-03T10:01:00+00:00",
+      "summary": "A threat actor got a near-continuous view into an influential finance executive's email inbox, thanks to clever use of legitimate, native Windows tools.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOb58wXNPgRDazHcSLTObawPnMVsCDUEAoFclGVn3CC8qe6Pr_0-Gce-SxCO7FJ5HzU23WE_soU5iTc0zvLL0zzbXPcO8MqVgHIIAKXJo4ExcujDPV9yiIdN1X1jV63ACBN66_ktTeQ0FVmYsCTJC3tpyxpUBrvxLh_xqF-mKOZy8uaqz3QKyf6XpJHC4z/s1600/npm-python-rust.jpg"
-    },
-    {
-      "id": "a3fd847c33e47db078397ec9abd3bf043eef7a69",
-      "title": "npm Adds 2FA-Gated Publishing and Package Install Controls Against Supply Chain Attacks",
-      "url": "https://thehackernews.com/2026/05/npm-adds-2fa-gated-publishing-and.html",
-      "published": "2026-05-23T16:35:10+00:00",
-      "summary": "GitHub has rolled out new controls for npm to improve the security of the software supply chain, giving maintainers the ability to explicitly approve a release prior to the packages becoming publicly available for installation.\n\nCalled staged publishing, the feature is now generally available on npm. It mandates that a human maintainer pass a two-factor authentication (2FA) challenge to approve",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4rnMZgOYbsYr65UN9AZ3oFzcAwqXSYqgRfjUGpeaQeyP-0OAaqJ9aceXPAiujRKwyGQMa_4ShcSvtOWPb9T3qpqF2LATAw2U4iA7IkU9ok0alDbzN_WYJeaZ1SrF0-vyRrEHGedMEcCeP2otYYqplHmqEBda1R_MePbWgEpt-b-GB_RhxJLDC1pJFV0S0/s1600/npm-security.png"
-    },
-    {
-      "id": "613677eac14d4a32f97637bf51fa819f9a661fbb",
-      "title": "Packagist Supply Chain Attack Infects 8 Packages Using GitHub-Hosted Linux Malware",
-      "url": "https://thehackernews.com/2026/05/packagist-supply-chain-attack-infects-8.html",
-      "published": "2026-05-23T16:07:51+00:00",
-      "summary": "A new \"coordinated\" supply chain attack campaign has impacted eight packages on Packagist including malicious code designed to run a Linux binary retrieved from a GitHub Releases URL.\n\n\"Although the affected packages were all Composer packages, the malicious code was not added to composer.json,\" Socket said. \"Instead, it was inserted into package.json, targeting projects that ship JavaScript",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQ5LyRYJIkEVUSrrBV-_qvrXIKC-B4h0JAxyV4IalzuiEzXi6KeCnZNTUWIIld3oeC5kDx85xppqYm9tG_UB3_Sss9WqH2bYsOVxkB3PhjUk_cQrdyvr6JKsYgn35_sESYYsLC_OuKN9_2korX__RfHwkecLX_BGk7aajnm3sfNqbpV4Pl55B1fpSBpbOA/s1600/packagist.jpg"
-    },
-    {
-      "id": "72d496497a9b3978d510a42859bf49d2ddf85da4",
-      "title": "Claude Mythos AI Finds 10,000 High-Severity Flaws in Widely Used Software",
-      "url": "https://thehackernews.com/2026/05/claude-mythos-ai-finds-10000-high.html",
-      "published": "2026-05-23T11:55:35+00:00",
-      "summary": "Anthropic on Friday disclosed that Project Glasswing has helped uncover more than 10,000 high- or critical-severity vulnerabilities across some of the most \"systemically\" important software across the world since the cybersecurity initiative went live last month.\n\n Project Glasswing  is a defensive effort launched by the artificial intelligence (AI) company to secure critical global software",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOPcHXcMRS-BJNvy9aeoCz5H2Mmdh6mO6Kl3kM-l216B-3Wc0Iy5wayPkxJ79KtkHx2CGBwDVPMMeuB9E3jQlPXsa-vKqALoAuTwmEwsbH5sK0xs9xb_XWgk4uaGazYAcswrLxdX0QL74k7e85WXfL03rHFQStuxqpJFsJBcAQLOvNXSuX2YNBAScQStvj/s1600/claude-mythos-flaws.jpg"
-    },
-    {
-      "id": "a0b13b56f7a46d509ef2c25f0744d7f64d87720f",
-      "title": "Laravel-Lang PHP Packages Compromised to Deliver Cross-Platform Credential Stealer",
-      "url": "https://thehackernews.com/2026/05/laravel-lang-php-packages-compromised.html",
-      "published": "2026-05-23T09:51:13+00:00",
-      "summary": "Cybersecurity researchers have flagged a fresh software supply chain attack campaign that has targeted multiple PHP packages belonging to  Laravel-Lang to deliver a comprehensive credential-stealing framework.\n\nThe affected packages include -\n\n\n  laravel-lang/lang\n  laravel-lang/http-statuses\n  laravel-lang/attributes\n  laravel-lang/actions\n\n\"The timing and pattern of the newly published tags",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkqwlAgmL-HrE2pSx8xqfY4-AyYZ59wK4x5AWtnCXSHRoBO1wcYTpWw42Fe6VRoAT77e914MSqZW56fKX95IueHTCrk10XNn2Yxh7CU8iCdX5lzFowGeVkolW-4E3po81w9pFMsaLR_r85abtUv3bwvQMa6pP1BAiSj4DrmapTiYr1twfV61tvGdWJRgs8/s1600/lang-hack.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5908b752b625e143/6a1ef59f4a4fc7dbba150b40/Stocks_down-nagelestock.net-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "id": "8a8b764b8d115fa7e473fa11f8a9b434cd420e79",
-      "title": "Zoom CISO: AI as Security Enabler, Not Role-Replacer",
+      "title": "Zoom CISO: AI as a Security Enabler, Not Role-Replacer",
       "url": "https://www.darkreading.com/cybersecurity-operations/zoom-ciso-ai-security-enabler-role-replacer",
       "published": "2026-06-02T21:51:07+00:00",
-      "summary": "As Zoom's CISO, Sandra McLeod, discusses the challenges of securing a global communication platform, the promise of AI-driven security workflows, and advice for aspiring cybersecurity leaders.",
+      "summary": "Zoom CISO Sandra McLeod discusses the challenges of securing a global communication platform, the promise of AI-driven security workflows, and her advice for aspiring cybersecurity leaders.",
       "source": "DarkReading",
       "region": "North America",
       "country": "US",
@@ -1190,26 +1212,26 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltdf277665f3314cb9/6a0cc97e3c21f6422d8ba496/risk_blocks_Cagkan_Sayin_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "e78adca5ac1939def8fe9163dda35e0a37c5c8de",
-      "title": "Windows Zero-Day Barrage Continues After Patch Tuesday",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/windows-zero-day-barrage-continues-after-patch-tuesday",
-      "published": "2026-05-19T21:06:54+00:00",
-      "summary": "YellowKey, GreenPlasma, and MiniPlasma add to the growing list of vulnerabilities a security researcher disclosed over the past six weeks.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt94e5c85a811ff21b/6a0cc864ccb12f62a67122e5/zeroday_JLStock_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "id": "ef94851ebd462926e22ef120f2570852b52f400d",
+      "title": "Another bug hunter leaks Microsoft exploits in defiance of company\u2019s handling of vulnerability disclosures",
+      "url": "https://www.theregister.com/security/2026/06/03/another-bug-hunter-leaks-microsoft-exploits-in-defiance-of-companys-handling-of-vulnerability-disclosures/5250590",
+      "published": "2026-06-03T14:30:00+00:00",
+      "summary": "Researchers follow in Nightmare Eclipse\u2019s footsteps, flipping off Redmond in favor of insta-leaks",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=5244797&width=800"
     },
     {
-      "id": "992d66a3b3ad7c7354268ba02761c7a5090f9853",
-      "title": "CISA Exposes Secrets, Credentials in 'Private' Repo",
-      "url": "https://www.darkreading.com/cybersecurity-operations/cisa-exposes-secrets-credentials-private-repo",
-      "published": "2026-05-19T19:49:53+00:00",
-      "summary": "The agency's GitHub repository, publicly available since November 2025, was ironically named &quot;Private-CISA.&quot;",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt188d6215ae555513/6a0cb49ac7403d88c6336bf7/github_PJ_McDonnell_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "id": "eac0af8b78e75dbf49aabbaeda38a65fe9aaea93",
+      "title": "UK banks offered access to OpenAI\u2019s GPT-5.5 amid exclusion from Anthropic\u2019s Glasswing expansion",
+      "url": "https://www.theregister.com/security/2026/06/03/anthropic-ups-glasswing-partner-count-4x-uk-banks-snubbed/5250450",
+      "published": "2026-06-03T11:04:00+00:00",
+      "summary": "150 new organizations inducted to cyber\u2019s Soho House, including the first outside the US",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=5250568&width=800"
     },
     {
       "id": "b02433e524d78fc123c5068bebde6d910157e502",
@@ -1454,9 +1476,9 @@
       "image": "https://image.theregister.com/?imageId=254471&width=800"
     },
     {
-      "id": "15b3d2f4d2c6ee4e3647dad414feefc73074e510",
+      "id": "19c01a3428ea2463fe6a08fbe54a053c0807ae1f",
       "title": "Snowflake buys Natoma to help freeze out rogue agents",
-      "url": "https://www.theregister.com/ai-ml/2026/05/28/snowflake-buys-natoma-to-help-freeze-out-rogue-agents/5248062",
+      "url": "https://www.theregister.com/ai-and-ml/2026/05/28/snowflake-buys-natoma-to-help-freeze-out-rogue-agents/5248062",
       "published": "2026-05-28T19:52:47+00:00",
       "summary": "It is the database titan\u2019s sixth acquisition announcement since June 2025",
       "source": "The Register \u2013 Security",
@@ -1740,28 +1762,6 @@
       "image": "https://image.theregister.com/?imageId=5241973&width=800"
     },
     {
-      "id": "4644e832062450c0000db3bc8e96de2fbe979de4",
-      "title": "London's police asked Big Tech for comms data over 700,000 times last year",
-      "url": "https://www.theregister.com/databases/2026/05/20/londons-police-asked-big-tech-for-comms-data-over-700000-times-last-year/5242590",
-      "published": "2026-05-20T08:30:00+00:00",
-      "summary": "A Freedom of Information Act request shows the extent of the surveillance",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=230518&width=800"
-    },
-    {
-      "id": "0b1b22b560356ef257ed9e618e951f2d2f823e72",
-      "title": "Microsoft shuts down illegal code-signing operation used by ransomware crims to mask their malware",
-      "url": "https://www.theregister.com/security/2026/05/19/microsoft-disrupts-alleged-malware-signing-operation-used-by-ransomware-gangs/5243013",
-      "published": "2026-05-19T21:56:18+00:00",
-      "summary": "'Thousands' of US victims, including 12+ machines owned and operated by Redmond",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=5243050&width=800"
-    },
-    {
       "id": "98cb187e46e268fca6d742e73673a27899384710",
       "title": "Hackers Used Meta\u2019s AI Support Bot to Seize Instagram Accounts",
       "url": "https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/",
@@ -1839,6 +1839,83 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "971c3a4b1163b18720036f36eb077e72ae24276a",
+      "title": "Kirki, Burst Statistics WordPress Plugin Flaws in Attackers\u2019 Crosshairs",
+      "url": "https://www.securityweek.com/kirki-burst-statistics-wordpress-plugin-flaws-in-attackers-crosshairs/",
+      "published": "2026-06-03T13:00:04+00:00",
+      "summary": "<p>Threat actors are exploiting vulnerable Kirki and Burst Statistics deployments to elevate privileges and take over websites.</p>\n<p>The post <a href=\"https://www.securityweek.com/kirki-burst-statistics-wordpress-plugin-flaws-in-attackers-crosshairs/\">Kirki, Burst Statistics WordPress Plugin Flaws in Attackers&#8217; Crosshairs</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "6d94ba78eee9648c1d7efc7995aff04b4c7f7586",
+      "title": "Security of 100 AI Agents Tested and Ranked \u2013 What You Need to Know",
+      "url": "https://www.securityweek.com/security-of-100-ai-agents-tested-and-ranked-what-you-need-to-know/",
+      "published": "2026-06-03T13:00:00+00:00",
+      "summary": "<p>The AI Risk Quadrant evaluates AI agents based on three factors: how vulnerable they are to compromise, the potential impact of a breach, and the strength of their security defenses.</p>\n<p>The post <a href=\"https://www.securityweek.com/security-of-100-ai-agents-tested-and-ranked-what-you-need-to-know/\">Security of 100 AI Agents Tested and Ranked \u2013 What You Need to Know</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "a6a281efe0c2cb3db6c41fb0341b0445c374a62b",
+      "title": "Hackers Target Global Stock Exchange in Espionage Operation",
+      "url": "https://www.securityweek.com/hackers-target-global-stock-exchange-in-espionage-operation/",
+      "published": "2026-06-03T12:46:53+00:00",
+      "summary": "<p>The attackers had access to a senior executive\u2019s email account for 150 days and exfiltrated data for months.</p>\n<p>The post <a href=\"https://www.securityweek.com/hackers-target-global-stock-exchange-in-espionage-operation/\">Hackers Target Global Stock Exchange in Espionage Operation</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "8042278dda6c4b2c28c6d42af0218514a2b724d0",
+      "title": "IMA Diligence Services Data Breach Impacts 525,000 People",
+      "url": "https://www.securityweek.com/ima-diligence-services-data-breach-impacts-525000-people/",
+      "published": "2026-06-03T12:08:25+00:00",
+      "summary": "<p>The affected individuals\u2019 personal information was stolen from a legacy server managed by a third party.</p>\n<p>The post <a href=\"https://www.securityweek.com/ima-diligence-services-data-breach-impacts-525000-people/\">IMA Diligence Services Data Breach Impacts 525,000 People</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "3b2819c08b50286032aeddd3aa9fd83567697b8e",
+      "title": "Organizations Warned of Exploited Linux Kernel Vulnerability",
+      "url": "https://www.securityweek.com/organizations-warned-of-exploited-linux-kernel-vulnerability/",
+      "published": "2026-06-03T11:56:43+00:00",
+      "summary": "<p>An improper authentication bug allows attackers to escalate their privileges and escape containers.</p>\n<p>The post <a href=\"https://www.securityweek.com/organizations-warned-of-exploited-linux-kernel-vulnerability/\">Organizations Warned of Exploited Linux Kernel Vulnerability</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "cd2da5f21a8e077a9e717fb1dabd2b7139087121",
+      "title": "\u2018HTTP/2 Bomb\u2019 Exploit Knocks Web Servers Offline in Seconds",
+      "url": "https://www.securityweek.com/http-2-bomb-exploit-knocks-web-servers-offline-in-seconds/",
+      "published": "2026-06-03T10:52:08+00:00",
+      "summary": "<p>The default HTTP/2 configuration of major web servers is vulnerable to an attack chain combining a compression bomb and a Slowloris-style hold.</p>\n<p>The post <a href=\"https://www.securityweek.com/http-2-bomb-exploit-knocks-web-servers-offline-in-seconds/\">&#8216;HTTP/2 Bomb&#8217; Exploit Knocks Web Servers Offline in Seconds</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "3880e5ce3c752d57007a9adeaf77dfa002351edc",
+      "title": "Microsoft Tries to Calm Legal Threat Fears After Zero-Day Disclosure Backlash",
+      "url": "https://www.securityweek.com/microsoft-tries-to-calm-legal-threat-fears-after-zero-day-disclosure-backlash/",
+      "published": "2026-06-03T09:57:40+00:00",
+      "summary": "<p>Microsoft responds to backlash over its threats of legal action against researchers who publicly disclose zero-day vulnerabilities.</p>\n<p>The post <a href=\"https://www.securityweek.com/microsoft-tries-to-calm-legal-threat-fears-after-zero-day-disclosure-backlash/\">Microsoft Tries to Calm Legal Threat Fears After Zero-Day Disclosure Backlash</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "f08da082c9ff2abf7f04d597b7a9c278171db087",
       "title": "Trump Signs Executive Order That Invites Vetting of Top AI Models for National Security Risks",
       "url": "https://www.securityweek.com/trump-signs-executive-order-that-invites-vetting-of-top-ai-models-for-national-security-risks/",
@@ -1866,83 +1943,6 @@
       "url": "https://www.securityweek.com/exclusive-how-one-line-of-code-put-billions-of-microsoft-android-app-downloads-at-risk/",
       "published": "2026-06-02T15:00:00+00:00",
       "summary": "<p>A simple development setting bypassed protections designed to prevent unauthorized Android apps from accessing Microsoft account tokens, exposing billions of installations.</p>\n<p>The post <a href=\"https://www.securityweek.com/exclusive-how-one-line-of-code-put-billions-of-microsoft-android-app-downloads-at-risk/\">Exclusive: How One Line of Code Put Billions of Microsoft Android App Downloads at Risk</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "d4ef251eb5258c3dfe4d842b9a82abbd184304ad",
-      "title": "Android Update Patches Exploited Zero-Day, 123 Other Vulnerabilities",
-      "url": "https://www.securityweek.com/android-update-patches-exploited-zero-day-123-other-vulnerabilities/",
-      "published": "2026-06-02T14:36:33+00:00",
-      "summary": "<p>Google says the Android vulnerability CVE-2025-48595 has been exploited in limited, targeted attacks.</p>\n<p>The post <a href=\"https://www.securityweek.com/android-update-patches-exploited-zero-day-123-other-vulnerabilities/\">Android Update Patches Exploited Zero-Day, 123 Other Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "0901a5ee46b58f6227a14cdaf8315bf4fd935dd0",
-      "title": "Anthropic Expanding Mythos Access to 150 New Organizations",
-      "url": "https://www.securityweek.com/anthropic-expanding-mythos-access-to-150-new-organizations/",
-      "published": "2026-06-02T13:58:44+00:00",
-      "summary": "<p>Only approximately 50 companies have had access to Mythos until now and they have found thousands of vulnerabilities in their products.</p>\n<p>The post <a href=\"https://www.securityweek.com/anthropic-expanding-mythos-access-to-150-new-organizations/\">Anthropic Expanding Mythos Access to 150 New Organizations</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "1185a01303f124ae5ba0f5b5977b7f9343e5a4a2",
-      "title": "The Zero-Knowledge Threat Actor and the End of Responsible Disclosure",
-      "url": "https://www.securityweek.com/the-zero-knowledge-threat-actor-and-the-end-of-responsible-disclosure/",
-      "published": "2026-06-02T12:30:00+00:00",
-      "summary": "<p>AI can help attackers generate malware, create malicious payloads, bypass simple security checks, and convert vague malicious intent into functional code.</p>\n<p>The post <a href=\"https://www.securityweek.com/the-zero-knowledge-threat-actor-and-the-end-of-responsible-disclosure/\">The Zero-Knowledge Threat Actor and the End of Responsible Disclosure</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "419692f9c85bbeef7781f99bffce9e16122c5c91",
-      "title": "Critical Vulnerability in HP VoIP Phones Enables Enterprise Network Breaches",
-      "url": "https://www.securityweek.com/critical-vulnerability-in-hp-voip-phones-enables-enterprise-network-breaches/",
-      "published": "2026-06-02T12:25:52+00:00",
-      "summary": "<p>A stack-based buffer overflow bug can be exploited for remote code execution on a vulnerable device.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-vulnerability-in-hp-voip-phones-enables-enterprise-network-breaches/\">Critical Vulnerability in HP VoIP Phones Enables Enterprise Network Breaches</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "e898633ca288b39d6e413815a494090360604af9",
-      "title": "Oracle WebLogic Vulnerability Exploited in the Wild",
-      "url": "https://www.securityweek.com/oracle-weblogic-vulnerability-exploited-in-the-wild/",
-      "published": "2026-06-02T11:39:04+00:00",
-      "summary": "<p>The vulnerability is CVE-2024-21182 and it can be exploited without authentication to hack affected WebLogic servers.</p>\n<p>The post <a href=\"https://www.securityweek.com/oracle-weblogic-vulnerability-exploited-in-the-wild/\">Oracle WebLogic Vulnerability Exploited in the Wild</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "8134bed8a73d6f5b97bd0881a41f6fd745c7a87d",
-      "title": "Meta AI Hands Over High-Profile Instagram Accounts to Hackers",
-      "url": "https://www.securityweek.com/meta-ai-hands-over-high-profile-instagram-accounts-to-hackers/",
-      "published": "2026-06-02T10:48:26+00:00",
-      "summary": "<p>Exploiting a confused deputy weakness, the hackers simply asked the chatbot to link the account to a new email address.</p>\n<p>The post <a href=\"https://www.securityweek.com/meta-ai-hands-over-high-profile-instagram-accounts-to-hackers/\">Meta AI Hands Over High-Profile Instagram Accounts to Hackers</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "fec3bb1541601896ebb810e9c0b3f3d0ddfb6c7c",
-      "title": "Supply Chain Attack Hits 32 Red Hat NPM Packages",
-      "url": "https://www.securityweek.com/supply-chain-attack-hits-32-red-hat-npm-packages/",
-      "published": "2026-06-02T09:51:19+00:00",
-      "summary": "<p>Hackers published 96 malicious package versions, injected with a credential-stealing worm similar to Mini Shai-Hulud.</p>\n<p>The post <a href=\"https://www.securityweek.com/supply-chain-attack-hits-32-red-hat-npm-packages/\">Supply Chain Attack Hits 32 Red Hat NPM Packages</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
