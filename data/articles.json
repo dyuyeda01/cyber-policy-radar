@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-06-03T16:08:15.999046+00:00",
+  "generated_at": "2026-06-04T02:15:37.114265+00:00",
   "items": [
     {
       "id": "973ea0af3ce4183171c5682bbde51ef3e2d83bb7",
       "title": "\u2018Don\u2019t panic\u2019: AI reality checks dominate major cybersecurity conference",
       "url": "https://www.cybersecuritydive.com/news/ai-cybersecurity-hype-reality-check-gartner/821867/",
       "published": "2026-06-03T15:32:00+00:00",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/rpEwLb_8llr7AD9x0TzcGHmvws6EE_dln0KCgeT1LPo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9QWExfMjAyNjA2MDFfMTU1MDQ5ODM1LmpwZw==.webp\" /></div></figure><p>CISOs and their colleagues should focus on network security basics, not AI vendors&rsquo; overhyped promises, analysts said at an annual Gartner cybersecurity event.</p>",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/rpEwLb_8llr7AD9x0TzcGHmvws6EE_dln0KCgeT1LPo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9QWExfMjAyNjA2MDFfMTU1MDQ5ODM1LmpwZw==.webp\" /></div></figure><p>CISOs and their colleagues should focus on network security basics, not overhyped AI promises, analysts said at a Gartner cybersecurity event.</p>",
       "source": "Cybersecurity Dive",
       "region": "North America",
       "country": "US",
@@ -112,6 +112,61 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "0f05c67ffdb5a4ebd181267b84f352e626e88ddb",
+      "title": "WhatsApp, Slack Notifications Could Hijack Google Gemini on Android",
+      "url": "https://thehackernews.com/2026/06/whatsapp-slack-notifications-could.html",
+      "published": "2026-06-03T19:11:15+00:00",
+      "summary": "A single poisoned notification from WhatsApp, Slack, SMS, Signal, Instagram, or Messenger could have hijacked Google Gemini's voice assistant on Android and made it open a victim's connected windows, fake a message from their boss, push the phone into a Zoom call, or quietly poison its long-term memory.\n\nNo malicious app on the phone is required. The assistant just had to treat a hostile",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCJpW9I-QTgQOkP7AV3rwUtEOEs96ek2ySR06Go-xq5AThZV84qY3mDN1Dkh0oQ-94jZHc7zB21ax9ljU0dW2LtsSW5p7xuuX9ARsvoIZQTGaMSkESGxTjl-PgTy8hrnsI8ucVZpENLEuMa9QzoUYVmfp4aug4OnEZq3XeL3ZELNZVELSegpS398l8vKg/s1600/gemini-prompt.jpg"
+    },
+    {
+      "id": "75183210d26fb99f4bec0b6669914427bd5b1658",
+      "title": "Google DoubleClick Abused in New Malspam Campaign to Deliver DesckVB RAT",
+      "url": "https://thehackernews.com/2026/06/google-doubleclick-abused-in-new.html",
+      "published": "2026-06-03T16:29:16+00:00",
+      "summary": "Cybersecurity researchers have flagged a new malspam campaign that makes use of Google's DoubleClick domain as a way to evade detection and ultimately deliver a remote access trojan (RAT) named DesckVB RAT.\n\n\"Before the victim ever reaches attacker-controlled infrastructure, the lure routes through DoubleClick, a legitimate Google-owned domain that many security tools are less likely to treat as",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpQ6QXxFH4zkfeHGdcm1WXVcNXMpyJm-1dlZLbFCdp6rKDRhuwICzYaKaR-rCpn61qod6A1F98PZejZbmYuxaUXPJLXQffoaniCkqgyqR1-p7gClpj4PYibjzIDHk8_Vw4ag00EYPCM3Nz1G0Hvzuf6wBV-HzDFoSiYDEEdjPU45Bk_rIlGk9dJ_MMVuue/s1600/ad-malware.jpg"
+    },
+    {
+      "id": "ff8c2e8bf469dd2393ae2a631b8222a242ee9e45",
+      "title": "Beyond the Zero-Day: See Your Network Like an Attacker | Webinar with HD Moore",
+      "url": "https://thehackernews.com/2026/06/beyond-zero-day-see-your-network-like.html",
+      "published": "2026-06-03T14:56:46+00:00",
+      "summary": "Assume the breach. Zero-days keep shipping, AI is writing exploits faster than anyone patches, and \"patch everything in time\" stopped working years ago. Stop betting the org on winning that race. You don't control which bug lands. You control what it can reach once it does.\n\nThat is a question about the shape of your network, and most teams have the shape wrong. HD Moore, creator of Metasploit",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzZPASJ7ymlBpeDWq_d-byWp58FpBR6tdX6QfLJFFoGRHK9xB5mTbx0guIcMFKFYV87inRtJyM-cKJXI0Td5fVtpC1ITBFmp2myS2wBynVSF3rZP2jZWH6uR-_14ZEalErJASiKWVDJ_TD551AC0pN5A3Mu8y-Z1zW5mKvFMOmdLzrdWnhYCif0FR1lOE/s1600/hd.jpg"
+    },
+    {
+      "id": "37434cbdd7806e09c4593a48e7df8b69167d7586",
+      "title": "Microsoft 365 Android Apps Let Any App Steal Account Tokens via Leftover Debug Flag",
+      "url": "https://thehackernews.com/2026/06/microsoft-365-android-apps-let-any-app.html",
+      "published": "2026-06-03T14:56:35+00:00",
+      "summary": "A development flag left switched on in production builds of several Microsoft 365 Android apps disabled the check that limits account-token sharing to trusted Microsoft apps.\n\nAny other app on the same phone could ask for the signed-in user's token and get it, then read email, open files, browse the calendar, and send messages as that user. No password, no login screen, no permission prompt.",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_pEYWDRVadGL0WYM3iSY6jqFgBez8snXgoyeyAzcXNmxiytv-FgiKoBJX3aPivuYhSJjXp4o_zO1dQSIPUfduaAlB-rvSti7pFhdDZSrAa-ennBdfdVpe1Xo0dMxKATB8te61pyJAf60x5CP6OJzjzmtpFIg_qHQqA7VP-rUnEpaT37Z0qBOmbZ52BfM/s1600/ms-android.jpg"
+    },
+    {
+      "id": "34bcf2fb5e716e40adbece078ea7bd06d652411c",
+      "title": "Autonomous AI Tool Finds 2-Year-Old RCE Flaw in Redis (CVE-2026-23479)",
+      "url": "https://thehackernews.com/2026/06/autonomous-ai-tool-finds-2-year-old-rce.html",
+      "published": "2026-06-03T13:47:09+00:00",
+      "summary": "Redis has  patched  a use-after-free in its blocking-client code that lets an authenticated user run arbitrary OS commands on the machine hosting the database. The flaw was found by an autonomous AI tool built to hunt bugs in large codebases.\nTracked as CVE-2026-23479, the flaw was introduced in Redis 7.2.0 and remained in every stable branch until the May 5 fixes, unnoticed for over two years.",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTV6zPqD9KC3Rc5Mz9c8XENLiJntboDT6LIoD3L2FXlTUVC3rsWZ_3YLfe_jmhhyphenhyphenjb5RCwkTsdoyypD9VXxYgj_2GYaAupNMlOyZkycm94qr7XiarmBCpYQdZDN_Gwq6KrOmomzx1dmbz4hpUkw4OZparqEbydJneNKaWQI0fcP5tctpKxsZ7kFP5FCv0/s1600/redis-db.png"
+    },
+    {
       "id": "73d3eedfbf67e6b3e6eed2965b69e33523e32ce9",
       "title": "One-Click GitHub Dev Attack Lets Attackers Steal Full GitHub OAuth Tokens",
       "url": "https://thehackernews.com/2026/06/one-click-github-dev-attack-lets.html",
@@ -132,17 +187,6 @@
       "region": "North America",
       "country": "US",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuT21gubKVL2cAsQrEiju_yAE3Pxe1IPxsl9RlGfhMEeis2IuQglnZjwTme6xM1_IJNymXFY1kZsouMGecR2lQnzvMDXyjnY1Y7CT1Dz_xf0pRVkwJEJG9o1EfOlPMfgfZ0MO6eyKGKJDwRHrEsw2-Cai9QO3pfrryeSENy5kH4C_pdjDgsXVOO80TPy8/s1600/orchid.jpg"
-    },
-    {
-      "id": "ff8c2e8bf469dd2393ae2a631b8222a242ee9e45",
-      "title": "Beyond the Zero-Day: See Your Network Like an Attacker | Webinar with HD Moore",
-      "url": "https://thehackernews.com/2026/06/beyond-zero-day-see-your-network-like.html",
-      "published": "2026-06-03T11:28:59+00:00",
-      "summary": "Assume the breach. Zero-days keep shipping, AI is writing exploits faster than anyone patches, and \"patch everything in time\" stopped working years ago. Stop betting the org on winning that race. You don't control which bug lands. You control what it can reach once it does.\n\nThat is a question about the shape of your network, and most teams have the shape wrong. HD Moore, creator of Metasploit",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzZPASJ7ymlBpeDWq_d-byWp58FpBR6tdX6QfLJFFoGRHK9xB5mTbx0guIcMFKFYV87inRtJyM-cKJXI0Td5fVtpC1ITBFmp2myS2wBynVSF3rZP2jZWH6uR-_14ZEalErJASiKWVDJ_TD551AC0pN5A3Mu8y-Z1zW5mKvFMOmdLzrdWnhYCif0FR1lOE/s1600/hd.jpg"
     },
     {
       "id": "0934bc3faa1fbdc4ec6449e1c9662744a47682cf",
@@ -618,48 +662,48 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhL7Xqq7FlHxai3-wKrWcUujSg4cXnMJ_0LiXDaZHaZosFt3sPF1_PwcaqufOoM7q66vakQyKX5-odysTHOhtIG7ESj52Kna0i3OxaOA0sTONuH3NhkmautF8CTeiLBDzHFWjEvIT286ZnhERvK2VsvzxTdqjlEpXsbSELeqVHyr18JodeQZC-qudm2yblS/s1600/iran-hackers.jpg"
     },
     {
-      "id": "1a46f25eafe37389023858781b35ad9ce9f384d6",
-      "title": "KnowledgeDeliver LMS Flaw Exploited to Deploy Godzilla and Cobalt Strike",
-      "url": "https://thehackernews.com/2026/05/knowledgedeliver-lms-flaw-exploited-to.html",
-      "published": "2026-05-26T05:19:38+00:00",
-      "summary": "A now-patched high-severity security flaw affecting Digital Knowledge KnowledgeDeliver, a Learning Management System (LMS) popular in Japan, was exploited as a zero-day to deliver the Godzilla web shell and ultimately facilitate the deployment of Cobalt Strike Beacon.\n\nThe vulnerability, tracked as CVE-2026-5426 (CVSS score: 7.5), stems from the use of hard-coded ASP.NET machine keys, leading to",
-      "source": "The Hacker News",
+      "id": "d612e34d5dfac930606ca3e3abab3b8889ce17fa",
+      "title": "Attackers Use AI to Automate EDR Evasion Testing",
+      "url": "https://www.darkreading.com/endpoint-security/attackers-automate-edr-evasion-testing",
+      "published": "2026-06-03T21:34:07+00:00",
+      "summary": "Python scripts were used to test malware against endpoint detection and response agents from Sophos, CrowdStrike, and Windows Defender.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZKxsveHlyTguEODsRiYVuCPiOkIgyd3imCYdnpwwV2NQ0pw9oPEQoVw-2T98HW0KgZvRqQ_zeZIT-4E3b6WH6hE-fxJeZ9YN2S9T5769SS11QP-Pf8E1kf8kk0mbwyX_sjXTgrqKDzbDivmQRRmB_qGQmTKkB673oTFD-gWDet_ptXihujQMioqvryplT/s1600/KnowledgeDeliver.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt016007dbff30c0e1/6a2085be38e0c7c4b455ca45/Sophos_offices-Sundry_Photography-getty-1200830219.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "a3dc8f18b436a7280da92ccc50cd2d253d6b1a9d",
-      "title": "\u26a1 Weekly Recap: Linux Flaws, Defender 0-Days, Router Botnets, and Supply Chain Chaos",
-      "url": "https://thehackernews.com/2026/05/weekly-recap-linux-flaws-defender-0.html",
-      "published": "2026-05-25T14:13:27+00:00",
-      "summary": "Monday recap. Same mess, new week.\n\nA sketchy dev tool got people pwned, old bugs came back from the dead, and security products somehow needed protecting from themselves. A bunch of companies spent the week checking old boxes and forgotten servers they should've patched years ago. Good times.\n\nPhishing crews are getting smarter too - less obvious scam junk, more targeted stuff that actually",
-      "source": "The Hacker News",
+      "id": "e0b2bbe4608ff674d24a30528ed866fb2de6064e",
+      "title": "Tropical Blend: Cyber &amp; Politics Ramp Up Across Latin America",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/nation-state-cyber-activity-latin-america",
+      "published": "2026-06-03T19:52:32+00:00",
+      "summary": "China-linked espionage groups have attacked at least a dozen nations in the region, gathering information on maritime shipping, oil production, and other geopolitical interests.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8B3KNTIZROmtfiYkIEINzg34cq_-I4prGGMjQ8F8oHbOcrNNB0FyCuQq-bb9ChCEtkO5TxGqm_5YRrG7r3IJAkcsX_eC3vmpR1Va-b3NOfEQynjPDmOm2A_uJ15IZk5VPnrmZzOKKjzA6_kjUFNbUkFHKsEk_Ts92DfPZXa3x4r8o8UQkOpMmNUfBwGxx/s1600/rere.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltaa97395bb0805f7f/6a1f49d4c6f2ac73df1ebf16/old-globe-showing-south-america-jhonny_marcell_oportus-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "7c51921d36a1a846244fc4d562ae38aca855902f",
-      "title": "Ghost CMS CVE-2026-26980 Exploited to Hijack 700+ Sites for ClickFix Attacks",
-      "url": "https://thehackernews.com/2026/05/ghost-cms-cve-2026-26980-exploited-to.html",
-      "published": "2026-05-25T12:02:46+00:00",
-      "summary": "Threat actors are exploiting a recently disclosed critical security flaw in Ghost CMS to inject malicious JavaScript code with an aim to fuel ClickFix attacks.\n\nAccording to QiAnXin XLab, the activity involves the exploitation of CVE-2026-26980 (CVSS score: 9.4), an SQL injection vulnerability in Ghost's Content API that could allow an unauthenticated attacker to read arbitrary data from the",
-      "source": "The Hacker News",
+      "id": "387527de77883ebedafd65328c2b6ba7caca5f24",
+      "title": "Cyber Insurance Rates Are Dropping, but Exclusions Widen",
+      "url": "https://www.darkreading.com/cyber-risk/cyber-insurance-rates-drop-exclusions-widen",
+      "published": "2026-06-03T19:10:58+00:00",
+      "summary": "Cyber insurance coverage is slowly changing, and some policies may not provide coverage for social engineering attacks like ClickFix.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5bYCvN_MmCGXVH5raR8wqJQv52CST3mK7UBfLXVnqRRL_rHkhJpSOBjdPyR5oXmPsSB-X3-Sib6-eVToqi4UXB218ESR2uFdczESGAM5i4ZkxQyE7AkQteCFCasknPz262ceUOFccS3xcUbaQdvUGoRw0kJE7QQMSbeP2OAQVfY9lFYTj7ZhzCL_GdkuM/s1600/check-cf.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltccb00eced4dc6fb5/6a204f532928e1ceac7b3c4c/cyberinsurance-Poca_Wander_Stock-getty-1470986827.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "caa1b733417471b46e39687ece924a735613339c",
-      "title": "The Alert Firehose Finally Meets Its Match",
-      "url": "https://thehackernews.com/2026/05/the-alert-firehose-finally-meets-its.html",
-      "published": "2026-05-25T11:30:00+00:00",
-      "summary": "Ask a cybersecurity pro about Network Detection and Response (NDR) and you might still hear \"Noisy,\" \"Too much data.\" But ask the teams running NDR that includes agentic AI capabilities and you'll hear they're actually using it to catch threats earlier, triage faster, and chase fewer false positives. The old complaint lingers in part because reputations are sticky, and because NDR has evolved",
-      "source": "The Hacker News",
+      "id": "c0227c891b5dedae29007acb00491dfbb4637619",
+      "title": "Coding Gaffe Exposes Microsoft 365 Accounts to Widespread Takeover",
+      "url": "https://www.darkreading.com/application-security/coding-gaffe-exposes-microsoft-365-accounts-takeover",
+      "published": "2026-06-03T19:00:41+00:00",
+      "summary": "A disabled security setting meant to protect authentication across Android versions of key apps like Word, PowerPoint, and Excel paved the way for attackers to steal logins and data.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhULc1VvUr1LQ1qZPTiw_sPmN3JbNIk0OSlxHRT0MFdY2kM5Z7psdZtrctiSOybvu8i1sCwcMeSUtXxHb0xBkQ2lCUt2l_kKmhp93ydvN4-E-qObRkmiFK2s-jOPqipBTGfBnv4o-d9nLuPIL2JMGO6FhCFsFV2NkBlARzWW9ScqccGvAVHzM9o-6MDwn4/s1600/corelight-main.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta6d9216f2cd41b4b/6a2015f94a4fc7d0bb15144e/Authentication_Zoonar_GmbH_Alamy.png?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "id": "8cbfe36ad38458540a7ebda8e70f1edc95e4fabe",
@@ -1168,48 +1212,26 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc910f7f1381f9cc0/6a0c51d37e010876184b0788/robot-book-KittipongJirasukhanont-alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "4e6cfbf34e6e1451cf6b102caf1208f776c0361a",
-      "title": "Interpol's 'Operation Ramz' Pioneers Cross-Region Collabs in Middle East",
-      "url": "https://www.darkreading.com/cybersecurity-operations/interpol-operation-ramz-cross-region-middle-east",
-      "published": "2026-05-20T07:00:00+00:00",
-      "summary": "While the numbers are modest, the crackdown on cybercrime involved 13 countries in the MENA region, the largest law enforcement collaboration to date.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0be6af563749ef53/6a0cb6c6fc6d781d0eb34f55/rams-at-luxor-in-Egypt-Yuliia24-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "id": "6099b33fb79bedc6415b20e8edb3399552f020a1",
+      "title": "Commvault says it's time to rethink resiliency as AI crooks leave victims in a 'dark, dead' state",
+      "url": "https://www.theregister.com/security/2026/06/03/commvault-says-its-time-to-rethink-resiliency-as-ai-crooks-leave-victims-in-a-dark-dead-state/5250894",
+      "published": "2026-06-03T22:31:29+00:00",
+      "summary": "Those backup plans need backup testing",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=5250915&width=800"
     },
     {
-      "id": "e4270fb691a78d66671910cad25a5b783767699e",
-      "title": "What It'll Take to Make AI BOMs Usable in a Modern Security Program",
-      "url": "https://www.darkreading.com/cyber-risk/make-ai-bom-usable-modern-security-program",
-      "published": "2026-05-20T03:44:40+00:00",
-      "summary": "Five ways CISOs can prepare for consuming AI bills of materials and influence the direction of how they're generated.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt430d36ffa6e389ff/6a0dabba72bcb6d3b2c99b01/robotwork-_nastassia-AdobeStock_195826507.jpg?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
-      "id": "60c8698ea0cee834289497270087a65d69a62a60",
-      "title": "What Will Make AI BOMs Real?",
-      "url": "https://www.darkreading.com/cybersecurity-analytics/what-make-ai-bom-real",
-      "published": "2026-05-19T22:17:55+00:00",
-      "summary": "A brief overview of the forces at play that will get more organizations on board with creating and consuming AI bill of materials (BOM).",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt82d57f92a103d9df/6a0d147edc31f80b8cc3c3a0/robot-Pluto-alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
-      "id": "885fcee6e1741ab0ecd53c43500ff648175a4502",
-      "title": "Verizon DBIR: Enterprises Face a Dangerous Vulnerability Glut",
-      "url": "https://www.darkreading.com/threat-intelligence/verizon-dbir-enterprises-vulnerability-glut",
-      "published": "2026-05-19T21:55:35+00:00",
-      "summary": "Verizon's 2026 Data Breach Investigations Report (DBIR) finds that exploits are now involved in 31% of initial access for breaches, while patching lags too far behind the bad guys.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltdf277665f3314cb9/6a0cc97e3c21f6422d8ba496/risk_blocks_Cagkan_Sayin_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "id": "e17f9d89d13d452568ffaa002116e255650eacba",
+      "title": "Bend the beam like Beckham to defeat anti-jamming tech",
+      "url": "https://www.theregister.com/networks/2026/06/03/curving-beams-could-fool-anti-jamming-tech/5250872",
+      "published": "2026-06-03T20:57:39+00:00",
+      "summary": "It's hard to stop a signal jammer if you can't locate the source, say Rice University researchers",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=244838&width=800"
     },
     {
       "id": "ef94851ebd462926e22ef120f2570852b52f400d",
@@ -1740,28 +1762,6 @@
       "image": "https://image.theregister.com/?imageId=5243744&width=800"
     },
     {
-      "id": "6a57f659c0fdb5cf29af278747df4b41118b5bd9",
-      "title": "Even Claude agrees: hole in its sandbox was real and dangerous",
-      "url": "https://www.theregister.com/security/2026/05/20/even-claude-agrees-hole-in-its-sandbox-was-real-and-dangerous/5243662",
-      "published": "2026-05-20T20:34:15+00:00",
-      "summary": "Another day, another AI bug silently fixed with no CVE and no public disclosure",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=224154&width=800"
-    },
-    {
-      "id": "da442f075fd5cad229ba127cd3b65a34f03e8358",
-      "title": "GitHub says internal repos exfiltrated after poisoned VS Code extension attack",
-      "url": "https://www.theregister.com/devops/2026/05/20/github-says-internal-repos-exfiltrated-after-poisoned-vs-code-extension-attack/5243206",
-      "published": "2026-05-20T10:27:44+00:00",
-      "summary": "Initial assessment says customer data spared while users wonder what else may have slipped out",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=5241973&width=800"
-    },
-    {
       "id": "98cb187e46e268fca6d742e73673a27899384710",
       "title": "Hackers Used Meta\u2019s AI Support Bot to Seize Instagram Accounts",
       "url": "https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/",
@@ -1834,6 +1834,17 @@
       "published": "2026-05-08T02:58:46+00:00",
       "summary": "An ongoing data extortion attack targeting the widely-used education technology platform Canvas disrupted classes and coursework at school districts and universities across the United States today, after a cybercrime group defaced the service's login page with a ransom demand that threatened to leak data from 275 million students and faculty across nearly 9,000 educational institutions.",
       "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "23b3df3372d5ae3561f26edb07d2562cd547b77f",
+      "title": "Coralogix Raises $200M at $1.6B Valuation to Scale AI Observability Platform",
+      "url": "https://www.securityweek.com/coralogix-raises-200m-at-1-6b-valuation-to-scale-ai-observability-platform/",
+      "published": "2026-06-03T17:32:57+00:00",
+      "summary": "<p>Coralogix offers a full-stack observability platform that unifies logs, metrics, traces, security, and AI observability.</p>\n<p>The post <a href=\"https://www.securityweek.com/coralogix-raises-200m-at-1-6b-valuation-to-scale-ai-observability-platform/\">Coralogix Raises $200M at $1.6B Valuation to Scale AI Observability Platform</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
@@ -1932,17 +1943,6 @@
       "url": "https://www.securityweek.com/two-new-reports-offer-competing-explanations-for-cybersecuritys-growing-crisis/",
       "published": "2026-06-02T16:35:38+00:00",
       "summary": "<p>As AI shortens the path from vulnerability disclosure to exploitation, researchers disagree on whether the problem is inadequate security tools or inadequate operational control.</p>\n<p>The post <a href=\"https://www.securityweek.com/two-new-reports-offer-competing-explanations-for-cybersecuritys-growing-crisis/\">Two New Reports Offer Competing Explanations for Cybersecurity&#8217;s Growing Crisis</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "eb6f0ef8e984eeea77de463314f03727e0730cdf",
-      "title": "Exclusive: How One Line of Code Put Billions of Microsoft Android App Downloads at Risk",
-      "url": "https://www.securityweek.com/exclusive-how-one-line-of-code-put-billions-of-microsoft-android-app-downloads-at-risk/",
-      "published": "2026-06-02T15:00:00+00:00",
-      "summary": "<p>A simple development setting bypassed protections designed to prevent unauthorized Android apps from accessing Microsoft account tokens, exposing billions of installations.</p>\n<p>The post <a href=\"https://www.securityweek.com/exclusive-how-one-line-of-code-put-billions-of-microsoft-android-app-downloads-at-risk/\">Exclusive: How One Line of Code Put Billions of Microsoft Android App Downloads at Risk</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
