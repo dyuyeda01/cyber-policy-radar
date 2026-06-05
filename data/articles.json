@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05T01:59:43.976821+00:00",
+  "generated_at": "2026-06-05T14:15:34.277201+00:00",
   "items": [
     {
       "id": "39737be106019bbb9319af1257c58ef82859ca24",
@@ -110,6 +110,61 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "641f35ccc59c622b4aa92b864e4dd1403158050f",
+      "title": "New Threat Cluster OP-512 Targets Microsoft IIS Servers with Custom Web Shell Framework",
+      "url": "https://thehackernews.com/2026/06/new-threat-cluster-op-512-targets.html",
+      "published": "2026-06-05T12:33:38+00:00",
+      "summary": "Cybersecurity researchers have discovered a previously unreported threat cluster dubbed OP-512 that has been observed targeting Microsoft Internet Information Services (IIS) servers to deploy a bespoke web shell framework.\n\nReliaQuest has assessed with moderate to high confidence that the espionage-focused activity is linked to China.\n\n\"OP-512 was highly likely conducting espionage through a",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiab_7FEmO4woH_bG4spUNJRFCFvvmpF9ggnhOlkIf7f0Ma7z4oEwL0MxFSe4CstBBQRLFsYxObArJESQWOkwOPIQgO7m17DQFE997ZPe9hBnUPWiY-rabco7Q_OE2LYgp5UuqDfSxk8jvCJvLriBKb6OQAN9ovQbqSTOGD13SWnU3P12FTLgfvMe5sTgPN/s1600/chinese.jpg"
+    },
+    {
+      "id": "0e0ad0174b203dd0b949cf279b29e143021ff1c9",
+      "title": "Only 10% of SOCs Say They\u2019re Getting Excellent Value From AI. Here\u2019s What the Second Wave Has to Deliver",
+      "url": "https://thehackernews.com/2026/06/only-10-of-socs-say-theyre-getting.html",
+      "published": "2026-06-05T11:20:00+00:00",
+      "summary": "Eighteen months ago, the AI SOC was a marketing line. Today it's a budget item. The category has crossed over from interesting to inevitable, with billions of dollars now flowing into AI-powered security operations platforms, agentic SOC tools, and AI co-pilots built into every layer of the security stack. The data shows SOCs are buying, deploying, and standing up AI capabilities at the fastest",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsdgNCJHCuVqNf4dGZYDAmzpytkCd3NBt-TKUtEo-bSBKeuqJzzk7CGB5l-JxHyIz5mVjHRn7csD0zZNm4MipX2Kwhfx8gB_Qdk8XcMg6kuoOaiBvcZT1LGlmfRGsC2avDBRtTWb9I-hzENpGkSFRouv7YSUiKHAXZ7qmYEbTdwe9dsVQCj_RRxUnaSyE/s1600/main.jpg"
+    },
+    {
+      "id": "168a46a7a3cd1c4308b3810efd037ac47d459d62",
+      "title": "Hackers Exploit Critical Everest Forms Pro WordPress Plugin Flaw to Take Over Sites",
+      "url": "https://thehackernews.com/2026/06/hackers-exploit-critical-everest-forms.html",
+      "published": "2026-06-05T08:38:59+00:00",
+      "summary": "Threat actors are actively exploiting a critical security flaw in Everest Forms Pro, a WordPress plugin with about 4,000 active installations, to execute arbitrary code, leading to a complete site compromise.\n\nThe vulnerability in question is CVE-2026-3300 (CVSS score: 9.8), a remote code execution bug impacting all versions of the plugin up to, and including, 1.9.12. A patch for the flaw was",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgKOwHRwFSrcOI7vBYVGbebtc3DwR3w7SYc9l7FUXp1yXc_N2MbNNlEXtfRjVneU4wz2YB8PqC_k54o_6ZpB2oKZKhVBlK7IC-CGU05B5GgE7qS26MBxKIWLZTC2rNhVf2vufJcwh7RK4zuH-twWCcd_eZtNm25Pmn-pQyOXcB7N_C9918yOP7C1K4KrNz/s1600/wordpress.jpg"
+    },
+    {
+      "id": "b1d6c22f7b30bba39f12295329b9a2da3d038d1c",
+      "title": "FIFA World Cup 2026 Scams Are Already Live: Fake Sites, Banking Malware, and Stolen Logins",
+      "url": "https://thehackernews.com/2026/06/fifa-world-cup-2026-scams-are-already.html",
+      "published": "2026-06-05T07:01:41+00:00",
+      "summary": "Security researchers and the FBI are warning that a wave of FIFA-themed fraud is already hitting World Cup 2026 fans, days before the June 11 kickoff.\n\nRecent reports describe thousands of lookalike FIFA domains, banking malware hidden inside pirate streaming apps, and at least one operation that copies FIFA's login page well enough to take over real accounts.\n\nIt is an obvious target. More than",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMkj_adwzUUFP7yWyIFVKIKKQGDjqfvPuxKoR4mrrJ_SX3EACoJ3toLV3ZkYmePeA-nKWWfVC-90aOa5yjepuVYNy2lc820-onK23EJN4JU9G9e6QR471FTzPvByhyI7-bkGntT7hLxGXyTqSi7TpLMGqhfiKTQz01jN461HvEGxYY075LsqsB_tqEprcN/s1600/fifa-2026-scams.jpg"
+    },
+    {
+      "id": "c45550caade33f04a8be255ccd8b625671400f9a",
+      "title": "PCPJack Hijacks 230 AWS, Google Cloud, and Azure Servers for Covert SMTP Relay Network",
+      "url": "https://thehackernews.com/2026/06/pcpjack-hijacks-230-aws-google-cloud.html",
+      "published": "2026-06-05T05:34:19+00:00",
+      "summary": "The threat actor known as PCPJack has hijacked cloud servers associated with Amazon Web Services (AWS), Google Cloud, and Microsoft Azure to create a covert SMTP email relay network.\n\n\"Compromised business servers across the U.S., Europe, and Asia were quietly converted into SMTP proxies, verified for mail relay capability, and synced to a downstream consumer every five minutes,\" Hunt.io said in",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibu0mX9Tusu3siXFJzPskfA1ZYZ2OdRJTegsJFkffBc9cBBPGWguTUAI3PPAaFy-WIjziA9PIrMrZNVuFVNmbFhOSPLv6mMBPvjWnR-WQGBD2fvGFTJT358yWFFTxeFSS87aQ_fj30G2VdsGlBjy2KJiby4CS-k3X9FjjpyTGxljOo373cUaZKhdBvWZ_a/s1600/cloud-emails.jpg"
     },
     {
       "id": "b7de2431cd2acb4354b3c6679a40b0ba87291517",
@@ -607,59 +662,15 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBnLTRREuP8t8AoMRlakMDVRNoOYCA18IuBTWxA_nms12GdQaSfaU1kgpLSrgUvFFH1goJ_-NOIerDAnZxlD86Oafg_b6QdecLrT4UJdb3_qfmgtxdjrhF8GioeuEZbyZBTVL4cXUcpWqZujpLoI4zBm9y7XvFUjYR5cjF0GmmU_TXlmX0W7zsxlcvV9mW/s1600/tbb.jpg"
     },
     {
-      "id": "ed6a5498bd4ab75492f487035df26f470ba4fe0e",
-      "title": "New AI Usage Report: Enterprise AI Risk Is Heavily Concentrated Among a Small Group of AI \"Power users\"",
-      "url": "https://thehackernews.com/2026/05/new-ai-usage-report-enterprise-ai-risk.html",
-      "published": "2026-05-28T11:30:00+00:00",
-      "summary": "State of AI Usage Report 2026 (full report here) by LayerX Security reveals the extent of the enterprise AI visibility gap and why most organizations still don't understand where their AI exposure is actually coming from. The research shows that enterprise AI risk is not distributed evenly across users or platforms. Instead, it is heavily concentrated among a small group of AI power users and a",
-      "source": "The Hacker News",
+      "id": "d9d0ba7a6f9fec43b5d4ed465240fa9c9f79021c",
+      "title": "Trump AI Order Seeks Voluntary Frontier Model Testing",
+      "url": "https://www.darkreading.com/cybersecurity-operations/trump-ai-order-seeks-voluntary-frontier-model-testing",
+      "published": "2026-06-05T13:00:00+00:00",
+      "summary": "The White House's executive order establishes voluntary framework for early government access to frontier models while investing in federal security.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXxB1vzDMiskZRwzcQojV8rDdalRXWpzXieLES5nUD0bXfnbXrUwsV00RsMmRFdd-Zd3up_9wAGsvfzTDmWi4MLp70XlajlgakXsuCfdWmOe0uQuy0yIwxC4-fevqlb0Rs3AR_eqInGT1scQfa5oiGqY-TRmswOwkY4Zg2ikCYxlsBF2FQTEGA216b_NF8/s1600/apples.jpg"
-    },
-    {
-      "id": "72076386f8800c122c7679743df515036db8aa7a",
-      "title": "JINX-0164 Targets Cryptocurrency Firms with Fake Recruiter Lures and macOS Malware",
-      "url": "https://thehackernews.com/2026/05/jinx-0164-targets-cryptocurrency-firms.html",
-      "published": "2026-05-28T07:54:48+00:00",
-      "summary": "A new campaign orchestrated by a previously undocumented threat actor has targeted cryptocurrency organizations with an aim to facilitate digital asset theft using recruitment-themed social engineering and bespoke macOS malware.\n\n\"These campaigns leveraged sophisticated social engineering techniques, custom macOS malware, and deep targeting of CI/CD infrastructure,\" Wiz researchers Shira Ayal,",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyRUE7TEns58pfRrpwegQH6tBvGORrdclhPKKI7B7l9eNy5bMA1_ra6HAyGPUC_NKD8ZTnpVt7z88AII1Sd8QpA-sqZ7ONKZGwEVFB0u8gNvsBVRtfJuTsvWM4q6V_9MXVj7fX4ug_7mel-x1i2l7qm1GY94gVA1AbyCrvRQA8JcaDmhF1i_tM22NF_RPX/s1600/crypto-hacks.jpg"
-    },
-    {
-      "id": "4e009abeb240e227cfd71a7b19432e5ef111cc37",
-      "title": "Grandoreiro Malware and BTMOB RAT Campaigns Target Windows and Android Users",
-      "url": "https://thehackernews.com/2026/05/grandoreiro-malware-and-btmob-rat.html",
-      "published": "2026-05-27T16:10:21+00:00",
-      "summary": "Latin America and Europe become the target of two banking trojan campaigns that are designed to infect Windows and Android devices with Grandoreiro and BTMOB malware, respectively.\n\nThat's according to new findings from WatchGuard and ESET, which have observed the two malware families being used to single out companies in Spain, Portugal, and Mexico, as well as mobile users in Brazil.\n\nThe",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLrxY3dAls7M9XrbkVjdGZELLj2DQ4eGof0qKdWXJLGqQgVgcbszD-mSmcUi6ljJEPyuM5qbIzFD2CAkjQMkwdznWW5nXnJpPUOxuLP87xIATaxqvIKByQr0ddq8GnYTJy_O6VX5Z0cv_S9AYbwVUzzMeKM3UoPGGJ3Bzei5FluxHchhuekfAiKxUnBmaa/s1600/android-malware.jpg"
-    },
-    {
-      "id": "f4f835fcb12dd289eb08f07f836ae48291e3c268",
-      "title": "Malicious npm Package Stole Files From Claude AI User Directory via GitHub",
-      "url": "https://thehackernews.com/2026/05/malicious-npm-package-stole-files-from.html",
-      "published": "2026-05-27T15:44:29+00:00",
-      "summary": "Cybersecurity researchers have discovered a new malicious package on the npm registry that comes with information stealing capabilities.\n\nAccording to OX Security, the package, named \"mouse5212-super-formatter,\" is designed to upload files from \"/mnt/user-data,\" a dedicated directory used by Anthropic's Claude artificial intelligence (AI) tool to handle uploads and outputs in the background. The",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlezHawmKBTFBZSgR52vL_EBxfwIlMa0i4LdDK2xC_c8nw704KQHbRNSHYAy8TY4ShZMFwAJoZKUBSDJBCVnwbORTlz7iE0JI9f9ORbQQ-RB5lA_b9VbUzAsjpVeW2oJ94hdfzOeCWN3zd5Li7zWanNx3s07cF8IRlWuVrLqBNaY0sobbJww1Pa_o2t4JN/s1600/npm-ai.jpg"
-    },
-    {
-      "id": "9cc0fc522586e66aeac130a8fece294a4846ff2c",
-      "title": "5 Steps to Managing Shadow AI Tools Without Slowing Down Employees",
-      "url": "https://thehackernews.com/2026/05/5-steps-to-managing-shadow-ai-tools.html",
-      "published": "2026-05-27T13:28:48+00:00",
-      "summary": "When an employee installs an AI writing assistant, connects a coding copilot to their IDE, or starts summarizing meetings with a new browser tool, they are doing exactly what a productive employee should do: finding faster ways to work.\n\nAcross most organizations today, employees are running three to five AI tools on any given day. Most were never reviewed by IT. A significant portion connects",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6kyKLwKpVhYgitj4fm1vRuvXJPKSpYpf_WcR-b0_8CVkNeFLtcxO158cmOS_GAVNi7G1xTrDOLVcVqBXKW-rI31rDAVXhN-A3Q1g11l_17bAKuedJx_meh5Pf4hoRVLwx55EECim9EGrI0xRCsq2Dx-8nBNlNwIVqEApy16ZBm48DuqDq2Q7BtRKm3AA/s1600/shadow.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt35b8e66ce856430b/6a21d4c69f92ca3dfa08c2dd/RMTrump_Signs_Executive_Order-Kevin_Dietsch-getty-2279671771.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "id": "984e279927adf67ef90dfc8ab9c3e00d4cc248f0",
@@ -1201,15 +1212,26 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2c0354b9fcf6985f/6a0e106f7896f1466e6adf8e/Star_Wars-John_Bingham-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "be4c122daeb67679d8fca5c8b9f99543b2371146",
-      "title": "GitHub Confirms Breach, 4K Internal Repos Stolen",
-      "url": "https://www.darkreading.com/application-security/github-confirms-breach-4k-internal-repos-stolen",
-      "published": "2026-05-20T20:51:32+00:00",
-      "summary": "GitHub confirmed a data breach this week involving the theft of thousands of developer code repositories. One threat actor \u2014 TeamPCP \u2014 took credit.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt14b264d36a8b1972/6a0e0edae87cf56bc17d8b98/GitHub_Octocat_logo_Sundry_Photography_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "id": "9a92e2e479c4e736c00063775c4a2c680802636d",
+      "title": "World Food Programme breach exposes data of 600k vulnerable Gazan families",
+      "url": "https://www.theregister.com/security/2026/06/05/world-food-programme-breach-exposes-data-of-600k-vulnerable-gazan-families/5251605",
+      "published": "2026-06-05T13:00:00+00:00",
+      "summary": "Those receiving aid in the famine-threatened, war-torn territory told support will remain",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=244774&width=800"
+    },
+    {
+      "id": "6965b8c1a06c8de69514acda4ce722b8f789baf5",
+      "title": "Council in UK's City of York outs hundreds of disabled residents with a single email blunder",
+      "url": "https://www.theregister.com/security/2026/06/05/council-in-uks-city-of-york-outs-hundreds-of-disabled-residents-with-a-single-email-blunder/5251214",
+      "published": "2026-06-05T10:00:00+00:00",
+      "summary": "Blue Badge holders exposed to each other after BCC function proves too complex",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=5251269&width=800"
     },
     {
       "id": "8de89bc4042482d89c2e54700891ff6efd24aed0",
@@ -1740,26 +1762,158 @@
       "image": "https://image.theregister.com/?imageId=254116&width=800"
     },
     {
-      "id": "59f02e2f095f0be4710fde57d337dd046526576a",
-      "title": "Cisco used AI to write security incident reports, with mixed results",
-      "url": "https://www.theregister.com/security/2026/05/22/cisco-used-ai-to-write-security-incident-reports-with-mixed-results/5244692",
-      "published": "2026-05-22T05:38:19+00:00",
-      "summary": "You\u2019ll need a lot of detailed prompts to get solid output - and even then it may have errors and typos",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=230011&width=800"
+      "id": "98cb187e46e268fca6d742e73673a27899384710",
+      "title": "Hackers Used Meta\u2019s AI Support Bot to Seize Instagram Accounts",
+      "url": "https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/",
+      "published": "2026-06-01T17:32:50+00:00",
+      "summary": "The Instagram accounts for the Obama White House and the Chief Master Sergeant of the U.S. Space Force were briefly defaced with pro-Iranian images and messages over the weekend, after instructions began circulating on Telegram showing how to trick Meta's \"AI support assistant\" bot into resetting account passwords.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "9825e49e65076711c13f1d4c498370b69e657664",
-      "title": "Dems slam Trump for making cybersecurity hold out the tin cup while splurging on ballroom and Jan. 6 'slush fund'",
-      "url": "https://www.theregister.com/security/2026/05/22/dems-slam-trump-cyber-cuts-amid-ballroom-jan-6-slush-fund/5244618",
-      "published": "2026-05-21T23:03:16+00:00",
-      "summary": "'Budgets are moral documents,' Rep. Delia Ramirez said",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=235372&width=800"
+      "id": "9180696aa4788b0b2cc3ec55e64f2688433c1cd4",
+      "title": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
+      "url": "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/",
+      "published": "2026-05-25T13:21:49+00:00",
+      "summary": "Authorities in the Netherlands have arrested the co-owners of two related Internet hosting companies for operating IT infrastructure used by Russia to carry out cyberattacks, influence operations and disinformation campaigns inside the European Union. The two men were the focus of a 2025 KrebsOnSecurity story about how their hosting companies had assumed control over the technical infrastructure of Stark Industries Solutions, an Internet service provider sanctioned last year by the EU as a frequent staging ground for cyber mischief from Russia's intelligence agencies.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "3a3864b8f93c992b25cade077afc58dfde59a3a2",
+      "title": "Lawmakers Demand Answers as CISA Tries to Contain Data Leak",
+      "url": "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/",
+      "published": "2026-05-22T16:34:24+00:00",
+      "summary": "Lawmakers in both houses of Congress are demanding answers from the U.S. Cybersecurity &#038; Infrastructure Security Agency (CISA) after KrebsOnSecurity reported this week that a CISA contractor intentionally published AWS GovCloud keys and a vast trove of other agency secrets on a public GitHub account. The inquiry comes as CISA is still struggling to contain the breach and invalidate the leaked credentials.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "b18b50288d0bd38f70cf508a9d36d83e7239ea42",
+      "title": "Alleged Kimwolf Botmaster \u2018Dort\u2019 Arrested, Charged in U.S. and Canada",
+      "url": "https://krebsonsecurity.com/2026/05/alleged-kimwolf-botmaster-dort-arrested-charged-in-u-s-and-canada/",
+      "published": "2026-05-21T21:50:25+00:00",
+      "summary": "Canadian authorities on Wednesday arrested a 23-year-old Ottawa man on suspicion of building and operating Kimwolf, a fast spreading Internet-of-Things botnet that enslaved millions of devices for use in a series of massive distributed denial-of-service (DDoS) attacks over the past six months. KrebsOnSecurity publicly named the suspect in February 2026 after the accused launched a volley of DDoS, doxing and swatting campaigns against this author and a security researcher. He now faces criminal hacking charges in both Canada and the United States.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "94138721a3a5194919ce144a496ac0f5dc5ee0c1",
+      "title": "CISA Admin Leaked AWS GovCloud Keys on Github",
+      "url": "https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/",
+      "published": "2026-05-18T20:48:21+00:00",
+      "summary": "Until this past weekend, a contractor for the Cybersecurity &#038; Infrastructure Security Agency (CISA) maintained a public GitHub repository that exposed credentials to several highly privileged AWS GovCloud accounts and a large number of internal CISA systems. Security experts said the public archive included files detailing how CISA builds, tests and deploys software internally, and that it represents one of the most egregious government data leaks in recent history.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "1272da189124f766c0a7e7669dee01d4e630100e",
+      "title": "Patch Tuesday, May 2026 Edition",
+      "url": "https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/",
+      "published": "2026-05-12T21:46:45+00:00",
+      "summary": "Artificial intelligence platforms may be just as susceptible to social engineering as human beings, but they are proving remarkably good at finding security vulnerabilities in human-made computer code. That reality is on full display this month with some of the more widely-used software makers -- including Apple, Google, Microsoft, Mozilla and Oracle -- fixing near record volumes of security bugs, and/or quickening the tempo of their patch releases.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "9403440277d33caf3d2679e4f22bbb33dac14719",
+      "title": "Canvas Breach Disrupts Schools & Colleges Nationwide",
+      "url": "https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/",
+      "published": "2026-05-08T02:58:46+00:00",
+      "summary": "An ongoing data extortion attack targeting the widely-used education technology platform Canvas disrupted classes and coursework at school districts and universities across the United States today, after a cybercrime group defaced the service's login page with a ransom demand that threatened to leak data from 275 million students and faculty across nearly 9,000 educational institutions.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "d952dc67aa48cb3e3b75c6fb961bec1629115557",
+      "title": "In Other News: Anthropic Maps AI Threats, Unpatched Comodo Flaw, Palantir Chief Eyed for CISA",
+      "url": "https://www.securityweek.com/in-other-news-anthropic-maps-ai-threats-unpatched-comodo-flaw-palantir-chief-eyed-for-cisa/",
+      "published": "2026-06-05T13:05:06+00:00",
+      "summary": "<p>Other noteworthy stories that might have slipped under the radar: Ultrahuman data leak, The Gentlemen ransomware analysis, Hola Browser bundles miner.</p>\n<p>The post <a href=\"https://www.securityweek.com/in-other-news-anthropic-maps-ai-threats-unpatched-comodo-flaw-palantir-chief-eyed-for-cisa/\">In Other News: Anthropic Maps AI Threats, Unpatched Comodo Flaw, Palantir Chief Eyed for CISA</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "a2c442d776b0fe6c7b215550bd9c9bace9e22280",
+      "title": "Hackers Leak DentaQuest Information Impacting 2.6 Million",
+      "url": "https://www.securityweek.com/hackers-leak-dentaquest-information-impacting-2-6-million/",
+      "published": "2026-06-05T11:33:27+00:00",
+      "summary": "<p>The ShinyHunters extortion group leaked roughly 234 GB of data allegedly stolen from the dental benefits administrator.</p>\n<p>The post <a href=\"https://www.securityweek.com/hackers-leak-dentaquest-information-impacting-2-6-million/\">Hackers Leak DentaQuest Information Impacting 2.6 Million</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "c446482529ffe12d0315924e05f68d58696c31ba",
+      "title": "Chrome 149 Patches 429 Vulnerabilities",
+      "url": "https://www.securityweek.com/chrome-149-patches-429-vulnerabilities/",
+      "published": "2026-06-05T11:13:57+00:00",
+      "summary": "<p>Over 100 bugs are critical or high-severity, mainly use-after-free and insufficient validation of untrusted input flaws.</p>\n<p>The post <a href=\"https://www.securityweek.com/chrome-149-patches-429-vulnerabilities/\">Chrome 149 Patches 429 Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "c5b83cde70e4f5374a919f70beddef7b1de556f8",
+      "title": "Industry Reactions to New Trump AI Cybersecurity Executive Order: Feedback Friday",
+      "url": "https://www.securityweek.com/industry-reactions-to-new-trump-ai-cybersecurity-executive-order-feedback-friday/",
+      "published": "2026-06-05T10:24:56+00:00",
+      "summary": "<p>Experts commented on the EO\u2019s voluntary nature, the balance between innovation and security, and potential implementation gaps.</p>\n<p>The post <a href=\"https://www.securityweek.com/industry-reactions-to-new-trump-ai-cybersecurity-executive-order-feedback-friday/\">Industry Reactions to New Trump AI Cybersecurity Executive Order: Feedback Friday</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "d2f4a375a189ddc22a6874d72797146e2aadf69f",
+      "title": "Five Eyes: Chinese Spies Target Government, Military Staff With Fake Job Opportunities",
+      "url": "https://www.securityweek.com/five-eyes-chinese-spies-target-government-military-staff-with-fake-job-opportunities/",
+      "published": "2026-06-05T08:46:44+00:00",
+      "summary": "<p>Posing as recruiters on online platforms, Chinese intelligence officers target personnel with access to classified or privileged information.</p>\n<p>The post <a href=\"https://www.securityweek.com/five-eyes-chinese-spies-target-government-military-staff-with-fake-job-opportunities/\">Five Eyes: Chinese Spies Target Government, Military Staff With Fake Job Opportunities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "bda2bcdd3094dcb19ff4238376b826b786a862ab",
+      "title": "Nightclub Giant RCI Says Data Breach Affects 40,000 Individuals",
+      "url": "https://www.securityweek.com/nightclub-giant-rci-says-data-breach-affects-40000-individuals/",
+      "published": "2026-06-05T07:24:08+00:00",
+      "summary": "<p>The company detected a network intrusion in March and an investigation showed that some files were stolen during the attack.</p>\n<p>The post <a href=\"https://www.securityweek.com/nightclub-giant-rci-says-data-breach-affects-40000-individuals/\">Nightclub Giant RCI Says Data Breach Affects 40,000 Individuals</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "bc561b908cdfe5c37fff6f28856f64d062aa7156",
+      "title": "Cisco Warns of 7th SD-WAN Zero-Day Exploited in 2026",
+      "url": "https://www.securityweek.com/cisco-warns-of-7th-sd-wan-zero-day-exploited-in-2026/",
+      "published": "2026-06-05T05:47:09+00:00",
+      "summary": "<p>The vulnerability is tracked as CVE-2026-20245 and it can allow arbitrary command execution as root, but no patch yet.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisco-warns-of-7th-sd-wan-zero-day-exploited-in-2026/\">Cisco Warns of 7th SD-WAN Zero-Day Exploited in 2026</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
       "id": "e866263fa6f07b73c4292ba565ce83cafb25a9a9",
@@ -1789,83 +1943,6 @@
       "url": "https://www.securityweek.com/willow-raises-7-million-for-securing-autonomous-ai-agents/",
       "published": "2026-06-04T14:22:43+00:00",
       "summary": "<p>Willow (formerly Webrix) emerged from stealth mode with an access platform designed to secure enterprise AI agents.</p>\n<p>The post <a href=\"https://www.securityweek.com/willow-raises-7-million-for-securing-autonomous-ai-agents/\">Willow Raises $7 Million for Securing Autonomous AI Agents</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "ab08732c40414e09ec32ba7021d1a884ab3b19ef",
-      "title": "Gemini Voice Assistant Hijacked via Messaging Notifications",
-      "url": "https://www.securityweek.com/gemini-voice-assistant-hijacked-via-messaging-notifications/",
-      "published": "2026-06-04T12:57:37+00:00",
-      "summary": "<p>Attackers could have triggered dangerous actions, including controlling smart home devices via Google Home and starting Zoom video calls.</p>\n<p>The post <a href=\"https://www.securityweek.com/gemini-voice-assistant-hijacked-via-messaging-notifications/\">Gemini Voice Assistant Hijacked via Messaging Notifications</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "258a23cc083b1844c806def7c74c1b7cb557405b",
-      "title": "Mirasvit Vulnerability Exploited to Execute Code on Magento Servers",
-      "url": "https://www.securityweek.com/mirasvit-vulnerability-exploited-to-execute-code-on-magento-servers/",
-      "published": "2026-06-04T12:10:02+00:00",
-      "summary": "<p>A flaw in the Full Page Cache Warmer extension can be exploited without authentication via serialized PHP object payloads.</p>\n<p>The post <a href=\"https://www.securityweek.com/mirasvit-vulnerability-exploited-to-execute-code-on-magento-servers/\">Mirasvit Vulnerability Exploited to Execute Code on Magento Servers</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "77d6cb575dde872e90404319cf9874ce10cec1a5",
-      "title": "Chinese Cybercrime Group in Spotlight for Record Campaign Pace",
-      "url": "https://www.securityweek.com/chinese-cybercrime-group-ta4922-in-spotlight-for-record-campaign-pace/",
-      "published": "2026-06-04T11:29:28+00:00",
-      "summary": "<p>Relying on social engineering, the hacking group engages in credential phishing, malware distribution, and fraud activities.</p>\n<p>The post <a href=\"https://www.securityweek.com/chinese-cybercrime-group-ta4922-in-spotlight-for-record-campaign-pace/\">Chinese Cybercrime Group in Spotlight for Record Campaign Pace</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "47606d82e5293eb37d86982401b4b4f4b34d4520",
-      "title": "Over 1.4 Million Accounts Disrupted in Cybercrime Crackdown",
-      "url": "https://www.securityweek.com/over-1-4-million-accounts-disrupted-in-cybercrime-crackdown/",
-      "published": "2026-06-04T10:44:41+00:00",
-      "summary": "<p>Law enforcement and tech companies disrupted infrastructure linked to scammers operating across Southeast Asia.</p>\n<p>The post <a href=\"https://www.securityweek.com/over-1-4-million-accounts-disrupted-in-cybercrime-crackdown/\">Over 1.4 Million Accounts Disrupted in Cybercrime Crackdown</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "7bd3f51a29ce7306ec39d7af4101a3839b52e71c",
-      "title": "Cisco Warns of Available PoC for Critical Unified CM Vulnerability",
-      "url": "https://www.securityweek.com/cisco-warns-of-available-poc-for-critical-unified-cm-vulnerability/",
-      "published": "2026-06-04T08:44:08+00:00",
-      "summary": "<p>The high-severity flaw can be exploited remotely, without authentication, in server-side request forgery (SSRF) attacks.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisco-warns-of-available-poc-for-critical-unified-cm-vulnerability/\">Cisco Warns of Available PoC for Critical Unified CM Vulnerability</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "aac0e4ab18474e4011c7e51d68fdb8724f896d1d",
-      "title": "VS Code Vulnerability Allows One-Click GitHub Token Theft",
-      "url": "https://www.securityweek.com/vs-code-vulnerability-allows-one-click-github-token-theft/",
-      "published": "2026-06-04T08:14:52+00:00",
-      "summary": "<p>A researcher has disclosed the full details of the vulnerability and released a PoC without notifying Microsoft in advance.</p>\n<p>The post <a href=\"https://www.securityweek.com/vs-code-vulnerability-allows-one-click-github-token-theft/\">VS Code Vulnerability Allows One-Click GitHub Token Theft</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "23b3df3372d5ae3561f26edb07d2562cd547b77f",
-      "title": "Coralogix Raises $200M at $1.6B Valuation to Scale AI Observability Platform",
-      "url": "https://www.securityweek.com/coralogix-raises-200m-at-1-6b-valuation-to-scale-ai-observability-platform/",
-      "published": "2026-06-03T17:32:57+00:00",
-      "summary": "<p>Coralogix offers a full-stack observability platform that unifies logs, metrics, traces, security, and AI observability.</p>\n<p>The post <a href=\"https://www.securityweek.com/coralogix-raises-200m-at-1-6b-valuation-to-scale-ai-observability-platform/\">Coralogix Raises $200M at $1.6B Valuation to Scale AI Observability Platform</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
