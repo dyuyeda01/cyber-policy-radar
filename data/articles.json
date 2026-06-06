@@ -1,6 +1,28 @@
 {
-  "generated_at": "2026-06-05T14:15:34.277201+00:00",
+  "generated_at": "2026-06-06T01:51:21.420743+00:00",
   "items": [
+    {
+      "id": "db30faf5963996ae131f1ed763f23dd1a01f1c63",
+      "title": "Cisco warns zero-day flaw in SD-WAN is being exploited",
+      "url": "https://www.cybersecuritydive.com/news/cisco-zero-day-flaw-sd-wan-exploited/822138/",
+      "published": "2026-06-05T15:02:12+00:00",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/5ljMjdDwAqPayfKRyp-yb8JPrVkA_YtOQ6mMM-VRGMs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9UMzBERDUuanBn.webp\" /></div></figure><p>The company cautioned that no current patches are available and the flaw could allow an attacker to conduct command injection attacks.</p>",
+      "source": "Cybersecurity Dive",
+      "region": "North America",
+      "country": "US",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "d7efa70ed87860bd53b71aeeaa0e408ff57496d9",
+      "title": "Sprawling new House AI bill includes frontier model oversight, open-source security grants",
+      "url": "https://www.cybersecuritydive.com/news/house-ai-bill-regulation-cisa-nist-open-source/822131/",
+      "published": "2026-06-05T15:02:00+00:00",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/wfc4XND_ttMC42k54yce3Ko4uvR9eiDAwYWkp0UJEbU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9jYXBpdG9sX2J1aWxkaW5nXy5qcGc=.webp\" /></div></figure><p>The legislation has already drawn widespread criticism for its proposal to preempt state AI laws.</p>",
+      "source": "Cybersecurity Dive",
+      "region": "North America",
+      "country": "US",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
     {
       "id": "39737be106019bbb9319af1257c58ef82859ca24",
       "title": "CISA chief says Trump AI executive order implementation will start soon",
@@ -90,33 +112,33 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "5c6f62d91e31374e8870b86724937a3c91d74f9f",
-      "title": "CISA adds critical Palo Alto Networks firewall flaw to KEV as company, researchers warn of exploitation",
-      "url": "https://www.cybersecuritydive.com/news/palo-alto-networks-firewall-flaw-exploitation-cisa-kev/821598/",
-      "published": "2026-06-01T14:45:33+00:00",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/oMiO7cn-S7dKO_1oOhCqov0YSQtLd6TD9e5Z4ggXOvw/g:nowe:8:185/c:4023:2273/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfMjIxOS5KUEc=.webp\" /></div></figure><p>The vulnerability in a vital defensive technology creates serious risks for federal networks, CISA said.</p>",
-      "source": "Cybersecurity Dive",
+      "id": "1d3ad8eca6cedd6de8a4602226a0d864c0d8104f",
+      "title": "IronWorm and New Miasma Worm Variant Hit npm in Supply Chain Attacks",
+      "url": "https://thehackernews.com/2026/06/ironworm-and-new-miasma-worm-variant.html",
+      "published": "2026-06-05T18:05:30+00:00",
+      "summary": "Multiple software supply chain attacks have hit the npm ecosystem, with threat actors using both malicious and poisoned versions of over 50 legitimate packages to distribute a Rust-based information stealer and a self-spreading worm, respectively.\n\nAccording to JFrog, the information stealer \"scrapes every secret it can find on a developer's machine, hides behind an eBPF kernel rootkit, and",
+      "source": "The Hacker News",
       "region": "North America",
       "country": "US",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFimSGBOnvlCj_r6fiLdzK6V8DLTIQYjROKxHgQH8QxyRVIL3NDpQe9lBISjqCSjcZNl6VPhHVFtdJ8gPe2FfNjR9kGND1GSZmgx9T_32_Aii5nf_fMLkmBxwkKrJKbmZpcAG8xyj868aHfZ9RePlwlPDfMbI4uDlOCknlGH62Ifdf-nak6qmy4u-9i7X3/s1600/npm-worm.jpg"
     },
     {
-      "id": "fc2221f47f20285eebf5aafc56aacbce212b5a70",
-      "title": "Without strong governance, companies put credit ratings at risk in AI era",
-      "url": "https://www.cybersecuritydive.com/news/ai-cyberattacks-credit-ratings-sp-analysis/821599/",
-      "published": "2026-06-01T14:45:33+00:00",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/e64gCoC2KGbLJQl7gVMsZrqATi6TVk_P6kqgxoPCNhg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDcwNjI5MTM1LmpwZw==.webp\" /></div></figure><p>A new report from S&amp;P Global provides a blueprint for how companies can adapt to the changing threat environment.</p>",
-      "source": "Cybersecurity Dive",
+      "id": "52f483c6b4c40206d6670b034e75fdd8c71c4892",
+      "title": "Android Spyware Asin Targets Arabic Users via Fake News, PDF and War Map Apps",
+      "url": "https://thehackernews.com/2026/06/android-spyware-asin-targets-arabic.html",
+      "published": "2026-06-05T14:53:40+00:00",
+      "summary": "Arabic-speaking users have emerged as the target of a new Android spyware codenamed Asin, according to findings from ESET.\n\nThe Slovakian cybersecurity company said it first detected the malware spread via multiple campaigns in early 2025, with each attack wave making use of distinct websites mimicking utilities, war-related updates, and a government news source:\n\n\n  govlens[.]net, which",
+      "source": "The Hacker News",
       "region": "North America",
       "country": "US",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimTj2SdhVr1jj9e2RqrAOW9dIsBmuMZJsqWGt6weL0DOfhwYQF_6Hp5B-sYt6ZZEGQB_YPTOW6Xb2x5JygleEwCp8FQFmKDBIfQlCP1QVLGuVGPboCcbXy8LB0oUDSwA-3w6Vqc9QQFiRAaQKqQ2m2EdPopVIWcp7RHtdXbrd9ucWSfEG4D3h2bu1d9dN3/s1600/android-war.png"
     },
     {
       "id": "641f35ccc59c622b4aa92b864e4dd1403158050f",
       "title": "New Threat Cluster OP-512 Targets Microsoft IIS Servers with Custom Web Shell Framework",
       "url": "https://thehackernews.com/2026/06/new-threat-cluster-op-512-targets.html",
       "published": "2026-06-05T12:33:38+00:00",
-      "summary": "Cybersecurity researchers have discovered a previously unreported threat cluster dubbed OP-512 that has been observed targeting Microsoft Internet Information Services (IIS) servers to deploy a bespoke web shell framework.\n\nReliaQuest has assessed with moderate to high confidence that the espionage-focused activity is linked to China.\n\n\"OP-512 was highly likely conducting espionage through a",
+      "summary": "Cybersecurity researchers have discovered a previously unreported threat cluster dubbed OP-512 (where \"OP\" stands for \"opponent\") that has been observed&nbsp;targeting Microsoft Internet Information Services (IIS) servers to deploy a bespoke web shell framework.\n\nReliaQuest has assessed with moderate to high confidence that the espionage-focused activity is linked to China.\n\n\"OP-512 was highly",
       "source": "The Hacker News",
       "region": "North America",
       "country": "US",
@@ -640,26 +662,26 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLo8Mb8UwcN2lkMlnUi-l3a8DXNNL2_dW0VcATt8d34xxXX-kQN8HMolrIuw8ty0WZmpURI7hyphenhyphenDrvCAiKAarvJU1__tzxaKMxX3U4ZJbuwydE2zGoyFmutxDtid410NLBq_wi7fv_QFMdmkHGqRPwVcLY8xfeJ1PSb46o0RpCA4ubLLl8_LlLg-Id7ceU8/s1600/fort.jpg"
     },
     {
-      "id": "81b37aa99a838bee9cbad0c926aff4096d89dbca",
-      "title": "Microsoft Slams Public Zero-Day Disclosures Amid GitHub Researcher Account Removal",
-      "url": "https://thehackernews.com/2026/05/microsoft-slams-public-zero-day.html",
-      "published": "2026-05-28T13:53:52+00:00",
-      "summary": "Microsoft has come out strongly in favor of Coordinated Vulnerability Disclosure (CVD), urging the research community to share their findings and give affected vendors an opportunity to better understand the impact and address them before they are publicly disclosed.\n\nThe development comes after a researcher named Chaotic Eclipse (aka Nightmare-Eclipse) disclosed details of multiple zero-day",
-      "source": "The Hacker News",
+      "id": "ab44da2afa3427caf752e401417e34474bdcd4da",
+      "title": "Exposed Fuel Tank Gauges Under Attack in the US",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/exposed-fuel-tank-gauges-attack-us",
+      "published": "2026-06-05T19:04:36+00:00",
+      "summary": "Threat actors are taking advantage of Internet-exposed tank gauges by breaching gas stations, opening the door to disruption.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIMDR_KVt17sFMXeEhMvDYHLwBX_Aix1bz3y0izMs7PsVIuGSQhOLX_khN3Ckl_eRm9OEMAlVmBxPHhQvCGDJB5wXJ2rtOT8uQAiWCWCZwc7dvOfbWyuZ0BpNFAKohIpLUq9KR76XvZ3eT0TpltWDHUWQY-nUJzJflA1y5l7q_UXsjVtAMPhwVAULZZScp/s1600/github-ms.png"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt638e463ae5f7293b/6a231e099ba4ae078482ebfa/Fire_industrial_site-Yauhen_Akulich-Getty.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "89fef457ce442fd583d256a92de165e89c815f7b",
-      "title": "ThreatsDay Bulletin: Claude Security Plugin, Azure Priv-Esc, Kali365 MFA Bypass, FIFA Scams +15 More",
-      "url": "https://thehackernews.com/2026/05/threatsday-bulletin-claude-security.html",
-      "published": "2026-05-28T13:33:16+00:00",
-      "summary": "Every time you think the industry has finally stopped doing some reckless, low-effort crap, somebody spins up a fresh box full of sketchy loaders, fake installers, recycled social-engineering bait, and enough exposed infrastructure to make you wonder if prod is just a public beta now - meanwhile some researcher casually drops a technique that turns a \"minor\" foothold into total account",
-      "source": "The Hacker News",
+      "id": "657042ff6d1f6bef91a9dfc660d330f32dbc485f",
+      "title": "Adaptive, Agentic AI Worms Loom as Next Enterprise Threat",
+      "url": "https://www.darkreading.com/cyber-risk/adaptive-agentic-ai-worms-enterprise-cyber-threat",
+      "published": "2026-06-05T14:40:11+00:00",
+      "summary": "AI worms, or &quot;viruses with wings and brains,&quot; adapt to new environments, seek out vulnerabilities, and will likely strike within a year, researchers say.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBnLTRREuP8t8AoMRlakMDVRNoOYCA18IuBTWxA_nms12GdQaSfaU1kgpLSrgUvFFH1goJ_-NOIerDAnZxlD86Oafg_b6QdecLrT4UJdb3_qfmgtxdjrhF8GioeuEZbyZBTVL4cXUcpWqZujpLoI4zBm9y7XvFUjYR5cjF0GmmU_TXlmX0W7zsxlcvV9mW/s1600/tbb.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt790ebbb60992f6b8/6a21d38a9f92caaf2208c2d5/AI-worm-spread-map-UoT.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "id": "d9d0ba7a6f9fec43b5d4ed465240fa9c9f79021c",
@@ -1190,26 +1212,26 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt4ed651e9b0fd01c3/6a0c7dba3c21f60b728ba42d/Showboat-Mark_Summerfield-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "id": "5fd33189a0dfdfcc30816564be44a8a998bfd466",
-      "title": "Content Delivery Exploit Opens Websites to Brand Hijacking",
-      "url": "https://www.darkreading.com/cyber-risk/content-delivery-exploit-websites-brand-hijacking",
-      "published": "2026-05-21T13:05:00+00:00",
-      "summary": "The Underminr domain-fronting attack allows threat actors to modify Web requests and leverage trusted websites to cloak malicious activity.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta4e69c10af67b9ac/6a0b28b90c15634015ba260b/Landmine-hernandez_jose_maria-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "id": "be4913b195db96a6cf20fe4d5c7fd70f252fc138",
+      "title": "If you don't fall for these extortionists' calls, they'll show up with USB sticks",
+      "url": "https://www.theregister.com/cyber-crime/2026/06/05/if-you-dont-fall-for-these-extortionists-calls-theyll-show-up-with-usb-sticks/5251891",
+      "published": "2026-06-05T21:18:42+00:00",
+      "summary": "When 'Chatty Spider' morphs into tech services cosplay spider",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=5251908&width=800"
     },
     {
-      "id": "e133b597c11b03850dee918f651e233eedb47a88",
-      "title": "Cyber Pros Can't Decide If AI Is a Good or a Bad Thing",
-      "url": "https://www.darkreading.com/cybersecurity-analytics/cyber-pros-ai",
-      "published": "2026-05-20T20:52:25+00:00",
-      "summary": "There is nothing cybersecurity professionals are more excited about, and nothing they fear more, than AI.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2c0354b9fcf6985f/6a0e106f7896f1466e6adf8e/Star_Wars-John_Bingham-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "id": "27392b63210da0ee162d228fc352f5be62d2d6db",
+      "title": "Yet another Cisco SD-WAN 0-day under attack, and no patch in sight",
+      "url": "https://www.theregister.com/security/2026/06/05/yet-another-cisco-sd-wan-0-day-under-attack-and-no-patch-in-sight/5251855",
+      "published": "2026-06-05T17:27:42+00:00",
+      "summary": "Good luck, sys admins",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=4094206&width=800"
     },
     {
       "id": "9a92e2e479c4e736c00063775c4a2c680802636d",
@@ -1740,28 +1762,6 @@
       "image": "https://image.theregister.com/?imageId=229879&width=800"
     },
     {
-      "id": "31537539e4d6fa7655c222f9ef73564d75371051",
-      "title": "Megalodon chums the waters in 5.5K+ GitHub repo poisonings",
-      "url": "https://www.theregister.com/security/2026/05/22/megalodon-chums-the-waters-in-55k-github-repo-poisonings/5245342",
-      "published": "2026-05-22T18:57:14+00:00",
-      "summary": "Will Jason Statham save us?",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=227881&width=800"
-    },
-    {
-      "id": "b660971e1c84d23209897a1746fd0bb374abc09d",
-      "title": "Techie claims Trump Mobile website was leaking thousands of people's data",
-      "url": "https://www.theregister.com/security/2026/05/22/trump-mobile-site-leaks-customer-data-as-phone-finally-ships/5244828",
-      "published": "2026-05-22T10:59:09+00:00",
-      "summary": "Customers' info potentially handed to anyone who could send an HTTP request",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=254116&width=800"
-    },
-    {
       "id": "98cb187e46e268fca6d742e73673a27899384710",
       "title": "Hackers Used Meta\u2019s AI Support Bot to Seize Instagram Accounts",
       "url": "https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/",
@@ -1834,6 +1834,17 @@
       "published": "2026-05-08T02:58:46+00:00",
       "summary": "An ongoing data extortion attack targeting the widely-used education technology platform Canvas disrupted classes and coursework at school districts and universities across the United States today, after a cybercrime group defaced the service's login page with a ransom demand that threatened to leak data from 275 million students and faculty across nearly 9,000 educational institutions.",
       "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "a8d60dd55599e4eef3baa11956b7914d4a0a4be4",
+      "title": "OWASP Incubator Project Helps Developers Find and Fix Vulnerable Dependencies in Seconds",
+      "url": "https://www.securityweek.com/owasp-incubator-project-helps-developers-find-and-fix-vulnerable-dependencies-in-seconds/",
+      "published": "2026-06-05T16:35:02+00:00",
+      "summary": "<p>CVE Lite CLI is a free, open-source command line tool that scans your projects in seconds and tells you exactly which included packages contain a vulnerability.</p>\n<p>The post <a href=\"https://www.securityweek.com/owasp-incubator-project-helps-developers-find-and-fix-vulnerable-dependencies-in-seconds/\">OWASP Incubator Project Helps Developers Find and Fix Vulnerable Dependencies in Seconds</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
@@ -1932,17 +1943,6 @@
       "url": "https://www.securityweek.com/webinar-today-third-party-risk-in-practice-where-programs-break-down-and-to-respond/",
       "published": "2026-06-04T14:40:44+00:00",
       "summary": "<p>Join this live webinar as we examine the gap between how organizations think their third-party risk programs are performing and what\u2019s actually happening in practice. </p>\n<p>The post <a href=\"https://www.securityweek.com/webinar-today-third-party-risk-in-practice-where-programs-break-down-and-to-respond/\">Webinar Today: Third-Party Risk in Practice &#8211; Where Programs Break Down and How to Respond</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "5549afb114ba16d36f42134e158c62f5c2af0828",
-      "title": "Willow Raises $7 Million for Securing Autonomous AI Agents",
-      "url": "https://www.securityweek.com/willow-raises-7-million-for-securing-autonomous-ai-agents/",
-      "published": "2026-06-04T14:22:43+00:00",
-      "summary": "<p>Willow (formerly Webrix) emerged from stealth mode with an access platform designed to secure enterprise AI agents.</p>\n<p>The post <a href=\"https://www.securityweek.com/willow-raises-7-million-for-securing-autonomous-ai-agents/\">Willow Raises $7 Million for Securing Autonomous AI Agents</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
