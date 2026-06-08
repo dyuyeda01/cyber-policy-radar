@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-06-08T02:10:09.529422+00:00",
+  "generated_at": "2026-06-08T15:19:56.605642+00:00",
   "items": [
+    {
+      "id": "55215ab2308ede6130064caa86c7abe3c9d10d75",
+      "title": "The new risk equation: Why endpoint security is a financial imperative",
+      "url": "https://www.cybersecuritydive.com/spons/the-new-risk-equation-why-endpoint-security-is-a-financial-imperative/821449/",
+      "published": "2026-06-08T09:00:00+00:00",
+      "summary": "<p>Cyber risk is financial risk; endpoint security in financial services is a business imperative.</p>",
+      "source": "Cybersecurity Dive",
+      "region": "North America",
+      "country": "US",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
     {
       "id": "db30faf5963996ae131f1ed763f23dd1a01f1c63",
       "title": "Cisco warns zero-day flaw in SD-WAN is being exploited",
@@ -101,15 +112,81 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "ea135a0b16f591542218dd679b1222ec248b8621",
-      "title": "Turning tension into collaboration: How CIOs and CISOs can lead together",
-      "url": "https://www.cybersecuritydive.com/news/turning-tension-into-collaboration-how-cios-cisos-can-lead-together/821610/",
-      "published": "2026-06-02T13:00:00+00:00",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/_cG06kKS5XBdV9QsLU9179zHHR0xlrAAJyrWBYTpGpk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTg3MTc5MTcxLmpwZw==.webp\" /></div></figure><p>If properly managed and channeled, age-old friction between IT and cybersecurity can create a more resilient organization.</p>",
-      "source": "Cybersecurity Dive",
+      "id": "93540d4250ee179f3cce7138e99c75bdbbcc32fd",
+      "title": "Critical Check Point VPN Flaw Exploited to Bypass Passwords in IKEv1 Setups",
+      "url": "https://thehackernews.com/2026/06/critical-check-point-vpn-flaw-exploited.html",
+      "published": "2026-06-08T14:17:39+00:00",
+      "summary": "Check Point has warned of active exploitation of a critical vulnerability impacting Remote Access VPN and Mobile Access deployments that are configured to use the deprecated IKEv1 key exchange protocol.\n\nThe vulnerability, tracked as CVE-2026-50751 (CVSS score: 9.3), is a case of a logic flow weakness in certificate validation that allows an unauthenticated remote attacker to bypass user",
+      "source": "The Hacker News",
       "region": "North America",
       "country": "US",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYhQjzMpxYhylqWwtRqt0p7upc-fSMohRLJs5lRSXUg51_lrzt63JYz0K9zo2V7Rl9yCOMpQk6YFBfTdE1CuSuFYGA3odGeHu3mIV-LY_JHWyIx7g32NPOx1tuSZ-ZIMasTT5S-43DoYHEpCTykl4E4TfyXw89HksiOppUEMp5ganCT27SF0xu7noBUQ5i/s1600/checkpoint.jpg"
+    },
+    {
+      "id": "b365f82ea556bbf4e14219f11022c0b982594c2a",
+      "title": "AI Phishing Is Crushing SOCs with Alert Volume: How to Reduce Tier 1 Overload",
+      "url": "https://thehackernews.com/2026/06/ai-phishing-is-crushing-socs-with-alert.html",
+      "published": "2026-06-08T13:19:13+00:00",
+      "summary": "Phishing has always been a numbers game. AI has turned it into a volume machine.\n\nAttackers can now create convincing emails, fake login pages, and tailored lures in minutes. Every polished message adds another case for Tier 1 to review, another link to inspect, and another alert that cannot be dismissed at a glance.\n\nAs the queue grows, a credential theft attempt or malware delivery can easily",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWmg0GCTB3fe3Y57Wr_PMrbYUetN1SDu243ddq7AdKP-gwIbOdVDhXhuWtapmSuA6gDYWwk8ydavt33ZAoWzHmG4Imu4dqiiPaksZKDYK5AEX1XBPr2iz2JflFZoH4uy0_I35Gm6zpJo9wyGttsjdtDwLM_00VOg9qVka3vYjk62LAD3HGSbnE7ov9TMU/s1600/ai-threats.jpg"
+    },
+    {
+      "id": "91386ca5f56a0a3dbe77d49b09125e7302af6019",
+      "title": "\u26a1 Weekly Recap: Instagram Account Hacks, Android Zero-Day, GitHub Worm and More",
+      "url": "https://thehackernews.com/2026/06/weekly-recap-instagram-account-hacks.html",
+      "published": "2026-06-08T13:18:57+00:00",
+      "summary": "Monday again. The weekend was meant to be quiet. It wasn't. Last week had poisoned packages, a broken AI helper, and a worm tearing through repos. The ugly part: basic tricks still worked.\n\nA chatbot got fooled. A bot token got leaked inside the malware. The same old mistakes showed up again. And while everyone chased the loud stuff, quieter attackers sat in inboxes for months, reading mail and",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwpRME_50jfgFZwHR0bIcYNE3-253LUHG3foA4Xd2IPQ0LCvXI4-_cLxJ-m8erh3Zof0ZY0pMOculHNwlSGAiUnwaL2H2DoXC9aKTehIh_R4vI66aZTzo00jj-hWlZ1lXtuDbDBWROGfTI4tH8G8Mb8cOlqBJLtG2l6bQS62hZlKlEt5qcLaEwsO_RhO4k/s1600/cybersecurity-recap.jpg"
+    },
+    {
+      "id": "26283d41a572967679c69adf900c943c56ee8bec",
+      "title": "The Hardest Fork",
+      "url": "https://thehackernews.com/2026/06/the-hardest-fork.html",
+      "published": "2026-06-08T11:53:00+00:00",
+      "summary": "Mythos is real. I know a big chunk of the industry thinks it's a marketing stunt, and I get why. I get it. But I've seen the findings, and they're bad. These aren't \"whoops, this line right here is wrong, and that's RCE.\" They're novel combinations of a few dozen issues out of thousands of things every SAST scanner already finds, chained together into something much worse. It's real creativity,",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRnMnAqwiH7Dgv_dmF2bugYLlu8uMyFQkl7DseYkwwzl5MzUP-KeplSbGg_aNt_OqIDtT5rLyDO_Ea96Hf_uti0eKVIseQTxtS7zt-WQksEp8c4V50Hdq0kWqWjvyOVMHVlbMo1gagsSGu4lmdhlm1NSLQLp9QZVohv74jIWehnGY-l_PAPYzUvtITBMs/s1600/fork.jpg"
+    },
+    {
+      "id": "2a43a7eb423b1d352e0da114b5b6d8bc6a725bcb",
+      "title": "VerdantBamboo Deploys BSD Variant of BRICKSTORM on Linux Appliances",
+      "url": "https://thehackernews.com/2026/06/verdantbamboo-deploys-bsd-variant-of.html",
+      "published": "2026-06-08T10:27:32+00:00",
+      "summary": "A China-nexus cyber espionage group has been observed deploying a BSD variant of a known backdoor called BRICKSTORM, as well as two other malware families codenamed PLENET (aka GRIMBOLT) and AGENTPSD to target Linux systems.\n\nThe activity has been attributed by Volexity to a threat cluster it tracks as VerdantBamboo, which it said overlaps with hacking groups known as Clay Typhoon (Microsoft),",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhni0Ay24Jcfz-LCxqQ8xD9rJais13OOnt5cfz9XtZY-4LzlGgyVY9S2Cu7V0Uo9JMjIxfyTMk8oOeaPHcIkkYnw4RMiLgYFuiS2CyHd9JAihJsC7SQ-wtm8K545YuACojNwKRfsYBXLWe8s3u1evEVjyGLI2WM9KwAYyWur_XrpPfQRF8s4CzXP8c_OU01/s1600/chinese.jpg"
+    },
+    {
+      "id": "b79b6d6856efbe3648ad9f989e7f03a4a3041832",
+      "title": "UNC3753 Used Vishing and Physical Intrusions in U.S. Data Theft Extortion Campaign",
+      "url": "https://thehackernews.com/2026/06/unc3753-used-vishing-and-physical.html",
+      "published": "2026-06-08T07:39:28+00:00",
+      "summary": "Cybersecurity researchers have disclosed details of a financially motivated data theft extortion campaign that has targeted dozens of organizations across professional, legal, and financial services in the U.S. between January and May 2026.\n\nThe activity has been attributed by Google Mandiant and Google Threat Intelligence Group (GTIG) to a threat actor dubbed UNC3753, which is also known as",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoUzV1qMNLxMhQ6z22gKy4A5VPPrLn4b1nlfLaMyR6dBM6ostnGD8O3jiaPdM_diQNx24uX-TbI6iiX0Yw4m7msT6_3_UFz_g-g1fQGh3J55fzWzRyKTel4uIp05eBMvxwaQWvNv-VM0_p9jkclDuIyq0Ztu8r4gHIKN1xNSoGYV8Lj31kb_mCcZcBeXrB/s1600/vishing.jpg"
+    },
+    {
+      "id": "8a42c904dc2adfea8a4411250b73d7c7c059e2c9",
+      "title": "VS Code Adds 2-Hour Extension Auto-Update Delay to Limit Supply Chain Attacks",
+      "url": "https://thehackernews.com/2026/06/vs-code-adds-2-hour-extension-auto.html",
+      "published": "2026-06-08T06:08:44+00:00",
+      "summary": "Microsoft has announced that Visual Studio Code (VS Code) will apply a two-hour delay before extensions for the integrated development environment (IDE) are updated automatically to a newer version in an attempt to tackle software supply chain threats.\n\n\"When automatic updates are enabled, new versions are auto-updated two hours after they are published, adding an extra layer of protection",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPMxcu3ZcBpbZRC5rw9BlnoZMoXgrA-dRRquG6F6PSZZUc0JNzGHbl6c50yqTxs60QyQ5ut5ZC2qP9Csk_mR1Aqi48DO0wwDbUZ6zei45FNO2UgXaU0pOf8gWk8iAT81Ee1XJGrYyFgjYJqCeGTlnYeq-U8Nh4i5cxskA5n3eWyaQqMQPmyMAAR30bDKf2/s1600/ms-delay.jpg"
     },
     {
       "id": "69ef288f5b51ee71652d8d28a15a5b21a3ea9ae5",
@@ -583,83 +660,6 @@
       "region": "North America",
       "country": "US",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUhiw46hdnhoY05E-0EyhOX5AxQrqJeNM0WDEWiYHAi5pPt4kIFPbvqGZhyAK4NxlAF7KJKxPfWlbGLbZUJJD9PgGmazvyhzaSgBXokM_6eYQfWXQ1HDv2heSDTnps4EGhjKqwCbuQOl0d9QN25tmn85xLujp-htCwLhhywI4A6BKJxkOOKb9FSu02AMjX/s1600/china.jpg"
-    },
-    {
-      "id": "47d185b416c2597acc1440c65be6f833ba11d726",
-      "title": "The Security Growth Platform: Why MSPs Are Moving Beyond vCISO Tools",
-      "url": "https://thehackernews.com/2026/06/the-security-growth-platform-why-msps.html",
-      "published": "2026-06-01T11:30:00+00:00",
-      "summary": "Three years ago, the practical question for an MSP building a cybersecurity practice was which \"vCISO platform\" to buy. The term was good shorthand for the work at the time: assessments, advisory, reporting, maybe a compliance module bolted on the side. The work has since outgrown the descriptor.\n\nA Security Growth Platform is the more precise name for what MSPs and MSSPs need from the software",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOvm8XaHJ9FBjwjKyTkm_2pt81tT-4sHdK9UDWm7_hCk4rA95U0peF3Zi7kO_fmJioaGKKloqru4yC-AwrSOdZ17v7m8K2K-t4lyYOGfC66J8r3cSi_v09IPRAfknHSeRBv13kjrk6XBzqpCvKS6ujugm4cR6Xrt1LK40bC091c0k_SgptQnGYIznwWwQ/s1600/cynomi.jpg"
-    },
-    {
-      "id": "fac583a743fb9f53f0dbf08030ec4b3e7f3ba119",
-      "title": "OpenAI Codex Authentication Tokens Stolen in codexui-android npm Supply Chain Attack",
-      "url": "https://thehackernews.com/2026/06/openai-codex-authentication-tokens.html",
-      "published": "2026-06-01T09:31:15+00:00",
-      "summary": "Cybersecurity researchers have disclosed details of a new malicious supply chain campaign that's targeting developers using OpenAI Codex through a legitimate-looking remote web UI.\n\nThe tool, named codexui-android, is advertised on GitHub and npm as a remote web UI for OpenAI Codex, attracting over 29,000 weekly downloads. The package is still available for download from the repository.\n\nWhat",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4veBAmEJHF2nXN_nIgXeWxVSxlTDBc6uWiLwVCYNUqGMF9ZtPre3zF_CXmGnAxX2rbqfwgm_Au0tXvYwv1oTGim1STiGCeVOyMXglUTd-3LeJEN3q718Fdlck9mbQ6aUUYP0NM9S7bakZ4_XF5HHYH-cz2QmKBlge6xNMxbbEjDjZQ4wd1maPKnjgKrsu/s1600/codex.png"
-    },
-    {
-      "id": "740b72e9a9645c1ae633448a9c0aa96e52a3a7ab",
-      "title": "Critical WP Maps Pro Flaw Actively Exploited to Create Admin Accounts",
-      "url": "https://thehackernews.com/2026/06/critical-wp-maps-pro-flaw-actively.html",
-      "published": "2026-06-01T08:45:29+00:00",
-      "summary": "Threat actors are attempting to actively exploit a critical security flaw impacting WP Maps Pro, a WordPress plugin that has had over 15,000 sales on the Envato Market, to create malicious administrator accounts on susceptible sites.\n\nWP Maps Pro allows site owners to embed customizable Google Maps and OpenStreetMap with markers, listings, and advanced location features on WordPress sites. It is",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhR5AZVDVlhPdPOYO4FsyfLsBmtohzgdjmh688BLU6VRpwi-MaKq4XYgE5-ygnQtcUDMKcR8R4-f9IrfiSFpCodN01gveAWlDpu4Jg4AI9DMKQG50zMr5M1QhqjVAjyuYJQ-vF849bn3jkkDJuBRahpyUwAz8libDqBIwh08wgQNsfmchLwqRUqiYKRDkMT/s1600/wordpress-2.jpg"
-    },
-    {
-      "id": "fd4bdf546af1ece7be661d0911b88dff0e66a4ff",
-      "title": "Dutch Authorities Dismantle Botnet Linked to 17 Million Infected Devices",
-      "url": "https://thehackernews.com/2026/05/dutch-authorities-dismantle-botnet.html",
-      "published": "2026-05-31T12:22:12+00:00",
-      "summary": "Dutch authorities have announced the takedown of a botnet that enslaved millions of infected devices, including computers, tablets, smartphones, and IoT devices, to carry out malicious attacks.\n\nThe bot network, per the Dutch Politie and the National Cyber Security Center (NCSC), consisted of at least 17 million infected devices. More than 200 servers located in the Netherlands acted as the",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiU44Ejz__EFKfpIrEypTxhK3KW7XV3oiEIJEWAC-_PyhbhUvOZzmv3SCAmiuGZdFNdzYIDR2GLwOAhX9nIaAoOD4iFXucpEpB4Ym2vMAqvayyi1JkYyqj2uEYAXPGbXe5dzYNw5a__5KnXvrnJsEVtwnJJs6v_zBlfl3sKo0J83QwylgCL1A2Vck1HktJ8/s1600/botnet.png"
-    },
-    {
-      "id": "86589dcb0fd98812908761515af507c290227f81",
-      "title": "PAN-OS GlobalProtect Authentication Bypass (CVE-2026-0257) Under Active Exploitation",
-      "url": "https://thehackernews.com/2026/05/pan-os-globalprotect-authentication.html",
-      "published": "2026-05-30T06:41:26+00:00",
-      "summary": "Palo Alto Networks has warned that a recently disclosed medium-severity security flaw impacting PAN-OS and Prisma Access has come under active exploitation in the wild.\n\nThe vulnerability, tracked as CVE-2026-0257 (CVSS score: 7.8), refers to a case of authentication bypass that could be exploited by bad actors to set up VPN connections.\n\n\"Authentication bypass vulnerabilities in the",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkaW0i4ALAlpWQ_cOjfhoqUlNgMlZysJA6ay0qPViGI_KxEEG-Hh0KdtWLqBXDH42ZBGSONs0ZJuzOqdRF7vbx6Xa9J8HlP60lY45JHy0ivdRQs0exe4wZT2lI3TW4oDO-XXPVz2pek2M3izLqT3ONwq2iuHPN31ZZvK3jl0zIDq_h5XF1CTRk7fUPzjEQ/s1600/panos.jpg"
-    },
-    {
-      "id": "1696c2ab816edc4125a5b55a1d770a39a4d3a906",
-      "title": "ChatGPhish Vulnerability Turns ChatGPT Web Summaries Into a Phishing Surface",
-      "url": "https://thehackernews.com/2026/05/chatgphish-vulnerability-turns-chatgpt.html",
-      "published": "2026-05-29T18:07:12+00:00",
-      "summary": "Cybersecurity researchers have disclosed details of a vulnerability in OpenAI ChatGPT that leverages the artificial intelligence (AI) assistant's implicit trust in Markdown links and images to trigger prompt injections and open the door to phishing attacks.\n\nThe technique has been codenamed ChatGPhish by Permiso Security.\n\n\"The chatgpt.com response renderer trusts Markdown links and Markdown",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikkk-MbHPjc5UpAORUC9pUfe-LntIu7A2tsg3EBFPXh3b6WXoiv8HtxvSakdqICfwN1YGSY452zIdjuyafscYfbf7yKnzbE_SxWxmPeX9uBLkTWY7aNyzLK903ts83ThlQGKOPYKNCW6UHg2c7ia4O7cVIwV5p24c-POfHYTJak6tRmL03rbjOWxCfpPYb/s1600/chatgpt-phishing.jpg"
-    },
-    {
-      "id": "6e4e360444c493176f25fc8245ae565f9e30e95c",
-      "title": "Attackers Use LLM Agent for Post-Exploitation After Marimo CVE-2026-39987 Exploit",
-      "url": "https://thehackernews.com/2026/05/attackers-use-llm-agent-for-post.html",
-      "published": "2026-05-29T14:39:56+00:00",
-      "summary": "An unknown threat actor has been observed using a large language model (LLM) agent to conduct post-compromise actions after obtaining initial access following the exploitation of a publicly-accessible Marimo network using a recently disclosed vulnerability.\n\n\"The attacker compromised an internet-reachable Marimo notebook via CVE-2026-39987, extracted two cloud credentials from the compromised",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi20dgnD8cZh6NCcPM9Xa3fzLgNygU4O6AmBUmN1w6KwsDMJ8_jkpZPk77r8phf3MX-cXOlVxke-ypIuj2xh3AB3dy1HSuIa4YYFlgH8Odm1jCRVESBGqxgiDoRbQEG4L_QrKOoH8TSvLLKZxnBfPEemz4kaqWto4t_3cZCmWW44NX-Q1aWakBWVDhAza7T/s1600/marimo.png"
     },
     {
       "id": "ab44da2afa3427caf752e401417e34474bdcd4da",
@@ -1212,6 +1212,28 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt4ed651e9b0fd01c3/6a0c7dba3c21f60b728ba42d/Showboat-Mark_Summerfield-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
+      "id": "226b21f63a7093ceb436bde6074697d29f10c1cb",
+      "title": "GitHub nukes 70+ Microsoft repos, breaks CI/CD pipelines, following suspected worm infections",
+      "url": "https://www.theregister.com/security/2026/06/08/github-nukes-70-microsoft-repos-amid-suspected-worm-attack/5252169",
+      "published": "2026-06-08T13:56:50+00:00",
+      "summary": "Miasma worm shapeshifts, but cloud secret-scouting remains the goal",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=5249823&width=800"
+    },
+    {
+      "id": "deb1d6122da30b34f56fbdbc4de351ba191e059a",
+      "title": "NSO Group back in Meta's crosshairs after alleged WhatsApp targeting",
+      "url": "https://www.theregister.com/security/2026/06/08/nso-group-back-in-metas-crosshairs-after-alleged-whatsapp-targeting/5252105",
+      "published": "2026-06-08T12:10:00+00:00",
+      "summary": "Zuckercorp says surveillance-for-hire vendor was still running phishing operations after federal court told it to knock it off",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=5252125&width=800"
+    },
+    {
       "id": "6cdf0684cedd4251c71a56fabc757d74130b49b0",
       "title": "Oxford Uni student data pwned yet again - this time via career platform breach",
       "url": "https://www.theregister.com/security/2026/06/06/oxford-university-data-pwned-again-by-career-platform-breach/5251754",
@@ -1630,9 +1652,9 @@
       "image": "https://image.theregister.com/?imageId=5248082&width=800"
     },
     {
-      "id": "92495bfb19d0de0ab25c42992b72961fa284d671",
+      "id": "ac8d0baa6878f8719389020f01162decc07aa602",
       "title": "Microsoft tests the 15-character limit of Windows Server admins' patience",
-      "url": "https://www.theregister.com/oses/2026/05/28/microsoft-tests-the-15-character-limit-of-windows-server-admins-patience/5247943",
+      "url": "https://www.theregister.com/os-platforms/2026/05/28/microsoft-tests-the-15-character-limit-of-windows-server-admins-patience/5247943",
       "published": "2026-05-28T16:30:00+00:00",
       "summary": "May security update trips over hostnames of a very specific length",
       "source": "The Register \u2013 Security",
@@ -1740,28 +1762,6 @@
       "image": "https://image.theregister.com/?imageId=256312&width=800"
     },
     {
-      "id": "3345356f4f9516277c3c3358929a448f6bf3f3be",
-      "title": "Anthropic to release Mythos-class models to the public",
-      "url": "https://www.theregister.com/security/2026/05/25/anthropic-to-release-mythos-class-models-to-the-public/5245596",
-      "published": "2026-05-25T07:09:26+00:00",
-      "summary": "AI flaw-finder still under lock and key for now while company figures out guardrails, but extends access to more users including governments",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=230774&width=800"
-    },
-    {
-      "id": "2379586949d52c9ee92ea85aa85a72efbf9c64b9",
-      "title": "AI eyes scanning for bugs create a worrisome Linux security trend",
-      "url": "https://www.theregister.com/security/2026/05/23/ai-eyes-scanning-for-bugs-create-a-worrisome-linux-security-trend/5244742",
-      "published": "2026-05-23T10:59:00+00:00",
-      "summary": "Dirty Frag, Copy Fail, and Fragesia show the new reality",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=5244793&width=800"
-    },
-    {
       "id": "98cb187e46e268fca6d742e73673a27899384710",
       "title": "Hackers Used Meta\u2019s AI Support Bot to Seize Instagram Accounts",
       "url": "https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/",
@@ -1828,110 +1828,110 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "109586ca8d9c48381d34b595bcaca2c1abd56d45",
+      "title": "WhatsApp Catches Spyware Firm NSO Defying No-Hacking Court Order",
+      "url": "https://www.securityweek.com/whatsapp-catches-spyware-firm-nso-defying-no-hacking-court-order/",
+      "published": "2026-06-08T13:23:03+00:00",
+      "summary": "<p>The Meta-owned communications app is filing a federal court contempt order against NSO.</p>\n<p>The post <a href=\"https://www.securityweek.com/whatsapp-catches-spyware-firm-nso-defying-no-hacking-court-order/\">WhatsApp Catches Spyware Firm NSO Defying No-Hacking Court Order</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "971e41eb56f581042d448046e3f5887bd87b5b01",
+      "title": "Cybersecurity M&A Roundup: 26 Deals Announced in May 2026",
+      "url": "https://www.securityweek.com/cybersecurity-ma-roundup-26-deals-announced-in-may-2026/",
+      "published": "2026-06-08T12:38:45+00:00",
+      "summary": "<p>Significant cybersecurity M&#038;A deals announced by Akamai, Check Point, Cisco, Cyera, Dragos, WatchGuard and Zscaler.</p>\n<p>The post <a href=\"https://www.securityweek.com/cybersecurity-ma-roundup-26-deals-announced-in-may-2026/\">Cybersecurity M&#038;A Roundup: 26 Deals Announced in May 2026</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "ecf27bf3a10825002cf5200ea2b0123c4a534aad",
+      "title": "Everest Forms Vulnerability Exploited to Hack WordPress Sites",
+      "url": "https://www.securityweek.com/everest-forms-vulnerability-exploited-to-hack-wordpress-sites/",
+      "published": "2026-06-08T12:16:09+00:00",
+      "summary": "<p>The flaw allows attackers to execute arbitrary code remotely and has been exploited in the wild for two months.</p>\n<p>The post <a href=\"https://www.securityweek.com/everest-forms-vulnerability-exploited-to-hack-wordpress-sites/\">Everest Forms Vulnerability Exploited to Hack WordPress Sites</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "f7e11da9dc532896baa31d5cdd88317b3ad33747",
+      "title": "174,000 Impacted by Lansing Community College Data Breach",
+      "url": "https://www.securityweek.com/174000-impacted-by-lansing-community-college-data-breach/",
+      "published": "2026-06-08T11:27:00+00:00",
+      "summary": "<p>Hackers accessed personal information stored on certain Lansing Community College systems in February 2025.</p>\n<p>The post <a href=\"https://www.securityweek.com/174000-impacted-by-lansing-community-college-data-breach/\">174,000 Impacted by Lansing Community College Data Breach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "46b75443f014e8046cc7aff6231f8c9abb8a9139",
+      "title": "Silent Ransom Group Uses DNS Fast Flux in Attacks",
+      "url": "https://www.securityweek.com/silent-ransom-group-uses-dns-fast-flux-in-attacks/",
+      "published": "2026-06-08T10:31:39+00:00",
+      "summary": "<p>Focusing on hacking law firms in the US, the ransomware group relies on fast flux to hide its C&#038;C infrastructure.</p>\n<p>The post <a href=\"https://www.securityweek.com/silent-ransom-group-uses-dns-fast-flux-in-attacks/\">Silent Ransom Group Uses DNS Fast Flux in Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "ad76163601cd003e9be00e4732a9fbebebad33bf",
+      "title": "OpenAI Rolling Out ChatGPT Account Security Controls",
+      "url": "https://www.securityweek.com/openai-rolling-out-chatgpt-account-security-controls/",
+      "published": "2026-06-08T08:32:49+00:00",
+      "summary": "<p>The Active Sessions and Lockdown Mode features are being made more broadly available by the AI giant.</p>\n<p>The post <a href=\"https://www.securityweek.com/openai-rolling-out-chatgpt-account-security-controls/\">OpenAI Rolling Out ChatGPT Account Security Controls</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "e4f75cc230886ba24bb414c59bf4b13837de69f8",
+      "title": "Anthropic Urges Industry Coordination to Allow for a \u2018Pause\u2019 in AI Development if Risks Grow",
+      "url": "https://www.securityweek.com/anthropic-urges-industry-coordination-to-allow-for-a-pause-in-ai-development-if-risks-grow/",
+      "published": "2026-06-08T08:00:00+00:00",
+      "summary": "<p>The proposed coordination would let advanced AI labs verify that global rivals have actually stopped or slowed their work.</p>\n<p>The post <a href=\"https://www.securityweek.com/anthropic-urges-industry-coordination-to-allow-for-a-pause-in-ai-development-if-risks-grow/\">Anthropic Urges Industry Coordination to Allow for a \u2018Pause\u2019 in AI Development if Risks Grow</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "b9a768e6368815be5efaff9272269577db42da22",
+      "title": "SolarWinds Serv-U Vulnerability Exploited in the Wild",
+      "url": "https://www.securityweek.com/solarwinds-patches-exploited-serv-u-vulnerability/",
+      "published": "2026-06-08T07:52:28+00:00",
+      "summary": "<p>Unauthenticated attackers can exploit the flaw via specially crafted POST requests that crash the Serv-U service.</p>\n<p>The post <a href=\"https://www.securityweek.com/solarwinds-patches-exploited-serv-u-vulnerability/\">SolarWinds Serv-U Vulnerability Exploited in the Wild</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "271f108c0bc9aba2fef3df8dbd607088ff045985",
+      "title": "Meta Says 20,000 Instagram Accounts Hacked via AI Tool Abuse",
+      "url": "https://www.securityweek.com/meta-says-20000-instagram-accounts-hacked-via-ai-tool-abuse/",
+      "published": "2026-06-08T06:41:47+00:00",
+      "summary": "<p>The social media giant has informed authorities about the impact of the recent attack involving an account recovery support tool.</p>\n<p>The post <a href=\"https://www.securityweek.com/meta-says-20000-instagram-accounts-hacked-via-ai-tool-abuse/\">Meta Says 20,000 Instagram Accounts Hacked via AI Tool Abuse</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "f26a0d76ea08f4fc1244622cd813737838abba4b",
       "title": "Emphere Raises $2.1 Million for AI-Powered Vulnerability Remediation",
       "url": "https://www.securityweek.com/emphere-raises-2-1-million-for-ai-powered-vulnerability-remediation/",
       "published": "2026-06-07T11:30:00+00:00",
       "summary": "<p>Emphere\u2019s solution delivers AI-driven remediation to software companies to speed up releases.</p>\n<p>The post <a href=\"https://www.securityweek.com/emphere-raises-2-1-million-for-ai-powered-vulnerability-remediation/\">Emphere Raises $2.1 Million for AI-Powered Vulnerability Remediation</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "ae8cfe60f34b2afe3b69ab45f331d13447fe3a3a",
-      "title": "Opal Security Raises $23 Million for AI-Native Identity Governance",
-      "url": "https://www.securityweek.com/opal-security-raises-23-million-for-ai-native-identity-governance/",
-      "published": "2026-06-06T10:15:00+00:00",
-      "summary": "<p>Raising $59 million to date, Opal also announced five senior leadership appointments.</p>\n<p>The post <a href=\"https://www.securityweek.com/opal-security-raises-23-million-for-ai-native-identity-governance/\">Opal Security Raises $23 Million for AI-Native Identity Governance</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "a8d60dd55599e4eef3baa11956b7914d4a0a4be4",
-      "title": "OWASP Incubator Project Helps Developers Find and Fix Vulnerable Dependencies in Seconds",
-      "url": "https://www.securityweek.com/owasp-incubator-project-helps-developers-find-and-fix-vulnerable-dependencies-in-seconds/",
-      "published": "2026-06-05T16:35:02+00:00",
-      "summary": "<p>CVE Lite CLI is a free, open-source command line tool that scans your projects in seconds and tells you exactly which included packages contain a vulnerability.</p>\n<p>The post <a href=\"https://www.securityweek.com/owasp-incubator-project-helps-developers-find-and-fix-vulnerable-dependencies-in-seconds/\">OWASP Incubator Project Helps Developers Find and Fix Vulnerable Dependencies in Seconds</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "d952dc67aa48cb3e3b75c6fb961bec1629115557",
-      "title": "In Other News: Anthropic Maps AI Threats, Unpatched Comodo Flaw, Palantir Chief Eyed for CISA",
-      "url": "https://www.securityweek.com/in-other-news-anthropic-maps-ai-threats-unpatched-comodo-flaw-palantir-chief-eyed-for-cisa/",
-      "published": "2026-06-05T13:05:06+00:00",
-      "summary": "<p>Other noteworthy stories that might have slipped under the radar: Ultrahuman data leak, The Gentlemen ransomware analysis, Hola Browser bundles miner.</p>\n<p>The post <a href=\"https://www.securityweek.com/in-other-news-anthropic-maps-ai-threats-unpatched-comodo-flaw-palantir-chief-eyed-for-cisa/\">In Other News: Anthropic Maps AI Threats, Unpatched Comodo Flaw, Palantir Chief Eyed for CISA</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "a2c442d776b0fe6c7b215550bd9c9bace9e22280",
-      "title": "Hackers Leak DentaQuest Information Impacting 2.6 Million",
-      "url": "https://www.securityweek.com/hackers-leak-dentaquest-information-impacting-2-6-million/",
-      "published": "2026-06-05T11:33:27+00:00",
-      "summary": "<p>The ShinyHunters extortion group leaked roughly 234 GB of data allegedly stolen from the dental benefits administrator.</p>\n<p>The post <a href=\"https://www.securityweek.com/hackers-leak-dentaquest-information-impacting-2-6-million/\">Hackers Leak DentaQuest Information Impacting 2.6 Million</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "c446482529ffe12d0315924e05f68d58696c31ba",
-      "title": "Chrome 149 Patches 429 Vulnerabilities",
-      "url": "https://www.securityweek.com/chrome-149-patches-429-vulnerabilities/",
-      "published": "2026-06-05T11:13:57+00:00",
-      "summary": "<p>Over 100 bugs are critical or high-severity, mainly use-after-free and insufficient validation of untrusted input flaws.</p>\n<p>The post <a href=\"https://www.securityweek.com/chrome-149-patches-429-vulnerabilities/\">Chrome 149 Patches 429 Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "c5b83cde70e4f5374a919f70beddef7b1de556f8",
-      "title": "Industry Reactions to New Trump AI Cybersecurity Executive Order: Feedback Friday",
-      "url": "https://www.securityweek.com/industry-reactions-to-new-trump-ai-cybersecurity-executive-order-feedback-friday/",
-      "published": "2026-06-05T10:24:56+00:00",
-      "summary": "<p>Experts commented on the EO\u2019s voluntary nature, the balance between innovation and security, and potential implementation gaps.</p>\n<p>The post <a href=\"https://www.securityweek.com/industry-reactions-to-new-trump-ai-cybersecurity-executive-order-feedback-friday/\">Industry Reactions to New Trump AI Cybersecurity Executive Order: Feedback Friday</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "d2f4a375a189ddc22a6874d72797146e2aadf69f",
-      "title": "Five Eyes: Chinese Spies Target Government, Military Staff With Fake Job Opportunities",
-      "url": "https://www.securityweek.com/five-eyes-chinese-spies-target-government-military-staff-with-fake-job-opportunities/",
-      "published": "2026-06-05T08:46:44+00:00",
-      "summary": "<p>Posing as recruiters on online platforms, Chinese intelligence officers target personnel with access to classified or privileged information.</p>\n<p>The post <a href=\"https://www.securityweek.com/five-eyes-chinese-spies-target-government-military-staff-with-fake-job-opportunities/\">Five Eyes: Chinese Spies Target Government, Military Staff With Fake Job Opportunities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "bda2bcdd3094dcb19ff4238376b826b786a862ab",
-      "title": "Nightclub Giant RCI Says Data Breach Affects 40,000 Individuals",
-      "url": "https://www.securityweek.com/nightclub-giant-rci-says-data-breach-affects-40000-individuals/",
-      "published": "2026-06-05T07:24:08+00:00",
-      "summary": "<p>The company detected a network intrusion in March and an investigation showed that some files were stolen during the attack.</p>\n<p>The post <a href=\"https://www.securityweek.com/nightclub-giant-rci-says-data-breach-affects-40000-individuals/\">Nightclub Giant RCI Says Data Breach Affects 40,000 Individuals</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "bc561b908cdfe5c37fff6f28856f64d062aa7156",
-      "title": "Cisco Warns of 7th SD-WAN Zero-Day Exploited in 2026",
-      "url": "https://www.securityweek.com/cisco-warns-of-7th-sd-wan-zero-day-exploited-in-2026/",
-      "published": "2026-06-05T05:47:09+00:00",
-      "summary": "<p>The vulnerability is tracked as CVE-2026-20245 and it can allow arbitrary command execution as root, but no patch yet.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisco-warns-of-7th-sd-wan-zero-day-exploited-in-2026/\">Cisco Warns of 7th SD-WAN Zero-Day Exploited in 2026</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
