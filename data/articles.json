@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T01:48:20.449768+00:00",
+  "generated_at": "2026-06-09T14:13:32.930449+00:00",
   "items": [
     {
       "id": "3f065b36bb6a1633f1f3f81bfa927740901ea7b8",
@@ -110,6 +110,83 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "01c6bb31ec6ecc49b908317e1985e237d05d9e7e",
+      "title": "WinRAR Flaw Exploited by Russia-Aligned Groups to Deploy Stealers in Ukraine",
+      "url": "https://thehackernews.com/2026/06/winrar-flaw-exploited-by-russia-aligned.html",
+      "published": "2026-06-09T12:26:10+00:00",
+      "summary": "Two Russia-aligned cyber attack campaigns have continued to exploit a security flaw in WinRAR to target Ukrainian organisations, almost a year after patches for the vulnerability were released.\n\nThe activity has been attributed by Trend Micro to Earth Dahu (aka Gamaredon) and SHADOW-EARTH-066 (aka UAC-0226). It involves the exploitation of CVE-2025-8088, a path traversal flaw that allows an",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpdAzGyUad4rioCXpoCvPwiGqto_MgCesTBLTn-1uBtWpWAXB99KN0xiE1oIqwDbVi_vkFDnn05XOxwH3WYjLkPNDykxieuftfe-wLFibGL1o8iiUuGfhiG5yYS7KXBV3gvdIYk5PFCurpn0-L77hajka35iE_a-JxWCaYeKc2Yej1gQrkcrQ61ijTm4HS/s1600/winrar-exploit.jpg"
+    },
+    {
+      "id": "d856d553da2014c0dd26aff1b56d5702bcf0849b",
+      "title": "Researchers Build Self-Replicating AI Worm That Operates Entirely on Local, Open-Weight Models",
+      "url": "https://thehackernews.com/2026/06/researchers-build-self-replicating-ai.html",
+      "published": "2026-06-09T11:59:03+00:00",
+      "summary": "University of Toronto researchers have built and tested a proof-of-concept AI-driven computer worm that uses a locally hosted open-weight large language model to reason its way through a network, generate tailored attack strategies for each target it encounters, and replicate itself, all without human intervention and without touching a commercial AI service.\n\nThe preprint, posted to arXiv on",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2H1xd7_K6KgUGsDu0E9YGBOLVgXF4DX0rDhf_pUhDRujatedeTJFwy0e_JxsMGGpQB80HOn4wTXRSxCB2DrxNo0nHYVUJC2ehyphenhyphenum_Cyjg-5bVXOIuGahdDFIIa9NBleTGfYDXQuqf005BOME3HAXVxVQw1OXNJNZwpZ4Tgke2qUK2TITR0qFMgaAH8Mf9/s1600/worm.gif"
+    },
+    {
+      "id": "a9bf145b1eed1502f072b0e5c7e952f44f13825d",
+      "title": "Chrome V8 Zero-Day CVE-2026-11645 Exploited in the Wild - Patch Now",
+      "url": "https://thehackernews.com/2026/06/chrome-v8-zero-day-cve-2026-11645.html",
+      "published": "2026-06-09T11:58:49+00:00",
+      "summary": "Google has released security updates to address 74 vulnerabilities, including one that has come under active exploitation in the wild.\n\nThe high-severity vulnerability, tracked as CVE-2026-11645 (CVSS score: 8.8), has been described as an out-of-bounds memory access in V8, Chrome's JavaScript and WebAssembly engine.\n\n\"Out-of-bounds read and write in V8 in Google Chrome prior to 149.0.7827.103",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjy9c53f3p1HHGx7jqu0BsfiQG9IExXm0FN2TErZuX0bEb-QuwP4-_1WCoEBEWu976cmqjbnjTJl04uxbLJIP3P0pzSXNqjLNOz_gbfLMilYwJswWq-lMAPWJ1FxaZB_jmcsJaBFO4E5oXd3cdhDPlnDc2TblqooNQ9Btxfak9W8cXEhyphenhyphenXzjEfSluORQ1Ty/s1600/chrome-zero-day.jpg"
+    },
+    {
+      "id": "d80b9ef310221fc020055a5b66f9f4f05163989a",
+      "title": "The Hidden Security Risk in Modern Networks: The Work Between Tools",
+      "url": "https://thehackernews.com/2026/06/the-hidden-security-risk-in-modern.html",
+      "published": "2026-06-09T11:30:00+00:00",
+      "summary": "Organizations have more visibility than ever. Growing tech stacks provide greater coverage, and network security teams are increasingly adopting AI and automation to help with routine tasks and reduce manual effort.\n\nBut the same challenges persist. Outages still last hours, causing significant financial losses, operational disruption, and reputational impact. Threat response and mean time to",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJqeGTf-8XwdqkhtSdYoCT3HhGAP5pxBuBeA1ngKoX7BfGUcJMwqGhtf8Eh5TVXaN8-p-Ggk8Uiz4DhtmfT8GkKggOPmqRoh5j6XEumgw9aT7kwo4YcNAi_JrqIhSJU-_7gsyBXfwxAi7YfOS1_6CuDSen29PlEk5O4yA80Ob8_WNh81sExm8vgWSVnsY/s1600/tines.jpg"
+    },
+    {
+      "id": "c3f13d24a06d0e7145c81d8eafac2fb4a1e8aae0",
+      "title": "New FROST Attack Lets Websites Track What Sites and Apps You Open via SSD Timing",
+      "url": "https://thehackernews.com/2026/06/new-frost-attack-lets-websites-track.html",
+      "published": "2026-06-09T09:50:41+00:00",
+      "summary": "A malicious website can work out which sites you visit and which apps you open, using nothing but JavaScript and the timing of your SSD. The attack, called FROST, needs no native code, no extension, and no permission prompt.\n\nYou open the page, leave the tab sitting there, and it watches the drive for contention in the background.\n\nResearchers at Graz University of Technology built it and",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSiGrvsR8kJp_r8gce1LkFY4oJRt8-0dafO2RdcOzCwQqWy6XrnkRXpGX94NwPbvEupsU7ZhXAUEtKg5Xdl4y_o_IYsi4XLHIo9JSMNcto6JGG76vhkWSOvYa0So2tkUyQovyFwtB8Anpq6SLILSwzd0iXO_fzq4KIwpdG6F1yFIuhJpnXf1lgGIupiSRv/s1600/frost.jpg"
+    },
+    {
+      "id": "17f53430e957fc07d75bfd3707c230bc50d5f6bb",
+      "title": "Hades PyPI Attack: 19 Packages Poisoned to Auto-Run Bun Credential Stealer",
+      "url": "https://thehackernews.com/2026/06/hades-pypi-attack-19-packages-poisoned.html",
+      "published": "2026-06-09T09:13:32+00:00",
+      "summary": "The Miasma supply chain campaign has sparked a fresh attack wave called Hades, this time involving 37 malicious wheel artifacts across 19 packages in the Python Package Index (PyPI) registry, as the Mini Shai-Hulud-style attacks continue to be refined and splintered to target specific ecosystems.\n\n\"The compromised releases shipped a *-setup.pth file that attempts to execute automatically",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimsh1r7uS0J7o39IjoPTuHOzh-EiqtvAat_29YiejSgsn0oTvwmlklYrtu0VqUU05z-THGSE__CFshF8lpSdkRbx-b7Ez0uvlBnWcNQntBPcjv08iKy_hqq5W6NrLSUFek3FfLN5Z6ookVi6zqFE_uQhF56Nu_uyorkUuHOlYxm-cpfFsDwMUhWNRB9Mxi/s1600/python-worm.png"
+    },
+    {
+      "id": "0ec017d59bf71bd0c78ad11e72ad8b0e4cb523f7",
+      "title": "LiteLLM Flaw CVE-2026-42271 Exploited in the Wild, Chains to Unauthenticated RCE",
+      "url": "https://thehackernews.com/2026/06/litellm-flaw-cve-2026-42271-exploited.html",
+      "published": "2026-06-09T06:26:14+00:00",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a high-severity flaw impacting BerriAI LiteLLM to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\n\nThe vulnerability, tracked as CVE-2026-42271 (CVSS score: 8.7), is a command injection vulnerability that could allow any authenticated user to run arbitrary commands on the",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGMn_z7P9hbHMRzYk9OL9_kLaqTo4GucKa1of13sGhpNvKkSBDrhZSrcG53FJsPKJguHNThZK130Ku7Fjz6i1eFXP4Hx__9KoHxiv0gBT1LAomQr0exe44OnZkJjyIhv2X5hIA-rZAiu1AFLSUXAJSjb6DhF3DqQGx-XBkup8rwwonKFLCeWbNHrS3r2rm/s1600/lite.png"
     },
     {
       "id": "8081e36d146ddd403e4093838b0eb81905b1a71e",
@@ -585,83 +662,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgu6SfsDfrb_dr_5DP0MiwOMy86maTi3XyrtkQLw-sHAGlBZbhZ0uEfRkamwFqXGT4qNmVIqg6LQtaaRVLr_oGnxvKHiSuCU0Qts79fzGzWbeySgkpak_Cci73EHSyvr1qC1EqiciaI86XW4KtODuln9vUkYHvoH1p3bh_FTzW6scXui1REmWDv84cTxhoX/s1600/android.jpg"
     },
     {
-      "id": "880dd778c55fe86f49b7e105f2e7642c0368f41d",
-      "title": "Gamaredon Exploits WinRAR to Deliver GammaWorm and GammaSteel Against Ukraine",
-      "url": "https://thehackernews.com/2026/06/gamaredon-exploits-winrar-to-deliver.html",
-      "published": "2026-06-02T18:21:49+00:00",
-      "summary": "The Russian hacking group known as Gamaredon has been attributed to the continued exploitation of a WinRAR vulnerability to deliver multiple malware families aimed at data theft and propagation.\n\nPer Sekoia, the activity involves the weaponization of CVE-2025-8088, a path traversal flaw in WinRAR, to launch an HTML Application payload dubbed GammaPhish, which is then used to retrieve an",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIWYqVAlf5o0isz1fGZ_KcAkqIAroOtFMRAvlOMseZrj7e5iLaZ47_92-zoFzN4rtQHJpmGHjMaOShanlb01qhHO5-_EFXskV2RdVtxShkQDFzCBGrgec2P-6IAFxMqRBkkbnLFyjl0n4ZkPbQBkEMl0OQqlj3CgThRwQ6Z6tQaYPbp1YhZy4wcxdmi5dy/s1600/russian-malware.jpg"
-    },
-    {
-      "id": "1c82d0068f4b0a3c8768e6ae55bd472af82e6d42",
-      "title": "Oracle WebLogic CVE-2024-21182 Added to KEV Catalog After Active Exploitation",
-      "url": "https://thehackernews.com/2026/06/oracle-weblogic-cve-2024-21182-added-to.html",
-      "published": "2026-06-02T18:14:42+00:00",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a high-severity security flaw impacting Oracle WebLogic Server to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation.\n\nThe vulnerability, CVE-2024-21182 (CVSS score: 7.5), allows an unauthenticated attacker with network access to take control of susceptible servers. It was",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyTRAA7jrm-wO7d39ZhI2e75GnwqNE6t-CKpScXYfVikGGVRC4fYajbw5kn3aHqZc9rmbdjIqft5nwFLWAxCikfEMsfpt_h6dxGczVBeqAuujhbo01DpypfOJMqGqS0ohY7U1_L084pUvBxX8riiXrWssrwn76k7mMR-yR_3FMQV5fDjxIpRg-BPebCG_J/s1600/oracle.jpg"
-    },
-    {
-      "id": "253ab0329bbd163ad0599b1658e61fd8cd0f323c",
-      "title": "AI-Driven Exploitation is Destroying Vulnerability Management. Here\u2019s How to Handle It.",
-      "url": "https://thehackernews.com/2026/06/ai-driven-exploitation-is-destroying.html",
-      "published": "2026-06-02T11:58:00+00:00",
-      "summary": "AI-driven exploitation timelines are rapidly shrinking, and they are not going to stop shrinking. Vulnerabilities are being discovered, reproduced, and weaponized faster than ever in the history of enterprise security. As a result, the window between a vulnerability being disclosed and indiscriminate exploitation observed across the internet is now measured in hours, not days.\n\nThe industry's",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgC5W9v8FZkEWo3lLXfVm96RBtE2mlXcUmv-T0KxRiUVUsBhQOMm8MG6G-IExq0SIu3KlkO309v-a63s4dCkLdR6CCZ3Mf-XK-qi3a7T-Lp_mJB2jio7dLxMAnvAqxlh4J0-F7fUr7uiSeWOk7ldmBLNki4ORg2A_Y5yJ-tk0b9V6iJjjf7U4CRwD9eAA/s1600/watch.jpg"
-    },
-    {
-      "id": "cd03955bb56d68f8f91908a9da87f89ae9270ef4",
-      "title": "How Leading Organizations Are Turning EDR Into Operational Resilience",
-      "url": "https://thehackernews.com/2026/06/how-leading-organizations-are-turning.html",
-      "published": "2026-06-02T10:30:00+00:00",
-      "summary": "Most organizations now recognize that endpoint protection alone is no longer sufficient.\n\nThat's why adoption of endpoint detection and response (EDR) has accelerated rapidly in recent years. Organizations understand that modern attacks move faster, evade traditional prevention controls, and require continuous visibility into suspicious activity across the environment.\n\nBut owning EDR",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdciYseLWNtSuIlPrhxjKI4HId3_-g3E9nr2PmvF-sdPELDdug8zPHASf-hJwZKEUXi9n0pjN08mhpoe-BB_wi241-xBwfKPT8YeJdo41fnHHC9phaZR4TrLiGfTXS8X2SKdlKJMMcwbTuh0LYSbdsHJtNgTfVD5AZU9Y6XzCTqdTg8Vy8qSAVXq254AM/s1600/alert.png"
-    },
-    {
-      "id": "2396b8ce9b37f267fab6e2f09965daa9996aab84",
-      "title": "Pakistan-Linked SideCopy Targets Afghanistan Finance Ministry with Xeno RAT",
-      "url": "https://thehackernews.com/2026/06/pakistan-linked-sidecopy-targets.html",
-      "published": "2026-06-02T09:05:40+00:00",
-      "summary": "Cybersecurity researchers have disclosed details of a spear-phishing campaign likely undertaken by the Pakistan-aligned SideCopy group targeting Afghanistan's Ministry of Finance with an open-source remote access trojan called Xeno RAT.\n\n\"The campaign opens with a spear phishing delivery - a ZIP archive containing a malicious LNK file bearing a carefully crafted Pashto-language filename,\"",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiilTEadDjLrLdKByKVP6n_zfNSbhTTutHu-9BbbIDTBotobmqmIOI7fDdGGHZQQB7wTo00L66NAKZBA3iRBLQpSf_NgH9hKe9Xd-WUoijt7y-CUbdZore_qSZpTmuBhExaAxeXn39EPCVPYugMnJ85c15e161ttOMRmbSAv7NcbUlYrqDV4NnbzHZvw0A5/s1600/paki.gif"
-    },
-    {
-      "id": "4229ec5973cafd2ba0a2872ddcfaf4f0726c4a9a",
-      "title": "Dashlane Discloses Brute-Force Attack, Encrypted Vaults of Fewer Than 20 Users Downloaded",
-      "url": "https://thehackernews.com/2026/06/dashlane-discloses-brute-force-attack.html",
-      "published": "2026-06-02T03:55:25+00:00",
-      "summary": "Password manager Dashlane has disclosed that \"fewer than\" 20 users on the personal subscription plan had their encrypted vaults downloaded following a brute-force attack launched by an unknown party.\n\nOn May 31, 2026, the company said an \"external\" threat actor launched a brute-force attack against certain Dashlane user accounts with the aim of breaking two-factor authentication (2FA)",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMY3oQNaqfV2_sMYMZJ_EbUA90VD_t0w342aOV-tTDXEui63NgSB0SPYPhGVW9e5i8ZcEk7P5uudw6PJOi5od9rdsq9GzG0npc8FiqXuQ33r-zg81AMHW53prz_ovs2YbKrjaNfOOAp1tpmjhE3ADsjVymKPDGf4TyikPb1z18MOWk2YH-BteUQ6EUqYFI/s1600/dashlane.png"
-    },
-    {
-      "id": "f264f7d6f339b6cf6ae20c102f533b5507b5a5b4",
-      "title": "Miasma Supply Chain Attack Compromises Red Hat npm Packages with Credential-Stealing Worm",
-      "url": "https://thehackernews.com/2026/06/miasma-supply-chain-attack-compromises.html",
-      "published": "2026-06-01T17:40:28+00:00",
-      "summary": "A new Mini Shai-Hulud supply chain attack campaign, codenamed Miasma, has compromised @redhat-cloud-services packages to steal credentials and secrets from developer machines and deliver a self-propagating worm.\n\n\"This is effectively a Mini Shai-Hulud campaign: it uses the same core tactics of install-time execution, credential harvesting, CI/CD targeting, encrypted exfiltration, and potential",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOyc2NTiIl0XKOTZBsFh1bTPqNpVXfDhASWkCsYz17d-nbiWVKlxCzoq3WthMD8kMomrRPPOYLM-XRmSdtXNKAxtk1QLtmZH47y2RExMGohBaBDPkpFp2PteUgaA16VcCs7tK-ImqCiLnpqyLg8Pwp6cWE5d9QT2_v0-QBduT7ovYrs7WSZ9t1MnQJ4EuO/s1600/redhat.png"
-    },
-    {
       "id": "9b31592fe360ee61c5325e6f9b6c2263ca36ded8",
       "title": "Silent Ransom Group Hits US Law Firms in Escalating Extortion Attacks",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/silent-ransom-us-law-firms-extortion-attacks",
@@ -776,7 +776,7 @@
       "title": "Bugcrowd Launches EU Data Residency Option For Evolving Data Sovereignty Needs",
       "url": "https://www.darkreading.com/cyber-risk/bugcrowd-launches-eu-data-residency-option-for-evolving-data-sovereignty-needs",
       "published": "2026-06-04T14:22:20+00:00",
-      "summary": "Organizations are growing serious about what nation\u2019s rules apply to their data. Experts point to geopolitical tensions as a main contributing factor.",
+      "summary": "Organizations are growing serious about which nation's rules apply to their data. Experts point to geopolitical tensions as a main contributing factor.",
       "source": "DarkReading",
       "region": "North America",
       "country": "US",
@@ -1210,6 +1210,50 @@
       "region": "North America",
       "country": "US",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt239496a9d5a17a58/6a105fcb611161e1e7c5239b/patterns-healthcare-2026dbir.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
+      "id": "732fdebbd07ee80090aa7ac6e7212dcc18eb4d81",
+      "title": "Signal says UK plan to scan devices for nude images 'endangers us all'",
+      "url": "https://www.theregister.com/security/2026/06/09/signal-uks-child-nude-block-threat-wont-protect-children/5252761",
+      "published": "2026-06-09T12:41:03+00:00",
+      "summary": "Encrypted messaging app warns device-level checks could be repurposed for censorship",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=227546&width=800"
+    },
+    {
+      "id": "8b848e86613a16ad255c51bea229ffbe2947e9ad",
+      "title": "Chrome's zero-day Whac-A-Mole continues with fifth exploited bug of the year",
+      "url": "https://www.theregister.com/security/2026/06/09/chromes-zero-day-whac-a-mole-continues-with-fifth-exploited-bug-of-the-year/5252689",
+      "published": "2026-06-09T12:15:00+00:00",
+      "summary": "Google paid researcher a tidy $55K bounty for its discovery",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=256718&width=800"
+    },
+    {
+      "id": "dff34620532b560e518c66632d995cfaa82cdfc0",
+      "title": "France probes compromise of gov messaging platform after account hijack",
+      "url": "https://www.theregister.com/security/2026/06/09/france-probes-compromise-of-gov-messaging-platform-after-account-hijack/5252717",
+      "published": "2026-06-09T11:27:55+00:00",
+      "summary": "Authorities say the breach only exposed public chat rooms, but alleged attacker claims to have accessed far more data",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=255787&width=800"
+    },
+    {
+      "id": "6ccdfb42ea45bdb457a67a8fa060e40284ae7ec3",
+      "title": "Qilin NHS breach tally grows as Essex trust confirms stolen records",
+      "url": "https://www.theregister.com/cyber-crime/2026/06/09/qilin-nhs-breach-tally-grows-as-essex-trust-confirms-stolen-records/5252663",
+      "published": "2026-06-09T09:15:00+00:00",
+      "summary": "Two years on from ransomware attack, hospitals are still trying to identify and warn patients",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=5252686&width=800"
     },
     {
       "id": "ce07a78675ccd543931fdab80955e2c371a3e886",
@@ -1718,50 +1762,6 @@
       "image": "https://image.theregister.com/?imageId=5247528&width=800"
     },
     {
-      "id": "b8bf1ea143a24494b0013eed735826381b3766b4",
-      "title": "CrowdStrike, Google shatter Glassworm botnet",
-      "url": "https://www.theregister.com/cyber-crime/2026/05/27/crowdstrike-google-shatter-glassworm-botnet/5247337",
-      "published": "2026-05-27T17:56:14+00:00",
-      "summary": "Developer-targeted, supply-chain attacks all the rage these days",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=5247359&width=800"
-    },
-    {
-      "id": "a8416c2f11ec8e87d05d7476021c38e502e185cf",
-      "title": "Bosses blinded by confidence about shadow AI use by workers",
-      "url": "https://www.theregister.com/ai-ml/2026/05/27/bosses-blinded-by-confidence-about-shadow-ai-use-by-workers/5247275",
-      "published": "2026-05-27T17:20:00+00:00",
-      "summary": "More than half of orgs in Okta survey faced an AI-related security incident or near miss last year",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=5247310&width=800"
-    },
-    {
-      "id": "50059ba7deacde7049650eab507c0c779e5ac76f",
-      "title": "Extortion crews are visiting law firms pretending to be tech support, FBI warns",
-      "url": "https://www.theregister.com/security/2026/05/27/fbi-crooks-enter-legal-offices-and-steal-data-via-usb-drive/5247212",
-      "published": "2026-05-27T16:15:52+00:00",
-      "summary": "Cybercriminals still allowed to walk into office blocks and convince staff to let them plug in their own thumb drives",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=4094162&width=800"
-    },
-    {
-      "id": "a53e8a3192664796deb3bb78e2c41dc056c9cf95",
-      "title": "India's cyber agency sets clock at 12 hours to tackle exploited bugs as AI turns up the heat",
-      "url": "https://www.theregister.com/security/2026/05/27/cert-in-professes-12-hour-patching-for-ai-assisted-attacks/5247009",
-      "published": "2026-05-27T14:00:00+00:00",
-      "summary": "CERT-In says internet-facing or critical systems should be patched, mitigated, or cut off within half a day where feasible",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=5247056&width=800"
-    },
-    {
       "id": "98cb187e46e268fca6d742e73673a27899384710",
       "title": "Hackers Used Meta\u2019s AI Support Bot to Seize Instagram Accounts",
       "url": "https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/",
@@ -1828,6 +1828,72 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "b2ca1b08e902b41f019292a3f7dbfe56c02aec65",
+      "title": "New Platform Uses Cryptographic Invisibility to Protect AI-Built Applications",
+      "url": "https://www.securityweek.com/new-platform-uses-cryptographic-invisibility-to-protect-ai-built-applications/",
+      "published": "2026-06-09T13:00:00+00:00",
+      "summary": "<p>Atsign\u2019s AI Architect applies cryptographic protections to agentic software development, aiming to prevent attackers from exploiting vulnerabilities by making application identities effectively invisible.</p>\n<p>The post <a href=\"https://www.securityweek.com/new-platform-uses-cryptographic-invisibility-to-protect-ai-built-applications/\">New Platform Uses Cryptographic Invisibility to Protect AI-Built Applications</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "87d741c7cd39504484fc77aab9a2199e09bd9349",
+      "title": "SAP Patches Critical NetWeaver, Commerce Vulnerabilities",
+      "url": "https://www.securityweek.com/sap-patches-critical-netweaver-commerce-vulnerabilities/",
+      "published": "2026-06-09T12:15:30+00:00",
+      "summary": "<p>The flaws could lead to the disclosure of sensitive information, memory corruption, and disruption of normal system usage.</p>\n<p>The post <a href=\"https://www.securityweek.com/sap-patches-critical-netweaver-commerce-vulnerabilities/\">SAP Patches Critical NetWeaver, Commerce Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "97b8b03f9ae25aef3d55fd50904ede5b9340b801",
+      "title": "Over 100 NPM, PyPI Packages Hit in New Shai-Hulud Supply Chain Attacks",
+      "url": "https://www.securityweek.com/over-100-npm-pypi-packages-hit-in-new-shai-hulud-supply-chain-attacks/",
+      "published": "2026-06-09T11:37:11+00:00",
+      "summary": "<p>The most recent variants of the self-propagating attacks are named Miasma and Hades.</p>\n<p>The post <a href=\"https://www.securityweek.com/over-100-npm-pypi-packages-hit-in-new-shai-hulud-supply-chain-attacks/\">Over 100 NPM, PyPI Packages Hit in New Shai-Hulud Supply Chain Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "ca922bc4453d9b389734f2a486893bab70cac82c",
+      "title": "Will AI Kill the Bug Bounty Industry?",
+      "url": "https://www.securityweek.com/will-ai-kill-the-bug-bounty-industry/",
+      "published": "2026-06-09T11:00:00+00:00",
+      "summary": "<p>Anthropic's Mythos is accelerating vulnerability discovery to machine speed, forcing the bug bounty industry and offensive security teams to adapt to a future where finding flaws is no longer the hard part.</p>\n<p>The post <a href=\"https://www.securityweek.com/will-ai-kill-the-bug-bounty-industry/\">Will AI Kill the Bug Bounty Industry?</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "96dc05d0c4f0e9f7791da4cbdb2505b4594fbb6a",
+      "title": "Check Point VPN Zero-Day Exploited in Qilin Ransomware Attacks",
+      "url": "https://www.securityweek.com/check-point-vpn-zero-day-exploited-in-qilin-ransomware-attacks/",
+      "published": "2026-06-09T09:47:10+00:00",
+      "summary": "<p>The authentication bypass vulnerability allows attackers to establish VPN connections without a valid password.</p>\n<p>The post <a href=\"https://www.securityweek.com/check-point-vpn-zero-day-exploited-in-qilin-ransomware-attacks/\">Check Point VPN Zero-Day Exploited in Qilin Ransomware Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "f9d7f94313f58c62b5997770f20f2d7f610b6e4d",
+      "title": "Google Patches 5th Chrome Zero-Day Exploited in 2026",
+      "url": "https://www.securityweek.com/google-patches-5th-chrome-zero-day-exploited-in-2026/",
+      "published": "2026-06-09T05:57:40+00:00",
+      "summary": "<p>The vulnerability is tracked as CVE-2026-11645 and it was reported in late April by an anonymous researcher.</p>\n<p>The post <a href=\"https://www.securityweek.com/google-patches-5th-chrome-zero-day-exploited-in-2026/\">Google Patches 5th Chrome Zero-Day Exploited in 2026</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "ac09dbce218b9a4ed3bd8e5c402cb54f97be3ea8",
       "title": "A Security Raises $37 Million for Autonomous Offensive Security Platform",
       "url": "https://www.securityweek.com/a-security-raises-37-million-for-autonomous-offensive-security-platform/",
@@ -1866,72 +1932,6 @@
       "url": "https://www.securityweek.com/cybersecurity-ma-roundup-26-deals-announced-in-may-2026/",
       "published": "2026-06-08T12:38:45+00:00",
       "summary": "<p>Significant cybersecurity M&#038;A deals announced by Akamai, Check Point, Cisco, Cyera, Dragos, WatchGuard and Zscaler.</p>\n<p>The post <a href=\"https://www.securityweek.com/cybersecurity-ma-roundup-26-deals-announced-in-may-2026/\">Cybersecurity M&#038;A Roundup: 26 Deals Announced in May 2026</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "ecf27bf3a10825002cf5200ea2b0123c4a534aad",
-      "title": "Everest Forms Vulnerability Exploited to Hack WordPress Sites",
-      "url": "https://www.securityweek.com/everest-forms-vulnerability-exploited-to-hack-wordpress-sites/",
-      "published": "2026-06-08T12:16:09+00:00",
-      "summary": "<p>The flaw allows attackers to execute arbitrary code remotely and has been exploited in the wild for two months.</p>\n<p>The post <a href=\"https://www.securityweek.com/everest-forms-vulnerability-exploited-to-hack-wordpress-sites/\">Everest Forms Vulnerability Exploited to Hack WordPress Sites</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "f7e11da9dc532896baa31d5cdd88317b3ad33747",
-      "title": "174,000 Impacted by Lansing Community College Data Breach",
-      "url": "https://www.securityweek.com/174000-impacted-by-lansing-community-college-data-breach/",
-      "published": "2026-06-08T11:27:00+00:00",
-      "summary": "<p>Hackers accessed personal information stored on certain Lansing Community College systems in February 2025.</p>\n<p>The post <a href=\"https://www.securityweek.com/174000-impacted-by-lansing-community-college-data-breach/\">174,000 Impacted by Lansing Community College Data Breach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "46b75443f014e8046cc7aff6231f8c9abb8a9139",
-      "title": "Silent Ransom Group Uses DNS Fast Flux in Attacks",
-      "url": "https://www.securityweek.com/silent-ransom-group-uses-dns-fast-flux-in-attacks/",
-      "published": "2026-06-08T10:31:39+00:00",
-      "summary": "<p>Focusing on hacking law firms in the US, the ransomware group relies on fast flux to hide its C&#038;C infrastructure.</p>\n<p>The post <a href=\"https://www.securityweek.com/silent-ransom-group-uses-dns-fast-flux-in-attacks/\">Silent Ransom Group Uses DNS Fast Flux in Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "ad76163601cd003e9be00e4732a9fbebebad33bf",
-      "title": "OpenAI Rolling Out ChatGPT Account Security Controls",
-      "url": "https://www.securityweek.com/openai-rolling-out-chatgpt-account-security-controls/",
-      "published": "2026-06-08T08:32:49+00:00",
-      "summary": "<p>The Active Sessions and Lockdown Mode features are being made more broadly available by the AI giant.</p>\n<p>The post <a href=\"https://www.securityweek.com/openai-rolling-out-chatgpt-account-security-controls/\">OpenAI Rolling Out ChatGPT Account Security Controls</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "e4f75cc230886ba24bb414c59bf4b13837de69f8",
-      "title": "Anthropic Urges Industry Coordination to Allow for a \u2018Pause\u2019 in AI Development if Risks Grow",
-      "url": "https://www.securityweek.com/anthropic-urges-industry-coordination-to-allow-for-a-pause-in-ai-development-if-risks-grow/",
-      "published": "2026-06-08T08:00:00+00:00",
-      "summary": "<p>The proposed coordination would let advanced AI labs verify that global rivals have actually stopped or slowed their work.</p>\n<p>The post <a href=\"https://www.securityweek.com/anthropic-urges-industry-coordination-to-allow-for-a-pause-in-ai-development-if-risks-grow/\">Anthropic Urges Industry Coordination to Allow for a \u2018Pause\u2019 in AI Development if Risks Grow</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "b9a768e6368815be5efaff9272269577db42da22",
-      "title": "SolarWinds Serv-U Vulnerability Exploited in the Wild",
-      "url": "https://www.securityweek.com/solarwinds-patches-exploited-serv-u-vulnerability/",
-      "published": "2026-06-08T07:52:28+00:00",
-      "summary": "<p>Unauthenticated attackers can exploit the flaw via specially crafted POST requests that crash the Serv-U service.</p>\n<p>The post <a href=\"https://www.securityweek.com/solarwinds-patches-exploited-serv-u-vulnerability/\">SolarWinds Serv-U Vulnerability Exploited in the Wild</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
