@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-06-11T02:09:53.268689+00:00",
+  "generated_at": "2026-06-11T15:25:40.779031+00:00",
   "items": [
+    {
+      "id": "417a9a4498602457c1a08c48d9249d8f8e3191d3",
+      "title": "Enterprises report increasing budgets for security training in AI and other critical topics",
+      "url": "https://www.cybersecuritydive.com/news/cybersecurity-training-budget-increases-ai-skills/822640/",
+      "published": "2026-06-11T14:59:19+00:00",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/52OFAan1OAaW2AGel64ouftAmIzp6u04tnVGWJYphBM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTg3ODQxMjQ4LmpwZw==.webp\" /></div></figure><p>Finding the time to train employees remains the biggest impediment to programs&rsquo; success, according to a new report.</p>",
+      "source": "Cybersecurity Dive",
+      "region": "North America",
+      "country": "US",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
     {
       "id": "96c665f1ed1c2189b2862252327ea6e7856e3f1e",
       "title": "CISA gives agencies new vulnerability remediation deadlines that take risk levels into account",
@@ -101,15 +112,59 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "d7efa70ed87860bd53b71aeeaa0e408ff57496d9",
-      "title": "Sprawling new House AI bill includes frontier model oversight, open-source security grants",
-      "url": "https://www.cybersecuritydive.com/news/house-ai-bill-regulation-cisa-nist-open-source/822131/",
-      "published": "2026-06-05T15:02:00+00:00",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/wfc4XND_ttMC42k54yce3Ko4uvR9eiDAwYWkp0UJEbU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9jYXBpdG9sX2J1aWxkaW5nXy5qcGc=.webp\" /></div></figure><p>The legislation has already drawn widespread criticism for its proposal to preempt state AI laws.</p>",
-      "source": "Cybersecurity Dive",
+      "id": "a0d4b99eeb143c6499fa8e7fb6c1d8cae8afb6fc",
+      "title": "Cybersecurity Stars Awards 2026: Winners Announced Across 95 Categories",
+      "url": "https://thehackernews.com/2026/06/cybersecurity-stars-awards-2026-winners.html",
+      "published": "2026-06-11T13:26:13+00:00",
+      "summary": "Most good security work is invisible by design. Today is the exception.\n\nThe 2026 Cybersecurity Stars Awards winners are announced across 95 subcategories in four main award categories.\n\nThe reason is simple. Cybersecurity is full of work that deserves recognition and rarely gets it. Products that quietly close real gaps. Teams that stop incidents nobody reads about. Companies that raise the",
+      "source": "The Hacker News",
       "region": "North America",
       "country": "US",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSZHAWbb4vxxCvcuKVVx_cF20NdH25LsT22W5ftwdgoPt9RSB_6g399zuxnBqiClQMbMTVTlZ5w2uZ7LoZnhySiv2rdRpu_992csHQmBaTqzkBAB3jkpru_Ofvli3RzA6r2kYxapez3lqhW02JPzqtJcDd2DGnZC62u72F59zUJbsS3CujuYH_mpj9lhk/s1600/winners.jpg"
+    },
+    {
+      "id": "2ea1a39ca2835bb9205958d869f6e9a3b1370a52",
+      "title": "ThreatsDay Bulletin: Worm Code Leaked, AI Agent Phished, Claude Action Patch + 28 New Stories",
+      "url": "https://thehackernews.com/2026/06/threatsday-bulletin-worm-code-leaked-ai.html",
+      "published": "2026-06-11T13:20:41+00:00",
+      "summary": "It's been one of those weeks. You expect the usual noise: recycled malware, sloppy attacks, another easy target getting hit. Instead, there's a supply chain attack kit in a public repo, a $5,000-a-month RAT that clones browsers, and research showing AI agents can be tricked into leaking real credentials.\n\nThe bigger problem is how polished this all looks now. Mule networks run like SaaS.",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwRILGY9KcqTFlus6q7_YKlkzrx_LNXb7KS96PijLOM63YqrZIcvxXaf9j0i-sJhst_yL59b7pq32rwcHSSByX7dzVRXSv_dRnrAYqn0Hpps_G7odqCYu8BEonGPMlUkCAz-d0q2No-ojqaZou-b06UwZxzq0oV5CthkgjmTdTBU1JEkWRLV28PwRR5UW7/s1600/tt.png"
+    },
+    {
+      "id": "ca59041824667a4d3d0ee3d897aa03ff6080c6b1",
+      "title": "AI Broke Vulnerability Management. That's Why CISOs Are Moving Budget to BAS.",
+      "url": "https://thehackernews.com/2026/06/ai-broke-vulnerability-management-thats.html",
+      "published": "2026-06-11T11:30:00+00:00",
+      "summary": "For thirty years, vulnerability management ran on a buffer: the months between when a vulnerability was found and when someone could figure out how to weaponize it. The solution was straightforward enough; triage by severity, schedule the fix, validate, and move on. The buffer was what made that work.\n\nToday, that buffer is gone.\n\nAI didn't make your team slower. It changed the other side of the",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimJQm5XK5zijXnauJNV2_6v7g0bNYcdYLA-SuZZHbWZgQWB523V2Z7IgfYMu16QIc-JHnMg_8dXFY-TJ4dK9FpU4iAn2-8S4mE_ZE3M-z2XITVq6X2hF0e5Ngq33PcyeYSOlDceniRcY98Y8JNQwI5MWYbEor7h-h4kQLvaoeQ0OvJmg-UZTG82dv9nZI/s1600/ai-broke.jpg"
+    },
+    {
+      "id": "320366b279760fbcf683a575129538aefff0e95f",
+      "title": "OceanLotus Hits Vietnam Investors With SPECTRALVIPER in FireAnt Attack",
+      "url": "https://thehackernews.com/2026/06/oceanlotus-hits-vietnam-investors-with.html",
+      "published": "2026-06-11T09:45:58+00:00",
+      "summary": "The Vietnam-aligned threat actor known as OceanLotus has been attributed to two distinct campaigns that targeted domestic entities and stock investors with a backdoor known as SPECTRALVIPER.\n\nThe campaigns involve a prolonged cyber espionage operation aimed at a Vietnamese infrastructure and transport construction corporation between mid-2024 and February 2026, as well as a supply chain attack",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2WExeCWTOdaaW7iQfV9dxGz0_rzPShImjBUQfoeRsJeTLg09lrGsSEgA2k05q-weIqQaQ_VVP25lTObup7E0xtcnxj3AtK1HHkNIAkI_hykxraL74qXTPwCRlRCdTB3S5QJO-e2j5zPGxgvCBg9SyRFl9QD2gwVtOqgg3eNF7_ZXGI9JgFSE4LGPjwoS3/s1600/cyberattacks.jpg"
+    },
+    {
+      "id": "f6c292284808b48c029fca5a58d8206473da1216",
+      "title": "GitHub to Disable npm Install Scripts by Default to Stop Supply Chain Attacks",
+      "url": "https://thehackernews.com/2026/06/github-to-disable-npm-install-scripts.html",
+      "published": "2026-06-11T06:23:03+00:00",
+      "summary": "GitHub has announced what it said are \"breaking changes\" coming to npm version 12, one of which turns off install scripts by default to combat software supply chain threats.\n\nThe changes aim to combat attack techniques that abuse the \"npm install\" command to trigger the execution of malicious code using npm lifecycle hooks. \"Npm install\" is used to download and install all the necessary",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_yyoUTLr71Ug2Ge0R7qFSnlGjB3TzlrQ-2NDR5jpPSBjivUSxhxRV1eCg5E6Af15RbJLZpqg9Ohp9ZW9YC9D2oc3VcHrNYQetavvvarn-Pn1P4VWnMw2C-hXbFgplFW9O8pe-zSP9ABGkkR-LM8hhu370dXMgeV-TGQT2p9N7hd7Friim3UkdK5FfyHHp/s1600/npm-github.jpg"
     },
     {
       "id": "55101572cae65d12ee8bff5044483c0fd2b026fe",
@@ -607,70 +662,15 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6i36LXqSESJrnuYOf6ULo2Hijp9l8i9UTGbRzCLuWImPpfPJ6cKQgBFGhS8yx3_qn8IoM0MgY0pmL4mZfzegatvhQWDKV5OQ3MfOWvPzYIokXaFDUvBM3EYsMOqtQoxx0AmeiakeocpBIlaNeCiBkPcnK1OW8abfIz0_8zuybqKQvWuriVC97Ir259Sw/s1600/agentic-ai.jpg"
     },
     {
-      "id": "2529b8f733640c86e59665170284da3eec50d881",
-      "title": "ThreatsDay Bulletin: AI Agents Gone Wrong, Sketchy C2 Tools, ClickFix Tricks, JS Backdoors & 20+ New Stories",
-      "url": "https://thehackernews.com/2026/06/threatsday-bulletin-ai-agents-gone.html",
-      "published": "2026-06-04T14:00:49+00:00",
-      "summary": "It got stupid again.\n\nThe internet still feels held together with tape. Bad plugins, old bugs, fake tools, trusted apps doing shady things. Same mess, new wrapper. And now the weird stuff is normal. Forums go down and come back worse. Cheap hackers get better toys. AI starts breaking real systems. Great.\n\nRead the whole thing before it ruins your week anyway.\n\n\n\n\n\n\n\n\n  \n  \n    Unauthenticated",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOsPH2SzhBWTxhXi2KCJw0YY29azn2hLkDQwQhyrjmwaRIXQfCAPNIjej3_TBd6VJm1JqWSs2EoI2jiWyVHENmhtd1alqSEqlJC8WxUk4b5zWUqszQ8akhGzRmCHf8OL7wMTZiWLYZDzHRXY8unPcsh2QMTfyTH0XeRszrwCunK2DazuZIF9oNKQUFxlqN/s1600/thh.jpg"
-    },
-    {
-      "id": "4ce916cff94170a68d1c20730f80ff4fec35942a",
-      "title": "China-Linked TA4922 Expands Phishing Attacks to U.K., Germany, Italy, and South Africa",
-      "url": "https://thehackernews.com/2026/06/china-linked-ta4922-expands-phishing.html",
-      "published": "2026-06-04T12:22:25+00:00",
-      "summary": "A new China-linked cybercrime group known as TA4922 has expanded its targeting focus to target European organizations in the U.K., Germany, Italy, and South Africa.\n\nThese efforts have been complemented by a \"rapid operational tempo\" and a continually evolving malware arsenal comprising known families like ValleyRAT (aka Winos 4.0) and Atlas RAT (aka AtlasCross RAT), as well as previously",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhq_JkP80d1IA8rz-SoYEBmuGqK_K7OpGrqiki4vB1ShMW5mFBVSMvl8H5MnYylZMl3AWeqdAmp19oZIL_7amYErNxBGiUAJqrOqGO0zjHH2jxCKCNdiGH_nqjHlksD9dlu4QGCq9KzMRfnWAi7YnPQQ86pnCypNupFDn_h-hSJdfhWT0Y4s01w6Cw-s6Od/s1600/phishing-hook.jpg"
-    },
-    {
-      "id": "c9d4d7cee1e8e8b77987efc715a0c6f78c3dbdb6",
-      "title": "FlutterShell Backdoor Spreads to macOS via Malicious Google and YouTube Ads",
-      "url": "https://thehackernews.com/2026/06/fluttershell-backdoor-spreads-to-macos.html",
-      "published": "2026-06-04T11:19:53+00:00",
-      "summary": "Cybersecurity researchers have shed light on a macOS malvertising campaign codenamed Operation FlutterBridge that spreads a new backdoor called FlutterShell.\n\nAccording to Palo Alto Networks Unit 42, the campaign is said to be the next stage of a previously reported activity cluster dubbed JSCoreRunner (aka FileRipple) in late August 2025. The cybercrime group behind the two attack chains is",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwFQkJElJQpI5ODTBzh1EzrxsRYamFN0ntC9V6vF4b4FfEJ0svPhI_1TnKm960eIsewSFT-DR1RtNk3M511OQK6I-k3UQNNLut1f_fjM9wB4NHxdvJzJQ3VvhIGO9ja0hNIzRAOZLVMngS4R8hQxXfV-_DO71x0CU0YSnxpclCnV0DGX6TdNmr32ongewk/s1600/macos.jpg"
-    },
-    {
-      "id": "7a2aa31756b658f9af5cb5f6e8cb0d0450d6b676",
-      "title": "Fake Sites Mimicking Open-Source Tools Rank High on Google to Deliver Malware via TDS",
-      "url": "https://thehackernews.com/2026/06/fake-sites-mimicking-open-source-tools.html",
-      "published": "2026-06-04T09:51:28+00:00",
-      "summary": "Cybersecurity researchers have flagged a large-scale operation that impersonates open-source and freeware projects to funnel unsuspecting users through a Traffic Distribution System (TDS) and deliver malware families like Remus Stealer, AnimateClipper, and the SessionGate framework.\n\n\"The sites are well-designed and often look like legitimate project portals at a glance, sometimes referencing",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiM7j9PG_c741so0RmX7eIB48xO-ndyZSF0pIU5j2anTqxJNj8A3XVstoIjq3iMnuQxhgyhl3LKP5laenFIj7IT0V8SOJ0lK7-Ywdsr5yBioNKF60SegkvR3SkfaSkPqZxN3rak0J-sZbvjxGDozCupAP3wraZjk0XU6-ZA590Q42cPaHXrdg7PJFGk1Ss/s1600/site.jpg"
-    },
-    {
-      "id": "1c24bd107d1740f347e7259801d8f62bd6dece3d",
-      "title": "Hackers Spied on a Stock Exchange Executive's Outlook Mailbox for Five Months",
-      "url": "https://thehackernews.com/2026/06/hackers-spied-on-stock-exchange.html",
-      "published": "2026-06-04T09:33:57+00:00",
-      "summary": "Unknown attackers spent at least five months inside the Outlook mailbox of a senior executive at a major global stock exchange, copying the inbox out in small, repeated batches and routing it through Dropbox and OneDrive so the traffic blended into normal cloud activity.\n\nSymantec and Carbon Black's Threat Hunter Team reported the campaign this week. This points to espionage, not a money grab:",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpg8pBdHkENT_CKClsSR7f4Rb7BQpM27ynGrkRdJg-bbUfI2NIHQ_rFmkOVHjK8RggTD-XMvVdGGI_qrYyIx-Ml1sfwbRkbjaNo8Fz40cWg8wFWK8h5-f-FaB58HryMM5AYlUHI2uO7x12VFvAB6N3w1gobWmzGgp8xXqHfWMERFh7hVS9lBHxfdu71Xs/s1600/stock-emails.jpg"
-    },
-    {
       "id": "22808b7187f0168921372ebf75cc9ce7dd0efb2b",
       "title": "Chinese, N. Korean Threat Groups Build on Asia-Pacific Success",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/chinese-korean-threat-groups-asia-pacific-success",
       "published": "2026-06-11T00:01:00+00:00",
-      "summary": "North Korea's gross domestic product (GDP) has grown, in part because of the cybercrime gains of groups linked to the nation, which target business and financial firms.",
+      "summary": "North Korea's gross domestic product (GDP) has grown, in part because of the nation's state-sponsored cybercrime groups, which target financial firms and other businesses.",
       "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf9a31e03506d8e24/682cf11744afb6bd8a3b90a5/asia-night-lights-kmls-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf9a31e03506d8e24/682cf11744afb6bd8a3b90a5/asia-night-lights-kmls-shutterstock.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "id": "3939d30345aa9a871a99636e27b3156f189a58cb",
@@ -681,18 +681,18 @@
       "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf078d399b77e8beb/6a29cba95f1b730af79d399f/usecyber_DC_Studio_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf078d399b77e8beb/6a29cba95f1b730af79d399f/usecyber_DC_Studio_shutterstock.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "id": "1202c9d33b8e901dd057cd77c4964c598ef0aed7",
       "title": "Bug Bounty Research Triggers ServiceNow Security Alert",
       "url": "https://www.darkreading.com/vulnerabilities-threats/bug-bounty-research-triggers-servicenow-security-alert",
       "published": "2026-06-10T20:07:53+00:00",
-      "summary": "Bug bounty research inadvertently led organizations to believe they were being breached through their ServiceNow instances.",
+      "summary": "Security research inadvertently led organizations to believe they were being breached through their ServiceNow instances.",
       "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt290942caaad1a625/6a29bb178ad5d7051c4e33ad/ServiceNow_Office-JHVEPhoto-Getty-2198127643.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt290942caaad1a625/6a29bb178ad5d7051c4e33ad/ServiceNow_Office-JHVEPhoto-Getty-2198127643.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "id": "6bc0dca2f462a95f77fa4edc52b9a894b8c7750b",
@@ -703,7 +703,7 @@
       "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6e0ea1e027e86d13/668c59f3ea2a358fd7724488/insurance(1800)_MUNGKHOOD_STUDIO_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6e0ea1e027e86d13/668c59f3ea2a358fd7724488/insurance(1800)_MUNGKHOOD_STUDIO_shutterstock.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "id": "c55f1e5ff8d78fafa2c9d3cabada230f00236120",
@@ -714,7 +714,7 @@
       "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd9f04666615ec204/6a2945035f1b736c589d3726/zeroday_Profit_Image_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd9f04666615ec204/6a2945035f1b736c589d3726/zeroday_Profit_Image_shutterstock.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "id": "3fa558dfbd2159606f058a7beb3914fe79b8271b",
@@ -725,7 +725,7 @@
       "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltad4e69f41e4f26c2/6a295351effe64868b4092ca/cyberwar-Pablo_Lagarto-RW91RR-Alamy-CP.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltad4e69f41e4f26c2/6a295351effe64868b4092ca/cyberwar-Pablo_Lagarto-RW91RR-Alamy-CP.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "id": "d808d5bfde4f167cb59d4e9000b43fb4cf8edc29",
@@ -736,7 +736,7 @@
       "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltfeb60ddfa47148e7/6a28821ad6dfcc1cd1233fa8/bugs_Andrii_Yalanskyi_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltfeb60ddfa47148e7/6a28821ad6dfcc1cd1233fa8/bugs_Andrii_Yalanskyi_shutterstock.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "id": "ec3d19c06d20f69d6ded68791914ca5b5c1eb03d",
@@ -747,18 +747,18 @@
       "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9d4ca3dbbeb264ba/6a286a746ec9d64778379e83/ghost-HadelProductions-getty-965743624.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9d4ca3dbbeb264ba/6a286a746ec9d64778379e83/ghost-HadelProductions-getty-965743624.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "id": "d3ff2bf7c0442cc7a244cb8c8a00a573ecc6bd9a",
       "title": "Miasma Supply Chain Worm Burrows Into 73 Microsoft Repositories",
       "url": "https://www.darkreading.com/application-security/miasma-supply-chain-worm-73-microsoft-repositories",
       "published": "2026-06-09T19:33:45+00:00",
-      "summary": "The attacks stemmed from a GitHub account that was also compromised in a previous Miasmi attack on Microsoft last month.",
+      "summary": "The attacks stemmed from a GitHub account that was also compromised in a previous Miasma attack on Microsoft last month.",
       "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9546d1e599a35cc3/6a285616b7d91f888c29b825/RMmicrosoft-DrewAngerer-Getty-967210856.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9546d1e599a35cc3/6a285616b7d91f888c29b825/RMmicrosoft-DrewAngerer-Getty-967210856.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "id": "09fed2fb1904c21e1468ae86fd5ae6153862e536",
@@ -769,7 +769,7 @@
       "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0de7e1fa7b975bb4/6a2830dd09a01a8cc3ee406e/bug-sankai-Getty-2192972249.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0de7e1fa7b975bb4/6a2830dd09a01a8cc3ee406e/bug-sankai-Getty-2192972249.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "id": "5d5f9379c9ef98845acafe853818c60084e82a25",
@@ -780,7 +780,7 @@
       "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb3e9e7f8b1495d3e/6a294dc3d3460a0ce848fa51/digital-storytelling_000018910842_istock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb3e9e7f8b1495d3e/6a294dc3d3460a0ce848fa51/digital-storytelling_000018910842_istock.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "id": "9b31592fe360ee61c5325e6f9b6c2263ca36ded8",
@@ -791,7 +791,7 @@
       "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt559ee8a9968e803d/6a271ee7c15726d93fd4c2b9/extortion_Koldunov_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt559ee8a9968e803d/6a271ee7c15726d93fd4c2b9/extortion_Koldunov_shutterstock.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "id": "22a6316fe4d1b376cdee82d57c74f16ad3355906",
@@ -802,7 +802,7 @@
       "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt75cb080a97fbfd24/6a271a9d80dcb50a4faaddac/secure_web_page-courtneyk-getty-2162167863.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt75cb080a97fbfd24/6a271a9d80dcb50a4faaddac/secure_web_page-courtneyk-getty-2162167863.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "id": "2226fa9a8fd4cbd7c704dd024b3951bbc8c22ea8",
@@ -813,7 +813,7 @@
       "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6e87d864551194fb/6a26ff5f6414327c23cf402f/Iran_Flag_Digital_traffic_analyzer_Getty_Images.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6e87d864551194fb/6a26ff5f6414327c23cf402f/Iran_Flag_Digital_traffic_analyzer_Getty_Images.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "id": "5357fd8f67b8aaa2c076546da9cefe170aa6a2a9",
@@ -824,7 +824,7 @@
       "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt56977f533b95c270/6a26ea099f6a67dda8a1f32c/hades-rudall30-Getty-1188397160.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt56977f533b95c270/6a26ea099f6a67dda8a1f32c/hades-rudall30-Getty-1188397160.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "id": "ab44da2afa3427caf752e401417e34474bdcd4da",
@@ -835,7 +835,7 @@
       "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt638e463ae5f7293b/6a231e099ba4ae078482ebfa/Fire_industrial_site-Yauhen_Akulich-Getty.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt638e463ae5f7293b/6a231e099ba4ae078482ebfa/Fire_industrial_site-Yauhen_Akulich-Getty.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "id": "657042ff6d1f6bef91a9dfc660d330f32dbc485f",
@@ -846,7 +846,7 @@
       "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt790ebbb60992f6b8/6a21d38a9f92caaf2208c2d5/AI-worm-spread-map-UoT.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt790ebbb60992f6b8/6a21d38a9f92caaf2208c2d5/AI-worm-spread-map-UoT.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "id": "d9d0ba7a6f9fec43b5d4ed465240fa9c9f79021c",
@@ -857,7 +857,7 @@
       "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt35b8e66ce856430b/6a21d4c69f92ca3dfa08c2dd/RMTrump_Signs_Executive_Order-Kevin_Dietsch-getty-2279671771.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt35b8e66ce856430b/6a21d4c69f92ca3dfa08c2dd/RMTrump_Signs_Executive_Order-Kevin_Dietsch-getty-2279671771.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "id": "984e279927adf67ef90dfc8ab9c3e00d4cc248f0",
@@ -868,7 +868,7 @@
       "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt705e8d4cc3766735/6a21e18d9f92ca732208c2ed/supplychain_Efkaysim_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt705e8d4cc3766735/6a21e18d9f92ca732208c2ed/supplychain_Efkaysim_shutterstock.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "id": "03b30e3e072796ccfaaeca35c8b85272968a8a32",
@@ -879,7 +879,7 @@
       "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7a874a07e705cab8/6a21d83653660505464e0115/China-filo-Getty.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7a874a07e705cab8/6a21d83653660505464e0115/China-filo-Getty.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "id": "7985e1bb098091c6ab7bbbf51ebbb39f39d2f348",
@@ -890,7 +890,7 @@
       "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc676a0962a0ea8fe/6a21d849a5de42bca35b6335/promptinjections-tadamichi-Getty-2254128440.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc676a0962a0ea8fe/6a21d849a5de42bca35b6335/promptinjections-tadamichi-Getty-2254128440.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "id": "b3cbc75ca99721b6fb77fb1cb47551b27221ee52",
@@ -901,7 +901,7 @@
       "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt54c8aa181780cfa7/6a2195015d57941c61b44ddd/GettyImages-2194925350.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt54c8aa181780cfa7/6a2195015d57941c61b44ddd/GettyImages-2194925350.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "id": "f87ee63c86642b18a0b645a7982dd979bd699046",
@@ -912,7 +912,7 @@
       "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb991e5256c40bcd1/6a205634289788f8c51207a1/Pakistan_Afghanistan-Oleksii_Liskonih-Getty.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb991e5256c40bcd1/6a205634289788f8c51207a1/Pakistan_Afghanistan-Oleksii_Liskonih-Getty.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "id": "d612e34d5dfac930606ca3e3abab3b8889ce17fa",
@@ -923,7 +923,7 @@
       "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt016007dbff30c0e1/6a2085be38e0c7c4b455ca45/Sophos_offices-Sundry_Photography-getty-1200830219.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt016007dbff30c0e1/6a2085be38e0c7c4b455ca45/Sophos_offices-Sundry_Photography-getty-1200830219.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "id": "e0b2bbe4608ff674d24a30528ed866fb2de6064e",
@@ -934,7 +934,7 @@
       "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltaa97395bb0805f7f/6a1f49d4c6f2ac73df1ebf16/old-globe-showing-south-america-jhonny_marcell_oportus-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltaa97395bb0805f7f/6a1f49d4c6f2ac73df1ebf16/old-globe-showing-south-america-jhonny_marcell_oportus-shutterstock.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "id": "387527de77883ebedafd65328c2b6ba7caca5f24",
@@ -945,7 +945,7 @@
       "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltccb00eced4dc6fb5/6a204f532928e1ceac7b3c4c/cyberinsurance-Poca_Wander_Stock-getty-1470986827.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltccb00eced4dc6fb5/6a204f532928e1ceac7b3c4c/cyberinsurance-Poca_Wander_Stock-getty-1470986827.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "id": "c0227c891b5dedae29007acb00491dfbb4637619",
@@ -956,7 +956,7 @@
       "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta6d9216f2cd41b4b/6a2015f94a4fc7d0bb15144e/Authentication_Zoonar_GmbH_Alamy.png?width=1280&auto=webp&quality=80&disable=upscale"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta6d9216f2cd41b4b/6a2015f94a4fc7d0bb15144e/Authentication_Zoonar_GmbH_Alamy.png?width=720&quality=80&disable=upscale"
     },
     {
       "id": "8cbfe36ad38458540a7ebda8e70f1edc95e4fabe",
@@ -967,7 +967,7 @@
       "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5b11efb4c67c9e8c/6a1f2620668c359305c948cc/AIappsphone-Nazar_Rybak-getty-2198117815.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5b11efb4c67c9e8c/6a1f2620668c359305c948cc/AIappsphone-Nazar_Rybak-getty-2198117815.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "id": "330a1122f8a803ba7d41dac455151d9de7600665",
@@ -978,7 +978,7 @@
       "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5908b752b625e143/6a1ef59f4a4fc7dbba150b40/Stocks_down-nagelestock.net-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5908b752b625e143/6a1ef59f4a4fc7dbba150b40/Stocks_down-nagelestock.net-Alamy.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "id": "8a8b764b8d115fa7e473fa11f8a9b434cd420e79",
@@ -989,7 +989,7 @@
       "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt29d6aa3a289232b2/6a18ab058bc1ea30bf4df571/zoom1800_M4OS_Photos_alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt29d6aa3a289232b2/6a18ab058bc1ea30bf4df571/zoom1800_M4OS_Photos_alamy.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "id": "ca195092e842fb81d877f4832bc065d14c4e3cb9",
@@ -1000,7 +1000,7 @@
       "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta4f731d1ead13c9d/6a1f3ff44bb1191264ce8b45/phishing_babar_ali_1233_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta4f731d1ead13c9d/6a1f3ff44bb1191264ce8b45/phishing_babar_ali_1233_shutterstock.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "id": "41e240ac639fbd9c21db02b3ba90360d958f782e",
@@ -1011,7 +1011,7 @@
       "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltffc3f8961236e781/6a1ebc8da5c0c3c931d33c0f/browser_Tada_Images_shutterstock.png?width=1280&auto=webp&quality=80&disable=upscale"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltffc3f8961236e781/6a1ebc8da5c0c3c931d33c0f/browser_Tada_Images_shutterstock.png?width=720&quality=80&disable=upscale"
     },
     {
       "id": "f68d8c2a170cea85dfa5731ca2359f3420840c71",
@@ -1022,7 +1022,7 @@
       "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt39042307a404a226/6a1de2a14bb119d786ce85f4/charlesbridgeprague-GarySandyWales-getty-2198931158.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt39042307a404a226/6a1de2a14bb119d786ce85f4/charlesbridgeprague-GarySandyWales-getty-2198931158.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "id": "5614e11053a64fca74d41d601dfde6a3135a639e",
@@ -1033,7 +1033,7 @@
       "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb353cb4eb8945ff6/6a1f007a2897886e9b11fcab/aiagents-Suchat_longthara-getty-2229177564.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb353cb4eb8945ff6/6a1f007a2897886e9b11fcab/aiagents-Suchat_longthara-getty-2229177564.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "id": "5ed17adebaad93592878d83ee24d1699b9651184",
@@ -1044,7 +1044,7 @@
       "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5c9210f3fa88fb2f/6a1ddb22a0b6da11e713e9c7/AIBrian-imaginima-GettyImages-2206927993.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5c9210f3fa88fb2f/6a1ddb22a0b6da11e713e9c7/AIBrian-imaginima-GettyImages-2206927993.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "id": "1576f044e42e3f2f41dcea4f7898812aa7d377b6",
@@ -1055,7 +1055,7 @@
       "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt301abc846275d0a4/6a1de7c8479f3e4dd25cf448/enisa_ricochet64_shuttrstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt301abc846275d0a4/6a1de7c8479f3e4dd25cf448/enisa_ricochet64_shuttrstock.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "id": "45f2a1ff6add633dac948b5e3403ab692febf38b",
@@ -1066,7 +1066,7 @@
       "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt110b7f1326599f0b/6a1dd3554d48bfcf20ade268/RMmicrosoft-DrewAngerer-Getty-675949746.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt110b7f1326599f0b/6a1dd3554d48bfcf20ade268/RMmicrosoft-DrewAngerer-Getty-675949746.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "id": "db78ab85179f9269be0d9a1e77af7a97304f4d3b",
@@ -1077,7 +1077,7 @@
       "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt225868f85dab8e5a/6a1d6cdb688dd44956baf7b6/Vulnerability_(1800)_Sergey_Tarasov_Alamy.png?width=1280&auto=webp&quality=80&disable=upscale"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt225868f85dab8e5a/6a1d6cdb688dd44956baf7b6/Vulnerability_(1800)_Sergey_Tarasov_Alamy.png?width=720&quality=80&disable=upscale"
     },
     {
       "id": "88ced96d51ee18c214572ed226da18a8d37849c0",
@@ -1088,7 +1088,7 @@
       "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltcecddc9a9b77560b/6a19f878719ad34f2440c903/dr20-toon-may26-final.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltcecddc9a9b77560b/6a19f878719ad34f2440c903/dr20-toon-may26-final.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "id": "2b5c9925322abeaef161aaa69273e608079b769b",
@@ -1099,7 +1099,7 @@
       "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd919de1e6eb08bb9/6a18cae74c25b5264e1e240f/Terminator-Over_There_Pics-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd919de1e6eb08bb9/6a18cae74c25b5264e1e240f/Terminator-Over_There_Pics-Alamy.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "id": "c1d29f0aac7ff36343802fc2ce1a429598b4fcb7",
@@ -1110,7 +1110,7 @@
       "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb9e3fbe8c75eb597/6a19745b69143b73c43502c5/Blue_globe_Asia_Jimmie_Tolliver_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb9e3fbe8c75eb597/6a19745b69143b73c43502c5/Blue_globe_Asia_Jimmie_Tolliver_Alamy.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "id": "43041307b972e7395975164b3e2fc8261bf90161",
@@ -1121,7 +1121,7 @@
       "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt33ea1925a9f97ba7/6a18a8b047696a7d03d6ca07/rube-goldberg-machine-complexity-T_N_Sursock-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt33ea1925a9f97ba7/6a18a8b047696a7d03d6ca07/rube-goldberg-machine-complexity-T_N_Sursock-shutterstock.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "id": "6e4681d4f1ae97ea3ed627b05b908c7da61882a9",
@@ -1132,7 +1132,7 @@
       "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltdf36383b6981cdfc/6a189af651a3babba50e026a/Hooded_crowd-John_Williams_RF-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltdf36383b6981cdfc/6a189af651a3babba50e026a/Hooded_crowd-John_Williams_RF-Alamy.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "id": "bce09b8a143246c47408c1dfec01935ae40a67fb",
@@ -1143,7 +1143,7 @@
       "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt75939e9e57fa1b91/6a1777b27e488fa22d7404ec/bulletproof_Viktollio_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt75939e9e57fa1b91/6a1777b27e488fa22d7404ec/bulletproof_Viktollio_shutterstock.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "id": "2a7572e94ca0ef808f0e740b72831f050bacaea5",
@@ -1154,7 +1154,7 @@
       "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt638feb7893167b94/6a186a557f1d278d580dc037/Remove_InformationWeek_Logo_from_Header_(1).png?width=1280&auto=webp&quality=80&disable=upscale"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt638feb7893167b94/6a186a557f1d278d580dc037/Remove_InformationWeek_Logo_from_Header_(1).png?width=720&quality=80&disable=upscale"
     },
     {
       "id": "c5972400b032b595e0515f4139bb19d8bb8c9262",
@@ -1165,7 +1165,7 @@
       "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0dbefeb02aa6a89d/6a184e146efe0009ef849df5/Black_box-Rawf8-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0dbefeb02aa6a89d/6a184e146efe0009ef849df5/Black_box-Rawf8-Alamy.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "id": "fa533570d4010f5535adb3464af39cc9032eeb8c",
@@ -1176,7 +1176,7 @@
       "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf9514fbeb5a1fa18/6a168d897e488f337374002f/insuranceload-Bordeianu_Andrei-alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf9514fbeb5a1fa18/6a168d897e488f337374002f/insuranceload-Bordeianu_Andrei-alamy.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "id": "ec2891006281593884eabab65a093d14f71dde53",
@@ -1187,7 +1187,7 @@
       "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt50056046e2acf85d/6a1805a808b87d2f6a04c317/androidmalware_rafapress_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt50056046e2acf85d/6a1805a808b87d2f6a04c317/androidmalware_rafapress_shutterstock.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "id": "171627d06d4b87956cc55d4876194e4027a2a0fc",
@@ -1198,7 +1198,7 @@
       "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt70c6acdf0ad722a2/6a17391e011a18831c6e30bd/Nordic_flags-Eric_D_ricochet69-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt70c6acdf0ad722a2/6a17391e011a18831c6e30bd/Nordic_flags-Eric_D_ricochet69-Alamy.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "id": "70c7082f3cb0c9e2c2dadd157b18a8b32327447d",
@@ -1209,7 +1209,18 @@
       "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8feb125a519f8c9d/6a1745ffd8e1c3494b5e2e18/angry_businessman_Liubomyr_Vorona_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8feb125a519f8c9d/6a1745ffd8e1c3494b5e2e18/angry_businessman_Liubomyr_Vorona_Alamy.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "id": "df18e1f1c8f989c95ff8b24d50bee38fe4ba00d0",
+      "title": "Every employee\u2019s password was stored in a single Excel file",
+      "url": "https://www.theregister.com/security/2026/06/11/every-employees-password-was-stored-in-a-single-excel-file/5253784",
+      "published": "2026-06-11T07:00:00+00:00",
+      "summary": "The CEO thought this was the best way to deal with some email issues",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=5253807&width=800"
     },
     {
       "id": "28927819170eaee0af5a6d176f31bba9171d45e1",
@@ -1751,121 +1762,198 @@
       "image": "https://image.theregister.com/?imageId=5248172&width=800"
     },
     {
-      "id": "ee2f520aff6c76cecb492d67a788c0a594a7507f",
-      "title": "Russia-linked threat group put ChatGPT to work from lure to payload",
-      "url": "https://www.theregister.com/research/2026/05/29/russia-linked-threat-group-put-chatgpt-to-work-from-lure-to-payload/5248368",
-      "published": "2026-05-29T11:49:45+00:00",
-      "summary": "Researchers say 'GREYVIBE' crew used AI tools throughout a campaign targeting Ukrainian military and government",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=5248389&width=800"
+      "id": "80adc8ee797979464a110873714d5e649bab4c78",
+      "title": "Who Runs the Ransomware Group \u2018The Gentlemen?\u2019",
+      "url": "https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/",
+      "published": "2026-06-10T14:03:44+00:00",
+      "summary": "A cybercrime group known as The Gentlemen has emerged as the second most active ransomware gang by victim count, rapidly attracting a talented pool of hackers through an aggressive recruitment strategy that promises affiliates 90 percent of any ransom paid by victims. This post examines clues pointing to a real life identity for the administrator of The Gentlemen ransomware group.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "87adbf60c7d61efa71001463c3ba29dddf097a3f",
-      "title": "Infostealers Turn Millions of Devices Into Credential Theft Machines",
-      "url": "https://www.securityweek.com/infostealers-turn-millions-of-devices-into-credential-theft-machines/",
-      "published": "2026-06-10T14:00:00+00:00",
-      "summary": "<p>As attackers increasingly favor stolen credentials over exploits, infostealers have become a primary source of access for ransomware and other cybercrime operations.</p>\n<p>The post <a href=\"https://www.securityweek.com/infostealers-turn-millions-of-devices-into-credential-theft-machines/\">Infostealers Turn Millions of Devices Into Credential Theft Machines</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "id": "98107abac4cd4a9bf69a5fd3d3c264aa34fb9c64",
+      "title": "A Record-Breaking Patch Tuesday for June 2026",
+      "url": "https://krebsonsecurity.com/2026/06/a-record-breaking-patch-tuesday-for-june-2026/",
+      "published": "2026-06-09T22:07:28+00:00",
+      "summary": "Microsoft today released software updates to plug nearly 200 security holes across its Windows operating systems and supported software, a record number of fixes for the company's monthly Patch Tuesday cycle. Nearly three dozen of those bugs earned Microsoft's most dire \"critical\" rating, and exploit code for at least three of the weaknesses is now publicly available.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "98cb187e46e268fca6d742e73673a27899384710",
+      "title": "Hackers Used Meta\u2019s AI Support Bot to Seize Instagram Accounts",
+      "url": "https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/",
+      "published": "2026-06-01T17:32:50+00:00",
+      "summary": "The Instagram accounts for the Obama White House and the Chief Master Sergeant of the U.S. Space Force were briefly defaced with pro-Iranian images and messages over the weekend, after instructions began circulating on Telegram showing how to trick Meta's \"AI support assistant\" bot into resetting account passwords.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "9180696aa4788b0b2cc3ec55e64f2688433c1cd4",
+      "title": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
+      "url": "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/",
+      "published": "2026-05-25T13:21:49+00:00",
+      "summary": "Authorities in the Netherlands have arrested the co-owners of two related Internet hosting companies for operating IT infrastructure used by Russia to carry out cyberattacks, influence operations and disinformation campaigns inside the European Union. The two men were the focus of a 2025 KrebsOnSecurity story about how their hosting companies had assumed control over the technical infrastructure of Stark Industries Solutions, an Internet service provider sanctioned last year by the EU as a frequent staging ground for cyber mischief from Russia's intelligence agencies.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "3a3864b8f93c992b25cade077afc58dfde59a3a2",
+      "title": "Lawmakers Demand Answers as CISA Tries to Contain Data Leak",
+      "url": "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/",
+      "published": "2026-05-22T16:34:24+00:00",
+      "summary": "Lawmakers in both houses of Congress are demanding answers from the U.S. Cybersecurity &#038; Infrastructure Security Agency (CISA) after KrebsOnSecurity reported this week that a CISA contractor intentionally published AWS GovCloud keys and a vast trove of other agency secrets on a public GitHub account. The inquiry comes as CISA is still struggling to contain the breach and invalidate the leaked credentials.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "b18b50288d0bd38f70cf508a9d36d83e7239ea42",
+      "title": "Alleged Kimwolf Botmaster \u2018Dort\u2019 Arrested, Charged in U.S. and Canada",
+      "url": "https://krebsonsecurity.com/2026/05/alleged-kimwolf-botmaster-dort-arrested-charged-in-u-s-and-canada/",
+      "published": "2026-05-21T21:50:25+00:00",
+      "summary": "Canadian authorities on Wednesday arrested a 23-year-old Ottawa man on suspicion of building and operating Kimwolf, a fast spreading Internet-of-Things botnet that enslaved millions of devices for use in a series of massive distributed denial-of-service (DDoS) attacks over the past six months. KrebsOnSecurity publicly named the suspect in February 2026 after the accused launched a volley of DDoS, doxing and swatting campaigns against this author and a security researcher. He now faces criminal hacking charges in both Canada and the United States.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "94138721a3a5194919ce144a496ac0f5dc5ee0c1",
+      "title": "CISA Admin Leaked AWS GovCloud Keys on Github",
+      "url": "https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/",
+      "published": "2026-05-18T20:48:21+00:00",
+      "summary": "Until this past weekend, a contractor for the Cybersecurity &#038; Infrastructure Security Agency (CISA) maintained a public GitHub repository that exposed credentials to several highly privileged AWS GovCloud accounts and a large number of internal CISA systems. Security experts said the public archive included files detailing how CISA builds, tests and deploys software internally, and that it represents one of the most egregious government data leaks in recent history.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "1272da189124f766c0a7e7669dee01d4e630100e",
+      "title": "Patch Tuesday, May 2026 Edition",
+      "url": "https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/",
+      "published": "2026-05-12T21:46:45+00:00",
+      "summary": "Artificial intelligence platforms may be just as susceptible to social engineering as human beings, but they are proving remarkably good at finding security vulnerabilities in human-made computer code. That reality is on full display this month with some of the more widely-used software makers -- including Apple, Google, Microsoft, Mozilla and Oracle -- fixing near record volumes of security bugs, and/or quickening the tempo of their patch releases.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "9d0a8ee6517804766c948f0475dc81a89f28b1c0",
+      "title": "Oracle Addresses PeopleSoft Vulnerability Amid Reports of Zero-Day Attacks",
+      "url": "https://www.securityweek.com/oracle-addresses-peoplesoft-vulnerability-amid-reports-of-zero-day-attacks/",
+      "published": "2026-06-11T13:57:54+00:00",
+      "summary": "<p>Oracle has released mitigations for CVE-2026-35273, but it has not said whether it\u2019s a zero-day exploited in ShinyHunters attacks.</p>\n<p>The post <a href=\"https://www.securityweek.com/oracle-addresses-peoplesoft-vulnerability-amid-reports-of-zero-day-attacks/\">Oracle Addresses PeopleSoft Vulnerability Amid Reports of Zero-Day Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "8fc1927a3e1ffbd358ddcd9b359a5862552b8547",
-      "title": "Cyera Raises $600 Million at $12 Billion Valuation",
-      "url": "https://www.securityweek.com/cyera-raises-600-million-at-12-billion-valuation/",
-      "published": "2026-06-10T13:48:36+00:00",
-      "summary": "<p>Cyera is positioned as one of the most valuable privately held cybersecurity firms in the world with total funding topping $2 billion.</p>\n<p>The post <a href=\"https://www.securityweek.com/cyera-raises-600-million-at-12-billion-valuation/\">Cyera Raises $600 Million at $12 Billion Valuation</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "id": "d7dfe8d35488fe3010b12fce827fb12d316cded8",
+      "title": "Alert Fatigue Is Becoming a Security Threat of Its Own",
+      "url": "https://www.securityweek.com/alert-fatigue-is-becoming-a-security-threat-of-its-own/",
+      "published": "2026-06-11T13:45:00+00:00",
+      "summary": "<p>As alert volumes outpace human capacity, organizations are turning to AI, automation, and deeper context to separate real threats from the noise.</p>\n<p>The post <a href=\"https://www.securityweek.com/alert-fatigue-is-becoming-a-security-threat-of-its-own/\">Alert Fatigue Is Becoming a Security Threat of Its Own</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "3d5f577c952f69ef17d28449a08e242cd092412d",
-      "title": "Aryon Security Raises $29 Million in Series A Funding",
-      "url": "https://www.securityweek.com/aryon-security-raises-29-million-in-series-a-funding/",
-      "published": "2026-06-10T12:24:20+00:00",
-      "summary": "<p>In the post-Mythos era, the company\u2019s platform helps organizations enforce security controls across environments.</p>\n<p>The post <a href=\"https://www.securityweek.com/aryon-security-raises-29-million-in-series-a-funding/\">Aryon Security Raises $29 Million in Series A Funding</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "id": "86dcf15b4e0e9077c52c6ff76838fce58db54130",
+      "title": "CISA Directs Federal Agencies to Prioritize Security Patches Based on Risk",
+      "url": "https://www.securityweek.com/cisa-directs-federal-agencies-to-prioritize-security-patches-based-on-risk/",
+      "published": "2026-06-11T13:01:14+00:00",
+      "summary": "<p>The new BOD 26-04 requires agencies to review and update vulnerability management policies with a focus on KEV catalog entries.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisa-directs-federal-agencies-to-prioritize-security-patches-based-on-risk/\">CISA Directs Federal Agencies to Prioritize Security Patches Based on Risk</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "02c4a4a88ed10f98a139d41839514071a541a74d",
-      "title": "Critical HVAC and UPS Vulnerabilities Could Let Hackers Disrupt Data Centers",
-      "url": "https://www.securityweek.com/critical-hvac-and-ups-vulnerabilities-could-let-hackers-disrupt-data-centers/",
-      "published": "2026-06-10T12:07:58+00:00",
-      "summary": "<p>Claroty researchers have analyzed the security of Vertiv UPS network cards and the Trane Tracer SC+ HVAC controller.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-hvac-and-ups-vulnerabilities-could-let-hackers-disrupt-data-centers/\">Critical HVAC and UPS Vulnerabilities Could Let Hackers Disrupt Data Centers</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "id": "bbf1b105b0c1b5c8ebd420070ae92fa457793a7d",
+      "title": "OnyxC2 Stealer Offers Cybercriminals Enterprise-Grade Theft for $250 a Month",
+      "url": "https://www.securityweek.com/onyxc2-stealer-offers-cybercriminals-enterprise-grade-theft-for-250-a-month/",
+      "published": "2026-06-11T13:00:00+00:00",
+      "summary": "<p>Researchers say the OnyxC2 malware targets more than 200 applications and extensions while evading detection through encrypted payloads, DLL sideloading, and in-memory execution techniques.</p>\n<p>The post <a href=\"https://www.securityweek.com/onyxc2-stealer-offers-cybercriminals-enterprise-grade-theft-for-250-a-month/\">OnyxC2 Stealer Offers Cybercriminals Enterprise-Grade Theft for $250 a Month</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "702e3376161be8186163a11b2627f531d161e4f3",
-      "title": "CISO Forum Webinar Today: 2026 Mid-Year Review",
-      "url": "https://www.securityweek.com/ciso-forum-webinar-today-2026-mid-year-review/",
-      "published": "2026-06-10T12:00:00+00:00",
-      "summary": "<p>Learn more about protecting against unmonitored use of generative AI (Shadow AI) in business units and building and enforcing AI governance frameworks.</p>\n<p>The post <a href=\"https://www.securityweek.com/ciso-forum-webinar-today-2026-mid-year-review/\">CISO Forum Webinar Today: 2026 Mid-Year Review</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "id": "fabd656d246d8da5fe33666896affc76f54956ee",
+      "title": "Hackers Exploit Langflow Vulnerability for Remote Code Execution",
+      "url": "https://www.securityweek.com/hackers-exploit-langflow-vulnerability-for-remote-code-execution/",
+      "published": "2026-06-11T11:52:59+00:00",
+      "summary": "<p>Disclosed in March, the security defect enables unauthenticated attackers to write files to arbitrary locations on the system.</p>\n<p>The post <a href=\"https://www.securityweek.com/hackers-exploit-langflow-vulnerability-for-remote-code-execution/\">Hackers Exploit Langflow Vulnerability for Remote Code Execution</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "2412a6209dc562670fe373c2de32c71663dabbdb",
-      "title": "New Windows Zero-Day Exploit \u2018RoguePlanet\u2019 Released",
-      "url": "https://www.securityweek.com/new-windows-zero-day-exploit-rogueplanet-released/",
-      "published": "2026-06-10T11:44:39+00:00",
-      "summary": "<p>Exploiting a race condition in Microsoft Defender, the exploit leads to local privilege escalation to SYSTEM.</p>\n<p>The post <a href=\"https://www.securityweek.com/new-windows-zero-day-exploit-rogueplanet-released/\">New Windows Zero-Day Exploit &#8216;RoguePlanet&#8217; Released</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "id": "04d008004b7bd68f83fc2040074c5b02706b5070",
+      "title": "Siemens Says Desigo CC Files Flagged as Malware by Security Engines",
+      "url": "https://www.securityweek.com/siemens-says-desigo-cc-files-flagged-as-malware-by-security-engines/",
+      "published": "2026-06-11T11:40:27+00:00",
+      "summary": "<p>A PowerShell script included in patch files appears to be triggering false positives by multiple security engines.</p>\n<p>The post <a href=\"https://www.securityweek.com/siemens-says-desigo-cc-files-flagged-as-malware-by-security-engines/\">Siemens Says Desigo CC Files Flagged as Malware by Security Engines</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "d6bec6b9841c5f6fb9268ec351c39603670dbb5d",
-      "title": "After AI Reaches Production: 12 Ways Security Teams Can Take Control",
-      "url": "https://www.securityweek.com/after-ai-reaches-production-12-ways-security-teams-can-take-control/",
-      "published": "2026-06-10T11:00:00+00:00",
-      "summary": "<p>Security teams need more than visibility into AI applications, they need a repeatable framework for monitoring, investigating, and defending them in production.</p>\n<p>The post <a href=\"https://www.securityweek.com/after-ai-reaches-production-12-ways-security-teams-can-take-control/\">After AI Reaches Production: 12 Ways Security Teams Can Take Control</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "id": "45bdb59b5ce81ca6bca0d1e6ba5162efd469b2de",
+      "title": "FBI Seizes 13 Websites That Officials Say Were Used by China to Target and Recruit US Workers",
+      "url": "https://www.securityweek.com/fbi-seizes-13-websites-that-officials-say-were-used-by-china-to-target-and-recruit-us-workers/",
+      "published": "2026-06-11T11:06:22+00:00",
+      "summary": "<p>The 13 websites purported to be affiliated with consulting companies that advertised job openings for current and former holders of security clearances</p>\n<p>The post <a href=\"https://www.securityweek.com/fbi-seizes-13-websites-that-officials-say-were-used-by-china-to-target-and-recruit-us-workers/\">FBI Seizes 13 Websites That Officials Say Were Used by China to Target and Recruit US Workers</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "b4f1faad3b45d88730fa28947517ac9857a709f9",
-      "title": "ServiceNow Patches Vulnerability Exploited Against Some Customers",
-      "url": "https://www.securityweek.com/servicenow-patches-vulnerability-exploited-against-some-customers/",
-      "published": "2026-06-10T09:45:35+00:00",
-      "summary": "<p>The company updated hosted customer instances to patch a security issue it reportedly had known about since April 7.</p>\n<p>The post <a href=\"https://www.securityweek.com/servicenow-patches-vulnerability-exploited-against-some-customers/\">ServiceNow Patches Vulnerability Exploited Against Some Customers</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "id": "799f3bdadd0f60ddf7ca74d9b264e2d8b0ef00a8",
+      "title": "Splunk, Palo Alto Networks Patch Severe Vulnerabilities",
+      "url": "https://www.securityweek.com/splunk-palo-alto-networks-patch-severe-vulnerabilities/",
+      "published": "2026-06-11T10:47:48+00:00",
+      "summary": "<p>The security defects could allow attackers to create or modify arbitrary files and access and modify protected resources.</p>\n<p>The post <a href=\"https://www.securityweek.com/splunk-palo-alto-networks-patch-severe-vulnerabilities/\">Splunk, Palo Alto Networks Patch Severe Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "01d6cf3859df6ed853340a3bc0c7626bcfdf8710",
-      "title": "Critical Vulnerabilities Patched in Fortinet, Ivanti Products",
-      "url": "https://www.securityweek.com/critical-vulnerabilities-patched-in-fortinet-ivanti-products/",
-      "published": "2026-06-10T08:50:12+00:00",
-      "summary": "<p>Two OS command injection flaws can be exploited remotely, without authentication, for arbitrary code execution.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-vulnerabilities-patched-in-fortinet-ivanti-products/\">Critical Vulnerabilities Patched in Fortinet, Ivanti Products</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "id": "5a9821146a04f061d80114b39785822a8e069130",
+      "title": "\u2018GreatXML\u2019 Zero-Day Exploit Bypasses BitLocker",
+      "url": "https://www.securityweek.com/greatxml-zero-day-exploit-bypasses-bitlocker/",
+      "published": "2026-06-11T09:56:12+00:00",
+      "summary": "<p>The PoC exploits Microsoft Defender\u2019s offline scan to spawn a SYSTEM shell when rebooting in Recovery Mode.</p>\n<p>The post <a href=\"https://www.securityweek.com/greatxml-zero-day-exploit-bypasses-bitlocker/\">&#8216;GreatXML&#8217; Zero-Day Exploit Bypasses BitLocker</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "4d8c462853f654ffcebf375c7e7ac58b6f13a1c7",
-      "title": "ICS Patch Tuesday: Vulnerabilities Fixed by Siemens, Schneider, Phoenix Contact",
-      "url": "https://www.securityweek.com/ics-patch-tuesday-vulnerabilities-fixed-by-siemens-schneider-phoenix-contact/",
-      "published": "2026-06-10T07:38:41+00:00",
-      "summary": "<p>In addition, Rockwell Automation announced some enhancements to its SecureOT cybersecurity solution for OT.</p>\n<p>The post <a href=\"https://www.securityweek.com/ics-patch-tuesday-vulnerabilities-fixed-by-siemens-schneider-phoenix-contact/\">ICS Patch Tuesday: Vulnerabilities Fixed by Siemens, Schneider, Phoenix Contact</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "id": "2522b0c2c7fd0c82bbffcd521fb1072abc72da6e",
+      "title": "University of Nottingham Confirms Breach After Hackers Leak Data",
+      "url": "https://www.securityweek.com/university-of-nottingham-confirms-breach-after-hackers-leak-data/",
+      "published": "2026-06-11T08:30:02+00:00",
+      "summary": "<p>The ShinyHunters hacker group has taken credit for the attack, leaking more than 450,000 email addresses and other information.</p>\n<p>The post <a href=\"https://www.securityweek.com/university-of-nottingham-confirms-breach-after-hackers-leak-data/\">University of Nottingham Confirms Breach After Hackers Leak Data</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
