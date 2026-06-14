@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-13T13:16:50.433405+00:00",
+  "generated_at": "2026-06-14T02:09:07.764274+00:00",
   "items": [
     {
       "id": "c61f8741ddb572f9ad295c7dc582f99643470a86",
@@ -110,6 +110,17 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "b8637632f12378a52e5b8b5ca056785bf48804b5",
+      "title": "Critical Splunk Enterprise Flaw Lets Attackers Run Code Without Authentication",
+      "url": "https://thehackernews.com/2026/06/critical-splunk-enterprise-flaw-lets.html",
+      "published": "2026-06-13T13:23:03+00:00",
+      "summary": "Splunk has released security updates to address a critical security flaw in Splunk Enterprise that could be exploited to conduct unauthenticated file operations and even remote code execution.\n\nThe vulnerability, tracked as CVE-2026-20253, is rated 9.8 on the CVSS scoring system.\n\n\"In Splunk Enterprise versions below 10.2.4 and 10.0.7, an unauthenticated user could create or truncate arbitrary",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7NRzSRKbGdsTj1TIWcks4nX5u6n1U2vl5hxJ8KKFZ-JCAKlMQPXQNHA1i0otd63wcKJoZbeEc3oVa9o4uYNTRkRyZaJsJVGV7JUmlqjY5mQkrOXFQJXmUT1kOIZPU6CRdlwx6X7lyi7Iffz7gUIC-nYc2N1dzmiuo2hyphenhyphenPURZ3nKdQcsbLACKidjOeTbRh/s1600/splunk.jpg"
     },
     {
       "id": "b1f3dcdab611d040c34fea3ffd14984481e445d8",
@@ -649,17 +660,6 @@
       "region": "North America",
       "country": "US",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKr3KoscB_oGLqU5_JV16DIaB7jXY1ko8PiJDTuwrxbHcZV2DYJpfkx8lqwNbscwTSTVQUMwd8vBf-nI13mQE7vzzmUzwKF3BF6q7s5Lnq7kG7CovDsKaHYlvKpEXo2cvNk4mA27BdJSI6buZLqtVCKhYQ31GOaozmEHQecUa9Zdt-jwFJIZ0OCvlF27_p/s1600/smart-tv.jpg"
-    },
-    {
-      "id": "9aa006a1695aa5e803e415b9e2754fd24b6b28be",
-      "title": "CISA Adds Actively Exploited SolarWinds Serv-U DoS Flaw to KEV Catalog",
-      "url": "https://thehackernews.com/2026/06/cisa-adds-actively-exploited-solarwinds.html",
-      "published": "2026-06-06T08:14:31+00:00",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a high-severity security flaw impacting SolarWinds Serv-U  multi-protocol file server software to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\n\nThe vulnerability, tracked as CVE-2026-28318 (CVSS score: 7.5), is a denial-of-service (DoS) bug that causes the service to crash",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQ_ZbsHhh5kUS5501itVSeBa91H50qNfHH_PQ1_2WEDLi-B_eKslYeu1_43fNAW55Z9TVR5ae8ZIGDm4vZQS0B7IHvG9Gdp4Knzt8QB1E7317tyEVhJYR8xo1HJ_vf6Ynrdtfj_u-pcryZ5NVulL7vw_9KLaGomIjKe40GYClUu-FDtXXwuKAfK7V8mKN-/s1600/solarwinds-serv-u.jpg"
     },
     {
       "id": "9acd328765bdf598cd6871a30d2bdbe23770ad43",
@@ -1839,6 +1839,17 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "747f56045e85b613d5214c4f2f45bc9429f8477e",
+      "title": "NPM 12 Will Change Script Execution Behavior to Prevent Supply Chain Attacks",
+      "url": "https://www.securityweek.com/npm-12-will-change-script-execution-behavior-to-prevent-supply-chain-attacks/",
+      "published": "2026-06-13T15:52:58+00:00",
+      "summary": "<p>By default, npm install will no longer execute scripts from dependencies, unless explicitly allowed.</p>\n<p>The post <a href=\"https://www.securityweek.com/npm-12-will-change-script-execution-behavior-to-prevent-supply-chain-attacks/\">NPM 12 Will Change Script Execution Behavior to Prevent Supply Chain Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "46fc9c655331ccf79471b57598db798b529a238f",
       "title": "Anthropic Says It Has Taken Its Latest AI Models Offline to Comply With New Export Controls",
       "url": "https://www.securityweek.com/anthropic-says-it-has-taken-its-latest-ai-models-offline-to-comply-with-new-export-controls/",
@@ -1932,17 +1943,6 @@
       "url": "https://www.securityweek.com/oracle-addresses-peoplesoft-vulnerability-amid-reports-of-zero-day-attacks/",
       "published": "2026-06-11T13:57:54+00:00",
       "summary": "<p>Oracle has released mitigations for CVE-2026-35273, but it has not said whether it\u2019s a zero-day exploited in ShinyHunters attacks.</p>\n<p>The post <a href=\"https://www.securityweek.com/oracle-addresses-peoplesoft-vulnerability-amid-reports-of-zero-day-attacks/\">Oracle Addresses PeopleSoft Vulnerability Amid Reports of Zero-Day Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "d7dfe8d35488fe3010b12fce827fb12d316cded8",
-      "title": "Alert Fatigue Is Becoming a Security Threat of Its Own",
-      "url": "https://www.securityweek.com/alert-fatigue-is-becoming-a-security-threat-of-its-own/",
-      "published": "2026-06-11T13:45:00+00:00",
-      "summary": "<p>As alert volumes outpace human capacity, organizations are turning to AI, automation, and deeper context to separate real threats from the noise.</p>\n<p>The post <a href=\"https://www.securityweek.com/alert-fatigue-is-becoming-a-security-threat-of-its-own/\">Alert Fatigue Is Becoming a Security Threat of Its Own</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
