@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T16:16:14.252099+00:00",
+  "generated_at": "2026-06-17T02:12:51.406111+00:00",
   "items": [
     {
       "id": "7dd16abfa48bbda18cd5ca9f34af2a02f907574a",
@@ -110,6 +110,28 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "3ebb81c04abbd52eef11f38c22c0da7cefef8304",
+      "title": "Google Vertex AI SDK Flaw Let Attackers Hijack Model Uploads via Bucket Squatting",
+      "url": "https://thehackernews.com/2026/06/google-vertex-ai-sdk-flaw-let-attackers.html",
+      "published": "2026-06-16T19:05:41+00:00",
+      "summary": "A flaw in the Google Cloud Vertex AI SDK for Python let an attacker with no access to a victim's project hijack the victim's machine learning model upload and run code inside Google's serving infrastructure.\n\nPalo Alto Networks Unit 42, which found and reported the bug through Google's bug bounty program, calls the technique \"Pickle in the Middle\" and said it saw no exploitation in the wild.",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpiAGZTnvo43enaVYkna4ZSp217mwwW5kW8kZOhaSiLAxicjvHQY-3d8rdLN47bsRvxUIj6R0h_Ttr8NcIJrgz6k_mbcx94KLuPD29KdhFcYQsrV8htgg_iDYMV9aXbr21kv6BdYTzLNOOqQLpsCfpDC4XxDPnu77uVQ3oCYbIUfIpUKdmqx-rZZWj6P0/s1600/Google-Vertex-AI.jpg"
+    },
+    {
+      "id": "c402e3cb0aef8e32f0fec579cb2d131d98910d6e",
+      "title": "ClickFix Campaigns Expand Malware Delivery With New Loaders and Fake Update Lures",
+      "url": "https://thehackernews.com/2026/06/clickfix-campaigns-expand-malware.html",
+      "published": "2026-06-16T17:41:28+00:00",
+      "summary": "Cybersecurity researchers have flagged multiple ClickFix campaigns that deliver three malware loaders called BabaDeda Loader, Lorem Ipsum Loader, and Potemkin, per independent reports from Morphisec, BlueVoyant, and Huntress, respectively.\n\nAttacks involving BabaDeda Loader, observed in April 2026, have targeted education and financial organizations.\n\n\"Earlier BabaDeda activity was known for",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilHq1gG2gCazQF6_B9H-W3ck6nmgu3L4IPuzaMg9RMEAbpHyVqfYmFOquQ9_ldT1kG2r1kYUqt-WlpWWvD3DA4vNH6S-lv6fbsDbSCkB55NP3TtRJA4l5lLCMzosdM1OJiDOatfx4zG284ftwuE9ahYlGfcIpnAy1PkVSfWloFY0zD9Cbh3CkHhNQHgqwF/s1600/clickfix-attacks.jpg"
     },
     {
       "id": "6cc7da3bbd8bb8e9f95dff24a19806cc8d19ed16",
@@ -640,26 +662,48 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaIM_y_SajgbuzxJeP8uc2J0ZdX_6Izzhyphenhypheny9PANPhj_Ci0ylC6gnMhvvgeCzMT_AGAQDcAaKpyj_auV5wD8iTtvcfKocAwD61XRdHarhEVyMi9qlmE4aN1wgPOBFP8dH2SWiQh2OPuXY1kAajjypM-Jr1UUpJ_e6L9NInsVJ1qK4nlUFV0zJlR6kn9clw4/s1600/veeam.jpg"
     },
     {
-      "id": "a9e3028ff3a5b45a869621ff5b66be33fac19e63",
-      "title": "Microsoft Restores Some GitHub Repos, Keeps Others Offline as Miasma Probe Continues",
-      "url": "https://thehackernews.com/2026/06/microsoft-restores-some-github-repos.html",
-      "published": "2026-06-09T16:34:52+00:00",
-      "summary": "Microsoft on Monday confirmed that it temporarily removed some GitHub repositories in response to a recent security incident that led to 73 of its open-source projects being compromised to inject an information stealer into the code.\n\n\"Our priority is to protect customers and the broader ecosystem,\" a Microsoft spokesperson told The Hacker News via email. \"We temporarily removed some",
-      "source": "The Hacker News",
+      "id": "ece8ff491e2e754854786936849e0e05c9be7e28",
+      "title": "Fileless Phantom Stealer Targets Browser Credentials",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/fileless-phantom-stealer-targets-browser-credentials",
+      "published": "2026-06-16T22:26:34+00:00",
+      "summary": "In addition to executing entirely in memory, the malware's infection chain incorporates other anti-analysis techniques designed to frustrate detection.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhS-7rxJRihxTgaEj0a_mk4hVtMdwpHB8Gfd5ZgctcXcjOdEnSEJr9Qao5B5kpk2QBpumULMvNi1ZPptGJnA3NhAres2k9CGwhCQTfMciEcl2otHHvKxU9j9AkTyAgANeYS_CCY9WOip8lBCi6cq8JgPr_oqnuw-lpp53u881dYUrH8KzU8xLNPK6Lube-x/s1600/ms-worm.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltadd77c0d4b04586d/6a31b475a17ff4000802a374/browser_Wirestock_Creators_shutterstpck.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "id": "01c6bb31ec6ecc49b908317e1985e237d05d9e7e",
-      "title": "WinRAR Flaw Exploited by Russia-Aligned Groups to Deploy Stealers in Ukraine",
-      "url": "https://thehackernews.com/2026/06/winrar-flaw-exploited-by-russia-aligned.html",
-      "published": "2026-06-09T12:26:10+00:00",
-      "summary": "Two Russia-aligned cyber attack campaigns have continued to exploit a security flaw in WinRAR to target Ukrainian organisations, almost a year after patches for the vulnerability were released.\n\nThe activity has been attributed by Trend Micro to Earth Dahu (aka Gamaredon) and SHADOW-EARTH-066 (aka UAC-0226). It involves the exploitation of CVE-2025-8088, a path traversal flaw that allows an",
-      "source": "The Hacker News",
+      "id": "4f7b19cf8c6af5b97872d4ac1f9f0c98d60d6685",
+      "title": "Security Community Slams US Ban on Exporting Mythos, Fable",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/security-community-slams-us-ban-on-exporting-mythos-fable",
+      "published": "2026-06-16T22:00:06+00:00",
+      "summary": "An open letter signed by dozens of security experts asked the government to reverse export restrictions on Anthropic's Claude Fable 5 and Mythos 5 models.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpdAzGyUad4rioCXpoCvPwiGqto_MgCesTBLTn-1uBtWpWAXB99KN0xiE1oIqwDbVi_vkFDnn05XOxwH3WYjLkPNDykxieuftfe-wLFibGL1o8iiUuGfhiG5yYS7KXBV3gvdIYk5PFCurpn0-L77hajka35iE_a-JxWCaYeKc2Yej1gQrkcrQ61ijTm4HS/s1600/winrar-exploit.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9052366ce100fbde/6a319e7db95bcb00087d45a5/containers_and_fence-takenobu-getty-503860814.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "id": "02d12dab4b464c4f366af72769cdf6c931f0310b",
+      "title": "SprySOCKS Windows Variant Abuses Kernel Drivers to Evade Detection",
+      "url": "https://www.darkreading.com/threat-intelligence/sprysocks-windows-variant-kernel-drivers",
+      "published": "2026-06-16T20:11:48+00:00",
+      "summary": "FishMonger, a China-nexus threat group, has deployed an undocumented version of the Linux backdoor against government targets in Honduras, Taiwan, Thailand, and Pakistan.",
+      "source": "DarkReading",
+      "region": "North America",
+      "country": "US",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltfe5e902d31634190/6a317c8da9a64d0008e8660f/backdoor-BeeBright-Getty-823310866.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "id": "c1642974e2bdaf57eaf952edc69b04c6f0f6b1a7",
+      "title": "Rokarolla Android Trojan Levels Up to Full Device Control, Persistence",
+      "url": "https://www.darkreading.com/endpoint-security/rokarolla-android-trojan",
+      "published": "2026-06-16T17:32:32+00:00",
+      "summary": "The emerging malware, spread via fake TikTok and Chrome downloads, demonstrates an evolution by combining banking fraud with extensive device surveillance and remote control.",
+      "source": "DarkReading",
+      "region": "North America",
+      "country": "US",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte944aecde0e52350/6a31316af04b690008856967/androidmalware_rafapress_shutterstock.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "id": "507c720d1e83855eeffa38d03488ef1520b6335e",
@@ -671,6 +715,17 @@
       "region": "North America",
       "country": "US",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltfe24b349ccd004b9/6a30716a4159275a05cb9773/loremipsum_M_rehan330_shutterstock.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "id": "3fe7219a37b0f5d5be9fa174193fce61b4a59a04",
+      "title": "HTTP/2 Bomb Attacks Put Telcos, Healthcare Orgs at Risk",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/http-2-bomb-attacks-telcos-healthcare",
+      "published": "2026-06-15T19:31:37+00:00",
+      "summary": "The denial-of-service (DoS) exploit takes advantage of two features in HTTP/2 that were designed to save Internet bandwith, not power massive amplification attacks.",
+      "source": "DarkReading",
+      "region": "North America",
+      "country": "US",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt544afdc4276297e7/6a307eff99b973302bb6b118/HTTP2-zakokor-Getty.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "id": "9af4dedd76c2cf848855c5a0d22b90726e7b4c46",
@@ -1157,59 +1212,26 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb353cb4eb8945ff6/6a1f007a2897886e9b11fcab/aiagents-Suchat_longthara-getty-2229177564.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "id": "5ed17adebaad93592878d83ee24d1699b9651184",
-      "title": "Beyond Assume-Breach: How AI-Native Security Will Reshape Enterprise Defense",
-      "url": "https://www.darkreading.com/cyber-risk/assume-breach-ai-native-security-reshape-enterprise-defense",
-      "published": "2026-06-02T12:00:00+00:00",
-      "summary": "Twenty years after Dark Reading launched, we're looking ahead at what's next for enterprise security. Spoiler: It's hyper-segmented, AI-orchestrated, and way more sophisticated than your dad's firewall.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5c9210f3fa88fb2f/6a1ddb22a0b6da11e713e9c7/AIBrian-imaginima-GettyImages-2206927993.jpg?width=720&quality=80&disable=upscale"
+      "id": "cb9e542bb9d3e44686f585ae95c000c60304a7e8",
+      "title": "Python dev saved from disaster by intuition...and AI",
+      "url": "https://www.theregister.com/ai-and-ml/2026/06/16/python-dev-saved-from-disaster-by-intuitionand-ai/5256632",
+      "published": "2026-06-16T20:15:06+00:00",
+      "summary": "I'm sorry, Dave. I can't install that repo that will totally hose your system.",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=1683298&width=800"
     },
     {
-      "id": "1576f044e42e3f2f41dcea4f7898812aa7d377b6",
-      "title": "Anthropic to Open Mythos AI to EU's ENISA",
-      "url": "https://www.darkreading.com/cyber-risk/anthropic-mythos-ai-eu-enisa",
-      "published": "2026-06-01T21:07:48+00:00",
-      "summary": "The European security agency's entry to Project Glasswing is the result of &quot;strong bilateral cooperation&quot; between the European Commission and Anthropic.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt301abc846275d0a4/6a1de7c8479f3e4dd25cf448/enisa_ricochet64_shuttrstock.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "id": "45f2a1ff6add633dac948b5e3403ab692febf38b",
-      "title": "Microsoft's Zero-Day Legal Threats Spark Backlash",
-      "url": "https://www.darkreading.com/application-security/microsoft-zero-day-legal-threats-backlash",
-      "published": "2026-06-01T18:52:26+00:00",
-      "summary": "After a disgruntled security researcher published several zero-day exploits in recent weeks, Microsoft seemingly indicated criminal charges were in order.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt110b7f1326599f0b/6a1dd3554d48bfcf20ade268/RMmicrosoft-DrewAngerer-Getty-675949746.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "id": "db78ab85179f9269be0d9a1e77af7a97304f4d3b",
-      "title": "Patch Now: Another Palo Alto Auth Bypass Bug Under Active Exploit",
-      "url": "https://www.darkreading.com/threat-intelligence/patch-palo-alto-auth-bypass-bug-exploit",
-      "published": "2026-06-01T14:35:51+00:00",
-      "summary": "Exploiting the PAN-OS GlobalProtect VPN vulnerability requires certain conditions, but adversaries have done so in two attack waves that started in mid-May.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt225868f85dab8e5a/6a1d6cdb688dd44956baf7b6/Vulnerability_(1800)_Sergey_Tarasov_Alamy.png?width=720&quality=80&disable=upscale"
-    },
-    {
-      "id": "88ced96d51ee18c214572ed226da18a8d37849c0",
-      "title": "Name That Toon: Mark of (Cybersecurity) Progress",
-      "url": "https://www.darkreading.com/cloud-security/name-that-toon-mark-of-cybersecurity-progress",
-      "published": "2026-05-29T20:22:04+00:00",
-      "summary": "As part of Dark Reading's 20th anniversary package, we asked readers for a cybersecurity-related caption that captures their thoughts about the industry's last two decades.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltcecddc9a9b77560b/6a19f878719ad34f2440c903/dr20-toon-may26-final.jpg?width=720&quality=80&disable=upscale"
+      "id": "e8cda68dd8021eadfb473fe4268493c7138b6e54",
+      "title": "Three critical Fortinet sandbox bugs splattered by unknown attackers",
+      "url": "https://www.theregister.com/security/2026/06/16/three-critical-fortinet-sandbox-bugs-splattered-by-unknown-attackers/5256461",
+      "published": "2026-06-16T18:27:12+00:00",
+      "summary": "All have patches, so make sure you upgrade to a fixed version",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=5256503&width=800"
     },
     {
       "id": "50f5867e62a217edde32fb081b563e12e16aede4",
@@ -1738,28 +1760,6 @@
       "region": "Europe",
       "country": "UK",
       "image": "https://image.theregister.com/?imageId=258863&width=800"
-    },
-    {
-      "id": "0ad12743bffdcb8fdd0420e42ba3fe9f0a25980e",
-      "title": "All the passwords were stored in Active Directory description fields",
-      "url": "https://www.theregister.com/security/2026/06/04/all-the-passwords-were-stored-in-active-directory-description-fields/5250820",
-      "published": "2026-06-04T05:00:00+00:00",
-      "summary": "It was far too easy for a hacker to get the information",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=261457&width=800"
-    },
-    {
-      "id": "6099b33fb79bedc6415b20e8edb3399552f020a1",
-      "title": "Commvault says it's time to rethink resiliency as AI crooks leave victims in a 'dark, dead' state",
-      "url": "https://www.theregister.com/security/2026/06/03/commvault-says-its-time-to-rethink-resiliency-as-ai-crooks-leave-victims-in-a-dark-dead-state/5250894",
-      "published": "2026-06-03T22:31:29+00:00",
-      "summary": "Those backup plans need backup testing",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=5250915&width=800"
     },
     {
       "id": "80adc8ee797979464a110873714d5e649bab4c78",
