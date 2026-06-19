@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-19T02:38:39.402999+00:00",
+  "generated_at": "2026-06-19T14:34:07.672452+00:00",
   "items": [
     {
       "id": "f441403b12c6a881dbf882edda98be12b5883591",
@@ -112,6 +112,50 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "1a9662a1682ba1d263fd6545e2df1de13bcbf51d",
+      "title": "From Assistive to Agentic: The AI Shift That's Redefining Threat Management",
+      "url": "https://thehackernews.com/2026/06/from-assistive-to-agentic-ai-shift.html",
+      "published": "2026-06-19T11:58:00+00:00",
+      "summary": "Introduction\n\nThe average enterprise security team has 40 or more security tools, giving a lot of visibility into internal telemetry and asset data. But often, these tools are working in siloes, generating (overlapping) alerts and data. And yet, breach dwell times remain stubbornly long (~43 days), response windows keep closing before teams can act, and analysts burn out triaging noise instead",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaBfyINQL8sJZiLP4VnJgWMBOmH-8zY01vQ3E7OWZM9sdPvFQzOrFgaEpJOcRqODwrKDMXjt1HiKZmYYKF4pr22BBcbVBqx31coqBTKsgsf43CPEoW430X177toxpnfpVBTogjlrBMOrsLJgpERpCliEP4h5_2gyu3h2Dy_hJwiV6AI3nbKyp5NvNVgzQ/s1600/filigran-main.png"
+    },
+    {
+      "id": "015c988b6496f91942d368afb5d9fa4afefa4173",
+      "title": "Forget Data Leakage: Shadow AI's Real Threat Is Access Control",
+      "url": "https://thehackernews.com/2026/06/forget-data-leakage-shadow-ais-real.html",
+      "published": "2026-06-19T10:30:00+00:00",
+      "summary": "The first wave of enterprise AI concern was straightforward. It was simply employees pasting sensitive data into public AI tools. Security teams responded with usage policies, domain blocks, and data loss prevention rules. That response made sense at the time.\n\nIt doesn't fit the problem anymore.\n\nShadow AI has shifted from a data leakage concern to an access control problem. The threat isn't",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6R48ZeaNtIzMVc6atNjuxbNYFUfiFCJ_cE1qE_85yGOOavsX0ijvQGdv9QZ2-4Lky8mTOPhrNIydUvLS2DtGkkFXYJFRTT99Vbb03s3Rtk9pTariHdQ2on2RGxiAsMQnySj7AJfxUtBxO1aJTupjkQvDvt5jp1klznY9_WHckqm64F-BbCtCR2UoJ968/s1600/tines-main.jpg"
+    },
+    {
+      "id": "2ebe1bd68321b3df0b9b67697e8024074bfb44e0",
+      "title": "Salesforce Disables Klue App Integration After OAuth Token Abuse Exposes Customer Data",
+      "url": "https://thehackernews.com/2026/06/salesforce-disables-klue-app.html",
+      "published": "2026-06-19T09:03:57+00:00",
+      "summary": "Salesforce has revealed that it disabled the Klue Battlecards app integration within its platform in response to a security incident impacting the competitive intelligence company on June 11, 2026.\n\nTo that end, organizations will be unable to connect to Salesforce via the app until further notice, the American cloud-based software company noted in an alert published this week.\n\n\"Salesforce took",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgI7q_DYP5ExkNSDd8Y10rOfYtTIs6sNXxdE6X55nsvKVllZZ14U9mqUY23nzGGPhXx515NVPMI5Btp4MM5qUx0V1lKDvURtKBICbblPPYuN1VSCN12-J0RmpBKCSM0veZc_9hNt1TnD9PdkNTQi8x337E9cPmLn7uyHOPw0_HshcbxKqVnmgOAjJHOOw6g/s1600/salesforce.jpg"
+    },
+    {
+      "id": "f1fec6d3f6e25743a9ec39148a8c37aaaace8219",
+      "title": "Apple Patches Beats Studio Buds Flaw Letting Nearby Attackers Spy via Microphone",
+      "url": "https://thehackernews.com/2026/06/apple-patches-beats-studio-buds-flaw.html",
+      "published": "2026-06-19T06:36:09+00:00",
+      "summary": "Apple has updated its Beats Studio Buds wireless earbuds to patch a high-severity vulnerability that could be exploited by nearby hackers to eavesdrop on users.\n\nThe vulnerability, tracked as CVE-2025-20701 (CVSS score: 8.8), refers to a case of incorrect authorization impacting the Airoha Bluetooth audio SDK that makes it possible to pair a Bluetooth audio device without user consent.",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvlr0i44MWKmuHJKLS1V3uKSMse7tVsRFBTpyD1VGLaRZy24qq4bIb6K3Db1s0eKtuh3TkLCYFWn6eJ-uEkVnkO9CbPHHUlD3j8Z-SEFFr9A1X6ndd-fQd6UKTAyXO0DhUI2ZTe1sc4Eq7NLoGUyjQUkKmhHp99QGz3WTcFAnucAnfiioLDFiGaTbI8Wvx/s1600/apple.jpg"
+    },
+    {
       "id": "f2a5944b581b0fb8e4388312af0b7493056fd1b2",
       "title": "F5 Patches Two Critical NGINX Open Source Flaws Enabling Remote Code Execution",
       "url": "https://thehackernews.com/2026/06/f5-patches-two-critical-nginx-open.html",
@@ -149,7 +193,7 @@
       "title": "Microsoft Details Windows Clipper Malware Campaign Using USB LNK Worm and Tor-Based C2",
       "url": "https://thehackernews.com/2026/06/microsoft-details-windows-clipper.html",
       "published": "2026-06-18T14:30:42+00:00",
-      "summary": "Microsoft has disclosed details of a Windows-based cryptocurrency clipper campaign that has targeted users since February 2026.\n\n\"The clipper in this campaign relies on Windows Script Host and ActiveX-driven logic to launch a bundled Tor proxy and poll a hidden-service C2 [command-and-control] server,\" the Microsoft Defender Security Research Team said in an analysis published Tuesday. \"It",
+      "summary": "Microsoft has disclosed details of a Windows-based cryptocurrency clipper campaign that has targeted users since February 2026 with clipboard-intercepting malware with self-spreading capabilities and using the Tor anonymity network to hide communication.\n\"The clipper in this campaign relies on Windows Script Host and ActiveX-driven logic to launch a bundled Tor proxy and poll a hidden-service C2",
       "source": "The Hacker News",
       "region": "North America",
       "country": "US",
@@ -347,7 +391,7 @@
       "title": "Fake Microsoft Alerts Used to Deploy North Korean NarwhalRAT Malware",
       "url": "https://thehackernews.com/2026/06/fake-microsoft-alerts-used-to-deploy.html",
       "published": "2026-06-16T08:14:55+00:00",
-      "summary": "The North Korean state-sponsored hacking group known as ScarCruft (aka APT37) has been observed using spear-phishing messages impersonating Microsoft Account security notifications to deliver malware called NarwhalRAT.\n\n\"The attack email contained a message impersonating an MS account security alert,\" the Genians Security Center (GSC) said. \"It was designed to create concern over possible",
+      "summary": "The North Korean state-sponsored hacking group known as ScarCruft (aka APT37) has been observed using spear-phishing messages impersonating Microsoft Account security notifications to deliver a new malware called NarwhalRAT.\n\n\"The attack email contained a message impersonating an MS account security alert,\" the Genians Security Center (GSC) said. \"It was designed to create concern over possible",
       "source": "The Hacker News",
       "region": "North America",
       "country": "US",
@@ -618,48 +662,15 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6r68iB-MZv_eNGG3y0evEVbk7WXNkMzcKno1phHiSyOwfKd0G7bv8VCCrxQgmZOutmZdP1Nz-Xr1mxxUIx_rV8imT0-Ifk0e0FL525Z2v0C94GWgeo-wUpTk39rDdilNC_K20uqw0JipHlT7XmyTHn786UIAe_z3H2VXT1cYNAIEbKSwn2qYc_9MXzpbi/s1600/openclaw-hacks.jpg"
     },
     {
-      "id": "b39204d7e3b3f55f72eef94a333323a5df724c7f",
-      "title": "New GreatXML Exploit Bypasses Windows BitLocker via Recovery Partition XML Files",
-      "url": "https://thehackernews.com/2026/06/new-greatxml-exploit-bypasses-windows.html",
-      "published": "2026-06-11T17:43:52+00:00",
-      "summary": "Security researcher Chaotic Eclipse (aka Nightmare-Eclipse and MSNightmare) has released a new Windows BitLocker bypass dubbed GreatXML, a day after they published an exploit for Microsoft Defender.\n\n\"This was an accidental discovery, it took a total of 4 hours to find this,\" the researcher said in a post on Blogger. \"If you ever attempted to use Windows Defender Offline Scan, you're",
-      "source": "The Hacker News",
+      "id": "bc5791369dea68163d193f04698b193fcc56d1b7",
+      "title": "Stressors, AI Forcing Changes to Cybersecurity Teams",
+      "url": "https://www.darkreading.com/cybersecurity-operations/stressors-ai-changes-cybersecurity-teams",
+      "published": "2026-06-19T13:00:00+00:00",
+      "summary": "As threats proliferate and AI complicates cybersecurity, CISOs say the job is getting harder, but more companies still want cybersecurity expertise, if even on a part-time basis.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqKyNLbT9WYm7m6ZsvIgv0mNbGJCrgEjUUXLbRZV9mmQUVi7jT9IiwlXh2kYKiMOrsCnJ-ZaoAK9GnL9jy6RHJELISIGFuLSZgsSYuclWFcPmItYL04pTVeA7cl_jy8L6RU4CVPypa6u24OH8hCwPL1g1tEVRczTV1YjZ5KUFGZc6DVw8Pdo_CFGXRTS-d/s1600/windows-bitlocker.jpg"
-    },
-    {
-      "id": "586671ef848f8bb9c5f39fc9f22ba764189d6398",
-      "title": "The Gentlemen Ransomware Claims 478 Victims, Can Spread Like a Worm",
-      "url": "https://thehackernews.com/2026/06/the-gentlemen-ransomware-claims-478.html",
-      "published": "2026-06-11T16:50:47+00:00",
-      "summary": "A new analysis of The Gentlemen operation has revealed that the financially motivated threat group initially operated as an affiliate responsible for conducting double extortion attacks, while leveraging resources from various ransomware-as-a-service (RaaS) schemes like LockBit (aka Tenacious Mantis), Qilin (aka Pestilent Mantis), and Medusa (aka Venomous Mantis).\n\nAccording to a detailed report",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiT390XWb8ahl36RgVGzdXiIpEJ43hxHfayY1i2C_rBLbVyu5A2Q-uOFptUFJL33Ehedvbx97RiUV2NivTy-FxxFCNiIKekiqeljYrI3kThk9Sko4wQlFniMDjIfNqgiP-BaN3JYFjAbo2EfP7EBuEDe_p00RtrAmdUl_lsbgzQgV-M7CM_u3Vi7AtqgbSS/s1600/ransomware.jpg"
-    },
-    {
-      "id": "a0d4b99eeb143c6499fa8e7fb6c1d8cae8afb6fc",
-      "title": "Cybersecurity Stars Awards 2026: Winners Announced Across 95 Categories",
-      "url": "https://thehackernews.com/2026/06/cybersecurity-stars-awards-2026-winners.html",
-      "published": "2026-06-11T13:26:13+00:00",
-      "summary": "Most good security work is invisible by design. Today is the exception.\n\nThe 2026 Cybersecurity Stars Awards winners are announced across 95 subcategories in four main award categories.\n\nThe reason is simple. Cybersecurity is full of work that deserves recognition and rarely gets it. Products that quietly close real gaps. Teams that stop incidents nobody reads about. Companies that raise the",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSZHAWbb4vxxCvcuKVVx_cF20NdH25LsT22W5ftwdgoPt9RSB_6g399zuxnBqiClQMbMTVTlZ5w2uZ7LoZnhySiv2rdRpu_992csHQmBaTqzkBAB3jkpru_Ofvli3RzA6r2kYxapez3lqhW02JPzqtJcDd2DGnZC62u72F59zUJbsS3CujuYH_mpj9lhk/s1600/winners.jpg"
-    },
-    {
-      "id": "2ea1a39ca2835bb9205958d869f6e9a3b1370a52",
-      "title": "ThreatsDay Bulletin: Worm Code Leaked, AI Agent Phished, Claude Code Patch + 28 New Stories",
-      "url": "https://thehackernews.com/2026/06/threatsday-bulletin-worm-code-leaked-ai.html",
-      "published": "2026-06-11T13:20:41+00:00",
-      "summary": "It's been one of those weeks. You expect the usual noise: recycled malware, sloppy attacks, another easy target getting hit. Instead, there's a supply chain attack kit in a public repo, a $5,000-a-month RAT that clones browsers, and research showing AI agents can be tricked into leaking real credentials.\n\nThe bigger problem is how polished this all looks now. Mule networks run like SaaS.",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwRILGY9KcqTFlus6q7_YKlkzrx_LNXb7KS96PijLOM63YqrZIcvxXaf9j0i-sJhst_yL59b7pq32rwcHSSByX7dzVRXSv_dRnrAYqn0Hpps_G7odqCYu8BEonGPMlUkCAz-d0q2No-ojqaZou-b06UwZxzq0oV5CthkgjmTdTBU1JEkWRLV28PwRR5UW7/s1600/tt.png"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt368fb61be2c4bf64/6a34273238f14f38f45b132a/sliced-pie-Pixel-Shot-shutterstock.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "id": "c28cb7f963b34e163e65e116d424d6924ddb1a54",
@@ -1201,15 +1212,37 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt016007dbff30c0e1/6a2085be38e0c7c4b455ca45/Sophos_offices-Sundry_Photography-getty-1200830219.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "id": "e0b2bbe4608ff674d24a30528ed866fb2de6064e",
-      "title": "Tropical Blend: Cyber &amp; Politics Ramp Up Across Latin America",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/nation-state-cyber-activity-latin-america",
-      "published": "2026-06-03T19:52:32+00:00",
-      "summary": "China-linked espionage groups have attacked at least a dozen nations in the region, gathering information on maritime shipping, oil production, and other geopolitical interests.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltaa97395bb0805f7f/6a1f49d4c6f2ac73df1ebf16/old-globe-showing-south-america-jhonny_marcell_oportus-shutterstock.jpg?width=720&quality=80&disable=upscale"
+      "id": "0a7d1080e36db90731cfcd9604995847e52a3d5a",
+      "title": "Everything's bigger and better in Texas \u2013 even data breaches",
+      "url": "https://www.theregister.com/security/2026/06/19/texas-gov-vendor-breach-exposes-data-of-3m-hunters-anglers/5258815",
+      "published": "2026-06-19T13:01:00+00:00",
+      "summary": "Hunting and fishing license incident catches 3M residents",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=4093857&width=800"
+    },
+    {
+      "id": "53e7508559ffe93823d33d0e68a5e8fe5ec8f405",
+      "title": "Britain's privacy watchdog quits after 'poor judgment' admission",
+      "url": "https://www.theregister.com/security/2026/06/19/britains-privacy-watchdog-quits-after-poor-judgment-admission/5258926",
+      "published": "2026-06-19T11:14:34+00:00",
+      "summary": "John Edwards says his position had become 'untenable' following investigation into conduct including inappropriate attempts at humor",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=261825&width=800"
+    },
+    {
+      "id": "9b1dd5e6da4da5e00f38701a756d3ea94be14208",
+      "title": "Rights groups brand Home Office's AI age guesser for asylum-seekers as biased and inaccurate",
+      "url": "https://www.theregister.com/security/2026/06/19/rights-groups-brand-home-offices-ai-age-guesser-for-asylum-seekers-as-biased-and-inaccurate/5258892",
+      "published": "2026-06-19T11:02:46+00:00",
+      "summary": "Campaigners say tech is unable to reliably distinguish between kids and adults at the boundary where use is planned",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=227266&width=800"
     },
     {
       "id": "34ba1276bd5417437dd610f92ef8ae3aedd53ec0",
@@ -1729,39 +1762,6 @@
       "image": "https://image.theregister.com/?imageId=5252409&width=800"
     },
     {
-      "id": "226b21f63a7093ceb436bde6074697d29f10c1cb",
-      "title": "GitHub nukes 70+ Microsoft repos, breaks CI/CD pipelines, following suspected worm infections",
-      "url": "https://www.theregister.com/security/2026/06/08/github-nukes-70-microsoft-repos-amid-suspected-worm-attack/5252169",
-      "published": "2026-06-08T13:56:50+00:00",
-      "summary": "Miasma worm shapeshifts, but cloud secret-scouting remains the goal",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=5249823&width=800"
-    },
-    {
-      "id": "deb1d6122da30b34f56fbdbc4de351ba191e059a",
-      "title": "NSO Group back in Meta's crosshairs after alleged WhatsApp targeting",
-      "url": "https://www.theregister.com/security/2026/06/08/nso-group-back-in-metas-crosshairs-after-alleged-whatsapp-targeting/5252105",
-      "published": "2026-06-08T12:10:00+00:00",
-      "summary": "Zuckercorp says surveillance-for-hire vendor was still running phishing operations after federal court told it to knock it off",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=5252125&width=800"
-    },
-    {
-      "id": "6cdf0684cedd4251c71a56fabc757d74130b49b0",
-      "title": "Oxford Uni student data pwned yet again - this time via career platform breach",
-      "url": "https://www.theregister.com/security/2026/06/06/oxford-university-data-pwned-again-by-career-platform-breach/5251754",
-      "published": "2026-06-06T07:28:00+00:00",
-      "summary": "Totally different attack from the break-in last month. Oh so that's OK then",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=226360&width=800"
-    },
-    {
       "id": "69b2737ea98ec5099060988bb3d17364a6fa8d7c",
       "title": "\u2018Popa\u2019 Botnet Linked to Publicly-Traded Israeli Firm",
       "url": "https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/",
@@ -1839,6 +1839,72 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "f715ef79130da5c4ba98dcf5506024c31cc6b526",
+      "title": "CryptoBandits Malware Doubles as a Backdoor, Abuses Tor",
+      "url": "https://www.securityweek.com/cryptobandits-malware-doubles-as-a-backdoor-abuses-tor/",
+      "published": "2026-06-19T11:19:41+00:00",
+      "summary": "<p>CryptoBandits uses a local SOCKS5 proxy for traffic routing, blending data theft with remote code execution.</p>\n<p>The post <a href=\"https://www.securityweek.com/cryptobandits-malware-doubles-as-a-backdoor-abuses-tor/\">CryptoBandits Malware Doubles as a Backdoor, Abuses Tor</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "26e0e341a3004bc9c737e081dd0e3599f8fbb593",
+      "title": "FortiBleed: 86,000 Fortinet Device Credentials Compromised",
+      "url": "https://www.securityweek.com/fortibleed-86000-fortinet-device-credentials-compromised/",
+      "published": "2026-06-19T10:48:08+00:00",
+      "summary": "<p>The large-scale credential theft campaign hit roughly half of the internet-accessible Fortinet firewalls and VPNs.</p>\n<p>The post <a href=\"https://www.securityweek.com/fortibleed-86000-fortinet-device-credentials-compromised/\">FortiBleed: 86,000 Fortinet Device Credentials Compromised</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "9fe140fe1bb315069d4a3ed9be1c47bccecd3b04",
+      "title": "Cybersecurity Firms Impacted by Klue Supply Chain Attack",
+      "url": "https://www.securityweek.com/cybersecurity-firms-impacted-by-klue-supply-chain-attack/",
+      "published": "2026-06-19T09:19:06+00:00",
+      "summary": "<p>The hackers exfiltrated data from Salesforce instances of Klue customers, such as Huntress and Recorded Future.</p>\n<p>The post <a href=\"https://www.securityweek.com/cybersecurity-firms-impacted-by-klue-supply-chain-attack/\">Cybersecurity Firms Impacted by Klue Supply Chain Attack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "b9e8a2241ce53fdba872b861e784eed164aa2331",
+      "title": "Cisco to Acquire WideField Security to Boost Splunk\u2019s Agentic SOC",
+      "url": "https://www.securityweek.com/cisco-to-acquire-widefield-security-to-boost-splunks-agentic-soc/",
+      "published": "2026-06-19T07:22:22+00:00",
+      "summary": "<p>WideField will accelerate Agentic SOC capabilities by expanding the lens on threat investigation to include identity, credentials, sessions, and blast radius.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisco-to-acquire-widefield-security-to-boost-splunks-agentic-soc/\">Cisco to Acquire WideField Security to Boost Splunk&#8217;s Agentic SOC</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "8516cbf050fb08f72f8c0569fa47859f894b9763",
+      "title": "15,000 WordPress Websites Cleaned Up in SocGholish Botnet Takedown",
+      "url": "https://www.securityweek.com/15000-wordpress-websites-cleaned-up-in-socgholish-botnet-takedown/",
+      "published": "2026-06-19T06:46:44+00:00",
+      "summary": "<p>Law enforcement and private partners took down 106 SocGholish C&#038;C servers and domains as part of Operation Endgame.</p>\n<p>The post <a href=\"https://www.securityweek.com/15000-wordpress-websites-cleaned-up-in-socgholish-botnet-takedown/\">15,000 WordPress Websites Cleaned Up in SocGholish Botnet Takedown\u00a0</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "320d6610254e805535e113d9f24492bd159464ed",
+      "title": "Splunk Enterprise Vulnerability Exploited in Attacks Days After Disclosure",
+      "url": "https://www.securityweek.com/splunk-enterprise-vulnerability-exploited-in-attacks-days-after-disclosure/",
+      "published": "2026-06-19T04:10:34+00:00",
+      "summary": "<p>CISA has given federal agencies only three days to patch CVE-2026-20253, which can be exploited for unauthenticated remote code execution.</p>\n<p>The post <a href=\"https://www.securityweek.com/splunk-enterprise-vulnerability-exploited-in-attacks-days-after-disclosure/\">Splunk Enterprise Vulnerability Exploited in Attacks Days After Disclosure</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "a15816fd5c8d21f67fdd5980f2132b64c188b6da",
       "title": "Majority of Internet-Accessible REDCap Servers Outdated",
       "url": "https://www.securityweek.com/majority-of-internet-accessible-redcap-servers-outdated/",
@@ -1877,72 +1943,6 @@
       "url": "https://www.securityweek.com/dream-raises-260-million-at-3-billion-valuation/",
       "published": "2026-06-18T11:55:07+00:00",
       "summary": "<p>The Israeli startup provides sovereign AI and cyber defenses for governments and critical infrastructure.</p>\n<p>The post <a href=\"https://www.securityweek.com/dream-raises-260-million-at-3-billion-valuation/\">Dream Raises $260 Million at $3 Billion Valuation</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "b8cda3d30261d34eb7a15baf61129bc144ac5529",
-      "title": "Atlassian, Splunk Patch Critical Vulnerabilities",
-      "url": "https://www.securityweek.com/atlassian-splunk-patch-critical-vulnerabilities/",
-      "published": "2026-06-18T10:59:50+00:00",
-      "summary": "<p>Splunk patched an OS command injection in AI Toolkit, while Atlassian fixed dozens of flaws in third-party dependencies.</p>\n<p>The post <a href=\"https://www.securityweek.com/atlassian-splunk-patch-critical-vulnerabilities/\">Atlassian, Splunk Patch Critical Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "7b1ba559b69cc94a935dbd70066866db1d9473fb",
-      "title": "Rokarolla Banking Trojan Targets 200 Applications",
-      "url": "https://www.securityweek.com/rokarolla-banking-trojan-targets-200-applications/",
-      "published": "2026-06-18T10:42:21+00:00",
-      "summary": "<p>The Android malware allows its operators to take control of infected devices and harvest sensitive information.</p>\n<p>The post <a href=\"https://www.securityweek.com/rokarolla-banking-trojan-targets-200-applications/\">Rokarolla Banking Trojan Targets 200 Applications</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "c1a036b4384e4e78eed0ac38f53995b264bdf679",
-      "title": "Critical Command Execution Vulnerability Patched in Cisco ISE",
-      "url": "https://www.securityweek.com/critical-command-execution-vulnerability-patched-in-cisco-ise/",
-      "published": "2026-06-18T10:27:14+00:00",
-      "summary": "<p>Insufficient validation of user input allows an attacker to gain access to the underlying OS and elevate their privileges to root.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-command-execution-vulnerability-patched-in-cisco-ise/\">Critical Command Execution Vulnerability Patched in Cisco ISE</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "7a84788a66f0dd859c6145b3a5998d5bdd27cea1",
-      "title": "F5 Patches Critical, High-Severity NGINX Vulnerabilities",
-      "url": "https://www.securityweek.com/f5-patches-critical-high-severity-nginx-vulnerabilities/",
-      "published": "2026-06-18T09:39:24+00:00",
-      "summary": "<p>Critical flaws in NGINX could allow remote, unauthenticated attackers to cause a restart and potentially execute arbitrary code.</p>\n<p>The post <a href=\"https://www.securityweek.com/f5-patches-critical-high-severity-nginx-vulnerabilities/\">F5 Patches Critical, High-Severity NGINX Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "69512e8497f11a8c39399efd2cb4eea8b92765db",
-      "title": "SailPoint to Acquire Entro in Reported $200 Million Deal",
-      "url": "https://www.securityweek.com/sailpoint-to-acquire-entro-in-reported-200-million-deal/",
-      "published": "2026-06-18T08:36:42+00:00",
-      "summary": "<p>Israel-based Entro specializes in non-human identity and credential security solutions, and it will enable SailPoint to enhance its products.</p>\n<p>The post <a href=\"https://www.securityweek.com/sailpoint-to-acquire-entro-in-reported-200-million-deal/\">SailPoint to Acquire Entro in Reported $200 Million Deal</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "263cf647710f06bfd61306a48a45e40f83a41760",
-      "title": "Kodak Admits Data Breach After ShinyHunters Hack Claims",
-      "url": "https://www.securityweek.com/kodak-admits-data-breach-after-shinyhunters-hack-claims/",
-      "published": "2026-06-18T07:18:51+00:00",
-      "summary": "<p>Kodak told SecurityWeek it believes there is no threat to its systems or operations as a result of the cybersecurity incident.</p>\n<p>The post <a href=\"https://www.securityweek.com/kodak-admits-data-breach-after-shinyhunters-hack-claims/\">Kodak Admits Data Breach After ShinyHunters Hack Claims</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
