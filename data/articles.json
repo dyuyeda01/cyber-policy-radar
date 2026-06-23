@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-22T16:21:13.259426+00:00",
+  "generated_at": "2026-06-23T01:54:10.726115+00:00",
   "items": [
     {
       "id": "ee8e67580bdba0e95d6c07a8ee1a8a580829207e",
@@ -110,6 +110,28 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "68d2130f31731c5f8f0c2242c7894189ac8dcce9",
+      "title": "ShapedPlugin WordPress Pro Plugins Backdoored in Supply Chain Attack",
+      "url": "https://thehackernews.com/2026/06/shapedplugin-wordpress-pro-plugins.html",
+      "published": "2026-06-22T18:00:48+00:00",
+      "summary": "Multiple WordPress plugins from ShapedPlugin were compromised in a supply chain attack after unknown threat actors managed to tamper with the official release channels and push backdoor code.\n\n\"Attackers compromised the vendor's build and distribution pipeline, injecting backdoor code into Pro plugin releases distributed through official licensed update channels,\" Wordfence said in an analysis",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgd4DchiVkQLBMvGHgWrojoZUdyk2SwEhEj5q6cOYzKCUWF1Lz3Mxeizurg1O-SLVi2jg319ib4SJsSoVWixAkl5WLPu4rL1cMoYXUM6EziOVyt42ESt1zmMo_iLEfHx9XSAXpsDd1FEtRSgKk4AhDzA7DjJN8c__pUgogxTQgaGjsxM04WNiesgRnbEVHN/s1600/wordpress-plugin.jpg"
+    },
+    {
+      "id": "c63ab8f2419e5c1cd7af45be9c95d83743b0480d",
+      "title": "Researchers Detail DifyTap Flaws in Dify That Could Expose AI Chats Across Tenants",
+      "url": "https://thehackernews.com/2026/06/researchers-detail-difytap-flaws-in.html",
+      "published": "2026-06-22T16:13:28+00:00",
+      "summary": "Cybersecurity researchers have disclosed details of four vulnerabilities in Dify, an open-source agentic workflow platform with more than 146,000 GitHub stars, that could allow attackers to stealthily read artificial intelligence (AI) conversions from other customers' applications without requiring authentication.\n\nThe vulnerabilities have been collectively codenamed DifyTap by Zafran Security.",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrjCumekV1hjkgdgebp4RqfYc_Yt9Swv4lG7ds3XMDHG9f-JxSuJSWY3UcWIoivJoJkJjdlBvtiQAHKy7NNgApCoD8ADtOpicXvKf9RJwAZT1DEGUkgX87bmSR8cO75Ss__mnLn8MyDEddnzhyphenhyphenRfcf_gWEtoLiKu53yXNQJtT0DP7nZufqBhB3P8VmvV48/s1600/dify.png"
     },
     {
       "id": "726cc507af6d690a889780c44907f6f18fa19737",
@@ -640,26 +662,15 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDj2pDJr4F9HBYmRTjOtetTz0h0vViw1lMZp6N0YAS5bGKv8ELJ1hjEcSffQg4xCTqhpIEkLchZxDXn-JNCQdUELSWNW5FcfHceLFvjAvVFXNJq5tClyqJ4onrgYp4lX3axgc2u0QU_k9MQoyjLfZt1RV3ZPapqVaZXrJy6H2wn4dw1dYWS1S4iou-dDI/s1600/outpost24.jpg"
     },
     {
-      "id": "769bdfab4cb7a88798b99e05256ad648527cc472",
-      "title": "152 Chrome Wallpaper Extensions with 105K Installs Linked to Adware and Fake Traffic",
-      "url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
-      "published": "2026-06-15T11:07:50+00:00",
-      "summary": "Cybersecurity researchers have discovered a network of 152 Google Chrome extensions that act as new tab live wallpaper add-ons to distribute a potentially unwanted program (PUP) family.\n\nThe cluster spans 38 separate Chrome Web Store publisher accounts and three brand backends: tabplugins[.]com, yowgames[.]com, and chromewallpaper[.]com. They have been collectively installed 105,000 times. The",
-      "source": "The Hacker News",
+      "id": "b6c18fa205c7a4aec6809b1cc37009d16c4e5ff8",
+      "title": "Crypto Heist Fueled by Elaborate Fake Reputation-Boosting Campaign",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/crypto-heist-fake-reputation-boosting-campaign",
+      "published": "2026-06-22T16:10:10+00:00",
+      "summary": "Attackers are using multiple online channels \u2014 including GitHub, YouTube, and VirusTotal \u2014 to build an illusion of trust to spread a cross-platform clipboard hijacker.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXEEp49DrIDRyHxMpdUoO-A9TL3T6P-7mUwImILVRSRl940D39uZbouVIhM1j8ZVEpxfTskTrLB5qrDDQ07yp7TFGTXSBhQqlwNLyN49sCW38MZds5YQP_c1lhrkl0aizSaU0ZpBpf9NS3WGD9k5BZhh52ZDuyrtxSwUrXgkjRnWMAgLq3FT6dLG0sCAfh/s1600/chrome-traffic.jpg"
-    },
-    {
-      "id": "274dcd8feacce8e83747ef2297cb2840f018fbdc",
-      "title": "Popular WordPress Plugin Scripts Tampered to Plant Hidden Backdoors on Sites",
-      "url": "https://thehackernews.com/2026/06/popular-wordpress-plugin-scripts.html",
-      "published": "2026-06-15T09:59:38+00:00",
-      "summary": "An attacker tampered with trusted JavaScript files used by WordPress sites running PushEngage, OptinMonster, and TrustPulse, turning those files into a way to break into the sites.\n\nWhen a site administrator was logged in as the file loaded, the code created an admin account under the attacker's control and installed a hidden plugin that opened a way back in. Ordinary visitors did not trigger it",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5TE5Z8cG6zx7J64PdC2qxAh0h0o-KRwA1vEBvunxSEWkh5QmlsaIe2zKWUL7yX28chYs9zWMwA6eBcmTzfRIaKtyI53hKlLTSar9d4EMnjPQiY8KoQ0JldPkCQvc6B4EbO2ktcQV07rr4nf_RFBnA_eNHXChsNTOzvB3Fv7-0ENUDa8W8ut1rAdVOFAjh/s1600/wordpress.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt488625da6dcc5e36/6a3956fde4fc4e3dbf65d2b3/bitcoinstolen_KeremYucel-Getty-902191710.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "id": "bc5791369dea68163d193f04698b193fcc56d1b7",
@@ -1201,15 +1212,48 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb991e5256c40bcd1/6a205634289788f8c51207a1/Pakistan_Afghanistan-Oleksii_Liskonih-Getty.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "id": "d612e34d5dfac930606ca3e3abab3b8889ce17fa",
-      "title": "Attackers Use AI to Automate EDR Evasion Testing",
-      "url": "https://www.darkreading.com/endpoint-security/attackers-automate-edr-evasion-testing",
-      "published": "2026-06-03T21:34:07+00:00",
-      "summary": "Python scripts were used to test malware against endpoint detection and response agents from Sophos, CrowdStrike, and Windows Defender.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt016007dbff30c0e1/6a2085be38e0c7c4b455ca45/Sophos_offices-Sundry_Photography-getty-1200830219.jpg?width=720&quality=80&disable=upscale"
+      "id": "5f964053ff9288886ab51c880c600d157b41d9d5",
+      "title": "Sniff out stale AI override advice with this open source CLI",
+      "url": "https://www.theregister.com/security/2026/06/23/sniff-out-stale-ai-override-advice-with-this-open-source-cli/5259853",
+      "published": "2026-06-23T00:17:13+00:00",
+      "summary": "Package dependencies can create vulnerabilities that are fiendishly hard to find and stamp out",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=261937&width=800"
+    },
+    {
+      "id": "3695d50bec8312d240e95c9657d925c6e5eb0a53",
+      "title": "OpenAI: Yoo-hoo, look over here, we do that security stuff too!",
+      "url": "https://www.theregister.com/security/2026/06/23/openai-yoo-hoo-look-over-here-we-do-that-security-stuff-too/5259842",
+      "published": "2026-06-22T23:34:34+00:00",
+      "summary": "A plethora of pwn-prevention, including a 'Patch The Planet' pledge",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=5259886&width=800"
+    },
+    {
+      "id": "06148d988859e4395fe792a6cf4be6ca3e9df344",
+      "title": "Cloudflare teams up with big browsers to help websites tell welcome from unwelcome visitors",
+      "url": "https://www.theregister.com/software/2026/06/22/cloudflare-teams-up-with-big-browsers-to-help-websites-tell-welcome-from-unwelcome-visitors/5259782",
+      "published": "2026-06-22T20:02:52+00:00",
+      "summary": "Makers of Chrome, Edge, Firefox back bot-fraud defense called Private Access Control Tokens",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=5259833&width=800"
+    },
+    {
+      "id": "abd221c1dda1a462e63d6ad8707331841033e4d5",
+      "title": "Security shops among the 'hundreds' of Klue hack victims",
+      "url": "https://www.theregister.com/cyber-crime/2026/06/22/security-shops-among-the-hundreds-of-klue-hack-victims/5259743",
+      "published": "2026-06-22T19:50:54+00:00",
+      "summary": "As yet another extortion crew Icarus exploits Salesforce-linked integrations",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=5259805&width=800"
     },
     {
       "id": "b1340945ad8af4a305f7963ce398dd372a6e1f2e",
@@ -1716,105 +1760,6 @@
       "region": "Europe",
       "country": "UK",
       "image": "https://image.theregister.com/?imageId=5244794&width=800"
-    },
-    {
-      "id": "0be241dd89ce92214eb655ef60140003d7fee231",
-      "title": "AI is making Patch Tuesday (kinda) fun again",
-      "url": "https://www.theregister.com/patches/2026/06/09/ai-is-making-patch-tuesday-kinda-fun-again/5253225",
-      "published": "2026-06-09T22:49:16+00:00",
-      "summary": "Unless you're an admin or vulnerability manager \u2013 then you're totally screwed",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=5253245&width=800"
-    },
-    {
-      "id": "e9884aa672b670d1df704840b3e36fc6ad0a9d8c",
-      "title": "Miasma worms its way onto GitHub as attack kit goes open source",
-      "url": "https://www.theregister.com/cyber-crime/2026/06/09/miasma-supply-chain-attack-toolkit-goes-public-on-github/5253074",
-      "published": "2026-06-09T18:05:50+00:00",
-      "summary": "As if there weren't enough package poisonings to worry about",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=5242669&width=800"
-    },
-    {
-      "id": "fffa890f17a88d8216000b9dbf653cd4ca3cebec",
-      "title": "Apple\u2019s iOS 27 goes all agentic on compromised passwords, promises to change them with one tap",
-      "url": "https://www.theregister.com/personal-tech/2026/06/09/apples-ios-27-goes-all-agentic-on-compromised-passwords/5252957",
-      "published": "2026-06-09T16:13:31+00:00",
-      "summary": "iBiz might not win the AI race, but analysts say it's focusing on features people may actually use",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=252544&width=800"
-    },
-    {
-      "id": "732fdebbd07ee80090aa7ac6e7212dcc18eb4d81",
-      "title": "Signal says UK plan to scan devices for nude images 'endangers us all'",
-      "url": "https://www.theregister.com/security/2026/06/09/signal-uks-child-nude-block-threat-wont-protect-children/5252761",
-      "published": "2026-06-09T12:41:03+00:00",
-      "summary": "Encrypted messaging app warns device-level checks could be repurposed for censorship",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=227546&width=800"
-    },
-    {
-      "id": "69b2737ea98ec5099060988bb3d17364a6fa8d7c",
-      "title": "\u2018Popa\u2019 Botnet Linked to Publicly-Traded Israeli Firm",
-      "url": "https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/",
-      "published": "2026-06-18T17:37:58+00:00",
-      "summary": "For the past four years, a sprawling Android-based botnet called Popa has forced millions of consumer TV boxes to relay Internet traffic linked to advertising fraud, account takeovers, and mass data-scraping efforts. This week, researchers from multiple security firms concluded that the Popa botnet is linked to NetNut, a \"residential proxy\" provider operated by the publicly-traded Israeli firm Alarum Technologies Ltd [NASDAQ: ALAR].",
-      "source": "Krebs on Security",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "80adc8ee797979464a110873714d5e649bab4c78",
-      "title": "Who Runs the Ransomware Group \u2018The Gentlemen?\u2019",
-      "url": "https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/",
-      "published": "2026-06-10T14:03:44+00:00",
-      "summary": "A cybercrime group known as The Gentlemen has emerged as the second most active ransomware gang by victim count, rapidly attracting a talented pool of hackers through an aggressive recruitment strategy that promises affiliates 90 percent of any ransom paid by victims. This post examines clues pointing to a real life identity for the administrator of The Gentlemen ransomware group.",
-      "source": "Krebs on Security",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "98107abac4cd4a9bf69a5fd3d3c264aa34fb9c64",
-      "title": "A Record-Breaking Patch Tuesday for June 2026",
-      "url": "https://krebsonsecurity.com/2026/06/a-record-breaking-patch-tuesday-for-june-2026/",
-      "published": "2026-06-09T22:07:28+00:00",
-      "summary": "Microsoft today released software updates to plug nearly 200 security holes across its Windows operating systems and supported software, a record number of fixes for the company's monthly Patch Tuesday cycle. Nearly three dozen of those bugs earned Microsoft's most dire \"critical\" rating, and exploit code for at least three of the weaknesses is now publicly available.",
-      "source": "Krebs on Security",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "98cb187e46e268fca6d742e73673a27899384710",
-      "title": "Hackers Used Meta\u2019s AI Support Bot to Seize Instagram Accounts",
-      "url": "https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/",
-      "published": "2026-06-01T17:32:50+00:00",
-      "summary": "The Instagram accounts for the Obama White House and the Chief Master Sergeant of the U.S. Space Force were briefly defaced with pro-Iranian images and messages over the weekend, after instructions began circulating on Telegram showing how to trick Meta's \"AI support assistant\" bot into resetting account passwords.",
-      "source": "Krebs on Security",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "9180696aa4788b0b2cc3ec55e64f2688433c1cd4",
-      "title": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
-      "url": "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/",
-      "published": "2026-05-25T13:21:49+00:00",
-      "summary": "Authorities in the Netherlands have arrested the co-owners of two related Internet hosting companies for operating IT infrastructure used by Russia to carry out cyberattacks, influence operations and disinformation campaigns inside the European Union. The two men were the focus of a 2025 KrebsOnSecurity story about how their hosting companies had assumed control over the technical infrastructure of Stark Industries Solutions, an Internet service provider sanctioned last year by the EU as a frequent staging ground for cyber mischief from Russia's intelligence agencies.",
-      "source": "Krebs on Security",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
       "id": "b0dad0adb543df0a5cd1a6486e7498e4e4d20992",
