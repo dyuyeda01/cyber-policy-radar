@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-06-26T01:58:29.153530+00:00",
+  "generated_at": "2026-06-26T13:53:21.276455+00:00",
   "items": [
+    {
+      "id": "7783c0e37154bfc6aa7d03b5376f003e03544725",
+      "title": "AWS unveils agent security, data access tools",
+      "url": "https://www.cybersecuritydive.com/news/aws-continuum-ai-security-claude-mythos/823393/",
+      "published": "2026-06-26T12:23:00+00:00",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/FDuOWVuXvsWn1VdWptaxYr_fRq0kg7vlXCEcD7vTYG0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TY3JlZW5zaG90XzIwMjYtMDYtMTdfYXRfMi40Mi4yNFBNLnBuZw==.webp\" /></div></figure><p>The updates reflect Anthropic's Mythos model and the speed at which vulnerabilities can be surfaced.</p>",
+      "source": "Cybersecurity Dive",
+      "region": "North America",
+      "country": "US",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
     {
       "id": "7703b2b7b4f59554dc3ad71d4b1bb1020468f905",
       "title": "NIST offers security guidance for water utilities using remote-access tools",
       "url": "https://www.cybersecuritydive.com/news/water-utilities-remote-access-nist-guidance/823776/",
       "published": "2026-06-25T15:10:04+00:00",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/7xzWjRJQD709YYxhNzXJ0k22vUKC-9sco92QsJgsX6M/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMDk5OTMxMjc1LmpwZw==.webp\" /></div></figure><p>Remote-access technology is one of the water sector&rsquo;s biggest cybersecurity weaknesses.</p>",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/7xzWjRJQD709YYxhNzXJ0k22vUKC-9sco92QsJgsX6M/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMDk5OTMxMjc1LmpwZw==.webp\" /></div></figure><p>The technology is one of the water sector&rsquo;s biggest cybersecurity weaknesses.</p>",
       "source": "Cybersecurity Dive",
       "region": "North America",
       "country": "US",
@@ -14,7 +25,7 @@
     },
     {
       "id": "df92852ab1e3d466a721fdf09003afc37fe91783",
-      "title": "As cyber risk continues to evolve, the insurance industry tightens its guardrails",
+      "title": "As cyber risk evolves, the insurance industry tightens guardrails",
       "url": "https://www.cybersecuritydive.com/news/cyber-risk-insurance-industry-guardrails/823762/",
       "published": "2026-06-25T14:21:44+00:00",
       "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/XzHVMIv5DwCk7ftEqFZb3NMGjCicflku6CgpSLHvADw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy05NTA5ODY2NTZfZVJ5Z09XSS5qcGc=.webp\" /></div></figure><p>C-suite executives are concerned about resilience, but claims are increasingly tied to strict underwriting standards.</p>",
@@ -101,15 +112,92 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "8eb7061d8ebcd5292c382991558271db0906d3bb",
-      "title": "CISA urges device hardening after thousands of Fortinet credentials compromised",
-      "url": "https://www.cybersecuritydive.com/news/cisa-device-hardening-thousands-fortinet-credentials-compromised/823397/",
-      "published": "2026-06-22T15:10:41+00:00",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/VKp2nzAST2pRAPqxS5ipeTmzsLB2Xp7D6Zvsx3kVcZM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9GVE5ULTkwOS1raWZlci0wNS5qcGc=.webp\" /></div></figure><p>Security researchers warn of a months-long FortiBleed campaign targeting western organizations.</p>",
-      "source": "Cybersecurity Dive",
+      "id": "9ef54dec3d71d655398c0f14544790236a1c23dc",
+      "title": "New Linux pedit COW Exploit Enables Root Access by Poisoning Cached Binaries",
+      "url": "https://thehackernews.com/2026/06/new-linux-pedit-cow-exploit-enables.html",
+      "published": "2026-06-26T13:00:41+00:00",
+      "summary": "A flaw in the Linux kernel's traffic-control subsystem can let a local unprivileged user gain root on affected systems.\n\nCVE-2026-46331, nicknamed \"pedit COW,\" is an out-of-bounds write in the packet-editing action (act_pedit) that corrupts shared page-cache memory. A&nbsp;public, working exploit&nbsp;appeared within a day of the CVE assignment on June 16. Red Hat&nbsp;rates the flaw as",
+      "source": "The Hacker News",
       "region": "North America",
       "country": "US",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0PC1aWOiorYx2AGD7fl-IVefJBKPJvjy7sMo5MURoMlaq492QcSdpSqqdGZRZk3u3e6BMS7qVzrJXBuWk-kH4oRqQy1cHTxkvHBLMMbllF9R_rNqL618rz5zEV_FfOvE0_YQgI-VVWbVX772Bc72qSphwMK-TtOAoZ5A9swYpvSNYsFfdR17i8AAXXzDZ/s1600/linux-hack.jpg"
+    },
+    {
+      "id": "8cbc814816d1752cf2ad2762177b6e5bd567e26e",
+      "title": "CISA Adds Exploited PTC Windchill RCE Flaw to KEV as Web Shell Attacks Continue",
+      "url": "https://thehackernews.com/2026/06/cisa-adds-exploited-ptc-windchill-rce.html",
+      "published": "2026-06-26T12:31:56+00:00",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a critical remote code execution vulnerability impacting PTC Windchill PDMlink and PTC FlexPLM enterprise Product Data Management (PDM) and Product Lifecycle Management (PLM) software to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\n\nThe vulnerability in question is",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzGOpsiL9b-uwhocEgzazTFR251KJL6pnZAVCmzty7Nx0uR-vZ9r2-WP95IrRaKJtFoUxmBFbqrkt31Yn2MTmD0bZAaPFTlmDfHxRURuWSsRzeTWHmyZF93QR94AOrSkbLnBYEQtVGJxI5VlRinwq8cLnEVCmGWk6wCnL1zpW_LbbZ-3-yTSdAmZ-0tqO6/s1600/ptc.jpg"
+    },
+    {
+      "id": "e38fba2af3c4998e506cee9ce690259cfe0af7e8",
+      "title": "New DirtyClone Linux Kernel Flaw Lets Local Users Gain Root via Cloned Packets",
+      "url": "https://thehackernews.com/2026/06/new-dirtyclone-linux-kernel-flaw-lets.html",
+      "published": "2026-06-26T11:51:35+00:00",
+      "summary": "DirtyClone is a new Linux kernel privilege escalation in the DirtyFrag family.&nbsp;JFrog Security Research published a working exploit walkthrough&nbsp;for the flaw on June 25, the first public demonstration for this variant.\n\nTracked as&nbsp;CVE-2026-43503&nbsp;(CVSS 8.8), it lets a local user corrupt file-backed memory through a cloned network packet and gain root. The patch landed in",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidrcFiZh5KSQ9sYpF7Fafoy8kYny6olyD5WlY_oaAdYt0krMeOL8eNiTItqYmEmJ55wueKdZJlhIKMun7kwQR8AbbFPKTw0Nv-qJbPiaKA1n2J1rUHBV3YuRmdJHQpOTlsKctFMXoO8ogpgHC8rXls3FGamF7p7K1gxc-7dmU2va58Es1c40FV8AZFR-w/s1600/dirtyclone.jpg"
+    },
+    {
+      "id": "14170cc38d9b41f0cb2790f241d306a1820d0130",
+      "title": "Guardian Agents: The Next Layer of Identity Governance",
+      "url": "https://thehackernews.com/2026/06/guardian-agents-next-layer-of-identity.html",
+      "published": "2026-06-26T11:30:00+00:00",
+      "summary": "AI agents are moving through enterprise environments, inheriting permissions, traversing systems, and executing decisions at machine speed with minimal oversight. The identity infrastructure built to govern human access wasn't designed for autonomous actors, and the gap between what enterprises are deploying and what their governance programs actually cover is widening fast. This guide breaks",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiySQAlgg9_uk-lgoIhvKGoXnx274-L4HUyTdvRdDTEabD2GvfR6LY81pn8p-Vo1mSdb_ycPyUyilvhlpWRYRlb9nulwVW1MCIkZABPd-KelEYK9NAqh_tefhmTmPeDkU9D7LQqW1Yfk0rAMbK1S9-q2CVCDgDk3uu5AQOT_hcnkYKRsD169PeWiwqTq4g/s1600/guardian-agents.jpg"
+    },
+    {
+      "id": "1e3e7c8a75f13ee8b221172461debf6d3b0b8484",
+      "title": "Miasma Malware Targets npm Packages and GitHub Actions in Supply Chain Attack",
+      "url": "https://thehackernews.com/2026/06/miasma-malware-targets-npm-packages-and.html",
+      "published": "2026-06-26T11:05:45+00:00",
+      "summary": "Cybersecurity researchers have flagged yet another evolution of the supply chain attack linked to the Mini Shai-Hulud, Miasma, and Hades malware family that has compromised a new set of npm packages, even as it has propagated to the Go ecosystem.\n\n\"The latest activity includes malicious npm releases affecting LeoPlatform and RStreams packages, GitHub Actions workflow abuse, and a related Go",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhatZ2Vkvxd086INLXiuhbRJrli5Ao9hoNajbVq-Xr0HVAS70cCzhRBfM78KEusnBPI1sXyAK5tYrKt55U5mTIXCQDAmBzY2e860qtXo4YAlvAnVWHDV3DddKUML1q1g71h97Ke1i-714gv5SaVW9lmaFNtRda5XP1kc20urtc-HzlX5JXwkQv0g_-1VwC3/s1600/Miasma.jpg"
+    },
+    {
+      "id": "19198b655dcbc7005661666a89f6c44b62f71032",
+      "title": "Microsoft Warns of Photo ZIP Phishing Campaign Targeting Hotels with Node.js Implant",
+      "url": "https://thehackernews.com/2026/06/microsoft-warns-of-photo-zip-phishing.html",
+      "published": "2026-06-26T09:27:12+00:00",
+      "summary": "An active phishing campaign has been targeting hotel and other hospitality organizations across Europe and Asia since April 2026, using photo-themed ZIP files to drop a Node.js implant and dig into front-desk machines, Microsoft says.\n\nThe company has&nbsp;not attributed&nbsp;the activity to a known threat actor, and the operators' end goal is still unclear.\n\nThe lure plays to how hotels work.",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWYWOSDRBtv65eOzqdHSuOxXN7BWyBo1EAltLLUTTKGt68GYJ67zn9ixdKIQjTPCgE3P1o09UzrwXzvbopRZIhjN0LxYAZR06WaXOd116NQutGo1zLaceeob3nkuIHCeP6ZhlVp1yVOfc7dt-YZKFhEJJiPF8H5P03bc1ny0E3mi7jbIhqh7wqodC_zKE/s1600/hotel-photo-zip.jpg"
+    },
+    {
+      "id": "205acd11a3011c8c34c9e5bea70bc738ed789192",
+      "title": "Russia Used Cellebrite on Jailed Activist's iPhone Months After Sales Cutoff",
+      "url": "https://thehackernews.com/2026/06/russia-used-cellebrite-on-jailed.html",
+      "published": "2026-06-26T08:49:35+00:00",
+      "summary": "Russian authorities used Cellebrite's UFED forensic tools to break into the iPhone of detained opposition activist Andrey Pivovarov in June 2021, three months after Cellebrite said it would stop selling its tools and services to Russia and Belarus.\n\nThe finding, published&nbsp;June 25 by the Citizen Lab, rests on two things that rarely line up: traces on the phone itself and an official Russian",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBSVw_gpnELsdqj1fhZXQ6Jm-ycv8RsT1-Q7vfNeyj0_Sd-keBXqrAA9w7Vz8qt0tKM3yXkVPknx8FtRKBGBShrelNUIlZbkoUDdDz4MEeWbStRxJt5ggHFA2LFTv5Lc2g-1VC9L7-HGtWY_8VZMTInbZrXa0UY_oZsu2GUeFDH8VsHnUekF4m64OET3U/s1600/iphone-hack.jpg"
+    },
+    {
+      "id": "c0a432173c6ab923b3f219e70e03579ff877a3ba",
+      "title": "Google Details Turla's New STOCKSTAY Backdoor Used in Ukraine Espionage Attacks",
+      "url": "https://thehackernews.com/2026/06/google-details-turlas-new-stockstay.html",
+      "published": "2026-06-26T07:15:46+00:00",
+      "summary": "The Russian state-sponsored threat actor known as Turla has been attributed to a previously undocumented .NET backdoor called STOCKSTAY that has been deployed against government and military organizations in Ukraine, and entities that have an interest in Italian foreign policy.\n\nDescribing the Windows backdoor as continually developed by the hacking group, Google Threat Intelligence Group (",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9SthtlfUvEkaX0iZanYdYTAOV5hgm44yCwHu_3GCaoa11rO-GkO9oc0_qN9JGw2n86dsEsN_sdaYt2ra_4I_dQ57ja0kiUeYtkg1eY8ZJtu45oKtN-TqWLdKudnJPFQQFGPReCfu1xcfHGgfqgtLe8zyFlEoMnO2AwnsEsosf9LCZS9gJHq58Q8OcPlWP/s1600/STOCKSTAY.jpg"
     },
     {
       "id": "b9d51a29d440dcb7b4bdd10555a8bd61e2a40bb4",
@@ -574,92 +662,37 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_nqjviAfaPP-eOuhtQKNwdvOGLaN-rOmxVnoQPMOruaJvDcw5rsCi-kIKxAhOpxjCggRXt7bfwyRAKMzVKdwIPlRAJpXLl4OReBnbVtOSZYGS4Bsf9EvU71bMIkWdpDwjydNWe22WCdjgqX6b_TrPtXptekJc3N8BH5m56-wauHl5KX0DePQmv2gIoNks/s1600/webinar.jpg"
     },
     {
-      "id": "14a72652db6a3101d6c12dd08aa689b1c9eb1164",
-      "title": "ThreatsDay Bulletin: Claude Chat Abuse, NastyC2 npm Packages, Device-Code Phishing + 25 More Stories",
-      "url": "https://thehackernews.com/2026/06/threatsday-bulletin-claude-chat-abuse.html",
-      "published": "2026-06-18T15:27:54+00:00",
-      "summary": "The internet did not break this week. It got used exactly as designed, which is worse.\n\nSearches were siphoned through shady browser add-ons. AI chat links turned into malware delivery paths. macOS attacks ran in memory and left almost nothing behind. Cloud agents looked like helpers until attackers treated them like open shells.\n\nAdd exposed edge gear, poisoned packages, cash courier scams,",
-      "source": "The Hacker News",
+      "id": "1d3ad20e4a031f561aad3ff476bbab5c027c8ce7",
+      "title": "Meeting Trump's 2030 Quantum Deadline Will be Expensive, Complex",
+      "url": "https://www.darkreading.com/cybersecurity-operations/meeting-2030-quantum-deadline-expensive-complex",
+      "published": "2026-06-26T13:30:00+00:00",
+      "summary": "Getting accurate visibility into IT and OT systems will be compounded by multivendor environments, misaligned update life cycles, and interoperability gaps.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6k3CSWsyKHS6UdXmxX-w92fdsWjTSL7JR7xeaPBPh8d5G6rkZbMhmJHr9o3gxF5G2I2GojubOJnzhRqxjtKYxlXTrmlgrdRFRrmmyEEIi_zXAQXT3zpq5KNQqOFHrfGKhUFHzsMx1E2Eqs7S_jvTFfN3Jnz1YO58Ryvk0urKEDUZggoQgI07lKFWQDMfw/s1600/threatss.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3f96ce16a435deca/6a3d55be62f12d27e415ed3c/quantum_computer-Peter_Hansen-getty-2214879776.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "id": "59c6202cf4a51f5dc5515fef34348e6992b4446e",
-      "title": "Microsoft Details Windows Clipper Malware Campaign Using USB LNK Worm and Tor-Based C2",
-      "url": "https://thehackernews.com/2026/06/microsoft-details-windows-clipper.html",
-      "published": "2026-06-18T14:30:42+00:00",
-      "summary": "Microsoft has disclosed details of a Windows-based cryptocurrency clipper campaign codenamed CryptoBandits that has\n targeted users since February 2026 with clipboard-intercepting malware with self-spreading capabilities and using the Tor anonymity network to hide communication.\n\"The clipper in this campaign relies on Windows Script Host and ActiveX-driven logic to launch a bundled Tor proxy and",
-      "source": "The Hacker News",
+      "id": "9fae14ddcab843b66111c1b24e3415da4b9dd264",
+      "title": "Thanks for Crushing the Submissions Inbox. We're Trying to Keep Up",
+      "url": "https://www.darkreading.com/cybersecurity-operations/submissions-guidelines-reminder",
+      "published": "2026-06-26T13:00:00+00:00",
+      "summary": "It might be taking a bit longer than usual to respond to your submissions \u2014 here's why.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvKWONrjyxy3cGsc9xfw7n-6izVRjMImK2DpiOv4JDrtutcENRgX6JxsFQhsEMHDhZx9fGfeoj_mAQSVk9SoJumNREvmLtbWOjWaTlYn3c25sH_paaeZk-Xw08k3ckerv19Ax9stFCURiV321W7vh0f6qQbrmSHnuvPeNBeW6Grb7o6TU4s5dhJNkXyIon/s1600/clipper-malware.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb0a7aff0c7827ded/6a3c70cdfc46ad1f4754589e/kitten_hanging_on_rope_oksun70_Getty.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "id": "c2a16a69e59faaa52ed5150b202e6b8c300de8e7",
-      "title": "INC Ransomware Emerges as Major RaaS Threat in 2026 with 830+ Victims Since 2023",
-      "url": "https://thehackernews.com/2026/06/inc-ransomware-claims-830-victims-since.html",
-      "published": "2026-06-18T14:12:48+00:00",
-      "summary": "Cybersecurity researchers have charted the evolution of INC from an nascent ransomware-as-a-service (RaaS) operation to one of the most prolific cybercrime groups in 2026, claiming no less than 830 victims since August 2023.\n\n\"The disruption of LockBit and the shutdown of BlackCat created opportunities for INC to expand as affiliates migrated to alternative ransomware operations,\" Acronis",
-      "source": "The Hacker News",
+      "id": "2e413bc679a0b9ecca4a8f8fdfb4d0a4a281c365",
+      "title": "Robinhood Cuts Access Approval Time to Support High-Velocity Development",
+      "url": "https://www.darkreading.com/application-security/robinhood-reengineered-access-approvals-for-high-velocity-development",
+      "published": "2026-06-25T22:42:36+00:00",
+      "summary": "The fintech company's engineering-first application security team re-engineered the process for granting system access, making it easier and more secure for developers working on their projects. Here are the lessons learned from Robinhood's experience.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2MOms1DiyvYE-L_zXvrgrL_4cDaNBZwrhVFPq7ee58uPMORAF9v60xW8_QZbjJ05C34E2F5u9xKXBal4_DbVvUjcg8aDAvQ9iKSgWss6vnvlk4f1tgLYwb3a5xNc6T3lbGeE1pcTf35vf320No6XzS4mkw_5dTTILKfc0w6VpcTHX5VitEodFJBKMWzjA/s1600/ransomware-malware.jpg"
-    },
-    {
-      "id": "dbb96847a5eb105a48391c99d1ce7000910866f0",
-      "title": "The Scripts on Your Checkout Page Are Now a PCI DSS Problem",
-      "url": "https://thehackernews.com/2026/06/the-scripts-on-your-checkout-page-are.html",
-      "published": "2026-06-18T13:58:39+00:00",
-      "summary": "An independent PCI assessor tested Reflectiz against the new PCI DSS rules. Here is the verdict: See the full QSA assessment here \u2192\n\nWhen a customer types their card number into your checkout, their browser is running far more than your code. Analytics tags, a tag manager, a support widget, a payment iframe: a modern checkout loads dozens of third-party scripts, and any one of them can be turned",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHJHzi-rQqSIiD4wXw_HQpgvXGNTNgvJnxt42OupMrchYSmQPyeXbtsuH62zLqPHDq3bywvirdcqKSq9VQ-pZyL02RAw2IYYh1f4qcpUH4NZu50XLSDsQSSYvyqMAEwSN-8PQMcpwXZMtLC_pVYzqZMYm7qkygfMQeZEIHVWpIkYfUifJvX3oUMSBs3w0/s1600/reflectiz.jpg"
-    },
-    {
-      "id": "d4612ddcc60be251f4283dc5d6970999503bf7de",
-      "title": "DragonForce Hackers Abuse Microsoft Teams Relays to Hide Backdoor.Turn C2 Traffic",
-      "url": "https://thehackernews.com/2026/06/dragonforce-hackers-abuse-microsoft.html",
-      "published": "2026-06-18T13:30:07+00:00",
-      "summary": "Threat actors associated with the DragonForce ransomware have been observed using a custom Go-based remote access trojan (RAT) called Backdoor.Turn to conceal command-and-control (C2) traffic inside Microsoft Teams relay infrastructure.\n\nAccording to findings from Broadcom-owned Symantec and Carbon Black, the backdoor was deployed against a major U.S. services firm. The name of the company was",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidEg1Q-FcDTwCPci3OMxGy0TghiI1dbWJoaJVc88gpGgO2ia6bgne18KfS3A9qAzBnMX2rGY9H78ewtofXQO22RRpzHxWXmvQJvRZ1nsvwj37aZBtLOXXltzd1KkNRKhu2N5LpIro5Fi0BBkftPqP_IO6B3HCKx5WPtFXZKA1bfbP3xV71CpEqpT7H6RPN/s1600/teams.jpg"
-    },
-    {
-      "id": "873d3b26577d2502cd86812aa7c8575d23202b0d",
-      "title": "Crypto Clipper Campaign Abuses Fake Reviews, AI Narrators, and VirusTotal Comments",
-      "url": "https://thehackernews.com/2026/06/crypto-clipper-campaign-abuses-fake.html",
-      "published": "2026-06-17T18:14:24+00:00",
-      "summary": "An unknown threat actor has been observed leveraging paid or promoted posts on legitimate news websites to drum up buzz for their warez, according to new findings from Check Point Research.\n\nThe threat actor also has at their disposal a dedicated WordPress phishing page that acts as the central hub, alongside GitHub and SourceForge projects promoted by fake accounts, a YouTube channel, and a",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbbJOofP7P7zruPGvktMERgtQqGnu5msB1iDGyfukJA9g72QHXmHx9eJNbQaF7VIGcUqB76e5bGpnBnfg9AE4-F5kJQnY2fKtfHoi9zggEgteLN6rpYJeYE2nPlHFHWfj58a_DmklTT0x0GcWmRAxJsVGeysX9CUadCIygZTpDzBxCWZ4HvrPqhPwQy6Ng/s1600/scam.jpg"
-    },
-    {
-      "id": "595046d0ed9e96aaf3f8c56b80959bc338c34514",
-      "title": "Microsoft Confirms RoguePlanet Defender Zero-Day, Says Patch is in Development",
-      "url": "https://thehackernews.com/2026/06/microsoft-confirms-rogueplanet-defender_02022423645.html",
-      "published": "2026-06-17T17:36:28+00:00",
-      "summary": "Microsoft has formally disclosed that it's working to release a patch to address a Defender zero-day codenamed RoguePlanet.\n\nThe vulnerability has now been assigned the CVE identifier CVE-2026-50656 (CVSS score: 7.8), with the tech giant describing it as a privilege escalation flaw.\n\n\"Microsoft is aware of an elevation of privilege in the Microsoft Malware Protection Engine in Microsoft Defender",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgy3ayOlDb3vsL747G9hStxxjTd3N5i2u8hegcT_hTs4RlNqylS_HyYH4mGLQEavD-QwH3G4l-p2tE5xrXoeK-Btj5YjbENpZcnqRZ7mXCjnJgqHKaoqyE3I3yqy3tYxafbDGNOMrDsvTnJ8UKkn7DDQ8PY_sQNZI6TsNTV0lOmSqs1uxUKm3pgpmkSDpeZ/s1600/ms-patch.jpg"
-    },
-    {
-      "id": "63570e0a1faed85ab5b1698c60752b6296574db5",
-      "title": "Junior Hacker Used Tailscale and OpenSSH to Keep Access After His C2 Went Offline",
-      "url": "https://thehackernews.com/2026/06/junior-hacker-used-tailscale-and.html",
-      "published": "2026-06-17T16:00:56+00:00",
-      "summary": "A French-speaking attacker broke into a small French automotive business, planted a keylogger, and stole banking and email credentials.\n\nOrdinary stuff, until one move near the end.\n\nBefore his command-and-control server went dark, he installed OpenSSH and Tailscale on a victim's machine, building a way back in that did not run through the C2 at all. When the Havoc server went offline the next",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhN4ptzzF7u-dzNyOc4F1HsCUbEszvkkeD1ZVl7MHQNXXcUtgqb40Wgodu3aj61QDzaNsX0eJjRDGK1eNJLCbud-4iWHJjnpHPuCfTak2m9UydSW4DEJErr5L2V_KwD39P__6iVxgaOhH8mYtY2LhPFnyCavP8eJ_1N3QpGo4NkZaFJYVRc-LX0droem8Q/s1600/cyber.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt702a5bf42e4e4366/64f171e1523617b5bc948dac/office-workshop-Dzianis_Apolka-Alamy.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "id": "77aef02bbd0feabb09deeaae2537392704095e49",
@@ -1179,37 +1212,26 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6e0ea1e027e86d13/668c59f3ea2a358fd7724488/insurance(1800)_MUNGKHOOD_STUDIO_shutterstock.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "id": "c55f1e5ff8d78fafa2c9d3cabada230f00236120",
-      "title": "Nightmare-Eclipse Drops Yet Another Microsoft Exploit, RoguePlanet",
-      "url": "https://www.darkreading.com/vulnerabilities-threats/nightmare-eclipse-microsoft-exploit-rogueplanet",
-      "published": "2026-06-10T16:31:02+00:00",
-      "summary": "The disgruntled researcher released yet another PoC for a Windows Defender bug that allows for system takeover, showing no signs of abandoning their ongoing feud with Microsoft.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd9f04666615ec204/6a2945035f1b736c589d3726/zeroday_Profit_Image_shutterstock.jpg?width=720&quality=80&disable=upscale"
+      "id": "fb2367d96fa945d1dc8b3972d57ef3215238e481",
+      "title": "Miasma campaign poisons 20-plus npm packages, hunts for developer secrets",
+      "url": "https://www.theregister.com/security/2026/06/26/miasma-campaign-poisons-20-plus-npm-packages-hunts-for-developer-secrets/5262886",
+      "published": "2026-06-26T12:18:00+00:00",
+      "summary": "Microsoft says latest attack targets Leo Platform and RStreams packages, harvesting creds and going after more maintainers",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=1682668&width=800"
     },
     {
-      "id": "3fa558dfbd2159606f058a7beb3914fe79b8271b",
-      "title": "The Invisible Battlefield: How Cyberwar Is Reshaping Everyday Life",
-      "url": "https://www.darkreading.com/endpoint-security/invisible-battlefield-cyber-war-reshaping-everyday-life",
-      "published": "2026-06-09T21:57:11+00:00",
-      "summary": "Former National Cyber Director Chris Inglis warns that cyberattacks threaten hospitals, utilities, and essential services.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltad4e69f41e4f26c2/6a295351effe64868b4092ca/cyberwar-Pablo_Lagarto-RW91RR-Alamy-CP.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "id": "d808d5bfde4f167cb59d4e9000b43fb4cf8edc29",
-      "title": "Blame AI: Patch Tuesday Hits Record 206 CVEs",
-      "url": "https://www.darkreading.com/vulnerabilities-threats/blame-ai-patch-tuesday-record-206-cves",
-      "published": "2026-06-09T21:42:57+00:00",
-      "summary": "Voluminous patch updates could soon be the norm, as artificial intelligence accelerates the speed and scale of vulnerability discovery.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltfeb60ddfa47148e7/6a28821ad6dfcc1cd1233fa8/bugs_Andrii_Yalanskyi_shutterstock.jpg?width=720&quality=80&disable=upscale"
+      "id": "10eee955a207238efcc761344c71323d26a3becf",
+      "title": "Security boss thought MFA would be too much security",
+      "url": "https://www.theregister.com/security/2026/06/26/security-boss-thought-mfa-would-be-too-much-security/5261934",
+      "published": "2026-06-26T06:30:00+00:00",
+      "summary": "One rule for the workers, another for execs",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=5238981&width=800"
     },
     {
       "id": "92d9320c11ddc81f91b3589679df3e4fdf7307f5",
@@ -1740,28 +1762,6 @@
       "image": "https://image.theregister.com/?imageId=260929&width=800"
     },
     {
-      "id": "19ebe015df11eb05dc163e1fc9e64b926779828c",
-      "title": "Microsoft has mostly repaired flaw in Surface hardware that allowed unprotected devices to be bricked by a single packet",
-      "url": "https://www.theregister.com/security/2026/06/12/microsoft-has-mostly-repaired-flaw-in-surface-hardware-that-allowed-unprotected-devices-to-be-bricked-by-a-single-packet/5253895",
-      "published": "2026-06-12T13:05:00+00:00",
-      "summary": "And it was Microsoft Copilot that unwittingly revealed the longstanding vulnerability",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=427252&width=800"
-    },
-    {
-      "id": "3ec41e4e0c9b3a03ec9f95bc4d8ae083fd3c5a15",
-      "title": "Google fires sueball at alleged Chinese phishers over AI-powered fraud ops",
-      "url": "https://www.theregister.com/security/2026/06/12/google-fires-sueball-at-alleged-chinese-phishers-over-ai-powered-fraud-ops/5254841",
-      "published": "2026-06-12T12:14:02+00:00",
-      "summary": "Telegram-based 'Outsider Enterprise' accused of sending millions of scam texts and impersonating trusted brands",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=263130&width=800"
-    },
-    {
       "id": "3da70ef6e63c15ca072d2bf10a7d87f986923492",
       "title": "Scattered Spider Hackers Plead Guilty on Day 1 of Trial",
       "url": "https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/",
@@ -1817,6 +1817,83 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "35b164ab47439aa90c1de4007d75c28cb47d40d1",
+      "title": "Nebulock Raises $25 Million for AI-Native Contextual Security",
+      "url": "https://www.securityweek.com/nebulock-raises-25-million-for-ai-native-contextual-security/",
+      "published": "2026-06-26T12:37:13+00:00",
+      "summary": "<p>The cybersecurity startup provides threat hunting, proactive detection, and behavioral security analytics.</p>\n<p>The post <a href=\"https://www.securityweek.com/nebulock-raises-25-million-for-ai-native-contextual-security/\">Nebulock Raises $25 Million for AI-Native Contextual Security</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "0e97d77de98d5dc65676956dcc2bc3a97199ab7d",
+      "title": "Linux Foundation Unveils New Open Source Security Project Akrites",
+      "url": "https://www.securityweek.com/linux-foundation-unveils-new-open-source-security-project-akrites/",
+      "published": "2026-06-26T11:28:20+00:00",
+      "summary": "<p>It will provide the tools and channels to report, patch, and disclose open source software vulnerabilities.</p>\n<p>The post <a href=\"https://www.securityweek.com/linux-foundation-unveils-new-open-source-security-project-akrites/\">Linux Foundation Unveils New Open Source Security Project Akrites</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "9f61c2982d4b024afd689d574d97df44188b96b0",
+      "title": "$3 Million Reportedly Stolen in Polymarket Hack",
+      "url": "https://www.securityweek.com/3-million-reportedly-stolen-in-polymarket-hack/",
+      "published": "2026-06-26T09:47:35+00:00",
+      "summary": "<p>The decentralized prediction market said hackers targeted some of its users through a compromise of a third-party vendor.</p>\n<p>The post <a href=\"https://www.securityweek.com/3-million-reportedly-stolen-in-polymarket-hack/\">$3 Million Reportedly Stolen in Polymarket Hack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "04508003ccfa9d2e6478d946805a7be8a19adc11",
+      "title": "Russian APT Deploys \u2018StockStay\u2019 Backdoor Against Ukrainian Targets",
+      "url": "https://www.securityweek.com/russian-apt-deploys-stockstay-backdoor-against-ukrainian-targets/",
+      "published": "2026-06-26T08:55:08+00:00",
+      "summary": "<p>Turla has been using the backdoor against government and military organizations in Ukraine for espionage.</p>\n<p>The post <a href=\"https://www.securityweek.com/russian-apt-deploys-stockstay-backdoor-against-ukrainian-targets/\">Russian APT Deploys &#8216;StockStay&#8217; Backdoor Against Ukrainian Targets</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "bfa161034afd82cad0d8b17e4933abc4ab7bfc1f",
+      "title": "First-Ever Exploitation of PTC Windchill Vulnerability Discovered in the Wild",
+      "url": "https://www.securityweek.com/first-ever-exploitation-of-ptc-windchill-vulnerability-discovered-in-the-wild/",
+      "published": "2026-06-26T08:15:21+00:00",
+      "summary": "<p>CISA has added the remote code execution flaw CVE-2026-12569 to its Known Exploited Vulnerabilities catalog.</p>\n<p>The post <a href=\"https://www.securityweek.com/first-ever-exploitation-of-ptc-windchill-vulnerability-discovered-in-the-wild/\">First-Ever Exploitation of PTC Windchill Vulnerability Discovered in the Wild</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "6781a18b51c7a2a72b1335001bc600a680ed77d0",
+      "title": "New Enterprise-Ready MCP Specification Brings New Security Challenges",
+      "url": "https://www.securityweek.com/new-enterprise-ready-mcp-specification-brings-new-security-challenges/",
+      "published": "2026-06-26T08:00:00+00:00",
+      "summary": "<p>A major overhaul of the Model Context Protocol shifts critical security responsibilities from the protocol itself to developers and platform operators.</p>\n<p>The post <a href=\"https://www.securityweek.com/new-enterprise-ready-mcp-specification-brings-new-security-challenges/\">New Enterprise-Ready MCP Specification Brings New Security Challenges</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "8c925f4f578536d514136270f0ef922618a497d3",
+      "title": "Philip Martin Joins Uber as Chief Information Security Officer",
+      "url": "https://www.securityweek.com/philip-martin-joins-uber-as-chief-information-security-officer/",
+      "published": "2026-06-26T05:13:00+00:00",
+      "summary": "<p>Martin brings experience from Coinbase, Palantir, Amazon, and the U.S. Army to lead Uber's cybersecurity and enterprise security organization.</p>\n<p>The post <a href=\"https://www.securityweek.com/philip-martin-joins-uber-as-chief-information-security-officer/\">Philip Martin Joins Uber as Chief Information Security Officer</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "8c8e17f8950b78980f943d11d9e1fd15be004f3e",
       "title": "Runlayer Raises $30 Million in Series A Funding",
       "url": "https://www.securityweek.com/runlayer-raises-30-million-in-series-a-funding/",
@@ -1844,83 +1921,6 @@
       "url": "https://www.securityweek.com/lantronix-serial-to-ip-converter-flaw-exploited-in-attacks-after-ot-threat-warning/",
       "published": "2026-06-25T11:23:40+00:00",
       "summary": "<p>The exploited flaw, CVE-2025-67038, is one of the vulnerabilities disclosed in April as part of the BRIDGE:BREAK research project.</p>\n<p>The post <a href=\"https://www.securityweek.com/lantronix-serial-to-ip-converter-flaw-exploited-in-attacks-after-ot-threat-warning/\">Lantronix Serial-to-IP Converter Flaw Exploited in Attacks After OT Threat Warning</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "23e75ad659353906e88c0c32eca1af107952d086",
-      "title": "GitLab Patches Code Execution, Information Disclosure Vulnerabilities",
-      "url": "https://www.securityweek.com/gitlab-patches-code-execution-information-disclosure-vulnerabilities/",
-      "published": "2026-06-25T11:10:04+00:00",
-      "summary": "<p>The latest GitLab CE/EE updates address 13 vulnerabilities, including three high-severity defects.</p>\n<p>The post <a href=\"https://www.securityweek.com/gitlab-patches-code-execution-information-disclosure-vulnerabilities/\">GitLab Patches Code Execution, Information Disclosure Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "96ad4caf6291db21a887615e8d58c83f7dc31857",
-      "title": "25-Year-Old Vulnerability Patched in Curl",
-      "url": "https://www.securityweek.com/25-year-old-vulnerability-patched-in-curl/",
-      "published": "2026-06-25T09:25:02+00:00",
-      "summary": "<p>The latest version of the open source data transfer tool resolves 18 medium and low-severity vulnerabilities.</p>\n<p>The post <a href=\"https://www.securityweek.com/25-year-old-vulnerability-patched-in-curl/\">25-Year-Old Vulnerability Patched in Curl</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "644f23d3a25bde1c29a8ce5b984278c1383aa609",
-      "title": "SecurityWeek ICS Cybersecurity Conference Heads to Nashville for Special 25-Year Anniversary Edition",
-      "url": "https://www.securityweek.com/securityweek-ics-cybersecurity-conference-heads-to-nashville-for-special-25-year-anniversary-edition/",
-      "published": "2026-06-25T09:00:00+00:00",
-      "summary": "<p>The 2026 Industrial Control Systems (ICS) Cybersecurity Conference takes place October 6-8, 2026, at the W Nashville.</p>\n<p>The post <a href=\"https://www.securityweek.com/securityweek-ics-cybersecurity-conference-heads-to-nashville-for-special-25-year-anniversary-edition/\">SecurityWeek ICS Cybersecurity Conference Heads to Nashville for Special 25-Year Anniversary Edition</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "9672a447fe7f5cd9f81d127f2f729c34a689709f",
-      "title": "NIST Opens Updated IoT Security Guidance to Public Review",
-      "url": "https://www.securityweek.com/nist-opens-updated-iot-security-guidance-to-public-review/",
-      "published": "2026-06-25T08:29:26+00:00",
-      "summary": "<p>The guidance aims to establish product cybersecurity requirements for IoT devices integrated into federal agencies\u2019 networks.</p>\n<p>The post <a href=\"https://www.securityweek.com/nist-opens-updated-iot-security-guidance-to-public-review/\">NIST Opens Updated IoT Security Guidance to Public Review</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "8dab1768a2400f148d108f5a3d78f634c9b81774",
-      "title": "Chrome 149 Update Resolves 18 Severe Vulnerabilities",
-      "url": "https://www.securityweek.com/chrome-149-update-resolves-18-severe-vulnerabilities/",
-      "published": "2026-06-25T07:56:03+00:00",
-      "summary": "<p>More than half of the bugs are use-after-free defects, which can potentially lead to remote code execution.</p>\n<p>The post <a href=\"https://www.securityweek.com/chrome-149-update-resolves-18-severe-vulnerabilities/\">Chrome 149 Update Resolves 18 Severe Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "f02a80b435853124157f91c3c8ddf09ac3e05b85",
-      "title": "Cisco SD-WAN Zero-Day Exploited Months Before Patching",
-      "url": "https://www.securityweek.com/cisco-sd-wan-zero-day-exploited-months-before-patching/",
-      "published": "2026-06-25T06:08:43+00:00",
-      "summary": "<p>CVE-2026-20245, the 7th Cisco SD-WAN vulnerability exploited in 2026, was used for months prior to its disclosure and patching.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisco-sd-wan-zero-day-exploited-months-before-patching/\">Cisco SD-WAN Zero-Day Exploited Months Before Patching</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "fc45ff49569ee01e4cb5d2b3a35567a64937d48b",
-      "title": "When Information Becomes the Attack Surface \u2013 Understanding AI Agent Traps",
-      "url": "https://www.securityweek.com/when-information-becomes-the-attack-surface-understanding-ai-agent-traps/",
-      "published": "2026-06-24T17:37:57+00:00",
-      "summary": "<p>From hidden content injections to cognitive state poisoning, attackers are turning trusted data sources into traps for autonomous AI.</p>\n<p>The post <a href=\"https://www.securityweek.com/when-information-becomes-the-attack-surface-understanding-ai-agent-traps/\">When Information Becomes the Attack Surface &#8211; Understanding AI Agent Traps</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
