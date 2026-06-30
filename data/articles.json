@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-06-29T15:22:33.550880+00:00",
+  "generated_at": "2026-06-30T01:57:28.770253+00:00",
   "items": [
+    {
+      "id": "39284db9a031fad49c0484eeaa9985c387168b7b",
+      "title": "Insurance body confirms hackers posted Oracle PeopleSoft breach data",
+      "url": "https://www.cybersecuritydive.com/news/insurance-body-hackers-oracle-peoplesoft-breach-data/823978/",
+      "published": "2026-06-29T15:10:57+00:00",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/PW_Pz6nukNi5n47k75VaVoRXoJO1qMaWoOhpL7myW5A/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8xMjE0NTAzNzMwNDI3MDg0LktsbFU3OWR0V0lWOEhneFczTERrX2hlaWdodDY0MC5wbmc=.webp\" /></div></figure><p>NAIC warned that some ratings agencies have suspended data feeds as a precaution.&nbsp;</p>",
+      "source": "Cybersecurity Dive",
+      "region": "North America",
+      "country": "US",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
     {
       "id": "c1bf902bab3277cc4dc95985c31fba907ce56f2c",
       "title": "OpenAI voluntarily limits new AI models at government\u2019s request",
@@ -101,15 +112,37 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "05654da0477e8e1bab2a1edba5ba5f0b04247825",
-      "title": "White House\u2019s state infrastructure cybersecurity initiative stalled",
-      "url": "https://www.cybersecuritydive.com/news/white-house-states-cybersecurity-pilot-programs-oncd/823453/",
-      "published": "2026-06-24T13:37:00+00:00",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/DdqEFpCeaMtT5w-qT-QRDOwz7tyYWnqBXC3DOvozg8Y/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDk0MzExNDUuanBn.webp\" /></div></figure><p>The Trump administration says it wants to help states implement innovative defenses. Most states are still waiting for the call to participate.</p>",
-      "source": "Cybersecurity Dive",
+      "id": "b5b545b31fc070c856d735a4bf68af9e247d6497",
+      "title": "Malicious Perplexity Chrome Extension Intercepted Searches and Address Bar Input",
+      "url": "https://thehackernews.com/2026/06/malicious-perplexity-chrome-extension.html",
+      "published": "2026-06-29T18:40:09+00:00",
+      "summary": "Microsoft has found a malicious Chrome extension that posed as the AI search engine Perplexity and quietly logged what people searched for. It routed every query and every character typed into the address bar through an attacker-controlled server before redirecting users to real results.\n\nMicrosoft says Google removed it from the store after responsible disclosure. The extension was called \"",
+      "source": "The Hacker News",
       "region": "North America",
       "country": "US",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOcObOpyIQZzuiNoFu6Lv4jCDh64o1WYrC3stGdk58mMRg69RT56svVrXVwu618f6szk2lj_Tqbt6b7Rg25yV0cauxIDTbMAI8cbftKVYibIt5SMeaOT2zE3oeuu-RLI7M1mkEV3zirqDiO-nLMikX7QixM2EpVIdKQERGc7I_0p58L4J-s5mBjSCpgHc/s1600/pp-ai.jpg"
+    },
+    {
+      "id": "4a06aac17b5d408872d5b921cd7470201e0df694",
+      "title": "WhatsApp is Finally Getting Usernames to Help Keep Phone Numbers Private",
+      "url": "https://thehackernews.com/2026/06/whatsapp-is-finally-getting-usernames.html",
+      "published": "2026-06-29T16:09:21+00:00",
+      "summary": "WhatsApp on Monday officially announced the start of global reservations of usernames with an aim to protect the privacy of more than three billion users on the messaging platform.\n\nThe optional feature is designed to help users connect with someone on the service through usernames, as opposed to directly sharing their phone numbers. Username reservations will start rolling out starting today,",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEio-ZtaOMuibm1cwTHj1YFNRqRbs2GdaipPSXv1pzX9qcUI2VS6MGjpxEcNnhU0zniwOokUFL530mntMPSO2X8CjA3ybwYDXEwsJb9sV7nP9QWiDHLTiYV6Yf10B9qHNTdqsU3hn-ac8mzmzghyphenhyphenrhvgSJQBEgP723mfcyNA4y1ck5wKPBY1ELzb_xpQhB_s/s1600/whatsapp-usernames.jpg"
+    },
+    {
+      "id": "79d5b410cb0c2f889f9f7ab3ba50169d3923464f",
+      "title": "Mustang Panda Uses Zoho WorkDrive as Command Channel in Indian Government Attacks",
+      "url": "https://thehackernews.com/2026/06/mustang-panda-uses-zoho-workdrive-as.html",
+      "published": "2026-06-29T15:03:40+00:00",
+      "summary": "The China-aligned espionage group&nbsp;Mustang Panda&nbsp;is running two campaigns against the Indian government and hydropower targets, deploying new malware and turning a legitimate cloud service into its command channel.\n\nAcronis Threat Research Unit&nbsp;found active compromises inside Indian government networks, including machines used by senior administrative staff, and worked with&nbsp;",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4479X60pqma2HNkNzrVQuQlGImd-48w4eYTTW-wylTLfK7XfLPtmNOMi79oy48LNiFg-4a_vqF378ZobR2Dy6VTO38VxbsFc_l8xQypwe-V43txSB7f73JS142E4uBXjrLKx0lcS-UOUMZ45kLeYgaqCjg2Je2TElLosoBvARIQpzam5q3ckk5CVXsoAF/s1600/india-china.jpg"
     },
     {
       "id": "8d5ef803d7b6e06edb4a64abb17914677ad18530",
@@ -629,37 +662,59 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSdS_7552zEvsn5xVfDcVMG2u8ponFIE1E65j5A8Wx-qUroU49h-f6qF7FPCABA063IjNnw-JntL-L1iZjHpiuqATqkDv-2vpi6lCVG1idXkg_elRJkyoUgASk4uYCTJ95EHfVQLJngVLKOxM2H5zLkdeFY7kpzveHUuKFoks0_ujNo9tJNQxm7XVgYb4/s1600/xmcyber.jpg"
     },
     {
-      "id": "862328431877a6fe28234ea99ee748732751c5f0",
-      "title": "\u26a1 Weekly Recap: Browser Bugs, EDR Killers, TV Botnet, OpenBSD Flaw, Android Trojan, and More",
-      "url": "https://thehackernews.com/2026/06/weekly-recap-browser-bugs-edr-killers.html",
-      "published": "2026-06-22T10:55:10+00:00",
-      "summary": "It\u2019s Monday again.\n\nThis week\u2019s threat list looks painfully familiar: abused integrations, fake tools, poisoned websites, ransomware crews trying to shut down security tools, and mobile malware asking for way too much control.\n\nThe annoying part is how little of this feels new. Weak credentials, sketchy downloads, browser extensions with too much access, and WordPress sites are used to push more",
-      "source": "The Hacker News",
+      "id": "f106129ab2c701d1986ff2705b941086edf4cdb9",
+      "title": "'Djinn' Stealer Targets Cloud, AI Credentials",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/djinn-stealer-targets-cloud-ai-credentials",
+      "published": "2026-06-29T21:29:15+00:00",
+      "summary": "The infostealer was delivered via CVE-2026-48558, a critical authentication bypass vulnerability in SimpleHelp, targeting credentials linking development and admin environments to wider enterprise systems.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWTle5JU3HMoV1yUzXt6nAYO-EtyfOp22bJldi9N4fwakWmzrwwjBKfQNkprStB3B9K5HyUchIUCoNpGs-Kn2EHwClO7xJOV-qZQeDKFllNQrZ-TYq6OiikJkwi65NdfFcR7XhMTuIpmwSdoglwRcMcI43rLGB1B462ZXhd7nkh-q-FNnpPKoeUyL7bUqs/s1600/recap-main.gif"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb3a3f4df4386574c/6a42db87ff96a7b022fd72f5/djinn_Dimart_Graphics_shutterstock.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "id": "e34b04d248816badef317a3d5815af26b9eaf753",
-      "title": "Canada\u2019s Spy Agency Used First-of-Its-Kind Warrant to Clean Botnet-Infected Devices",
-      "url": "https://thehackernews.com/2026/06/canadas-spy-agency-used-first-of-its.html",
-      "published": "2026-06-22T09:11:37+00:00",
-      "summary": "Canada's spy service got a judge's permission to reach into infected servers, home routers, and IoT gear sitting on Canadian soil and neutralize two foreign-run botnets.\n\nThe Federal Court&nbsp;released a public version of the ruling on June 15. It is the first time the Canadian Security Intelligence Service has used its threat reduction warrant powers this way.\n\nThe warrant let CSIS alter,",
-      "source": "The Hacker News",
+      "id": "3eaf142402b0a9159cbbfd64b7fb79eaccaa75bb",
+      "title": "Vulnerabilities Expose Private Data in Indian Government Systems",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/vulnerabilities-private-data-indian-government-systems",
+      "published": "2026-06-29T21:05:29+00:00",
+      "summary": "One critical vulnerability, among many discovered by a researcher, could have allowed anyone to walk in and take over a national government portal.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLwfeNp6y7paVA9a8F1NvROjNla494WBkRnt8JfQrDpxLCB-cEiewUAhyQeD9_xw1xL_KQkfXp5EnMImW7_js9HDTAjN5b-Sf5uIV4RghVuxpHYvd0YdAeJMXuRsm-xJldrNnBnoRK1lfZNT3aFUd-re2yS6X5Q05F2k7_RXQb1sPkhQp3_faoocFqayvj/s1600/cn.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6e7f8fc00f3ce97c/6a42c5e6f990b60082e51b44/India_cockroach_mask-Ritesh_Shukla-Getty.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "id": "d3da42cf81a58187fefaf3cbb4cc0a3ddd3ab23c",
-      "title": "AryStinger Malware Infects 4,300 Legacy Routers to Build Reconnaissance Proxy Network",
-      "url": "https://thehackernews.com/2026/06/arystinger-malware-infects-4300-legacy.html",
-      "published": "2026-06-22T06:57:44+00:00",
-      "summary": "A new malware family is turning forgotten home routers into a distributed reconnaissance and proxy network, not the DDoS botnet these devices usually end up in. QiAnXin's&nbsp;XLab&nbsp;calls it AryStinger and counts at least 4,300 infected routers, a total it says is still rising.\n\nThe distinction matters. AryStinger exists for the stage of an attack that comes before the break-in. Infected",
-      "source": "The Hacker News",
+      "id": "a360d36efc23fcad59482147afb75895bc85f015",
+      "title": "Can Clothes Make You Invisible to Facial Recognition?",
+      "url": "https://www.darkreading.com/cyber-risk/clothes-invisible-facial-recognition",
+      "published": "2026-06-29T19:38:04+00:00",
+      "summary": "Does life feel Orwellian sometimes? One researcher has a solution for you: graphic tees that confuse the neural networks in surveillance cameras.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjr0TUOEuqak_4OJNaS9ogmGXQl1QWTMkdmvIDNy6mlYVxjA-Z5qfywF_6OwxaJRDuvrq9E106Cx9hqmsFMKMnVATj5uApKOILaXa3BeTojf-TBEqe80iUtz-dyqlLSxbgygqj-hE_rSeJMWAM40HIdWkY1YhGD5dYjzVSMwNAn4GbfaCijDUoudDau-DIj/s1600/router.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8704fb69f68c1e69/6a415c91573ebe1989d149e5/noRecognition-Bill_Swearingen.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "id": "e4614cf3cbdfae3c50aaae066b77c1310ed2f9d4",
+      "title": "Iran, Russia, China Target Water Systems for Sabotage",
+      "url": "https://www.darkreading.com/ics-ot-security/iran-russia-china-target-water-systems-sabotage",
+      "published": "2026-06-29T19:12:08+00:00",
+      "summary": "Nation-state attackers breach water systems through weak passwords, exposed PLCs, and poor segmentation \u2014 not sophisticated malware.",
+      "source": "DarkReading",
+      "region": "North America",
+      "country": "US",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt24bbf93173729620/6a42bce1588d51aaf968fa84/wastewater_plant_engineers-BugTiger-Getty-2160087422.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "id": "32d54fd5f0220dfcd43d685d34c94f97e3b986cc",
+      "title": "Amazon Q VS Extension Flaw Leads to Cloud Credential Theft",
+      "url": "https://www.darkreading.com/cloud-security/amazon-q-vs-extension-flaw-leads-cloud-credential-theft",
+      "published": "2026-06-29T11:44:42+00:00",
+      "summary": "Adversaries could plant a malicious repository that can execute arbitrary code and steal cloud credentials by exploiting the vulnerability, which showcases growing MCP risk.",
+      "source": "DarkReading",
+      "region": "North America",
+      "country": "US",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt739efb26c97e2c21/6a4262393ad9ac7b4208de76/AI_agents_(1800)_Kiattisak_Lamchan_Alamy.png?width=720&quality=80&disable=upscale"
     },
     {
       "id": "678040c96ab6421571d2bd0948db715076cc66d1",
@@ -1157,59 +1212,37 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2b60582de22ac501/6a2c8cf58294cd8665300914/Stop_Button_Ruangrit_Getty.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "id": "aa1ba25ff34dd9280fa9857cfb3a86b3a578c229",
-      "title": "US Cracks Down on Anthropic AI Models Amid Abuse Concerns",
-      "url": "https://www.darkreading.com/cyber-risk/us-cracks-down-anthropic-ai-models-abuse-concerns",
-      "published": "2026-06-15T12:17:22+00:00",
-      "summary": "Anthropic abruptly suspended all access to Fable 5 and Mythos 5 after receiving an export control directive that banned foreign nationals from using the technology.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc8a7bcad0a752a44/6a2ecc83523ab2b32c0badfb/caged-lion-Bratislav-Kostic-shutterstock.jpg?width=720&quality=80&disable=upscale"
+      "id": "2fa12899606ad864a89af6098e8bfbb57fca87d8",
+      "title": "Security researchers tricked LLMs into giving them cocaine recipes by abusing role models for prompt injection",
+      "url": "https://www.theregister.com/ai-and-ml/2026/06/30/security-researchers-tricked-llms-into-giving-them-cocaine-recipes-by-abusing-role-models-for-prompt-injection/5264115",
+      "published": "2026-06-29T23:33:09+00:00",
+      "summary": "If you want a picture of the future of LLM security, imagine Whac-a-Mole meets Groundhog Day",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=5264140&width=800"
     },
     {
-      "id": "9acd328765bdf598cd6871a30d2bdbe23770ad43",
-      "title": "ShinyHunters Uses Oracle Zero-Day to Rampage Higher Ed",
-      "url": "https://www.darkreading.com/vulnerabilities-threats/shinyhunters-oracle-zero-day-higher-ed",
-      "published": "2026-06-12T20:26:32+00:00",
-      "summary": "A major bug in Oracle's ERP software disproportionately affected American universities, and hackers have capitalized by stealing gobs of data.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt31e3255d2f669774/6a2c5022812b3c9f6a8ed16c/Oracle-mtcurado-Getty.jpg?width=720&quality=80&disable=upscale"
+      "id": "4861d620be4d997de3dd188d45b90a6fbe6e45b3",
+      "title": "Four years into Ukraine invasion, Russia turns influence-ops back to US and Europe",
+      "url": "https://www.theregister.com/security/2026/06/29/four-years-into-ukraine-invasion-russia-turns-influence-ops-back-to-us-and-europe/5264011",
+      "published": "2026-06-29T22:10:16+00:00",
+      "summary": "Not today, Putin",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=4093955&width=800"
     },
     {
-      "id": "42c5cd3cdb92b10e36db95ddc73d538887ad6335",
-      "title": "Claude Fable 5 Doesn't Change the Mythos Security Story",
-      "url": "https://www.darkreading.com/vulnerabilities-threats/claude-fable-5-doesnt-change-mythos-security-story",
-      "published": "2026-06-12T13:01:00+00:00",
-      "summary": "Stay cool: Mythos 5 is an upgrade over Mythos Preview while Fable 5 is Mythos &quot;made safe for general use,&quot; Anthropic explains.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte968bc333f7d9aab/6a2b0449b2248a454686bdf2/Tortoise_and_Hare-Walter_B._McKenzie-Getty-200291947-001.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "id": "65041a6fdf5c584ca60d6b66f36529967e2c3501",
-      "title": "Phishing Attack Volume Down 20%, But Risk Still Rising",
-      "url": "https://www.darkreading.com/cybersecurity-analytics/phishing-volume-down-20-risk-rising",
-      "published": "2026-06-12T00:58:07+00:00",
-      "summary": "Hackers are valuing quality over quantity, using AI to upgrade their phishing attacks rather than multiply them.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt93b107611e96e744/6a2beaf16b9ea711f9a55d27/zenith-live26-zscaler.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "id": "baaef08c218aea71dd9037e228db5a6590754b8f",
-      "title": "Max-Severity Ivanti Flaw Exploited 24 Hours After Disclosure",
-      "url": "https://www.darkreading.com/vulnerabilities-threats/max-severity-ivanti-sentry-flaw-exploited-24-hours",
-      "published": "2026-06-11T18:43:57+00:00",
-      "summary": "Initial methods suggest attackers had likely mapped out Ivanti's asset landscape upfront and acted quickly once the exploit became public.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt93702e2124ff952d/6a2b02be878b01264829203a/vulnerability-gorodenkoff-Getty-817486068.jpg?width=720&quality=80&disable=upscale"
+      "id": "5955c80a17ae16352bc569a406a476be21c4184d",
+      "title": "Anonymous researcher drops 0-day 'exploitarium' repo",
+      "url": "https://www.theregister.com/security/2026/06/29/anonymous-researcher-drops-0-day-exploitarium-repo/5263961",
+      "published": "2026-06-29T20:29:35+00:00",
+      "summary": "At least two vulnerabilities are already under attack",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=5263996&width=800"
     },
     {
       "id": "dfc5424dbc83a773e9cb467a89dcf14cffff6990",
@@ -1729,37 +1762,15 @@
       "image": "https://image.theregister.com/?imageId=5255863&width=800"
     },
     {
-      "id": "19e115ed89e394bd56416f661cd57b8a025c1ed5",
-      "title": "Council of Europe hacked in ShinyHunters' PeopleSoft heist",
-      "url": "https://www.theregister.com/cyber-crime/2026/06/15/council-of-europe-hacked-in-shinyhunters-peoplesoft-heist/5255757",
-      "published": "2026-06-15T17:44:00+00:00",
-      "summary": "Joins the ranks of Nottingham Uni and 100 other unnamed victims",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=5255785&width=800"
-    },
-    {
-      "id": "3b8844a01ff17b9f31d62d5bca3e5d95816d547b",
-      "title": "Feds snooze as US datacenter law set to lapse with no replacement in site",
-      "url": "https://www.theregister.com/public-sector/2026/06/15/feds-snooze-as-us-datacenter-law-set-to-lapse-with-no-replacement-in-site/5255679",
-      "published": "2026-06-15T16:47:00+00:00",
-      "summary": "Federal Data Center Enhancement Act (FDCEA) of 2023 covers standards including security and sustainability",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=5255734&width=800"
-    },
-    {
-      "id": "a69b3bb0dcf0792c6f31c8466555e06e238a14bb",
-      "title": "Microsoft site throwing warnings after someone forgot to renew cert",
-      "url": "https://www.theregister.com/security/2026/06/15/microsoft-site-throwing-warnings-after-someone-forgot-to-renew-cert/5255597",
-      "published": "2026-06-15T15:33:35+00:00",
-      "summary": "Connectivity checker trips browser alarms thanks to lapsed security paperwork",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=5241525&width=800"
+      "id": "0e3781e53210e690a6e80069b67a662ed92e268e",
+      "title": "WhatsApp Rolling Out Username Feature to Bolster Phone Number Privacy",
+      "url": "https://www.securityweek.com/whatsapp-rolling-out-username-feature-to-bolster-phone-number-privacy/",
+      "published": "2026-06-29T16:00:01+00:00",
+      "summary": "<p>An optional \u2018username key\u2019 adds another layer by requiring a secondary credential before someone can message users.</p>\n<p>The post <a href=\"https://www.securityweek.com/whatsapp-rolling-out-username-feature-to-bolster-phone-number-privacy/\">WhatsApp Rolling Out Username Feature to Bolster Phone Number Privacy</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
       "id": "4914896088963403e9f224aee0211d86ca9afddc",
@@ -1855,17 +1866,6 @@
       "url": "https://www.securityweek.com/amazon-q-flaw-enabled-cloud-credential-theft-via-malicious-repositories/",
       "published": "2026-06-26T15:23:46+00:00",
       "summary": "<p>AWS has patched the vulnerability and published its own advisory to inform customers about the potential impact.\u00a0</p>\n<p>The post <a href=\"https://www.securityweek.com/amazon-q-flaw-enabled-cloud-credential-theft-via-malicious-repositories/\">Amazon Q Flaw Enabled Cloud Credential Theft via Malicious Repositories</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "3a46ed4946a04612979e512383592e33bef8dcf1",
-      "title": "More Klue Breach Victims Identified as Hackers Get Hacked",
-      "url": "https://www.securityweek.com/more-klue-breach-victims-identified-as-hackers-get-hacked/",
-      "published": "2026-06-26T15:01:33+00:00",
-      "summary": "<p>Roughly two dozen companies have notified their customers of the Klue-Salesforce incident impact.</p>\n<p>The post <a href=\"https://www.securityweek.com/more-klue-breach-victims-identified-as-hackers-get-hacked/\">More Klue Breach Victims Identified as Hackers Get Hacked</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
