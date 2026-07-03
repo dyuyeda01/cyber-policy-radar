@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T01:26:39.099315+00:00",
+  "generated_at": "2026-07-03T13:26:27.345480+00:00",
   "items": [
     {
       "id": "783261e1d4fa15b71f39add5c2ffc17f00dee91a",
@@ -110,6 +110,28 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "6193781ce5d1f963b94230beafd74b02e8148fff",
+      "title": "European Parliament Member Investigating Spyware Was Hacked With Pegasus",
+      "url": "https://thehackernews.com/2026/07/european-parliament-member.html",
+      "published": "2026-07-03T11:05:43+00:00",
+      "summary": "A new report from the Citizen Lab has revealed that former Member of the European Parliament Stelios Kouloglou had his mobile device repeatedly hacked with the notorious Pegasus spyware while serving on a committee that was tasked with investigating the abuse of such commercial surveillance tools in the bloc.\n\n\"Through forensic analysis of his device, we found that the attackers could have had",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhC5WPtje84KYSxAYIbS54mCBmT7srsKokiZPsDcIbhcky59AAsHQYbWo4TrLsj3y1d7uI10DVgOt_5aEFaPQxKiwAPsJQJllaBBtuogSb7D8JF54_ahgzDstn8ST7WTRUAnhC10prFKCJgfkqEOW7m0o1yWDb-jzZFUWkzXEi65Sl5lyuLKr_4Da5ZpAgY/s1600/iphone-spyware.jpg"
+    },
+    {
+      "id": "c155c9a0f7a830a6719708ebd18ae24df0688dd2",
+      "title": "PamStealer Uses Fake Maccy Sites and PAM Checks to Steal Mac Login Passwords",
+      "url": "https://thehackernews.com/2026/07/pamstealer-uses-fake-maccy-sites-and.html",
+      "published": "2026-07-03T08:03:37+00:00",
+      "summary": "Cybersecurity researchers have flagged a new macOS information stealer called PamStealer that employs a series of clever tricks to infect systems and siphon sensitive data.\n\nThe stealer, discovered by Jamf Threat Labs, is distributed as a compiled AppleScript (.scpt) file impersonating Maccy, a legitimate open-source clipboard manager. It has been codenamed PamStealer owing to its ability to",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEmcBMGUjTwe51gVQWP401twHYLMUOocwG9nYkgadlFV6cmGXrPS-3PeNTg_GJOaUVohWILNXgIC8ufSkPqXRbW1wIyvUr5JEKCrrMI3_hlN8uFtxpf-sBn743tQmlK2ipu_qWtY3k18cPkaQ6XGJnR7RPjuMOWkYwcmJ5XSnSNQHbNpkEgyyP29hJA6j2/s1600/macos-malware.jpg"
     },
     {
       "id": "f33ae8a12a17126866035030c5af5011ee03a522",
@@ -640,26 +662,15 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBjmO4haWCgXfALMAtSHKJXRWIlLfYqulkKflfK-3BSYON-8A4MjUNoZRxOyaLGc-4Bsj1eIfGDhdpJuKZrJORz4HZHx5iM7lj0-VlehqqZ6kaq5_ZWP08MviAchtNF1XORD_Fps-IWderGKNM18TT-Jgh_0LRFULqdMeOfv_FKDd8oWmHmv-iR1-_7XZP/s1600/gogo.jpg"
     },
     {
-      "id": "c3511abdf2626fc58cb6df33a5292b53703e0920",
-      "title": "Ukraine Says Russian Intelligence Used Fake Support Texts to Steal Messaging Credentials",
-      "url": "https://thehackernews.com/2026/06/ukraine-says-russian-intelligence-used.html",
-      "published": "2026-06-27T17:27:11+00:00",
-      "summary": "The Security Service of Ukraine (SSU) said it, together with the U.S. Federal Bureau of Investigation (FBI), uncovered a long-running campaign orchestrated by Russian intelligence services to break into the messaging accounts of government officials, military personnel, politicians, and activists in Ukraine, Europe, and the U.S.\n\nThe systematic cyber attacks aimed at stealing sensitive",
-      "source": "The Hacker News",
+      "id": "a516dfa4b222dfdf93086d7237988392fea041c5",
+      "title": "Chinese LLMs Broaden the Gap Between Attackers &amp; Defenders",
+      "url": "https://www.darkreading.com/cyber-risk/chinese-llms-broaden-gap-between-attackers-and-defenders",
+      "published": "2026-07-03T13:01:00+00:00",
+      "summary": "Two new models from Chinese firms compete with top US mainstream and frontier models. Should cyber-defenders be worried?",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgL9wu_kGShq1lDTiDFjL3VdxF51l9aXdtW8vfE6Z0f3nLKXnr3WctY8jw3INV7FcO0FmLzv_EVCkfmsC4AmEaPih-SD_c24f8R_MJjjNT8OBdd6SuwVECGV3VdxnMDBs7ULHaVBFPPGkZZcruUhMcbmYE-RQu-QTZfn7rEWltSSSdFLhJeZKIZy4jZzl7L/s1600/cyberattack.jpg"
-    },
-    {
-      "id": "8fca0b79ae2b035d5710982182253fa01cdc28cb",
-      "title": "OpenAI Previews GPT-5.6 Sol With Restricted Access and Stronger Cyber Safeguards",
-      "url": "https://thehackernews.com/2026/06/openai-limits-gpt-56-rollout-as-sol.html",
-      "published": "2026-06-27T12:19:37+00:00",
-      "summary": "OpenAI on Friday released three versions of GPT-5.6, called Sol, Terra, and Luna, as a limited preview to a small number of companies as part of an ongoing engagement with the U.S. government.\n\nWhile Sol is the latest flagship model and the most powerful, Terra strikes a balance between efficiency and power, and Luna is fine-tuned for speed and affordability.\n\n\"GPT\u20115.6 Sol launches with our most",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiweorWxmIvPG8uskOe44fLur9F5OJvqVdFLV1ejFqQozXruk70nzMhRaY58n4BuMhW1sbsdSvhTrlSxM8U5SLwPdaeRWNi4eQMUjEsFgmGV-37gTdnqk1NXLT4Ixadu4sq_pm0l_HVzuGHaIgcDnV_y092aZ1gCKkZ6lh2bp24PUBUfgsCSgvjlZiKRLMH/s1600/gpt.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0617bd7899766864/6a46aac83cc4ed702aef33b2/castle-of-the-moors-Gabriela_Beres-shutterstock.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "id": "21a57259d18b18637e7b312b86ce4e72ffc571c7",
@@ -1201,15 +1212,26 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta7151b99725c6823/6a342d9a0da29c8273ce5feb/novonordisk_gguy_shutterstock.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "id": "383f963f9124b8909fdf5bdb927e7b0747a2d1f8",
-      "title": "Operation Escaneo Signals Shift in LatAm Threat Landscape",
-      "url": "https://www.darkreading.com/cybersecurity-operations/operation-escaneo-signals-shift-latam-threat-landscape",
-      "published": "2026-06-18T19:09:21+00:00",
-      "summary": "The threat group's curious business model may combine opportunistic monetization alongside intel collection, without much coordination between the two.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt88a9f0679bb37c41/6a342e3add6052e430952745/National_Palace_Mexico_City-stockcam-getty-171587268.jpg?width=720&quality=80&disable=upscale"
+      "id": "3898af91f9bc83a184f9f84d1a18b40d1317757f",
+      "title": "NetNut cracked as Google and FBI target 2 million-device botnet",
+      "url": "https://www.theregister.com/security/2026/07/03/netnut-cracked-as-google-and-fbi-target-2-million-device-botnet/5266414",
+      "published": "2026-07-03T12:03:00+00:00",
+      "summary": "Other residential proxy brands may rely on the same network",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=5266492&width=800"
+    },
+    {
+      "id": "1191baacf28093a6d9012226a0c870400263bf5b",
+      "title": "User swore hacker called General Failure had invaded his PC",
+      "url": "https://www.theregister.com/personal-tech/2026/07/03/user-swore-hacker-called-general-failure-had-invaded-his-pc/5265548",
+      "published": "2026-07-03T06:30:00+00:00",
+      "summary": "Maybe they were looking for Private Data",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=5265570&width=800"
     },
     {
       "id": "51e54ac482c17a187142398010bcba71335c713b",
@@ -1740,28 +1762,6 @@
       "image": "https://image.theregister.com/?imageId=5258685&width=800"
     },
     {
-      "id": "7f6e57bda841eb3d8e8ba1a3a35273215e7644fd",
-      "title": "Researchers drop checkm8-style BootROM exploit for A12 and A13 iPhones",
-      "url": "https://www.theregister.com/security/2026/06/19/researchers-drop-checkm8-style-bootrom-exploit-for-a12-and-a13-iphones/5259028",
-      "published": "2026-06-19T16:02:00+00:00",
-      "summary": "Owners of affected iPhones can stop checking for patches now: the fix for this SecureROM bug comes in a new handset",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=5241038&width=800"
-    },
-    {
-      "id": "0a7d1080e36db90731cfcd9604995847e52a3d5a",
-      "title": "Everything's bigger and better in Texas \u2013 even data breaches",
-      "url": "https://www.theregister.com/security/2026/06/19/texas-gov-vendor-breach-exposes-data-of-3m-hunters-anglers/5258815",
-      "published": "2026-06-19T13:01:00+00:00",
-      "summary": "Hunting and fishing license incident catches 3M residents",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=4093857&width=800"
-    },
-    {
       "id": "80703c01ba9374f55b423670a47eadb20d5b1a90",
       "title": "FBI Seizes NetNut Proxy Platform, Popa Botnet",
       "url": "https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/",
@@ -1817,6 +1817,61 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "8b2d87a99b8449ff5b133173a4008543d3d24d1d",
+      "title": "Agentic AI Used to Conduct Ransomware Attack via Langflow",
+      "url": "https://www.securityweek.com/agentic-ai-used-to-conduct-ransomware-attack-via-langflow/",
+      "published": "2026-07-03T11:00:00+00:00",
+      "summary": "<p>Attack demonstrates how LLM agents can combine known exploitation techniques with real-time reasoning to automate complex, multi-stage intrusions.</p>\n<p>The post <a href=\"https://www.securityweek.com/agentic-ai-used-to-conduct-ransomware-attack-via-langflow/\">Agentic AI Used to Conduct Ransomware Attack via Langflow</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "793f3ac53f7b929fb1077bae37330ac0aa2b5369",
+      "title": "Medtronic Data Breach Impacts 3.8 Million People",
+      "url": "https://www.securityweek.com/medtronic-data-breach-impacts-3-8-million-people/",
+      "published": "2026-07-03T10:00:00+00:00",
+      "summary": "<p>In April, ShinyHunters accessed the company\u2019s corporate IT systems and stole patients\u2019 personal and medical information.</p>\n<p>The post <a href=\"https://www.securityweek.com/medtronic-data-breach-impacts-3-8-million-people/\">Medtronic Data Breach Impacts 3.8 Million People</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "d8a4f6f61a6950f51f3f2af75dad148c47ec7d04",
+      "title": "Alleged Scattered Spider Hacker Extradited to US",
+      "url": "https://www.securityweek.com/alleged-scattered-spider-hacker-extradited-to-us/",
+      "published": "2026-07-03T09:30:00+00:00",
+      "summary": "<p>Prosecutors say 19-year-old Peter Stokes was a member of Scattered Spider, the hacking group linked to more than 100 network intrusions and over $100 million in ransom payments.</p>\n<p>The post <a href=\"https://www.securityweek.com/alleged-scattered-spider-hacker-extradited-to-us/\">Alleged Scattered Spider Hacker Extradited to US</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "4cb6150c8ad57e5460f7a76cfad9003989124c0a",
+      "title": "Google, FBI Disrupt NetNut Residential Proxy Network Powered by Millions of Devices",
+      "url": "https://www.securityweek.com/google-fbi-disrupt-netnut-residential-proxy-network-powered-by-millions-of-devices/",
+      "published": "2026-07-03T08:13:22+00:00",
+      "summary": "<p>NetNut rented access to millions of compromised devices, allowing cybercriminals and nation-state actors to mask their identities during attacks.</p>\n<p>The post <a href=\"https://www.securityweek.com/google-fbi-disrupt-netnut-residential-proxy-network-powered-by-millions-of-devices/\">Google, FBI Disrupt NetNut Residential Proxy Network Powered by Millions of Devices</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "313ae31e92110623047fcbd4445f5600c6173f25",
+      "title": "Critical Cursor AI Code Editor Flaws Could Lead to OS-Level Remote Code Execution",
+      "url": "https://www.securityweek.com/critical-cursor-ai-ide-flaws-could-lead-to-os-level-remote-code-execution/",
+      "published": "2026-07-03T07:57:53+00:00",
+      "summary": "<p>The DuneSlide vulnerabilities enable zero-click prompt injection attacks that escape Cursor's sandbox and execute arbitrary code on the underlying operating system.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-cursor-ai-ide-flaws-could-lead-to-os-level-remote-code-execution/\">Critical Cursor AI Code Editor Flaws Could Lead to OS-Level Remote Code Execution</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "3436269d3d551dd9868dab779c4dc0986cc76ad3",
       "title": "New CitrixBleed Vulnerability Exploited Immediately After Public Disclosure",
       "url": "https://www.securityweek.com/new-citrixbleed-vulnerability-exploited-immediately-after-public-disclosure/",
@@ -1866,61 +1921,6 @@
       "url": "https://www.securityweek.com/cisco-confirms-in-the-wild-exploitation-of-unified-cm-vulnerability/",
       "published": "2026-07-02T10:48:43+00:00",
       "summary": "<p>A PoC exploit has been available since public disclosure, and the first exploitation attempts were observed last week.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisco-confirms-in-the-wild-exploitation-of-unified-cm-vulnerability/\">Cisco Confirms In-the-Wild Exploitation of Unified CM Vulnerability</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "c479c111202acb11915a39af8869cbfcfdea33ff",
-      "title": "\u2018BioShocking\u2019 Attack Tricks AI Browsers Into Stealing Credentials",
-      "url": "https://www.securityweek.com/bioshocking-attack-tricks-ai-browsers-into-stealing-credentials/",
-      "published": "2026-07-02T10:45:00+00:00",
-      "summary": "<p>Researchers show how context manipulation can cause agentic browsers to abandon safety guardrails and exfiltrate sensitive credentials.</p>\n<p>The post <a href=\"https://www.securityweek.com/bioshocking-attack-tricks-ai-browsers-into-stealing-credentials/\">&#8216;BioShocking&#8217; Attack Tricks AI Browsers Into Stealing Credentials</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "86cc504057b04f92039b62ca301765d189b51306",
-      "title": "CISA Warns of Actively Exploited Microsoft SharePoint Vulnerability",
-      "url": "https://www.securityweek.com/cisa-warns-of-actively-exploited-microsoft-sharepoint-vulnerability/",
-      "published": "2026-07-02T10:30:42+00:00",
-      "summary": "<p>CISA says threat actors are exploiting a recently patched SharePoint remote code execution vulnerability (CVE-2026-45659). </p>\n<p>The post <a href=\"https://www.securityweek.com/cisa-warns-of-actively-exploited-microsoft-sharepoint-vulnerability/\">CISA Warns of Actively Exploited Microsoft SharePoint Vulnerability</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "1b5e15c7f47e89bc972ef4008f86506a4ebea055",
-      "title": "Microsoft Adds New Teams Controls to Block Unauthorized AI Bots From Meetings",
-      "url": "https://www.securityweek.com/microsoft-adds-new-teams-controls-to-block-unauthorized-ai-bots-from-meetings/",
-      "published": "2026-07-01T18:08:15+00:00",
-      "summary": "<p>Microsoft's new Teams admin policy requires organizer approval for external AI bots, giving organizations greater visibility and control over automated participants in sensitive meetings.</p>\n<p>The post <a href=\"https://www.securityweek.com/microsoft-adds-new-teams-controls-to-block-unauthorized-ai-bots-from-meetings/\">Microsoft Adds New Teams Controls to Block Unauthorized AI Bots From Meetings</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "458ade09d9801d6c701fdf742035282cb394eb3f",
-      "title": "Adobe Patches Critical ColdFusion, Campaign Classic Vulnerabilities",
-      "url": "https://www.securityweek.com/adobe-patches-critical-coldfusion-campaign-classic-vulnerabilities/",
-      "published": "2026-07-01T11:27:07+00:00",
-      "summary": "<p>Seven of the security defects have a maximum severity rating of 10/10 and could lead to arbitrary code execution.</p>\n<p>The post <a href=\"https://www.securityweek.com/adobe-patches-critical-coldfusion-campaign-classic-vulnerabilities/\">Adobe Patches Critical ColdFusion, Campaign Classic Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "6abb63f8ba36888241f122e3e4c4e031cd0d45dd",
-      "title": "Citrix Patches NetScaler Vulnerabilities, Including New \u2018HTTP/2 Bomb\u2019 Attack",
-      "url": "https://www.securityweek.com/citrix-patches-netscaler-vulnerabilities-including-new-http-2-bomb-attack/",
-      "published": "2026-07-01T11:20:45+00:00",
-      "summary": "<p>Citrix urges customers to patch NetScaler after fixing six vulnerabilities, including the HTTP/2 Bomb flaw and a high-severity CitrixBleed-style information disclosure bug.</p>\n<p>The post <a href=\"https://www.securityweek.com/citrix-patches-netscaler-vulnerabilities-including-new-http-2-bomb-attack/\">Citrix Patches NetScaler Vulnerabilities, Including New \u2018HTTP/2 Bomb\u2019 Attack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
