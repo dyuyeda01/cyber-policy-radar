@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07T01:45:39.821192+00:00",
+  "generated_at": "2026-07-07T13:59:13.425760+00:00",
   "items": [
     {
       "id": "86cf6694245dd0ccc056310b668f684fbc3a0b2b",
@@ -110,6 +110,72 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "7514faf7a8eb67273e57b7063e076f130c8cde7a",
+      "title": "Court Filing Reveals Windows Device ID Helped FBI Trace Alleged Scattered Spider Hacker",
+      "url": "https://thehackernews.com/2026/07/court-filing-reveals-windows-device-id.html",
+      "published": "2026-07-07T13:27:20+00:00",
+      "summary": "U.S. prosecutors linked an alleged Scattered Spider hacker to a break-in at a luxury jewelry retailer using a persistent Windows device ID, according to a newly unsealed federal complaint.\n\nMicrosoft records tied that ID first to the account the attackers used to keep access during the May 2025 intrusion, then to online accounts prosecutors say belong to 19-year-old Peter Stokes.\n\nStokes is",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRD_854zsswRvh7xWklnbEkAjmk7UZy_-dQzlueMbq1ib7deDs-QH0av7XRZ1WEq3vcX57cDDcioIdkebKCiF7qr8xC9Evw7GmFuDS0kQt3mnpXgb3Q2H62eHPIgCy3rk1Mj3uM-Mge0XTfMgSCGaumk3i5KatoyrFnu_PUhg8cZGY1ZAd185qsNqZ1jE/s1600/md-id.jpg"
+    },
+    {
+      "id": "8e61210025e65d780ed4dced82061f7346daad49",
+      "title": "Writer AI Flaw Could Let Agent Previews Leak Session Tokens Across Tenants",
+      "url": "https://thehackernews.com/2026/07/writer-ai-flaw-could-let-agent-previews.html",
+      "published": "2026-07-07T13:27:09+00:00",
+      "summary": "Cybersecurity researchers have disclosed details of a now-patched critical session isolation vulnerability in Writer, an enterprise generative artificial intelligence (AI) platform, that could result in cross-tenant compromise.\n\nThe one-click vulnerability has been codenamed WriteOut by the Sand Security Research team.\n\n\"An outsider could go from having no access to taking over any Writer AI",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgH0EnuZfnTZVOg-ACF0jKSHBB8TemRtJ6vlDerjpWy9giH2VsJTP_XiktA9SCytwnDcP95jn4gyQaPk2r92S-J-4EcB7FDvenxXiNwJKtg1VQkV_f564nT6mrS6S3wuMX3SC22kdd5nJM9y4IecNKJ3CRq569DtujHzUgaVOAwQDpfvCgkCrSrfeRjT1CQ/s1600/writerai.jpg"
+    },
+    {
+      "id": "33b2460184915676f416ba47c2cba7e0dae0ad18",
+      "title": "What Changes When Your Software Supply Chain Includes AI Writing Your Code?",
+      "url": "https://thehackernews.com/2026/07/what-changes-when-your-software-supply.html",
+      "published": "2026-07-07T11:30:00+00:00",
+      "summary": "Software supply chain security was hard enough. Then AI joined the build pipeline.\n\nFor five years, \"software supply chain security\" meant one question: what's in your code? Which open-source packages, which versions, which transitive dependencies three layers deep that nobody chose on purpose? \n\nSolarWinds, Log4Shell, and XZ Utils all taught the same lesson: the risk lives less in the code a",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0OJ0wrmDju3vsLQqciy7DCza9juzf5jkuI6VPy8mXFoQ-2hVj7uNgqJD8ti8Pft2gayFWUH9TfOuIkqnKyduhjMP9-wqBxuvHPoyp39keS52R_MpsuO0bsKX03-fy2PA3V-gjqOaKuSKoOWaotAyzf9Tsc_zUGJpf4i81bHMrCJYhTo7AjtfsdN_OKuY/s1600/AI-WRITER.jpg"
+    },
+    {
+      "id": "27db0b35a71a5b7a05ea70ad52e1ea429031dbc3",
+      "title": "Suspected China-Aligned Hackers Exploit Roundcube Flaws Against Universities",
+      "url": "https://thehackernews.com/2026/07/suspected-china-aligned-hackers-exploit.html",
+      "published": "2026-07-07T09:10:51+00:00",
+      "summary": "A suspected China-aligned threat activity cluster has been observed exploiting Roundcube webmail software belonging to physics and engineering departments of U.S. and Canadian universities as part of a new campaign.\n\nThe activity involves the exploitation of now-patched, critical security flaws in the open-source email solution, such as CVE-2024-42009 (CVSS score: 9.3), to siphon credentials,",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitErUXjxgvdr7CLGa67wtfentIJSFkobxbyIMtQNK4mzNTyf_3Mq9mckQNCGONMFqVaCvkvNKf7FqJfevWKstiWEOxt5wDlV_Fus-Ob3bo9vkMb3m5natJZjHhG-0r4FbH5UUBP4aiGtLcJ7mFIIwLw7IPIHOqw5ln1kAC_ZsiOvllGmVXws4bCXBGugBu/s1600/server-hacker.jpg"
+    },
+    {
+      "id": "e2293acd81ed5baf28c7c08e858b913b168afee7",
+      "title": "CERT/CC Warns of Hidden Admin Backdoor in Tenda Router Firmware",
+      "url": "https://thehackernews.com/2026/07/certcc-warns-of-hidden-admin-backdoor.html",
+      "published": "2026-07-07T06:40:47+00:00",
+      "summary": "Several versions of firmware released by Chinese network device manufacturer Tenda have been found to embed an undocumented authentication backdoor that enables administrative access to the devices' web management interfaces, the CERT Coordination Center (CERT/CC) warned Monday.\n\n\"An attacker can exploit this vulnerability, tracked as CVE-2026-11405, to bypass the password verification process",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibED37Q9WinxGoPYaXltP_givD-Q30FneMyezHB4uftr5E4hy4fMm97v_UH34sQWEvlp688bYvMR6zDzy_C93ddbqNDfIVSX7swJgdTD38hOmKgu6ZLGjBW068gXHpsT4soRscJ1vWDxTz2z8xBDSb2QD2UWrR68nVytui4mo6Q0cXVh_GjK5FC6P4imvK/s1600/backdoor-admin.jpg"
+    },
+    {
+      "id": "8e85bcf7191591cd1a75ea5a763bf1ec8ae4f234",
+      "title": "BeyondTrust Patches Critical Auth Bypass Flaws in Remote Support and PRA",
+      "url": "https://thehackernews.com/2026/07/beyondtrust-patches-critical-auth.html",
+      "published": "2026-07-07T05:16:51+00:00",
+      "summary": "BeyondTrust has released updates to address two critical security flaws affecting Remote Support (RS) and Privileged Remote Access (PRA) products that, if successfully exploited, could allow unauthenticated attackers to take control of susceptible devices.\n\nThe vulnerabilities are listed below -\n\n\n  CVE-2026-40138 (CVSS score: 9.2) - A pre-authentication vulnerability exists in the",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEim5I3ndx1DHNKSznD7AT_CM4ApiaXDfZcQAwsCSDnHq7u8dkGcOzway-IBZJ44bFJintaRMSry4yHbaacESRFOJsRC_UBV6N9l_K4ICcqWsZ2E4zQ5BGibAkxjxm0qPYiiLEvAvDizmPZVYwXC6jN9pgB5G-3xZ9ifiEWisKsZoi9rBjJN1mepJjPl61s9/s1600/bt.jpg"
     },
     {
       "id": "84042dcd1a6e90722752b32f1b784b3aa35b72f3",
@@ -594,72 +660,6 @@
       "region": "North America",
       "country": "US",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkaU5jHNUkuBuH0Obx-gU_L4wSKOWP9bPwZeyD8tY1hIHShQozXYO2UckRTb2z5SwreXgHxLzePWkBfixNzYWsJ6eXioRllicv96TA8QvXBerGAguD3uA2T1DcMaURdi5BdMcNlY4DF_DPk-kdNXvIZfz8QMnrekgc-Hjksqf5OCHy11j0zcT668GgBhnc/s1600/citrix.jpg"
-    },
-    {
-      "id": "b9f9067370c5a5b44300da3e6f729d628cdf8d96",
-      "title": "Microsoft Warns Poisoned MCP Tool Descriptions Can Make AI Agents Leak Data",
-      "url": "https://thehackernews.com/2026/06/microsoft-warns-poisoned-mcp-tool.html",
-      "published": "2026-06-30T17:46:07+00:00",
-      "summary": "New Microsoft&nbsp;research&nbsp;shows how attackers can hijack AI agents that act on a user's behalf, using nothing more than a poisoned tool description to make the agent quietly hand over company data to an outsider.\n\nThe trick is that the agent never breaks a rule. Every step looks routine, so in a default setup no alarm may fire.\n\nThe work comes from Microsoft Incident Response and its",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbjfrraZ05p0kN5CedcQSOZYouoHGrdpCvi9TGxEZM_9zlXc_juWZ1F8VsvjV9c-iD7Ejgj0V6b0uYwOb9mLpb7ALcOVk53m2ppmg6mDI3qwANc8KZFMt3X7H7fT_Eym3OJijFmr0CZS6yJNTtf4kef0gOYtbx6A3LYa15PNzpzJuOg-nd6orLosZzfQ8/s1600/ms-ai.jpg"
-    },
-    {
-      "id": "a51e09b906b29521398e3fa2a6a78394a00a8bc0",
-      "title": "RustDuck Botnet Rebuilds in Rust to Hijack Routers and Servers for DDoS",
-      "url": "https://thehackernews.com/2026/06/rustduck-botnet-rebuilds-in-rust-to.html",
-      "published": "2026-06-30T17:45:25+00:00",
-      "summary": "A new two-stage malware family called RustDuck is hijacking home routers, IP cameras, Android boxes, and poorly secured servers, then stitching them into a network built to knock websites and online services offline.\n\nResearchers at QiAnXin's&nbsp;XLab&nbsp;have tracked it since February 2026, and say the real story is not how big it is today, but how fast it is changing.\n\nThe end goal is a",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2XzOOqoX4E_CfxUMxd0YAH9MRjvZ8-kBBiVhd2VvCvbie3zla8PA80fO2xZ4Ux3_gmreVKG7ANFrSGpDk1lsURfQZuVVapjqi565oGmkqImmFdiQsQFL5z7V9s7TTkH4KgmGbEFnpdAQz94DrXip4q8Qa-ec9K1B1cmeL3szEBWUq9nX-MWppatyug3A/s1600/RustDuck.jpg"
-    },
-    {
-      "id": "87f96e566a2d0f54a434dca1ce5c9beba18bcebf",
-      "title": "Langflow RCE Exploited to Deploy Monero Miner on Exposed AI App Endpoints",
-      "url": "https://thehackernews.com/2026/06/langflow-rce-exploited-to-deploy-monero.html",
-      "published": "2026-06-30T15:47:20+00:00",
-      "summary": "Threat actors are continuing to exploit a critical Langflow vulnerability as part of fresh attacks designed to deliver a Monero cryptocurrency miner.\n\nThe activity has been found to weaponize CVE-2026-33017 (CVSS score: 9.3), an unauthenticated remote code execution (RCE) vulnerability in Langflow, indicating threat actors are scanning and targeting exposed artificial intelligence (AI)",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiA2GvsvmPnHZF-e1GDbhOVW4DxQZr79HzSMLp7-YKaA9DC-V2fVo6cmBig0bxUxWjK0Kz1mTm2Cmg6CrjaKgNhxC7xE6SsBxRx8DW5ljkMWPuJ0-7WUzxYbSrRWFdix8Nks8tobGkIY5cpNjczspeiKYyXYVSgoVct-7u1SFpWXB0mEi8AB5X-Wcp59Vca/s1600/Langflow.jpg"
-    },
-    {
-      "id": "3888bdd1a4af6713ef361d7fe7e9e388f69a75d8",
-      "title": "Silent Swap Crypto Clipper Uses Fake Google Notes Extension to Replace Wallet Addresses",
-      "url": "https://thehackernews.com/2026/06/silent-swap-crypto-clipper-uses-fake.html",
-      "published": "2026-06-30T15:40:18+00:00",
-      "summary": "Cybersecurity researchers have flagged an active browser extension campaign that is designed to steal cryptocurrency by stealthily replacing wallet addresses when unsuspecting users initiate a transaction.\n\nThe cryptocurrency clipper activity has been codenamed Silent Swap by McAfee Labs.\n\n\"The campaign is delivered through unsigned installers \u2013 observed in both .NET and Golang variants \u2013 that",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfz8WYO9wONzogh2V8g9VorZ8Ab_nAUZMD7rOM9xrVUhg3cbKGA5zc73PGQiAkbsNgY-qbm2AFAUjBdeMcpemGmDNWrvnpyjzKiqU8iJHMetkW68d20V_U-96mHOaHF6fff7VKBREN2v6fz1R_ahyIklq-Fd7ILYKxXck5ahL1BoFWC_CDQFrQZqQqg3hm/s1600/chrome-wallet.jpg"
-    },
-    {
-      "id": "a65d2a5d751c547437e4ee4ed0ff899828350072",
-      "title": "GuardFall Exposes Open-Source AI Coding Agents to Decades-Old Shell Injection Risks",
-      "url": "https://thehackernews.com/2026/06/guardfall-exposes-open-source-ai-coding.html",
-      "published": "2026-06-30T14:26:15+00:00",
-      "summary": "The safety check that is supposed to stop an AI coding agent from running a dangerous command can be walked straight past using a shell trick that has been public for decades.\n\nNew research from&nbsp;Adversa AI, which is named the bypass GuardFall, found it works against ten of the eleven popular open-source coding and computer-use agents the firm tested. Only one, \"Continue,\" was built to",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgR59EidY6iMYv3s9bikjIxpj6_YTaUIesrZ3MyD9OqUbOk262aDW7bCArqr-IjT9CUQUSzE2F_knKKvs4bIJ2d9cuzZ-DKlmkW_Q3SO43HkA79kSVhCELVyKaStWliNZc9l1xxEGEFE5UmT1Abn6XMKTjk-rxBRTTtRAjb-jYDRKj-ODtIYy8dGQvbzDE/s1600/shell-ai.jpg"
-    },
-    {
-      "id": "796a60bd13927dd00f9904421c48041b1146c78d",
-      "title": "282 iOS AI Apps Leak API Keys and Open AI Proxy Access in Network Traffic Study",
-      "url": "https://thehackernews.com/2026/06/282-ios-apps-found-leaking-llm-api-keys.html",
-      "published": "2026-06-30T13:49:34+00:00",
-      "summary": "Researchers tested 444 AI chatbot apps for iPhone and found that 282 of them, nearly two-thirds, exposed paid AI access through their network traffic.\n\nIn many cases, the path in was visible just by watching what the app sent: a plaintext API key, a reusable token, or a backend server that accepted requests with no key at all.\n\nWhoever grabs it can send model requests on the developer's account,",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJ9nmTBu_vYBf5fRZV4Jc-qtFGPySofVDYHUd-9-ogdve-M4Qd4j7_CnH9Zmvln6O3nfXSsDqQiMoL3rDYBSXZSrXlkCnSWSQUdAYJX1PkRzmytlVaYAc2AyrFOCpo9doU58gO6Gl5fQ-0SZ5D3yGP2SspNgK0U4f5jViSBnY_PAMUOjr42Nt8OLrhnTsQ/s1600/llm-keys.jpg"
     },
     {
       "id": "48b0ff4ad78def06cc97e5f94bf93052b51a4cd8",
@@ -1212,6 +1212,50 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt488625da6dcc5e36/6a3956fde4fc4e3dbf65d2b3/bitcoinstolen_KeremYucel-Getty-902191710.jpg?width=720&quality=80&disable=upscale"
     },
     {
+      "id": "9a11da188905cd28ede03bac89905b11b4279d4e",
+      "title": "Enterprise AI still smarting from leaping before looking",
+      "url": "https://www.theregister.com/security/2026/07/07/enterprise-ai-still-smarting-from-leaping-before-looking/5267353",
+      "published": "2026-07-07T13:00:00+00:00",
+      "summary": "Majority report AI-related security incidents or vulnerabilities",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=5267398&width=800"
+    },
+    {
+      "id": "01aaa9245549d91e5e7d95f6ee54445de0813c1f",
+      "title": "Fake IT bods on Microsoft Teams coax workers into installing malware",
+      "url": "https://www.theregister.com/cyber-crime/2026/07/07/fake-it-bods-on-microsoft-teams-coax-workers-into-installing-malware/5267610",
+      "published": "2026-07-07T11:21:00+00:00",
+      "summary": "Unit 42 says attackers are posing as helpdesk staff and persuading employees to hand over remote control before dropping EtherRAT trojan",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=254434&width=800"
+    },
+    {
+      "id": "14a7f6c6d579c9573cba468e939c155300015a91",
+      "title": "Spain collars alleged pro-Russia hacktivist after FBI tip-off",
+      "url": "https://www.theregister.com/security/2026/07/07/alleged-pro-russia-hacktivist-arrested-in-palencia/5267569",
+      "published": "2026-07-07T10:30:50+00:00",
+      "summary": "Palencia man suspected of links to CARR, Z-Pentest, and NoName057(16), plus helping a Ukrainian hacker flee to Russia",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=4093955&width=800"
+    },
+    {
+      "id": "7e205bddcd371824c65c2b2412d44d406f08daf1",
+      "title": "Government's cyber pledge lands 60 signatories, including M&S and, somehow, Capita",
+      "url": "https://www.theregister.com/security/2026/07/07/governments-cyber-pledge-lands-60-signatories-including-ms-and-somehow-capita/5267554",
+      "published": "2026-07-07T10:07:00+00:00",
+      "summary": "Whitehall's latest attempt to boost corporate cyber hygiene has already produced a curious roll call",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=225093&width=800"
+    },
+    {
       "id": "542179eca0eeb286d7f6b0bdc7ff61d0f84d08b4",
       "title": "EU urged to act after Pegasus infects phone of spyware inquiry MEP",
       "url": "https://www.theregister.com/security/2026/07/06/eus-latest-spyware-scandal-prompts-calls-for-urgent-action/5267054",
@@ -1718,50 +1762,6 @@
       "image": "https://image.theregister.com/?imageId=5238519&width=800"
     },
     {
-      "id": "01a77d63684b2390da03f9666deeae577b097d23",
-      "title": "Mythos discovers 'Squidbleed,' a memory leak that's gone undetected since Clinton era",
-      "url": "https://www.theregister.com/security/2026/06/23/mythos-discovers-squidbleed-a-memory-leak-thats-gone-undetected-since-clinton-era/5260367",
-      "published": "2026-06-23T18:07:44+00:00",
-      "summary": "Plus more blasts from the past: NetWare, FTP, and HTTP",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=5260387&width=800"
-    },
-    {
-      "id": "a509a8eb8c9fb228cb59aaa5eb6977d76d400caa",
-      "title": "Five Eyes spooks warn AI means infosec incidents can become \u2018major operational and financial crises\u2019",
-      "url": "https://www.theregister.com/security/2026/06/23/five-eyes-spooks-warn-ai-means-infosec-incidents-can-become-major-operational-and-financial-crises/5259916",
-      "published": "2026-06-23T05:29:41+00:00",
-      "summary": "Bosses told to step up and get cybersecurity right",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=5259943&width=800"
-    },
-    {
-      "id": "5f964053ff9288886ab51c880c600d157b41d9d5",
-      "title": "Sniff out stale AI override advice with this open source CLI",
-      "url": "https://www.theregister.com/security/2026/06/23/sniff-out-stale-ai-override-advice-with-this-open-source-cli/5259853",
-      "published": "2026-06-23T00:17:13+00:00",
-      "summary": "Package dependencies can create vulnerabilities that are fiendishly hard to find and stamp out",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=261937&width=800"
-    },
-    {
-      "id": "3695d50bec8312d240e95c9657d925c6e5eb0a53",
-      "title": "OpenAI: Yoo-hoo, look over here, we do that security stuff too!",
-      "url": "https://www.theregister.com/security/2026/06/23/openai-yoo-hoo-look-over-here-we-do-that-security-stuff-too/5259842",
-      "published": "2026-06-22T23:34:34+00:00",
-      "summary": "A plethora of pwn-prevention, including a 'Patch The Planet' pledge",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=5259886&width=800"
-    },
-    {
       "id": "80703c01ba9374f55b423670a47eadb20d5b1a90",
       "title": "FBI Seizes NetNut Proxy Platform, Popa Botnet",
       "url": "https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/",
@@ -1817,6 +1817,72 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "b2774a11820d70b3b434e07ec7bc86e3e69b97fc",
+      "title": "CISA Reportedly Using Anthropic\u2019s Mythos to Scan Government Software for Flaws",
+      "url": "https://www.securityweek.com/cisa-reportedly-using-anthropics-mythos-to-scan-government-software-for-flaws/",
+      "published": "2026-07-07T13:13:02+00:00",
+      "summary": "<p>The audits are reportedly being spearheaded by CISA\u2019s Attack Surface Evaluation team, a specialized unit tasked with conducting digital defense assessments and simulated hacking exercises.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisa-reportedly-using-anthropics-mythos-to-scan-government-software-for-flaws/\">CISA Reportedly Using Anthropic\u2019s Mythos to Scan Government Software for Flaws</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "105d295aacbd22db956b12c6632cb08e2529975e",
+      "title": "Critical Adobe ColdFusion Vulnerability Exploited in Attacks",
+      "url": "https://www.securityweek.com/critical-adobe-coldfusion-vulnerability-exploited-in-attacks/",
+      "published": "2026-07-07T12:38:34+00:00",
+      "summary": "<p>Hackers are exploiting a recently patched critical vulnerability (CVE-2026-48282) in Adobe ColdFusion that carries a CVSS score of 10/10.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-adobe-coldfusion-vulnerability-exploited-in-attacks/\">Critical Adobe ColdFusion Vulnerability Exploited in Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "c867cbd3f95f7a442afca95851a1b60b0fbc3cb8",
+      "title": "Iran-Linked Hackers Using Modular C&C Framework in Cyberattacks",
+      "url": "https://www.securityweek.com/iran-linked-hackers-using-modular-cc-framework-in-cyberattacks/",
+      "published": "2026-07-07T12:21:56+00:00",
+      "summary": "<p>Researchers say the Iran-linked threat actor used an adaptable modular malware framework and compromised IT service providers to reach high-value targets in Israel.</p>\n<p>The post <a href=\"https://www.securityweek.com/iran-linked-hackers-using-modular-cc-framework-in-cyberattacks/\">Iran-Linked Hackers Using Modular C&amp;C Framework in Cyberattacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "d917b2e56759f1056acd7337ff7105b7a8118b2f",
+      "title": "CISO Conversations: Tarah Wheeler, Cybersecurity Leader, Thought Leader and Original Thinker",
+      "url": "https://www.securityweek.com/ciso-conversations-tarah-wheeler-cybersecurity-leader-thought-leader-and-original-thinker/",
+      "published": "2026-07-07T12:00:00+00:00",
+      "summary": "<p>Tarah Wheeler is CISO at TPO Group, a firm that provides cybersecurity consultancy for high-stakes organizations. But despite this elevated position, her journey was far from typical.</p>\n<p>The post <a href=\"https://www.securityweek.com/ciso-conversations-tarah-wheeler-cybersecurity-leader-thought-leader-and-original-thinker/\">CISO Conversations: Tarah Wheeler, Cybersecurity Leader, Thought Leader and Original Thinker</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "ebbf9feb532e67f871f39f24bb005e9adf0aeec5",
+      "title": "Linux Kernel Vulnerability Allows VM Escape on Intel and AMD Systems",
+      "url": "https://www.securityweek.com/linux-kernel-vulnerability-allows-vm-escape-on-intel-and-amd-systems/",
+      "published": "2026-07-07T10:00:00+00:00",
+      "summary": "<p>The 16-year-old Januscape flaw affects Linux's KVM hypervisor, allowing attackers to escape virtual machines and potentially execute code on the underlying host.</p>\n<p>The post <a href=\"https://www.securityweek.com/linux-kernel-vulnerability-allows-vm-escape-on-intel-and-amd-systems/\">Linux Kernel Vulnerability Allows VM Escape on Intel and AMD Systems</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "b38a6d785391c1f21777e2e22d8d63659dc6609b",
+      "title": "Keyfactor Scores $1 Billion+ Investment for AI, Post-Quantum Security",
+      "url": "https://www.securityweek.com/keyfactor-scores-1-billion-investment-for-ai-post-quantum-security/",
+      "published": "2026-07-07T09:30:00+00:00",
+      "summary": "<p>The investment will accelerate Keyfactor's machine identity, PKI, and cryptographic security platform as enterprises prepare for AI-driven and post-quantum threats.</p>\n<p>The post <a href=\"https://www.securityweek.com/keyfactor-scores-1-billion-investment-for-ai-post-quantum-security/\">Keyfactor Scores $1 Billion+ Investment for AI, Post-Quantum Security</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "51108f9a39bb53dbf41de5eb7c88ec4031a53884",
       "title": "Blogspot-Hosted Payloads Delivered in \u2018Veil#Drop\u2019 Attacks",
       "url": "https://www.securityweek.com/blogspot-hosted-payloads-delivered-in-veildrop-attacks/",
@@ -1855,72 +1921,6 @@
       "url": "https://www.securityweek.com/north-korean-hackers-target-open-source-developers-in-supply-chain-attacks/",
       "published": "2026-07-06T13:11:16+00:00",
       "summary": "<p>The PolinRider campaign has compromised more than 100 legitimate open source packages and repositories to deliver a backdoor and information stealer to developers.</p>\n<p>The post <a href=\"https://www.securityweek.com/north-korean-hackers-target-open-source-developers-in-supply-chain-attacks/\">North Korean Hackers Target Open Source Developers in Supply Chain Attacks\u00a0</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "03b51e5fdca77829e06ed10bbf981c1af743dc49",
-      "title": "Proof-of-Concept Exploit Released for Linux \u2018Bad Epoll\u2019 Root Access Vulnerability",
-      "url": "https://www.securityweek.com/proof-of-concept-exploit-released-for-linux-bad-epoll-root-access-vulnerability/",
-      "published": "2026-07-06T12:48:01+00:00",
-      "summary": "<p>Organizations are urged to patch after proof-of-concept code makes the Linux root escalation flaw easier to exploit.</p>\n<p>The post <a href=\"https://www.securityweek.com/proof-of-concept-exploit-released-for-linux-bad-epoll-root-access-vulnerability/\">Proof-of-Concept Exploit Released for Linux \u2018Bad Epoll\u2019 Root Access Vulnerability</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "0e3d010ca6e052423447c926307ae565dbfb8030",
-      "title": "Prompt Injection Attacks Trick AI Agents Into Making Crypto Payments",
-      "url": "https://www.securityweek.com/prompt-injection-attacks-trick-ai-agents-into-making-crypto-payments/",
-      "published": "2026-07-06T11:19:47+00:00",
-      "summary": "<p>Researchers uncovered two campaigns embedding indirect prompt injections in malicious websites to exploit autonomous AI agents browsing the web.</p>\n<p>The post <a href=\"https://www.securityweek.com/prompt-injection-attacks-trick-ai-agents-into-making-crypto-payments/\">Prompt Injection Attacks Trick AI Agents Into Making Crypto Payments</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "ef6ada303ad2ebee77877264fe82de66c2dc96f3",
-      "title": "In Other News: Canadian Hacker Jailed, Open Source Zero-Days, Two Sentenced for ATM Jackpotting",
-      "url": "https://www.securityweek.com/in-other-news-canadian-hacker-jailed-open-source-zero-days-two-sentenced-for-atm-jackpotting/",
-      "published": "2026-07-03T15:10:42+00:00",
-      "summary": "<p>Noteworthy stories that might have slipped under the radar: Anonymous-linked Canadian hacker jailed, researcher drops zero-days in open source projects, Venezuelans sentenced in the US over ATM jackpotting. </p>\n<p>The post <a href=\"https://www.securityweek.com/in-other-news-canadian-hacker-jailed-open-source-zero-days-two-sentenced-for-atm-jackpotting/\">In Other News: Canadian Hacker Jailed, Open Source Zero-Days, Two Sentenced for ATM Jackpotting</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "8b2d87a99b8449ff5b133173a4008543d3d24d1d",
-      "title": "Agentic AI Used to Conduct Ransomware Attack via Langflow",
-      "url": "https://www.securityweek.com/agentic-ai-used-to-conduct-ransomware-attack-via-langflow/",
-      "published": "2026-07-03T11:00:00+00:00",
-      "summary": "<p>Attack demonstrates how LLM agents can combine known exploitation techniques with real-time reasoning to automate complex, multi-stage intrusions.</p>\n<p>The post <a href=\"https://www.securityweek.com/agentic-ai-used-to-conduct-ransomware-attack-via-langflow/\">Agentic AI Used to Conduct Ransomware Attack via Langflow</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "793f3ac53f7b929fb1077bae37330ac0aa2b5369",
-      "title": "Medtronic Data Breach Impacts 3.8 Million People",
-      "url": "https://www.securityweek.com/medtronic-data-breach-impacts-3-8-million-people/",
-      "published": "2026-07-03T10:00:00+00:00",
-      "summary": "<p>In April, ShinyHunters accessed the company\u2019s corporate IT systems and stole patients\u2019 personal and medical information.</p>\n<p>The post <a href=\"https://www.securityweek.com/medtronic-data-breach-impacts-3-8-million-people/\">Medtronic Data Breach Impacts 3.8 Million People</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "d8a4f6f61a6950f51f3f2af75dad148c47ec7d04",
-      "title": "Alleged Scattered Spider Hacker Extradited to US",
-      "url": "https://www.securityweek.com/alleged-scattered-spider-hacker-extradited-to-us/",
-      "published": "2026-07-03T09:30:00+00:00",
-      "summary": "<p>Prosecutors say 19-year-old Peter Stokes was a member of Scattered Spider, the hacking group linked to more than 100 network intrusions and over $100 million in ransom payments.</p>\n<p>The post <a href=\"https://www.securityweek.com/alleged-scattered-spider-hacker-extradited-to-us/\">Alleged Scattered Spider Hacker Extradited to US</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
