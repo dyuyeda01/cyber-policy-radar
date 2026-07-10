@@ -1,6 +1,28 @@
 {
-  "generated_at": "2026-07-09T14:21:54.624879+00:00",
+  "generated_at": "2026-07-10T01:23:04.013340+00:00",
   "items": [
+    {
+      "id": "b6b05a1ae30792ba3249ba7cbe04a166b2abc99d",
+      "title": "Data breach hits car insurance provider",
+      "url": "https://www.cybersecuritydive.com/news/data-breach-car-insurance-provider/824835/",
+      "published": "2026-07-09T15:19:46+00:00",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/D10z7c5IY4J4mgJSU82U1p3baPWWPf8ql9j_WKXXAMw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9CcmVhY2guanBn.webp\" /></div></figure><p>Hackers gained access to more than 6.9 million records at AssuranceAmerica by targeting a company employee.</p>",
+      "source": "Cybersecurity Dive",
+      "region": "North America",
+      "country": "US",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "e0ad179d5c63512d95d864f2e249d1a298501c1d",
+      "title": "Ransomware ecosystem grows, but \u2018four-headed monster\u2019 dominates",
+      "url": "https://www.cybersecuritydive.com/news/ransomware-concentrated-ai-guidepoint/824828/",
+      "published": "2026-07-09T14:35:18+00:00",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/T3xriZRS8EXJXdz3Gus7lJnwn2omEwnFhURyHxpP1YY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy04MTc0ODYwMjguanBn.webp\" /></div></figure><p>AI is helping hackers, a new report finds, but mostly by automating very human behaviors.</p>",
+      "source": "Cybersecurity Dive",
+      "region": "North America",
+      "country": "US",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
     {
       "id": "41a494b9cc3b32383738fc02ca9232cec8fa80d7",
       "title": "US enterprises incorporate cyber risk into larger strategic focus",
@@ -90,26 +112,48 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "5a2c97518ce5eab8f396c87cb604949195dfc646",
-      "title": "Most cybersecurity workers have been told to conceal a breach, report finds",
-      "url": "https://www.cybersecuritydive.com/news/data-breach-coverups-ai-bitdefender/824331/",
-      "published": "2026-07-02T14:14:31+00:00",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/mGLMd9ZXyPlefun5bLb6wm2QkQKUuXUBCDY1E-9Gvm4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9icmVhY2hfLmpwZw==.webp\" /></div></figure><p>Security firm Bitdefender also found that U.S. companies were simultaneously more confident and more strained on cyber defense than foreign peers.</p>",
-      "source": "Cybersecurity Dive",
+      "id": "e63035d6fd8b837b22cb8d0647e3761c4483cc1c",
+      "title": "Dormant GitHub Accounts Help Attackers Blend In While Mapping Corporate Orgs",
+      "url": "https://thehackernews.com/2026/07/dormant-github-accounts-help-attackers.html",
+      "published": "2026-07-09T18:38:49+00:00",
+      "summary": "Datadog Security Labs is warning of \"several overlapping campaigns\" that are systematically enumerating corporate GitHub organizations, repositories, and user accounts through the GitHub&nbsp;API.\n\n\"Operators rely on automated scraping tooling with custom or legitimate-sounding user agents, leveraging GitHub 'ghost' accounts that are often years old, or compromised OAuth tokens and personal",
+      "source": "The Hacker News",
       "region": "North America",
       "country": "US",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDslymdYqhkFwIm3ZeaXVZweYVT_R1d6LCQhIm799y9-5hQ3C45cumIStxGYheFbwosbd_JtrB6FgOthR2KJgfe8PYs0k47eGV7263ATac5UR0t7OOaqOUGOf5DHAR4b0IaKTozk0UEiHJz5-nze3b1ureycPGqdPVlqrImWreOWwMpGxC8kgBvONCLGbH/s1600/github-ghost.jpg"
     },
     {
-      "id": "ede167a4c1fcbb6aea7f52eaf357dc6961fd10a1",
-      "title": "Critical flaw in Oracle E-Business Suite is under immediate threat",
-      "url": "https://www.cybersecuritydive.com/news/critical-flaw-oracle-e-business-suite-threat/824230/",
-      "published": "2026-07-01T15:11:21+00:00",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/eVQeuvSnd0Q9BwYDA9gJWAtI2NOjxOj8Zb4qNdQ5WBg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTg0ODIxNjk4LmpwZw==.webp\" /></div></figure><p>Researchers warn that successful exploitation of the vulnerability could allow an attacker to compromise Oracle Payments.</p>",
-      "source": "Cybersecurity Dive",
+      "id": "a6ee3125966f2e6b1932d2412bc57671b84f1110",
+      "title": "New GigaWiper Windows Backdoor Bundles Disk Wiping, Fake Ransomware, and Spyware",
+      "url": "https://thehackernews.com/2026/07/new-gigawiper-windows-backdoor-bundles.html",
+      "published": "2026-07-09T18:08:07+00:00",
+      "summary": "Microsoft has taken apart a destructive Windows backdoor it calls GigaWiper. What stands out is how it is built: not one tool but three older destructive programs bolted into one, offered as commands the operator can choose from.\n\nEach is a different way to break a machine: wipe the whole disk, overwrite the Windows drive, or run fake \"ransomware\" that scrambles files with a key it never saves",
+      "source": "The Hacker News",
       "region": "North America",
       "country": "US",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJRuXh4y7zy8C81w_JgJgWFg_sgF0IYcsvqWEsYeHIHu7nWdOl1aIMQdnmmRQF-KJK_XdTGxzSIAr57yFkzMIZ_VK5Kzx12xR4oW8QOZcnsf9zmySIT3YRvpPvo2q-P92sZc2LqB4M-NSlktwLGU85I0JQbCVCjvJ130GLEF6eGknO8VzkK66kHjlgkBg/s1600/data-wiper-malware.jpg"
+    },
+    {
+      "id": "b9c20bf1d216f30115439277a13b3238f6710e49",
+      "title": "npm 12 Disables Install Scripts by Default to Reduce Supply Chain Risk",
+      "url": "https://thehackernews.com/2026/07/npm-12-disables-install-scripts-by.html",
+      "published": "2026-07-09T16:49:02+00:00",
+      "summary": "GitHub has officially announced the release of npm version 12 with install scripts disabled by default, along with deprecating granular access tokens (GATs) designed to bypass two-factor authentication (2FA).\n\nThe Microsoft-owned subsidiary noted that the following npm install behaviors that used to run automatically before have been made opt-in&nbsp;-\n\n\n  allowScripts defaults to off, meaning",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbP2w2lzNWbB041oSXvx2Nb1uOJaf81XNUBioDv_3K73S-JnzIU4OnUHfwG3Q3RLbf_p2wJBpHC0m2M4cQhCMfcSRRx1MY9n2vCVSNI4ddai3uJ3eE2Kb-d_ryU_HSEx_R2Rjoxz2D3TBcZCgLRWf-rOBf9k73Vi1Q04aWNG9Ux-A5AOf-v1HjSGD3YZcg/s1600/npm-security.jpg"
+    },
+    {
+      "id": "ec3f218f64d55765be8be853240cacb8d9aba66b",
+      "title": "ThreatsDay: Cloud Bucket Hijacking, Windows LPE Chain, Global Fraud Bust + 17 More Stories",
+      "url": "https://thehackernews.com/2026/07/threatsday-cloud-bucket-hijacking.html",
+      "published": "2026-07-09T15:09:28+00:00",
+      "summary": "Most security mess starts as admin work. A link gets clicked. A tool gets trusted. A bucket name gets reused. A setting stays loose because nobody wants to touch&nbsp;it.\n\nThis week is full of that kind of damage. Not loud. Not clever. Just small gaps doing big jobs. The worst part is how normal it all looks until the bill arrives.\n\nThe full ThreatsDay list is below.\n\n\n\n\n\n  \n\n  \n  \n    Global",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAXvG0n7eiC50jtfO-3MYOPx-Z0iWiucBfHqzY2QNH-5fUyfWcGu3NME0yERr2qWKcAeg6rIYMtP_VEeRInpeghztHmnjDa4QyuXSbaktcOdHHK9sx8lurd2RmejcmBjSZIznBl0zKQ-mk4dcCsVdL29g4XPEwUdrlQgj5-GgxvVnolSJJfCJW7g4vosLe/s1600/ThreatsDay-main.jpg"
     },
     {
       "id": "6a7fc1efe17edec77c1e5aa0064d99ff93ca58c7",
@@ -618,48 +662,48 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTOYmjevwtg2njZKRnBeTtT1fSpmOD45a_apqSQWJJQH8N0HtftQ_Tj3mCC6dfysokuddsTPVCKKM4hd4Trjs6dPn1tvUNi4gWvj_OQevLSDqNfuGOK87WNAQSRVZSEOOLoo0Ip4IQQTa14eqh7J7rPo-8edHwoNORqqrcgtFAT-LySviPfbahvJDMDk_T/s1600/power.jpg"
     },
     {
-      "id": "6193781ce5d1f963b94230beafd74b02e8148fff",
-      "title": "European Parliament Member Investigating Spyware Was Hacked With Pegasus",
-      "url": "https://thehackernews.com/2026/07/european-parliament-member.html",
-      "published": "2026-07-03T11:05:43+00:00",
-      "summary": "A new report from the Citizen Lab has revealed that former Member of the European Parliament Stelios Kouloglou had his mobile device repeatedly hacked with the notorious Pegasus spyware while serving on a committee that was tasked with investigating the abuse of such commercial surveillance tools in the bloc.\n\n\"Through forensic analysis of his device, we found that the attackers could have had",
-      "source": "The Hacker News",
+      "id": "26197385f907fe168a70d6bf85ba871c257a4c3b",
+      "title": "Iran's Cyber Crosshairs Focus Beyond Critical Infrastructure",
+      "url": "https://www.darkreading.com/cyber-risk/iran-cyber-crosshairs-beyond-critical-infrastructure",
+      "published": "2026-07-09T20:32:00+00:00",
+      "summary": "Obscurity isn't a defense. If your company has any Internet-facing vulnerability, you're at risk from multiple threats.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhC5WPtje84KYSxAYIbS54mCBmT7srsKokiZPsDcIbhcky59AAsHQYbWo4TrLsj3y1d7uI10DVgOt_5aEFaPQxKiwAPsJQJllaBBtuogSb7D8JF54_ahgzDstn8ST7WTRUAnhC10prFKCJgfkqEOW7m0o1yWDb-jzZFUWkzXEi65Sl5lyuLKr_4Da5ZpAgY/s1600/iphone-spyware.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd7e03c20c7f557f7/65ef0da29b3861040aba30f4/Crosshairs_Zenobillis_Alamy.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "id": "c155c9a0f7a830a6719708ebd18ae24df0688dd2",
-      "title": "PamStealer Uses Fake Maccy Sites and PAM Checks to Steal Mac Login Passwords",
-      "url": "https://thehackernews.com/2026/07/pamstealer-uses-fake-maccy-sites-and.html",
-      "published": "2026-07-03T08:03:37+00:00",
-      "summary": "Cybersecurity researchers have flagged a new macOS information stealer called PamStealer that employs a series of clever tricks to infect systems and siphon sensitive data.\n\nThe stealer, discovered by Jamf Threat Labs, is distributed as a compiled AppleScript (.scpt) file impersonating Maccy, a legitimate open-source clipboard manager. It has been codenamed PamStealer owing to its ability to",
-      "source": "The Hacker News",
+      "id": "360b59020bb0eb8a4ac3d9b1fd818d0af113343e",
+      "title": "Microsoft Reins in RoguePlanet Zero-Day Threat",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/microsoft-rogueplanet-zero-day-threat",
+      "published": "2026-07-09T20:21:19+00:00",
+      "summary": "The researcher known as &quot;Nightmare-Eclipse&quot; published a proof-of-concept (PoC) exploit for the Windows Defender vulnerability in early June after dropping several other Microsoft zero-days.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEmcBMGUjTwe51gVQWP401twHYLMUOocwG9nYkgadlFV6cmGXrPS-3PeNTg_GJOaUVohWILNXgIC8ufSkPqXRbW1wIyvUr5JEKCrrMI3_hlN8uFtxpf-sBn743tQmlK2ipu_qWtY3k18cPkaQ6XGJnR7RPjuMOWkYwcmJ5XSnSNQHbNpkEgyyP29hJA6j2/s1600/macos-malware.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5b63a49b69794b87/6a4ff39579274e02c43ecc63/rogueplanet_Mark_StevensonUIG-Getty-737371045.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "id": "f33ae8a12a17126866035030c5af5011ee03a522",
-      "title": "Google Disrupts NetNut Residential Proxy Network Spanning 2 Million Home Devices",
-      "url": "https://thehackernews.com/2026/07/google-disrupts-netnut-residential.html",
-      "published": "2026-07-02T18:54:06+00:00",
-      "summary": "Google has significantly degraded NetNut, one of the biggest networks that turns home devices into rented relays for other people's traffic.\n\nWorking with the FBI, Lumen, and others, Google's Threat Intelligence Group (GTIG)&nbsp;said this week&nbsp;it had reduced the network's pool of usable devices by millions.\n\nGoogle identifies NetNut, also tracked as Popa, as a network spread across home",
-      "source": "The Hacker News",
+      "id": "1bc56fb993541837c775d10ea85480eca94a5c42",
+      "title": "AI Agents Are a New Kind of Identity &amp; Most Organizations Aren't Ready",
+      "url": "https://www.darkreading.com/identity-access-management-security/ai-agents-new-kind-identity-most-organizations-not-ready",
+      "published": "2026-07-09T19:16:02+00:00",
+      "summary": "If you're handling them like a service account or API token, consider yourself behind. AI agents need a fundamentally different approach.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAH6tBAe18U0FqA-i5kNNNQYeXjY_LBflzBqVD5rq81OAC6q9c8UsDBsQb5K2F7IAfof5_JZCBpS51DNp63jsXfk4qqwLkckDh4nq-z-Gj0zoRwQu5IZYiNHiBlpp3C-6OR84JeDfPmIr4VLTp2NN6uHRYl0qT273wrbpcnUmd5SbIJH07cPHQxMo6VgI/s1600/proxy.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt64d615142d7be882/6882572f618f869f048e5227/Agentic_AI_(1800)_Pattara_Alamy.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "id": "176ebf5d897f315876a0281c74821b83af1e6b67",
-      "title": "Ransomware Groups Turn to Citrix Bleed 2, BYOVD, and Supply Chain Credentials",
-      "url": "https://thehackernews.com/2026/07/ransomware-groups-turn-to-citrix-bleed.html",
-      "published": "2026-07-02T18:30:33+00:00",
-      "summary": "Threat actors associated with the Anubis ransomware operation have been observed exploiting the Citrix Bleed 2 (CVE-2025-5777) vulnerability to obtain initial access.\n\n\"Although tactics differ between affiliates, common patterns emerged in tradecraft through use of legitimate Remote Management and Monitoring (RMM) tooling, credential access, and hands-on-keyboard procedures used for lateral",
-      "source": "The Hacker News",
+      "id": "d223bc40f396b0b48e293e702b6c016ff035fdb0",
+      "title": "As Global Conflicts Go Digital, Businesses Need Wartime Gameplans",
+      "url": "https://www.darkreading.com/cybersecurity-operations/businesses-wartime-cybersecurity-gameplans",
+      "published": "2026-07-09T14:31:20+00:00",
+      "summary": "The fate of a Ukrainian tax software company shows how modern cyberwarfare can claim casualties far beyond the battlefield, and how businesses across the ocean still need to protect themselves.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5gkjf1FwB4__nC6-pLZYnDv2rJA29UAL9mxfCv4BNSl1FxNpat9jD-OiMRLewjXJXyiSGvqiLYcewN_b1lLFHh0FhzKkrHFzu82jziSuOodYX87FkwjuCcXaqwzWRsiFdsBcd9mzDnak1rJpDu46F8TV206IEcD1pE7njojB8TcQEZ4Wa70KnK2vyeVKI/s1600/ransomwares.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9c5b847987e803e0/6a34151775c855b8678735cd/War_business-sonmez_karakurt-Getty.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "id": "72054db0b3a3026030a746a98fca5981c68f44e1",
@@ -1168,48 +1212,26 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd750a2c59eb07ea7/6a3d78c6918bcf634cc30013/Russia_Ukraine-Gwengoat-Alamy.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "id": "5e797799dba1e23afce7d3a7e54104056d297596",
-      "title": "EdTech Attackers Shift From Schools to Their Software Suppliers",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/edtech-attackers-shift-schools-software-suppliers",
-      "published": "2026-06-25T20:34:14+00:00",
-      "summary": "Educational institutions, the edtech companies they rely on, and, more concerningly, the challenges they pose for schools are the focus of the latest Reporters' Notebook video series.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltaf3f5c478af04e8e/64f15f8a4aa0fc4337f57a56/school_data_.jpg?width=720&quality=80&disable=upscale"
+      "id": "4114fe12752f5b250021a6f14b98f8c2bf3bdcb6",
+      "title": "An unnamed US county \u2013 perhaps in Ohio \u2013 paid $1M extortion demand to cybercriminals",
+      "url": "https://www.theregister.com/cyber-crime/2026/07/09/an-unnamed-us-county-perhaps-in-ohio-paid-1m-extortion-demand-to-cybercriminals/5269575",
+      "published": "2026-07-09T22:30:21+00:00",
+      "summary": "Leaked negotiations spill the tea",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=225421&width=800"
     },
     {
-      "id": "bf69d863c6450eff8cfbb3b3f8e6cbacb20817ec",
-      "title": "Local Police Collusion Hampers Crackdown on Asian Scam Centers",
-      "url": "https://www.darkreading.com/threat-intelligence/police-collusion-crackdown-asian-scam-centers",
-      "published": "2026-06-25T19:07:41+00:00",
-      "summary": "With tens of billions of dollars flowing into regional economies from cybercrime, scam centers continue to flourish, despite international and law-enforcement efforts.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt721fdc64be81c12c/6a3c4c65fdbe062a481b8a46/scam-compound-T01c-SEZ-Amnesty_International.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "id": "7121e6601c2311932c00f15c1cf08cd350967511",
-      "title": "Europe Evolves Into Ransomware's Favorite Region",
-      "url": "https://www.darkreading.com/cybersecurity-analytics/europe-evolves-ransomware-favorite-region",
-      "published": "2026-06-25T10:00:00+00:00",
-      "summary": "After a global lull, ransomware gangs are setting sights on a rich new arena: attacking EU organizations and their suppliers.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7ef4b56117367b12/6a39ffe932b8b46be16e5a3d/Europe-imaginima-Getty.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "id": "616bd9ce0613f7fa259a52203b1c165239dcbe95",
-      "title": "Attackers Hit Cisco SD-WAN Flaw 2 Months Before Disclosure",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/attackers-hit-cisco-sd-wan-flaw-2-months-before-disclosure",
-      "published": "2026-06-24T21:16:41+00:00",
-      "summary": "Researchers believe rogue peering was used to connect to the victim's SD-WAN devices to gain admin privileges and root-level access.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltcec8a650a8536405/6a3c3e984acf5754b02f6f0c/cisco_Mehaniq_shutterstock.jpg?width=720&quality=80&disable=upscale"
+      "id": "944ebef4e7d563e588319898f3e7794c5fb81fbd",
+      "title": "EU 'Chat Control' snoopfest returns after vote to kill it falls short",
+      "url": "https://www.theregister.com/security/2026/07/09/meps-fail-to-prevent-chat-control-snoopfest-revival/5269379",
+      "published": "2026-07-09T15:51:59+00:00",
+      "summary": "Opponents won the count but missed the 360-seat threshold needed to stop the interim CSAM-scanning rule",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=236829&width=800"
     },
     {
       "id": "d3ed2a0f5bc70efd3713fb3c66d7f7c35fbb80c3",
@@ -1740,26 +1762,70 @@
       "image": "https://image.theregister.com/?imageId=251521&width=800"
     },
     {
-      "id": "0d1ca0dc12b912fe5633715c3dad2136daaa3567",
-      "title": "Amazon Q flaw let booby-trapped Git repos execute code, swipe cloud creds",
-      "url": "https://www.theregister.com/cyber-crime/2026/06/26/amazon-q-flaw-let-booby-trapped-git-repos-execute-code-swipe-cloud-creds/5263202",
-      "published": "2026-06-26T15:34:00+00:00",
-      "summary": "Researchers warn many AI coding assistants now execute commands from project configurations",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=5263225&width=800"
+      "id": "a862312352299b9d8f12e296d8d0ea00d46730fe",
+      "title": "Felons, Fraudsters Flog Offensive Cybersecurity Startup",
+      "url": "https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/",
+      "published": "2026-07-08T12:31:39+00:00",
+      "summary": "A cybersecurity startup dangling millions of dollars to acquire zero-day security vulnerabilities in popular software is run by a pair of far-right conspiracy theorists and convicted felons whose most recent ventures included fake intelligence companies and a now-defunct AI-based lobbying platform they operated under assumed names.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "fb2367d96fa945d1dc8b3972d57ef3215238e481",
-      "title": "Miasma campaign poisons 20-plus npm packages, hunts for developer secrets",
-      "url": "https://www.theregister.com/security/2026/06/26/miasma-campaign-poisons-20-plus-npm-packages-hunts-for-developer-secrets/5262886",
-      "published": "2026-06-26T12:18:00+00:00",
-      "summary": "Microsoft says latest attack targets Leo Platform and RStreams packages, harvesting creds and going after more maintainers",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=1682668&width=800"
+      "id": "80703c01ba9374f55b423670a47eadb20d5b1a90",
+      "title": "FBI Seizes NetNut Proxy Platform, Popa Botnet",
+      "url": "https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/",
+      "published": "2026-07-02T19:27:33+00:00",
+      "summary": "The Federal Bureau of Investigation (FBI) said today it worked with industry partners to seize hundreds of domains associated with NetNut, a sprawling residential proxy service operated by the publicly-traded Israeli company Alarum Technologies [NASDAQ: ALAR]. The action comes roughly two weeks after KrebsOnSecurity published findings from multiple security firms connecting NetNut to the Popa botnet, a collection of at least two million devices that have been compromised by malicious software with little or no consent from victims.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "3da70ef6e63c15ca072d2bf10a7d87f986923492",
+      "title": "Scattered Spider Hackers Plead Guilty on Day 1 of Trial",
+      "url": "https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/",
+      "published": "2026-06-23T16:12:49+00:00",
+      "summary": "Two men pleaded guilty in the United Kingdom this week to criminal charges stemming from an August 2024 cyberattack that crippled Transport for London, the entity responsible for the public transport network in the Greater London area. The duo were key members of a prolific cybercrime group known as Scattered Spider, and their guilty pleas came on the first day of what was expected to be a six-week trial.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "69b2737ea98ec5099060988bb3d17364a6fa8d7c",
+      "title": "\u2018Popa\u2019 Botnet Linked to Publicly-Traded Israeli Firm",
+      "url": "https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/",
+      "published": "2026-06-18T17:37:58+00:00",
+      "summary": "For the past four years, a sprawling Android-based botnet called Popa has forced millions of consumer TV boxes to relay Internet traffic linked to advertising fraud, account takeovers, and mass data-scraping efforts. This week, researchers from multiple security firms concluded that the Popa botnet is linked to NetNut, a \"residential proxy\" provider operated by the publicly-traded Israeli firm Alarum Technologies Ltd [NASDAQ: ALAR].",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "80adc8ee797979464a110873714d5e649bab4c78",
+      "title": "Who Runs the Ransomware Group \u2018The Gentlemen?\u2019",
+      "url": "https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/",
+      "published": "2026-06-10T14:03:44+00:00",
+      "summary": "A cybercrime group known as The Gentlemen has emerged as the second most active ransomware gang by victim count, rapidly attracting a talented pool of hackers through an aggressive recruitment strategy that promises affiliates 90 percent of any ransom paid by victims. This post examines clues pointing to a real life identity for the administrator of The Gentlemen ransomware group.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "c6ebe04b09c02e9b19ad89b01dab37c604ca9dd6",
+      "title": "QIZ Security Raises $17 Million for Cryptographic Governance Platform",
+      "url": "https://www.securityweek.com/qiz-security-raises-17-million-for-cryptographic-governance-platform/",
+      "published": "2026-07-09T15:03:51+00:00",
+      "summary": "<p>The Israeli company has developed a cryptographic posture and post-quantum cryptography management platform.</p>\n<p>The post <a href=\"https://www.securityweek.com/qiz-security-raises-17-million-for-cryptographic-governance-platform/\">QIZ Security Raises $17 Million for Cryptographic Governance Platform</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
       "id": "b2668682de2e0e36dd626d187dcf49fdf09fa94e",
@@ -1855,17 +1921,6 @@
       "url": "https://www.securityweek.com/8layers-raises-2-9-million-for-identity-security-platform/",
       "published": "2026-07-09T06:45:22+00:00",
       "summary": "<p>The Spanish startup has closed an extended pre-seed funding round two months after launching its digital identity protection platform.</p>\n<p>The post <a href=\"https://www.securityweek.com/8layers-raises-2-9-million-for-identity-security-platform/\">8Layers Raises $2.9 Million for Identity Security Platform</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "73a19348f535e0265cde71895959a3d6af1264d8",
-      "title": "Unpatched Backdoor in Tenda Firmware Grants Admin Access to Devices",
-      "url": "https://www.securityweek.com/unpatched-backdoor-in-tenda-firmware-grants-admin-access-to-devices/",
-      "published": "2026-07-09T05:00:41+00:00",
-      "summary": "<p>Tracked as CVE-2026-11405, the vulnerability allows unauthenticated attackers to access a device's web management interface.</p>\n<p>The post <a href=\"https://www.securityweek.com/unpatched-backdoor-in-tenda-firmware-grants-admin-access-to-devices/\">Unpatched Backdoor in Tenda Firmware Grants Admin Access to Devices</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
