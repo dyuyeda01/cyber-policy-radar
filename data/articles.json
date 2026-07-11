@@ -1,6 +1,28 @@
 {
-  "generated_at": "2026-07-10T13:48:17.786936+00:00",
+  "generated_at": "2026-07-11T01:16:39.714173+00:00",
   "items": [
+    {
+      "id": "1303331ae5ec3824bc739af204af9dcf50ef5c96",
+      "title": "Initial access broker linked to weaponization of CitrixBleed2 flaw",
+      "url": "https://www.cybersecuritydive.com/news/initial-access-broker-citrixbleed2-flaw-DragonForce/824961/",
+      "published": "2026-07-10T15:24:29+00:00",
+      "summary": "<p>Similar exploitation was seen in a series of attacks involving an open-source machine emulator.&nbsp;</p>",
+      "source": "Cybersecurity Dive",
+      "region": "North America",
+      "country": "US",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "e3a18a3862dbe37b5eb9e8d2c9af76ab9da6f04f",
+      "title": "CISA details security lapses that led to GitHub leak of passwords, cloud access keys",
+      "url": "https://www.cybersecuritydive.com/news/cisa-github-passwords-leak-contractor-report/824953/",
+      "published": "2026-07-10T14:49:17+00:00",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/p1t777lvRYTMuNm-9ZruuRPB3bo1Gk03gNobbnqCDZc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9DSVNBX2hlYWRlci5qcGc=.webp\" /></div></figure><p>The agency&rsquo;s blog post came as lawmakers pressed the agency for answers.</p>",
+      "source": "Cybersecurity Dive",
+      "region": "North America",
+      "country": "US",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
     {
       "id": "b6b05a1ae30792ba3249ba7cbe04a166b2abc99d",
       "title": "Data breach hits car insurance provider",
@@ -90,26 +112,59 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "33fcce4ce4c7bc2c5f075160bdee26f76a1ed59f",
-      "title": "The security leaders defining the next decade aren\u2019t in CISO seats yet",
-      "url": "https://www.cybersecuritydive.com/spons/the-security-leaders-defining-the-next-decade-arent-in-ciso-seats-yet/824263/",
-      "published": "2026-07-06T09:00:00+00:00",
-      "summary": "<p>The first recognition program for the security leaders who will define the future of cybersecurity.</p>",
-      "source": "Cybersecurity Dive",
+      "id": "e449797afea6f6b29db3780229335423a9fe13e2",
+      "title": "URGENT - Progress Tells ShareFile Customers to Shut Down Storage Zone Controllers Over Security Threat",
+      "url": "https://thehackernews.com/2026/07/urgent-progress-tells-sharefile.html",
+      "published": "2026-07-10T16:30:00+00:00",
+      "summary": "Progress Software has told ShareFile customers to shut down the Windows servers running their Storage Zone Controllers, confirming to The Hacker News that it is responding to a \"credible external security threat.\"\n\nThe company has temporarily disabled access to the affected accounts, a step it says it took \"out of an abundance of caution\" while it works with internal and external security",
+      "source": "The Hacker News",
       "region": "North America",
       "country": "US",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgULXOG2_Ph1198nw2lOea2pYE9u1GkPHaaMlzhpO48pOmejpWKFuHbchUac5JIRQHGiIMMTefXq-LktA8AjsqqMIsBS54bLaludxIJbq7chYfo_Vsoqf9Xi7YomnSUL9wHAYa5InCST76k1aP10VMmNKK_MDLD3o5zNXyB4ODMRMl0DbLkz9f2mg2k2S8/s1600/progress.jpg"
     },
     {
-      "id": "783261e1d4fa15b71f39add5c2ffc17f00dee91a",
-      "title": "FortiBleed campaign traced to INC and Lynx ransomware operations",
-      "url": "https://www.cybersecuritydive.com/news/fortibleed-campaign-traced-to-inc-and-lynx-ransomware-operations/824348/",
-      "published": "2026-07-02T15:05:16+00:00",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/VKp2nzAST2pRAPqxS5ipeTmzsLB2Xp7D6Zvsx3kVcZM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9GVE5ULTkwOS1raWZlci0wNS5qcGc=.webp\" /></div></figure><p>Researchers are also investigating the role of a suspected zero-day vulnerability.</p>",
-      "source": "Cybersecurity Dive",
+      "id": "283dd1e1a3ed94ff1912bc030f7a68b8be892c9e",
+      "title": "Injective Labs GitHub Compromise Pushes Wallet-Key-Stealing npm Packages",
+      "url": "https://thehackernews.com/2026/07/injective-labs-github-compromise-pushes.html",
+      "published": "2026-07-10T16:29:00+00:00",
+      "summary": "Unknown threat actors compromised the Injective Labs SDK project's GitHub repository and leveraged it to publish a malicious package on the npm registry to steal cryptocurrency wallet private keys and mnemonic seed phrases.\n\nThe compromised version, @injectivelabs/sdk-ts@1.20.21, came embedded with fake telemetry functionality that exfiltrated data from cryptocurrency wallets. The version was",
+      "source": "The Hacker News",
       "region": "North America",
       "country": "US",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTNxzPo9jxkW3GuuZLBgtPOrG3vZ3va6E710jDJu_JF0jCpyQ1JTpymdVwdSH2VHL6-Ib6YLInvKsuNwgFJxna1nvDhwKMZ_hycTik5OgQniZei2FQ59-F3s80lsnPmhQ1aJsr7qIWWrf63V0AtHQxd_1Nlk6LkVEheoN5lRYH8aTeBoJ-kM1-bOjUgAwa/s1600/npm-malware-2.jpg"
+    },
+    {
+      "id": "5f6c7f2d8eb2eba38710eb3142dfbade64be04ed",
+      "title": "Six New U-Boot Flaws Could Let Malicious Images Crash Devices or Run Code at Boot",
+      "url": "https://thehackernews.com/2026/07/six-new-u-boot-flaws-could-let.html",
+      "published": "2026-07-10T15:57:14+00:00",
+      "summary": "Researchers at firmware security firm&nbsp;Binarly&nbsp;have found six new flaws in U-Boot, the small program that starts up hardware as varied as home routers, smart cameras, and the management chips inside data-center servers.\n\nFour of the bugs can crash a device. The other two could let an attacker who slips a malicious image in front of the bootloader run their own code, before the device",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihuE5rUYRadx5Q2auJjv9dVeFNIP8XSwSTaH0PDwGLUA54MXlPy3AyI532a8OnhXadtWnCCH30qvUKW9C3rCOu1LPld1or5_lXwNhRVqbohHNInDzNd1f9E77Sox5yB-ir7H69LmlYRKnoqnFASOMFa2TIK2RfTThJvu_oofIXHCpiRbXGXWy-bquBWsw/s1600/bootloader.gif"
+    },
+    {
+      "id": "daf3bdaf00dabafc77a338dcdf993f6950097966",
+      "title": "Laser Attack Resets Tangem Wallet Passwords on Cards That Can't Be Patched",
+      "url": "https://thehackernews.com/2026/07/laser-attack-resets-tangem-wallet.html",
+      "published": "2026-07-10T14:51:49+00:00",
+      "summary": "Researchers at Ledger's&nbsp;Donjon security team&nbsp;have shown that a precisely timed laser pulse, aimed at the chip inside a Tangem crypto wallet card, can reset the card's password to anything the attacker picks.\n\nNo old password. No backup card. Once it is reset, whoever did it controls the wallet and can move the coins&nbsp;out.\n\nThis is not an emergency for most owners. The attack needs",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0BbJcQ3TUJxFvOCpAChyC5saD3RGgDCtLtVG-Wupee7poBksO2TzSWFtzQmjjoXuZ-9hnCNR3HuWdSsBv7YZl477fdOcjoOBh72RY4vJ9R0hxUWktV2R7wgTsRa-_Zz5Bj_ZGfQOVT8v292QJ55C9hMumk-IgXd-PVZ6LFu2ZDyCGwjNtJhCYb4W-mPDO/s1600/ll.jpg"
+    },
+    {
+      "id": "0a2c3e9bef381190cd4dd5d76249a7fc5bdfbb1c",
+      "title": "Researcher Details WhatsApp-to-Host Attack Chain Using Three OpenClaw Flaws",
+      "url": "https://thehackernews.com/2026/07/researcher-details-whatsapp-to-host.html",
+      "published": "2026-07-10T14:19:50+00:00",
+      "summary": "Details have emerged about three now-patched security flaws in the OpenClaw personal artificial intelligence (AI) assistant that, if successfully exploited, could enable credential theft, privilege escalation, and arbitrary code execution on the host.\n\nA brief description of the high-severity vulnerabilities is as follows&nbsp;-\n\n\n  GHSA-hjr6-g723-hmfm (CVSS score: 8.8) - An operating system",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgs80_SEcGa8Q18LOUd4Y3fWiWZRh6MOX6U3LhAyAVVewqJVSd1cq2bgepE_2vS0eg9qvr0iM1JOYnYd9GPDQ-LZiTP4-J8oEpZjAMc2ivQ9QiNTMbf1BYONSvBOvZaVat_1PUWjM9O72K_pdF74UKhHm-dd-wXKLp8BDoV4dQZTi1HWOUCWbozpd4muH0i/s1600/openclaw-whatsapp.jpg"
     },
     {
       "id": "e4b38fb48af10e8767d98065d7866d9ca7794ae1",
@@ -607,59 +662,48 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLyTSo2j_jLDBALDaJ6S4gpQf2xkxgGWRslJKuVLIrY-J7nsEG-zNgi02OKeABO5BNXCI1C05oTO1TdYYMtzjCHE7ugevubBOybwilFTXFY6wgXDBVkzMV3-cyYyZUfd-sfXmlfTtgyouay2kJYwxfclTk2M6PPOaLWdR-26P3TYuIm1l5wjQfoPVzk-ca/s1600/recapss.jpg"
     },
     {
-      "id": "c7e03e39578b9be7d26a462f63d174bc2e0fe998",
-      "title": "How to Evaluate an AI SOC Platform in 2026: 6 Capabilities That Separate Leaders from Bolt-On AI solutions",
-      "url": "https://thehackernews.com/2026/07/how-to-evaluate-ai-soc-platform-in-2026.html",
-      "published": "2026-07-06T11:30:02+00:00",
-      "summary": "Building a shortlist for an AI SOC evaluation can be tough. SIEM, SOAR, and pureplay AI SOC vendors are all saying the same thing. But behind the identical label sit very different products, from chat assistants bolted onto a legacy SIEM to agent platforms that run detection, triage, investigation, and response on their own data foundation.\n\nWhether a platform will materially change outcomes for",
-      "source": "The Hacker News",
+      "id": "4589d058f0a0d0ff2ff344ffbd620d6cfa300639",
+      "title": "Jen Ellis: Connecting Cyber Community With Political Machinery",
+      "url": "https://www.darkreading.com/cybersecurity-operations/jen-ellis-connecting-cyber-community-political-machinery",
+      "published": "2026-07-10T19:08:04+00:00",
+      "summary": "Security Pro File: On the heels of her recent honors as a Member of the Order of the British Empire (MBE), we take a look back at the events that shaped Jen Ellis' advocacy on behalf of security researchers.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeiJymlyu6GGdzNT0Fb3yi6rYZdNn_XCoDUKKV9zSD_p17gngK7FL-IDm5LLTYlGx6Rn2Em6v0TSDq7u_1lttLyp1b97z7YrjSrFK7MrYAG2k1YXI91fHRRTRoPV1xIQSukE1DwqRcHY6i6fIS0jC2CaKv18OhFWHi2fKvXRKmZ6MBgSoRMDWGxmQKlfTt/s1600/aisoc.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd0404c576a980a37/6a51584597c98ae9da9a9b59/jen-ellis-nextjensecurity.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "id": "cf0d5ec7538028882e80af0d43d82ec240b5bd13",
-      "title": "Suspected China-Nexus Hackers Use Fake Indian Tax Filing Utility to Deploy DcRAT",
-      "url": "https://thehackernews.com/2026/07/suspected-china-nexus-hackers-use-fake.html",
-      "published": "2026-07-06T10:58:16+00:00",
-      "summary": "A suspected China-nexus threat activity cluster has been observed targeting Indian taxpayers, tax professionals, and corporate finance teams to deliver a remote access trojan designed to steal sensitive data from compromised hosts.\n\nThe multi-stage campaign, codenamed Operation DragonReturn by Seqrite Labs, involves sending spear-phishing emails impersonating the Income Tax Department of India.",
-      "source": "The Hacker News",
+      "id": "7fed3296a43ea17e402951c232a05136c41b115e",
+      "title": "Cybercriminals Flock to Healthcare Businesses as Attacks Surge",
+      "url": "https://www.darkreading.com/threat-intelligence/cybercriminals-healthcare-businesses-attacks-surge",
+      "published": "2026-07-10T16:51:34+00:00",
+      "summary": "While cyberattacks against hospitals and clinics grew modestly in the first half of 2026, attacks on service providers and other healthcare businesses more than doubled.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0L8iGbVZ6lxBg26K2nsc6uYpFED8ZcgCtrh4C34U4oixLPC0OKHOWWpiPBfaSwe-tpOTbCqZfRZQTMoropayZXEm0GXTtKpyBuBPRk9zF-0WPRprknYiaI2DXLDZnQb8t70R7-0Fjl5G-NNCQFF-Ex40vQZMbUJmJ2JLyXJUjYdAVvgjl3_oBF5wbHrHl/s1600/income-tax.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1b6b2d15edbb34ff/6a501046f2ad521509a98709/UMMC-Childrens-Hospital-Jackson-Chad_Robertson_Media-shutterstock.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "id": "3e96a85437ab449a366e9ed95ff2579699ceb137",
-      "title": "New TrojPix Attack Leaks Data From Air-Gapped Systems via Video Cable Emissions",
-      "url": "https://thehackernews.com/2026/07/new-trojpix-attack-leaks-data-from-air.html",
-      "published": "2026-07-06T08:50:54+00:00",
-      "summary": "Researchers at&nbsp;Shandong University&nbsp;have shown a fast new way to pull data off computers that are cut off from every network. The technique, called&nbsp;TrojPix, tweaks on-screen pixels in ways the eye cannot see, so that the video cable carrying them radiates a faint radio signal a nearby receiver can decode.\n\nBut TrojPix works only once malware is already on the target machine, so it",
-      "source": "The Hacker News",
+      "id": "7a697bf9b4d155a89b00a4cf11638de7a548a2cf",
+      "title": "Fresh ATM Crypto Software Bugs: Jackpot or Bust?",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/atm-crypto-software-bugs-jackpot-bust",
+      "published": "2026-07-10T14:00:00+00:00",
+      "summary": "Organizations, and possibly ATMs, are at risk of compromise, thanks to holes in a Microsoft BitLocker security wrapper.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLYJDaMKVJEwbsJA1eYJaguihQzJv2dpnIl512z5xBuWojpidgE7mvbGWz27QN-Dnwx74qvCYOYGQNY4h2K00TzF_hz8D6M9gNxWALh2f2bz6jrzwuKvTuuLsb6kwU1O72qPUIjQYHtRwGPCCUYt-TDFJEZ7frhvxvsQa4vWP7HkLRPtXCi0ovIACzurMP/s1600/TrojPix-attack.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte0e54c7d31cab23e/6a5000c3376bd6f180079dbb/ATM-AM29-Getty.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "id": "d45696e3ee88687dfcb00c75047f4e1bc19c1e6a",
-      "title": "New Java-Based QuimaRAT MaaS Built to Run on Windows, Linux, and macOS",
-      "url": "https://thehackernews.com/2026/07/new-java-based-quimarat-maas-built-to.html",
-      "published": "2026-07-06T08:13:33+00:00",
-      "summary": "Cybersecurity researchers have flagged a novel Java-based remote access trojan (RAT) called QuimaRAT that's capable of targeting Windows, Linux, and macOS environments.\n\nAccording to LevelBlue, the cross-platform malware is advertised under a malware-as-a-service (MaaS) model, costing anywhere between $150 for one month to $1,200 for lifetime access. Other subscription tiers include $300 for",
-      "source": "The Hacker News",
+      "id": "b26ef8b4e53755ce725506f4c8ba7c1642463472",
+      "title": "More Countries Jump on the Social Media 'Ban Wagon'",
+      "url": "https://www.darkreading.com/cyber-risk/more-countries-jump-on-the-social-media-ban-wagon",
+      "published": "2026-07-10T13:50:24+00:00",
+      "summary": "Age restrictions on accounts may be more of a stopgap because industry compliance is already falling short. Tech giants are struggling to follow the laws without affecting users.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVcOvCD8qFylCqOCpN8Rnl9cnxNkIeGxNbVKzlsKXY_7Nuw2xvYsckNEHKVM5ntvT2JAureArFIyApOvGLu52wpCG1xbHO8Y5xBmOAkSI3RoyEegmlNxs_gJip32Uzv_inXS7seOeRB1d3mw9SNIggoqgIApupRF2etBx5U_IFkuQz4_WNBL0Q1oi1l77q/s1600/javarat.jpg"
-    },
-    {
-      "id": "47b7d2a9a9546f14a8640026732842fbca2855ca",
-      "title": "Opera GX Flaw Let Malicious Sites Auto-Install Mods to Steal Data From Visited Pages",
-      "url": "https://thehackernews.com/2026/07/opera-gx-flaw-let-malicious-sites-auto.html",
-      "published": "2026-07-06T07:27:50+00:00",
-      "summary": "Researchers found a flaw in&nbsp;Opera GX, the gaming-focused version of the Opera browser, that let a malicious website silently install a browser add-on and use it to lift specific data from the pages a victim visits.\n\nIn a proof of concept, they reconstructed a signed-in user's full Gmail address from a single visit, with no click. Opera has patched the flaw and says it found no evidence that",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8-lhQ-1VSjFAnsj0p-4zGDK1crPeBer06vGaA7XU8XCN-lNLkZypKypuQmxyQHx9z_h6Fss3n2BEURplg0uIg4Wal1kQflJxg25IboOZVzFhD4GhRbQF07jgQ5QmOFpayQY7CPW4BPdNo36hi79iv9Eq_8TnNd1ash8cby6ow7poa82cSf38yUyehb-aJ/s1600/opera-browser.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltea14c9f0b9e9121d/6a50fb99c6689e7d0b90589b/GettyImages-2252881496.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "id": "8b77b9cb653dc4e9c094bd31a5d895cf256a7f09",
@@ -696,10 +740,10 @@
     },
     {
       "id": "1bc56fb993541837c775d10ea85480eca94a5c42",
-      "title": "AI Agents Are a New Kind of Identity &amp; Most Organizations Aren't Ready",
+      "title": "AI Agents Are a New Kind of Identity \u2014 and Most Organizations Aren't Ready",
       "url": "https://www.darkreading.com/identity-access-management-security/ai-agents-new-kind-identity-most-organizations-not-ready",
       "published": "2026-07-09T19:16:02+00:00",
-      "summary": "If you're handling them like a service account or API token, consider yourself behind. AI agents need a fundamentally different approach.",
+      "summary": "If you're handling AI agents like a service account or API token, consider yourself behind. AI agents need a fundamentally different approach.",
       "source": "DarkReading",
       "region": "North America",
       "country": "US",
@@ -707,10 +751,10 @@
     },
     {
       "id": "d223bc40f396b0b48e293e702b6c016ff035fdb0",
-      "title": "As Global Conflicts Go Digital, Businesses Need Wartime Gameplans",
+      "title": "As Global Conflicts Go Digital, Businesses Need Wartime Game Plans",
       "url": "https://www.darkreading.com/cybersecurity-operations/businesses-wartime-cybersecurity-gameplans",
       "published": "2026-07-09T14:31:20+00:00",
-      "summary": "The fate of a Ukrainian tax software company shows how modern cyberwarfare can claim casualties far beyond the battlefield, and how businesses across the ocean still need to protect themselves.",
+      "summary": "The fate of a Ukrainian tax software company shows how modern cyber warfare can claim casualties far beyond the battlefield, and how businesses across the ocean still need to protect themselves.",
       "source": "DarkReading",
       "region": "North America",
       "country": "US",
@@ -1168,50 +1212,6 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta84710e2a296fb51/6a3d8492c8bfcb045af470b0/Graduates_Getty.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "id": "1d3ad20e4a031f561aad3ff476bbab5c027c8ce7",
-      "title": "Meeting Trump's 2030 Quantum Deadline Will be Expensive, Complex",
-      "url": "https://www.darkreading.com/cybersecurity-operations/meeting-2030-quantum-deadline-expensive-complex",
-      "published": "2026-06-26T13:30:00+00:00",
-      "summary": "Getting accurate visibility into IT and OT systems will be compounded by multivendor environments, misaligned update life cycles, and interoperability gaps.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3f96ce16a435deca/6a3d55be62f12d27e415ed3c/quantum_computer-Peter_Hansen-getty-2214879776.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "id": "9fae14ddcab843b66111c1b24e3415da4b9dd264",
-      "title": "Thanks for Crushing the Submissions Inbox. We're Trying to Keep Up",
-      "url": "https://www.darkreading.com/cybersecurity-operations/submissions-guidelines-reminder",
-      "published": "2026-06-26T13:00:00+00:00",
-      "summary": "It might be taking a bit longer than usual to respond to your submissions \u2014 here's why.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb0a7aff0c7827ded/6a3c70cdfc46ad1f4754589e/kitten_hanging_on_rope_oksun70_Getty.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "id": "2e413bc679a0b9ecca4a8f8fdfb4d0a4a281c365",
-      "title": "Robinhood Cuts Access Approval Time to Support High-Velocity Development",
-      "url": "https://www.darkreading.com/application-security/robinhood-reengineered-access-approvals-for-high-velocity-development",
-      "published": "2026-06-25T22:42:36+00:00",
-      "summary": "The fintech company's engineering-first application security team reengineered the process for granting system access, making it easier and more secure for developers working on their projects. Here are the lessons learned from Robinhood's experience.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt702a5bf42e4e4366/64f171e1523617b5bc948dac/office-workshop-Dzianis_Apolka-Alamy.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "id": "77aef02bbd0feabb09deeaae2537392704095e49",
-      "title": "In Less Than 24 Hours, Attackers Weaponize Cisco CUCM Flaw",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/less-than-24-hours-attackers-weaponize-cisco-cucm-flaw",
-      "published": "2026-06-25T21:54:34+00:00",
-      "summary": "The flaw enables server-side request forgery (SSRF) and escalates privileges to root, impacting Cisco Unified CM and Unified CM SME deployments.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltfdd5607b561f0591/6a3d9511d5c6b885ac175e9e/cisco_Sergiy_Palamarchuk_shutterstock.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
       "id": "a862312352299b9d8f12e296d8d0ea00d46730fe",
       "title": "Felons, Fraudsters Flog Offensive Cybersecurity Startup",
       "url": "https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/",
@@ -1256,12 +1256,12 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "80adc8ee797979464a110873714d5e649bab4c78",
-      "title": "Who Runs the Ransomware Group \u2018The Gentlemen?\u2019",
-      "url": "https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/",
-      "published": "2026-06-10T14:03:44+00:00",
-      "summary": "A cybercrime group known as The Gentlemen has emerged as the second most active ransomware gang by victim count, rapidly attracting a talented pool of hackers through an aggressive recruitment strategy that promises affiliates 90 percent of any ransom paid by victims. This post examines clues pointing to a real life identity for the administrator of The Gentlemen ransomware group.",
-      "source": "Krebs on Security",
+      "id": "108d25e0712c72d3f967aa4a425f0d43aa323dde",
+      "title": "In Other News: DHS Database Hacked, Adobe Boosts Patch Cadence, Canada Disrupts Ransomware Ops",
+      "url": "https://www.securityweek.com/in-other-news-dhs-database-hacked-adobe-boosts-patch-cadence-canada-disrupts-ransomware-ops/",
+      "published": "2026-07-10T15:01:19+00:00",
+      "summary": "<p>Other noteworthy stories that might have slipped under the radar: Abnormal AI sued by Anthropic, AssuranceAmerica data breach affects 7 million people, NSA brings back TAO.</p>\n<p>The post <a href=\"https://www.securityweek.com/in-other-news-dhs-database-hacked-adobe-boosts-patch-cadence-canada-disrupts-ransomware-ops/\">In Other News: DHS Database Hacked, Adobe Boosts Patch Cadence, Canada Disrupts Ransomware Ops</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
@@ -1360,17 +1360,6 @@
       "url": "https://www.securityweek.com/palo-alto-networks-patches-13-vulnerabilities/",
       "published": "2026-07-09T13:49:42+00:00",
       "summary": "<p>Buffer overflow, DoS, command injection, SSRF, authentication bypass, and other types of vulnerabilities have been found in PAN-OS software.</p>\n<p>The post <a href=\"https://www.securityweek.com/palo-alto-networks-patches-13-vulnerabilities/\">Palo Alto Networks Patches 13 Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "b545d90bd68404049e28fd76bd19287e6d0586e5",
-      "title": "12 Million Impacted by Data Breach at Japanese Telco KDDI",
-      "url": "https://www.securityweek.com/12-million-impacted-by-data-breach-at-japanese-telco-kddi/",
-      "published": "2026-07-09T12:18:46+00:00",
-      "summary": "<p>Hackers exploited a zero-day vulnerability in a third-party system to access a KDDI email system for ISPs.</p>\n<p>The post <a href=\"https://www.securityweek.com/12-million-impacted-by-data-breach-at-japanese-telco-kddi/\">12 Million Impacted by Data Breach at Japanese Telco KDDI</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
