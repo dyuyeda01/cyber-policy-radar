@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T01:16:28.021941+00:00",
+  "generated_at": "2026-07-21T13:08:01.405566+00:00",
   "items": [
     {
       "id": "76587a029433ca962fecb86e5cfcdb758717c313",
@@ -110,6 +110,72 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "06fe19b9b7da0d764c37e414fa14e2122599ce74",
+      "title": "Open-Source Android AI Agents Could Let Invisible Screen Text Run Code on Host PCs",
+      "url": "https://thehackernews.com/2026/07/open-source-android-ai-agents-could-let.html",
+      "published": "2026-07-21T11:58:00+00:00",
+      "summary": "An Android app that can draw over other windows and write to shared storage can slip instructions to the AI agent driving that phone, in text no human eye will ever see. Two more steps, and the same app is running commands on the PC driving the agent.\n\nResearchers demonstrated that chain, plus six other attacks, against five open-source mobile agent frameworks: AppAgent, AppAgentX,",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgT3XQmerfsXoGV-Vs_zcpVZiX_i21tKtW9mTacpOvcEntMhycVftZ4f2vkREtq3W8PH9iQRLpOunN-hFf590FJNocxmsPla_WJ1uGJxtkpXnQim-T0-wa89EiJSZSrLHxhOcx_srjqzYcb2dW2MXAU4V2HWlL9rQa1YVEE4XEQ944I7a3glRwwjkgu0U/s1600/ai-android-agent.jpg"
+    },
+    {
+      "id": "9540b6fd01dbf2e35678004041cdfdf6bc258d49",
+      "title": "N-day is Becoming N-Hour. Patching Faster Won't Save You.",
+      "url": "https://thehackernews.com/2026/07/n-day-is-becoming-n-hour-patching.html",
+      "published": "2026-07-21T11:42:23+00:00",
+      "summary": "Every patch is a confession.\n\nThe moment a vendor ships a security fix, the diff between the old code and the new code tells anyone watching exactly what was broken and where. Turn that diff back into a working exploit, and you can hit every system that hasn't updated yet. This is N-day exploitation, and it's always been a race: the vendor patches, the clock starts, and defenders try to deploy",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRgv46Pyr5W2eivocnJG2MuDCYtUXj0fVas4afxPzJX2ZVXVCyjyWK_FtVCxKOaz9qwmR6EJLqgbrG448OtKTlv3X9coXsqr40xoNXrkXZbGiOO3ZHr-skaiYV3My_V-qI9YH3c3ScLO4tISLW_uI-2PD3_hdgUQW8cv_kMi6q994YyZn6JkF7gIhECC4/s1600/pushsecurity.jpg"
+    },
+    {
+      "id": "5f7e631ba298b7039568544e7526247ee5f4e7b5",
+      "title": "New Bit2Watt Attack Could Let Cloud Tenants Disrupt Power Grids Without an Exploit",
+      "url": "https://thehackernews.com/2026/07/new-bit2watt-attack-could-let-cloud.html",
+      "published": "2026-07-21T11:24:50+00:00",
+      "summary": "A cloud tenant using nothing but ordinary GPU access can push a data center's power draw up and down fast enough to threaten the grid it runs on, with no exploit and no break-in.\n\nThat is the claim behind Bit2Watt, described by three Zhejiang University researchers in a paper accepted to CHES 2026, the IACR's hardware-security conference, and the evidence splits in two: they measured the power",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-R7kd2VdqaUw8SmCRinR_mJDH7qmw8_9h6IHAFVzVk0Oaec5zzxsTzyikFRO8ZlzSArsZ4vjQryaEwMCWcpnvOqlKIMiI6PCmxrjWrWCVI_ihUtqY17MSTWTgFcAwBCTdZMV8ihug0FuEBl5gJhYt2S2SMSua7s98eOuTf7maqc2T2vsXN7wGrkS4iH8/s1600/bit2watt.jpg"
+    },
+    {
+      "id": "1cfa0d30e91cb773dcf93e7fe64a984d034527a8",
+      "title": "WordPress wp2shell Exploitation Grows as Public Exploit Fuels Mass Scanning",
+      "url": "https://thehackernews.com/2026/07/wordpress-wp2shell-exploitation-grows.html",
+      "published": "2026-07-21T08:59:30+00:00",
+      "summary": "Attackers have begun to exploit two critical vulnerabilities in WordPress that, when combined together, enable unauthenticated remote code execution (RCE) and complete compromise of vulnerable websites.\n\nThe two security flaws, tracked as CVE-2026-63030 and CVE-2026-60137, have been codenamed wp2shell.\n\n\"By the early hours of Saturday morning (UTC), successful exploitation was already well",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4qOga3YGcLZ3JclK_mkOkQ-pRmQowUUqu6Hp3fj1QTmsNuuhkSj4OiFqgAtL7e6yeGkv-K1jC0v4bRayI40oDQ8UMeYishuNzRap3E5RYmIEbjRbmq-uAk4iWKWwIfMdNi6owJrVWE_3fcWzj5lZgVm9P96ddcqghwnp3rGx3pM3N6hck6UiaFUgVRbtC/s1600/wordpress-ex.jpg"
+    },
+    {
+      "id": "567b9f117ea0a225dd3b7b0fea3d994380be6316",
+      "title": "New ENCFORGE Ransomware Targets AI Model Files in Langflow RCE Attack",
+      "url": "https://thehackernews.com/2026/07/new-encforge-ransomware-targets-ai.html",
+      "published": "2026-07-21T07:34:32+00:00",
+      "summary": "Researchers at Sysdig have linked a second attack on the same Langflow server to JADEPUFFER, the AI-agent-driven operator it first documented earlier this month.\n\nThe same operator has now been spotted deploying ENCFORGE, a new compiled Go ransomware designed to encrypt model weights, vector indexes, training datasets, and other AI infrastructure files across the host filesystem.\n\nThe entry",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDTNXJkg3w9ziG7euHnlaoQkTjogtjIhtwE-ZudPv_9wOpJUCUNVc-i_BtBkDTCflKzRSfUOEp5xHyRWAOcQWv18pf2kv9-yuI75SOM52X3akV3VrguZf6GDH9MZejxFG7FoJGMIgARuiWyncCOmNznSofFT8Fn9Zu2ZGmk0V_Ni3niha2I9qAO59VKHw/s1600/ransomware-ai.jpg"
+    },
+    {
+      "id": "3fdf359519ec07c1083b08526008cb231986aadd",
+      "title": "Critical ServiceNow AI Platform Flaw Exploited for Unauthenticated Code Execution",
+      "url": "https://thehackernews.com/2026/07/critical-servicenow-ai-platform-flaw.html",
+      "published": "2026-07-21T06:29:26+00:00",
+      "summary": "Threat actors are now exploiting a recently disclosed critical security flaw impacting ServiceNow AI Platform, according to Defused Cyber.\n\nIn a post shared on X, the threat intelligence firm said it's observing in-the-wild exploitation of CVE-2026-6875 (CVSS score: 9.5), a sandbox escape vulnerability that could allow an unauthenticated user to run arbitrary code.\n\nPatches for the flaw were",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAYYV6u5s-uKU-FXeqsoZ9Bk7nvzW1gPYVuoykmnuzLBQCK0jvX7rAO12mK5FVX06ovTJHZLUUXDkFmYk88oyKdFSYByRPSL5MUuAqikrTIVEpVzOcR9j4Rn0Fmje7-VwBAO09Yl8Y4cTUVNFwTXf2FV2c9C8oyNi5coAMCMLn5WF5Fbqtyt-tDZ3MVsO0/s1600/servicenow.jpg"
     },
     {
       "id": "739511737776245acdf23e5992ab0a529a3844dc",
@@ -596,70 +662,15 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyFnrtjbcXdDBTEYOhVnUpFO4CSqhCGj5xdvaYlhih4oUCd3phzBQTjjMogZeFDlYqTiO8Xt2jaHevba5peaV76dT417Vq9W-DZFSpu2_cEbAMtGwz-mqKZJcYgAAXmZT_Rnkdc0f3jAW-eANKWd6XZZJvYfYCt6l5Pp-2ZKjlnn4zG7G6gS7ivWruzeU/s1600/git.png"
     },
     {
-      "id": "703342ddd7abdc59c8133043998fc7d7e8d07a4e",
-      "title": "Compromised AsyncAPI npm Packages Deliver Multi-Stage Botnet Malware",
-      "url": "https://thehackernews.com/2026/07/compromised-asyncapi-npm-packages.html",
-      "published": "2026-07-15T09:16:13+00:00",
-      "summary": "Four compromised npm packages in the @asyncapi namespace have been observed distributing a multi-stage botnet loader, according to findings from OX Security, SafeDep, Socket, and StepSecurity.\n\nThe affected packages are listed below -\n\n\n  @asyncapi/generator-helpers@1.1.1\n  @asyncapi/generator-components@0.7.1\n  @asyncapi/generator@3.3.1\n  @asyncapi/specs(v6.11.2, v6.11.2-alpha.1)\n\n\"The",
-      "source": "The Hacker News",
+      "id": "b8f0f8eabd05b7c62c21b043d2833dd5cb9a1bd7",
+      "title": "Choose Wisely: AI-Generated Coding Risk Varies, A Lot",
+      "url": "https://www.darkreading.com/application-security/choose-wisely-ai-generated-coding-risk-varies",
+      "published": "2026-07-21T13:00:00+00:00",
+      "summary": "AI-generated code introduces 15 vulnerabilities on average per codebase, but the actual risk depends on framework pairing more than the model used.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXEluWW9TuNGlzu9wVHSDBzAeUuoRS9Om8kX9yzH-HwCjggh-N5ycLyuJ82oY3MP4Uvf9yF_PqwKhcZepDBEH_pOb3td4dPRuuGSWi5XndfpeuqiMipzKIq0Vofc-hOBGj4nWxmXbjMS7RvHkZCUSHloOpsS6m7jpwwFX-2KUkYwrQdt-ClrGXpt2C9TxC/s1600/async-npm.jpg"
-    },
-    {
-      "id": "d8f6ea883c519ff4dd2b051d62adb8078a4eed99",
-      "title": "Two SonicWall SMA 1000 Zero-Days Exploited, One Could Enable Admin Commands",
-      "url": "https://thehackernews.com/2026/07/two-sonicwall-sma-1000-zero-days.html",
-      "published": "2026-07-15T05:30:21+00:00",
-      "summary": "SonicWall has warned of active exploitation of two zero-day vulnerabilities impacting Secure Mobile Access (SMA) 1000 series appliances, one of which could be exploited to achieve arbitrary command execution.\n\nThe vulnerabilities are listed below -\n\n\n  CVE-2026-15409 (CVSS score: 10.0) - A Server-side request forgery (SSRF) vulnerability that a remote unauthenticated attacker could exploit to",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0n94FUIdljCnLvlh0SNz5l8xDWbdDqmk7OesE7HAKxrRAMUMIfXpppuMBoI-7F0Q1PB7eXPRjrfg9fgZTTVj3JY5jKsr1Ebheb2mU65p4MUVYbs59lCPPWCBQ4LVYZnoZ0o6nRkoBQitrwwnyLVQc2oYJ41zVjPS6_HchwIR-U8EuWrOdPpl1-Y9Rw1Lm/s1600/sonicwall-patches.jpg"
-    },
-    {
-      "id": "81ec43082f19cc6b6b0a5afcc5ba62db874873be",
-      "title": "Microsoft Patches Record 622 Flaws, Including Two Zero-Days Under Active Attack",
-      "url": "https://thehackernews.com/2026/07/microsoft-patches-record-622-flaws.html",
-      "published": "2026-07-14T20:25:47+00:00",
-      "summary": "Microsoft shipped its largest Patch Tuesday on record today, and two of the fixes close holes that attackers are already exploiting. The release covers 622 of Microsoft's own CVEs by its&nbsp;Security Update Guide&nbsp;count, more than triple&nbsp;June's previous high of around 200.\n\nThose two live bugs are the ones to grab first. Microsoft credits incident responders for both. Both are",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi34s_9ywUXjSc5OtF7-fDiAqSa3H-UHpJfACXyULY5ziUlM67mCJHWee9tluTiGm7ZRhMy36SLal2CUjqwJHZ8vdHuFstRwJhPGLAXe49as-o3nRE-QAyRs2mx3og8eVdWdnzzr9LwGMXckMix80XOQPsWiE30xqqYGG3PNjjpVTCpLsnW77pCk_3MyKQ/s1600/ms=patch.jpg"
-    },
-    {
-      "id": "47a29edaf85b9b223df9a599e7a5a23728922582",
-      "title": "SAP Patches CVSS 9.9 NetWeaver ABAP Flaw That Could Expose or Modify Data",
-      "url": "https://thehackernews.com/2026/07/sap-patches-cvss-99-netweaver-abap-flaw.html",
-      "published": "2026-07-14T18:17:57+00:00",
-      "summary": "SAP has rolled out updates to address multiple vulnerabilities as part of its July 2026 security updates, including a critical flaw in SAP NetWeaver Application Server ABAP.\n\nThe vulnerability in question is CVE-2026-44747 (CVSS score: 9.9), an out-of-bounds write flaw that allows an authenticated attacker to leverage logical errors in memory management to cause a memory corruption that could",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9rN4ge3zuUmonccBl2yC_AcOKiCQPKQFAV31BzB3DZk3JO7SxAjx1HdJlg1vBOMEj3cq2Mrg06ZU64I1fdkWCDRBsPhqpuyJwTxjbJHJXmzUoXF8KRDkupk6JxznlI9tjMXwU_hJqh4InVEOsiknPoszVZkQsqWSKfcD5Y90qz63Cv_pOHL8zO4CxGOop/s1600/sap-patch.jpg"
-    },
-    {
-      "id": "cd12e30d37f448b973eb4adda3c012e1cb314143",
-      "title": "Researchers Say Claude for Chrome Flaw Lets Rogue Extensions Trigger Gmail Reads",
-      "url": "https://thehackernews.com/2026/07/claude-for-chrome-flaw-lets-other.html",
-      "published": "2026-07-14T17:27:23+00:00",
-      "summary": "Any other browser extension that can run a script on claude.ai can still trigger Claude for Chrome tasks aimed at your Gmail, your latest Google Doc and its comments, and your Calendar.\n\nBoth this and ClaudeBleed need a rogue extension that can already run a script on claude.ai; the difference is scope. Anthropic restricted the arbitrary-prompt path in May as part of its response to the&nbsp;",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6dKqmptCkoLw0bB5PV9wa9zqqfMmsIU0yrc4vQ2FdIFYClQBeZyUifVSr4wny1umoGovVKP57bzeh3-8RjmK8VktgN_y8TGTnkkw6Ua49L3xfWT_n8Ks6ob2NpIy78NSAV4-XU7HxfdmYqAZcKYz7DIjihqBI8OsQIgW3a4vca7taNTohCTDrqEamAk4/s1600/claude-chrome-flaw.jpg"
-    },
-    {
-      "id": "44702ff15a48e62eb63c84c3f3c47427cdda9e9e",
-      "title": "LabubaRAT Masquerades as NVIDIA Software to Control Windows Hosts",
-      "url": "https://thehackernews.com/2026/07/labubarat-masquerades-as-nvidia.html",
-      "published": "2026-07-14T16:52:37+00:00",
-      "summary": "Cybersecurity researchers have flagged a previously undocumented Rust-based remote access trojan (RAT) codenamed LabubaRAT that masquerades as NVIDIA software to blend into target environments.\n\n\"LabubaRAT creates a reusable foothold for hands-on activity,\" Blackpoint Cyber researchers Sam Decker and Nevan Beal said in an analysis published today. \"Once deployed, it can profile the host,",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpSmSwv3hz6LMJIQCrVej_pophE9XNTZyveEV1GctCyQMSNoac_Mx3CfmAHLgYkpDkymvscLLY71u2Kq-7z-7bDemSeKHryPVH3h7FNxw9e64D3jTeoLOzmWW305j1Rctz5kdiwFV29lFNqo33TUZMGWCaZqtyKNPYARGtrrhZ0Bsc4LMLXhnRgzKXjKYb/s1600/NVIDIA-rat.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1c0e9544f78c82bf/6a5e8bfa651b136c90b23f50/door_choice-adventtr-GettyImages-2027127656.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "id": "cf051d723f4254d7c843b3122dcef9e73cc19b58",
@@ -677,11 +688,22 @@
       "title": "Remediating Vulnerabilities With LLMs: Inside Ivanti's Automation Push",
       "url": "https://www.darkreading.com/cybersecurity-operations/remediating-vulnerabilities-llms-ivanti-automation",
       "published": "2026-07-20T20:26:56+00:00",
-      "summary": "Ivanti CSO Daniel Spicer says frontier models have shown surprising effectiveness in early stages; but cost and human-in-the-loop viability remain open questions.",
+      "summary": "Ivanti CSO Daniel Spicer says frontier models have shown surprising effectiveness in early stages, but cost and human-in-the-loop viability remain open questions.",
       "source": "DarkReading",
       "region": "North America",
       "country": "US",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb30ebf99943f9f9a/6a5e0e8c81d46ac05c6bf14f/llms-rawintanpin-Getty-2224684603.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "id": "7f415f60a0eefb62ef5ba345d4291ddc4ef8f51c",
+      "title": "25 Years After Code Red: What the Worm Era Can Teach Us About AI Security",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/25-years-after-code-red-what-the-worm-era-can-teach-us-about-ai-security-2",
+      "published": "2026-07-20T19:32:04+00:00",
+      "summary": "Marc Maiffret reflects on Code Red's legacy and the security lessons helping organizations navigate AI risk today.",
+      "source": "DarkReading",
+      "region": "North America",
+      "country": "US",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
       "id": "2c956141b20b18132ec2758ffe7f50f3f97f68a5",
@@ -1190,26 +1212,26 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blteca04007bb68f1f6/6a4d5127491628186986abc0/Agent_breaking_through_firewall-Richard_Drury-Getty-2219277246.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "id": "bf9ba08bad7eca1b520d3eb05846b19d928eb679",
-      "title": "'GitLost' Flaw Leaks Private Data From GitHub's Agentic Workflows",
-      "url": "https://www.darkreading.com/cyber-risk/gitlost-leaks-private-data-github-agentic-workflows",
-      "published": "2026-07-07T15:24:30+00:00",
-      "summary": "The flaw allows an unauthenticated attacker to craft a GitHub Issue in an org's public repository and then silently pull data from its private repos, too.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt10ffb7d3c09c15f9/6a4cd672541f2a099e941684/Unlock_Data_Breach_Pattara_Alamy.png?width=720&quality=80&disable=upscale"
+      "id": "a9ef250acdb469c7d302a90f2ed6660d98e5447a",
+      "title": "Intel fortifies Foundry with an actual customer: Fortinet",
+      "url": "https://www.theregister.com/systems/2026/07/21/intel-fortifies-foundry-with-an-actual-customer-fortinet/5275374",
+      "published": "2026-07-21T13:00:00+00:00",
+      "summary": "Firewall maker looks to safeguard its custom ASIC production with homegrown silicon",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=259314&width=800"
     },
     {
-      "id": "48b0ff4ad78def06cc97e5f94bf93052b51a4cd8",
-      "title": "'BusySnake' Infostealer Slithers Into Critical Infrastructure Networks",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/busysnake-infostealer-critical-infrastructure-networks",
-      "published": "2026-07-06T21:37:56+00:00",
-      "summary": "A threat group researchers call &quot;Armored Likho&quot; has gained access to government agencies and electrical power entities in Russia, Brazil, and Kazakhstan.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8a5851671625faf8/6a4c14c7cdf54e22d2b6249c/busysnake_LuckyStep_shutterstock.jpg?width=720&quality=80&disable=upscale"
+      "id": "edd9d1868ed9f8214ad6968671e320015b4f889d",
+      "title": "OVH reveals semi-secret plan to fix critical Januscape hypervisor bug with mass reboots \u2013 and an Australian crash-test dummy",
+      "url": "https://www.theregister.com/virtualization/2026/07/21/ovh-reveals-semi-secret-plan-to-fix-critical-januscape-hypervisor-bug-with-mass-reboots-and-an-australian-crash-test-dummy/5275359",
+      "published": "2026-07-21T03:52:43+00:00",
+      "summary": "French cloud backported a patch into Debian and didn\u2019t seek customer consent, despite chance of downtime",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=225297&width=800"
     },
     {
       "id": "b035ea5125012e993ed70d3e5efe1f8162ea7349",
@@ -1740,28 +1762,6 @@
       "image": "https://image.theregister.com/?imageId=254434&width=800"
     },
     {
-      "id": "14a7f6c6d579c9573cba468e939c155300015a91",
-      "title": "Spain collars alleged pro-Russia hacktivist after FBI tip-off",
-      "url": "https://www.theregister.com/security/2026/07/07/alleged-pro-russia-hacktivist-arrested-in-palencia/5267569",
-      "published": "2026-07-07T10:30:50+00:00",
-      "summary": "Palencia man suspected of links to CARR, Z-Pentest, and NoName057(16), plus helping a Ukrainian hacker flee to Russia",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=4093955&width=800"
-    },
-    {
-      "id": "7e205bddcd371824c65c2b2412d44d406f08daf1",
-      "title": "Government's cyber pledge lands 60 signatories, including M&S and, somehow, Capita",
-      "url": "https://www.theregister.com/security/2026/07/07/governments-cyber-pledge-lands-60-signatories-including-ms-and-somehow-capita/5267554",
-      "published": "2026-07-07T10:07:00+00:00",
-      "summary": "Whitehall's latest attempt to boost corporate cyber hygiene has already produced a curious roll call",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=225093&width=800"
-    },
-    {
       "id": "2c2b2700dd7b44b3c6e490c2151c3e8c6d1cc629",
       "title": "Microsoft Patches a Record 570 Security Flaws",
       "url": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
@@ -1817,110 +1817,110 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "70bf60083475050d61432279d95b1390870ac76c",
+      "title": "Empirical Security Raises $25 Million in Series A Funding",
+      "url": "https://www.securityweek.com/empirical-security-raises-25-million-in-series-a-funding/",
+      "published": "2026-07-21T12:47:18+00:00",
+      "summary": "<p>The startup will use the investment to accelerate the development of its threat prediction and discovery products.</p>\n<p>The post <a href=\"https://www.securityweek.com/empirical-security-raises-25-million-in-series-a-funding/\">Empirical Security Raises $25 Million in Series A Funding</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "af1a050201f6f14cd6a476fbccfb6f895c823eaa",
+      "title": "SecurityWeek Launches Critical Impact Awards to Recognize Excellence in Industrial Cybersecurity",
+      "url": "https://www.securityweek.com/securityweek-launches-critical-impact-awards-to-recognize-excellence-in-industrial-cybersecurity/",
+      "published": "2026-07-21T12:30:00+00:00",
+      "summary": "<p>Independently judged and sponsor-neutral, the new awards program honors the people, organizations, and technologies delivering proven impact in industrial cybersecurity; winners to be announced live at the 2026 ICS Cybersecurity Conference in Nashville</p>\n<p>The post <a href=\"https://www.securityweek.com/securityweek-launches-critical-impact-awards-to-recognize-excellence-in-industrial-cybersecurity/\">SecurityWeek Launches Critical Impact Awards to Recognize Excellence in Industrial Cybersecurity</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "24339dd3f46f37350985198641942183012bcc50",
+      "title": "New HollowGraph Malware Abuses Microsoft 365 Calendar for C&C Communication",
+      "url": "https://www.securityweek.com/new-hollowgraph-malware-abuses-microsoft-365-calendar-for-cc-communication/",
+      "published": "2026-07-21T11:55:28+00:00",
+      "summary": "<p>Part of a larger toolkit, HollowGraph uses a compromised 365 account\u2019s calendar as a two-way dead-drop.</p>\n<p>The post <a href=\"https://www.securityweek.com/new-hollowgraph-malware-abuses-microsoft-365-calendar-for-cc-communication/\">New HollowGraph Malware Abuses Microsoft 365 Calendar for C&#038;C Communication</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "63102346c6fb1bb99ee3298a5150d5812c0b5835",
+      "title": "CISO Conversations: Andreas Gaetje \u2013 From Economics to CISO at K\u00f6rber AG",
+      "url": "https://www.securityweek.com/ciso-conversations-andreas-gaetje-from-economics-to-ciso-at-korber-ag/",
+      "published": "2026-07-21T11:30:00+00:00",
+      "summary": "<p>Gaetje\u2019s story shows that you don\u2019t need to be a \u2018deep bit-crawler\u2019 to become a Chief Information Security Officer.</p>\n<p>The post <a href=\"https://www.securityweek.com/ciso-conversations-andreas-gaetje-from-economics-to-ciso-at-korber-ag/\">CISO Conversations: Andreas Gaetje \u2013 From Economics to CISO at K\u00f6rber AG</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "fcab69a7853ada9bed620664a779c68ea1c2ee31",
+      "title": "Est\u00e9e Lauder Discloses Impact From Oracle EBS Zero-Day Hack",
+      "url": "https://www.securityweek.com/estee-lauder-discloses-impact-from-oracle-ebs-zero-day-hack/",
+      "published": "2026-07-21T11:12:33+00:00",
+      "summary": "<p>Hackers exfiltrated personal, financial, and health information from the company\u2019s Oracle EBS instance in August 2025.</p>\n<p>The post <a href=\"https://www.securityweek.com/estee-lauder-discloses-impact-from-oracle-ebs-zero-day-hack/\">Est\u00e9e Lauder Discloses Impact From Oracle EBS Zero-Day Hack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "a0869fafb87e9e933ed918359f6bc661d8b3ff95",
+      "title": "Meta Paid $78,000 Bounty for Vulnerability Exposing Customer Support Data",
+      "url": "https://www.securityweek.com/meta-pays-78000-bounty-for-vulnerability-exposing-customer-support-data/",
+      "published": "2026-07-21T10:19:21+00:00",
+      "summary": "<p>A security researcher discovered a broken access control vulnerability in Meta\u2019s support infrastructure.</p>\n<p>The post <a href=\"https://www.securityweek.com/meta-pays-78000-bounty-for-vulnerability-exposing-customer-support-data/\">Meta Paid $78,000 Bounty for Vulnerability Exposing Customer Support Data</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "1e9f7c552de999b0fb353cf328237cdf8a78ff3a",
+      "title": "Clover Health Investments Discloses Data Breach",
+      "url": "https://www.securityweek.com/clover-health-investments-discloses-data-breach/",
+      "published": "2026-07-21T09:36:51+00:00",
+      "summary": "<p>Using social engineering, hackers compromised employee accounts with access to personal and health information.</p>\n<p>The post <a href=\"https://www.securityweek.com/clover-health-investments-discloses-data-breach/\">Clover Health Investments Discloses Data Breach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "fb2e662191b22bd5b2c0c3d443e3d6dd21054c0d",
+      "title": "Exploitation of ServiceNow Vulnerability Seen Days After Disclosure",
+      "url": "https://www.securityweek.com/exploitation-of-servicenow-vulnerability-seen-days-after-disclosure/",
+      "published": "2026-07-21T08:41:53+00:00",
+      "summary": "<p>The ServiceNow AI platform vulnerability tracked as CVE-2026-6875 can be exploited for remote code execution.</p>\n<p>The post <a href=\"https://www.securityweek.com/exploitation-of-servicenow-vulnerability-seen-days-after-disclosure/\">Exploitation of ServiceNow Vulnerability Seen Days After Disclosure</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "4777faf33e89a4a414c7bc672ce96ad196432f97",
+      "title": "Zimbra Update Patches Critical Vulnerabilities",
+      "url": "https://www.securityweek.com/zimbra-update-patches-critical-vulnerabilities/",
+      "published": "2026-07-21T08:20:08+00:00",
+      "summary": "<p>The latest Zimbra refresh resolves command injection, XSS, restriction bypass, and SSRF security defects.</p>\n<p>The post <a href=\"https://www.securityweek.com/zimbra-update-patches-critical-vulnerabilities/\">Zimbra Update Patches Critical Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "317b7f43e0636b5b361b02b26aebc707576894b9",
       "title": "Neo Emerges From Stealth With $100M to Control and Secure Enterprise AI Software",
       "url": "https://www.securityweek.com/neo-emerges-from-stealth-with-100m-to-control-and-secure-enterprise-ai-software/",
       "published": "2026-07-20T14:54:03+00:00",
       "summary": "<p>Neo raised money across seed and Series A funding rounds from Andreessen Horowitz, Bessemer Venture Partners, and others.</p>\n<p>The post <a href=\"https://www.securityweek.com/neo-emerges-from-stealth-with-100m-to-control-and-secure-enterprise-ai-software/\">Neo Emerges From Stealth With $100M to Control and Secure Enterprise AI Software</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "ece6da7d57fdbc79ef7dbff0464c63bd948d0790",
-      "title": "SonicWall Zero-Days Exploited to Deliver Custom Malware for Weeks Before Patch",
-      "url": "https://www.securityweek.com/sonicwall-zero-days-exploited-to-deliver-custom-malware-for-weeks-before-patch/",
-      "published": "2026-07-20T14:11:05+00:00",
-      "summary": "<p>The zero-days CVE-2026-15409 and CVE-2026-15410 were exploited by a threat actor tracked by Volexity as UTA0533.</p>\n<p>The post <a href=\"https://www.securityweek.com/sonicwall-zero-days-exploited-to-deliver-custom-malware-for-weeks-before-patch/\">SonicWall Zero-Days Exploited to Deliver Custom Malware for Weeks Before Patch</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "a15fb722a738009ecc10dba312b5eb725d6531b5",
-      "title": "OpenSSL Silently Fixes \u2018HollowByte\u2019 DoS Vulnerability",
-      "url": "https://www.securityweek.com/openssl-silently-fixes-hollowbyte-dos-vulnerability/",
-      "published": "2026-07-20T12:32:40+00:00",
-      "summary": "<p>Attackers could send waves of malicious payloads to trigger buffer pre-allocations that are not freed, exhausting server memory.</p>\n<p>The post <a href=\"https://www.securityweek.com/openssl-silently-fixes-hollowbyte-dos-vulnerability/\">OpenSSL Silently Fixes &#8216;HollowByte&#8217; DoS Vulnerability</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "8e30930b3f8d50282086f43340a0e4e850094b36",
-      "title": "New Index Tracks Material Breaches \u2014 And Refuses to Add Up the Losses",
-      "url": "https://www.securityweek.com/new-index-tracks-material-breaches-and-refuses-to-add-up-the-losses/",
-      "published": "2026-07-20T11:46:50+00:00",
-      "summary": "<p>Longtime cybersecurity executive Richard Bird built the resource for security experts, journalists, policymakers, and everyday citizens.</p>\n<p>The post <a href=\"https://www.securityweek.com/new-index-tracks-material-breaches-and-refuses-to-add-up-the-losses/\">New Index Tracks Material Breaches \u2014 And Refuses to Add Up the Losses</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "88b0e4774cbc8ddab98bbdcf8b951890beb546f9",
-      "title": "Ernst & Young Data Breach Affects Personal, Financial Information",
-      "url": "https://www.securityweek.com/ernst-young-data-breach-affects-personal-financial-information/",
-      "published": "2026-07-20T11:27:38+00:00",
-      "summary": "<p>Hackers stole names, addresses, Social Security numbers, credit/debit card numbers, and other information from a third-party management platform.</p>\n<p>The post <a href=\"https://www.securityweek.com/ernst-young-data-breach-affects-personal-financial-information/\">Ernst &#038; Young Data Breach Affects Personal, Financial Information</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "442dfbedf7f8e23681e70063eed7653415e6da6d",
-      "title": "Watch on Demand: Cloud & Data Security Summit",
-      "url": "https://www.securityweek.com/virtual-event-today-cloud-data-security-summit/",
-      "published": "2026-07-20T10:31:25+00:00",
-      "summary": "<p>Attendees will be able to interact with leading solution providers and other end users facing similar challenges in securing a variety of cloud deployments.</p>\n<p>The post <a href=\"https://www.securityweek.com/virtual-event-today-cloud-data-security-summit/\">Watch on Demand: Cloud &amp; Data Security Summit</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "9cf688ceed175484d771d4e76abf9b524043e299",
-      "title": "Capital One Open Sources AI-Powered \u2018VulnHunter\u2019 Security Tool",
-      "url": "https://www.securityweek.com/capital-one-open-sources-ai-powered-vulnhunter-security-tool/",
-      "published": "2026-07-20T10:25:07+00:00",
-      "summary": "<p>The agentic security tool identifies potentially exploitable code flaws, traces attack paths, and recommends targeted remediations.</p>\n<p>The post <a href=\"https://www.securityweek.com/capital-one-open-sources-ai-powered-vulnhunter-security-tool/\">Capital One Open Sources AI-Powered \u2018VulnHunter\u2019 Security Tool</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "3413583d44be525ce4f490494ca3e6df1b7f5e7c",
-      "title": "Hugging Face Hacked in Autonomous AI Attack",
-      "url": "https://www.securityweek.com/hugging-face-hacked-in-autonomous-ai-attack/",
-      "published": "2026-07-20T09:36:15+00:00",
-      "summary": "<p>Targeting production infrastructure, the attack compromised internal datasets and service credentials.</p>\n<p>The post <a href=\"https://www.securityweek.com/hugging-face-hacked-in-autonomous-ai-attack/\">Hugging Face Hacked in Autonomous AI Attack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "d15852e567773ef4364c6c74e8bc20533a746645",
-      "title": "Chrome 150 Update Patches Severe Memory Safety Bugs",
-      "url": "https://www.securityweek.com/chrome-150-update-patches-severe-memory-safety-bugs/",
-      "published": "2026-07-20T08:12:19+00:00",
-      "summary": "<p>The fresh security update resolves six critical and high-severity use-after-free vulnerabilities.</p>\n<p>The post <a href=\"https://www.securityweek.com/chrome-150-update-patches-severe-memory-safety-bugs/\">Chrome 150 Update Patches Severe Memory Safety Bugs</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "792bdb3eb78f42ea6ea3be8fa622e3610b79ffdc",
-      "title": "WP2Shell WordPress Vulnerabilities Exploited in the Wild",
-      "url": "https://www.securityweek.com/wp2shell-wordpress-vulnerabilities-exploited-in-the-wild/",
-      "published": "2026-07-20T05:21:29+00:00",
-      "summary": "<p>Exploitation of the new WordPress vulnerabilities tracked as CVE-2026-60137 and CVE-2026-63030 started soon after disclosure.</p>\n<p>The post <a href=\"https://www.securityweek.com/wp2shell-wordpress-vulnerabilities-exploited-in-the-wild/\">WP2Shell WordPress Vulnerabilities Exploited in the Wild</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
