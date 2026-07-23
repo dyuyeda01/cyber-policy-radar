@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T01:22:43.228895+00:00",
+  "generated_at": "2026-07-23T13:16:52.669258+00:00",
   "items": [
     {
       "id": "b27765a4162f963274021e1755a2b8bdf7a24178",
@@ -14,7 +14,7 @@
     },
     {
       "id": "35c6766999e724d2a2135dd8a1e65f6fe9fcefce",
-      "title": "OpenAI models escaped containment, hacked major AI application library",
+      "title": "OpenAI models escaped containment and hacked a major AI application library",
       "url": "https://www.cybersecuritydive.com/news/openai-hugging-face-hack-autonomous/825898/",
       "published": "2026-07-22T15:11:02+00:00",
       "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/kA4uWTp6CHOB6zjCOOxTVcwaF4gDiokgKM9VkGCzxzI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE4MzQ0MjExLmpwZw==.webp\" /></div></figure><p>The attack is the first known instance of frontier models autonomously breaking out of a testing environment and into another company&rsquo;s servers.</p>",
@@ -110,6 +110,61 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "f173b3f24f021d7527557b5e51f6d976866fb0ff",
+      "title": "How Synthetic Identity Fraud is Coming for Machine Identities",
+      "url": "https://thehackernews.com/2026/07/how-synthetic-identity-fraud-is-coming.html",
+      "published": "2026-07-23T11:45:00+00:00",
+      "summary": "Most people understand identity theft as an attacker stealing a real person's sensitive information and impersonating them. Synthetic identity fraud is much harder to catch. Instead of stealing a real identity, the attacker manufactures a new one, frankensteining together several real data points with fabricated ones to create a person who doesn't exist. Since no real victim monitors misuse, a",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3CPk7mPjct6TcYwb9c1LBGjEBTkHjIkX-_CqYIrmdg3nJu-Vyjmc2qCT_cZbFEoUNaiIEQafCVxDDD0RZfflUs8LqGu9Ecx0N7Tu3nEzHXUW2nKLefXYKsRHfVtv-TZXw_WDILy6sKkE5kk3ts5cBTaSfq1mReYwo6Fb1ghPkg4Z4bLiNuAP4ehxqFG0/s1600/keeper.jpg"
+    },
+    {
+      "id": "cf41f7d3a97790698afbf569b5ef6178374bde42",
+      "title": "Attackers Weaponize GitHub Actions Runners to Target cPanel and WHM Servers",
+      "url": "https://thehackernews.com/2026/07/attackers-weaponize-github-actions.html",
+      "published": "2026-07-23T11:28:54+00:00",
+      "summary": "Cybersecurity researchers have shed light on a large-scale campaign that has turned compromised GitHub repositories into distributed attack infrastructure designed to target cPanel and WebHost Manager (WHM) instances.\n\nThe activity involves malicious Packagist development versions spanning 10 packages associated with a legitimate PHP and DevOps developer, dinushchathurya, between July 12 and 13,",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrnUDzSA-4xfOL6dsXt2pFY9jJro2vbjOgvkTbiFMhSXz9Z-0WdDTORe9IPFfMr0DVr0PapP8lFuq8R12ZXRyDdMO-2v9ot7c2oy2WobbNwqn3jbKQC5XmNdgKWZB8ENBVQSADLuujJMKvd3DtNcpAFhDa5zihJDtYrQYRLMSCftHHmNg2bUiRC_gCQkFK/s1600/github-action.jpg"
+    },
+    {
+      "id": "1e18d6e4be5fecee31ed77d148fb741cae1db055",
+      "title": "Google Adds Selfie Video Recovery for Users Locked Out of Their Accounts",
+      "url": "https://thehackernews.com/2026/07/google-adds-selfie-video-recovery-for.html",
+      "published": "2026-07-23T10:00:00+00:00",
+      "summary": "Google on Thursday announced a new way for users to sign-in to their accounts by letting them take a selfie video.\n\nThe selfie for sign-in, per the tech giant, is another option on top of existing recovery methods to log in to an account, including an email address or a phone number. The idea is to use a video selfie as a way to regain access if a user ever gets locked out or doesn't have access",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi33P1I6A4GNsGTrz72n-ZgaqJE-ksI5ub_5wWCmRVQhG7fikbuDtdu7inYjTOFVi9v1SukZnH_fWo2LiI-v6zkm2WwWrbaKGsKBK4Z6yHJvXkBX-m5HxX0VzG9Tv_Nz-17rbcUoql67ciu4oMYS2pNs946kSd95SaWvSM096CEeMaBLbSpXpA2KnZprzb-/s1600/google-account-recovery.jpg"
+    },
+    {
+      "id": "2f74b6923b27034e51efcc68681e36530a49caa3",
+      "title": "Nine-Year-Old RefluXFS Linux Flaw Gives Local Users Root on Default RHEL Installs",
+      "url": "https://thehackernews.com/2026/07/nine-year-old-refluxfs-linux-flaw-gives.html",
+      "published": "2026-07-23T08:04:35+00:00",
+      "summary": "RefluXFS, a new Linux kernel flaw disclosed on July 22 and tracked as CVE-2026-64600, lets an unprivileged local user overwrite root-owned files on an XFS filesystem and gain persistent root access.\n\nQualys said default installations of Red Hat Enterprise Linux and its derivatives, Fedora Server, and Amazon Linux can meet the conditions for exploitation.\n\nThe company demonstrated the race",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_70wKHw_bPdJz-ZYXpwrH7FBXem8uWKNtuBUyXDLbMld4PaBtBkw7Gpt9lRrVnki_eC21aw6sUezqM3-oFiTEviDqZECD20lmV3enwh0lDkRLAx38JlJYMoLzRpn-Ai4q1UbiIo8DTVjp4_blU5CM6AnW97jYgIblggBYgNIHdTE6t2Ec7by-N0Ly8YY/s1600/linux-root.jpg"
+    },
+    {
+      "id": "a982ab7248bdfa96c7432f41fe625c273d18460f",
+      "title": "Check Point Patches Exploited SmartConsole Flaw Allowing Full Admin Access",
+      "url": "https://thehackernews.com/2026/07/check-point-patches-exploited.html",
+      "published": "2026-07-23T06:34:36+00:00",
+      "summary": "Check Point has released security updates to address multiple vulnerabilities impacting Security Management and Multi-Domain Management (MDSM) products, including a critical flaw that has come under active exploitation in the wild.\n\nThe security flaw, tracked as CVE-2026-16232 (CVSS score: 9.3), is an authentication bypass affecting the Check Point SmartConsole login process that allows an",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTBN3LZDMeKkPoMsoNtsGp_s0KYwVrmhhKHQsQtqgtAN1WAKeS7L-aN1hiehoBwnPi6f1gziIEecy5GlPdAVlWKPlzVprrqHLTLE3tcMZu4NK8QDoRxxS22HEFxfIpyrXnqr8O9b9akb1VVr9dmmmdwzHmhTFTVX4Cpv6WkFwSpz62tr6XKEDvKp5m0aUu/s1600/checkpoint.jpg"
     },
     {
       "id": "9e36f1a32c9e8061b85a8a566d131a42832eb47f",
@@ -607,59 +662,26 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhj5a79jcbSLlpVrk_Tkl4E0wiB47Zu2a7V3UrYOddEgvO0bNMVU1VzwmLIK-Ac8I71znO7vmH7QSDdF9cg4-VeEzLo_7InYxfc5yaXG8Ziv-nVAK1qRCkTx73CVKtLOESbkL2yUF9srs53F9hLAkXt9hsiSTjntbS3ThRVi3ApZniyKapqVAgz9PEuW9o/s1600/clicks.png"
     },
     {
-      "id": "324b2014e82ffbcbda6adb8d3c5291bd41d61f58",
-      "title": "New GoSerpent Malware Targets Southeast Asian Governments and Diplomats for Espionage",
-      "url": "https://thehackernews.com/2026/07/new-goserpent-malware-targets-southeast.html",
-      "published": "2026-07-17T08:46:45+00:00",
-      "summary": "Cybersecurity researchers have discovered a previously undocumented malware called GoSerpent that has been put to use in cyber attacks targeting entities in Southeast Asia since late 2025 with a focus on long-term access and intelligence gathering.\n\nRussian cybersecurity company Kaspersky, which uncovered the activity in February 2026, said it was aimed at government and diplomatic entities in",
-      "source": "The Hacker News",
+      "id": "33161dea67a783044e0ff48b54c9e06f1941a245",
+      "title": "Agentic AI Challenges Progress in Confidential Computing",
+      "url": "https://www.darkreading.com/endpoint-security/agentic-ai-challenges-progress-in-confidential-computing",
+      "published": "2026-07-23T11:17:51+00:00",
+      "summary": "Core issues that slowed down adoption of secure data vaults are being resolved by technology, but artificial intelligence poses new ones. Experts have some answers.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzr3TN2Kp4PBOBbzsR0RkNNu6_pMaYw05DjwQIegOdSeuDW5SAivGHOy3Qznjx5KJUTuiPRqAJsTDpM1O94X_FuG2sXAjD84rgPHwGxp2tFuP53Dm8pd-9bInejjZY7wx1jLBWu_EikCQ4HACf6J5Ycc3-kiTVE6-83MtCDCsL71o-7sFema5tOIV4IcJm/s1600/GoSerpent-malware.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9e62e39ece6ef685/656a984ef3b292040a878813/confidentialai-everything_possible-alamy.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "id": "f41ad026c79092572fb920a2143f8b42fd3b363d",
-      "title": "CISA Adds Exploited SharePoint RCE Zero-Day CVE-2026-58644 to KEV",
-      "url": "https://thehackernews.com/2026/07/cisa-adds-exploited-sharepoint-rce-zero.html",
-      "published": "2026-07-17T06:42:23+00:00",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a newly patched security flaw impacting Microsoft SharePoint Server to its Known Exploited Vulnerabilities (KEV) catalog, requiring Federal Civilian Executive Branch (FCEB) agencies to apply the fixes by July 19, 2026.\n\nThe vulnerability in question is CVE-2026-58644 (CVSS score: 9.8), a critical deserialization",
-      "source": "The Hacker News",
+      "id": "6b38bf9b1a6f7484ede7cd540dd7b5ddeb686420",
+      "title": "Brazilian Banking Trojan Actively Spreading in Portugal",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/brazilian-banking-trojan-spreading-portugal",
+      "published": "2026-07-23T07:00:00+00:00",
+      "summary": "Portuguese businesses operate in the same native language as Brazilian hackers, making those businesses easy targets.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgH1X7ZnvKsW37BBvjNfEzT4Imh9ZIRL4_2W1JaNVe_MyO3Q5H1MPsET-SASqznhlfOExRrLj4-6NzhgvGi76w4U5tSmlM-pJLIqO5jF3g9G1DR_FNhuwcatBFb8ARvD4PPMiQvMCFiTlEOlc13nQbQqCn5ZHf1J2ZOqDeG3_pmBiQ92hTfMErJKcjKbNtZ/s1600/sharepoint-cisa.jpg"
-    },
-    {
-      "id": "d6d4b2f48f949e86e4cea278d05573b5c9958a51",
-      "title": "Two Scattered Spider Hackers Get 5.5 Years Each for \u00a329 Million TfL Hack",
-      "url": "https://thehackernews.com/2026/07/two-scattered-spider-hackers-get-55.html",
-      "published": "2026-07-16T17:09:25+00:00",
-      "summary": "Owen Flowers, 18, and Thalha Jubair, 20, were each sentenced to five and a half years at Woolwich Crown Court on Thursday, 16 July 2026, for the 2024 hack of Transport for London.\n\nThe attack left 148 TfL systems inoperable and forced all 27,000 of the transport authority's employees into an office to get their passwords reset in person. Both the NCA and the CPS put TfL's losses and recovery",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcPDzKH0EAg764dc_I7qiwOAUUcWqBwDJcoojyb1-SwTOL5Gv24t1oGcIxnW8NkJjgXEadKJTIkcoN7nrFzrPk87AhHJj9Z5hPGk-vHGEkIppuyKJ-Sx_2M5aLF9z1VbD7G3uzf_kn_Wy1BYJ_R3RWwqM376W1hkWmfOdXYhlzCSqzSBRcJSbzGvFMkMg/s1600/Scattered-Spider.jpg"
-    },
-    {
-      "id": "4635f0da87173442ce54d55fd3b4b68d7f26759d",
-      "title": "ThreatsDay: Game Cheat Spyware, 24-Hour Ransomware, Chrome Sync Stalking + 12 More Stories",
-      "url": "https://thehackernews.com/2026/07/threatsday-game-cheat-spyware-24-hour.html",
-      "published": "2026-07-16T15:41:15+00:00",
-      "summary": "A lot of this week\u2019s trouble starts with something that looks close enough.\n\nA familiar repo. A useful installer. A harmless sync setting. Then the handoff goes bad, the box starts talking to someone else, and the damage moves faster than the explanation.\n\nOld bugs are back, weak defaults are earning their keep, and some attack paths are so plain they barely feel like research. Here\u2019s the mess.",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioBa_Q-TYfQvhOH0gqZxwAzgn_QnC9YSD6GYI3-z53LVjJSL1MDl4Af_DSeuIA33luHnEkGIGe9eXbCGvyWZ2zfOELZLhLAJtAcCTzIrpEPPU2f-7hvztkeHhA89Fb3aTq7b-0HHHVSPUsmUKXOPbX17rwMGjB75yG_r4-9vyarYK77pmdgzy3YeIn46M4/s1600/threatsday-recap.jpg"
-    },
-    {
-      "id": "a25a1064848d7f8a5aafb95159f32b212ecca552",
-      "title": "n8n Token Exchange Flaw Could Let Attackers Log In as Users From Another Issuer",
-      "url": "https://thehackernews.com/2026/07/n8n-token-exchange-flaw-could-let.html",
-      "published": "2026-07-16T13:33:25+00:00",
-      "summary": "n8n, the workflow automation platform, handed out the wrong accounts at login. On Enterprise instances configured to trust more than one external token issuer, it matched an incoming JWT to a local user on the&nbsp;sub&nbsp;claim alone and ignored&nbsp;iss.\n\nA valid token from issuer A carrying a&nbsp;sub&nbsp;that belongs to someone under issuer B logged you in as them. Their password never",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1Pvezsft8WXzYy1Lw3zKDZrkf0TNZfj95rzTnuQgzbJuztRDNDFK35ahO9UfhNJOicjjuzyZGFCtC_idBl8vgNdw4kzfeYFo6LwUur66S5qUTO2Bl3WVLwCDWoDTnw4dlZdj_ZQ1T2JcG1dWfJeoO3WDZs94EVm9z0hZ8VPL36KDpaAmw7fH9hSWSSaw/s1600/n8n-main.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltbac701ac3f586ad3/6a60fa60dc7d61d2e0f67dab/Lampion_Lisbon-Olena_Malik-Getty.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "id": "222552ddd21978bde3b8c78066f4751ffb7984c6",
@@ -671,6 +693,17 @@
       "region": "North America",
       "country": "US",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt67b28f8453d1c038/6a6128d36477bd5dab474c38/frozen-food-in-kanazawa-nihon-Pack-Shot-shutterstock.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "id": "a5f7d679af8d4d3827ed942903ae11046beb403c",
+      "title": "Flaws in Passkey Implementation Show Old Attacks Still Work",
+      "url": "https://www.darkreading.com/identity-access-management-security/flaws-passkeys-implementation-old-attacks-work",
+      "published": "2026-07-22T23:50:01+00:00",
+      "summary": "Ahead of Black Hat USA, researchers find exploitable flaws in how Microsoft handles passkeys that could allow attackers to impersonate privileged users.",
+      "source": "DarkReading",
+      "region": "North America",
+      "country": "US",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9550e8ba7752b437/6a5a40aa4a830941d7bdad92/GettyImages-147261287.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "id": "4f58fb9597105a7b16c929be4949966d094758df",
@@ -1179,37 +1212,48 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5b63a49b69794b87/6a4ff39579274e02c43ecc63/rogueplanet_Mark_StevensonUIG-Getty-737371045.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "id": "1bc56fb993541837c775d10ea85480eca94a5c42",
-      "title": "AI Agents Are a New Kind of Identity \u2014 and Most Organizations Aren't Ready",
-      "url": "https://www.darkreading.com/identity-access-management-security/ai-agents-new-kind-identity-most-organizations-not-ready",
-      "published": "2026-07-09T19:16:02+00:00",
-      "summary": "If you're handling AI agents like a service account or API token, consider yourself behind. AI agents need a fundamentally different approach.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt64d615142d7be882/6882572f618f869f048e5227/Agentic_AI_(1800)_Pattara_Alamy.jpg?width=720&quality=80&disable=upscale"
+      "id": "8958124da0fafa6d0bbee9ea66b9d9e38f5c46c1",
+      "title": "One ChatGPT link could smuggle a rogue AI agent into your company",
+      "url": "https://www.theregister.com/security/2026/07/23/one-chatgpt-link-could-smuggle-a-rogue-ai-agent-into-your-company/5275116",
+      "published": "2026-07-23T13:02:00+00:00",
+      "summary": "Researchers say OpenAI flaw let phishing bait create an autonomous corporate mole armed with employee access",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=2918046&width=800"
     },
     {
-      "id": "d223bc40f396b0b48e293e702b6c016ff035fdb0",
-      "title": "As Global Conflicts Go Digital, Businesses Need Wartime Game Plans",
-      "url": "https://www.darkreading.com/cybersecurity-operations/businesses-wartime-cybersecurity-gameplans",
-      "published": "2026-07-09T14:31:20+00:00",
-      "summary": "The fate of a Ukrainian tax software company shows how modern cyber warfare can claim casualties far beyond the battlefield, and how businesses across the ocean still need to protect themselves.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9c5b847987e803e0/6a34151775c855b8678735cd/War_business-sonmez_karakurt-Getty.jpg?width=720&quality=80&disable=upscale"
+      "id": "cd6d001decf6ba68c443d1909c7172ab8c7ff15d",
+      "title": "If you get knocked on the head and get all your devices stolen and have amnesia, Google will let you back in with a selfie",
+      "url": "https://www.theregister.com/security/2026/07/23/if-you-get-knocked-on-the-head-and-get-all-your-devices-stolen-and-have-amnesia-google-will-let-you-back-in-with-a-selfie/5276669",
+      "published": "2026-07-23T12:30:00+00:00",
+      "summary": "You'll need to be able to move your head side to side to make sure you're not a deepfake",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=1681851&width=800"
     },
     {
-      "id": "72054db0b3a3026030a746a98fca5981c68f44e1",
-      "title": "AI Gateways Offer Attackers the Keys to the Kingdom",
-      "url": "https://www.darkreading.com/cyber-risk/ai-gateways-keys-kingdom",
-      "published": "2026-07-09T13:01:00+00:00",
-      "summary": "A cryptomining incident highlights how AI gateways can provide access to AI models, cloud infrastructure, and identity and access management (IAM) data.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5cf949a2c62ba749/6a4eb1ca6ed98610b4607ce7/aigateway_Daniel_Pinkpank_shutterstock.jpg?width=720&quality=80&disable=upscale"
+      "id": "9a7f80255c2636ab46372a6e8d862a86ffbd3e5a",
+      "title": "Swiss train maker tells ransomware crooks to get off at the next stop",
+      "url": "https://www.theregister.com/security/2026/07/23/stadler-rail-scoffs-at-eversts-123m-extortion-attempts/5276922",
+      "published": "2026-07-23T11:58:00+00:00",
+      "summary": "Stadler refuses $12.3M demand after thieves swipe technical data through supplier platform",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=5244900&width=800"
+    },
+    {
+      "id": "ecfe93ad6db45b37b874d565540bec7fe9bc1625",
+      "title": "Talking smack about a doctor got him access to private medical files",
+      "url": "https://www.theregister.com/security/2026/07/23/talking-smack-about-a-doctor-got-him-access-to-private-medical-files/5276604",
+      "published": "2026-07-23T07:00:00+00:00",
+      "summary": "Who needs a working security badge when you know how to talk your way into the records room?",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=5276627&width=800"
     },
     {
       "id": "edf3f71c6645e694dee9d82aa2eb14f99081ab9e",
@@ -1718,50 +1762,6 @@
       "image": "https://image.theregister.com/?imageId=248668&width=800"
     },
     {
-      "id": "4114fe12752f5b250021a6f14b98f8c2bf3bdcb6",
-      "title": "An unnamed US county \u2013 perhaps in Ohio \u2013 paid $1M extortion demand to cybercriminals",
-      "url": "https://www.theregister.com/cyber-crime/2026/07/09/an-unnamed-us-county-perhaps-in-ohio-paid-1m-extortion-demand-to-cybercriminals/5269575",
-      "published": "2026-07-09T22:30:21+00:00",
-      "summary": "Leaked negotiations spill the tea",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=5269617&width=800"
-    },
-    {
-      "id": "944ebef4e7d563e588319898f3e7794c5fb81fbd",
-      "title": "EU 'Chat Control' snoopfest returns after vote to kill it falls short",
-      "url": "https://www.theregister.com/security/2026/07/09/meps-fail-to-prevent-chat-control-snoopfest-revival/5269379",
-      "published": "2026-07-09T15:51:59+00:00",
-      "summary": "Opponents won the count but missed the 360-seat threshold needed to stop the interim CSAM-scanning rule",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=236829&width=800"
-    },
-    {
-      "id": "d3ed2a0f5bc70efd3713fb3c66d7f7c35fbb80c3",
-      "title": "Microsoft closes book on Nightmare Eclipse's RoguePlanet zero-day",
-      "url": "https://www.theregister.com/security/2026/07/09/microsoft-closes-book-on-nightmare-eclipses-rogueplanet-zero-day/5269280",
-      "published": "2026-07-09T13:30:00+00:00",
-      "summary": "Weeks after the exploit code dropped, Redmond has finally ships a fix for the Defender zero-day",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=260240&width=800"
-    },
-    {
-      "id": "df8a7ba830b8eeea79acbdaeadf240e33639e02f",
-      "title": "Thief posed as Wi-Fi fixing hero, then stole priceless trophy",
-      "url": "https://www.theregister.com/security/2026/07/09/thief-posed-as-wi-fi-fixing-hero-then-stole-priceless-trophy/5268750",
-      "published": "2026-07-09T07:00:00+00:00",
-      "summary": "If people think you are doing a legitimate job, you can get away with anything",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=5268796&width=800"
-    },
-    {
       "id": "76af5b683c70d8f4b2c554aee82c787a26f6f41c",
       "title": "LG to Ban Residential Proxies from Smart TV Apps",
       "url": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
@@ -1828,6 +1828,61 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "d689d673ce61f0317b390b6dab1a25625a3467a4",
+      "title": "Nuclear-Sabotage Malware Benchmark Trips Up Most Frontier AI Models",
+      "url": "https://www.securityweek.com/nuclear-sabotage-malware-benchmark-trips-up-most-frontier-ai-models/",
+      "published": "2026-07-23T12:42:12+00:00",
+      "summary": "<p>SentinelOne\u2019s new benchmark, built on the Fast16 case, shows which AI models can sustain a malware investigation and which cannot.</p>\n<p>The post <a href=\"https://www.securityweek.com/nuclear-sabotage-malware-benchmark-trips-up-most-frontier-ai-models/\">Nuclear-Sabotage Malware Benchmark Trips Up Most Frontier AI Models</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "165d023818bfe520c695b79dd2cd5358853add78",
+      "title": "Upbound Group Says Data Breach Led to $13 Million in Fraudulent Contract Losses",
+      "url": "https://www.securityweek.com/upbound-group-says-data-breach-led-to-13-million-in-fraudulent-contract-losses/",
+      "published": "2026-07-23T10:49:10+00:00",
+      "summary": "<p>Hackers recently obtained non-sensitive customer information and other documents from the company.</p>\n<p>The post <a href=\"https://www.securityweek.com/upbound-group-says-data-breach-led-to-13-million-in-fraudulent-contract-losses/\">Upbound Group Says Data Breach Led to $13 Million in Fraudulent Contract Losses</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "48598680644293f30654e0b80bfafc7a81dc7d33",
+      "title": "Assaf Keren Appointed New CISO of Meta",
+      "url": "https://www.securityweek.com/assaf-keren-appointed-new-ciso-of-meta/",
+      "published": "2026-07-23T09:53:51+00:00",
+      "summary": "<p>He replaces Guy Rosen, who announced his retirement from the company after 13 years.</p>\n<p>The post <a href=\"https://www.securityweek.com/assaf-keren-appointed-new-ciso-of-meta/\">Assaf Keren Appointed New CISO of Meta</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "a372f25bb6e9355f20a4977d915a653abf711cea",
+      "title": "New Check Point Zero-Day Vulnerability Exploited in the Wild",
+      "url": "https://www.securityweek.com/new-check-point-zero-day-vulnerability-exploited-in-the-wild/",
+      "published": "2026-07-23T09:06:04+00:00",
+      "summary": "<p>The vulnerability tracked as CVE-2026-16232 has been exploited against customers with certain configurations.</p>\n<p>The post <a href=\"https://www.securityweek.com/new-check-point-zero-day-vulnerability-exploited-in-the-wild/\">New Check Point Zero-Day Vulnerability Exploited in the Wild</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "36add522bb9e81704d2fb65c4a092d2fc70ded19",
+      "title": "US Warns of Iranian Hackers Targeting Siemens, Schneider, and Rockwell ICS Devices",
+      "url": "https://www.securityweek.com/us-warns-of-iranian-hackers-targeting-siemens-schneider-and-rockwell-ics-devices/",
+      "published": "2026-07-23T05:28:50+00:00",
+      "summary": "<p>An updated advisory from federal agencies provides information on the techniques used to hack programmable logic controllers.</p>\n<p>The post <a href=\"https://www.securityweek.com/us-warns-of-iranian-hackers-targeting-siemens-schneider-and-rockwell-ics-devices/\">US Warns of Iranian Hackers Targeting Siemens, Schneider, and Rockwell ICS Devices</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "f710c449669c9ebce854e09cf289961dc7b9bf43",
       "title": "Suno, Paidwork Data Breaches Affect Tens of Millions of Accounts",
       "url": "https://www.securityweek.com/suno-paidwork-data-breaches-affect-tens-of-millions-of-accounts/",
@@ -1877,61 +1932,6 @@
       "url": "https://www.securityweek.com/strongestlayer-raises-4-1-million-in-seed-funding-extension/",
       "published": "2026-07-22T13:00:00+00:00",
       "summary": "<p>The startup will use the fresh investment to accelerate its go-to-market strategy and to expand its platform.</p>\n<p>The post <a href=\"https://www.securityweek.com/strongestlayer-raises-4-1-million-in-seed-funding-extension/\">StrongestLayer Raises $4.1 Million in Seed Funding Extension</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "c7f0fa0b0099e6b34a65b34cb975fea2b9aaf77a",
-      "title": "Vibe-Coded Apps Riddled With Exploitable Security Flaws",
-      "url": "https://www.securityweek.com/vibe-coded-apps-riddled-with-exploitable-security-flaws/",
-      "published": "2026-07-22T13:00:00+00:00",
-      "summary": "<p>Analysis found 434 exploitable flaws in AI-generated apps, with denial-of-service, authorization and secrets exposure risks among the most common issues.</p>\n<p>The post <a href=\"https://www.securityweek.com/vibe-coded-apps-riddled-with-exploitable-security-flaws/\">Vibe-Coded Apps Riddled With Exploitable Security Flaws</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "65098a939c6b00ff5b7b2c487640526d4fa295a9",
-      "title": "Fourth SharePoint Vulnerability Exploited in Past Month\u2019s Wave of Attacks",
-      "url": "https://www.securityweek.com/fourth-sharepoint-vulnerability-exploited-in-past-months-wave-of-attacks/",
-      "published": "2026-07-22T11:29:16+00:00",
-      "summary": "<p>CVE-2026-50522 is being exploited by threat actors to steal machine keys and retain long-term access.</p>\n<p>The post <a href=\"https://www.securityweek.com/fourth-sharepoint-vulnerability-exploited-in-past-months-wave-of-attacks/\">Fourth SharePoint Vulnerability Exploited in Past Month&#8217;s Wave of Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "0ec6f7986416a453909670003b4969a3ebb76fcb",
-      "title": "Endpoint Security Firm Glow Launches With $180M in Funding at $1.2B Valuation",
-      "url": "https://www.securityweek.com/endpoint-security-firm-glow-launches-with-180m-in-funding-at-1-2b-valuation/",
-      "published": "2026-07-22T10:00:00+00:00",
-      "summary": "<p>Using AI, the startup provides adaptive prevention through environment mapping, risk analysis, and automated policy enforcement.</p>\n<p>The post <a href=\"https://www.securityweek.com/endpoint-security-firm-glow-launches-with-180m-in-funding-at-1-2b-valuation/\">Endpoint Security Firm Glow Launches With $180M in Funding at $1.2B Valuation</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "72bef58d0ac40fe8d69fa7abc7f590ca43859ac3",
-      "title": "Oracle Patches Over 1,400 Vulnerabilities With Quarterly Security Updates",
-      "url": "https://www.securityweek.com/oracle-patches-over-1400-vulnerabilities-with-quarterly-security-updates/",
-      "published": "2026-07-22T09:33:12+00:00",
-      "summary": "<p>Many of the vulnerabilities fixed with the July 2026 Critical Patch Update were likely discovered by AI.</p>\n<p>The post <a href=\"https://www.securityweek.com/oracle-patches-over-1400-vulnerabilities-with-quarterly-security-updates/\">Oracle Patches Over 1,400 Vulnerabilities With Quarterly Security Updates</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "76ab149e0bd986f12a55c215c94c504d39c1f63c",
-      "title": "Ransomware Group Threatening to Leak Data Stolen From Coca-Cola\u2019s Fairlife",
-      "url": "https://www.securityweek.com/ransomware-group-threatening-to-leak-data-stolen-from-coca-colas-fairlife/",
-      "published": "2026-07-22T08:32:02+00:00",
-      "summary": "<p>The Anubis ransomware group claims to have stolen 1 TB of confidential data from the Coca-Cola subsidiary.</p>\n<p>The post <a href=\"https://www.securityweek.com/ransomware-group-threatening-to-leak-data-stolen-from-coca-colas-fairlife/\">Ransomware Group Threatening to Leak Data Stolen From Coca-Cola&#8217;s Fairlife</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
