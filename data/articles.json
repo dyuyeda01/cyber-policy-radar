@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T01:19:25.280584+00:00",
+  "generated_at": "2026-07-25T12:52:48.088144+00:00",
   "items": [
     {
       "id": "8db2d38631c38ac06adfd1a313ca3345a2343f9a",
@@ -110,6 +110,50 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "ecd8e77873a62836b4e4668ed81c2d60f8d5d4cd",
+      "title": "Researcher Publishes GitLab RCE PoC Letting Authenticated Users Run Commands as Git",
+      "url": "https://thehackernews.com/2026/07/researcher-publishes-gitlab-rce-poc.html",
+      "published": "2026-07-25T10:14:26+00:00",
+      "summary": "Security researchers at&nbsp;depthfirst published working exploit code on July 24 for a GitLab flaw that GitLab patched six weeks earlier, on June 10. It runs commands as git on any self-managed 18.11.3 server that has not taken the update.\n\nAny authenticated user who can push to a project can run it. The attacker commits a crafted Jupyter notebook and opens its commit diff, which leaks a heap",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRIN1sheAdScq7AX9pLc07esRzQ18-0vBJ7hz9DlVhggVAImXrhYM_zxN0N6hJ2inDkBCnzRCXHR3Kv3I0QwyiVWkAMu7p949JSjgK611r48deMbrSN8iDD78aJdfxEeO_Jy6JFwOfPL_8M0RKEBl1RFO7ufvop1XG9-tdms7VRyvONXoteuCYp9Rg-FM/s1600/gitlab.gif"
+    },
+    {
+      "id": "5b9586162dea04a02f14d8766984d6061b80be3d",
+      "title": "CTM360 Research Reveals How Insurance Phishing Has Evolved Into Real-Time Account Hijacking",
+      "url": "https://thehackernews.com/2026/07/ctm360-research-reveals-how-insurance.html",
+      "published": "2026-07-25T10:14:21+00:00",
+      "summary": "For years, phishing campaigns targeting financial institutions followed the same playbook. Victims were tricked into entering usernames and passwords, attackers collected the credentials, and accounts were compromised later when an opportunity arose.\n\nThat model is changing.\n\nRecent investigations into insurance-focused phishing operations reveal a more immediate approach. Instead of harvesting",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiH4zKTZ_Lk6D_VXZEKWwF1k02-iDwrNY9MH7zrX_sotEB_f9m7-qvQkAbfTvW5YQyBVlVdSS3D4_0ky60KOzTABlPuPKEpDXwpnWO3eTtud33d8oxf54HilW5EgDJPwo0ea4rktguzjfMBnRy0yLGch1l2vLdY4GnG12imJqBIdZzhYRb04XcVP67KaxPM/s1600/insuretrap.jpg"
+    },
+    {
+      "id": "74666cf2751e2bf899f52cc83d85b03ed4a75a8f",
+      "title": "Cl0p Affiliates Target Internet-Exposed PTC Windchill and FlexPLM with Unauthenticated RCE",
+      "url": "https://thehackernews.com/2026/07/cl0p-affiliates-target-internet-exposed.html",
+      "published": "2026-07-25T10:14:03+00:00",
+      "summary": "Threat actors linked to the Cl0p (aka Chubby Scorpius, FIN11, Graceful Spider, and Lace Tempest) ransomware campaign are exploiting flaws in internet-exposed PTC Windmill and FlexPLM deployments as part of a new data extortion campaign.\n\n\"Attackers chain a pre-authentication information disclosure in the FlexPLM WSDL endpoint with a server-side flaw in the Windchill login servlet, enabling",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIGAlXgFCqm8atTe__HpWBiCWISmrPOazxOVBMF-_YNrP2goBbW_4PSwGzw1Ndyue4qrnQnqrQyAR4DTaAdaiJPlVUZi7M_iceb4fqofWK0sGRLO9CHnj0lngtxdlC-tKqrppqFaKIkct2vOtGn_o5kbNa4fj-dutt8PMjiO5TVBw895aLg0TOJb8TKKtv/s1600/cyberattack.jpg"
+    },
+    {
+      "id": "35dcfac959da54eb503f4150eb74a5b5af76a9c8",
+      "title": "DevMan RaaS Portal Centralizes Payload Builds, Victim Management, and Affiliate Payouts",
+      "url": "https://thehackernews.com/2026/07/devman-raas-portal-centralizes-payload.html",
+      "published": "2026-07-25T09:53:41+00:00",
+      "summary": "The operators of the DevMan ransomware-as-a-service (RaaS) scheme are maintaining a dedicated web platform that offers affiliates the ability to build payloads, oversee earnings, and manage various aspects related to victims.\n\nSwiss cybersecurity company PRODAFT is tracking the centrally administered RaaS operation under the name Funky Mantis.\n\n\"The portal combined build generation, finance,",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCfK-jqRTN8rgDTTIOMahlXeGbBvgMLQqdUc4pcB1eXYGmbMfvzVLohoakIuE6nlS9k2G8ncIMwgaYcfLN1r90Obxd8IDHGo5UVz-iDNkBaEbzcDMJl5yzaCQ7VTSh5GFOy8O6CjHXvK7Sdo0WctNPRFBxxtWONllByeJ1EtphQ-sDRabRefeNuXxzdCzY/s1600/ransomware-hacker.jpg"
     },
     {
       "id": "68327402f2a76e00657f2edd4ce1bfa365087215",
@@ -616,50 +660,6 @@
       "region": "North America",
       "country": "US",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjA-JVLR3XITNdsuoWZQFMu12z6UeqsAdKWjS4Iu6piGP-4Natjx3GZ4obTdwddY5YHPgNoYDJljFCpAh9YRUntTakZeiGikoJYjjgEcv2ZVPchuCuyIfRh_3aTJ64Ktke9RkdRxH7DalTVqGf0YgF3fDj2lHgvVyIDANaMn1KVy1d1CBXTZxAwyJBqEClL/s1600/cyberrecap.jpg"
-    },
-    {
-      "id": "6f8c284c6cea5be692f138b6936f0f6fe6d09929",
-      "title": "Russian Intelligence Hacks IP Cameras to Spy on Military Logistics Across NATO States and Ukraine",
-      "url": "https://thehackernews.com/2026/07/russian-intelligence-hacks-ip-cameras.html",
-      "published": "2026-07-20T12:13:39+00:00",
-      "summary": "At least one Russian intelligence service is systematically hijacking internet-connected security cameras across Europe and Ukraine, using the feeds to watch military transport routes, weapons shipments bound for Kyiv, and the locations of Ukrainian troops.\n\nThat is the finding of a cybersecurity advisory published July 10 by the AIVD and MIVD, the Netherlands' civilian and military intelligence",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnZdcdM-XJQ9tmIQw7h4gqSDABg-Ip1mzizMoR9zRcyQmaG7OGlQSp1ad0RsZSflsvdKVn0bs4EXdPthnHgiC76as_RVG-W7vZ88AHvJ2HhCLEaQOlNukhrTl6NSq6sgAHGiGUXemDrbZePvUDIi2oxWb60rRX5lkxA5bsFBJplBkaVQTZ5R0EjOrJTaQ/s1600/ip-camera-hacking.jpg"
-    },
-    {
-      "id": "a30f65c3fe36a5c670ee1ec3a17fdfd1420e9678",
-      "title": "Mythos Didn't Break Your Security Program. Your Exposure Window Could.",
-      "url": "https://thehackernews.com/2026/07/mythos-didnt-break-your-security.html",
-      "published": "2026-07-20T11:30:00+00:00",
-      "summary": "The industry spent the initial months after Anthropic's April 7 Mythos reveal focused on volume. How many new CVEs would Mythos add to an already overloaded pipeline? How quickly would the flood of AI-driven discovery overwhelm triage capabilities? How long would it take adversaries to weaponize Mythos findings at scale? Those questions were and remain valid. Yet they all stop short of",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPz_r-By1h0xZL5FiBqJIALstL79CJXVbUweKybWr0EG7qKcLPYSo750ATDQjzd9tE6piMt4-TkFY4mT87Q58Jg_0jHMCveyydooFMjk5hKUk0jQA_Uxp6WamlMsFIjXcws2ighKsjC907P45OIhcimimpm-ECyQ_bq5erQ2MTvH7HGwzGgXrxQSIBBx0/s1600/xmcyber.jpg"
-    },
-    {
-      "id": "588da4c0d957e880be421744e5f132f47ee6f9e2",
-      "title": "New 7-Zip Vulnerability Could Let Crafted XZ Archives Run Code During Extraction",
-      "url": "https://thehackernews.com/2026/07/new-7-zip-vulnerability-could-let.html",
-      "published": "2026-07-20T09:10:56+00:00",
-      "summary": "Opening a crafted XZ archive in 7-Zip could let an attacker run code on the machine. The flaw, CVE-2026-14266, is a heap-based buffer overflow in how the archiver processes XZ chunked data, and Trend Micro's Zero Day Initiative (ZDI) detailed it on July 15. A fix shipped on June 25 in 7-Zip 26.02.\n\nThe overflow lets an attacker \"execute code in the context of the current process,\" per the",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuAoanL7LxDYHynfggiOQo_RDymqYrFlfnRNrstIG6KgYuDWk2uR0eZDx_vCSLWsjTmP5LohkMSGQ_sc32hE4TGqqUCkGwsDlOUzP3bb-Ib-whRLliIb0YVozTMZF-lgSsPJr55l7GPjR1Xq-sH7dieWTBNnZsttdSfOxowTrEZImrcJ-_cI6i4zVFlII/s1600/7-zip.jpg"
-    },
-    {
-      "id": "06aebcc63783f6c0409c0f2a37c0b068b5199379",
-      "title": "Russian-Speaking Hacker Uses Google Gemini CLI to Control Botnet of Eight Dental Clinic PCs",
-      "url": "https://thehackernews.com/2026/07/russian-speaking-hacker-uses-google.html",
-      "published": "2026-07-20T09:07:11+00:00",
-      "summary": "A solo Russian-speaking threat actor known as \"bandcampro\" outsourced a chunk of their operations to Google's open-source Gemini CLI artificial intelligence (AI) and commandeered a live botnet.\n\nThe findings come from an analysis of 200 Gemini CLI session logs between March 19 and April 21, 2026, which found the threat actor using AI, among other things, to crack passwords, set up a residential",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyO5FC_n2BBZmiHphtqs0UN5r3DPgtRvkrVfaHOW-1Fv2VPXZliRYDryKR5I-vdZxtmChQJB6eAlJsND-e47t5lLQQ4SWkSJ_D02SEL6nRBmnJ-klfjSSg7rjRyf5AfzX340_se2vNrobCydtV-NZPsDm8MvL9UG0atiMekaxCNzHwizxZFlRhvpuM8BjE/s1600/gemini-cc.jpg"
     },
     {
       "id": "4c6720cf4c117fa91a29e1fc0ff40954454e8586",
@@ -1762,56 +1762,12 @@
       "image": "https://image.theregister.com/?imageId=5270164&width=800"
     },
     {
-      "id": "76af5b683c70d8f4b2c554aee82c787a26f6f41c",
-      "title": "LG to Ban Residential Proxies from Smart TV Apps",
-      "url": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
-      "published": "2026-07-22T01:10:38+00:00",
-      "summary": "The home appliance giant LG Electronics USA said this week it plans to suspend any apps built for its smart TVs that turn one's television into an always-on residential proxy node. The move comes less than a month after researchers found that more than 42 percent of games and other apps available for download on LG's webOS store allow unknown third-parties to route their Internet traffic through a user's TV.",
-      "source": "Krebs on Security",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "2c2b2700dd7b44b3c6e490c2151c3e8c6d1cc629",
-      "title": "Microsoft Patches a Record 570 Security Flaws",
-      "url": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
-      "published": "2026-07-14T19:22:42+00:00",
-      "summary": "Microsoft Corp. today released software updates to plug at least 570 security holes in its Windows operating systems and other software, almost triple the number of vulnerabilities the software giant fixed in its record-smashing Patch Tuesday release last month. Microsoft attributed the burgeoning patch counts to vulnerability discoveries aided by artificial intelligence.",
-      "source": "Krebs on Security",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "7fc7252b143c942e8e63a33d59dce18ca03928b2",
-      "title": "Lessons Learned from CISA\u2019s Recent GitHub Leak",
-      "url": "https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/",
-      "published": "2026-07-13T15:03:28+00:00",
-      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) has issued a postmortem on a data leak in which a contractor published dozens of internal CISA credentials -- including AWS Govcloud keys -- in a public GitHub repository for almost six months before being notified by KrebsOnSecurity. Experts say the gaps identified in the agency's initial response provide important lessons that all security teams should absorb.",
-      "source": "Krebs on Security",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "a862312352299b9d8f12e296d8d0ea00d46730fe",
-      "title": "Felons, Fraudsters Flog Offensive Cybersecurity Startup",
-      "url": "https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/",
-      "published": "2026-07-08T12:31:39+00:00",
-      "summary": "A cybersecurity startup dangling millions of dollars to acquire zero-day security vulnerabilities in popular software is run by a pair of far-right conspiracy theorists and convicted felons whose most recent ventures included fake intelligence companies and a now-defunct AI-based lobbying platform they operated under assumed names.",
-      "source": "Krebs on Security",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "80703c01ba9374f55b423670a47eadb20d5b1a90",
-      "title": "FBI Seizes NetNut Proxy Platform, Popa Botnet",
-      "url": "https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/",
-      "published": "2026-07-02T19:27:33+00:00",
-      "summary": "The Federal Bureau of Investigation (FBI) said today it worked with industry partners to seize hundreds of domains associated with NetNut, a sprawling residential proxy service operated by the publicly-traded Israeli company Alarum Technologies [NASDAQ: ALAR]. The action comes roughly two weeks after KrebsOnSecurity published findings from multiple security firms connecting NetNut to the Popa botnet, a collection of at least two million devices that have been compromised by malicious software with little or no consent from victims.",
-      "source": "Krebs on Security",
+      "id": "2854d2b0f472796c73da8419332d73c3441f87fb",
+      "title": "Rockwell Patches Code Execution Flaws in Arena Simulation Software",
+      "url": "https://www.securityweek.com/rockwell-patches-code-execution-flaws-in-arena-simulation-software/",
+      "published": "2026-07-25T08:30:00+00:00",
+      "summary": "<p>A researcher has explained how an attacker could exploit these vulnerabilities to target industrial organizations.</p>\n<p>The post <a href=\"https://www.securityweek.com/rockwell-patches-code-execution-flaws-in-arena-simulation-software/\">Rockwell Patches Code Execution Flaws in Arena Simulation Software</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
@@ -1910,17 +1866,6 @@
       "url": "https://www.securityweek.com/nuclear-sabotage-malware-benchmark-trips-up-most-frontier-ai-models/",
       "published": "2026-07-23T12:42:12+00:00",
       "summary": "<p>SentinelOne\u2019s new benchmark, built on the Fast16 case, shows which AI models can sustain a malware investigation and which cannot.</p>\n<p>The post <a href=\"https://www.securityweek.com/nuclear-sabotage-malware-benchmark-trips-up-most-frontier-ai-models/\">Nuclear-Sabotage Malware Benchmark Trips Up Most Frontier AI Models</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "165d023818bfe520c695b79dd2cd5358853add78",
-      "title": "Upbound Group Says Data Breach Led to $13 Million in Fraudulent Contract Losses",
-      "url": "https://www.securityweek.com/upbound-group-says-data-breach-led-to-13-million-in-fraudulent-contract-losses/",
-      "published": "2026-07-23T10:49:10+00:00",
-      "summary": "<p>Hackers recently obtained non-sensitive customer information and other documents from the company.</p>\n<p>The post <a href=\"https://www.securityweek.com/upbound-group-says-data-breach-led-to-13-million-in-fraudulent-contract-losses/\">Upbound Group Says Data Breach Led to $13 Million in Fraudulent Contract Losses</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
