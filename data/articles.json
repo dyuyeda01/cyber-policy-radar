@@ -1,6 +1,28 @@
 {
-  "generated_at": "2026-07-24T13:09:54.977067+00:00",
+  "generated_at": "2026-07-25T01:19:25.280584+00:00",
   "items": [
+    {
+      "id": "8db2d38631c38ac06adfd1a313ca3345a2343f9a",
+      "title": "Zero-day flaw in Check Point SmartConsole is under exploitation",
+      "url": "https://www.cybersecuritydive.com/news/zero-day-flaw-check-point-smartconsole-exploitation/826149/",
+      "published": "2026-07-24T14:55:37+00:00",
+      "summary": "<p>Researchers warned the vulnerability offers an attacker the ability to make key changes to security configurations.</p>",
+      "source": "Cybersecurity Dive",
+      "region": "North America",
+      "country": "US",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "4ffdf1243462cdb8201fb67488c3a9b4122c57d5",
+      "title": "The most vulnerable AI products are also some of the most commonly exposed online",
+      "url": "https://www.cybersecuritydive.com/news/industrial-control-systems-ai-internet-exposure-censys-report-preview/826133/",
+      "published": "2026-07-24T14:26:10+00:00",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/3AMHXqqFt_CCtFWVmFuihh3Rr1bYf-lATSwgP4fGYuw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTQ0NTQ5NTExLmpwZw==.webp\" /></div></figure><p>It is becoming increasingly easy for hackers to target vulnerable AI tools on companies&rsquo; networks, even as those companies come to depend on them for more tasks.</p>",
+      "source": "Cybersecurity Dive",
+      "region": "North America",
+      "country": "US",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
     {
       "id": "25d6f90a687bd8840e7954b531cd55ce704bc851",
       "title": "Russia-backed threat actor targets Western organizations in phishing campaign",
@@ -90,26 +112,26 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "76587a029433ca962fecb86e5cfcdb758717c313",
-      "title": "Researchers trace SonicWall SMA1000 exploitation to late June",
-      "url": "https://www.cybersecuritydive.com/news/researchers-sonicwall-sma1000-exploitation-june/825654/",
-      "published": "2026-07-20T15:10:51+00:00",
-      "summary": "<p>Multiple threat actors, including INC ransomware, have targeted vulnerable firewall systems.</p>",
-      "source": "Cybersecurity Dive",
+      "id": "68327402f2a76e00657f2edd4ce1bfa365087215",
+      "title": "BlueNoroff Zoom Phishing Kit Profiles Crypto Wallets Before Malware Delivery",
+      "url": "https://thehackernews.com/2026/07/bluenoroff-zoom-phishing-kit-profiles.html",
+      "published": "2026-07-24T15:12:35+00:00",
+      "summary": "The North Korean threat actors behind the ClickFix-style campaigns that employ typosquatted Zoom and Microsoft Teams domains have been found to operate an active phishing kit to impersonate the videoconferencing platforms in social engineering campaigns designed to deliver malware.\n\n\"BlueNoroff has operationalised trust abuse by combining compromised industry contacts, social engineering, wallet",
+      "source": "The Hacker News",
       "region": "North America",
       "country": "US",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjs7TSABeFdGk4U17Tg0v-H9ZK2WmPIZ9AtmxJGCtw24Naxa7eEdlvW-eR8yl9NNCAzrMkOCKqSjsdJmAMhuXOq9rHSCE3tNWvTGBe209fpCqn7wVRpUgQ4FgskJgUIWBRz95f25kb8FwrADVj5Cqo5HALXnothJa4kWk9WCU3MG1wkpW_D17sP8o84utoA/s1600/zoom-exploit.jpg"
     },
     {
-      "id": "1c9557acc8196270d012ac23d92603ae9ee20017",
-      "title": "Hackers steal customer data from major hospital software vendor",
-      "url": "https://www.cybersecuritydive.com/news/craneware-health-care-data-breach/825643/",
-      "published": "2026-07-20T14:28:04+00:00",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/E2GCSChl_Kjubah2Wxw5gqAJatP0sqhsdgbT1B5wiL4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjMzODc1NzkwLmpwZw==.webp\" /></div></figure><p>The breach is another reminder of how vulnerable the healthcare industry is to supply-chain attacks.</p>",
-      "source": "Cybersecurity Dive",
+      "id": "91710fe58c4b695656d04dc083c44171f598d519",
+      "title": "Certighost Exploit Lets Low-Privileged Active Directory Users Impersonate a Domain Controller",
+      "url": "https://thehackernews.com/2026/07/certighost-exploit-lets-low-privileged.html",
+      "published": "2026-07-24T14:15:21+00:00",
+      "summary": "Researchers H0j3n and Aniq Fakhrul published a working exploit on July 24 that lets a low-privileged Active Directory user obtain a certificate for a Domain Controller and authenticate as that machine.\n\nThey codenamed the flaw Certighost. Because Domain Controller accounts carry directory replication rights, the resulting Kerberos credential can retrieve the krbtgt secret through DCSync.",
+      "source": "The Hacker News",
       "region": "North America",
       "country": "US",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdJCaF3dwhncVhtS_dn9W8CUCwJSHRmtCVTK5_fXnS6RpDI4GaVTcSVoXvmo_JgxUyd-H5G3yQaRAg3Ahp__DMlq-M5r9ejhJTdk5QlVuv16HVXDWV7e3HJAijAVBRumD3XSyeyQ1O477nfXFfTvCwgFeXlYF8QIdfTN4mlYAu28JGFN7lOWTEoKwlG9g/s1600/certighost.jpg"
     },
     {
       "id": "6bef077b53cc3baf84ed3ae58aaad2b8a94fc894",
@@ -640,37 +662,48 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyO5FC_n2BBZmiHphtqs0UN5r3DPgtRvkrVfaHOW-1Fv2VPXZliRYDryKR5I-vdZxtmChQJB6eAlJsND-e47t5lLQQ4SWkSJ_D02SEL6nRBmnJ-klfjSSg7rjRyf5AfzX340_se2vNrobCydtV-NZPsDm8MvL9UG0atiMekaxCNzHwizxZFlRhvpuM8BjE/s1600/gemini-cc.jpg"
     },
     {
-      "id": "b28632a33ec75ec5032a6d59efa82f601ac07899",
-      "title": "World's Largest AI Model Repository Hugging Face Breached by Autonomous AI Agent",
-      "url": "https://thehackernews.com/2026/07/worlds-largest-ai-model-repository.html",
-      "published": "2026-07-20T05:27:26+00:00",
-      "summary": "In an ironic twist, open-source artificial intelligence (AI) platform Hugging Face revealed that it was the victim of a hack perpetrated by an autonomous AI agent system.\n\nThe company said it detected and responded to the incident targeting its production infrastructure earlier last week.\n\n\"We identified unauthorized access to a limited set of internal datasets and to several credentials used by",
-      "source": "The Hacker News",
+      "id": "4c6720cf4c117fa91a29e1fc0ff40954454e8586",
+      "title": "CISOs vs. Boards: Myth or Misunderstanding?",
+      "url": "https://www.darkreading.com/cybersecurity-operations/cisos-vs-boards-myth-or-misunderstanding-",
+      "published": "2026-07-24T21:31:53+00:00",
+      "summary": "Escalating threats are forcing boards to prioritize security, but communication gaps persist. Boards and security teams each say they need more support to bridge the divide.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhehTKRdIydGsJI5vxP4R5baH5VrDh8ZNLg1RyLMhSnVOFr6cdDZRyqkKhazs4oBdZxw5YV7fNYKCcZ9tkKkTap2chfMR6XCdiG4GmUhv4S_tUVYTS7jvn8iZcTL3RuJ-3K0U1WJ0pKfq16pcJRZhAXTm1gk-xvzjzmdJ85PWEgnQ6oFK1eUPKRBiTRtEr1/s1600/huggingface.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt76251fb10015002b/6a63dcc43ab01b6c623bebbf/GettyImages-2219941632.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "id": "44e4de974c084c5c17daa5eb3a4b62cd425d8408",
-      "title": "SleeperGem Uses Three Malicious RubyGems Packages to Target Developer Machines",
-      "url": "https://thehackernews.com/2026/07/sleepergem-uses-three-malicious.html",
-      "published": "2026-07-20T05:15:39+00:00",
-      "summary": "Cybersecurity researchers have flagged a new software supply chain attack codenamed SleeperGem targeting the Ruby ecosystem after three malicious gems were published to RubyGems with the end goal of serving additional payloads.\n\nThe rogue gems are listed below -\n\n\n  git_credential_manager (versions 2.8.0, 2.8.1, 2.8.2, 2.8.3) - Published on July 18, 2026\n  Dendreo (versions 1.1.3, 1.1.4) -",
-      "source": "The Hacker News",
+      "id": "c18b8e009b4948bbb56e7a6175a70d9fd156682b",
+      "title": "Escape Artists: 'Incorrigible' AI Models Resist Rehabilitation",
+      "url": "https://www.darkreading.com/cybersecurity-operations/incorrigible-ai-models-resist-rehabilitation",
+      "published": "2026-07-24T19:45:02+00:00",
+      "summary": "The hacking of Hugging Face by a rogue OpenAI agent is significant, but unsurprising \u2014 and preventing the next AI model escape will be difficult, at best.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-5_crP04CVdna-erTGX9yykCNwqzeIcMALrWcRvgKWkfk7bntEBg50PBtoLvTeACMEHisZ-m1FLMEa2x9nbsRpVdAyeQyBkEmexn8p6W4r6JKA7dxDGJ6BXCqR6RYC3hyRSw7_1Wm1Elv-UFHRfttZQB0HX60SQRGXnJ-4VySo4gY-yfaDhT2FHKHTFj9/s1600/ruby.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta3f49df1dd4f34a3/6a63a44a4fedb59e30067233/road-block-detour-signs-JJ_Gouin-shutterstock.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "id": "07476b43568007dd208d0e4f4df6c89201ab0e2f",
       "title": "Vatican's Official Prayer App Leaks 700K+ Global Users' PII",
       "url": "https://www.darkreading.com/vulnerabilities-threats/vatican-official-prayer-app-leaks-700k-pii",
       "published": "2026-07-24T13:00:00+00:00",
-      "summary": "A porous API endpoint exposes, names, email addresses, location, and site status, all of which can be easily gleaned by anyone with a browser.",
+      "summary": "A porous API endpoint exposes, names, email addresses, country, and site status, all of which can be easily gleaned by anyone with a browser.",
       "source": "DarkReading",
       "region": "North America",
       "country": "US",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf219cccb8d006239/6a62178fd61e3e49c64c9e23/Catholic-gelmold-Getty.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "id": "f1fa880b88362062c163d6f8ceae39ec97033689",
+      "title": "Default Azure Automation Setting Enables Cross-Tenant Identity Takeover",
+      "url": "https://www.darkreading.com/cloud-security/default-azure-automation-setting-cross-tenant-identity-takeover",
+      "published": "2026-07-24T12:48:16+00:00",
+      "summary": "Microsoft addresses a public-by-default configuration and chain of code flaws in Azure Automation that could have let attackers seize another tenant's identity and access others' data, credentials, and cloud workloads.",
+      "source": "DarkReading",
+      "region": "North America",
+      "country": "US",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltee2b6459a49ecef3/64f171e51bf536263bbf9b29/Azure_SOPA_Images_Limited_Alamy.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "id": "1d9b041ab9e1b3cb1cc3877df3560aef1a4b0486",
@@ -1179,37 +1212,26 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd0404c576a980a37/6a51584597c98ae9da9a9b59/jen-ellis-nextjensecurity.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "id": "7fed3296a43ea17e402951c232a05136c41b115e",
-      "title": "Cybercriminals Flock to Healthcare Businesses as Attacks Surge",
-      "url": "https://www.darkreading.com/threat-intelligence/cybercriminals-healthcare-businesses-attacks-surge",
-      "published": "2026-07-10T16:51:34+00:00",
-      "summary": "While cyberattacks against hospitals and clinics grew modestly in the first half of 2026, attacks on service providers and other healthcare businesses more than doubled.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1b6b2d15edbb34ff/6a501046f2ad521509a98709/UMMC-Childrens-Hospital-Jackson-Chad_Robertson_Media-shutterstock.jpg?width=720&quality=80&disable=upscale"
+      "id": "6682d7f7054db2ec15f683cc94067bd3091841fd",
+      "title": "Pope's official prayer app commits cardinal sin, leaks 700K+ users' info",
+      "url": "https://www.theregister.com/security/2026/07/24/popes-official-prayer-app-commits-cardinal-sin-leaks-700k-users-info/5278603",
+      "published": "2026-07-24T22:19:16+00:00",
+      "summary": "(Security) hole-ier than thou",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=5278665&width=800"
     },
     {
-      "id": "7a697bf9b4d155a89b00a4cf11638de7a548a2cf",
-      "title": "Fresh ATM Crypto Software Bugs: Jackpot or Bust?",
-      "url": "https://www.darkreading.com/vulnerabilities-threats/atm-crypto-software-bugs-jackpot-bust",
-      "published": "2026-07-10T14:00:00+00:00",
-      "summary": "Organizations, and possibly ATMs, are at risk of compromise, thanks to holes in a Microsoft BitLocker security wrapper.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte0e54c7d31cab23e/6a5000c3376bd6f180079dbb/ATM-AM29-Getty.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "id": "b26ef8b4e53755ce725506f4c8ba7c1642463472",
-      "title": "More Countries Jump on the Social Media 'Ban Wagon'",
-      "url": "https://www.darkreading.com/cyber-risk/more-countries-jump-on-the-social-media-ban-wagon",
-      "published": "2026-07-10T13:50:24+00:00",
-      "summary": "Age restrictions on accounts may be more of a stopgap because industry compliance is already falling short. Tech giants are struggling to follow the laws without affecting users.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltea14c9f0b9e9121d/6a50fb99c6689e7d0b90589b/GettyImages-2252881496.jpg?width=720&quality=80&disable=upscale"
+      "id": "ec0192cd21fbb3ca4740469631dc3b371d93c539",
+      "title": "Europol flags 4,340 'horrific' URLs linked to The Com",
+      "url": "https://www.theregister.com/cyber-crime/2026/07/24/europol-flags-4340-horrific-urls-linked-to-the-com/5278556",
+      "published": "2026-07-24T20:20:57+00:00",
+      "summary": "Stop the spread (of online recruiting and propaganda)",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=5268018&width=800"
     },
     {
       "id": "115a638f4ee93e4ff0c5892c2f42a81985c6af38",
@@ -1740,26 +1762,70 @@
       "image": "https://image.theregister.com/?imageId=5270164&width=800"
     },
     {
-      "id": "9113ffa712fc32ec3ea2c54b8b9ef2461ba5a506",
-      "title": "Baddies caught exploiting extensions bugs with perfect 10 scores on vulnerable Joomla websites",
-      "url": "https://www.theregister.com/security/2026/07/14/baddies-caught-exploiting-extensions-bugs-with-perfect-10-scores-on-vulnerable-joomla-websites/5271001",
-      "published": "2026-07-14T11:06:00+00:00",
-      "summary": "Flaws in iCagenda, Balbooa Forms extensions can impact open source CMS that powers a million sites worldwide",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=5271025&width=800"
+      "id": "76af5b683c70d8f4b2c554aee82c787a26f6f41c",
+      "title": "LG to Ban Residential Proxies from Smart TV Apps",
+      "url": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
+      "published": "2026-07-22T01:10:38+00:00",
+      "summary": "The home appliance giant LG Electronics USA said this week it plans to suspend any apps built for its smart TVs that turn one's television into an always-on residential proxy node. The move comes less than a month after researchers found that more than 42 percent of games and other apps available for download on LG's webOS store allow unknown third-parties to route their Internet traffic through a user's TV.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "9f600f9a827b2bfb709012370ee777d1053669ae",
-      "title": "EU and UK officially blame Russian spies for cyberattack on Poland's power grid",
-      "url": "https://www.theregister.com/security/2026/07/13/uk-eu-officially-pin-poland-energy-cyberattack-on-russia/5270458",
-      "published": "2026-07-13T15:39:52+00:00",
-      "summary": "Sweeping sanctions and condemnation follow op that could have left half a million without power in the depths of winter",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=225878&width=800"
+      "id": "2c2b2700dd7b44b3c6e490c2151c3e8c6d1cc629",
+      "title": "Microsoft Patches a Record 570 Security Flaws",
+      "url": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
+      "published": "2026-07-14T19:22:42+00:00",
+      "summary": "Microsoft Corp. today released software updates to plug at least 570 security holes in its Windows operating systems and other software, almost triple the number of vulnerabilities the software giant fixed in its record-smashing Patch Tuesday release last month. Microsoft attributed the burgeoning patch counts to vulnerability discoveries aided by artificial intelligence.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "7fc7252b143c942e8e63a33d59dce18ca03928b2",
+      "title": "Lessons Learned from CISA\u2019s Recent GitHub Leak",
+      "url": "https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/",
+      "published": "2026-07-13T15:03:28+00:00",
+      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) has issued a postmortem on a data leak in which a contractor published dozens of internal CISA credentials -- including AWS Govcloud keys -- in a public GitHub repository for almost six months before being notified by KrebsOnSecurity. Experts say the gaps identified in the agency's initial response provide important lessons that all security teams should absorb.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "a862312352299b9d8f12e296d8d0ea00d46730fe",
+      "title": "Felons, Fraudsters Flog Offensive Cybersecurity Startup",
+      "url": "https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/",
+      "published": "2026-07-08T12:31:39+00:00",
+      "summary": "A cybersecurity startup dangling millions of dollars to acquire zero-day security vulnerabilities in popular software is run by a pair of far-right conspiracy theorists and convicted felons whose most recent ventures included fake intelligence companies and a now-defunct AI-based lobbying platform they operated under assumed names.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "80703c01ba9374f55b423670a47eadb20d5b1a90",
+      "title": "FBI Seizes NetNut Proxy Platform, Popa Botnet",
+      "url": "https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/",
+      "published": "2026-07-02T19:27:33+00:00",
+      "summary": "The Federal Bureau of Investigation (FBI) said today it worked with industry partners to seize hundreds of domains associated with NetNut, a sprawling residential proxy service operated by the publicly-traded Israeli company Alarum Technologies [NASDAQ: ALAR]. The action comes roughly two weeks after KrebsOnSecurity published findings from multiple security firms connecting NetNut to the Popa botnet, a collection of at least two million devices that have been compromised by malicious software with little or no consent from victims.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "fd753ee12bef61468bdd6009e90ef59837b0958f",
+      "title": "In Other News: Dolphin X AI-Powered Malware, Car Anti-Theft Device Hack, 400 Linux Kernel Flaws",
+      "url": "https://www.securityweek.com/in-other-news-dolphin-x-ai-powered-malware-car-anti-theft-device-hack-400-linux-kernel-flaws/",
+      "published": "2026-07-24T14:20:00+00:00",
+      "summary": "<p>Noteworthy stories that might have slipped under the radar: Siemens ROX II industrial switch vulnerabilities, Russian Zimbra webmail espionage campaign, Stadler Rail ransomware extortion attempt.</p>\n<p>The post <a href=\"https://www.securityweek.com/in-other-news-dolphin-x-ai-powered-malware-car-anti-theft-device-hack-400-linux-kernel-flaws/\">In Other News: Dolphin X AI-Powered Malware, Car Anti-Theft Device Hack, 400 Linux Kernel Flaws</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
       "id": "80ef218e6fa42c7004a40219bdbcfa0d3494c728",
@@ -1855,17 +1921,6 @@
       "url": "https://www.securityweek.com/upbound-group-says-data-breach-led-to-13-million-in-fraudulent-contract-losses/",
       "published": "2026-07-23T10:49:10+00:00",
       "summary": "<p>Hackers recently obtained non-sensitive customer information and other documents from the company.</p>\n<p>The post <a href=\"https://www.securityweek.com/upbound-group-says-data-breach-led-to-13-million-in-fraudulent-contract-losses/\">Upbound Group Says Data Breach Led to $13 Million in Fraudulent Contract Losses</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "48598680644293f30654e0b80bfafc7a81dc7d33",
-      "title": "Assaf Keren Appointed New CISO of Meta",
-      "url": "https://www.securityweek.com/assaf-keren-appointed-new-ciso-of-meta/",
-      "published": "2026-07-23T09:53:51+00:00",
-      "summary": "<p>He replaces Guy Rosen, who announced his retirement from the company after 13 years.</p>\n<p>The post <a href=\"https://www.securityweek.com/assaf-keren-appointed-new-ciso-of-meta/\">Assaf Keren Appointed New CISO of Meta</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
