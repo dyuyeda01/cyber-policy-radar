@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T01:09:39.203970+00:00",
+  "generated_at": "2026-07-30T13:19:44.369823+00:00",
   "items": [
     {
       "id": "feb5e8d5fde5804f9a8f88b547d3a2488186390f",
@@ -112,6 +112,94 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "71bc499af59316e1cb43f8bee2018daacffc62d0",
+      "title": "Microsoft Copilot for Word Can Copy Hidden Prompts Into New Documents",
+      "url": "https://thehackernews.com/2026/07/microsoft-copilot-for-word-can-copy.html",
+      "published": "2026-07-30T11:54:49+00:00",
+      "summary": "Hidden instructions in a Word document can make Microsoft 365 Copilot rewrite figures in a report, then copy the same instructions into the finished file. H\u00e5kon M\u00e5l\u00f8y disclosed the technique on July 28, 144 days after reporting it to Microsoft.\n\nIn his proof of concept, the internally generated file triggered the same behavior when it was used in a second Copilot drafting session.\n\nM\u00e5l\u00f8y's",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-BgxoTGLqXYzQh4HW0TUm-hbX0ApFizzFtFkKe5mb3fKS_yn6Zzpj_Uvivxi7VCwEUOuJx3Bg1XHpHWq9tbZh5xBrAHT4gBG2DYyqvFkVKmWIRiF_zCpXIG5bTs7HfsV1pjM2EsTm-e7WttN-iB57p0n4ki2Vs7vXyB6rTF9mSqlwPu3h7KHocg0mWcI/s1600/copilot-word.jpg"
+    },
+    {
+      "id": "b3516a69de2a611ff0d41348ac4a0068a1d8d5da",
+      "title": "The Network Has Become the Control Plane for AI Security",
+      "url": "https://thehackernews.com/2026/07/the-network-has-become-control-plane.html",
+      "published": "2026-07-30T11:32:46+00:00",
+      "summary": "Network firewalls are the workhorses of modern cybersecurity. They are trusted to protect the network, blocking malicious traffic and preventing intrusions and breaches. And for decades, network security teams have built controls around a relatively stable model: users connect to applications, applications exchange data, and security tools inspect packets, protocols, and destinations. Firewalls",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCMiEYFcCrvL7s-o_ZApEbF6gP4J5FpWseBSQN2iP5bBIXP51mVR8QDnUmxDHBrMr0ta6ucsouVsVnWg8mGPeRvwkx09PCddi0pWLYzOpeA7NnrKUaeVhypXKK9rBJSfminUSBH9cz4YTelqUFMU-VZU2G-mkKFhb1pMQsGcAqtuT4btXzbbgb4pD1Mdfi/s1600/checkpoint-main.jpg"
+    },
+    {
+      "id": "2e1a8c8f354e9ad2deebcd5062c2976e1e7b8d80",
+      "title": "Hackers Exploit AnySign4PC via Hacked Korean Sites to Install Backdoors Without Prompts",
+      "url": "https://thehackernews.com/2026/07/hackers-exploit-anysign4pc-via-hacked.html",
+      "published": "2026-07-30T10:33:15+00:00",
+      "summary": "South Korean authorities and four security firms have disclosed a state-sponsored campaign that compromised trusted domestic websites. The attackers used those sites to exploit locally installed financial-security software and infect targeted visitors with SIGNBT or COPPERHEDGE backdoors.\n\nA compromised page could infect a system running a vulnerable AnySign4PC version without a prompt or",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGU7u7ESWcaN4Xy7bCwiH5yVHsr1vMjqCu05UKJ7c4tsJ4gSRsQXwg-WOe69VD1dLiRuf9FC3HTcjp1ia1NZPPg85MUmHz2TCOplJKSC002w7OMu0X9KWtXTN0MljVt88tQlfABhP7p4pnndpOJoplI5fnqheI8LZwBp623A6gx1HyurT4ZBHRSSils1g/s1600/south-korea.jpg"
+    },
+    {
+      "id": "adca9452f28ed3e0a48b1947bdaf2b541e6c40bb",
+      "title": "SilverFox Targets Japanese Manufacturer with 3-Driver BYOVD Chain and ValleyRAT",
+      "url": "https://thehackernews.com/2026/07/silverfox-targets-japanese-manufacturer.html",
+      "published": "2026-07-30T10:32:59+00:00",
+      "summary": "The Chinese cybercrime group known as Silver Fox has been observed using new drivers as part of bring your own vulnerable driver (BYOVD) attacks targeting a Japanese organization in the industrial manufacturing sector to ultimately deliver ValleyRAT (aka Winos 4.0) for persistent remote access.\n\n\"In this campaign, the group combines new vulnerable-driver abuse, newly observed abuse of legitimate",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzKpx1jDG3j0UsS5Ova8qJWV4gmJcez4M7iowp3M10Tvnvl1toUDwWI1igPQ_XK4-7IIuFXf7cTiKZ9QIRFco8PWFC4mRzBwGz81-8Ix95ujv3bVhshhFEAwjCNJR14ezza7kiAIalG3MjMQPPhH6rQP4lcZS4o1Vw9dO7ErrFmCvlrrd0ATiakQ_LeENQ/s1600/drivers.jpg"
+    },
+    {
+      "id": "ebce89e1123f0f0ed7bb22c33fb7ec8e179180ba",
+      "title": "Russian Hackers Exploit Microsoft OWA Flaw to Keep Mailbox Access After Credential Rotation",
+      "url": "https://thehackernews.com/2026/07/russian-hackers-exploit-microsoft-owa.html",
+      "published": "2026-07-30T07:40:48+00:00",
+      "summary": "The Russian threat actors recently linked to the exploitation of a now-patched vulnerability in Zimbra have been observed exploiting another vulnerability, this time in Microsoft Outlook Web Access (OWA), to target U.S. and European government entities, as well as the telecommunications, financial, hospitality, and aerospace sectors.\n\nThe activity, which began on July 22, 2026, involves the",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAHLuK9rcrkKZxWdmWf50USFH75iYP3nViQrL7sP_6gBJUipIQfUTU0XmA2xnOTR57ZCQWd83Y2joLatEV3XVV10ph4uQV7LrrYLzDCfW4dBiDyvVtpyhD3fgrGY7J2hFbNtCzzp4CGU7DxDYCxnuzJtgCJKCMFuRxloks-iW4dXJlZADetaMQK5rZiUKF/s1600/outlook.jpg"
+    },
+    {
+      "id": "611dba78bb5623168df0b086e4d36b551890430f",
+      "title": "FCC Blocks New Foreign-Produced Robots and Power Inverters Over Cyber Risks",
+      "url": "https://thehackernews.com/2026/07/fcc-blocks-new-foreign-produced-robots.html",
+      "published": "2026-07-30T07:28:43+00:00",
+      "summary": "The Federal Communications Commission (FCC) added foreign-produced mobile robots and networked power inverters to its Covered List on July 28. The move generally prevents new models from receiving the equipment authorization required for import, marketing, or sale in the US.\n\nPreviously authorized models can still be sold, and devices people already own are unaffected. Federal purchases and use",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipannhqI3vkI628-oBoMbtwDDVE4F2PpVmxVM9d10AE06EVVwZzrBde5sTZTddm_89YUCUkfopYwqVzuk2Y8I4g84Ete1SQLvrQ2gA8FVxyCt952gNJpTmXpReLiZZ6EIv33zLjDTFI-_KLydIHDGoIDkbv1ptGTXLdVf6NyeaKeWEEWX4yNsxx46-zyY/s1600/robots.jpg"
+    },
+    {
+      "id": "1ed076cb4516d900697f16d4dcbe0a45f869c33f",
+      "title": "Amazon Links Debug and Chalk npm Hijack to North Korea\u2019s Sapphire Sleet",
+      "url": "https://thehackernews.com/2026/07/amazon-links-debug-and-chalk-npm-hijack.html",
+      "published": "2026-07-30T06:05:17+00:00",
+      "summary": "Amazon has tied the September 2025 hijack of the npm packages debug and chalk to North Korea. For ten months, the incident sat in the public record as crypto theft: a maintainer phished through a lookalike npm domain and a wallet-draining script pushed into at least 18 packages carrying more than 2 billion weekly downloads between them.\n\nThe original Aikido and Wiz reports did not attribute the",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgWsCKCTbRf4kZF1zcu1cmfHaf-pPPKTo2q21iPUibGu2jsDaxT92LByZdMAi0d_luVH-yt263qlWE5uDFAh4Ue21dIUk_eu08YXHqwgHI_R9bziAK9nBUiht_lMbaL9bqBH800A0HtxNSYNISi1sZ4SKv1DanwxXBPj4rd6OFBk3ogNn9iTUmsiISve0/s1600/northkorean-npm.jpg"
+    },
+    {
+      "id": "5963fb94e583a2fba2781d9b24bc9421a0ad0573",
+      "title": "Cisco FMC Zero-Day Actively Exploited, Static Credentials Could Expose Sensitive Data",
+      "url": "https://thehackernews.com/2026/07/cisco-fmc-zero-day-actively-exploited.html",
+      "published": "2026-07-30T05:08:39+00:00",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a newly disclosed security flaw impacting Cisco Secure Firewall Management Center (FMC) Software to its Known Exploited Vulnerabilities (KEV) catalog, following reports of zero-day exploitation.\n\nThe vulnerability, assigned CVE-2026-20316 (CVSS score: 5.3), could permit an unauthenticated, remote attacker to log",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFSDmsE6q7010reBwpOwS1ESkJSxlBlgRBbtjEVAdeClQFAkRfpriRQWUpL0Br8xnFdF1mctv4Ttj1Nv77MMIKm9qlNehPtTLYzOQwcZAWR4Vw1HzjAvItevYjwQkUo_2JNRluc2_OeJ3vOZ-P8meai9NLLWBvothfh7GDqoOpMPmKpOO-hjAeY-Pxa-BV/s1600/cisco.jpg"
+    },
+    {
       "id": "3c95f7725d7b9936a8ab0344da8dc225383a881c",
       "title": "Critical Rails Flaw Could Let Unauthenticated Attackers Read Server Files via Image Uploads",
       "url": "https://thehackernews.com/2026/07/critical-rails-flaw-could-let.html",
@@ -120,7 +208,7 @@
       "source": "The Hacker News",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwRhCsS9eOb_YSXM57bDGZOPg4d9kipGTxFJ2_jC48mztPkE1_sZzuBe7ArzC4jl1TiWM9JiY20pu5uorCtSNIlmaX3EwT0trxI_HjmT_3dAJftY49-4bna-J5wnZlxs9CccsarbhZ9_L2Rxo9xtZbIszYc2mLKh0UdxKJsGftqHPggGLvtkrwWfD2-Wk/s1600/rails.jpg"
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjswJ2Clfk448ySFwyQiVVviqzKzT4B9iwnvVio4_dzvA1TXPnNuDJUI8MozBddPvdWmL2JH3jVvzTxg8A2Z6X9qNPYtxjuVx7RKQkMW8vNVBIEs0sgcrLfywQVufYMEKpxa0vgo2k24bNa_EJaudCFTsvlqQKqbT3jsuzRJdI26GR4pRJrkNKAFx_xiKk/s1600/rubyrails.jpg"
     },
     {
       "id": "3e57e4f822db077b6cd6ce6a0994ae0be8df0d3b",
@@ -574,99 +662,11 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWjz4Sgp8xNXyO8juw5bycoRamRay35GLzSBPG3I3UWyuUovp8-qM8hMgxWiqIwW45q1cb17EkWhEYmP8ODPyhUTk1j7P2T92fjAW_R1WKleVJsywM7kzongXurU8N9olKf1F1jxpDnBKvY0s2F_wsgoGWYgRFrzN5zAoQZciTWQjLQw5NJRL66s3S1RaT/s1600/chatgpt.jpg"
     },
     {
-      "id": "c6f845a8406c10c72832e93ec88be4bf835b1a3c",
-      "title": "Bing Images Flaws Let Crafted SVGs Run Commands as SYSTEM on Microsoft's Servers",
-      "url": "https://thehackernews.com/2026/07/bing-images-flaws-let-crafted-svgs-run.html",
-      "published": "2026-07-24T11:45:17+00:00",
-      "summary": "A crafted SVG submitted to Bing's image search ran commands as NT AUTHORITY\\SYSTEM on Microsoft's production image-processing workers, and as root on the Linux machines in the same fleet.\n\nXBOW's testing got the same result on workers across different hosts and network ranges, so the problem sat in Bing's image tier, not on one bad machine. Microsoft issued two critical CVEs, CVE-2026-32194 and",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirbs2h3QyfDG1ChFBHv8CQNwf9JrDdDWLaZ0AZ2WTiJrsjmmeQUXSFc8FM4OvPgxDig-z2H1Di7OMqCC_0mHbicAvDw6TGF-1jWihJ458GYQBKznb3VOehlOPqWfALnkz8k3DBfehWG2z5nmpu77OgRxJ1iQxL7lsrd1IH3YR6ZHPpSUns-tdmDYScHck/s1600/bing-image.jpg"
-    },
-    {
-      "id": "7774107641221c44d20bcefa22e3370c385ebdd6",
-      "title": "Seeing AI Agents Is Not Enough. Security Teams Must Enforce What They Can Do",
-      "url": "https://thehackernews.com/2026/07/seeing-ai-agents-is-not-enough-security.html",
-      "published": "2026-07-24T11:30:00+00:00",
-      "summary": "AI agent security is moving through a familiar maturity curve: adoption, then visibility, and finally, control. But what we've collectively discovered is that enforcing least privilege for AI agents is harder than we ever imagined. This is why there are so many approaches, from prompt filtering to identity-layer access controls. Where we've collectively landed is that understanding the intent of",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrpwR_tXhzpbt7F1FuALLW8MYrTuwWibwuWjsRDROepxJKdbvSNlbcZLHbL54SmyG_Q_oYFTjI5fqkudKNtfJkg68jAz4STq0xXHEOXnMeOq7fxPz2UslZesQBy_pWKn3IKYNEbltVsjbZDypkqi56JOeznD5hcGEKO6yB-qS2l5cPHlcX0cli_WOHNGM/s1600/pixer.jpg"
-    },
-    {
-      "id": "eb03a2fa4681da065c7259d347b89ae1ff435183",
-      "title": "Hacker Runs Hermes AI Agent Unattended for Post-Exploitation at Thai Finance Ministry",
-      "url": "https://thehackernews.com/2026/07/hacker-runs-hermes-ai-agent-unattended.html",
-      "published": "2026-07-24T10:15:29+00:00",
-      "summary": "Someone installed a popular AI assistant on a rented server, switched off the setting that makes it ask permission before running risky commands, and pointed it at Thailand's Ministry of Finance, which runs the country's treasury and tax collection.\n\nThe agent then worked through the ministry's network on its own, checking hosts for ways to gain root access, hunting through file systems, and",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8qmYxOjHl19UJl8lK9TMJt86it1bULCh3SK1wSiD4JjiKU98fsHnko_QWzUWuG2ZmoHG7yxLrIgSTFRCKep1Ebj0JAH8xuTLFP_aIzGpTobs7C8u5OKGGTq79vqkHpY_Iy6LIEG-AHv-_uSJTVt2kxapGAu7qjfgiT4qpIAtnlfK3bR8he5-dubMNLYs/s1600/hermes-agent.jpg"
-    },
-    {
-      "id": "97652cd4ceb226e40eaaa4062da787527531521d",
-      "title": "Golden Chickens Resurfaces With Four New Malware Families and Modular Implants",
-      "url": "https://thehackernews.com/2026/07/golden-chickens-resurfaces-with-four.html",
-      "published": "2026-07-24T10:09:24+00:00",
-      "summary": "The threat actors behind the Golden Chickens malware-as-a-service (MaaS) ecosystem have resurfaced with four new malware families, indicating that the operators are showing no signs of stopping despite extensive public disclosures into their inner workings.\n\nThe malware families in question are: TinyEgg, ChonkyChicken, a modularized variant of ChonkyChicken, and a modified web browser credential",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJ6m42WBQBHda1ntTqYkaxPyEiKYjc2xnTFIawfUcAxMuYQ_HtOz3ebO0HTtt3qyhUIIg8NB8W92WIfldPiOjZKCY1_aTGfgWq2NnZOhrgoU_Z8y8rtfVxCdJuc1QL94IcLm0IF_h-euFZydB5Qc8z4ifT-lx84glPyRnfTX8-R31O_0aswgRZR0uUTxs1/s1600/malwares.jpg"
-    },
-    {
-      "id": "10914aba84e9435bd973cc01db06ee4947d1b9f3",
-      "title": "NodeBB Patches Eight AI-Found Flaws Exposing Admin Access and Private Chats",
-      "url": "https://thehackernews.com/2026/07/nodebb-patches-eight-ai-found-flaws.html",
-      "published": "2026-07-24T07:41:06+00:00",
-      "summary": "Eight security flaws in NodeBB went public on Wednesday, along with the code to exploit them. Aikido Security rates all eight as high severity and says its AI pentest agents found them in a six-hour review of the forum software's source code.\n\nEvery version before 4.14.0 is affected. NodeBB has fixed them all, and administrators should be on 4.14.2.\n\nThe simplest one takes a settings change. A",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixTLaT7NCY3UuotqW1AHLiB1xN5K-nlqtpnOav_n7PWHNWWZmrSmmPTzmL6oA7N7dOgwSGxEbbBq90Q3OVK6wF2PSXdXLs7mKmBYc1dEBIc64Qsq6XEl7rYbv5PjRMViYiGXr8-ypMSs0ZJv_rJXqSWIbS4FVTuIphO7g9IfC0MG6m5dDXPXJoz7iezck/s1600/nodebb.jpg"
-    },
-    {
-      "id": "65ed4cac539f33094bc185dfcd7e34b61c1103e1",
-      "title": "Kimi K3 Agents Found Redis Zero-Days and Built RCE Exploit, Researchers Say",
-      "url": "https://thehackernews.com/2026/07/kimi-k3-agents-found-redis-zero-days.html",
-      "published": "2026-07-24T06:58:27+00:00",
-      "summary": "Redis shipped seven security releases on July 23 after researchers published authenticated RCE PoCs for stock Redis 6.2.22, 7.4.9, 8.6.4, and 8.8.0.\n\nAll four chains require RESTORE. The Streams chains also need EVAL and XGROUP; the 8.8.0 chain needs EVAL and the bundled RedisBloom module. Redis says the underlying memory flaws may lead to remote code execution.\n\nRedis 6.2.23, 7.2.15, and 7.4.10",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0TE9DH98zjhcQPB99o9CcCvYH1otVTUwpXl_9Af1Nbl89gqHBAqP2jtb-BFrmXdR-4OYmPOGJJoilFiac2ooKHM5Lbe_kD5kLpW1eRcdpOWsG53701lGhFi93e0UpvGrptdb2usksom4mF56GWE1of2M7KsmAZav9cENd90xYAVz7Dq3yPIBJEODDDaQ/s1600/redis-0day.jpg"
-    },
-    {
-      "id": "968e9f178a945f34d00af6fbd64076442d97f4a4",
-      "title": "Fake Notepad++ Plugin Delivers MATCHBOIL.V2 in UAC-0099 Attacks",
-      "url": "https://thehackernews.com/2026/07/fake-notepad-plugin-delivers.html",
-      "published": "2026-07-24T06:50:57+00:00",
-      "summary": "The Computer Emergency Response Team of Ukraine (CERT-UA) has warned of a new campaign that involves the use of a malicious program that's dressed up as a Notepad++ plugin to compromise Windows systems.\n\nThe activity has been attributed by the agency to a threat cluster it tracks as UAC-0099, a Russia-aligned group that has previously observed weaponizing security flaws in WinRAR software to",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCA0-yh9EAnhFa2V3NzQVw2m-sLgbCNVQ8GVMBX4Y6vUNwPXE-vHzdJLFKXVi3rdGXhx5RawHTwox7cd9ph20u5qn_H8TJUOKG8nITccTkzqfiyBKStdCgcrJOgAeGf9Mkzr1g8iCB0HrpuonkIQQTx15L2P53RPX9GeMYVIuvl51jJ2hn1jn0PcQARQaj/s1600/notepad-malware-code.jpg"
-    },
-    {
-      "id": "711a8c6076de78c18e70784f482f4eb2e0e9dfb1",
-      "title": "Russian Espionage Group Exploited Zimbra Zero-Day to Steal Mail and 2FA Codes",
-      "url": "https://thehackernews.com/2026/07/russian-espionage-group-exploited.html",
-      "published": "2026-07-23T18:36:08+00:00",
-      "summary": "A Russian state-supported espionage group spent months reading Western mailboxes through a then-unknown flaw in Zimbra's webmail client.\n\nThe payload goes after the last 90 days of email, the organization's entire email directory, the password saved in the browser and the codes kept for two-factor recovery. Opening the message was enough to start it.\n\nThe NSA, CISA and partner agencies published",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXkCZuPeRyg1ChSuRUngYAxHTfN5dCHgGrSaCg3hA40XvmX2vRmKxgGJ7Pzli72_i9XK9XgCQhhRNK5dE3XJ_EklUH_Nzoqx4YLy7NeKSHB4RCd4KkdhrCB1vdEEcGsgnzumTMwi3_J4BxsGc3t0pjb2mhjkHfBcF5PDUqTe9F0wZPaC94Y6AwMXICZ9E/s1600/zimbra-exploit.jpg"
-    },
-    {
       "id": "f6bd5a50d7093f5404224bde8f2c60da2cf71c19",
       "title": "SE Asian Cybercriminal Syndicates Become a Global Power",
       "url": "https://www.darkreading.com/threat-intelligence/se-asian-cybercriminal-syndicates-global-power",
       "published": "2026-07-30T01:00:00+00:00",
-      "summary": "The groups move from goods to services and continue to traffic people from at least 80 countries, costing nations in the region at least $88 billion in 2025 alone.",
+      "summary": "The organized crime groups have moved from goods to services and continue to traffic people from at least 80 countries, costing nations in the region at least $88 billion in 2025 alone.",
       "source": "DarkReading",
       "region": "North America",
       "country": "US",
@@ -688,7 +688,7 @@
       "title": "OpenAI's Rogue Model Claims More Victims Beyond Hugging Face",
       "url": "https://www.darkreading.com/application-security/openai-rogue-model-claims-more-victims-beyond-hugging-face",
       "published": "2026-07-29T19:48:12+00:00",
-      "summary": "OpenAI revealed rogue AI models compromised more services than initially disclosed, including a Modal customer environment and others.",
+      "summary": "OpenAI's goal-seeking agent compromised a Modal customer environment and others during its sandbox escape.",
       "source": "DarkReading",
       "region": "North America",
       "country": "US",
@@ -696,7 +696,7 @@
     },
     {
       "id": "b360cf1cb99c2d95e5a2b9622bdd9fb9688458b7",
-      "title": "Red Agents vs. Blue Agents: How to Make AI Better At Defense",
+      "title": "Red Agents vs. Blue Agents: How to Make AI Better at Defense",
       "url": "https://www.darkreading.com/cybersecurity-operations/red-agents-vs-blue-agents-make-ai-better-defense",
       "published": "2026-07-29T19:46:20+00:00",
       "summary": "The agentic AI playing field was heavily tilted toward offense, so researchers began using red team agents to help teach their blue counterparts.",
@@ -1210,6 +1210,39 @@
       "region": "North America",
       "country": "US",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6711706d56131707/6a591f652d194555193b1cc9/Salt_email-Sagel_&_Kranefeld-Getty.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "id": "e56c15e09b29d2f14146e72ec1af21c69e660aa2",
+      "title": "Russian spies take their half-click email attack from Zimbra to Outlook",
+      "url": "https://www.theregister.com/security/2026/07/30/russian-spies-take-their-half-click-email-attack-from-zimbra-to-outlook/5281033",
+      "published": "2026-07-30T10:29:00+00:00",
+      "summary": "Opening a booby-trapped message unleashes a browser implant that can survive password changes and device rebuilds",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=5237994&width=800"
+    },
+    {
+      "id": "642060847d24816daadef3f7797dbaf63f1aa855",
+      "title": "Headteacher had the most guessable username-password combo you could imagine",
+      "url": "https://www.theregister.com/security/2026/07/30/headteacher-had-the-most-guessable-username-password-combo-you-could-imagine/5280709",
+      "published": "2026-07-30T07:00:00+00:00",
+      "summary": "Schools often don't prioritize or understand cybersecurity",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=5280739&width=800"
+    },
+    {
+      "id": "ca99b6349f29a4a6aa3ccb3c5b0b04458eac0f57",
+      "title": "Excuses like 'AI did it' don't exist in the eyes of the law",
+      "url": "https://www.theregister.com/legal/2026/07/30/excuses-like-ai-did-it-dont-exist-in-the-eyes-of-the-law/5280767",
+      "published": "2026-07-30T06:30:00+00:00",
+      "summary": "If your AI goes rogue, better have a good lawyer",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=237716&width=800"
     },
     {
       "id": "acbedb383e06fb3777abdf1fc91871532ad1baf9",
@@ -1729,39 +1762,6 @@
       "image": "https://image.theregister.com/?imageId=5268977&width=800"
     },
     {
-      "id": "6b1da03bfef5ee0f4a2d27eadde636391c972dcc",
-      "title": "Attackers target critical FortiSandbox flaws as CISA issues patch order",
-      "url": "https://www.theregister.com/security/2026/07/17/attackers-target-critical-fortisandbox-flaws-as-cisa-issues-patch-order/5274287",
-      "published": "2026-07-17T11:58:10+00:00",
-      "summary": "Command injection vulns land on exploited list after researchers spot abuse attempts",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=5274310&width=800"
-    },
-    {
-      "id": "276f3ace53d0480bd4995fb51e78754165fb41ba",
-      "title": "Google fixing Android lock screen bug that lets Gemini send SMS without a PIN",
-      "url": "https://www.theregister.com/security/2026/07/17/google-fixing-android-lock-screen-bug-that-lets-gemini-send-sms-without-a-pin/5273027",
-      "published": "2026-07-17T09:15:00+00:00",
-      "summary": "A specific multi-touch gesture bypasses an authentication prompt, allowing anyone to send messages",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=224909&width=800"
-    },
-    {
-      "id": "9523babf5df616a6324420101ff3d91a49fb6777",
-      "title": "South Korea making its own security-centric AI model",
-      "url": "https://www.theregister.com/ai-and-ml/2026/07/17/south-korea-making-its-own-security-centric-ai-model/5274034",
-      "published": "2026-07-17T01:56:40+00:00",
-      "summary": "Adapting existing local LLM project for security and sovereignty purposes and hopes to one day match Mythos",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=231267&width=800"
-    },
-    {
       "id": "76af5b683c70d8f4b2c554aee82c787a26f6f41c",
       "title": "LG to Ban Residential Proxies from Smart TV Apps",
       "url": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
@@ -1817,110 +1817,110 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "6c2cbcfc86a5aa7bea34dd44bcf689dfb3f7dba1",
+      "title": "Cantina Emerges From Stealth With $8 Million in Funding",
+      "url": "https://www.securityweek.com/cantina-emerges-from-stealth-with-8-million-in-funding/",
+      "published": "2026-07-30T13:00:00+00:00",
+      "summary": "<p>The startup\u2019s community-powered agentic security platform helps proactively identify, prioritize, and remediate vulnerabilities.</p>\n<p>The post <a href=\"https://www.securityweek.com/cantina-emerges-from-stealth-with-8-million-in-funding/\">Cantina Emerges From Stealth With $8 Million in Funding</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "207f70882c64c86c672ae333cc1e7f25176c9380",
+      "title": "Onyx Security Raises $113 Million to Control AI Agents in the Enterprise",
+      "url": "https://www.securityweek.com/onyx-security-raises-113-million-to-control-ai-agents-in-the-enterprise/",
+      "published": "2026-07-30T12:29:03+00:00",
+      "summary": "<p>The Series B funding round brings the total raised by Onyx Security to $153 million.\u00a0</p>\n<p>The post <a href=\"https://www.securityweek.com/onyx-security-raises-113-million-to-control-ai-agents-in-the-enterprise/\">Onyx Security Raises $113 Million to Control AI Agents in the Enterprise</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "c781ae608c33eb5584d32a3e65ef931b2525ae45",
+      "title": "\u2018DangleGeddon\u2019: AI Could Weaponize Forgotten DNS Records at Global Scale",
+      "url": "https://www.securityweek.com/danglegeddon-ai-could-weaponize-forgotten-dns-records-at-global-scale/",
+      "published": "2026-07-30T12:15:24+00:00",
+      "summary": "<p>Researchers warn that AI could turn dangling DNS takeovers into a nation-state weapon capable of disrupting governments, banks and global supply chains.</p>\n<p>The post <a href=\"https://www.securityweek.com/danglegeddon-ai-could-weaponize-forgotten-dns-records-at-global-scale/\">\u2018DangleGeddon\u2019: AI Could Weaponize Forgotten DNS Records at Global Scale</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "fc8c7100b8aa28be35f0cb4419022bc18bcc48bf",
+      "title": "Semiconductor Firm Analog Devices Discloses Data Breach",
+      "url": "https://www.securityweek.com/semiconductor-firm-analog-devices-discloses-data-breach/",
+      "published": "2026-07-30T11:16:23+00:00",
+      "summary": "<p>Hackers were detected on Analog Devices systems in June, and an investigation found that they stole files.</p>\n<p>The post <a href=\"https://www.securityweek.com/semiconductor-firm-analog-devices-discloses-data-breach/\">Semiconductor Firm Analog Devices Discloses Data Breach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "20e8ffb0709e60b671d9e48fc7941a9b8cc60d0b",
+      "title": "Critical Ruflo Flaw Lets Attackers Spawn Rogue AI Swarms",
+      "url": "https://www.securityweek.com/critical-ruflo-flaw-lets-attackers-spawn-rogue-ai-swarms/",
+      "published": "2026-07-30T09:56:10+00:00",
+      "summary": "<p>Unauthenticated attackers could send HTTP requests to an exposed endpoint to execute commands inside the MCP bridge container.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-ruflo-flaw-lets-attackers-spawn-rogue-ai-swarms/\">Critical Ruflo Flaw Lets Attackers Spawn Rogue AI Swarms\u00a0</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "f60917f9f56b0be72b7f2a16357699d80689c18b",
+      "title": "1 in 5 Data Center Assets Are Within Easy Reach of Attackers",
+      "url": "https://www.securityweek.com/1-in-5-data-center-assets-are-within-easy-reach-of-attackers/",
+      "published": "2026-07-30T09:28:37+00:00",
+      "summary": "<p>Claroty has analyzed 750,000 cyber-physical systems across some of the world\u2019s largest data center facilities.</p>\n<p>The post <a href=\"https://www.securityweek.com/1-in-5-data-center-assets-are-within-easy-reach-of-attackers/\">1 in 5 Data Center Assets Are Within Easy Reach of Attackers</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "0ecf09d3c90c6cb15a2128906256dadf7eb66d86",
+      "title": "US and Allies Update SBOM Guidance",
+      "url": "https://www.securityweek.com/us-and-allies-update-sbom-guidance/",
+      "published": "2026-07-30T08:21:19+00:00",
+      "summary": "<p>Five years after the initial release, the refresh introduces new elements, removes others, and updates terminology.</p>\n<p>The post <a href=\"https://www.securityweek.com/us-and-allies-update-sbom-guidance/\">US and Allies Update SBOM Guidance</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "6f137cc5fc80c2c4e275dc28ce3b377e6e00c186",
+      "title": "Chrome 151 Patches 370 Vulnerabilities",
+      "url": "https://www.securityweek.com/chrome-151-patches-370-vulnerabilities/",
+      "published": "2026-07-30T07:51:24+00:00",
+      "summary": "<p>The major browser update resolves roughly 80 critical- and high-severity security defects.</p>\n<p>The post <a href=\"https://www.securityweek.com/chrome-151-patches-370-vulnerabilities/\">Chrome 151 Patches 370 Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "2b847ae73b3484236d167f93a98adb9a78c69028",
+      "title": "Cisco Secure FMC Zero-Day Exploited in the Wild",
+      "url": "https://www.securityweek.com/cisco-secure-fmc-zero-day-exploited-in-the-wild/",
+      "published": "2026-07-30T06:31:31+00:00",
+      "summary": "<p>The vulnerability tracked as CVE-2026-20316 can be exploited by a remote, unauthenticated attacker to log into affected devices.\u00a0</p>\n<p>The post <a href=\"https://www.securityweek.com/cisco-secure-fmc-zero-day-exploited-in-the-wild/\">Cisco Secure FMC Zero-Day Exploited in the Wild</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "efb117a41edb01fd24e2be0bb3c6b2078139d1df",
       "title": "US Bans Foreign-Made Humanoid Robots, Targeting China Over National Security",
       "url": "https://www.securityweek.com/us-bans-foreign-made-humanoid-robots-targeting-china-over-national-security/",
       "published": "2026-07-29T13:31:00+00:00",
       "summary": "<p>The agency said imports of advanced robots pose cybersecurity and other national security risks.</p>\n<p>The post <a href=\"https://www.securityweek.com/us-bans-foreign-made-humanoid-robots-targeting-china-over-national-security/\">US Bans Foreign-Made Humanoid Robots, Targeting China Over National Security</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "c369e3e86d82189403165089c63338dc8f6d3f23",
-      "title": "Mate Security Raises $35 Million for Agentic SOC",
-      "url": "https://www.securityweek.com/mate-security-raises-35-million-for-agentic-soc/",
-      "published": "2026-07-29T12:47:13+00:00",
-      "summary": "<p>The startup will use the investment to expand its customer support, sales, and R&#038;D teams.</p>\n<p>The post <a href=\"https://www.securityweek.com/mate-security-raises-35-million-for-agentic-soc/\">Mate Security Raises $35 Million for Agentic SOC</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "d555c538ebe2a631d4846f723bb9fffcc0c79463",
-      "title": "ThreatLocker Raises $190 Million in Series F Funding",
-      "url": "https://www.securityweek.com/threatlocker-raises-190-million-in-series-f-funding/",
-      "published": "2026-07-29T12:17:14+00:00",
-      "summary": "<p>The company was previously valued at $1.6 billion, and the latest raise has significantly increased that valuation.</p>\n<p>The post <a href=\"https://www.securityweek.com/threatlocker-raises-190-million-in-series-f-funding/\">ThreatLocker Raises $190 Million in Series F Funding</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "e2893b97dfcbac62baebf3bbb3e44594d8f8d552",
-      "title": "Critical VM Escape Vulnerability Patched in VMware ESXi",
-      "url": "https://www.securityweek.com/critical-vm-escape-vulnerability-patched-in-vmware-esxi/",
-      "published": "2026-07-29T11:42:38+00:00",
-      "summary": "<p>A total of five vulnerabilities have been patched in VMware ESXi, vCenter, Workstation, and Fusion.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-vm-escape-vulnerability-patched-in-vmware-esxi/\">Critical VM Escape Vulnerability Patched in VMware ESXi</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "65f6d8dcd84b5e0eb178b4a5af4c241eb5389f68",
-      "title": "US, Australia Release OT Isolation Guidance for Critical Infrastructure",
-      "url": "https://www.securityweek.com/us-australia-release-ot-isolation-guidance-for-critical-infrastructure/",
-      "published": "2026-07-29T10:58:44+00:00",
-      "summary": "<p>The guidance details steps organizations can take to isolate vital OT and supporting systems, and operate in isolation for an extended period.</p>\n<p>The post <a href=\"https://www.securityweek.com/us-australia-release-ot-isolation-guidance-for-critical-infrastructure/\">US, Australia Release OT Isolation Guidance for Critical Infrastructure\u00a0</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "59af053afcece3be22a3b4cf04ca3fa9c4e07530",
-      "title": "OpenAI\u2019s Rogue AI Ventured Beyond Hugging Face",
-      "url": "https://www.securityweek.com/openais-rogue-ai-ventured-beyond-hugging-face/",
-      "published": "2026-07-29T10:10:09+00:00",
-      "summary": "<p>Hugging Face has published an anatomy of the attack and OpenAI has shared additional information from its investigation.</p>\n<p>The post <a href=\"https://www.securityweek.com/openais-rogue-ai-ventured-beyond-hugging-face/\">OpenAI&#8217;s Rogue AI Ventured Beyond Hugging Face</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "32e8f7dd3ae16701e0884894fa2ef513e0e08a65",
-      "title": "Spur Raises $200 Million for IP Intelligence Platform",
-      "url": "https://www.securityweek.com/spur-raises-200-million-for-ip-intelligence-platform/",
-      "published": "2026-07-29T09:12:19+00:00",
-      "summary": "<p>The IP intelligence company will use the fresh investment to accelerate and scale its operations.</p>\n<p>The post <a href=\"https://www.securityweek.com/spur-raises-200-million-for-ip-intelligence-platform/\">Spur Raises $200 Million for IP Intelligence Platform</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "cdeb07dcf67b7ad37ab56a2d2cd26b5a387c68de",
-      "title": "JFrog Zero-Days Exploited in OpenAI-Hugging Face Hack",
-      "url": "https://www.securityweek.com/jfrog-zero-days-exploited-in-openai-hugging-face-hack/",
-      "published": "2026-07-29T08:46:30+00:00",
-      "summary": "<p>The OpenAI models targeted services beyond Hugging Face as they attempted to solve the tasks they were given.</p>\n<p>The post <a href=\"https://www.securityweek.com/jfrog-zero-days-exploited-in-openai-hugging-face-hack/\">JFrog Zero-Days Exploited in OpenAI-Hugging Face Hack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "e84210faadf6acb770cac234abb54c9c3e35d6c0",
-      "title": "Dozens of Minnesota Water Utilities Targeted in Coordinated OT Attacks",
-      "url": "https://www.securityweek.com/dozens-of-minnesota-water-utilities-targeted-in-coordinated-ot-attacks/",
-      "published": "2026-07-29T07:53:22+00:00",
-      "summary": "<p>State and federal agencies respond after intrusions disrupt automated controls at municipal water and wastewater utilities.</p>\n<p>The post <a href=\"https://www.securityweek.com/dozens-of-minnesota-water-utilities-targeted-in-coordinated-ot-attacks/\">Dozens of Minnesota Water Utilities Targeted in Coordinated OT Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "3f1cce9632b1165bfb1b2e69d0414dabea86a95e",
-      "title": "ShinyHunters Claims Ernst & Young Hack",
-      "url": "https://www.securityweek.com/shinyhunters-claims-ernst-young-hack/",
-      "published": "2026-07-29T06:23:34+00:00",
-      "summary": "<p>Ernst &#038; Young previously confirmed that personal and financial information was stolen from a third-party management platform.</p>\n<p>The post <a href=\"https://www.securityweek.com/shinyhunters-claims-ernst-young-hack/\">ShinyHunters Claims Ernst &#038; Young Hack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
