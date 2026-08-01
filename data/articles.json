@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-07-31T13:22:44.271090+00:00",
+  "generated_at": "2026-08-01T01:23:40.314942+00:00",
   "items": [
+    {
+      "id": "e3fb0d9bd2558b2ed9e4647c9bef12f690af8a1f",
+      "title": "Anthropic says human error let Claude AI models escape test environment and hack third parties",
+      "url": "https://www.cybersecuritydive.com/news/anthropic-claude-ai-hacking-test/826708/",
+      "published": "2026-07-31T15:29:00+00:00",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/b56r_eBroAFODQosqPrSA5K22cdIRQrX3dPvdM5d0qc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjYxOTczODg4XzIycGV4V0IuanBn.webp\" /></div></figure><p>The company said its discovery, which followed OpenAI&rsquo;s similar admission, proved the need for better testing guardrails.</p>",
+      "source": "Cybersecurity Dive",
+      "region": "North America",
+      "country": "US",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
     {
       "id": "4edc3adfe44c27cbe3fa5e13abc9a3307ef32f26",
       "title": "Hackers abuse Microsoft Teams in ransomware campaign through fake IT support",
@@ -72,7 +83,7 @@
       "title": "Coca-Cola restores most production capacity at dairy unit after ransomware attack",
       "url": "https://www.cybersecuritydive.com/news/coca-cola-restores-most-production-capacity-at-dairy-unit-after-ransomware/826250/",
       "published": "2026-07-27T15:15:35+00:00",
-      "summary": "<p>The company said it does not expect the Fairlife disruption to have a material impact on financial performance or operations.&nbsp;</p>",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/8KMQQx9oFU_XqX30l7XnnSFMow2MEfissHE8kTg-Z8E/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TY3JlZW5zaG90XzIwMjMtMDUtMDlfMTI0NzQ2LnBuZw==.webp\" /></div></figure><p>The company said it does not expect the Fairlife disruption to have a material impact on financial performance or operations.&nbsp;</p>",
       "source": "Cybersecurity Dive",
       "region": "North America",
       "country": "US",
@@ -101,15 +112,59 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "7de27af7992c1e876fdd95e8a5bcff509b372271",
-      "title": "What the Trojan horse gets right (and wrong) about AI security",
-      "url": "https://www.cybersecuritydive.com/spons/what-the-trojan-horse-gets-right-and-wrong-about-ai-security/825935/",
-      "published": "2026-07-27T09:00:00+00:00",
-      "summary": "<p>Agentic AI didn't invent new risk. It removed the friction that used to keep environments in check.</p>",
-      "source": "Cybersecurity Dive",
+      "id": "140aba46cc8d9075f6fedbf28baaf34a21a2c5d2",
+      "title": "Suspected Chinese-Speaking Hackers Target Central Asian Governments With OctLurk and SilkLurk",
+      "url": "https://thehackernews.com/2026/08/suspected-chinese-speaking-hackers.html",
+      "published": "2026-07-31T18:52:04+00:00",
+      "summary": "A Chinese-speaking threat actor is suspected to be behind a fresh wave of cyber attacks targeting government organizations mainly located in Central Asia, including Afghanistan, Kyrgyzstan, Tajikistan, Uzbekistan, Kazakhstan, and the Syrian Arab Republic, since January\u202f2025.\n\nThese targeted organizations operate across several sectors, such as healthcare, research, government offices,",
+      "source": "The Hacker News",
       "region": "North America",
       "country": "US",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmBagWdesuJqVgNAHPh7t75IGrajY_oJeL9HHI7r23AK7CuLUN22-GBwDCWJWTlIutBApsdhSGproqxtR6kV_Dg04FT2zc6vZXZCQed8Kx3bD-jw-VXkYfAHlJsNgcQOcqRFW8TTh1kyN34MisnGx3ImU9vejv_oNy4jN0sPNcPM7jclq7klrMmGrnROjk/s1600/chinese-hackers.jpg"
+    },
+    {
+      "id": "c5b4ee777bae820286cdfe487e72e15696ff93d6",
+      "title": "HollowFrame Loader Deploys Matryoshka Backdoor in Spear-Phishing Attack on Law Firm",
+      "url": "https://thehackernews.com/2026/07/hollowframe-loader-deploys-matryoshka.html",
+      "published": "2026-07-31T16:39:31+00:00",
+      "summary": "Cybersecurity researchers have shed light on a previously undocumented Go-based loader framework called HollowFrame and a Rust-based malware family tracked as Matryoshka.\n\nAccording to Blackpoint Cyber, the intrusion sequence begins with a spear-phishing message containing a link to an encrypted archive, which holds a Windows Shortcut (LNK). Executing the file triggers a multi-stage chain that",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjOaqDYzKWLfOEp56DfMjSmDMudw7Y3DBFUY_xOhGNTnzRYlKw9YCNNbjLvepf-vDHB_KVSSA-KZjx2dNXjJR3ZpTpS_IgGSfhLRjyR2P8ocr_uWQ1w5UcYpuXnycnyv2tPtDqXoZMvD9pqgCNCPDrYMwAup0ftaycFLYzxHvdoOWhEA1ZXffc9ahBpkj5/s1600/law-firm.jpg"
+    },
+    {
+      "id": "79881b4024d3123ec679a55b9273573fa77df41b",
+      "title": "Cheap Android TV Boxes Pose as Phones and Turn Owners\u2019 Broadband Into Proxies",
+      "url": "https://thehackernews.com/2026/07/cheap-android-tv-boxes-pose-as-phones.html",
+      "published": "2026-07-31T14:45:01+00:00",
+      "summary": "Bitsight says some cheap Android TV boxes have shipped with apps that rewrite their hardware identity to mimic Samsung, Huawei, Xiaomi, or Vivo phones, then click ads on websites run by the same operators.\n\nResearchers named the operation Fuyao and attributed it to Zhejiang Fengwo IoT Technology Co., Ltd., a mainland China company founded in 2019.\n\nThe same apps have a second job. When a box",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhxfc7_NuArKSujgjgzPzENagYVTlBxcvnFBXSbptnFs_TI1o-Zt5SINHtPEO5MNkJ3vwkKUTX68vwmCzVxRQVFcgnb9eXwAsLKayCtzMLVRuqwV3RDaWTgQNOm0CVXcV_jX1v4x4mgEthTDjAsZdF4BSPSuTTRqKnM6qbIhPVjZP38dHmpptNurSmXRM/s1600/android-tv.jpg"
+    },
+    {
+      "id": "0d5d6a707b71b84f6a769834b1e2261381975ba9",
+      "title": "Three Recent Chrome Releases Fix 1,442 Flaws, More Than Prior 23 Updates Combined",
+      "url": "https://thehackernews.com/2026/07/three-recent-chrome-releases-fix-1442.html",
+      "published": "2026-07-31T12:51:52+00:00",
+      "summary": "Google on Thursday announced that it fixed a whopping 1,072 security bugs in Chrome versions 149 and 150, surpassing the total number of flaws the company fixed across the prior 23 milestones combined.\n\nBoth versions were released last month. In its latest patch for Chrome 151, released Wednesday, the tech giant resolved 370 flaws, out of which 349 were reported by Google itself. Seven of the",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqUoKsOzzL1DJubfk79p5F7EfcWUNP-tPwTMNDt329zqRohKeX2tE3qxMCciII-FZEHofHM72OihyAfF_7Eqs48MRmxxVOcGZyKML5LHynh5Akf1fWeNSsDlY2D-EaGLx2T9wy6y2jNfOGx-5xmKNhf0koUmkpIGcuShRA47RVW_207PVhnxdlPijMUmkx/s1600/chrome.jpg"
+    },
+    {
+      "id": "8e306e9cb719c6c12bab384ad1b2823dac887d93",
+      "title": "Researchers Report 84 Flaws in 4G and 5G Cores, Including a Session Hijacking Flaw",
+      "url": "https://thehackernews.com/2026/07/researchers-report-84-flaws-in-4g-and.html",
+      "published": "2026-07-31T11:55:00+00:00",
+      "summary": "An academic study has disclosed a \"widespread class\" of security vulnerabilities impacting 4G and 5G core networks that, if successfully exploited, could trigger denial-of-service (DoS) attacks and even session hijacking, allowing an attacker to seize control of a user's network session.\n\nThe findings have been released by a group of researchers from Singapore's Nanyang Technological University",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhx5Qzkfu4WC4nW5n_nmFDP3CoZsw91wzaKcfKRZBx7DXHggnqqxqun757BOQey3jOUCGe4928DBU6fy4dPX04Cmp94xqWdNkZgkp1DuenVewYZFxSs9YSQdArKp1Ma3hAGkDAIA7zH8_7hXubNrJbP27r6XxIlCrzrYYoi3vAVFaLVdu1tnN6blLhE61xE/s1600/ifinder.jpg"
     },
     {
       "id": "c41e7cceb044979dabbf97e8827edf5d408134a0",
@@ -607,59 +662,48 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBorVFXLroQ9D9Ao8QPsDAQpmoMeD2ciyHIBw3YYRHLBLAeDIjFZ6V9lzrrtmNq3KrIRqHhJUfKAx2sXIsMYCjyFzRV9awIVSLOuujkMY8hOeUkaNlFgM421aS8pVQaiLmjwKcNNLy5TcU389YEAPfCnB8uVeFtUY9BCJ0lz4IjQoD2UZp9pVDP7IzLurf/s1600/malware-hacker.jpg"
     },
     {
-      "id": "cdf31655de8d582c2d67979649fb39005eaa6a6c",
-      "title": "TELESHIM Abuses Telegram for C2 in Attacks Against Middle East Governments",
-      "url": "https://thehackernews.com/2026/07/teleshim-abuses-telegram-for-c2-in.html",
-      "published": "2026-07-27T08:48:47+00:00",
-      "summary": "Cybersecurity researchers have flagged fresh malicious cyber activity by a threat actor with ties to East Asia targeting government entities in the Middle East.\n\nThe intrusions have resulted in the deployment of previously unreported malware families dubbed TELESHIM, MIXEDKEY, and BINDCLOAK, according to Zscaler ThreatLabz. The cybersecurity firm said it detected the campaign earlier this month.",
-      "source": "The Hacker News",
+      "id": "cdc25be6bc388193befecf570d260bfff46fb84d",
+      "title": "CISA Issues Fresh SBOM Guidance. Did They Get It Right?",
+      "url": "https://www.darkreading.com/cybersecurity-operations/cisa-issues-fresh-sbom-guidance",
+      "published": "2026-07-31T18:13:11+00:00",
+      "summary": "A couple-dozen changes to SBOM fields will make them more comprehensive, but some argue that the framework lacks real risk-management improvements.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikuWOQRYm6WQ1zHmOlYkI7jlVOUUKGBIlo68iWyUVuaZ5n3i7ODu8DYpntAk2aGZQ_7LsYpXpp5v0PcQMLxP8LQOajtKl-WaDBb7_wDpo8P3-iCcAwr74JY4rXNeHJJv9h6EB447wPEnrZE08YfDO_WI9N4B_C1lPvxILfvv00Z_J8yHntLSfNYbPVCDjS/s1600/telegram-c2.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8ea01097eb709f8a/6a6ce63bcc814023251d23dd/Long_list-erhui1979-Getty.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "id": "b1809b7e17b9eb1ba1a334c88a4ab77c65d4c540",
-      "title": "GitHub Adds 3-Day Dependabot Cooldown to Limit Poisoned Package Adoption",
-      "url": "https://thehackernews.com/2026/07/github-adds-3-day-dependabot-cooldown.html",
-      "published": "2026-07-27T08:01:23+00:00",
-      "summary": "GitHub has announced a new cooldown mechanism in Dependabot, allowing the tool to wait at least three days after a release is published before opening a pull request.\n\n\"The cooldown configuration option in the dependabot.yml still controls the behavior, though, so you can choose a different cooldown parameter that fits your project,\" the Microsoft-owned subsidiary said.\n\nAccording to GitHub, the",
-      "source": "The Hacker News",
+      "id": "8e5deb56c12de2e8ca3ba58e11b4026675be6317",
+      "title": "The Morning After We Pull a Root of Trust, Nobody Owns It",
+      "url": "https://www.darkreading.com/cyber-risk/morning-after-we-pull-root-of-trust-nobody-owns-it",
+      "published": "2026-07-31T14:00:00+00:00",
+      "summary": "The most valuable move any security team can make is building a certificate and key inventory.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFpE4BZgV3wILI8fonm9742zR85yLmBdM2ExXv-uTUS1StV04ZlNVVIwV6FjjhYLZUAFk-DAIInwp3mlXa2W2xekDA_EqSl1UiHrKCgocsjhVAKlvCD48QnlVdUdCIQia7T4ilS65ZFptdi_wox0Q9brVTdpoqDNTvpCjg0D6BslyCAPRzY7QMyUoYNkv-/s1600/gitbot.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0708e08cf8273efe/6a6b94fd5c63704e75106890/trust-puzzle-yusnizam-getty-1409309926.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "id": "e4420d62b7ee27c99bc30fd23618504702de94c1",
-      "title": "Malvertising Sends Malware in Pieces, Then Makes the Browser Build the Executable",
-      "url": "https://thehackernews.com/2026/07/malvertising-sends-malware-in-pieces.html",
-      "published": "2026-07-25T18:48:44+00:00",
-      "summary": "A malvertising operation dubbed SourTrade is making victims' browsers build the final Windows executable themselves, using a legitimate Bun runtime as its base instead of serving one complete malicious file from a fixed URL.\n\nConfiant, which detailed the campaign on July 23, 2026, said it has operated since late 2024 and impersonated TradingView, Solana, and Luno to target retail traders and",
-      "source": "The Hacker News",
+      "id": "e102c017935729aca4612e35d7d4c344a5c4ce86",
+      "title": "Interpol Leverages Global System to Curtail Fraud Payments",
+      "url": "https://www.darkreading.com/cybersecurity-operations/interpol-leverages-global-system-curtail-fraud-payments",
+      "published": "2026-07-31T13:30:00+00:00",
+      "summary": "When a fraudulent transaction occurs, law enforcement agencies must work quickly to halt payments before cybercriminals cash out.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7ke_659Oiks4UyEwQJsTV2c-8DaJnDPNG3RKPsk3s_CLYO5y_vD-SdtGebpYlDbDkXFt2iW4qgZHhM4Tfp2FV5RJSc3f85Ap4KQP-RI1BM8MCPbYhgSD5uusxi09thhL4avaYfCPkj5H_9t0-unj84RktTVGUwV9FF0bdZjuRQley0rZrFDLLE4JXIJk/s1600/browser-malware.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt264b54ff513eeccd/6a6bbc45cc81404df41d20a4/accountant-with-handcuffs-megaflopp-shutterstock.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "id": "41ac194d5fcc7887a6ab41e682472cf07e769f30",
-      "title": "Fastjson 1.x RCE Vulnerability Targeted in Attacks With No Patched Available",
-      "url": "https://thehackernews.com/2026/07/fastjson-1x-rce-vulnerability-targeted.html",
-      "published": "2026-07-25T12:52:43+00:00",
-      "summary": "Security firms ThreatBook and Imperva say attackers are targeting a critical flaw in Fastjson, Alibaba's JSON library for Java. In affected Spring Boot applications, a malicious JSON request can execute code without authentication, with the privileges of the Java process.\n\nTracked as CVE-2026-16723, the vulnerability carries an Alibaba-assigned CVSS score of 9.0. The confirmed chain requires",
-      "source": "The Hacker News",
+      "id": "9d5306398d16f3f33c4708911a39f65325772de6",
+      "title": "DROP Platform Lets Californians Reduce Digital Footprint",
+      "url": "https://www.darkreading.com/data-privacy/drop-platform-lets-californians-ditch-their-data",
+      "published": "2026-07-31T13:19:36+00:00",
+      "summary": "Hundreds of thousands of California residents have already registered for the Delete Request and Opt-out Platform (DROP), which launches Aug. 1. Other states could follow if the process goes smoothly.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVdPXrvOB3xbf282jC7eawBsl-YwExczqZ471NiKOResjulD8TvOSelU5VGbgoHqVhNLaigBkE2N50AFtSqbOoXUQTtxgIHO05jYpTn5VyG4BPhlr1CbscCn4g8S3I4jdZ1_p67zSM91K25xq1X4-btuY3tFgVseyO-aLWlsdvZaNkwAhyphenhyphenafk4DH2l6Fs/s1600/fastjson.gif"
-    },
-    {
-      "id": "ecd8e77873a62836b4e4668ed81c2d60f8d5d4cd",
-      "title": "Researcher Publishes GitLab RCE PoC Letting Authenticated Users Run Commands as Git",
-      "url": "https://thehackernews.com/2026/07/researcher-publishes-gitlab-rce-poc.html",
-      "published": "2026-07-25T10:14:26+00:00",
-      "summary": "Security researchers at&nbsp;depthfirst published working exploit code on July 24 for a GitLab flaw that GitLab patched six weeks earlier, on June 10. It runs commands as git on any self-managed 18.11.3 server that has not taken the update.\n\nAny authenticated user who can push to a project can run it. The attacker commits a crafted Jupyter notebook and opens its commit diff, which leaks a heap",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRIN1sheAdScq7AX9pLc07esRzQ18-0vBJ7hz9DlVhggVAImXrhYM_zxN0N6hJ2inDkBCnzRCXHR3Kv3I0QwyiVWkAMu7p949JSjgK611r48deMbrSN8iDD78aJdfxEeO_Jy6JFwOfPL_8M0RKEBl1RFO7ufvop1XG9-tdms7VRyvONXoteuCYp9Rg-FM/s1600/gitlab.gif"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltce1c962346b69c12/6a6ca456f4f70a9041eb0d90/GettyImages-2208944455.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "id": "2866d27e28a78bae15e532f2285fdb024b2b6144",
@@ -692,7 +736,7 @@
       "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt33ea1925a9f97ba7/6a18a8b047696a7d03d6ca07/rube-goldberg-machine-complexity-T_N_Sursock-shutterstock.jpg?width=720&quality=80&disable=upscale"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt311d5c84dfdc72ee/6a6ce6ee9adea769056c3ca3/horse-Mark_Spowart-GettyImages-1475114414.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "id": "dd9cf75371070352cba6043e4f862be36aef36c9",
@@ -1168,48 +1212,37 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt825053c5705a6278/6a5a7debb02e503616cf34f1/tired-business-man-stress-Volodymyr_TVERDOKHLIB-shutterstock.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "id": "a9b94e56a5d441bdd77e79c597ab9c2498bb501f",
-      "title": "Attackers Combo Up Evasion Tactics for BEC Phishing",
-      "url": "https://www.darkreading.com/endpoint-security/attackers-combo-evasion-tactics-bec-phishing",
-      "published": "2026-07-20T18:30:22+00:00",
-      "summary": "&quot;The TFF Trap&quot; uses fileless techniques and loaders with low detection rates to deploy various RATs and stealers, including Agent Tesla, Remcos, XWorm, and Best Private Logger.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2bb343e182f4af3e/6a5e0b48c714ec6091e7ebc7/Phishing_ronstik_Alamy.jpg?width=720&quality=80&disable=upscale"
+      "id": "c294e23dce383691c9909576765b6721c0dedfb8",
+      "title": "The most famous brand in physical security got pwned by ShinyHunters",
+      "url": "https://www.theregister.com/security/2026/07/31/the-most-famous-brand-in-physical-security-got-pwned-by-shinyhunters/5281924",
+      "published": "2026-07-31T16:27:27+00:00",
+      "summary": "Hopefully the company secures houses better than it locks down SaaS systems",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=5241973&width=800"
     },
     {
-      "id": "c80e77461aaaea3ab837ba24364e59f14794d7a8",
-      "title": "Cybersecurity Keeps Events 'Uneventful'",
-      "url": "https://www.darkreading.com/cyber-risk/cybersecurity-keeps-events-uneventful",
-      "published": "2026-07-20T14:00:00+00:00",
-      "summary": "From the World Cup to the United States' 250th celebration, this year's event calendar has been packed with high-profile gatherings that drew global audiences, intense scrutiny, and enormous security demands.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9ca17cbbd6fe254a/6a5a72ee004f2c1000c2b123/crowd-Oleh_Slobodeniuk-getty-1447355262.jpg?width=720&quality=80&disable=upscale"
+      "id": "9663cee845cf4d237aa73b7c2a226b643e45bf08",
+      "title": "Anthropic and OpenAI are competing to see whose agents can go rogue harder",
+      "url": "https://www.theregister.com/security/2026/07/31/anthropic-and-openai-are-competing-to-see-whose-agents-can-go-rogue-harder/5281797",
+      "published": "2026-07-31T15:04:04+00:00",
+      "summary": "Whoever wins, we lose",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=5248788&width=800"
     },
     {
-      "id": "1d0e2ca5c9977a84581afb71c7158b79e6a81054",
-      "title": "Inc Ransomware Exploits SonicWall SMA Zero-Days",
-      "url": "https://www.darkreading.com/vulnerabilities-threats/inc-ransomware-exploits-sonicwall-sma-zero-days",
-      "published": "2026-07-17T20:01:13+00:00",
-      "summary": "When chained together, the two vulnerabilities allow threat actors to gain root-level capabilities on SonicWall's mobile access appliances.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blteaaf936e441aafd2/6a5a7c032292771ec0f65c59/Wall-PM_Images-Getty.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "id": "f062c8e4d71b2da0d769e47d5e98240debb47cc3",
-      "title": "The Real AI Threat Is Blind Trust",
-      "url": "https://www.darkreading.com/application-security/real-ai-threat-blind-trust",
-      "published": "2026-07-17T16:43:13+00:00",
-      "summary": "AI models left to both interpret and execute commands eliminate critical cybersecurity oversight.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt34579512de050396/6a5a6336b09056633bee9fe7/trust_dial-NicoElNino-getty-2079838824.jpg?width=720&quality=80&disable=upscale"
+      "id": "afec32753c5cf2e9e17bf89b45cb99198dbc653e",
+      "title": "Charities remain locked out of CAF Bank online accounts",
+      "url": "https://www.theregister.com/security/2026/07/31/charities-remain-locked-out-of-caf-bank-online-accounts/5281711",
+      "published": "2026-07-31T13:55:00+00:00",
+      "summary": "A week into shutdown, 14,000 customers still have no restoration date and some are struggling to pay staff",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=5241871&width=800"
     },
     {
       "id": "b87b481a4acb8b3a65c955d9bcec7aa276165022",
@@ -1729,37 +1762,26 @@
       "image": "https://image.theregister.com/?imageId=258894&width=800"
     },
     {
-      "id": "c364a3ff47ec19123902ef1f039e0bc5b497b413",
-      "title": "Malicious cloud customers can bring down the power grid",
-      "url": "https://www.theregister.com/ai-and-ml/2026/07/20/malicious-cloud-customers-can-bring-down-the-power-grid/5275193",
-      "published": "2026-07-20T19:15:59+00:00",
-      "summary": "Datacenters tax utilities normally, so just imagine what they could do if workloads were designed to destroy",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=5275246&width=800"
+      "id": "ddfbc3229b935add8e7571f3de2d98334976a1eb",
+      "title": "In Other News: OpenAI Open Source Tool, AWS Links Hacks to North Korea, Mythos Crypto Research",
+      "url": "https://www.securityweek.com/in-other-news-openai-open-source-tool-aws-links-hacks-to-north-korea-mythos-crypto-research/",
+      "published": "2026-07-31T15:47:02+00:00",
+      "summary": "<p>Noteworthy stories that might have slipped under the radar: parcel delivery company OnTrac hacked, Adobe patches, UK Department for Education loses 607,000 records.</p>\n<p>The post <a href=\"https://www.securityweek.com/in-other-news-openai-open-source-tool-aws-links-hacks-to-north-korea-mythos-crypto-research/\">In Other News: OpenAI Open Source Tool, AWS Links Hacks to North Korea, Mythos Crypto Research</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "dfdbc6c1552f22b373fa90953efded46d3a65981",
-      "title": "Frontier LLMs couldn't help Hugging Face fight off evil agents",
-      "url": "https://www.theregister.com/cyber-crime/2026/07/20/frontier-llms-couldnt-help-hugging-face-fight-off-evil-agents/5275168",
-      "published": "2026-07-20T18:46:47+00:00",
-      "summary": "Chinese open-weight model GLM 5.2 happily obliged",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=251593&width=800"
-    },
-    {
-      "id": "e1552c4b20daecbd0518fbc746804a378f87aa10",
-      "title": "Microsoft 365 calendars become spy drop boxes in HOLLOWGRAPH campaign",
-      "url": "https://www.theregister.com/security/2026/07/20/microsoft-365-calendars-become-spy-drop-boxes-in-hollowgraph-campaign/5274982",
-      "published": "2026-07-20T14:59:00+00:00",
-      "summary": "Malware hides commands in appointments set for 2050 and uses Redmond's own cloud to phone home",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=5242858&width=800"
+      "id": "f8d403c850df2483733c692b6f4315f0f49687af",
+      "title": "Cyberattacks on Minnesota Water Systems Investigated as Officials Warn About Iranian Hackers",
+      "url": "https://www.securityweek.com/cyberattacks-on-minnesota-water-systems-investigated-as-officials-warn-about-iranian-hackers/",
+      "published": "2026-07-31T15:17:41+00:00",
+      "summary": "<p>Iran has the \u201cgeopolitical motivations\u201d and a recent history of targeting water systems, experts pointed out.</p>\n<p>The post <a href=\"https://www.securityweek.com/cyberattacks-on-minnesota-water-systems-investigated-as-officials-warn-about-iranian-hackers/\">Cyberattacks on Minnesota Water Systems Investigated as Officials Warn About Iranian Hackers</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
       "id": "0c1f8895d77e1319b081529947df7332b094c16e",
@@ -1796,10 +1818,10 @@
     },
     {
       "id": "651b1c0bf485de668b7b7efd75350badec2a6702",
-      "title": "Critical Flaw Led to Azure Cosmos DB Pwnage",
+      "title": "Critical Flaw Allowed to Azure Cosmos DB Pwnage",
       "url": "https://www.securityweek.com/critical-flaw-led-to-azure-cosmos-db-pwnage/",
       "published": "2026-07-31T09:04:02+00:00",
-      "summary": "<p>Named CosmosEscape, the vulnerability exposed the primary key for Cosmos DB accounts, granting full read and write access.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-flaw-led-to-azure-cosmos-db-pwnage/\">Critical Flaw Led to Azure Cosmos DB Pwnage</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "summary": "<p>Named CosmosEscape, the vulnerability exposed the primary key for Cosmos DB accounts, granting full read and write access.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-flaw-led-to-azure-cosmos-db-pwnage/\">Critical Flaw Allowed to Azure Cosmos DB Pwnage</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
@@ -1844,28 +1866,6 @@
       "url": "https://www.securityweek.com/bank-of-america-to-acquire-cybersecurity-firm-mdsec/",
       "published": "2026-07-30T21:02:21+00:00",
       "summary": "<p>The acquisition will add approximately 65 cybersecurity professionals to Bank of America\u2019s operations in the United Kingdom.</p>\n<p>The post <a href=\"https://www.securityweek.com/bank-of-america-to-acquire-cybersecurity-firm-mdsec/\">Bank of America to Acquire Cybersecurity Firm MDSec</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "8a9a0c1fdad656759677113a55a2e0ab12e194bd",
-      "title": "Okta to Acquire Identity Threat Detection Firm Permiso",
-      "url": "https://www.securityweek.com/okta-to-acquire-identity-threat-detection-firm-permiso/",
-      "published": "2026-07-30T19:10:26+00:00",
-      "summary": "<p>The deal extends Okta's reach beyond identity management and into the realm of security operations, positioning the company to compete more directly on identity threat detection and response.</p>\n<p>The post <a href=\"https://www.securityweek.com/okta-to-acquire-identity-threat-detection-firm-permiso/\">Okta to Acquire Identity Threat Detection Firm Permiso</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "5679113d3a1d83175283bb1601cb85e67cb71259",
-      "title": "Timeless Compliance: Why Better Questions Beat Bigger Frameworks",
-      "url": "https://www.securityweek.com/timeless-compliance-why-better-questions-beat-bigger-frameworks/",
-      "published": "2026-07-30T15:46:17+00:00",
-      "summary": "<p>The best compliance programs aren't the biggest ones. They're the ones built on a short list of questions that can actually be answered, and that still hold true when the models change.</p>\n<p>The post <a href=\"https://www.securityweek.com/timeless-compliance-why-better-questions-beat-bigger-frameworks/\">Timeless Compliance: Why Better Questions Beat Bigger Frameworks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
