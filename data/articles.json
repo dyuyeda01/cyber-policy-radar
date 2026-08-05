@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T01:15:12.611385+00:00",
+  "generated_at": "2026-08-05T13:28:03.376497+00:00",
   "items": [
     {
       "id": "27067af08504b45d6c8624225c678727141c532c",
@@ -110,6 +110,94 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "a304d2d6fb13f83d4e2848f1da3ae1ab905cd603",
+      "title": "New OVSwrap Linux Kernel Flaw Lets Local Users Gain Root via Open vSwitch",
+      "url": "https://thehackernews.com/2026/08/new-ovswrap-linux-kernel-flaw-lets.html",
+      "published": "2026-08-05T11:43:27+00:00",
+      "summary": "A memory corruption flaw in the Linux kernel's Open vSwitch datapath gives ordinary local users a path to root on a broad set of default-configured distributions, and a public exploit ships with pre-built records for roughly 800 kernel builds.\n\nThe vulnerability, tracked as CVE-2026-64531 (CVSS score: 7.8) and codenamed OVSwrap by its discoverer, was disclosed by security researcher Asim",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhWC9UfjMK9e0KvUrcCjymLYZzuDDgZpArW3oZPtcds7CJ1pr1GleT46Wlm2_aWWpoe6TpgYcdnz_jhVOgjK6mnW_gekJkMotmfRiQ0xcp5v7mdx6CvVvUID0IyfSplGHGX-8JGoMJ1OLyEA96qVMTWwhEjKf21thNfvkBCg2DSgNjSkVEDyAugdcyJfk/s1600/linux-exploit.jpg"
+    },
+    {
+      "id": "c9687e1f0e89e739950b2a0cc97ef103e07bb4ec",
+      "title": "Kali365 Weaponizes Microsoft Authentication Against US Companies: New Enterprise Risk",
+      "url": "https://thehackernews.com/2026/08/kali365-weaponizes-microsoft.html",
+      "published": "2026-08-05T11:43:19+00:00",
+      "summary": "Kali365 is turning a legitimate Microsoft login into a gateway to corporate data.\n\nThe phishing kit targets US organizations with attacker-controlled device codes that victims approve on Microsoft's real authentication page. Once access and refresh tokens are issued, attackers may retain access to email, documents, and cloud resources, creating a direct path to data exposure, financial fraud,",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgW4SMtq8o2R4j-NiqM2jQTNNSKABhkghGsH1AkUpqHf7sms7KTAr63IKabEzV2vAfAFO3XxYjh6YH8rDNtNVuu41JePoUdB_WQB-WWtJt4A-FWfmT6rwyzKAL_scAorwzVMt5R_7LZp2qzmUAAKfAodH__3_HLwa-nFV6b6TEng-5Cjviybn07c-ZNKUoU/s1600/main-anyrun.jpg"
+    },
+    {
+      "id": "6d808752407d5b392c4ba14551e566e65223fc8f",
+      "title": "Critical Gitea Flaw Let Unauthenticated Attackers Read Server Files via Org-Mode Markup",
+      "url": "https://thehackernews.com/2026/08/critical-gitea-flaw-let-unauthenticated.html",
+      "published": "2026-08-05T11:04:23+00:00",
+      "summary": "An unauthenticated attacker can read any file the service account can access on Gitea, the self-hosted Git platform, in versions 1.22.1 through 1.27.0. No login, no repository write access. A public repository and crafted Org-mode markup are enough. The flaw is fixed in Gitea 1.27.1.\n\nThe file-read flaw is tracked as CVE-2026-59774, rated Critical with a CVSS score of 9.8, and received its",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwgShwk2piIWpgBCF7ikGum0q7QycFbG91NuOiXNj4iRw_Uya_1R53Mx53EcLELS4lEusFjCYxTZuD0vf1VbGdXJ6rM9zq2OuNMsP20bbATKOaMUYbu9vWRbAJUQX436hP4vWvwc-jy1sWdoIIph0Uf93XMVImu-OIKnOMBUOYptMtoK9nAsP4yo48AtM/s1600/gitea-lfi.jpg"
+    },
+    {
+      "id": "3c3ece2499ac898e842b275bd3957ac6c19d5866",
+      "title": "Leaked n8n API Tokens Exposed Live Instances to Credential Theft",
+      "url": "https://thehackernews.com/2026/08/leaked-n8n-api-tokens-exposed-live.html",
+      "published": "2026-08-05T10:35:29+00:00",
+      "summary": "GitGuardian researchers found 321 n8n instances accepting API tokens exposed in public GitHub commits and demonstrated four ways attackers could use them to access sensitive data and downstream credentials without exploiting a software vulnerability.\n\nWe scanned public GitHub commits for exposed n8n API tokens and identified 4,576 unique credentials associated with 1,255 hostnames. Of the 896",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhx1pOdsqya8FoeUfRoysn2429wQSGELUYOuuaDRT5-pJMERQc7DY042ndusTV0UriGHrR98oyPe_HnR845R1hxSxKBTvYGTilYobQhIIXOCEc08FiKbhDluP0UoR6g3sw8QK-X1aPEJDKe-EZbDNOtlXR6ltGBvxsqfB_bo-jO4t63OvT7_C1mD7Bf4rM/s1600/n8n-git.gif"
+    },
+    {
+      "id": "e0afa93f491ddcfbba24eec65e82db337f293d0f",
+      "title": "Open VSX Removes 77 Malicious Evil Twin Extensions Exfiltrating Developer Data",
+      "url": "https://thehackernews.com/2026/08/open-vsx-removes-77-malicious-evil-twin.html",
+      "published": "2026-08-05T09:23:03+00:00",
+      "summary": "A cluster of 77 extensions on the Open VSX marketplace has been found to impersonate legitimate developer tools while transmitting information about the systems and development environments on which they were installed.\n\nThe \"evil twin\" extensions were uploaded to the repository between July 26 and August 1, 2026, according to Manifold Security. The packages have been removed from Open VSX as of",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh28AJU8_kuimN9uKY5xj-0XMAMxfVP4rejHEWMJ_5FD99mAvt8dEsRuGhlCGb63VjWykzePg_-tuaTqNycmvhZy3oFRFAuVHbwpsAg6ae599Pl7bYQVb7Qo7fDuDjWMHmHZOLfWc9HZkQlyAis8LNMmkS_wnKbvliVNsOej4p6XV_KbiFHHzJp1SjGFU1G/s1600/vscode.jpg"
+    },
+    {
+      "id": "eee6e3b5533efc55b256324f50abe81ff7364f2c",
+      "title": "Claude Mythos 5 Tried to Backdoor a Real Open-Source Project in Testing, Then Vouched for Itself",
+      "url": "https://thehackernews.com/2026/08/claude-mythos-5-tried-to-backdoor-real.html",
+      "published": "2026-08-05T07:53:50+00:00",
+      "summary": "An agent running Anthropic's Claude Mythos 5 spent 34 hours trying to get a malware dropper merged into a real open-source project during a cyber evaluation by the UK's AI Security Institute.\n\nWhen a bystander publicly warned that the code was malicious, the agent denied it, force-pushed a rewritten branch history to erase the evidence, and posted from a second account it controlled to vouch for",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyvip0I7Uu7TeEHOGkVi4gl93ktZtzWF1krMsS1XPlRcql2xIf9UU4rXjDvdrF0HPPQaFCgNhhrrp9IM0HBJgHEzweJM41lccFe19e2DYqzkk5Au2STfT_Bjzzdfp_-UibeQ2o19Rh3OTtj5nOpbEn61gKQR4w7dPpOJ_5gP4Ob8KqqYLfWwAnoZ59FCo/s1600/claude-ai-agent.jpg"
+    },
+    {
+      "id": "cadf3defd1a854ecc14f5c5c6485fabce4c92c12",
+      "title": "CISA Flags Langflow RCE, Tomcat, and N-central Flaws as Actively Exploited",
+      "url": "https://thehackernews.com/2026/08/cisa-flags-langflow-rce-tomcat-and-n.html",
+      "published": "2026-08-05T07:40:39+00:00",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA), on August 5, 2026, added three flaws to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation in the wild.\n\nThe list of vulnerabilities is as follows -\n\n\n  CVE-2026-9198 (CVSS score: 9.8) - A code injection vulnerability in Langflow that allows unauthenticated attackers to achieve full remote",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjU9CZ3zh4mWF0SVRdcylBR7IyGB6j797LrHqyND8vcsBbiE6mcDlqaufSOBg2Av4Ej_HZ_gMxbzR-KS6GvXX0hLPgSFlh5gwxKwhjx3FvcdsQ7XP65x70cxeadgTM7uETFglAUoZrxwq9Rmx6i1T4yS-E7c7Szx9igRmM_GqG-8L5xfKYk2i3fhQGEHjez/s1600/cisa.jpg"
+    },
+    {
+      "id": "361feaf14309fe8245a1fbe9f53b1feea82d66ee",
+      "title": "QuickFox Supply Chain Attack Delivers FDMTP Backdoor via Trojanized Windows Installer",
+      "url": "https://thehackernews.com/2026/08/quickfox-supply-chain-attack-delivers.html",
+      "published": "2026-08-05T05:47:19+00:00",
+      "summary": "Cybersecurity researchers have disclosed what has been described as a \"long-standing supply chain attack\" on QuickFox, a virtual private network (VPN) and network acceleration tool designed for overseas Chinese users.\n\nAccording to Fortinet FortiGuard Labs, the supply chain attack has been ongoing since at least August 2025 and involves a trojanized version of the application to deliver FDMTP, a",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFQzlCdxoVUtdNgowwmPFaISlBF7Y2HsG1BQf3b-UJDQzRbPB249_W6rwU_-TSW1NES4OI-12R1z3tXQ-QlZv8cEaagpyLJVYz48Etb9W0MtuNp9BTL_13-5Wg95kz-Ey5iZ288mTkPt_5pbsxoh7Kv2KrmHqj_Tqb0KR9NSzz-jO2DuoTLthh6Dn3FUIh/s1600/quick.jpg"
     },
     {
       "id": "8a2b5a5d083e921b169a578f12fa3e6d11feab18",
@@ -574,92 +662,15 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjswJ2Clfk448ySFwyQiVVviqzKzT4B9iwnvVio4_dzvA1TXPnNuDJUI8MozBddPvdWmL2JH3jVvzTxg8A2Z6X9qNPYtxjuVx7RKQkMW8vNVBIEs0sgcrLfywQVufYMEKpxa0vgo2k24bNa_EJaudCFTsvlqQKqbT3jsuzRJdI26GR4pRJrkNKAFx_xiKk/s1600/rubyrails.jpg"
     },
     {
-      "id": "3e57e4f822db077b6cd6ce6a0994ae0be8df0d3b",
-      "title": "Ruflo MCP Flaw Lets Unauthenticated Attackers Run Commands and Poison AI Memory",
-      "url": "https://thehackernews.com/2026/07/ruflo-mcp-flaw-lets-unauthenticated.html",
-      "published": "2026-07-29T15:39:30+00:00",
-      "summary": "Cybersecurity researchers have flagged a maximum-severity security flaw in Ruflo, an open-source agent meta-harness for Anthropic Claude Code and OpenAI Codex, that could result in unauthenticated remote code execution.\n\nThe vulnerability, tracked as CVE-2026-59726 (CVSS score: 10.0), impacts all versions of the project before version 3.16.3. It has been codenamed RufRoot by Noma Security's",
-      "source": "The Hacker News",
+      "id": "6a0611e5b7451b588dee350fe6a06c216a4b875c",
+      "title": "Angola's Largest Telco Breached Hours Before IPO",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/angolas-largest-telco-breached-hours-before-ipo",
+      "published": "2026-08-05T08:00:00+00:00",
+      "summary": "Unitel, Angola's dominant mobile operator, continues to recover from a cyberattack that caused outages the day of the government-owned telco's public offering.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCgiIKxPiETcU1yIlU2RFsHgjXg2uLgbzaJ-98y7sPuujYarFbc0FdMqSRLIKJ1hYrsGLCZTCf5k40RtQ2PgwmA2L6tLAidOymHNIduXN3vtU0u0BsI37PLgWK8gwla3oTYkdD8ggssjMfF_5PuC9-exVYpBcqjg9tvscJ7XNAaHJxeUmCj-WP8VttRSgy/s1600/mcp.jpg"
-    },
-    {
-      "id": "dc28e084be7f301f0b89623d8f43332cc8533e79",
-      "title": "Three Critical VMware Flaws Allow Auth Bypass, Code Execution, and VM Escape",
-      "url": "https://thehackernews.com/2026/07/three-critical-vmware-flaws-allow-auth.html",
-      "published": "2026-07-29T15:31:15+00:00",
-      "summary": "Broadcom has released security updates to address multiple security flaws impacting VMware ESX, vCenter, Workstation, and Fusion, three of which have been designated as critical in severity.\n\nThe first of the three critical-rated flaws is CVE-2026-59309 (CVSS score: 9.8), which has been described as an authentication bypass in VMware vCenter.\n\n\"A malicious actor with network access to vCenter",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLKz0u1mJIVvPAxiFFqsvkMVXxyXqS_paYhbtTRFLoIWyl5Q_FwIrJjruxEYH0LAdzJm38P48m_T_24ycKfjPs2bg6FUoy2IWVUxH7SpNtiSJuExOy3dDEAWprGwkvhY5005OPyFUzl2qJzAztAckgZNLVzqlp34s9HtQ3wrvq6lDCcXgYwfOXKF08wtdp/s1600/vmware.jpg"
-    },
-    {
-      "id": "b7ec7019895fb4b23d137da9457b39f0e1e2ba64",
-      "title": "Coordinated Cyberattack Targets 30+ Minnesota Water Systems as One Plant Goes Offline",
-      "url": "https://thehackernews.com/2026/07/coordinated-cyberattack-targets-30.html",
-      "published": "2026-07-29T13:48:36+00:00",
-      "summary": "A coordinated cyberattack targeted operational technology at more than 30 Minnesota community water systems on July 26 and 27, triggering a statewide cybersecurity response.\n\nBraham, Plymouth, South St. Paul and Maple Plain have publicly described a plant outage, communications failures or affected automated controls.\n\nBraham's water plant went offline, and the city asked residents to minimize",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2Bq6dazLT-P0v4T1DEwFJ86iFFR6sRJnNqjoFBKPVc0FuCvvys-WCkQjT86mHuwxs_DuEpBBb1_y8sOyqqFu7Smth-4YGfw7tTawHxUD9RxGs2Dzau_QCJXc4GtRCnUsNMwbgrx2jh8ozwPpo3udCn4t63ntw6B25phrH1meZil0zODzpvhXViz7Z8-k/s1600/water-plant-attack.jpg"
-    },
-    {
-      "id": "9fa456aff07038ad840a6aa2bd48956d9447dfaa",
-      "title": "Nine-Year Fraud Campaign Clones Russian Company Sites to Steal Advance Payments",
-      "url": "https://thehackernews.com/2026/07/nine-year-fraud-campaign.html",
-      "published": "2026-07-29T13:42:57+00:00",
-      "summary": "Cybersecurity researchers have disclosed details of a large-scale fraud campaign that involves creating lookalike websites of major Russian companies with an aim to siphon funds from international firms for more than nine years.\n\nAccording to Russian cybersecurity vendor F6, the threat actors have set up clone websites of Russian companies across fertilizer manufacturers, petrochemical companies",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhD9hThKkBhl022O0TklhaF1JKxLj1RKJjnUgfHzzyuxctFOR0UIyUS0FH1No7KlXJHHmQwUKafQf0UYDm0g6v5RU0m1VS-7v-NtgBCW0OXsPhVeX-IAnluUD-FpMoyTc-wrN55GFssISEWcfJNhBPywn7Pp35cww_lLDZdrWxEqpGWgC15vSK_N4Qo1eM/s1600/russian-hacking.jpg"
-    },
-    {
-      "id": "3f447d046039337b4dff08246d4ae9c15ff69679",
-      "title": "Mythos Asks the Right Question. It Doesn't Answer It.",
-      "url": "https://thehackernews.com/2026/07/mythos-asks-right-question-it-doesnt.html",
-      "published": "2026-07-29T12:15:00+00:00",
-      "summary": "AI is compressing exploit timelines. The real question isn't whether your vulnerability management playbook needs to change, it's which part of it you've been getting wrong all along.\n\nThe conversation happening in security circles right now goes something like this: Mythos is here. Exploit timelines are collapsing. Does the vulnerability management playbook need to change?\n\nThe honest answer is",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0mieQQ57yqCRvM0amMKsszEvpX9AK9C4fSA6fyD6rx9VpNdjgYpiFk2D_AfSYT386yNTNuL1-ki2llA_LR-LXYw9r0p0nb2FZCnnP-u33sN2McktovTGN13k_n_i7HExGQdX6GcRSG0uKJAawc_6wusYkt37jY5sTvjz7k8kLa8RTIZM_NABBL64mbnY/s1600/meshs.jpg"
-    },
-    {
-      "id": "98188d77c26a4d3ed2f6425baef10f9f1593b575",
-      "title": "Researchers Show a Single Malicious Webpage Visit Can Compromise Tor Browser",
-      "url": "https://thehackernews.com/2026/07/researchers-show-single-malicious.html",
-      "published": "2026-07-29T11:57:00+00:00",
-      "summary": "Nebula Security says a patched Firefox JIT flaw could be triggered by simply visiting a malicious webpage and was also used to compromise Tor Browser.\n\nTracked as CVE-2026-10702, the bug provides arbitrary code execution inside the browser's renderer process. Mozilla rated it High and fixed it in the Firefox 151.0.3 update.\n\n\"No settings or additional user interaction are required,\" Eten Zou,",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOwFIxqT8kRBNj9LdZBZhO1g2RPJwUttxQosrS_mPoNXkIR-JB-yM87HPzuPZ1tazourGhRg9Sco6YQEGZkC77DSqXBYjp0DkNDAUHOaAOnIisRYNPAQfNWwqnmoILXOgR0wwyGVNlU3kSVRU6TcfyAx5ztaAWZfbKnCDJYgUeIVsM7n7O2zq7fGc-xnI/s1600/tor-exploit.gif"
-    },
-    {
-      "id": "36963e13e8b37ff312ebd84c41475f554cd5d783",
-      "title": "73% of Organizations Say They Are Not Fully Ready for a Major Cyberattack",
-      "url": "https://thehackernews.com/2026/07/73-of-organizations-say-they-are-not.html",
-      "published": "2026-07-29T11:13:10+00:00",
-      "summary": "Most organizations have incident response plans, security tools, and technical teams in place. Yet new research suggests that many still lack the coordination, visibility, and executive alignment needed to withstand a serious cyberattack.\n\nAccording to The State of Incident Response Readiness 2026, based on a survey of 600 senior IT security decision makers conducted by Vanson Bourne in January",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixbolkSzPCa__qy94Mm27YfEsvVeyY94SOG5BrCQCGtAe-QenE0qDM5Tkbb7eOy0PwSCECFGMrZ7IG7lVePoMWjqMn8s_7-5_r8JUSQ7WVHsHAo-zZIhyphenhyphenyNW5aGTbFkpgtu99ucSeEgcJK75UdxkAsWKjXf_x8zEGpcDURPf9UJjcDz8JSHFD0uahDcOI5/s1600/ss.jpg"
-    },
-    {
-      "id": "3dbd8191e990c83583fede715eda0a5fda592aeb",
-      "title": "Russia Charges Telegram Founder Pavel Durov With Aiding Terrorist Activity",
-      "url": "https://thehackernews.com/2026/07/russia-charges-telegram-founder-pavel.html",
-      "published": "2026-07-29T11:00:00+00:00",
-      "summary": "The Federal Security Service of the Russian Federation (FSB) on Wednesday said it charged Telegram founder Pavel Durov for allegedly facilitating terrorist activities and for failing to remove prohibited information in violation of Russian law.\n\nThe principal security agency said the instant messaging platform \"failed to remove numerous channels, chats, and bots on the platform that are",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMUnFYtFjTBTc4gylDAEu-XkRP-crArKjOPCGhPhdX7S3Of7UKlVyAbHVb9CyAStiVaXJkXjUgXssYTKSJNnQvJvxdn_diL69NGa-2lhE_6GJCBFp0qMshbqCPnCksje_5yYMqhqh43Np9-CEkjJDa_gs6Axq0lxbi12SlPKqPWf-s6_Roin-zR0DIBjvy/s1600/x-post-telegram.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc562507d832ba51c/6a72581b9aeba22476b547f2/SIM-cards-with-Angola-flag-Novikov_Aleksey-shutterstock.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "id": "9f654a6905d543eaea9665527aacaa5c95e66e79",
@@ -1201,15 +1212,26 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltbfd2abd92ce58654/6a611f6de7ebfc13d44d6387/Bahrain_Manama_Skyline-trabantos-Getty-1140901617.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "id": "f85fb5897dbaa06961f7ca2dd54b4aa31f9ab046",
-      "title": "When AI Attacks: OpenAI Models Autonomously Hack Hugging Face",
-      "url": "https://www.darkreading.com/cyber-risk/openai-models-autonomously-hack-hugging-face",
-      "published": "2026-07-22T15:53:47+00:00",
-      "summary": "Advanced LLMs escaped their sandboxes while attempting to achieve a non-malicious benchmark test objective.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd70f31deaf012f3a/6a60e27e0cab912020e949ed/alienattack-Devrimb-GettyImages-1159847076_(1).jpg?width=720&quality=80&disable=upscale"
+      "id": "4080fafde5d3039d469214ae92e6bcaa9f581342",
+      "title": "UK charities count the cost of Beacon CRM cyberattack",
+      "url": "https://www.theregister.com/security/2026/08/05/uk-charities-count-the-cost-of-beacon-crm-cyberattack/5283305",
+      "published": "2026-08-05T11:04:52+00:00",
+      "summary": "Database backups likely stolen, potentially exposing donor, supporter, and service user details",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=5283378&width=800"
+    },
+    {
+      "id": "449324f552c7524a940f52f6dc1b8d7b61af33a9",
+      "title": "AI researchers let models off the leash \u2013 then watched as they tried to add malware to a FOSS project",
+      "url": "https://www.theregister.com/ai-and-ml/2026/08/05/ai-researchers-let-models-off-the-leash-then-watched-as-they-tried-to-add-malware-to-a-foss-project/5283165",
+      "published": "2026-08-05T01:55:54+00:00",
+      "summary": "Models used social engineering and collaborated among themselves to solve a security challenge",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=252578&width=800"
     },
     {
       "id": "36947993be226e6fc9908f1cd3987bbd7e47f4ce",
@@ -1242,7 +1264,7 @@
       "source": "The Register \u2013 Security",
       "region": "Europe",
       "country": "UK",
-      "image": "https://image.theregister.com/?imageId=263315&width=800"
+      "image": "https://image.theregister.com/?imageId=234266&width=800"
     },
     {
       "id": "c8b75cfd3c2e35abaf09061a989e5938bbab190a",
@@ -1740,28 +1762,6 @@
       "image": "https://image.theregister.com/?imageId=5244900&width=800"
     },
     {
-      "id": "ecfe93ad6db45b37b874d565540bec7fe9bc1625",
-      "title": "Talking smack about a doctor got him access to private medical files",
-      "url": "https://www.theregister.com/security/2026/07/23/talking-smack-about-a-doctor-got-him-access-to-private-medical-files/5276604",
-      "published": "2026-07-23T07:00:00+00:00",
-      "summary": "Who needs a working security badge when you know how to talk your way into the records room?",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=5276627&width=800"
-    },
-    {
-      "id": "c920873564a47de73e5a9eaf8e792e58879c6ff6",
-      "title": "OpenAI scored an own goal with Hugging Face attack, showing how open Chinese models are winning",
-      "url": "https://www.theregister.com/ai-and-ml/2026/07/23/openai-scored-an-own-goal-with-hugging-face-attack-showing-how-open-chinese-models-are-winning/5276699",
-      "published": "2026-07-22T23:37:24+00:00",
-      "summary": "Closed models with guardrails can still cause harm, but may also not be able to fix problems they caused",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=5276752&width=800"
-    },
-    {
       "id": "1ef900d67892d7005542a0a28d0e10bf83553327",
       "title": "Read This Before You Buy That TV Streaming Stick",
       "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
@@ -1817,6 +1817,94 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "243a9f6446e55a197289b70d9eca91cf1b549afd",
+      "title": "The Fourth Battlefield: The Growing Role of Cyber Operations in Global Conflict",
+      "url": "https://www.securityweek.com/the-fourth-battlefield-the-growing-role-of-cyber-operations-in-global-conflict/",
+      "published": "2026-08-05T13:00:08+00:00",
+      "summary": "<p>CrowdStrike co-founder Dmitri Alperovitch discusses how cyber operations support kinetic warfare, signal coming conflicts, and reshape the global battlefield.</p>\n<p>The post <a href=\"https://www.securityweek.com/the-fourth-battlefield-the-growing-role-of-cyber-operations-in-global-conflict/\">The Fourth Battlefield: The Growing Role of Cyber Operations in Global Conflict</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "cfbb9090e618cde43d745bcd99d97abfdc89fa6a",
+      "title": "New Attack Methods Enable Malware to Hijack Passkey-Protected Accounts",
+      "url": "https://www.securityweek.com/new-attack-methods-enable-malware-to-hijack-passkey-protected-accounts/",
+      "published": "2026-08-05T12:48:49+00:00",
+      "summary": "<p>Palo Alto Networks researchers have demonstrated attacks against Google\u2019s synced passkey implementation.</p>\n<p>The post <a href=\"https://www.securityweek.com/new-attack-methods-enable-malware-to-hijack-passkey-protected-accounts/\">New Attack Methods Enable Malware to Hijack Passkey-Protected Accounts</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "d07dcc486cc91e1dc85193c893798885a242e50d",
+      "title": "311,000 Impacted by Brown Health Medical Group-MA Data Breach",
+      "url": "https://www.securityweek.com/311000-impacted-by-brown-health-medical-group-ma-data-breach/",
+      "published": "2026-08-05T11:35:23+00:00",
+      "summary": "<p>Hackers stole personal information, medical records, and financial information from the organization\u2019s server.</p>\n<p>The post <a href=\"https://www.securityweek.com/311000-impacted-by-brown-health-medical-group-ma-data-breach/\">311,000 Impacted by Brown Health Medical Group-MA Data Breach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "decfc0f6d367e2e95256242f1447dbead95d222e",
+      "title": "Cybersecurity Alliance Drafts SAFE Guidelines for Sharing AI Incident Data",
+      "url": "https://www.securityweek.com/cybersecurity-alliance-drafts-safe-guidelines-for-sharing-ai-incident-data/",
+      "published": "2026-08-05T11:11:29+00:00",
+      "summary": "<p>The guidelines are the work of the recently launched Open Secure AI Alliance, which now includes 120 organizations.</p>\n<p>The post <a href=\"https://www.securityweek.com/cybersecurity-alliance-drafts-safe-guidelines-for-sharing-ai-incident-data/\">Cybersecurity Alliance Drafts SAFE Guidelines for Sharing AI Incident Data\u00a0</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "aea693a71cf4ea2ae1a4bab4d902cff7faacfa44",
+      "title": "AI Agents Targeted Real People and Projects During Cybersecurity Tests",
+      "url": "https://www.securityweek.com/ai-security-institute-reports-anthropic-and-openai-models-going-rogue-against-organizations/",
+      "published": "2026-08-05T10:33:41+00:00",
+      "summary": "<p>AI Security Institute reports Anthropic and OpenAI models going rogue against real people, organizations, and open source projects.</p>\n<p>The post <a href=\"https://www.securityweek.com/ai-security-institute-reports-anthropic-and-openai-models-going-rogue-against-organizations/\">AI Agents Targeted Real People and Projects During Cybersecurity Tests</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "f83f5edb8287fbbde0505adb32687b9211110f4c",
+      "title": "CISA Warns of Exploited Langflow, N-central, and Tomcat Vulnerabilities",
+      "url": "https://www.securityweek.com/cisa-warns-of-exploited-langflow-n-central-and-tomcat-vulnerabilities/",
+      "published": "2026-08-05T09:44:50+00:00",
+      "summary": "<p>The flaws can be exploited for remote code execution, authentication bypass, and EncryptInterceptor bypass.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisa-warns-of-exploited-langflow-n-central-and-tomcat-vulnerabilities/\">CISA Warns of Exploited Langflow, N-central, and Tomcat Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "4d2ab3e366d00dc0948c6fa9000007c8e9d649d5",
+      "title": "Over 400 NPM Packages Infected in ChainDrop Supply Chain Attack",
+      "url": "https://www.securityweek.com/over-400-npm-packages-infected-in-chaindrop-supply-chain-attack/",
+      "published": "2026-08-05T08:56:58+00:00",
+      "summary": "<p>The malware was designed to steal and exfiltrate secrets, and to propagate itself via stolen NPM and GitHub credentials.</p>\n<p>The post <a href=\"https://www.securityweek.com/over-400-npm-packages-infected-in-chaindrop-supply-chain-attack/\">Over 400 NPM Packages Infected in ChainDrop Supply Chain Attack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "b747b06af86d9da347a99aa22a100ba4c403d9d3",
+      "title": "Water Sector Cyberattacks Reportedly Hit at Least 12 States",
+      "url": "https://www.securityweek.com/water-sector-cyberattacks-reportedly-hit-at-least-12-states/",
+      "published": "2026-08-05T07:24:52+00:00",
+      "summary": "<p>Georgia has been confirmed as one of the attacked states after Clayton County reported a pump station disruption.</p>\n<p>The post <a href=\"https://www.securityweek.com/water-sector-cyberattacks-reportedly-hit-at-least-12-states/\">Water Sector Cyberattacks Reportedly Hit at Least 12 States</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "2153cef9b25cf50fa65d278eedc5db7747c52158",
       "title": "Black Hat USA 2026 \u2013 Summary of Vendor Announcements (Part 2)",
       "url": "https://www.securityweek.com/black-hat-usa-2026-summary-of-vendor-announcements-part-2/",
@@ -1833,94 +1921,6 @@
       "url": "https://www.securityweek.com/rethinking-ai-security-why-casb-and-dlp-need-an-interaction-aware-layer/",
       "published": "2026-08-04T16:15:00+00:00",
       "summary": "<p>Build your strategy around answering these questions to ensure employees use AI productively while keeping sensitive data, IP, and agent behavior within the boundaries set for safe AI use.</p>\n<p>The post <a href=\"https://www.securityweek.com/rethinking-ai-security-why-casb-and-dlp-need-an-interaction-aware-layer/\">Rethinking AI Security: Why CASB and DLP Need an Interaction-Aware Layer</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "653f36182fad7f95935e23ac9d1afa44a0e68e71",
-      "title": "Oligo Raises $60 Million for Runtime Security",
-      "url": "https://www.securityweek.com/oligo-raises-60-million-for-runtime-security/",
-      "published": "2026-08-04T15:00:00+00:00",
-      "summary": "<p>The company will use the investment to accelerate product innovation and expand go-to-market operations.</p>\n<p>The post <a href=\"https://www.securityweek.com/oligo-raises-60-million-for-runtime-security/\">Oligo Raises $60 Million for Runtime Security</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "68f9f3ebf57b5ff7a4cca876533463c22fbf99ec",
-      "title": "CISO Conversations: Russ Kirby \u2013 Passion Is the Antidote to Burnout",
-      "url": "https://www.securityweek.com/ciso-conversation-russ-kirby-passion-is-the-antidote-to-burnout/",
-      "published": "2026-08-04T14:30:00+00:00",
-      "summary": "<p>Russ Kirby, CISO at Ping Identity, shares how passion, courage, and \u201cgood enough\u201d thinking shaped his path from HP to the C-suite\u2014and what keeps him up at night.</p>\n<p>The post <a href=\"https://www.securityweek.com/ciso-conversation-russ-kirby-passion-is-the-antidote-to-burnout/\">CISO Conversations: Russ Kirby \u2013 Passion Is the Antidote to Burnout</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "713e893dd3fcab5a3408a345cb8e069b4b2971d2",
-      "title": "Weaponized Email AI Assistants Could Help Attackers Hijack Accounts",
-      "url": "https://www.securityweek.com/weaponized-email-ai-assistants-could-help-attackers-hijack-accounts/",
-      "published": "2026-08-04T13:54:13+00:00",
-      "summary": "<p>Researchers demonstrate how attackers could abuse built-in email chatbots to evade detection, impersonate trusted employees, compromise executive accounts, and facilitate financial fraud.</p>\n<p>The post <a href=\"https://www.securityweek.com/weaponized-email-ai-assistants-could-help-attackers-hijack-accounts/\">Weaponized Email AI Assistants Could Help Attackers Hijack Accounts</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "701d5fdc553eb166add31bd5866bc4f27d4b0434",
-      "title": "Zenity Raises $125 Million in Series C Funding",
-      "url": "https://www.securityweek.com/zenity-raises-125-million-in-series-c-funding/",
-      "published": "2026-08-04T13:40:42+00:00",
-      "summary": "<p>The AI security company will invest in product innovation, global expansion, and customer experience.</p>\n<p>The post <a href=\"https://www.securityweek.com/zenity-raises-125-million-in-series-c-funding/\">Zenity Raises $125 Million in Series C Funding</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "f8ab12acae8deb0615d994a65b2d339dc8abc9d3",
-      "title": "TP-Link Omada ZTP Vulnerabilities Chain Into Full Network Takeover",
-      "url": "https://www.securityweek.com/tp-link-omada-ztp-vulnerabilities-chain-into-full-network-takeover/",
-      "published": "2026-08-04T12:00:00+00:00",
-      "summary": "<p>Forescout researchers have found 15 new vulnerabilities in the TP-Link Omada networking ecosystem.</p>\n<p>The post <a href=\"https://www.securityweek.com/tp-link-omada-ztp-vulnerabilities-chain-into-full-network-takeover/\">TP-Link Omada ZTP Vulnerabilities Chain Into Full Network Takeover</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "a236c603f38a6bc7108014235e6fbfb92a9c39fc",
-      "title": "Obsidian Security Raises $85 Million at $1.1 Billion Valuation",
-      "url": "https://www.securityweek.com/obsidian-security-raises-85-million-at-1-1-billion-valuation/",
-      "published": "2026-08-04T12:00:00+00:00",
-      "summary": "<p>Obsidian Security has developed a platform for governing AI agents across third-party applications.</p>\n<p>The post <a href=\"https://www.securityweek.com/obsidian-security-raises-85-million-at-1-1-billion-valuation/\">Obsidian Security Raises $85 Million at $1.1 Billion Valuation</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "9e72799180eba1b845fa9492a93308497116d36c",
-      "title": "Gemini Agent-to-Agent Attack Method Exposed Secrets, Enabled Pull Request Tampering",
-      "url": "https://www.securityweek.com/gemini-agent-to-agent-attack-exposed-secrets-enabled-pull-request-tampering/",
-      "published": "2026-08-04T10:54:30+00:00",
-      "summary": "<p>A crafted prompt to a low-privilege Google ADK agent could be used to pass a malicious hand-off comment to a privileged agent.</p>\n<p>The post <a href=\"https://www.securityweek.com/gemini-agent-to-agent-attack-exposed-secrets-enabled-pull-request-tampering/\">Gemini Agent-to-Agent Attack Method Exposed Secrets, Enabled Pull Request Tampering</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "7053e1ab018dd12b78ec3b08567a338a4172a88a",
-      "title": "Decades-Old BMC Vulnerability Exposes Thousands of Data Centers to Attacks",
-      "url": "https://www.securityweek.com/decades-old-bmc-vulnerability-exposes-thousands-of-data-centers-to-attacks/",
-      "published": "2026-08-04T09:56:06+00:00",
-      "summary": "<p>Over 24,000 internet-accessible server-management interfaces disclose authentication hashes before login.</p>\n<p>The post <a href=\"https://www.securityweek.com/decades-old-bmc-vulnerability-exposes-thousands-of-data-centers-to-attacks/\">Decades-Old BMC Vulnerability Exposes Thousands of Data Centers to Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
