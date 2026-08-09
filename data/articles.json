@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T12:19:13.328541+00:00",
+  "generated_at": "2026-08-09T00:40:32.483832+00:00",
   "items": [
     {
       "id": "51a2d240903a2aff47cea16b5b5647a74a5ec11c",
@@ -1212,6 +1212,17 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt76251fb10015002b/6a63dcc43ab01b6c623bebbf/GettyImages-2219941632.jpg?width=720&quality=80&disable=upscale"
     },
     {
+      "id": "588eec7865ef52a67e07bba3e4563408028712ee",
+      "title": "Devs to Anthropic, OpenAI, Cursor, and friends: Make security and privacy the default",
+      "url": "https://www.theregister.com/ai-and-ml/2026/08/08/devs-to-anthropic-openai-cursor-and-friends-make-security-and-privacy-the-default/5285107",
+      "published": "2026-08-08T13:00:00+00:00",
+      "summary": "Researchers scour social media to measure developer concerns about AI coding tools",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=5281583&width=800"
+    },
+    {
       "id": "b6118a329753f5f78e27f05ef462a2950a288c9c",
       "title": "OpenAI pledges to add Astra security as Anthropic loosens Fable's leash",
       "url": "https://www.theregister.com/ai-and-ml/2026/08/08/openai-pledges-to-add-astra-security-as-anthropic-loosens-fables-leash/5285161",
@@ -1749,72 +1760,6 @@
       "region": "Europe",
       "country": "UK",
       "image": "https://image.theregister.com/?imageId=261585&width=800"
-    },
-    {
-      "id": "090f4ddddd34dc4ce81eca3b4a388651642c747d",
-      "title": "AI-found bugs aren't proving any easier to exploit despite the hype",
-      "url": "https://www.theregister.com/security/2026/07/28/ai-found-bugs-arent-proving-any-easier-to-exploit-despite-the-hype/5279637",
-      "published": "2026-07-28T15:26:41+00:00",
-      "summary": "VulnCheck says fewer than 2% of AI-assisted vulnerability discoveries have been weaponized, casting doubt on claims frontier models are handing attackers a major advantage",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=5259466&width=800"
-    },
-    {
-      "id": "227e8673997308a3ba6d044025a2aa09a69f6761",
-      "title": "Canadian Man Pleads Guilty in Snowflake Extortions",
-      "url": "https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/",
-      "published": "2026-08-06T17:00:56+00:00",
-      "summary": "A 26-year-old Canadian man once described as one of the most consequential cybercrime threat actors of 2024 has pleaded guilty to computer fraud and conspiracy to hack and extort more than 165 organizations that used the cloud data storage provider Snowflake. Connor Riley Moucka, of Kitchener, Ontario, also admitted to stealing call and text history records of more than 100 million AT&#038;T customers.",
-      "source": "Krebs on Security",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "1ef900d67892d7005542a0a28d0e10bf83553327",
-      "title": "Read This Before You Buy That TV Streaming Stick",
-      "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
-      "published": "2026-07-30T16:49:00+00:00",
-      "summary": "Security experts have been sounding the alarm for years about the risks of using generic TV boxes that promise unlimited content streaming for a one-time fee, warning that they secretly rent the user's Internet connection out to strangers. But a groundbreaking new analysis finds these devices also routinely spoof themselves as mobile phones clicking ads on AI-generated websites as part of sprawling operation that seeks to defraud online merchants and advertising networks.",
-      "source": "Krebs on Security",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "76af5b683c70d8f4b2c554aee82c787a26f6f41c",
-      "title": "LG to Ban Residential Proxies from Smart TV Apps",
-      "url": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
-      "published": "2026-07-22T01:10:38+00:00",
-      "summary": "The home appliance giant LG Electronics USA said this week it plans to suspend any apps built for its smart TVs that turn one's television into an always-on residential proxy node. The move comes less than a month after researchers found that more than 42 percent of games and other apps available for download on LG's webOS store allow unknown third-parties to route their Internet traffic through a user's TV.",
-      "source": "Krebs on Security",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "2c2b2700dd7b44b3c6e490c2151c3e8c6d1cc629",
-      "title": "Microsoft Patches a Record 570 Security Flaws",
-      "url": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
-      "published": "2026-07-14T19:22:42+00:00",
-      "summary": "Microsoft Corp. today released software updates to plug at least 570 security holes in its Windows operating systems and other software, almost triple the number of vulnerabilities the software giant fixed in its record-smashing Patch Tuesday release last month. Microsoft attributed the burgeoning patch counts to vulnerability discoveries aided by artificial intelligence.",
-      "source": "Krebs on Security",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "7fc7252b143c942e8e63a33d59dce18ca03928b2",
-      "title": "Lessons Learned from CISA\u2019s Recent GitHub Leak",
-      "url": "https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/",
-      "published": "2026-07-13T15:03:28+00:00",
-      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) has issued a postmortem on a data leak in which a contractor published dozens of internal CISA credentials -- including AWS Govcloud keys -- in a public GitHub repository for almost six months before being notified by KrebsOnSecurity. Experts say the gaps identified in the agency's initial response provide important lessons that all security teams should absorb.",
-      "source": "Krebs on Security",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
       "id": "30fdcde0d2c68acc7bb32de1b8ab81b2102583bc",
