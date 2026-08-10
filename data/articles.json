@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T00:42:28.151410+00:00",
+  "generated_at": "2026-08-10T12:37:13.253673+00:00",
   "items": [
     {
       "id": "51a2d240903a2aff47cea16b5b5647a74a5ec11c",
@@ -110,6 +110,28 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "815f439bac1670b5ca5fabf9d75a1f65bfea7da8",
+      "title": "Solidity Pro VS Code Extensions Steal Crypto Wallets, API Keys, and Credentials",
+      "url": "https://thehackernews.com/2026/08/solidity-pro-vs-code-extensions-steal.html",
+      "published": "2026-08-10T07:38:23+00:00",
+      "summary": "Cybersecurity researchers have flagged a malicious Microsoft Visual Studio Code (VS Code) extension named Solidity Pro (\"solidity-pro\") that has been observed delivering a browser wallet and credential stealer.\n\nThe names of the extensions are below -\n\n\n  helper-beeps.solidity-pro\n  web3devtoolsx.solidity-pro\n\nAlthough neither of the extensions is now available on Open VSX, the GitHub repository",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjR5_Dx4heVYIxaujo8ybl0OFdVuLzMFe0qdEdr6-q_QTdhSVlgHdrP6MeooXamFpRNfHjoAqTquvk3CkkCKUw1TQDkQJCrZY1RTC9iYK_bsTLNvpj0BZfFKFcnlt1RAlBvfcsWeSuLAn6Gwh9lur7v9-HlH-6ZpSmw7npsn9TSZAEpwFSFE54_xcFPcuDi/s1600/pro.jpg"
+    },
+    {
+      "id": "9efa5f9a2a79c4f620140f9a4758d66dccb75ae1",
+      "title": "OpenAI's Next AI Model Astra Shows Cyber Performance Strong Enough to Trigger Pause",
+      "url": "https://thehackernews.com/2026/08/openais-next-ai-model-astra-shows-cyber.html",
+      "published": "2026-08-10T05:50:03+00:00",
+      "summary": "OpenAI has announced that it's pausing some \"internal activities\" involving its upcoming artificial intelligence (AI) model Astra after an internal evaluation found it had made significant advancements in agentic coding and cybersecurity.\n\nIn response to the discovery, the AI upstart said it's implementing security controls for higher-capability models and associated activities, such as isolated",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgat4Wvo6Fpe6pNG66UengjFIWRohQUVp-khyphenhyphenxa57n9Ued3-mWlDeeTQkblpAP-OEjgSCbY0n1bC_MhI3a5_BF1bWq7rBohkS2DG1AXUtcDI8MuWPRMFKGNdteA7_Xkg-_6w-y-wao14ZPQWoRF8cnbibQYHUAGP1byqwYyBpcyvCBQd0h2fe6t94zvoa4j/s1600/openai-astra.jpg"
     },
     {
       "id": "209a413a79b1731eacc8c276e38b43fed0d93ba8",
@@ -638,28 +660,6 @@
       "region": "North America",
       "country": "US",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi35nnI5-o_HtA0Eunk4tOFM1lg12NrqY7HrDNBbee-kPWR-BHHxXQtd-Tj3b7FrMlTOcWNC63XgVV9n0FEoD-G4ydCpmBv2g1PjvS-lzopLbMnODHbNL2bGMJ6nOYXST9M83vc9IYZaUOjkUqaa4Xo-LaAOtXu3bRhYAcVIUwxgDNMifc6xWI27VVca_B4/s1600/screenconnect.jpg"
-    },
-    {
-      "id": "42f0b3d008c8c05846b29255bfc63009815ed961",
-      "title": "When Vibe Hacking Turns AI into the Junior Hacker Every Adversary Always Wanted",
-      "url": "https://thehackernews.com/2026/08/when-vibe-hacking-turns-ai-into-junior.html",
-      "published": "2026-08-04T11:30:00+00:00",
-      "summary": "The cybersecurity industry has spent decades assuming that offensive capability scales with technical expertise.\n\nThat assumption is starting to break.\n\nSecurity teams have long estimated risk by ranking attacker sophistication. Nation-state actors sat at one end. Organized criminal groups followed. Inexperienced attackers, dismissed as \"script kiddies,\" sat at the other end, running public",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRUUATlzjkTMUxaFn2DI_qPw1WxQaqSvIY58hYRWrDQwnqyeDWgazdM0HarQoeNs9oXocZCMP__YqOZxnxyWz30-kEKzLZOFGyJ46GAuWyEj0ZfL69dqBd7OX1SdtiUoprog0-7JWYaYs1y2ceQGFT-GtTfsjiVFhyphenhyphend6WxYXV-1BYVhLRUIQ5hWqSyz2U/s1600/breachlock.jpg"
-    },
-    {
-      "id": "cc5bc3e2ac3893298bbfeb25e3d11f9ee9fc5082",
-      "title": "Google Deletes 3 ADK AI Workflows After Malicious GitHub Issue Could Trigger Privileged Agent",
-      "url": "https://thehackernews.com/2026/08/google-deletes-3-adk-ai-workflows-after.html",
-      "published": "2026-08-04T11:16:23+00:00",
-      "summary": "Google deleted three AI agent workflows from its Agent Development Kit (ADK) Python repository. Pillar Security showed that a public GitHub issue could manipulate a triage agent into triggering a privileged code-fixing agent.\n\nThe researchers said the public agent could be prompt-injected into posting /adk-issue-fix as adk-bot. They identified the bot as a collaborator, so that comment satisfied",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLUUlqxE9AYL9PyFAlWMsG9czDcrU9p2kMUsumVIYx5SnlMAO0z-n_weUWeX-CiMHQBbkGK1lV-78vp003-bAeRP4gQRyGXlq5blzx5dJdd9zFttd2tjhGlNUFLNk-6ro9GfXMkRCFVLs-ex3gWHoJh-87sZifOeTKohLNoypvvqLUUPLkGUsjKXfAj7A/s1600/google.gif"
     },
     {
       "id": "a89bc40ccabfd1f25c9eb5c203164ddb6a3b47ce",
@@ -1212,6 +1212,50 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt76251fb10015002b/6a63dcc43ab01b6c623bebbf/GettyImages-2219941632.jpg?width=720&quality=80&disable=upscale"
     },
     {
+      "id": "6c578a26c50edb35bd3fcd13ad5ebf1226bf576d",
+      "title": "Cyber vulnerability sweep picks up Royal Navy drones sending data to China",
+      "url": "https://www.theregister.com/edge-and-iot/2026/08/10/cyber-vulnerability-sweep-picks-up-royal-navy-drones-sending-data-to-china/5285430",
+      "published": "2026-08-10T12:25:00+00:00",
+      "summary": "No, no nasties to see here, guv...",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=4094139&width=800"
+    },
+    {
+      "id": "6ea897a7b1e0e6d0cdbe5d90affb5781716b6a64",
+      "title": "Framework loses customer data in Metabase zero-day attack",
+      "url": "https://www.theregister.com/personal-tech/2026/08/10/framework-loses-customer-data-in-metabase-zero-day-attack/5285302",
+      "published": "2026-08-10T11:21:00+00:00",
+      "summary": "Repairable hardware is little comfort when personal details escape",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=5225977&width=800"
+    },
+    {
+      "id": "1467e1a29cf4e1a44932bff6ac58b9cc1a9115d7",
+      "title": "Claude Code puts auto mode in the driver's seat",
+      "url": "https://www.theregister.com/ai-and-ml/2026/08/10/claude-code-puts-auto-mode-in-the-drivers-seat/5285326",
+      "published": "2026-08-10T10:38:00+00:00",
+      "summary": "Walk away and hope the classifier catches anything irreversible or destructive",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=5285396&width=800"
+    },
+    {
+      "id": "0ec1429f55915725490884aa31e57d1562d90e30",
+      "title": "Advertisers are trying to influence AI bots with secret ads",
+      "url": "https://www.theregister.com/ai-and-ml/2026/08/10/advertisers-are-trying-to-influence-ai-bots-with-secret-ads/5285093",
+      "published": "2026-08-10T03:00:00+00:00",
+      "summary": "PLUS: Hiveminds are emerging to hack the planet, and open-weight models are the new new red scare.",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=251606&width=800"
+    },
+    {
       "id": "d78fa21e317ffc549722d153b01abede9bc01f7e",
       "title": "Ransomware gangs skip the CEO, head straight for the 40-something IT manager",
       "url": "https://www.theregister.com/security/2026/08/09/ransomware-gangs-skip-the-ceo-head-straight-for-the-40-something-it-manager/5284499",
@@ -1718,48 +1762,125 @@
       "image": "https://image.theregister.com/?imageId=150171&width=800"
     },
     {
-      "id": "149ecc4aaf593969bbbcf5872b0a4f2632cb3ce6",
-      "title": "America bans imported robots due to supply chain and security risks",
-      "url": "https://www.theregister.com/security/2026/07/29/america-bans-imported-robots-due-to-supply-chain-and-security-risks/5280145",
-      "published": "2026-07-29T02:16:31+00:00",
-      "summary": "Docs point to China\u2019s Unitree as prime example of the foreign clanker threat",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=5280168&width=800"
+      "id": "227e8673997308a3ba6d044025a2aa09a69f6761",
+      "title": "Canadian Man Pleads Guilty in Snowflake Extortions",
+      "url": "https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/",
+      "published": "2026-08-06T17:00:56+00:00",
+      "summary": "A 26-year-old Canadian man once described as one of the most consequential cybercrime threat actors of 2024 has pleaded guilty to computer fraud and conspiracy to hack and extort more than 165 organizations that used the cloud data storage provider Snowflake. Connor Riley Moucka, of Kitchener, Ontario, also admitted to stealing call and text history records of more than 100 million AT&#038;T customers.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "6d1473257c2cb88c01f283c039a5409876ce4ebb",
-      "title": "MCP gets an enterprise makeover",
-      "url": "https://www.theregister.com/ai-and-ml/2026/07/29/mcp-gets-an-enterprise-makeover/5280027",
-      "published": "2026-07-28T23:08:02+00:00",
-      "summary": "Now happier running in a conventional K8s environment, with `an easier-to-live-with lifecycle",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=5239946&width=800"
+      "id": "1ef900d67892d7005542a0a28d0e10bf83553327",
+      "title": "Read This Before You Buy That TV Streaming Stick",
+      "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
+      "published": "2026-07-30T16:49:00+00:00",
+      "summary": "Security experts have been sounding the alarm for years about the risks of using generic TV boxes that promise unlimited content streaming for a one-time fee, warning that they secretly rent the user's Internet connection out to strangers. But a groundbreaking new analysis finds these devices also routinely spoof themselves as mobile phones clicking ads on AI-generated websites as part of sprawling operation that seeks to defraud online merchants and advertising networks.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "08ce632f5d697c6356ff35c87d9b018f3f579b7d",
-      "title": "JFrog's 0-days let OpenAI's models hack Hugging Face",
-      "url": "https://www.theregister.com/security/2026/07/28/jfrogs-0-days-let-openais-models-hack-hugging-face/5280001",
-      "published": "2026-07-28T22:01:53+00:00",
-      "summary": "OpenAI confirms the link",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=232611&width=800"
+      "id": "76af5b683c70d8f4b2c554aee82c787a26f6f41c",
+      "title": "LG to Ban Residential Proxies from Smart TV Apps",
+      "url": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
+      "published": "2026-07-22T01:10:38+00:00",
+      "summary": "The home appliance giant LG Electronics USA said this week it plans to suspend any apps built for its smart TVs that turn one's television into an always-on residential proxy node. The move comes less than a month after researchers found that more than 42 percent of games and other apps available for download on LG's webOS store allow unknown third-parties to route their Internet traffic through a user's TV.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "0fd9e4a332a9eccc9cbd9571748d20e9b4b20e7d",
-      "title": "Microsoft and Wiz mind-meld agents catch more than 90% of bugs",
-      "url": "https://www.theregister.com/security/2026/07/28/microsoft-and-wiz-mind-meld-agents-catch-more-than-90-of-bugs/5279914",
-      "published": "2026-07-28T19:21:01+00:00",
-      "summary": "Secret to their success: Using the right model for the right security job",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=5279934&width=800"
+      "id": "2c2b2700dd7b44b3c6e490c2151c3e8c6d1cc629",
+      "title": "Microsoft Patches a Record 570 Security Flaws",
+      "url": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
+      "published": "2026-07-14T19:22:42+00:00",
+      "summary": "Microsoft Corp. today released software updates to plug at least 570 security holes in its Windows operating systems and other software, almost triple the number of vulnerabilities the software giant fixed in its record-smashing Patch Tuesday release last month. Microsoft attributed the burgeoning patch counts to vulnerability discoveries aided by artificial intelligence.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "7fc7252b143c942e8e63a33d59dce18ca03928b2",
+      "title": "Lessons Learned from CISA\u2019s Recent GitHub Leak",
+      "url": "https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/",
+      "published": "2026-07-13T15:03:28+00:00",
+      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) has issued a postmortem on a data leak in which a contractor published dozens of internal CISA credentials -- including AWS Govcloud keys -- in a public GitHub repository for almost six months before being notified by KrebsOnSecurity. Experts say the gaps identified in the agency's initial response provide important lessons that all security teams should absorb.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "17b90e8f1b8392695795f768f2389b6b89d29c0b",
+      "title": "New Jersey, Alabama Join States Targeted in Water Cyberattacks",
+      "url": "https://www.securityweek.com/new-jersey-alabama-join-states-targeted-in-water-cyberattacks/",
+      "published": "2026-08-10T11:44:26+00:00",
+      "summary": "<p>Hackers linked to Iran targeted industrial control systems (ICS) at water facilities in at least a dozen US states.</p>\n<p>The post <a href=\"https://www.securityweek.com/new-jersey-alabama-join-states-targeted-in-water-cyberattacks/\">New Jersey, Alabama Join States Targeted in Water Cyberattacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "be742035d112abaf9d11a1592008ededa6d06f6a",
+      "title": "Metabase Patches Vulnerability Exploited as Zero-Day",
+      "url": "https://www.securityweek.com/metabase-patches-vulnerability-exploited-as-zero-day/",
+      "published": "2026-08-10T11:03:55+00:00",
+      "summary": "<p>The security defect allows unauthenticated, remote attackers to gain administrative access to Metabase instances.</p>\n<p>The post <a href=\"https://www.securityweek.com/metabase-patches-vulnerability-exploited-as-zero-day/\">Metabase Patches Vulnerability Exploited as Zero-Day</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "cd5be3ae4b35914194e27eb5a2f3d207b410bdd5",
+      "title": "Novel Private APN Pivot Let Hackers Sabotage Second Polish Energy Facility",
+      "url": "https://www.securityweek.com/novel-private-apn-pivot-let-hackers-sabotage-second-polish-energy-facility/",
+      "published": "2026-08-10T10:01:52+00:00",
+      "summary": "<p>CERT.PL said this appears to be the first instance of a private APN being used as an attack vector.</p>\n<p>The post <a href=\"https://www.securityweek.com/novel-private-apn-pivot-let-hackers-sabotage-second-polish-energy-facility/\">Novel Private APN Pivot Let Hackers Sabotage Second Polish Energy Facility</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "8d9633b74189ac1069e95ebc1b0bc42c76832dae",
+      "title": "CISA Urges Immediate Patching of Exploited Progress LoadMaster Vulnerability",
+      "url": "https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-progress-loadmaster-vulnerability/",
+      "published": "2026-08-10T09:31:51+00:00",
+      "summary": "<p>The critical-severity flaw allows unauthenticated, remote attackers to execute arbitrary commands.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-progress-loadmaster-vulnerability/\">CISA Urges Immediate Patching of Exploited Progress LoadMaster Vulnerability</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "e60a313474668eee466faaeaaeaf0d1e10436f69",
+      "title": "Corporate Data Stolen in Levi Strauss Cyberattack",
+      "url": "https://www.securityweek.com/corporate-data-stolen-in-levi-strauss-cyberattack/",
+      "published": "2026-08-10T08:55:44+00:00",
+      "summary": "<p>Using social engineering, a threat actor accessed the computers of three employees and exfiltrated data from them.</p>\n<p>The post <a href=\"https://www.securityweek.com/corporate-data-stolen-in-levi-strauss-cyberattack/\">Corporate Data Stolen in Levi Strauss Cyberattack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "1680dc42f2a712f198c4962478d67fbcc6276f33",
+      "title": "Critical Flaws Discovered in Belgian eID Software Used by 2 Million People",
+      "url": "https://www.securityweek.com/critical-flaws-discovered-in-belgian-eid-software-used-by-2-million-people/",
+      "published": "2026-08-10T04:44:32+00:00",
+      "summary": "<p>The vulnerabilities affected software used by eight of Belgium\u2019s ten largest banks and over 60 government agencies.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-flaws-discovered-in-belgian-eid-software-used-by-2-million-people/\">Critical Flaws Discovered in Belgian eID Software Used by 2 Million People</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
       "id": "30fdcde0d2c68acc7bb32de1b8ab81b2102583bc",
@@ -1800,72 +1921,6 @@
       "url": "https://www.securityweek.com/truck-brake-controllers-safety-recall-doubled-as-hidden-security-fix/",
       "published": "2026-08-07T10:00:00+00:00",
       "summary": "<p>NMFTA research shows a Bendix EC80 brake controller safety recall also patched remote code execution and DoS vulnerabilities.</p>\n<p>The post <a href=\"https://www.securityweek.com/truck-brake-controllers-safety-recall-doubled-as-hidden-security-fix/\">Truck Brake Controller&#8217;s Safety Recall Doubled as Hidden Security Fix</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "9f10ba701b7e2987effa6b5f1bdef36bbab59b9d",
-      "title": "Black Hat USA 2026 \u2013 Summary of Vendor Announcements (Part 4)",
-      "url": "https://www.securityweek.com/black-hat-usa-2026-summary-of-vendor-announcements-part-4/",
-      "published": "2026-08-07T09:24:22+00:00",
-      "summary": "<p>Companies are showcasing their products and services this week at the 2026 edition of the Black Hat conference in Las Vegas.</p>\n<p>The post <a href=\"https://www.securityweek.com/black-hat-usa-2026-summary-of-vendor-announcements-part-4/\">Black Hat USA 2026 \u2013 Summary of Vendor Announcements (Part 4)</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "6005ee1079051381236962f107f707acad413ea9",
-      "title": "Microsoft, Apple Release Fresh Security Updates",
-      "url": "https://www.securityweek.com/microsoft-apple-release-fresh-security-updates/",
-      "published": "2026-08-07T09:09:54+00:00",
-      "summary": "<p>Microsoft fixed critical vulnerabilities across Azure, Entra, and SharePoint, while Apple patched a high-severity authentication bypass.</p>\n<p>The post <a href=\"https://www.securityweek.com/microsoft-apple-release-fresh-security-updates/\">Microsoft, Apple Release Fresh Security Updates</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "a38645ed85136c24ab4b9df59f5c4530aaf40496",
-      "title": "3.8 Million Impacted by Unlimited Technology Systems Data Breach",
-      "url": "https://www.securityweek.com/3-8-million-impacted-by-unlimited-technology-systems-data-breach/",
-      "published": "2026-08-07T07:22:05+00:00",
-      "summary": "<p>Hackers stole personal, medical, and health insurance information from a company\u2019s data center.</p>\n<p>The post <a href=\"https://www.securityweek.com/3-8-million-impacted-by-unlimited-technology-systems-data-breach/\">3.8 Million Impacted by Unlimited Technology Systems Data Breach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "eb4fa24928c68e5fea584bfc09412f27eba537c3",
-      "title": "Critical Vulnerabilities Patched With Chrome 151 Update",
-      "url": "https://www.securityweek.com/critical-vulnerabilities-patched-with-chrome-151-update/",
-      "published": "2026-08-07T06:56:56+00:00",
-      "summary": "<p>The browser refresh eliminates over two dozen memory safety bugs, including critical use-after-free flaws.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-vulnerabilities-patched-with-chrome-151-update/\">Critical Vulnerabilities Patched With Chrome 151 Update</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "b58051f996bd652cfe0a340c118fd613b66cfa99",
-      "title": "Snowflake Hacker Pleads Guilty in US Court",
-      "url": "https://www.securityweek.com/snowflake-hacker-pleads-guilty-in-us-court/",
-      "published": "2026-08-06T14:56:31+00:00",
-      "summary": "<p>Connor Riley Moucka was extradited to the United States in July 2025 after he was arrested in Canada.\u00a0</p>\n<p>The post <a href=\"https://www.securityweek.com/snowflake-hacker-pleads-guilty-in-us-court/\">Snowflake Hacker Pleads Guilty in US Court</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "539c75a0cf5425a9286bbb4da2bc2e6e0330bf5b",
-      "title": "Zero-Click AI Browser Hacking: Claude and ChatGPT Atlas Hijacked via Emails, X Posts",
-      "url": "https://www.securityweek.com/zero-click-ai-browser-hacking-claude-and-chatgpt-atlas-hijacked-via-emails-x-posts/",
-      "published": "2026-08-06T12:54:09+00:00",
-      "summary": "<p>Zenity researchers reported the findings to Anthropic and OpenAI in late 2025 and early 2026, but they remain unpatched.</p>\n<p>The post <a href=\"https://www.securityweek.com/zero-click-ai-browser-hacking-claude-and-chatgpt-atlas-hijacked-via-emails-x-posts/\">Zero-Click AI Browser Hacking: Claude and ChatGPT Atlas Hijacked via Emails, X Posts</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
