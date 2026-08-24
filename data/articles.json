@@ -1,9 +1,20 @@
 {
-  "generated_at": "2026-08-24T00:28:08.493829+00:00",
+  "generated_at": "2026-08-24T12:19:34.332020+00:00",
   "items": [
     {
+      "id": "556d191c29f3d030c8eece787ff8468cb2f7cab7",
+      "title": "Salesforce gave every org the same free scanner. Attackers already know what it misses.",
+      "url": "https://www.cybersecuritydive.com/spons/salesforce-gave-every-org-the-same-free-scanner-attackers-already-know-wha/828063/",
+      "published": "2026-08-24T09:00:00+00:00",
+      "summary": "<p>A defense every attacker can rehearse against isn't a defense. It's a false sense of security.</p>",
+      "source": "Cybersecurity Dive",
+      "region": "North America",
+      "country": "US",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "9594fe4b212f38a8aa6cebefef2f652525b3a07a",
-      "title": "Microsoft confirms maximum severity flaw in Entra ID targeted for exploitation",
+      "title": "Microsoft discloses maximum severity flaw in Entra ID",
       "url": "https://www.cybersecuritydive.com/news/microsoft-maximum-severity-flaw-entra-id-exploitation/828501/",
       "published": "2026-08-21T14:54:27+00:00",
       "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/IhblapYeomn53-AL5cL0xqXwK52bEUjpWNv00DUKe-c/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDIxMDMwODAzLmpwZw==.webp\" /></div></figure><p>The company said the remote-code execution vulnerability has been fully mitigated and no further action is necessary.</p>",
@@ -14,7 +25,7 @@
     },
     {
       "id": "291ba57349549f8929fbe495dea03174f37a5bd8",
-      "title": "Defense contractors\u2019 CMMC confidence lags, even as self-assessments improve",
+      "title": "Defense contractors still struggling with basic CMMC requirements",
       "url": "https://www.cybersecuritydive.com/news/defense-contractors-cmmc-cybersecurity-confidence-gap/828494/",
       "published": "2026-08-21T14:24:07+00:00",
       "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/UokaDcwGkpTv26_GNHDJOsMuryKZJgUsPTGjrRVT7z8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDQ1NjEwNjUwX3R3Z0Y2OGQuanBn.webp\" /></div></figure><p>A &ldquo;confidence disconnect&rdquo; is plaguing the industry, a consulting firm said.</p>",
@@ -101,15 +112,59 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "2c7004e70544b11310b6bc987e45b8a6da983f09",
-      "title": "Critical flaw in SAP Commerce Cloud faces initial exploitation attempts",
-      "url": "https://www.cybersecuritydive.com/news/critical-flaw-sap-commerce-cloud-initial-exploitation/828023/",
-      "published": "2026-08-17T15:26:03+00:00",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/pq6u43gClZ2Fwiip_mhbs6yxJlG2k27A4V1lGHsfpHM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTgwNzk1NzE1X1pOZ0YzVzIuanBn.webp\" /></div></figure><p>The vulnerability has a maximum severity score of 10, indicating serious potential impact and relative ease to exploit by an attacker.</p>",
-      "source": "Cybersecurity Dive",
+      "id": "9d8d702478cf0587874298b948a8c6fbe52189fd",
+      "title": "Shipping More AI Code Than You Can Secure? Watch How to Control Remediation Debt",
+      "url": "https://thehackernews.com/2026/08/shipping-more-ai-code-than-you-can.html",
+      "published": "2026-08-24T11:58:00+00:00",
+      "summary": "If your developers are using AI coding tools, you are probably already seeing the upside: faster development, more code, and less time spent on routine work.\n\nThe harder part is what comes after. AI can also introduce open-source packages at a pace your security team was never built to handle. More dependencies mean more vulnerabilities to review, more remediation work, and a backlog that can",
+      "source": "The Hacker News",
       "region": "North America",
       "country": "US",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1E-F55owwrRxUZE2CT3U8U-Ibj1rhbLpTmF0diYP4-uP6clImo12GvOHx7X-W4KPLl1F_OXiXjkRqSjuAOn0Sh6kMjPFbh5c09h4Ua3TNfLI7_P87UrGtuTypzdlpgVAazbD2qXvesRgxLW1cPBkADNMaGDh06-9wPXSVwltxeR7e5ejENDWcHXssP3M/s1600/ai-webinar.jpg"
+    },
+    {
+      "id": "08f456205e68a95acd961060360e3e30f0661c99",
+      "title": "Critical Keycloak Password Reset Flaw Could Let Unauthenticated Attackers Take Over Any Account",
+      "url": "https://thehackernews.com/2026/08/critical-keycloak-password-reset-flaw.html",
+      "published": "2026-08-24T11:56:34+00:00",
+      "summary": "Red Hat and the Keycloak project have released patches to address a critical security flaw in the open-source identity and access management server that could allow an unauthenticated remote attacker to take over any user account by forcing a password reset.\n\nThe vulnerability, assigned the CVE identifier&nbsp;CVE-2026-18963, is rated 9.1 on the CVSS scoring system by Red Hat, which acts as",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhB3jURz2EzucPTALqHju1yDNnbHFvawrKxEfvNEprkdA3QIDyOjuUqvHOyTyiZuYJR-4KwewHnd8CdT37TDxBMBK3OLknOxym2a0klblR6rNUc2lqXHdAQUl1JO8uE7bGupO-WqsaEM0UDLUGyWICu5fkA6x4GwNUCo_w3quxp8joYWhNX8grP55eVg8/s1600/keylock.jpg"
+    },
+    {
+      "id": "7113f16252a4678fcbf35dd50ff7d5331f9d84da",
+      "title": "Operation QUICSILVER Targets Myanmar Government and IT with QUICAgent Backdoor",
+      "url": "https://thehackernews.com/2026/08/operation-quicsilver-targets-myanmar.html",
+      "published": "2026-08-24T11:51:36+00:00",
+      "summary": "Cybersecurity researchers have flagged a cyber espionage campaign targeting Myanmar that uses graduation ceremony invitation lures to deliver a Go backdoor called QUICAgent.\n\nThe campaign, codenamed Operation QUICSILVER, has been found to target government and information technology sectors, per Seqrite Labs. The activity is assessed to be the work of a China-nexus threat actor with moderate",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAU29lFKKhJ4-37mroz3wn9p8YejZSqMG70AcTu4Z_FLB6hhof-kGO8-6KOfJcE5TXPvrziWpqDpLu_Mi64u8ilPMtdicwexovYdtmVQhhFOTlAeEamKEccbGQf4Y15ufNQRggwtyzLJy32qocItBHu4FX7FLYDYbnjBXuYMtflnNB4ttrzIdynMPcquxs/s1600/silver.jpg"
+    },
+    {
+      "id": "6dfd38f177f2678ef10276598d941ff8a14a38be",
+      "title": "The Outsized Shadow: Why 5% of AI Users Are Your Biggest Security Risk",
+      "url": "https://thehackernews.com/2026/08/the-outsized-shadow-why-5-of-ai-users.html",
+      "published": "2026-08-24T11:30:00+00:00",
+      "summary": "Big security risks come in small packages. While enterprise security teams focus on policing the proliferation of employees using ChatGPT and Claude for quick drafting tasks, a more urgent threat is posed by a handful of AI super-adopters who are quietly hardcoding unvetted tools into critical business operations.\n\nAccording to new research published by Akamai, the top 5% of enterprise power",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieDz2kEMi471xtnJ2B7i_ZktQTUHhbJAIOlNAaFfVdJVPWDC-3EqH2REiyGuaUl95lmXvtcl-oPpQy3MO0-5uulT4L4Uyheni6apbwxzycAw7yVmuYqAWaSjYbEw_BaJKsmGhrUPrb6hVeatf488NrNMVX-xorjY66ZIG9wR50pUdFBOs9avzlu9b91iw/s1600/ai-usage.jpg"
+    },
+    {
+      "id": "55c3f66451ed5e0a0786ec27e94f49cc7f364569",
+      "title": "UAT-10147 Uses AI to Scale Server Attacks, Deploys SPECTRE With EDR Bypass and Linux Rootkit",
+      "url": "https://thehackernews.com/2026/08/uat-10147-uses-ai-to-scale-server.html",
+      "published": "2026-08-24T08:08:31+00:00",
+      "summary": "Cybersecurity researchers have disclosed details of a Chinese-speaking cybercrime group dubbed UAT-10147 that's targeting Windows and Linux web servers globally across the education, media, technology, and gaming sectors.\n\nThe vast majority of the targets are located in Brazil, Bolivia, China, Canada, and Vietnam. Details of the threat activity came to light following the discovery of an open",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4-mx98ENuq77sCTBd49TSl4Ov5dD1Wua0Vf1MiyVVPfcFckY__TjnTEOeC5CIQWX4L_OLA-xZHHY5nAlp926SIpa3eK8Tvfw1HSHHK1GMot7noTz4Cg36t-ZuZ-NUh5mnsfzs0HJ8F7p410LgWFVPN39PYh8YR6qkDlE8duNKmKpOtJHW4NA9T_ddTGLp/s1600/hackers.jpg"
     },
     {
       "id": "b55737a91db0981083250ae93e8cde820cc071f7",
@@ -605,61 +660,6 @@
       "region": "North America",
       "country": "US",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5Jfag1_E06odK7mkATjCOSPdD_fHy2kcYYHfi9fDNTsk0CRkV2yJD0Uz4MV82XjbMR5QNyK3Akw5Ysf0N7fDQ3DwApNb5Tf9R4axktScKF3UZlMVtrY3ulTzrYjFviMA8HmIUCBZhxmR59TtnJ7xf-B_iJtl3SWiBZAFbOfhUoldNdZX0sOStx6ULNMSZ/s1600/wordpress-flaw.jpg"
-    },
-    {
-      "id": "4e3fe1bfc797b864f313bd05223a91db09ea4996",
-      "title": "Cavern C2 Uses DNS and Google Apps Script to Blend Into Legitimate Traffic",
-      "url": "https://thehackernews.com/2026/08/cavern-c2-uses-dns-and-google-apps.html",
-      "published": "2026-08-17T17:41:06+00:00",
-      "summary": "Cybersecurity researchers have traced the continued evolution of the Cavern (aka Cav3rn) command-and-control (C2) framework used by Iranian nation-state hackers in attacks targeting entities in Israel.\n\nRussian cybersecurity company Kaspersky said its ongoing monitoring of the threat activity cluster since December 2025 has led to the discovery of previously unreported components that expand the",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhu-MyaPNuRr2_NJ_TMqLf7OYW5AzCqgHpQ6HMfxlc-qsMzwSkfWlZDbHfecZ3IRp639FVDelhMZgpbnN87Fdchoh-g08R-cAiXxr7RvfdGy_ihvMxg152HK-rbOTIOnEueRTnPT-wU0eID3vplpIN1GBClvJC5e0egCGpDb_H0ykwH1x6a4zOvpW8V-Ssy/s1600/google.jpg"
-    },
-    {
-      "id": "d1deb81ec267f6539ae327a691fcf089cb1e95f3",
-      "title": "\u26a1 Weekly Recap: VMware Exploits, Windows 0-Day, MCP Attacks, Browser Hijacks and More",
-      "url": "https://thehackernews.com/2026/08/weekly-recap-vmware-exploits-windows-0.html",
-      "published": "2026-08-17T13:23:51+00:00",
-      "summary": "The expensive attacks are not always the clever ones.\n\nThis week had plenty of proof. Exposed services got hit, old bugs found fresh use, browser sessions became attack paths, and supply-chain problems kept spreading farther than the original compromise. A lot of it came down to access that was already there and defenses that assumed nobody would look too closely.\n\nSo, nothing magical. Just a",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgObgx3d_pR3qN3UrW69UfMgB-yM7RmfpKrQjvzqtAsNaQ3nVsIKNIiz5p0BsZCppmE4BWH9Wle92WombnIdCdT0BsHkv-_lDcEdIkYvsGrnch6OQHbAr3FUj-QjM8aDdKPNdnez6SXczT4sXNn8KX4QgmG6BiapFhq35I0cdZckWblyoaTVr7rjY5idp5V/s1600/cyber-recap.jpg"
-    },
-    {
-      "id": "6ccd7a15a7ac096ed44a8cdf1a1c0a97453680ac",
-      "title": "How MCP Servers Can Expose Enterprise Secrets",
-      "url": "https://thehackernews.com/2026/08/how-mcp-servers-can-expose-enterprise.html",
-      "published": "2026-08-17T11:58:00+00:00",
-      "summary": "MCP servers can expose enterprise secrets through plaintext configuration files, over-permissioned access and prompt injection, often before security teams even know the server is running. As more organizations adopt AI agents into their systems, that exposure can silently become a major gap in MCP server security. The Model Context Protocol (MCP) allows AI agents to reach the tools and data,",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmy_mE0_W-wEeuppBUYhS19P_uTo6RifgrGEV5eLim_B6KkhI_BO5wSL930qS_NCD6aR7nL5mAizU4RAfinzkWhz-oq1wCnHszL6C25H0Sj_MahJIBsr7lw_wzJ7xZ4YF7-GVJJO0L1wxe8LQXv3rHuLV3vbuDUEQ9D7vXa6D4zK6ARD1aFmiQv4fka5Y/s1600/keeper.png"
-    },
-    {
-      "id": "7f864a73a927854772ad41ec382ab6aa501c2ae0",
-      "title": "Unisoc VoLTE Video Call Exploit Chain Can Give Attackers Full Android Kernel Access",
-      "url": "https://thehackernews.com/2026/08/unisoc-volte-video-call-exploit-chain.html",
-      "published": "2026-08-17T10:52:34+00:00",
-      "summary": "Security researchers at SSD Secure Disclosure have published a two-stage exploit chain that achieves full Android kernel access on devices running Unisoc modem firmware through a VoLTE video call, with no fix from the chipset maker.\n\nThe&nbsp;advisory, published August 17, 2026, is the second stage of a chain that began in March 2026, when SSD disclosed&nbsp;remote code execution&nbsp;in the",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIqVuTpKFLy55ilEFObjJqUsVDu7qTrQCYAFsh7bbMcF4xv61h8I6tfue0tGw04yWGhDg_cZ-r0v9Jw-kjNmm5ZYpbebrvlgixiqID5pSUwXb8dQSg12cI5kFkR4BKK0mwc6rMP-9ULTHob-bi7rgfYxGBixmNhGy75tlqn5tlc6OXjpGGZemXbq0yHRY/s1600/android.jpg"
-    },
-    {
-      "id": "94401e3a9e83ec114178b827dd3d701c3b0645ef",
-      "title": "Evooo1Bot Linux Botnet Exploits Known Flaws to Turn Edge Devices Into SOCKS5 Proxies",
-      "url": "https://thehackernews.com/2026/08/evooo1bot-linux-botnet-exploits-known.html",
-      "published": "2026-08-17T09:29:55+00:00",
-      "summary": "Cybersecurity researchers have flagged a previously undocumented Linux botnet family dubbed Evooo1Bot that derives its core functionality from the Mirai botnet source code and is equipped to turn internet-facing devices into SOCKS proxies.\n\n\"While the malware reuses the DDoS engine from the publicly leaked Mirai source code, it extends the original framework with numerous capabilities, including",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIDrkyaW1magTuvTfLfkhtk_8stt1zYUxgonTZX1yaI_OGxsGMV9wCRE8bglbRubclVma7bkghEbmah6ku4T2ZVnpSngl6k5Cw0iCXgNNpuy6I2ZNPQOYYIfqKNgcVQxkqZdgvFLLM82bK1By0hrAm4i9slLnFQwQmwLmpR8I9eb8Paze2sf2UJMlol81Q/s1600/linux-botnet.jpg"
     },
     {
       "id": "5c9215ebb70ab81b2e71a32395fc8976f57b5bc9",
@@ -1212,6 +1212,17 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf9a01e6b265bc8c2/6a74e71b469e8f1b3353e662/sandbox-diczman-GettyImages-2237058218.jpg?width=720&quality=80&disable=upscale"
     },
     {
+      "id": "1f10f1bdac9a95b10f3062bdd2a53abbe91eb885",
+      "title": "Security vets rally around $4 paper password books for sale in Australia",
+      "url": "https://www.theregister.com/security/2026/08/24/security-vets-rally-around-4-paper-password-books-for-sale-in-australia/5291234",
+      "published": "2026-08-24T10:17:00+00:00",
+      "summary": "Once shunned by the IT crowd, pen-and-paper password vaults are getting the love they deserve in 2026",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=5269504&width=800"
+    },
+    {
       "id": "e27266507cd21b897783f55381bc8669900239e5",
       "title": "If you're not using AI to attack your own systems, your adversaries will",
       "url": "https://www.theregister.com/security/2026/08/22/if-youre-not-using-ai-to-attack-your-own-systems-your-adversaries-will/5291346",
@@ -1751,15 +1762,125 @@
       "image": "https://image.theregister.com/?imageId=1683286&width=800"
     },
     {
-      "id": "4250214b1d3f8d86ab00fb800f7854f2f4cf716d",
-      "title": "DEF CON dingus suspected of trying to take over Delta in-flight Wi-Fi",
-      "url": "https://www.theregister.com/security/2026/08/11/def-con-dingus-suspected-of-trying-to-take-over-delta-in-flight-wi-fi/5286331",
-      "published": "2026-08-11T16:27:57+00:00",
-      "summary": "This is why we can't have nice things, people",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=260314&width=800"
+      "id": "d878e0c4e97714ff9c6d7347279e64e1cd0ca124",
+      "title": "Who\u2019s Tracking You? Use This New Service to Find Out",
+      "url": "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/",
+      "published": "2026-08-14T11:24:35+00:00",
+      "summary": "It can be daunting to determine who's responsible for showing ads on the websites we visit, or who's harvesting data from the mobile apps we use every day. That information is already semi-public, but it is not easily parsed and traditionally much of it has remained walled away in the hands of large advertising platforms. Not anymore: A powerful and free new service called DecryptAds scrapes and correlates this adtech data and makes it simple to quickly learn a great deal about the entities that are tracking you.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "cff573d711d0832681486b99ebf6dcf4f762bf76",
+      "title": "Microsoft Plugs Nearly 400 Security Holes",
+      "url": "https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/",
+      "published": "2026-08-11T21:28:35+00:00",
+      "summary": "Microsoft today released updates to remedy at least 398 security vulnerabilities in its Windows operating systems and supported software, including one weakness that is already being actively exploited and two others that were publicly detailed prior to today.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "227e8673997308a3ba6d044025a2aa09a69f6761",
+      "title": "Canadian Man Pleads Guilty in Snowflake Extortions",
+      "url": "https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/",
+      "published": "2026-08-06T17:00:56+00:00",
+      "summary": "A 26-year-old Canadian man once described as one of the most consequential cybercrime threat actors of 2024 has pleaded guilty to computer fraud and conspiracy to hack and extort more than 165 organizations that used the cloud data storage provider Snowflake. Connor Riley Moucka, of Kitchener, Ontario, also admitted to stealing call and text history records of more than 100 million AT&#038;T customers.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "1ef900d67892d7005542a0a28d0e10bf83553327",
+      "title": "Read This Before You Buy That TV Streaming Stick",
+      "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
+      "published": "2026-07-30T16:49:00+00:00",
+      "summary": "Security experts have been sounding the alarm for years about the risks of using generic TV boxes that promise unlimited content streaming for a one-time fee, warning that they secretly rent the user's Internet connection out to strangers. But a groundbreaking new analysis finds these devices also routinely spoof themselves as mobile phones clicking ads on AI-generated websites as part of sprawling operation that seeks to defraud online merchants and advertising networks.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "3abe54a5d9ec56c7649f5cce18abb8f221a936c6",
+      "title": "91 Vulnerabilities Patched in Spring Application Framework",
+      "url": "https://www.securityweek.com/91-vulnerabilities-patched-in-spring-application-framework/",
+      "published": "2026-08-24T11:58:28+00:00",
+      "summary": "<p>More than 200 vulnerabilities have been patched to date this year, compared to only 16 in 2025 and 22 in 2024.\u00a0</p>\n<p>The post <a href=\"https://www.securityweek.com/91-vulnerabilities-patched-in-spring-application-framework/\">91 Vulnerabilities Patched in Spring Application Framework</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "89ca6898214bb84c84010798a565e8d85f37b5f9",
+      "title": "Venezuelan Gets Record Federal Prison Term for ATM Jackpotting",
+      "url": "https://www.securityweek.com/venezuelan-gets-record-federal-prison-term-for-atm-jackpotting/",
+      "published": "2026-08-24T10:59:30+00:00",
+      "summary": "<p>Juan Manuel Gouveia-Aguilera has been sentenced to 8 years in prison for his role in an ATM jackpotting scheme that caused millions in losses.</p>\n<p>The post <a href=\"https://www.securityweek.com/venezuelan-gets-record-federal-prison-term-for-atm-jackpotting/\">Venezuelan Gets Record Federal Prison Term for ATM Jackpotting</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "c102182aa9a806d3cf5500f0fc4d26d92d58592e",
+      "title": "Personal Information Exposed in Apollo Global Data Breach",
+      "url": "https://www.securityweek.com/personal-information-exposed-in-apollo-global-data-breach/",
+      "published": "2026-08-24T10:08:42+00:00",
+      "summary": "<p>The private equity firm appears to have been targeted as part of a campaign focusing on major financial companies.</p>\n<p>The post <a href=\"https://www.securityweek.com/personal-information-exposed-in-apollo-global-data-breach/\">Personal Information Exposed in Apollo Global Data Breach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "88d988417eb8cd52645bd9f299b466da86574409",
+      "title": "Rethinking Application Security for the AI Era",
+      "url": "https://www.securityweek.com/rethinking-application-security-for-the-ai-era/",
+      "published": "2026-08-24T10:00:00+00:00",
+      "summary": "<p>As AI dramatically shortens the time from vulnerability disclosure to exploitation, enterprises must look beyond patching to reduce application risk.</p>\n<p>The post <a href=\"https://www.securityweek.com/rethinking-application-security-for-the-ai-era/\">Rethinking Application Security for the AI Era</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "c35d52e0aea110794b03986adc8fe4f685fd486d",
+      "title": "Iran-Linked Hackers Shut Down UK Power Plant for Four Days",
+      "url": "https://www.securityweek.com/iran-linked-hackers-shut-down-uk-power-plant-for-four-days/",
+      "published": "2026-08-24T09:22:09+00:00",
+      "summary": "<p>The attack caused real-world operational disruption and raised concerns about the resilience of Britain\u2019s distributed energy infrastructure and the potential for repeatable attacks.</p>\n<p>The post <a href=\"https://www.securityweek.com/iran-linked-hackers-shut-down-uk-power-plant-for-four-days/\">Iran-Linked Hackers Shut Down UK Power Plant for Four Days</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "802d37b1b43edad8a76f0be38882456953e8aa67",
+      "title": "TikTok Reaches $400 Million Settlement With US Justice Department Over Children\u2019s Privacy",
+      "url": "https://www.securityweek.com/tiktok-reaches-400-million-settlement-with-us-justice-department-over-childrens-privacy/",
+      "published": "2026-08-24T09:11:11+00:00",
+      "summary": "<p>TikTok will pay $300 million immediately and another $100 million after an order vacates an earlier consent decree against its predecessor company, Musical.ly.</p>\n<p>The post <a href=\"https://www.securityweek.com/tiktok-reaches-400-million-settlement-with-us-justice-department-over-childrens-privacy/\">TikTok Reaches $400 Million Settlement With US Justice Department Over Children&#8217;s Privacy</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "da8717ca70ea564143907b24e7cb7acb9bc0cc7f",
+      "title": "Anthropic Expands Mythos 5 Access to More Defenders, Unveils $35M Open Source Fund",
+      "url": "https://www.securityweek.com/anthropic-expands-mythos-5-access-to-more-defenders-unveils-35m-open-source-fund/",
+      "published": "2026-08-24T07:18:58+00:00",
+      "summary": "<p>Claude Security, currently in public beta for Claude Enterprise customers, now runs codebase scans on Mythos 5.</p>\n<p>The post <a href=\"https://www.securityweek.com/anthropic-expands-mythos-5-access-to-more-defenders-unveils-35m-open-source-fund/\">Anthropic Expands Mythos 5 Access to More Defenders, Unveils $35M Open Source Fund</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
       "id": "3e7689a604490bb864893d2d33a0fa4d6e3cd6da",
@@ -1789,83 +1910,6 @@
       "url": "https://www.securityweek.com/in-other-news-zombie-card-attack-t-mobile-cut-cable-to-stop-hackers-github-denies-ai-caused-bug/",
       "published": "2026-08-21T15:11:16+00:00",
       "summary": "<p>Other noteworthy stories that might have slipped under the radar: Threema DDoS attack, Evooo1Bot Linux botnet, Crypto4A secures top-tier NIST certification.</p>\n<p>The post <a href=\"https://www.securityweek.com/in-other-news-zombie-card-attack-t-mobile-cut-cable-to-stop-hackers-github-denies-ai-caused-bug/\">In Other News: Zombie Card Attack, T-Mobile Cut Cable to Stop Hackers, GitHub Denies AI Caused Bug</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "e76c86c5e85ff8a4f1a693baaaa410dd8e60a9c8",
-      "title": "Encrypted Prompts Bypass AI Safety Guardrails in Grok and Gemini",
-      "url": "https://www.securityweek.com/encrypted-prompts-bypass-ai-safety-guardrails-in-grok-and-gemini/",
-      "published": "2026-08-21T14:34:05+00:00",
-      "summary": "<p>Researchers say the new \u2018Cryptographic Context Injection\u2019 technique conceals malicious instructions until they are decrypted inside a trusted execution environment.</p>\n<p>The post <a href=\"https://www.securityweek.com/encrypted-prompts-bypass-ai-safety-guardrails-in-grok-and-gemini/\">Encrypted Prompts Bypass AI Safety Guardrails in Grok and Gemini</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "c2ebf1d469d3a13a757abea7ea04c4b1acf26faf",
-      "title": "New Phishing Toolkit Uses Passkeys to Maintain Access After Password Resets",
-      "url": "https://www.securityweek.com/new-phishing-toolkit-uses-passkeys-to-maintain-access-after-password-resets/",
-      "published": "2026-08-21T14:22:06+00:00",
-      "summary": "<p>Researchers say iAuthFlow V2 can register an attacker-controlled passkey, enabling persistent access even after passwords are changed and active sessions revoked.</p>\n<p>The post <a href=\"https://www.securityweek.com/new-phishing-toolkit-uses-passkeys-to-maintain-access-after-password-resets/\">New Phishing Toolkit Uses Passkeys to Maintain Access After Password Resets</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "7eae6756abb235527256f51e6c361fcde6cf8039",
-      "title": "Critical Isolated-vm Vulnerability Leads to RCE on Host",
-      "url": "https://www.securityweek.com/critical-isolated-vm-vulnerability-leads-to-rce-on-host/",
-      "published": "2026-08-21T12:26:07+00:00",
-      "summary": "<p>The type confusion bug can lead to V8 sandbox escape and control-flow hijacking of the host process.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-isolated-vm-vulnerability-leads-to-rce-on-host/\">Critical Isolated-vm Vulnerability Leads to RCE on Host</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "154abb53a0714719ab825ce757f6222f51a468dc",
-      "title": "Rust Supply Chain Attack Linked to North Korean Hackers",
-      "url": "https://www.securityweek.com/rust-supply-chain-attack-linked-to-north-korean-hackers/",
-      "published": "2026-08-21T09:23:18+00:00",
-      "summary": "<p>Hackers pushed a poisoned arrayref version that added a dependency to fetch a malicious payload from a remote server.</p>\n<p>The post <a href=\"https://www.securityweek.com/rust-supply-chain-attack-linked-to-north-korean-hackers/\">Rust Supply Chain Attack Linked to North Korean Hackers</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "e5043fb8f9b01f814a12874bd7fdef25c72fa175",
-      "title": "Contractors\u2019 CMMC Confidence Rises as Ability to Prove It Falls Behind",
-      "url": "https://www.securityweek.com/contractors-cmmc-confidence-rises-as-ability-to-prove-it-falls-behind/",
-      "published": "2026-08-21T08:41:06+00:00",
-      "summary": "<p>Two industry surveys released this week by Kiteworks and CyberSheath paint a consistent picture of the defense industrial base.</p>\n<p>The post <a href=\"https://www.securityweek.com/contractors-cmmc-confidence-rises-as-ability-to-prove-it-falls-behind/\">Contractors&#8217; CMMC Confidence Rises as Ability to Prove It Falls Behind</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "292f4bce0db232bd8224a2cd58917bc3e366c8c1",
-      "title": "Microsoft Patches Exploited Entra ID Vulnerability",
-      "url": "https://www.securityweek.com/microsoft-rolls-out-22-fresh-security-patches/",
-      "published": "2026-08-21T08:12:19+00:00",
-      "summary": "<p>A total of 22 patches were releaased, a majority for code execution, privilege escalation, and information disclosure vulnerabilities.</p>\n<p>The post <a href=\"https://www.securityweek.com/microsoft-rolls-out-22-fresh-security-patches/\">Microsoft Patches Exploited Entra ID Vulnerability</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "d6812ed6951f1acf280f10bda1511ae55404fcc0",
-      "title": "CISA Urges Immediate Patching of Exploited TrueConf Vulnerabilities",
-      "url": "https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-trueconf-vulnerabilities/",
-      "published": "2026-08-21T07:25:50+00:00",
-      "summary": "<p>The Head Mare hacktivist group has been exploiting the bugs to deploy the PhantomCore malware.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-trueconf-vulnerabilities/\">CISA Urges Immediate Patching of Exploited TrueConf Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
