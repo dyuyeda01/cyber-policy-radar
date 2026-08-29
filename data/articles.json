@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T21:32:48.789779+00:00",
+  "generated_at": "2026-08-29T04:25:28.787577+00:00",
   "items": [
     {
       "id": "0b943d00ec6b6c3c1c2f97cd9bbc0239a778d636",
@@ -110,6 +110,17 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "cc7c93e350718ae5186224600e0d2a9561d523cf",
+      "title": "Berlin Refuses to Pay Hackers Who Stole Data From the City's State Network",
+      "url": "https://thehackernews.com/2026/08/berlin-refuses-to-pay-hackers-who-stole.html",
+      "published": "2026-08-28T21:30:52+00:00",
+      "summary": "Berlin's state government has confirmed that it is the target of an extortion attempt following the August compromise of the city's state administrative network, and said it will not meet the extortionists' demands.\n\nThe same statement disclosed that forensic work had found further data outflows in the portfolio of the Senate Department for Mobility, Transport, Climate Protection and Environment",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRLS8X8abAbJ9p1f1jp9VIUeKfRa4l4gAIgmCWsw1eXZuJ7SY201P6w6V8NYVf1CHpaN_pyAuLg-6h-e9RYFBlBFsl3k5egiOnoj8ZiXScxu8El1jZExmlyNYfunp0Z4j5F0PYSg4Ltu0yldY-wKmI2TC5UU-7mrasEsZ_SyEso7dGFvLIpcA8hdHqVdw/s1600/berlin.jpg"
     },
     {
       "id": "3cb4c952ff5e4b8a662b7d4d69634ee83d33bb04",
@@ -651,17 +662,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNZ5JtaLAZIvAO7R42dqB1NBKwtOlFHZIl0yqtfPhyphenhyphenHMJB9MMg8oLLb8p6n9mF67PgHSytYigaqeAoGejuVd42lDlCT42T6vqCgfl6IE-8LnMQjyiCj8MVMdg5ZKznn2cZ18T9zubhLJ-JUZLSWeqEVGQbke44f83WHpoMuaVM9J6G0FA-9RG8_wb8lUTt/s1600/windows-signin.jpg"
     },
     {
-      "id": "08f456205e68a95acd961060360e3e30f0661c99",
-      "title": "Critical Keycloak Password Reset Flaw Could Let Unauthenticated Attackers Take Over Any Account",
-      "url": "https://thehackernews.com/2026/08/critical-keycloak-password-reset-flaw.html",
-      "published": "2026-08-24T11:56:34+00:00",
-      "summary": "Red Hat and the Keycloak project have released patches to address a critical security flaw in the open-source identity and access management server that could allow an unauthenticated remote attacker to take over any user account by forcing a password reset.\n\nThe vulnerability, assigned the CVE identifier&nbsp;CVE-2026-18963, is rated 9.1 on the CVSS scoring system by Red Hat, which acts as",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhB3jURz2EzucPTALqHju1yDNnbHFvawrKxEfvNEprkdA3QIDyOjuUqvHOyTyiZuYJR-4KwewHnd8CdT37TDxBMBK3OLknOxym2a0klblR6rNUc2lqXHdAQUl1JO8uE7bGupO-WqsaEM0UDLUGyWICu5fkA6x4GwNUCo_w3quxp8joYWhNX8grP55eVg8/s1600/keylock.jpg"
-    },
-    {
       "id": "1553c7aa63520a093199dc6b7d6042c1d50ad874",
       "title": "Hundreds of OpenAI Agents Invaded Hugging Face Servers",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/hundreds-openai-agents-invaded-hugging-face-servers",
@@ -682,6 +682,28 @@
       "region": "North America",
       "country": "US",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt95f718d0e919dd49/6a91bb856ab06b3d40bc21f3/lanowitz.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "id": "380057f0504a39b0b1f450925c15494e87f74b49",
+      "title": "[Virtual Event] What Every Enterprise Should Know About Securing Cloud Assets in the Age of AI",
+      "url": "https://www.darkreading.com/events/virtual-event-what-every-enterprise-know-securing-cloud-2026",
+      "published": "2026-11-12T16:00:00+00:00",
+      "summary": "",
+      "source": "DarkReading",
+      "region": "North America",
+      "country": "US",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltaff0d27801ea21af/6a92220704334b0b8d8445e9/DR-Cloud-AI-VE-2026.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "id": "fa357236e138c97c511e12b7ebf73925e1295122",
+      "title": "[Virtual Event] Building a Secure AI Strategy for the Enterprise",
+      "url": "https://www.darkreading.com/events/virtual-event-building-secure-ai-strategy-enterprise-2026",
+      "published": "2026-10-08T15:00:00+00:00",
+      "summary": "",
+      "source": "DarkReading",
+      "region": "North America",
+      "country": "US",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt11afeac15e7adbb9/6a921187f8aef68330d6ae57/DRIW-AI-Strategy-VE-Oct26.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "id": "2b4cc31eb769d40741472d7d782b1f7a37588913",
@@ -1188,28 +1210,6 @@
       "region": "North America",
       "country": "US",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt998467101da3f975/6a82f98ac19d9402c559c55d/robot-army-laurent-davoust-alamy.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "id": "d0e00699976df0b1947a80ad194cb7b1df8bfad9",
-      "title": "Mission-Driven Security: Inside a Global Bank's Defense",
-      "url": "https://www.darkreading.com/cybersecurity-operations/mission-driven-security-inside-global-bank-defense",
-      "published": "2026-08-14T19:24:18+00:00",
-      "summary": "In this video interview, Standard Chartered's group CISO shares insights on transitioning from technical roles to strategic leadership, the importance of business-savvy security executives, and how AI is reshaping both defensive capabilities and adversarial tactics in banking.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltaf878ea5b4a138a7/6a7f5e48b01ed02ddabd5447/standardchartered1800_winhorse_GettyImages-1344776566.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "id": "b40a403bc88ea1eb5a46035901d82ab2f63e6e26",
-      "title": "Amid AI-Driven Bug-Hunt Tsunami, NIST Looks to \u2026 AI",
-      "url": "https://www.darkreading.com/vulnerabilities-threats/ai-driven-bug-tsunami-nist-looks-to-ai",
-      "published": "2026-08-14T17:32:46+00:00",
-      "summary": "Driven by AI-augmented research and scanning, vulnerability volumes continue to surge, driving the National Institute of Standards and Technology to ask whether AI could be the answer.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf82784f3cda996ab/6a7f597749a6b3967594a791/tsunami-John_Lund-Getty-114571378.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "id": "8b749efc7a6ff914c60266272aa5093278bc7d5f",
@@ -1760,6 +1760,61 @@
       "region": "Europe",
       "country": "UK",
       "image": "https://image.theregister.com/?imageId=5239796&width=800"
+    },
+    {
+      "id": "861f4dd4c580966a80c1122d9ffeb9b61acc3973",
+      "title": "Two Alleged \u2018TeamPCP\u2019 Hackers Arrested in Australia",
+      "url": "https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/",
+      "published": "2026-08-27T11:04:15+00:00",
+      "summary": "Authorities in Australia have arrested two men believed to be members of TeamPCP, a prolific cybercrime and data extortion group blamed for perpetrating the longest running spree of software supply chain attacks ever.\n\nIn a statement released today, the Australian Federal Police (AFP) said two unnamed suspects from Western Australia, aged 21 and 23, were arrested in connection with a \"sophisticated cybercrime syndicate that allegedly created malicious open-source software to rob thousands of global businesses.\"\n\nThe AFP did not name the defendants, but KrebsOnSecurity learned the 21-year-old suspect's real identity in June, and has been communicating with him ever since. This story includes interviews with TeamPCP's self-described spokesperson, and examines clues left behind by the TeamPCP leader that likely led to his undoing.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "d878e0c4e97714ff9c6d7347279e64e1cd0ca124",
+      "title": "Who\u2019s Tracking You? Use This New Service to Find Out",
+      "url": "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/",
+      "published": "2026-08-14T11:24:35+00:00",
+      "summary": "It can be daunting to determine who's responsible for showing ads on the websites we visit, or who's harvesting data from the mobile apps we use every day. That information is already semi-public, but it is not easily parsed and traditionally much of it has remained walled away in the hands of large advertising platforms. Not anymore: A powerful and free new service called DecryptAds scrapes and correlates this adtech data and makes it simple to quickly learn a great deal about the entities that are tracking you.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "cff573d711d0832681486b99ebf6dcf4f762bf76",
+      "title": "Microsoft Plugs Nearly 400 Security Holes",
+      "url": "https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/",
+      "published": "2026-08-11T21:28:35+00:00",
+      "summary": "Microsoft today released updates to remedy at least 398 security vulnerabilities in its Windows operating systems and supported software, including one weakness that is already being actively exploited and two others that were publicly detailed prior to today.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "227e8673997308a3ba6d044025a2aa09a69f6761",
+      "title": "Canadian Man Pleads Guilty in Snowflake Extortions",
+      "url": "https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/",
+      "published": "2026-08-06T17:00:56+00:00",
+      "summary": "A 26-year-old Canadian man once described as one of the most consequential cybercrime threat actors of 2024 has pleaded guilty to computer fraud and conspiracy to hack and extort more than 165 organizations that used the cloud data storage provider Snowflake. Connor Riley Moucka, of Kitchener, Ontario, also admitted to stealing call and text history records of more than 100 million AT&#038;T customers.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "1ef900d67892d7005542a0a28d0e10bf83553327",
+      "title": "Read This Before You Buy That TV Streaming Stick",
+      "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
+      "published": "2026-07-30T16:49:00+00:00",
+      "summary": "Security experts have been sounding the alarm for years about the risks of using generic TV boxes that promise unlimited content streaming for a one-time fee, warning that they secretly rent the user's Internet connection out to strangers. But a groundbreaking new analysis finds these devices also routinely spoof themselves as mobile phones clicking ads on AI-generated websites as part of sprawling operation that seeks to defraud online merchants and advertising networks.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
       "id": "a3fc93521b83d1ec533fa639b2302383150e993e",
