@@ -1,6 +1,28 @@
 {
-  "generated_at": "2026-09-01T15:37:25.332023+00:00",
+  "generated_at": "2026-09-02T01:34:34.822745+00:00",
   "items": [
+    {
+      "id": "377497b89d895b65d36903982a7dc34bee60ec61",
+      "title": "Security policies fail to keep up with a hybrid cloud world",
+      "url": "https://www.cybersecuritydive.com/news/security-policies-fail-keep-up-hybrid-cloud/829256/",
+      "published": "2026-09-01T16:00:00+00:00",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/q1EqHf99Vg3vlm2Yg3Jxti_p8B2SXqx3cSjrsipyQmw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjExODkzOTYyLmpwZw==.webp\" /></div></figure><p>Roughly two-thirds of companies have suffered a business-critical app outage due to misconfigured security policies, a Cloud Security Alliance report found.</p>",
+      "source": "Cybersecurity Dive",
+      "region": "North America",
+      "country": "US",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "11ca695c84f2dbde85dfeb1532d0e1282c76e129",
+      "title": "Frontier AI used to help exploit flaws in key industrial devices",
+      "url": "https://www.cybersecuritydive.com/news/frontier-ai-exploit-flaws-water-PLCs-industrial-devices/829307/",
+      "published": "2026-09-01T15:16:58+00:00",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/ztDkV4PrMV67v48mWTQ6ag77YKQyTBVys8oM9e9Djd4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9QaG90b19BdWdfMzFfMjAyNl8xMl8wN18wOV9QTS5qcGc=.webp\" /></div></figure><p>A report showed that Claude could help hackers develop attack strategies targeting PLCs used by water utilities and other industries.</p>",
+      "source": "Cybersecurity Dive",
+      "region": "North America",
+      "country": "US",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
     {
       "id": "6139e8232d6125755ee6323ce15b909bbba93d02",
       "title": "PaperCut issues emergency patches as threat actors target chained vulnerabilities",
@@ -90,26 +112,26 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "ec0fd96e16297e6ec0dd34dd4f52e69ab191b823",
-      "title": "Researchers warn about chained SharePoint sequence",
-      "url": "https://www.cybersecuritydive.com/news/researchers-warn-about-chained-sharepoint-sequence/828726/",
-      "published": "2026-08-25T15:33:26+00:00",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/v5ZwxHS6ZFhwHbLAmpWOWj1Seoc_bnNS6vCuMm05zL4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NaWNyb3NvZnRfR2V0dHlJbWFnZXMtMTUwOTMxMDM4My5qcGc=.webp\" /></div></figure><p>An authentication bypass flaw is already under exploitation, the latest in a series of recent SharePoint attacks.&nbsp;</p>",
-      "source": "Cybersecurity Dive",
+      "id": "79a539446b8e43b7b3c0ad6ad40f2fbb688dec37",
+      "title": "Attackers Exploit Critical JFrog Artifactory Flaw to Mint Admin Tokens Days After Disclosure",
+      "url": "https://thehackernews.com/2026/09/attackers-exploit-critical-jfrog.html",
+      "published": "2026-09-01T17:53:11+00:00",
+      "summary": "Threat actors are exploiting a newly patched critical security flaw impacting JFrog Artifactory merely days after public disclosure, according to watchTowr.\n\nThe vulnerability in question is CVE-2026-82329 (CVSS score: 9.8), a case of authentication bypass that could lead to administrative access in Artifactory.\n\n\"JFrog Artifactory contains an authentication weakness that, under default",
+      "source": "The Hacker News",
       "region": "North America",
       "country": "US",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0o8dDcHW4CJBLnXfYzfofbG1w0Fi4zCPqcjEgASsL0gXnESv5isMONZgXzek2rM3VwkhnEqz2K4whDwB_lFylCYvfXASQmsQSPA-8U25998PBT2Xopdaaj9_iG0XqdBPu6iXRmtlN2CGc8b5mv3t68CVxV2HYneRkiUhUu3EIgSogEgipzJUiymLfl0NQ/s1600/jfrog.jpg"
     },
     {
-      "id": "a35e4c0c9d40d6fec689423968e2f635b6a2f50a",
-      "title": "CISA orders agencies to fix exploited Zimbra vulnerability",
-      "url": "https://www.cybersecuritydive.com/news/cisa-zimbra-flaw-patch-mandate-kev/828718/",
-      "published": "2026-08-25T15:10:12+00:00",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/G6cjGPfTL-9L3AlM0TMnDtq76QUOu5qj5EeCH0W3iUY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTY5MjA0NzU2LmpwZw==.webp\" /></div></figure><p>The collaboration software&rsquo;s developer took almost a full month to patch the flaw after disclosing it.</p>",
-      "source": "Cybersecurity Dive",
+      "id": "56154d829c83d60c98afa9358406532a83ebaec8",
+      "title": "Breeze Comet Executes Hundreds of Fraudulent Transactions via Brazilian Payment Systems",
+      "url": "https://thehackernews.com/2026/09/breeze-comet-executes-hundreds-of.html",
+      "published": "2026-09-01T17:19:24+00:00",
+      "summary": "Brazilian financial services, retail, and e-commerce organizations have become the target of a financially motivated threat actor dubbed Breeze Comet (formerly UNC5669) since 2024.\n\nGoogle Threat Intelligence Group (GTIG) and Mandiant teams described the threat actor as \"specializing in manipulating payment systems and banking software in Brazil to conduct fraudulent transfers.\" The adversary",
+      "source": "The Hacker News",
       "region": "North America",
       "country": "US",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvGVdje0roDTqKcU541FTx34ODDmuBU-qtwYwoW0-qAYscD9yX5stIs8EhQtC7gnwM4WpqNTjYFRRwXm7w97C5tY7eEhCQJ89Y_uesRzrbbuR7knHdEkoDetSlRpfa8XOD_rdChE5yFh3VtBPlChgYRKp9ZDon-0B1_VAM9NOd0_xvgw9gD_YF7lSBXiPI/s1600/brazil.jpg"
     },
     {
       "id": "42489679bde871c118fce855948fb8b999a7981c",
@@ -640,26 +662,59 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYeHiMtBGSU21fSYRfXqsYMwsXlIfdl_w5goundqFoLSR1HYz30bgzdHuA1ft2gHjWiS5B-nE5ZpmY1gJiTDlsF8bwwYK9ogGAPmEHWNTA-hVLp09KaMvsu6DbcCW-ZTNtcZj2xHoH4fHhTsr7_zbUoiYKJI6Yj9YdxtbQNBEdv0apv1c3buQiaXmLeMkT/s1600/interpol.jpg"
     },
     {
-      "id": "2f41fa9d9b744abc783393887a78e0ce992ed45d",
-      "title": "New SLEEPWALKER Backdoor Waits for One Crafted Packet, Then Runs Its Own Bytecode",
-      "url": "https://thehackernews.com/2026/08/newly-sleepwalker-backdoor-waits-for.html",
-      "published": "2026-08-26T07:12:55+00:00",
-      "summary": "An independent malware researcher has documented a previously unreported Windows backdoor, dubbed SLEEPWALKER, that stays inert in memory until a specifically crafted network packet reaches the machine and then runs commands written in a 23-instruction language of its own design.\n\nThe sample is an unsigned 64-bit Windows dynamic-link library (DLL) of 59,904 bytes, built to be side-loaded into&",
-      "source": "The Hacker News",
+      "id": "47af0e0edff9cfcd9852902014bbd3b7a3b1bbd1",
+      "title": "Old, Unpatched Flaws Give Attackers Access to Philippines Nuclear Agency",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/old-unpatched-flaws-attackers-philippines-nuclear-agency",
+      "published": "2026-09-02T01:00:00+00:00",
+      "summary": "Threat actors exploited commodity in ownCloud to gain initial access, resulting in stolen reactor databases, personnel records, and credential stores.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSnbO35IDgg9dQouCuUCpAko8PiGwwI3lhn7I68m0Ok-PGL84lR1CU0sKk5rWfurFY7u1Fz-9U0-CXi1VCuAVpZDpKF3uDnvtyb062Kls6vW8L7xkTnZBPPJteihNrIWV3C__6JMphWMC7ER4_2bsgKDfzIuq5naTBB3pgZvKvD2v4djmpMh96F62y8Qg/s1600/sleepwalker.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt61b6b950560b6729/6a974efda0ff3877b64d75b3/philippines-south-china-sea-map-AustralianCamera-shutterstock.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "id": "85869282d537c6f4fd1ab57ae687d04feb291896",
-      "title": "Critical Gitea RCE Actively Exploited as Reported Attack Drops Miner-Like Payload",
-      "url": "https://thehackernews.com/2026/08/critical-gitea-rce-actively-exploited.html",
-      "published": "2026-08-26T06:27:07+00:00",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday warned of active exploitation efforts targeting a recently patched critical security flaw impacting Gitea.\n\nThe vulnerability in question is CVE-2026-60004 (CVSS score: 9.8), a case of remote code execution that allows an attacker with ordinary write access to a repository to execute arbitrary shell commands as the",
-      "source": "The Hacker News",
+      "id": "fabfffd6359517edd82b909468acef3964e9309b",
+      "title": "Attackers Pounce on Critical Artifactory Flaw Following Disclosure",
+      "url": "https://www.darkreading.com/application-security/attackers-pounce-critical-artifactory-flaw-disclosure",
+      "published": "2026-09-01T21:05:53+00:00",
+      "summary": "CVE-2026-82329 is an authentication bypass flaw in JFrog's repository manager that enables bad actors to gain admin-level access on affected systems.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfnIeYEGY0lITUrkeCakPqo92gxAk1t2Rduq3Vvt-EkhAxg_vRxWngUZQjifYgv1MUnKyZMOzTPFtlOpkMfpn6K5V0ofNKBc5w0y4X2Kb3Zeoal_5J-yhUX8oPUHY8KUkDHvGc7mwp5mWm1q4pS8Xssnm13SVe9Ziunr0UeNwTq2smwxIXAP7yU_iY2rtz/s1600/cisa-git.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte71738f751de1daa/6a97388d5d30863e09d86b97/jfrog-hapabapa-Getty-1273253225.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "id": "0b3c94682be31ccd6c2f9fd265c48ddf47b8648b",
+      "title": "Stronger Security Drives Ransomware Groups to Recruit From Within",
+      "url": "https://www.darkreading.com/cyber-risk/stronger-security-drives-ransomware-groups-to-recruit-from-within",
+      "published": "2026-09-01T21:03:19+00:00",
+      "summary": "Some security researchers have observed an uptick in insider-assisted ransomware attacks, but malicious insiders pose other threats that cost companies millions.",
+      "source": "DarkReading",
+      "region": "North America",
+      "country": "US",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta00a9d9e96de1b11/6a9721055573ecd41d1f4f4b/GettyImages-1450161933.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "id": "5c77fd06c4fa6a976ceff6ced8f15b9eabbdebdf",
+      "title": "Critical Langflow Flaw Exploited as Attacks on AI Platform Rise",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/critical-langflow-flaw-exploited-attacks-rise",
+      "published": "2026-09-01T20:48:52+00:00",
+      "summary": "The attacks targeting CVE-2026-0768 are the latest threat against the low-code AI development platform, which is receiving more attention from adversaries this year.",
+      "source": "DarkReading",
+      "region": "North America",
+      "country": "US",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt036489a36358dea1/6a971529de036c92b216129d/aicoding-AreeSarak-Getty-2252848921.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "id": "fe1adca3e230b4e3b531336370af75d962fad3c8",
+      "title": "AI Model Evaluator METR Hit by Credential Theft, Probing",
+      "url": "https://www.darkreading.com/identity-access-management-security/ai-model-evaluator-metr-credential-theft-probing",
+      "published": "2026-09-01T20:13:09+00:00",
+      "summary": "In one attack, threat actors stole an API key that ultimately led to the consumption of $600,000 in public AI model credits for the security nonprofit.",
+      "source": "DarkReading",
+      "region": "North America",
+      "country": "US",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd6fa067a2ef7c79c/6a971debd849dc198a50a854/evaluation-Charday_Penn-GettyImages-1297604574.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "id": "e544e8b85ba453f7f082c6c0ce42deabc525ea16",
@@ -681,7 +736,7 @@
       "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte57f544bc451abd9/6a95e1e44e3e37aa8ed4fed0/claude_Thaspol_Sangsee_shutterstock.jpg?width=720&quality=80&disable=upscale"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9f9e09d2a1c53673/6a97083643fb84d5c0cc2cc1/claude_Thaspol_Sangsee_shutterstock_REVISED_FOR_16_X_9_RATIO.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "id": "a75625b77b05f6febf4926dda33637baa3d14bfc",
@@ -1157,59 +1212,59 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt232ea541e9b19c8b/6a84862b3f6ec4004afa5e46/china-national-AI-ImageFlow-shutterstock.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "id": "afbde52d2ee3efbb648f55eec84f43ed9bdba69f",
-      "title": "Critical GitLab Zero-Click Flaw Poses Mitigation Challenges",
-      "url": "https://www.darkreading.com/application-security/critical-gitlab-zero-click-flaw-mitigation-challenges",
-      "published": "2026-08-18T21:25:58+00:00",
-      "summary": "A lack of technical details could make it hard for organizations running self-managed GitLab versions to detect potential exploitation of CVE-2026-19478.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2a4148f110e1cfe1/6a85e47e0d336431ba15fdc0/gitlab_bella1105_shutterstock-REVISED_FOR_16X9.jpg?width=720&quality=80&disable=upscale"
+      "id": "88ecacc376b4c2fbdb4c96247bde66f5289ac027",
+      "title": "Cops, CrowdStrike disrupt Sality botnet by poisoning the network and diverting into sinkholes",
+      "url": "https://www.theregister.com/cyber-crime/2026/09/02/cops-crowdstrike-disrupt-sality-botnet-by-poisoning-the-network-and-diverting-into-sinkholes/5293795",
+      "published": "2026-09-01T23:54:07+00:00",
+      "summary": "23-year-old botnet down",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=247072&width=800"
     },
     {
-      "id": "4131ceb8828abb831dd0b25cf4b4c765863fdc9e",
-      "title": "'CoSnitch' Attack Tricked Copilot Into Mapping Out Architecture",
-      "url": "https://www.darkreading.com/vulnerabilities-threats/cosnitch-attack-copilot-mapping-out-architecture",
-      "published": "2026-08-18T20:17:24+00:00",
-      "summary": "Researchers discovered a &quot;meta-hacking&quot; technique that can manipulate the AI service into revealing its own security weaknesses.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltcaf5eccbac802b13/6a84a0beeed7cf792c0eeed7/AI_apps-alexsl-GettyImages-2213179432.jpg?width=720&quality=80&disable=upscale"
+      "id": "e19c626f619c01c72c278c02f6671859496a53f9",
+      "title": "Another Artifactory CVE under attack by AI agents or humans",
+      "url": "https://www.theregister.com/security/2026/09/01/another-artifactory-cve-under-attack-by-ai-agents-or-humans/5293769",
+      "published": "2026-09-01T21:07:13+00:00",
+      "summary": "Unauthenticated intruders can mint admin tokens, and exposed servers are already being hit",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=230216&width=800"
     },
     {
-      "id": "5e6ef98a361e26cc45fb9e81c7a7b618d311ff78",
-      "title": "The 'Industrial Accidents' Behind Rogue AI Agent Attacks \u2014 and the Sandbox Failures Exposed",
-      "url": "https://www.darkreading.com/vulnerabilities-threats/industrial-accidents-rogue-ai-agent-attacks-sandbox-failures",
-      "published": "2026-08-18T19:09:51+00:00",
-      "summary": "Rich Mogull, chief analyst with the Cloud Security Alliance, joins the Dark Reading News Desk with what defenders need to take away from AI agents escaping their environments to launch attacks.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt10b947e86b169479/6a8494d01fc1525118764111/rich_mogull_becky_bracken_news_desk.png?width=720&quality=80&disable=upscale"
+      "id": "a35e64974ea94d640fc08a7aadedc83ed89dfaec",
+      "title": "Attacker stole a METR API key, used $600K worth of credits, and no one noticed for weeks",
+      "url": "https://www.theregister.com/security/2026/09/01/attacker-stole-a-metr-api-key-used-600k-worth-of-credits-and-no-one-noticed-for-weeks/5293730",
+      "published": "2026-09-01T20:45:00+00:00",
+      "summary": "The model provider gave METR the credits for free. An actual customer would not have been so lucky",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=5293753&width=800"
     },
     {
-      "id": "8b6ece1785fdc4ca717d20dd3fcbcd7006118d08",
-      "title": "CISOs Break Their Silence in 'Declassified' Docuseries",
-      "url": "https://www.darkreading.com/cyber-risk/cisos-break-their-silence-in-declassified-docuseries",
-      "published": "2026-08-18T18:32:01+00:00",
-      "summary": "Million-dollar heists, divorce, and career-ending burnout are all stories told in the latest docuseries revealing a behind-the-scenes look at the cybersecurity community.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3d666f24b44718c6/6a84a8ad0d33646d7815f8de/GettyImages-2252724073.jpg?width=720&quality=80&disable=upscale"
+      "id": "94304d430b990b6edf0d13809e8e1f3cc9c755af",
+      "title": "Firefox helps iPhone users bypass ads on web sites while making money showing its own ads",
+      "url": "https://www.theregister.com/security/2026/09/01/firefox-helps-iphone-users-bypass-ads-on-web-sites-while-making-money-showing-its-own-ads/5293747",
+      "published": "2026-09-01T20:17:31+00:00",
+      "summary": "Baked-in Firefox ad blocking on iOS begins rolling out slowly today, and is off by default",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=260206&width=800"
     },
     {
-      "id": "7ade35be7696c5d29cc8dd8aece219f3191b3ac1",
-      "title": "'Ransom Busters': Ransomware Actor Poses as Incident-Recovery Service",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/ransom-busters-ransomware-actor-incident-recovery-service",
-      "published": "2026-08-18T13:00:00+00:00",
-      "summary": "A ransomware affiliate appears to be sidling up to victims with offers of aid, masking its true intention of diverting ransom payments.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd51dac9db97608a9/6a83674527cfd1d34eec915a/Ransomware_encryption-AndreyPopov-GettyImages-2225634481.jpg?width=720&quality=80&disable=upscale"
+      "id": "f246a9f9209ff20bfddd7636b36d61a8fc5d4c8d",
+      "title": "Anthropic pledges to try harder to keep models under control, asks partners to chip in",
+      "url": "https://www.theregister.com/ai-and-ml/2026/09/01/anthropic-pledges-to-try-harder-to-keep-models-under-control-asks-partners-to-chip-in/5293733",
+      "published": "2026-09-01T19:27:23+00:00",
+      "summary": "Security ... this time it will be different",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=5293744&width=800"
     },
     {
       "id": "0060eb6aca90c4a45a25d7833fb716bb8eb4f982",
@@ -1707,59 +1762,15 @@
       "image": "https://image.theregister.com/?imageId=5289987&width=800"
     },
     {
-      "id": "618836f4415efffa282e86df62c3311df005f084",
-      "title": "ICE boss to agents: Leave the Meta spy glasses at home",
-      "url": "https://www.theregister.com/security/2026/08/19/ice-boss-to-agents-leave-the-meta-spy-glasses-at-home/5289826",
-      "published": "2026-08-19T18:16:46+00:00",
-      "summary": "'Personally owned body-worn cameras are prohibited,' ICE tells The Reg. Because the last thing DHS needs is more proof of misconduct",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=5289846&width=800"
-    },
-    {
-      "id": "8c63bab11d4ca308137792fbe7916efff04297a2",
-      "title": "Flock surveillance backlash mounts as fiendish Halloween plans circulate",
-      "url": "https://www.theregister.com/security/2026/08/19/flock-surveillance-backlash-mounts-as-fiendish-halloween-plans-circulate/5289701",
-      "published": "2026-08-19T16:08:00+00:00",
-      "summary": "CEO apologizes for police misuse as activists call for vandal action against license plate cameras",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=259213&width=800"
-    },
-    {
-      "id": "c13fe9b1c9efe435d136eb1431684d43e8a89dab",
-      "title": "Comcast gives its Wi-Fi motion detector a security makeover",
-      "url": "https://www.theregister.com/security/2026/08/19/comcast-gives-its-wi-fi-motion-detector-a-security-makeover/5289572",
-      "published": "2026-08-19T13:14:00+00:00",
-      "summary": "Rebranded feature promises household alerts without video, but mind the small print",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=228628&width=800"
-    },
-    {
-      "id": "43b968e53e50efd46f307f183783d12815f925d6",
-      "title": "Australian hotel chain leaks guests\u2019 PII after breach at third-party database operator",
-      "url": "https://www.theregister.com/cyber-crime/2026/08/19/australian-hotel-chain-leaks-guests-pii-after-breach-at-third-party-database-operator/5289341",
-      "published": "2026-08-19T02:16:03+00:00",
-      "summary": "Unknown parties know where you stayed last summer, down under, across 120 Quest properties",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=248588&width=800"
-    },
-    {
-      "id": "8805e4a554fc15782dcf7b007cbac6187707e101",
-      "title": "OpenAI's overhead will rise 20 percent for some workloads as it hardens security",
-      "url": "https://www.theregister.com/ai-and-ml/2026/08/19/openais-overhead-will-rise-20-percent-for-some-workloads-as-it-hardens-security/5289303",
-      "published": "2026-08-18T23:36:36+00:00",
-      "summary": "Expanded multistage chain of thought monitoring makes frontier model work more expensive",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=260353&width=800"
+      "id": "a0aed382f4580bb83c67a171e9aa47301f6d1cd6",
+      "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
+      "url": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
+      "published": "2026-09-01T22:40:28+00:00",
+      "summary": "A new identity theft service launched on the dark web this week is selling digital scans of more than 153 million drivers licenses from people in the United States and Canada. Based on interviews with individuals whose licenses are available for purchase on this service, it appears to be siphoning images collected by a widely-used identity verification company based in Louisiana. KrebsOnSecurity also has learned that the New Orleans field office of the Federal Bureau of Investigation (FBI) today launched an official inquiry into the source of the images.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
       "id": "861f4dd4c580966a80c1122d9ffeb9b61acc3973",
@@ -1801,6 +1812,39 @@
       "published": "2026-08-06T17:00:56+00:00",
       "summary": "A 26-year-old Canadian man once described as one of the most consequential cybercrime threat actors of 2024 has pleaded guilty to computer fraud and conspiracy to hack and extort more than 165 organizations that used the cloud data storage provider Snowflake. Connor Riley Moucka, of Kitchener, Ontario, also admitted to stealing call and text history records of more than 100 million AT&#038;T customers.",
       "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "af66cf14cc8f6d6974e3fdb71f8dd50ccd5c4122",
+      "title": "Palo Alto Networks Acquires AI Agent Platform Console",
+      "url": "https://www.securityweek.com/palo-alto-networks-acquires-ai-agent-platform-console/",
+      "published": "2026-09-01T20:29:42+00:00",
+      "summary": "<p>The cybersecurity giant announced the acquisition alongside quarterly results showing a 34% increase in revenue and strong growth in next-generation security ARR.</p>\n<p>The post <a href=\"https://www.securityweek.com/palo-alto-networks-acquires-ai-agent-platform-console/\">Palo Alto Networks Acquires AI Agent Platform Console</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "fa28a022c87b01cd313c62c1cb5ea27999e191e6",
+      "title": "Sevii Targets AI-Speed Attacks With Preemptive Autonomous Defense",
+      "url": "https://www.securityweek.com/sevii-targets-ai-speed-attacks-with-preemptive-autonomous-defense/",
+      "published": "2026-09-01T18:30:00+00:00",
+      "summary": "<p>Sevii has expanded its ADR platform with AI agents designed to investigate, contain, and remediate AI-driven attacks within minutes.</p>\n<p>The post <a href=\"https://www.securityweek.com/sevii-targets-ai-speed-attacks-with-preemptive-autonomous-defense/\">Sevii Targets AI-Speed Attacks With Preemptive Autonomous Defense</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "a8df3aa5aa5af0ee02c1f7c88633aba529016e8a",
+      "title": "Coast Guard Establishes Office of Maritime Cybersecurity Policy",
+      "url": "https://www.securityweek.com/coast-guard-establishes-office-of-maritime-cybersecurity-policy/",
+      "published": "2026-09-01T18:26:22+00:00",
+      "summary": "<p>The new office will serve as the central authority for cybersecurity policy covering US ports, vessels, and maritime facilities.</p>\n<p>The post <a href=\"https://www.securityweek.com/coast-guard-establishes-office-of-maritime-cybersecurity-policy/\">Coast Guard Establishes Office of Maritime Cybersecurity Policy</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
@@ -1877,39 +1921,6 @@
       "url": "https://www.securityweek.com/watchguard-patches-critical-vulnerabilities/",
       "published": "2026-09-01T08:50:04+00:00",
       "summary": "<p>Three critical issues in the Fireware OS iked process could allow unauthenticated attackers to execute arbitrary code remotely.</p>\n<p>The post <a href=\"https://www.securityweek.com/watchguard-patches-critical-vulnerabilities/\">WatchGuard Patches Critical Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "eabc4afa81074e48e74a81923d9eb0aa82f8732c",
-      "title": "PaperCut Exploitation Escalates to Active Intrusions",
-      "url": "https://www.securityweek.com/papercut-exploitation-escalates-to-active-intrusions/",
-      "published": "2026-09-01T05:27:18+00:00",
-      "summary": "<p>CISA has added the vulnerabilities tracked as CVE-2026-82078 and CVE-2026-81578 to its KEV catalog.</p>\n<p>The post <a href=\"https://www.securityweek.com/papercut-exploitation-escalates-to-active-intrusions/\">PaperCut Exploitation Escalates to Active Intrusions</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "55679cc093f4d1745d64e769e819fd74839924f3",
-      "title": "Nightmare Eclipse Drops \u2018HardBreacher\u2019 Kaspersky Product Exploit",
-      "url": "https://www.securityweek.com/nightmare-eclipse-drops-hardbreacher-kaspersky-product-exploit/",
-      "published": "2026-08-31T14:32:34+00:00",
-      "summary": "<p>Kaspersky told SecurityWeek that it patched the vulnerability affecting its Endpoint Security product.</p>\n<p>The post <a href=\"https://www.securityweek.com/nightmare-eclipse-drops-hardbreacher-kaspersky-product-exploit/\">Nightmare Eclipse Drops &#8216;HardBreacher&#8217; Kaspersky Product Exploit</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "be7267726a434072ebdb2edce9b5f5b086ac8b6c",
-      "title": "ServiceNow Patches 3 Critical Code Injection Vulnerabilities",
-      "url": "https://www.securityweek.com/servicenow-patches-3-critical-code-injection-vulnerabilities/",
-      "published": "2026-08-31T13:59:19+00:00",
-      "summary": "<p>Attackers could exploit the security defects to execute arbitrary code and access or tamper with data.</p>\n<p>The post <a href=\"https://www.securityweek.com/servicenow-patches-3-critical-code-injection-vulnerabilities/\">ServiceNow Patches 3 Critical Code Injection Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
