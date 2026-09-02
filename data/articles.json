@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-09-02T01:34:34.822745+00:00",
+  "generated_at": "2026-09-02T15:24:37.928034+00:00",
   "items": [
+    {
+      "id": "369639d62fce4cd4d4e0af33d60f748ab27b653d",
+      "title": "CISA scraps 6 free cybersecurity assessments for critical infrastructure operators",
+      "url": "https://www.cybersecuritydive.com/news/cisa-cybersecurity-assessments-ending/829371/",
+      "published": "2026-09-01T20:30:33+00:00",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/lxfs1zJVz8s3b4SHVN6cny7lkrXe3Jnr1HuR27unGIo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9jaXNhX29mZmljZS5qcGc=.webp\" /></div></figure><p>The agency&rsquo;s decision, spurred by workload concerns, could leave organizations without valuable insights into their vulnerabilities.</p>",
+      "source": "Cybersecurity Dive",
+      "region": "North America",
+      "country": "US",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
     {
       "id": "377497b89d895b65d36903982a7dc34bee60ec61",
       "title": "Security policies fail to keep up with a hybrid cloud world",
@@ -14,7 +25,7 @@
     },
     {
       "id": "11ca695c84f2dbde85dfeb1532d0e1282c76e129",
-      "title": "Frontier AI used to help exploit flaws in key industrial devices",
+      "title": "Frontier AI helps exploit flaws in tests using key industrial devices",
       "url": "https://www.cybersecuritydive.com/news/frontier-ai-exploit-flaws-water-PLCs-industrial-devices/829307/",
       "published": "2026-09-01T15:16:58+00:00",
       "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/ztDkV4PrMV67v48mWTQ6ag77YKQyTBVys8oM9e9Djd4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9QaG90b19BdWdfMzFfMjAyNl8xMl8wN18wOV9QTS5qcGc=.webp\" /></div></figure><p>A report showed that Claude could help hackers develop attack strategies targeting PLCs used by water utilities and other industries.</p>",
@@ -101,15 +112,125 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "74211bfe5ffc9703190e1d461dcb0b5166a40f78",
-      "title": "Treasury to help financial firms transition to quantum-resistant encryption",
-      "url": "https://www.cybersecuritydive.com/news/quantum-cryptography-treasury-task-force-financial-industry/828732/",
-      "published": "2026-08-26T12:00:00+00:00",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/CgqqgwM3TQj5_8_61uTp6Gxy_8NhKsuSu2bHPQhpRBs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDczMjQwNDk3LmpwZw==.webp\" /></div></figure><p>The government is concerned that hackers could someday decrypt financial information and other secrets using code-breaking quantum computers.</p>",
-      "source": "Cybersecurity Dive",
+      "id": "cd4ac32eea5915bc4c454e4bcb16b293787a1c3c",
+      "title": "Malicious .git Configs Can Make Claude, Codex, Cursor, and Other AI Agents Run Attacker Code",
+      "url": "https://thehackernews.com/2026/09/malicious-git-configs-can-make-claude.html",
+      "published": "2026-09-02T14:06:59+00:00",
+      "summary": "Manifold Security has disclosed eight security flaws across seven command-line AI coding agents in which a repository's own Git configuration names a command that the agent runs on the developer's machine, four of them still unpatched at publication.\n\nThe command executes as the user, outside the agent's sandbox and without an approval prompt, and exploitation requires the repository to arrive",
+      "source": "The Hacker News",
       "region": "North America",
       "country": "US",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlrspu4otI5zjtu2q78NDrwnqfbTv4jzqXhH-txAo8pCjXDPRJjLvfWpRyHvbimqVvAOZWI0pMVmu2jWVdETbh2csa2UkMHx0M2uu9cJkB0_E4x1mjjs_1F9RYZjozZQvIYN5Xux43DX1u0jCQE_Pk19yE8BnR_RxXN-QXmP5jf74ZQgE9uQVUONJoQKQ/s1600/aix.gif"
+    },
+    {
+      "id": "ffcf22101b8763237e0b115d71b23fe2292e181c",
+      "title": "Malicious Apache Modules Hijack Brazilian Government Site Traffic to Push Betting Pages",
+      "url": "https://thehackernews.com/2026/09/malicious-apache-modules-hijack.html",
+      "published": "2026-09-02T13:44:16+00:00",
+      "summary": "A Chinese-speaking cybercrime cluster known as Gambling Goblin has been observed installing malicious Apache modules on compromised web servers run by Brazilian government and educational institutions, and using them to divert visitors to attacker-controlled pages promoting online gambling and sports betting.\n\nCheck Point Research said it has tracked the campaign since mid-2025.\n\nThe modules",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixn-0jJvMDlL85UUyW0E5PUDeUnMbGMxZJEnJMOAXXAuiqD-e1D9IoZdYsNwwDY16NA7x7GFHzVrx6LqJU7u7ywR50UWP4DGybNAhTlLPeAiBcVwVUJPgV1KbD1u0aUNy_468Y6gMQJ8FlnfGFlz_iCJcAeOeTiPViV1195lHwovULdtSBlsvPWOGpNU8/s1600/check.jpg"
+    },
+    {
+      "id": "caf7e586b61ed0a5ee90c214c19de404e0b3c4b3",
+      "title": "BGP Hijack Delivers Malicious Virtualizor Update That Establishes Persistent Root Access",
+      "url": "https://thehackernews.com/2026/09/bgp-hijack-delivers-malicious.html",
+      "published": "2026-09-02T13:12:45+00:00",
+      "summary": "Virtualizor said hackers used a Border Gateway Protocol (BGP) hijack to divert Softaculous traffic. The hackers then used the diverted update traffic to deliver a malicious Virtualizor package to some installations. A hosting-provider account separately said 5 of its 34 checked Virtualizor hypervisors sustained root-level compromise.\n\nThe incident window ran from approximately August 28 at 20:57",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjc5HwRa7RftYjoKUzpULa7DXn6tt4sZ7RrL1PNBN0Um5di5vxvgRQvmF3rF9-Xb7URM6YD9t-kEu0e3VBeERcdHio4Bz92EOYUwR2s3dosskPZbfztVyjAQ8p-h9PZ7ns3O8uOJ-DSxWPSIanM7l0lC2AZr71eXzWkSXTb_TjLmyBKvMR1KE97xp8PKJU/s1600/virtualizer.jpg"
+    },
+    {
+      "id": "8332879a747eabc7c44213eed31a3236abba7964",
+      "title": "Meta Ads Push StreamRat Android Trojan That Can Gain Near-Complete Device Control",
+      "url": "https://thehackernews.com/2026/09/meta-ads-push-streamrat-android-trojan.html",
+      "published": "2026-09-02T12:22:02+00:00",
+      "summary": "Cybersecurity researchers have disclosed details of a new Android banking trojan called StreamRat that was promoted to Spanish-speaking users through a fake television-streaming campaign on Meta and can give operators near-complete control of infected devices.\n\nThreatFabric said the campaign's advertisement focused on Spain and reached an estimated 570,950 Meta accounts in the European Union",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNhCfat7BT6m53utL9Z1iMKYQv6B3QwsQdxZBzkmr1WsJpDDdFGZgHjaLuHSXMBBJSyfxtyR750K33X3GzZwYkHac_3mpIITheSY4lh8LMK-ufnQ9htwhkmfv2MRKfZKtYdROU7VuO0HMmK7BQ7FlttrQiToqHq9zffChgBIOJT8yLL5vT7JY43_FDK-A/s1600/android-trojan.jpg"
+    },
+    {
+      "id": "c09e61ef17d453836ea5369890ae5d2c3d47833b",
+      "title": "How to Secure Enterprise AI: From Adoption to Incident Readiness",
+      "url": "https://thehackernews.com/2026/09/how-to-secure-enterprise-ai-from.html",
+      "published": "2026-09-02T11:30:00+00:00",
+      "summary": "The debate about whether AI delivers business value is over. The challenge now is implementing it at scale and securely across every function while meeting board-level pressure to move fast. Organizations must focus on adopting AI at business speed without losing control of cyber risk. Download the full eBook here.&nbsp;\n\nThe Business Reality&nbsp;\n\nIn Sygnia\u2019s 2026 CISO Survey Report, which",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3ZMbYZ20M3vMq_61k1PH7V-0evy5iTQQAGHDcA5khnJ304G746XRgkusnpa7Z31yIJLA7SX5ShzsKdvk1JfTwpVTSm4VPlkYoYVdwW9TaBULJ5363G0e-Z7ff86vvSGBiZTzaZeC6O4RRvJYuP7CrsAz4MeaX53UO0PICXuoa0H-u0qxXJHJcCM_Ovrg/s1600/ss.jpg"
+    },
+    {
+      "id": "348588b41dbd5ea152c483ecf01755fd5655b2f6",
+      "title": "Attackers Exploit Two SonicWall SMA 1000 Zero-Days That May Form an Attack Chain",
+      "url": "https://thehackernews.com/2026/09/attackers-exploit-two-sonicwall-sma.html",
+      "published": "2026-09-02T10:53:49+00:00",
+      "summary": "SonicWall has released security updates to address two security flaws impacting its Secure Mobile Access (SMA) 1000 series VPN appliances that have been exploited in zero-day attacks.\n\nThe vulnerabilities, discovered internally by SonicWall's William Perry and Adam Babis, are listed below -\n\n\n  CVE-2026-83548 (CVSS score: 10.0) -&nbsp; A pre-authentication SSRF vulnerability in the Appliance",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHkRZMEpG9dgsbvSzYfaPZC5u0gmzUw-5NHDTcsQ-MQtxr6pqNrngG2LsyMJ0KKxA364L3Lq4xhGAxCTRQ3C8szlo9aLJeWXw37C6hsAD5YbYCJF8KuQyuWMIPNCNDXX8-1HN76xxYhxffeenDDyWobOpA4AXC76hFcdh1vnqpjI_pLF2YuxiAwu87cHwC/s1600/sonicwall.jpg"
+    },
+    {
+      "id": "a7a11a80814190ea96e4505020a81169f518d58e",
+      "title": "GeoNetwork Fixes Unauthenticated RCE Chain Affecting Government Geoportal Backends",
+      "url": "https://thehackernews.com/2026/09/geonetwork-fixes-unauthenticated-rce.html",
+      "published": "2026-09-02T09:18:02+00:00",
+      "summary": "Two vulnerabilities in GeoNetwork can be chained to achieve unauthenticated remote code execution (RCE) on the open-source geospatial metadata catalog, which sits behind many government and agency geoportals.\n\nThe project shipped fixes in versions 4.4.12 and 4.2.17 on July 8, 2026, and published the vulnerability details on August 31.\n\nGeoNetwork originated at the United Nations Food and",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWjRcj8Bn8kWovv1-oDjSP61hMxx5U8u28qVJSPdP7mRBCNbs5EJjjDrWWk7SFC2FraZe_j3T-oouRqSRtoTr-YMPGGuOphIGNRj4-Fx0eVgMahD3-L62vWUxYLg7TpH7plqVqnAb1e3k0-G8Vertd-WUyt994d-nJKA8bcY9QozeWJ6ad4ozwVOf0fnE/s1600/geone.gif"
+    },
+    {
+      "id": "5fa2181f18ac65713b9bac0e3931aa0648f439fa",
+      "title": "Extradited Russian Hacker Faces Charges Over Excel Malware Campaign That Infected Thousands",
+      "url": "https://thehackernews.com/2026/09/extradited-russian-hacker-faces-charges.html",
+      "published": "2026-09-02T09:10:23+00:00",
+      "summary": "The U.S. Department of Justice (DoJ) has charged a Russian national, extradited from Cyprus on August 28, with using roughly 255 fake accounts on a freelance platform to send malware-laced Excel attachments to about 80,000 of its users in 2016 and 2017.\n\nSearzhudin Tamirlanovich Aktulaev, 40, was arrested in Cyprus in May 2025, the U.S. Attorney's Office for the Northern District of California",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjT6gZEQ09i7WPG39V2zwJLuC6M3N7mvjMQC0aVmtON24RfDshYfzqKyGKWXrTMC_bGPyNn43NPLWaufMe0MSlanyUCeZENy6XXmYCC8NzcHpCiK8rv-bpke7sKMpmfkWFVv6GB9WUO46KXMzNRlmCm8x_WYaNZelDk5BBrVCnUswpWJzA_IZMQj86wFI/s1600/russian-hacker.jpg"
+    },
+    {
+      "id": "152b1ab15895238b43afe8dff5525a711cd9b225",
+      "title": "Researchers Use Claude to Port Pre-Auth RCE Exploit From One PLC Model to Another",
+      "url": "https://thehackernews.com/2026/09/researchers-use-claude-to-port-pre-auth.html",
+      "published": "2026-09-02T07:47:13+00:00",
+      "summary": "Forescout Research - Vedere Labs said it used Anthropic's Claude to port a working pre-authentication remote code execution (RCE) exploit from one WAGO programmable logic controller (PLC) to another, executing attacker-supplied ARM shellcode on live hardware.\n\nThe exploit targets&nbsp;CVE-2021-31886, a stack-based buffer overflow in the Nucleus FTP server's handling of the&nbsp;USER&nbsp;command",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlWf4d2lnMsRXbG_XpDaQ8uxTM9SD8QBArFea3LdD93t2xnpO4Bw2K_iBewRfrscbj2Kfe6DSkFozbxWnHwMeR5p1cx2XksAyZD5_avLwxqx5L6tvTf_Z807niMu_uqzbslMMgMx8M1IVY9y20gbuDwbWAco96weFLycq2JCQMQ2hpcTnd2yanypqsj4k/s1600/claude.jpg"
+    },
+    {
+      "id": "123b90c7eeb9f8ad8c58fdad96787b27aea867ee",
+      "title": "Attackers Exploit Critical Switchvox Flaw to Deploy Reverse Shells Without Credentials",
+      "url": "https://thehackernews.com/2026/09/attackers-exploit-critical-switchvox.html",
+      "published": "2026-09-02T07:08:50+00:00",
+      "summary": "Threat actors are exploiting a severe security vulnerability in Sangoma Switchvox, an enterprise VoIP platform, that could allow unauthenticated remote code execution.\n\nThe vulnerability in question is CVE-2026-9586 (CVSS score: 9.3), a critical unauthenticated SQL injection vulnerability in Sangoma Switchvox SMB Edition 8.3 (104997) that can allow attackers to remotely execute arbitrary code as",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgb9lLZ-CHEFECU3vn2ObupuzweLn7l23dnUcs2Qd1H5hsxut3nQKqe6W3lbh_cSyVF4PDgdfuSauhpeMKmW6wZGYW3kpVdhTfWhfpISTtfRzw25VOSvJNR8dnh_WWKwyZ0VnWe8nndwwfnWN-gPSdqmLBhJW2vkqjCkfMo8Eo-sucoSIr6JMT-7HxHnsCw/s1600/admin.jpg"
+    },
+    {
+      "id": "e1b0fe399ce033383176bbcc387022c62ca47175",
+      "title": "Authorities Turn Sality's P2P Network Against Itself, Cutting Off New Malware Payloads",
+      "url": "https://thehackernews.com/2026/09/authorities-turn-salitys-p2p-network.html",
+      "published": "2026-09-02T06:56:30+00:00",
+      "summary": "The U.S. Department of Justice (DoJ) on Tuesday announced the takedown of a long-standing peer-to-peer (P2P) botnet known as Sality as part of a coordinated law enforcement operation.\n\nThe effort was undertaken on August 31, 2026, by authorities from the U.S., Bulgaria, Hungary, and Romania, in collaboration with private industry partners CrowdStrike and the Shadowserver Foundation. To that",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDpXbKu79XC2ObZuqgBEMG9E1VR-SyLdDwhylzbIupomfXEbDe_gUT29NNntDVz9NtiGLhnHJdrq1GyC5RbPHozyzmCVov6JJIg2sCiCb5Jp8SHEInYNR5PRE06TrBh4Oqy8WT7GbTtGOZisMrKuCWaUWn5vaJkbHPmhTEb7O0voiiBDdYHcxc02YhLBb1/s1600/botnet-malware.jpg"
     },
     {
       "id": "79a539446b8e43b7b3c0ad6ad40f2fbb688dec37",
@@ -541,132 +662,11 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieDE2TgdHU9cQ1MQ7milMPfNWnlskvIWM9VB_9t59o4zxCWPtZY5yyhrJ9Pc558pdVGdapBNcv9SP38IyfrHp0KIgLQeYlAQIPGwopzDvg2WimSzte5wkju-6YypllUrEr8-yto3Bx8mZAhfs7Hf64MTLwyDqAUCPEFlSey89QZx3L-xmHFzVBBwQmRVU/s1600/go.jpg"
     },
     {
-      "id": "01d373d9851235807514f14ea7b52f45a02fbe50",
-      "title": "New GPUThor Rowhammer Defeats ECC on NVIDIA RTX A6000 to Gain Host Root Access",
-      "url": "https://thehackernews.com/2026/08/gputhor-rowhammer-defeats-ecc-on-nvidia.html",
-      "published": "2026-08-27T08:13:11+00:00",
-      "summary": "Academic researchers have disclosed a Rowhammer attack impacting NVIDIA workstation GPUs with GDDR6 memory that defeats error correction codes (ECC), the mitigation NVIDIA recommends against GPU Rowhammer, and enables denial-of-service (DoS) and privilege escalation to a root shell.\n\nDubbed GPUThor, the attack was developed by researchers at the University of Toronto, who hammered four DRAM",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2AxQ4SD6_1WKkpvBVi_M7oKLMeBAiKU4Ek4HbnJXHLX5xSbUg7ky1ITdUJY91n-zZGyK55-qQRd24PWRymLmik7cRl4CYPoaeZL5JuLedlsOTJGHChwF1eQWGhUE6AhOZUSW7CoajwQcKCu8E_zrYn8I6203Nrvr9NvheYL-5ISm0fs1xdWNiKGWqIs0/s1600/nvidia-bits.jpg"
-    },
-    {
-      "id": "69ad97f943246df4da136acb7e8bb5a104b08b4a",
-      "title": "CISA Adds Six Exploited Flaws to KEV, Including NetScaler, Linux, and SQL Server Bugs",
-      "url": "https://thehackernews.com/2026/08/cisa-adds-six-exploited-flaws-to-kev.html",
-      "published": "2026-08-27T07:05:28+00:00",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added six flaws to its Known Exploited Vulnerabilities (KEV) catalog, including a high-severity security vulnerability impacting Citrix NetScaler ADC and NetScaler Gateway, citing evidence of active exploitation.\n\nThe vulnerabilities are listed below -\n\n\n  CVE-2019-1068 - A remote code execution vulnerability in&nbsp;",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsOm0ydTRNpwfiKMNN7TGZyoellV9LHrcra7ES8hU8PvT6haNsS-QQ5IlystrzP1eq5jiIRfyykIZyB5JKrya5K4ryBRp9gKAmsoVW7OMis-YT4T6jnpbN11M8mUnPn-2yY-caG31-iXmDAhJ9CTbRg8r1UPWWqCob_S8St7McsKCM-4I36jD_xqE8D3BS/s1600/cisa-flaws.jpg"
-    },
-    {
-      "id": "a96b7528b8382c4c5bdd562b551f02f49acc08d8",
-      "title": "FBI Disrupts China-Linked QTFY Infrastructure Used to Steal Data From U.S. Organizations",
-      "url": "https://thehackernews.com/2026/08/fbi-disrupts-china-linked-qtfy.html",
-      "published": "2026-08-26T16:42:03+00:00",
-      "summary": "The U.S. Department of Justice (DoJ) on Wednesday announced the disruption of two hacking platforms named QScan and QTRouter operated by Chinese threat actors to target critical infrastructure and other sensitive networks in the country.\n\nThe activity has been attributed to a Chinese state-sponsored group known as QTFY, employed by Nanjing Xinjiuwei Network Technology Company (\u5357\u4eac\u946b\u7396\u7ef4\u7f51\u7edc\u79d1\u6280\u6709\u9650\u516c\u53f8).&",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRjXW8RS8eKAVsCBovWfkRO7QMTfrgvWcTQtLccJCxq6wXC4OhegU26JXGqEKA0zS951ogEjKmNugfT1jDKlC8Kff6m-LZm-AFQe8Y57c1H_d44_bJPayRw-HpXwbb_MmN3pds3BdBUziNNBlAA_nHqX-BTb6nQLQWrKgJYnpqikUzENaV68VpD9LHsQlX/s1600/chinese.jpg"
-    },
-    {
-      "id": "16f3566f4210fb3a5b9f7f04bdfa4df11c019708",
-      "title": "Nimbus Manticore Expands Toolset With TWOSTROKE-Like Backdoor and SSH Tunneler",
-      "url": "https://thehackernews.com/2026/08/nimbus-manticore-expands-toolset-with.html",
-      "published": "2026-08-26T15:35:05+00:00",
-      "summary": "Cybersecurity researchers have discovered additional infrastructure and previously undocumented malware associated with Nimbus Manticore, an Iranian state-sponsored hacking group affiliated with the Islamic Revolutionary Guard Corps (IRGC).\n\nGroup-IB, in a new analysis published today, described the cyber espionage actor as among the most active Iranian APT groups in 2026. Nimbus Manticore (aka",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWDtkssu1a2OfGXtU3IlV8MARDVh3XpsurXStcVxASTKf_ACkwIhG6XVbR6fqqWFEFcOEOzLWpy1GGKHgTogw1hQL1O5CtLrLweaGx9GLnM-6CXDApf6VcpFzWFe0FaYgPi1TdhOotRrJ9xU39dk4efUJsMejezEs8t0v8oLyafMuVZrzgkeP-AEhls-x8/s1600/nimbus.png"
-    },
-    {
-      "id": "a631e8a45ed3af92c67df180bb5d0e3dab590c6a",
-      "title": "NovaCookies Campaigns Abuse Genuine Docusign Notifications to Steal Microsoft 365 Sessions",
-      "url": "https://thehackernews.com/2026/08/novacookies-campaigns-abuse-genuine.html",
-      "published": "2026-08-26T13:44:31+00:00",
-      "summary": "Cybersecurity researchers have disclosed details of a new adversary-in-the-middle (AitM) phishing toolkit called NovaCookies that's used as a proxy to redirect Microsoft 365 sign-ins, while capturing authenticated sessions in the process.\n\nIn a report shared with The Hacker News ahead of publication, Island characterized the $320/month service as a subscription-based phishing platform that",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiz4GD3giiT1DIPT5Q13XvCZcwC8-STaGCZ3KbqUzQ5Q9oniGfA0Odbqfmwva6B-xSSTD2QG1wdqu5fFOleaBVFSA-t3ZfeqpcrYOEomdygWsZOONJXYcpxhRdT-EbTS_DZ0zYLrH_-1YN7TjXCsDuIj0I2G53mFT0df1HC3tjUdUQ5MCdHdEo27rDE2QEm/s1600/docusign.jpg"
-    },
-    {
-      "id": "16737fe3c131bea3850896d8fd78edbf8866a976",
-      "title": "CISA Red Team Compromised Two Critical Infrastructure Orgs, One Detected Nothing",
-      "url": "https://thehackernews.com/2026/08/cisa-red-team-compromised-two-critical.html",
-      "published": "2026-08-26T13:07:02+00:00",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has published the results of two red team assessments it conducted simultaneously against two critical infrastructure organizations, using what it described as similar tradecraft while recording sharply different defensive outcomes.\n\nBoth organizations were fully compromised at the domain level, and in both, the red team also",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhW3w9bF-wcalV_4xeymOZiHzRSkeBfz8Vh1B58JkthAgonYo-DGr3kWwNQ8ia760jX1kfC7NTkitD9rWxJNSNzMZWTAVWqrmJQXL7-1rOHbmC7mKSmfArdBAp5s4phuF3SlKr20agmwKrpI56a9SijzuYLnhYlb3R4l7uhb4S0Na0d3_OplvHmbC1EDCk/s1600/cisa-hack.jpg"
-    },
-    {
-      "id": "e5c89987e8ab702fcc59ce193d6da8c10bf9dafc",
-      "title": "Unpatched Kaltura mwEmbed Flaws Could Let Remote Attackers Read Files and Run Code",
-      "url": "https://thehackernews.com/2026/08/unpatched-kaltura-mwembed-flaws-could.html",
-      "published": "2026-08-26T11:55:00+00:00",
-      "summary": "The CERT Coordination Center (CERT/CC) has disclosed two unpatched vulnerabilities in Kaltura's HTML5 video player library that allow a remote, unauthenticated attacker to read arbitrary files from a server and execute code on it.\n\nThe flaws, tracked as CVE-2026-19913 and CVE-2026-19912, both stem from the same unsafe deserialization in the mwEmbedLoader.php endpoint of the mwEmbed player",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4vWsyC0OylljN3m8OwCHpDKLPXe9Sw7VI5ddPEuRswkrrsHlTyfbfkXAKOTX7jemZjktTQh1IlD1hjeWsOJwZm2aSe4OtppGdqTBMUCxgFAPIfI2RY-jAdZD5hfHsj7KpRexnN4SbfUJ8nsLB8w6P_me_L8xM00ZjskYgpyEbMkDBC5hSt5FAuLbFaK0/s1600/kaltura.jpg"
-    },
-    {
-      "id": "794dae527540398fa6999ad6ccb5a103570ad604",
-      "title": "Imagine the SOC Without a Queue: From Alert Backlog to AI Hypothesis Engine",
-      "url": "https://thehackernews.com/2026/08/imagine-soc-without-queue-from-alert.html",
-      "published": "2026-08-26T11:36:49+00:00",
-      "summary": "The SOC we've always known was built around a model that guarantees most of the alert queue will never receive analyst review. There's never time. In a traditional SOC, the typical progression follows a well-known pattern: an alert arrives; a detection engine assigns a severity score. The issue then waits for a human to decide if it should escalate to an investigation.\n\nGiven the volume of",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZq8QFTxW4LuCB6uU-05X_ZcT88PxrCrq4S8Tlt-ntdFViEUD7XTOuFp0Ep2oNd61UEYcnfV0dFYW7E1jzogc2t4fm3R2CU7I45rc9bF2fAPi85MeDbxGio5jRIK_8jmMeI9A6hU_laVDVcU5yvODt55syFnI0F4cHX0N1Wul8IGg9A_PbkM_sOHoSFds/s1600/Corelight.jpg"
-    },
-    {
-      "id": "a16adaff464fa924e1e09e6ce9818503b4ce3e9b",
-      "title": "Claude Opus 4.6 Bypasses Gym Booking Limit, Cancels Other Users' Reservations in Tests",
-      "url": "https://thehackernews.com/2026/08/claude-opus-46-bypasses-gym-booking.html",
-      "published": "2026-08-26T10:27:23+00:00",
-      "summary": "Aikido Security has published research that recreates the Australian gym-booking incident in a synthetic environment, finding that Claude Opus 4.6, running on the OpenClaw agent harness, exploited a client-side-only booking restriction in 9 of 10 runs.\n\nThe original incident was first reported by ABC News on August 10, based on chat logs and screenshots the user supplied. He had asked an",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiLH7AlxOwnKOlTs4Zi3D7tyko_H-564oFmjcBu-YP4_YR7HMgRvWhGB9r0NhXwpVoqVk82yjCt9XjEcDfo7-iSoAVduYsjNndt3gU2fHqJ7PlwnFCjRaHJSYEMuZMAZOn6M_yGZ24JuUUjVCs1hTXes8h-q4OLFj2liDETlKzvCRAqKa-jX2Yrh-iErI/s1600/claude-gym.jpg"
-    },
-    {
-      "id": "d573d89949f8296d25ad417aac7ff96a7a9c78b4",
-      "title": "OpenAI Bans Russian ChatGPT Accounts Used to Run Influence Operation",
-      "url": "https://thehackernews.com/2026/08/openai-bans-russian-chatgpt-accounts.html",
-      "published": "2026-08-26T09:38:45+00:00",
-      "summary": "OpenAI on Tuesday said it banned a cluster of Russian ChatGPT accounts that used VPNs to bypass access restrictions and run an influence operation, which relied on its artificial intelligence (AI) tool to generate social media posts and comments that were shared on Substack, Telegram, X, Facebook and LinkedIn.\n\nThe accounts \"were being used to promote the International Burke Institute (IBI), a",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigTy6eveBIHNz8iNQ-RoRYOH0dYFTNhtA48mobGTTueVsSSQpFu7qFmSGivtklGBbQutM5ro14LI3Yzq3SxTFaTGPfq350Fe73t_FE4ehl9Y0kRnEVIYIN5K66R-sxa86YTuYDaLOyWdLSxR1AUmCx3UlEMed7dUvA-RtcVLFdmeVP2PTPyebMV-tDBuSg/s1600/chatgpt.jpg"
-    },
-    {
-      "id": "5a7779b46815d3bdca3b39da48740c10e4117298",
-      "title": "INTERPOL Operation Jackal IV Arrests 58, Identifies 263 in Global Cyber Fraud Crackdown",
-      "url": "https://thehackernews.com/2026/08/interpol-operation-jackal-iv-arrests-58.html",
-      "published": "2026-08-26T07:54:12+00:00",
-      "summary": "An eight-month INTERPOL operation targeting West African organized crime groups has led to arrests of 58 people and the identification of 263 suspects.\n\n\"The operation, which brought together 22 countries from six continents, is a response to the escalating global threat posed by West African criminal networks \u2013 such as the Black Axe and other similar groups,\" INTERPOL said.\n\n\"These groups are",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYeHiMtBGSU21fSYRfXqsYMwsXlIfdl_w5goundqFoLSR1HYz30bgzdHuA1ft2gHjWiS5B-nE5ZpmY1gJiTDlsF8bwwYK9ogGAPmEHWNTA-hVLp09KaMvsu6DbcCW-ZTNtcZj2xHoH4fHhTsr7_zbUoiYKJI6Yj9YdxtbQNBEdv0apv1c3buQiaXmLeMkT/s1600/interpol.jpg"
-    },
-    {
       "id": "47af0e0edff9cfcd9852902014bbd3b7a3b1bbd1",
       "title": "Old, Unpatched Flaws Give Attackers Access to Philippines Nuclear Agency",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/old-unpatched-flaws-attackers-philippines-nuclear-agency",
       "published": "2026-09-02T01:00:00+00:00",
-      "summary": "Threat actors exploited commodity in ownCloud to gain initial access, resulting in stolen reactor databases, personnel records, and credential stores.",
+      "summary": "Threat actors exploited commodity vulnerabilities in ownCloud to gain initial access, resulting in stolen reactor databases, personnel records, and credential stores.",
       "source": "DarkReading",
       "region": "North America",
       "country": "US",
@@ -674,7 +674,7 @@
     },
     {
       "id": "fabfffd6359517edd82b909468acef3964e9309b",
-      "title": "Attackers Pounce on Critical Artifactory Flaw Following Disclosure",
+      "title": "Attackers Pounce on Critical Artifactory Bug Following Disclosure",
       "url": "https://www.darkreading.com/application-security/attackers-pounce-critical-artifactory-flaw-disclosure",
       "published": "2026-09-01T21:05:53+00:00",
       "summary": "CVE-2026-82329 is an authentication bypass flaw in JFrog's repository manager that enables bad actors to gain admin-level access on affected systems.",
@@ -696,7 +696,7 @@
     },
     {
       "id": "5c77fd06c4fa6a976ceff6ced8f15b9eabbdebdf",
-      "title": "Critical Langflow Flaw Exploited as Attacks on AI Platform Rise",
+      "title": "Critical Langflow Vulnerability Exploited as Attacks on AI Platform Rise",
       "url": "https://www.darkreading.com/vulnerabilities-threats/critical-langflow-flaw-exploited-attacks-rise",
       "published": "2026-09-01T20:48:52+00:00",
       "summary": "The attacks targeting CVE-2026-0768 are the latest threat against the low-code AI development platform, which is receiving more attention from adversaries this year.",
@@ -1210,6 +1210,28 @@
       "region": "North America",
       "country": "US",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt232ea541e9b19c8b/6a84862b3f6ec4004afa5e46/china-national-AI-ImageFlow-shutterstock.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "id": "c5bd0c01cc7361b201d48c1dcdec71801ace22aa",
+      "title": "Legacy Lenovo login opens 5,000 Dropbox accounts to attackers",
+      "url": "https://www.theregister.com/security/2026/09/02/legacy-lenovo-login-opens-5000-dropbox-accounts-to-attackers/5293924",
+      "published": "2026-09-02T14:25:00+00:00",
+      "summary": "Cloud storage biz severs old integration and urges victims to reset credentials",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=5293949&width=800"
+    },
+    {
+      "id": "53cde759adae1f757678f372dcd9f6fe888b5cdb",
+      "title": "UK cyber bill targets AI users, not the vendors building it",
+      "url": "https://www.theregister.com/security/2026/09/02/uk-cyber-bill-targets-ai-users-not-the-vendors-building-it/5293738",
+      "published": "2026-09-02T09:44:00+00:00",
+      "summary": "Ministers reject proposed red lines and emergency shutdown powers, pointing instead to voluntary safeguards",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=248400&width=800"
     },
     {
       "id": "88ecacc376b4c2fbdb4c96247bde66f5289ac027",
@@ -1740,28 +1762,6 @@
       "image": "https://image.theregister.com/?imageId=255787&width=800"
     },
     {
-      "id": "0e6b85e152b34e39882a4924fe0280dd598ee57a",
-      "title": "AI agent suggested installing a malware package. Engineer almost took its advice",
-      "url": "https://www.theregister.com/security/2026/08/20/ai-agent-suggested-installing-a-malware-package-engineer-almost-took-its-advice/5289849",
-      "published": "2026-08-20T07:00:00+00:00",
-      "summary": "Fortunately, the company had a policy of checking source code on GitHub first",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=4094065&width=800"
-    },
-    {
-      "id": "33ab324a8f0119e4196825b6f5dd292a5881c5e1",
-      "title": "'Not a theoretical risk,' feds warn as attackers use AI-made code to hack critical infrastructure controllers",
-      "url": "https://www.theregister.com/security/2026/08/19/not-a-theoretical-risk-feds-warn-as-attackers-use-ai-made-code-to-hack-critical-infrastructure-controllers/5289960",
-      "published": "2026-08-19T22:38:41+00:00",
-      "summary": "'It is an active threat'",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=5289987&width=800"
-    },
-    {
       "id": "a0aed382f4580bb83c67a171e9aa47301f6d1cd6",
       "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
       "url": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
@@ -1817,6 +1817,94 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "a1e697cc00212c30add88980fa4910eac798da56",
+      "title": "Rockwell Automation Patches Over a Dozen Vulnerabilities Across Products",
+      "url": "https://www.securityweek.com/rockwell-automation-patches-over-a-dozen-vulnerabilities-across-products/",
+      "published": "2026-09-02T12:39:07+00:00",
+      "summary": "<p>The industrial giant has released advisories for its RSLinx Classic, ArmorStart, ControlFLASH, FactoryTalk, and other products.</p>\n<p>The post <a href=\"https://www.securityweek.com/rockwell-automation-patches-over-a-dozen-vulnerabilities-across-products/\">Rockwell Automation Patches Over a Dozen Vulnerabilities Across Products</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "d7d6b733af5f5c7396da87bc7dae7d378c258828",
+      "title": "Exploit Published for Fresh Cleo Harmony Vulnerability",
+      "url": "https://www.securityweek.com/exploit-published-for-fresh-cleo-harmony-vulnerability/",
+      "published": "2026-09-02T12:18:15+00:00",
+      "summary": "<p>The security defect allows remote attackers to bypass authentication through argument bearer manipulation.</p>\n<p>The post <a href=\"https://www.securityweek.com/exploit-published-for-fresh-cleo-harmony-vulnerability/\">Exploit Published for Fresh Cleo Harmony Vulnerability</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "962cd05d968ae9e8ea183827d644251fde853b90",
+      "title": "Anthropic Details Response to Security Incidents, Unveils Enterprise Safeguards",
+      "url": "https://www.securityweek.com/anthropic-details-response-to-security-incidents-unveils-enterprise-safeguards/",
+      "published": "2026-09-02T11:48:31+00:00",
+      "summary": "<p>Anthropic introduced Enterprise Frontier Safeguards (EFS), a system that combines zero data retention with automated monitoring for misuse.</p>\n<p>The post <a href=\"https://www.securityweek.com/anthropic-details-response-to-security-incidents-unveils-enterprise-safeguards/\">Anthropic Details Response to Security Incidents, Unveils Enterprise Safeguards</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "44d80cb06f0b649990482f125777b26cff100134",
+      "title": "Malicious Virtualizor Update Served via BGP Hijacking",
+      "url": "https://www.securityweek.com/malicious-virtualizor-update-served-via-bgp-hijacking/",
+      "published": "2026-09-02T11:31:36+00:00",
+      "summary": "<p>Using a technically valid TLS certificate for Softaculous\u2019 domains, a threat actor diverted traffic to fake software updates.</p>\n<p>The post <a href=\"https://www.securityweek.com/malicious-virtualizor-update-served-via-bgp-hijacking/\">Malicious Virtualizor Update Served via BGP Hijacking</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "5f98ca43ef8f767f20b9dafd16fa36a0adedeabb",
+      "title": "OpenAI\u2019s Astra Crosses \u2018Critical\u2019 Cyber Threshold After Finding Zero-Days",
+      "url": "https://www.securityweek.com/openais-astra-becomes-first-model-to-cross-critical-cybersecurity-threshold/",
+      "published": "2026-09-02T10:38:13+00:00",
+      "summary": "<p>The designation applies when a model can independently find and exploit zero-day vulnerabilities across many well-defended systems.</p>\n<p>The post <a href=\"https://www.securityweek.com/openais-astra-becomes-first-model-to-cross-critical-cybersecurity-threshold/\">OpenAI\u2019s Astra Crosses \u2018Critical\u2019 Cyber Threshold After Finding Zero-Days</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "afb4d7615daf164a55a42a146c8c22e259538c07",
+      "title": "Chrome and Firefox Updates Patch Dozens of Vulnerabilities",
+      "url": "https://www.securityweek.com/chrome-and-firefox-updates-patch-dozens-of-vulnerabilities/",
+      "published": "2026-09-02T09:12:29+00:00",
+      "summary": "<p>The browser refreshes fix multiple use-after-free, sandbox escape, and privilege escalation bugs.</p>\n<p>The post <a href=\"https://www.securityweek.com/chrome-and-firefox-updates-patch-dozens-of-vulnerabilities/\">Chrome and Firefox Updates Patch Dozens of Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "f332196e370e4259b7bb24b639cf68de91f32b93",
+      "title": "23-Year-Old Sality P2P Botnet Disrupted",
+      "url": "https://www.securityweek.com/23-year-old-sality-p2p-botnet-disrupted/",
+      "published": "2026-09-02T08:38:00+00:00",
+      "summary": "<p>The shutdown operation involved peer list manipulation and Sality payload URL takedown.</p>\n<p>The post <a href=\"https://www.securityweek.com/23-year-old-sality-p2p-botnet-disrupted/\">23-Year-Old Sality P2P Botnet Disrupted</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "d4ba7a1db8b31767848d74a24830a62ff67747c9",
+      "title": "SonicWall Warns of Two SMA1000 Zero-Days Exploited in Attacks",
+      "url": "https://www.securityweek.com/sonicwall-warns-of-two-sma1000-zero-days-exploited-in-attacks/",
+      "published": "2026-09-02T05:04:52+00:00",
+      "summary": "<p>The vulnerabilities CVE-2026-83549 and CVE-2026-83548 can be chained for unauthenticated remote code execution.</p>\n<p>The post <a href=\"https://www.securityweek.com/sonicwall-warns-of-two-sma1000-zero-days-exploited-in-attacks/\">SonicWall Warns of Two SMA1000 Zero-Days Exploited in Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "af66cf14cc8f6d6974e3fdb71f8dd50ccd5c4122",
       "title": "Palo Alto Networks Acquires AI Agent Platform Console",
       "url": "https://www.securityweek.com/palo-alto-networks-acquires-ai-agent-platform-console/",
@@ -1833,94 +1921,6 @@
       "url": "https://www.securityweek.com/sevii-targets-ai-speed-attacks-with-preemptive-autonomous-defense/",
       "published": "2026-09-01T18:30:00+00:00",
       "summary": "<p>Sevii has expanded its ADR platform with AI agents designed to investigate, contain, and remediate AI-driven attacks within minutes.</p>\n<p>The post <a href=\"https://www.securityweek.com/sevii-targets-ai-speed-attacks-with-preemptive-autonomous-defense/\">Sevii Targets AI-Speed Attacks With Preemptive Autonomous Defense</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "a8df3aa5aa5af0ee02c1f7c88633aba529016e8a",
-      "title": "Coast Guard Establishes Office of Maritime Cybersecurity Policy",
-      "url": "https://www.securityweek.com/coast-guard-establishes-office-of-maritime-cybersecurity-policy/",
-      "published": "2026-09-01T18:26:22+00:00",
-      "summary": "<p>The new office will serve as the central authority for cybersecurity policy covering US ports, vessels, and maritime facilities.</p>\n<p>The post <a href=\"https://www.securityweek.com/coast-guard-establishes-office-of-maritime-cybersecurity-policy/\">Coast Guard Establishes Office of Maritime Cybersecurity Policy</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "90aa5957280f52a5a229613ee97c6634bbec9258",
-      "title": "Experiment: Porting a PLC Exploit With AI Takes Hours and Hundreds of Dollars",
-      "url": "https://www.securityweek.com/experiment-porting-a-plc-exploit-with-ai-takes-hours-and-hundreds-of-dollars/",
-      "published": "2026-09-01T12:37:15+00:00",
-      "summary": "<p>Forescout researchers used Claude AI to port a remote code execution exploit between WAGO PLC models.</p>\n<p>The post <a href=\"https://www.securityweek.com/experiment-porting-a-plc-exploit-with-ai-takes-hours-and-hundreds-of-dollars/\">Experiment: Porting a PLC Exploit With AI Takes Hours and Hundreds of Dollars</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "8284ce7f7a011cf3a54d11598e09dc370d9e632e",
-      "title": "Hackers Start Exploiting Critical Langflow Vulnerability",
-      "url": "https://www.securityweek.com/hackers-start-exploiting-critical-langflow-vulnerability/",
-      "published": "2026-09-01T12:07:54+00:00",
-      "summary": "<p>Tracked as CVE-2026-0768, the security defect allows unauthenticated attackers to execute arbitrary Python code remotely.</p>\n<p>The post <a href=\"https://www.securityweek.com/hackers-start-exploiting-critical-langflow-vulnerability/\">Hackers Start Exploiting Critical Langflow Vulnerability</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "b116a133ae39399eaae0159a5b8ad227716b67c3",
-      "title": "Five Venezuelans Plead Guilty in US Court to ATM Jackpotting",
-      "url": "https://www.securityweek.com/five-venezuelans-plead-guilty-in-us-court-to-atm-jackpotting/",
-      "published": "2026-09-01T11:24:25+00:00",
-      "summary": "<p>The defendants unsuccessfully attempted to physically install malware on ATMs to force them to dispense cash.</p>\n<p>The post <a href=\"https://www.securityweek.com/five-venezuelans-plead-guilty-in-us-court-to-atm-jackpotting/\">Five Venezuelans Plead Guilty in US Court to ATM Jackpotting</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "8600caa558ea32b7962f7606bf55ef364b0a8df2",
-      "title": "Ransomware Gang Claims Nutex Health Data Breach",
-      "url": "https://www.securityweek.com/ransomware-gang-claims-nutex-health-data-breach/",
-      "published": "2026-09-01T10:47:47+00:00",
-      "summary": "<p>The company has notified the SEC that hackers accessed patient, employee, provider, business, and financial information.</p>\n<p>The post <a href=\"https://www.securityweek.com/ransomware-gang-claims-nutex-health-data-breach/\">Ransomware Gang Claims Nutex Health Data Breach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "7ce43dc77f71d4d38b15d9bdb725db51dfa054c3",
-      "title": "Critical JFrog Artifactory Vulnerability Reportedly Exploited in the Wild",
-      "url": "https://www.securityweek.com/critical-jfrog-artifactory-vulnerability-reportedly-exploited-in-the-wild/",
-      "published": "2026-09-01T09:59:44+00:00",
-      "summary": "<p>Exploitation of the authentication bypass vulnerability CVE-2026-82329 started just days after its public disclosure.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-jfrog-artifactory-vulnerability-reportedly-exploited-in-the-wild/\">Critical JFrog Artifactory Vulnerability Reportedly Exploited in the Wild</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "a016a903593986ab3a66a64172ef0837929fd8b5",
-      "title": "9.5 Million Impacted by Aesto Health Data Breach",
-      "url": "https://www.securityweek.com/9-5-million-impacted-by-aesto-health-data-breach/",
-      "published": "2026-09-01T09:09:34+00:00",
-      "summary": "<p>Hackers stole personal and health information from the healthcare technology company\u2019s AWS infrastructure.</p>\n<p>The post <a href=\"https://www.securityweek.com/9-5-million-impacted-by-aesto-health-data-breach/\">9.5 Million Impacted by Aesto Health Data Breach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "649a74be5a9d27054fe10d9e311c5a353e5f1940",
-      "title": "WatchGuard Patches Critical Vulnerabilities",
-      "url": "https://www.securityweek.com/watchguard-patches-critical-vulnerabilities/",
-      "published": "2026-09-01T08:50:04+00:00",
-      "summary": "<p>Three critical issues in the Fireware OS iked process could allow unauthenticated attackers to execute arbitrary code remotely.</p>\n<p>The post <a href=\"https://www.securityweek.com/watchguard-patches-critical-vulnerabilities/\">WatchGuard Patches Critical Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
