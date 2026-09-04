@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T01:31:43.925312+00:00",
+  "generated_at": "2026-09-04T15:12:58.590739+00:00",
   "items": [
     {
       "id": "36f53205be5116df95237837bd6b105a816fcb89",
@@ -112,6 +112,61 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "6d993489b83cea3e7bd59e9dac935b472ef57fdd",
+      "title": "New Ted Backdoor Hides Inside Victims' Own HAProxy Builds to Intercept Web Traffic",
+      "url": "https://thehackernews.com/2026/09/new-ted-backdoor-hides-inside-victims.html",
+      "published": "2026-09-04T14:51:13+00:00",
+      "summary": "A previously undocumented Linux toolkit has been found compiled directly into the trojanized HAProxy load balancers of two South Korean organizations, where it intercepted web traffic and served altered pages to selected visitors.\n\nThe attackers named the implant ted in debug strings left in the binary. It is not a HAProxy vulnerability, and installing it requires code execution on the host and",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzLyhHupZwRy1pOQzT93Qhs5waZ8gqtlgDJUKgt1f37dz3KqIDDZY8uNo8QguZNccBHivdA_ecnY8cQUyhZQAvLH4APu3imxP-rwo2dYLZtKnJ92IkRPFmwepmJgRk9GrLrJiN_IbInwvNXaW7N5761YfEB1IIK4uDdNBTy6Koz8uXgOSXaQWixXM1Wts/s1600/HAProxy.jpg"
+    },
+    {
+      "id": "de6679dfecaa821b8def9598af0286103423b7a7",
+      "title": "Over 440,000 Exploit Attempts Target Super Forms and Elementor Pro RCE Flaws",
+      "url": "https://thehackernews.com/2026/09/over-440000-exploit-attempts-target.html",
+      "published": "2026-09-04T08:48:45+00:00",
+      "summary": "Threat actors are exploiting two critical security flaws in WordPress plugins Super Forms and Elementor Pro, according to findings from Wordfence.\n\nThe vulnerabilities in question are -\n\n\n  CVE-2026-14894 (CVSS score: 9.8) - A missing file type validation vulnerability in Super Forms \u2013 Drag &amp; Drop Form Builder that allows unauthenticated attackers to upload files of any type, including",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9jQ8JSakEpnqxzsAZhwXnVvTMB0Lrbj7shOcXtSJzA30wcMTbkAIUGvSZPiBXOLeAW66Jpuysxn56W8YWD00hsCNB742oLqeyvgD8MXdIHHqwyeehyoyXx9G9c6XjxwN10Co_XVZuBkRjMquzgf9V17gh2Gw-xff0qJ9rh3sPO4tBq4OjjS0dxsl73WKT/s1600/wp-main.jpg"
+    },
+    {
+      "id": "d2d1ffe7fc291ce8d89b59036b2228aa1e903259",
+      "title": "Plex Urges Immediate Updates After Patching Multiple Undisclosed Security Flaws",
+      "url": "https://thehackernews.com/2026/09/plex-urges-immediate-updates-after.html",
+      "published": "2026-09-04T07:35:14+00:00",
+      "summary": "Plex is urging users to update their instances to the latest version following the release of an update that patches multiple security flaws.\n\nThe fixes are available in Plex Media Server 1.43.3 and Plex Desktop 1.115.0. The streaming media service did not elaborate on what those issues are, but said CVE identifiers have been requested for them.\n\n\"We recommend all server owners and Desktop users",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7RQQCR9QxY1NZ80GCfpUjvGGcw9QDirshH7KrSyc097EIaNqLLVGgnnlOE095qTOt2q9CTu91gJ_Pf7Y9-AcZahb35e7XG2YrA8D4O0FPwVRSzBzMT5ecKzu0bnAxP603K5q8R_7IZrE-iSAAJQsmMWXBt8IPwHIIz3u6Kf-okZyo0G1fLoe9VOzZEEQF/s1600/plex.jpg"
+    },
+    {
+      "id": "c21f3d5267aa5a635bd0f162aa1232667f2ee2b3",
+      "title": "Google Releases Chrome Update to Patch Actively Exploited V8 Zero-Day",
+      "url": "https://thehackernews.com/2026/09/google-releases-chrome-update-to-patch.html",
+      "published": "2026-09-04T07:18:47+00:00",
+      "summary": "Google on Thursday released security updates to patch 12 vulnerabilities, including one that has come under active exploitation in the wild.\n\nThe high-severity vulnerability, tracked as CVE-2026-85046 (CVSS score: 8.8), has been described as a type confusion bug in V8, Chrome's JavaScript and WebAssembly engine.\n\n\"Type confusion in V8 in Google Chrome prior to 152.0.7977.82 allowed a remote",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjelmC2UuYemuI1nBeaecfPBZ1Bfb5nz6T51_OhCUPHJivX8ioIjrYMVtVsjsrcA0xbEe_O4iMthJ2xwXWJVhAb5CCJlhnJS4McM9IpmPww86RSznT3h7pg5DYOXlnwon616y-1s2qwbWbmR40B5JCvYbtwM8lD5Fk5yLHWS7IKmH5pXQ8qO4SfEasBhhsq/s1600/chrome-v8-exploit.jpg"
+    },
+    {
+      "id": "2d8294ff6466718a01a484841c6664bc0524b329",
+      "title": "GPT-6 Astra Scores 100% on ExploitBench as OpenAI Blocks PoC Exploit Requests",
+      "url": "https://thehackernews.com/2026/09/gpt-6-astra-scores-100-on-exploitbench.html",
+      "published": "2026-09-04T06:47:52+00:00",
+      "summary": "OpenAI on Thursday officially unveiled GPT\u20116 Astra, which it described as the \"world's most intelligent and aligned model.\"\n\nThe development comes days after the artificial intelligence (AI) company said the model had reached the \"Critical\" cybersecurity capability threshold under its Preparedness Framework.\n\n\"Astra is state-of-the-art on computer use, browsing, software engineering,",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbaZmLqqSMfwaOmjs47_PEd97T29HeDX_1dAOZn0Qzo0HuloopzzhZ7pnQzlsHvXvIAwzMWq1tbza325niZMSgjTMn0z5MyT-CWb7NfoprOWz2L_cj6tosVDyyp2ZbV4s59p-khE64lXWULLOW8zVMCv720iwDwCYUEuAHYkV8m2diDsyzFKwvNifzq-oT/s1600/gpt6.jpg"
+    },
+    {
       "id": "517c6272dbd33f48e01e1ac9b3905910e03e916f",
       "title": "ThreatsDay: CEO Phishing Kits, 5K Dropbox Account Hacks, OAuth Traps + 17 More Stories",
       "url": "https://thehackernews.com/2026/09/threatsday-ceo-phishing-kits-5k-dropbox.html",
@@ -204,7 +259,7 @@
       "title": "Researcher Releases FalconFlank PoC Showing Privilege Escalation in CrowdStrike Falcon",
       "url": "https://thehackernews.com/2026/09/researcher-releases-falconflank-poc.html",
       "published": "2026-09-03T06:26:59+00:00",
-      "summary": "The security researcher known as Chaotic Eclipse (aka INFINITE NIGHTMARE, MSNightmare, and Nightmare-Eclipse) has dropped a new zero-day dubbed FalconFlank, a privilege escalation flaw impacting Crowdstrike Falcon.\n\n\"FalconFlank is a 0day privilege escalation that abuses the office malicious macros remediation in CrowdStrike Falcon Sensor,\" the researcher said in a GitHub README file, adding",
+      "summary": "The security researcher known as Chaotic Eclipse (aka INFINITE NIGHTMARE, MSNightmare, and Nightmare-Eclipse) has dropped a new zero-day dubbed FalconFlank, a proof-of-concept (PoC) for a privilege escalation flaw impacting Crowdstrike Falcon.\n\n\"FalconFlank is a 0-day privilege escalation that abuses the office malicious macros remediation in CrowdStrike Falcon Sensor,\" the researcher said in",
       "source": "The Hacker News",
       "region": "North America",
       "country": "US",
@@ -607,59 +662,15 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZPm0X6hW-nz0AFZIB6eOBMEssN6dF5qeh2EOIBm1-ftaBEqcvJC5M0r_g3j-6Sp9x4sUnxVeOToWN_bFbr6T9flaScRcze4DRga0nqNe3LeQSvZaNPTiZC2C8GUeWWxMmIF1mybwuDaq5ZZummYiynDkf_1evTLKPicf4f2UUUb2d-0MMG6Ix-00ImwFN/s1600/1000103895.jpg"
     },
     {
-      "id": "c4d1479b974bf6817196432dce0c3059c329e37e",
-      "title": "19 Chrome and Edge Extensions Found With Wallet-Stealing and Crypto-Draining Code",
-      "url": "https://thehackernews.com/2026/08/19-chrome-and-edge-extensions-found.html",
-      "published": "2026-08-28T15:27:26+00:00",
-      "summary": "Cybersecurity researchers have discovered a cluster of 18 Google Chrome and one Microsoft Edge extensions that were published over the last six months and harbored wallet secret stealing and cryptocurrency draining capabilities.\n\n\nThe extensions, per Socket security researcher Karlo Zanki, share similarities in code and tradecraft, with evidence indicating that the campaign may have been active",
-      "source": "The Hacker News",
+      "id": "9731c992dfa005186f6e5a3e0c2f7723fef99bd7",
+      "title": "AI Is Ending the Era of Hidden Vulnerabilities \u2014 Are Vendors Ready?",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/ai-ending-era-hidden-vulnerabilities-are-vendors-ready",
+      "published": "2026-09-04T13:00:00+00:00",
+      "summary": "A tidal wave of bug reports is overwhelming software vendors, exposing secure-by-design failures and creating disclosure bottlenecks.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_QtvF-9M9imh55UP7qeyFUNhKknBwEcmcbIa34vndzIHinEk754vasbvTqILRNrtp6BDpuR8VzAyk0_Wt1tJB4hjUlgaO5Rb6Wru-WoXlrCPIXLr0I_oBhA7BwQDoO3MH82uloaG-qXyHAloI7r2zuWNfygFNeiSYAZeWyDn8_smuzrgvsvk0eQEX5klW/s1600/1000103889.jpg"
-    },
-    {
-      "id": "34741a7c2251ec485aa6c12ea9d795b04dbf1136",
-      "title": "Two Unitree G1 EDU Humanoid Robot Flaws Enable Root RCE, One Starts Over Bluetooth",
-      "url": "https://thehackernews.com/2026/08/two-unitree-g1-edu-humanoid-robot-flaws.html",
-      "published": "2026-08-28T12:07:24+00:00",
-      "summary": "Security researcher Olivier Laflamme has disclosed two independent root remote code execution (RCE) chains affecting the Unitree G1 EDU, including a Bluetooth Low Energy (BLE) path that can reach root on the robot's Locomotion PC.\n\nThe flaws are tracked as&nbsp;CVE-2026-76639&nbsp;and&nbsp;CVE-2026-76640, with the first involving a network-adjacent path through chat_go and bashrunner and the",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKqNVrCXSaUDXfrGPJkoRoXBPQW4qwhdYqm2SMVaunZNwBrQ4FbURK-gtVawzaje20fK_m9q2dKepfj-dxmkvfKL4se3ZQ1YAI3iogqCft1UjVadJa_uBoQxFuoBpWfx2Dh3S4-jQLa7c4E9OOyQfVAT5BVKVShPykiPWEuYcchIPHFC4e5GduyW4iBio/s1600/Humanoid.jpg"
-    },
-    {
-      "id": "c599f4f3be835a7e26bbc855fe7a43423052924f",
-      "title": "Key Reasons Why Identity Fabric Matters in 2026",
-      "url": "https://thehackernews.com/2026/08/key-reasons-why-identity-fabric-matters.html",
-      "published": "2026-08-28T11:30:00+00:00",
-      "summary": "An Identity Fabric knits fragmented identity systems into a coherent layer that observes how identities behave across applications, APIs, and infrastructure. As enterprise access spans more cloud services and automated workloads, identity security depends less on static configuration and more on runtime visibility. This article covers the architecture, the risks of unmanaged identities, and",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtiQiqrq5S2ip1c5QHUZaJADW3_fskqNx6rhLXi2mGqOH5NGwuTwmFXPtqLpFKXDLVMtG-rZTTVlRh8ZVJON5DFBxdE7RwCN8_Fh0Y_mypooHEo4yZeYB-FoGinET6wHzTwgYWDMeZxVT9b-uCQSJ7bLEZdzRUglWWuOY5ItZyGC94Xo85iFck6FMmUmY/s1600/orchid-main.jpg"
-    },
-    {
-      "id": "147829bbbc2c54fa78667496daa8728a712e9bdd",
-      "title": "Three CVSS 10.0 ServiceNow Flaws Could Let Unauthenticated Attackers Execute Code and SQL",
-      "url": "https://thehackernews.com/2026/08/three-cvss-100-servicenow-flaws-could.html",
-      "published": "2026-08-28T11:20:32+00:00",
-      "summary": "ServiceNow has released patches for four security flaws impacting the ServiceNow AI Platform, three of them rated 10.0 on the CVSS scoring system and exploitable, in certain circumstances, by an unauthenticated attacker.\n\nThe company said it deployed a security update to hosted instances and provided the update to its partners and self-hosted customers, which leaves organizations that run their",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitiido-BqtV-H4U0qEAovU_m3NGb3PHF5O3IEh53W_rllGDplhA8aluEKIUULFq3L7iNQue-NLxQDR3wSF7PaaAhGg14rWdqHoB6jBZC1YfslM0wyj5xhESZKTbIxgjO_lnZqVOrKx_E2hK-wXtE85EPJW-pV8D3eMv9CWgMF8eXzsJgq3xevdBY9hCs0/s1600/servicenow.jpg"
-    },
-    {
-      "id": "fb3fff3457086d3f56fcaa8663557491ed22e327",
-      "title": "China-Made ZBT Routers Ship With Two Implants Giving Unauthenticated Attackers Root Access",
-      "url": "https://thehackernews.com/2026/08/china-made-zbt-routers-ship-with-two.html",
-      "published": "2026-08-28T10:58:29+00:00",
-      "summary": "VulnCheck has disclosed two previously undocumented factory implants in firmware for routers built by Shenzhen Zhibotong Electronics (ZBT), each of which gives an unauthenticated remote attacker the ability to run commands as root on affected devices.\n\nThe implants, named SPEAKINGSTONE and DARKLANTERN by the company's zero-day research team, are tracked as CVE-2026-74232 and CVE-2026-74233.",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0i2viN2zKBeSxzTqoxZkPNq_6lPMDBLb18zbLPwufsY4mFm494ydDDAWi6gGwy6PsmRGublHFmdmcEiGKViLuUgaJwWux_YUW7HQHuGbbf04HGNpoZa6QLmvf1IHE04TeTT89Yc1_jo0z6mptCbX-fIhVEVQzg5GnfU2Uya4HHASHbttTBGMxl7KMkbM/s1600/router-malware.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt56a233cc0acad67e/6a998df307331ddd2ec7748c/tsunami_wave-shannonstent-GettyImages-170598253.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "id": "7ff01f204a1c10e3e1554c23fb6d971e9d5cc203",
@@ -1201,15 +1212,125 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5bccc03f4b27984e/6a8754a988809d97a89eb2b5/Jake_Williams_News_Desk_2026.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "id": "f181a83c3fc1e5e846a9070b0cc14d120eaed14d",
-      "title": "What We Missed: Delta Flight Disrupted With Wi-Fi Hack",
-      "url": "https://www.darkreading.com/cyber-risk/delta-flight-disrupted-wi-fi-hack",
-      "published": "2026-08-20T19:11:15+00:00",
-      "summary": "In this video, Dark Reading editors discuss some of the news they didn't get a chance to cover, including some scary airplane security risks and the US government's newest &quot;hack back&quot; strategy.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt873948c65f62f170/6a874b480989859872d1eb89/Delta_Vegas-Janice_Chen-GettyImages-2269887409.jpg?width=720&quality=80&disable=upscale"
+      "id": "a0aed382f4580bb83c67a171e9aa47301f6d1cd6",
+      "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
+      "url": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
+      "published": "2026-09-01T22:40:28+00:00",
+      "summary": "A new identity theft service launched on the dark web this week is selling digital scans of more than 153 million drivers licenses from people in the United States and Canada. Based on interviews with individuals whose licenses are available for purchase on this service, it appears to be siphoning images collected by a widely-used identity verification company based in Louisiana. KrebsOnSecurity also has learned that the New Orleans field office of the Federal Bureau of Investigation (FBI) today launched an official inquiry into the source of the images.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "861f4dd4c580966a80c1122d9ffeb9b61acc3973",
+      "title": "Two Alleged \u2018TeamPCP\u2019 Hackers Arrested in Australia",
+      "url": "https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/",
+      "published": "2026-08-27T11:04:15+00:00",
+      "summary": "Authorities in Australia have arrested two men believed to be members of TeamPCP, a prolific cybercrime and data extortion group blamed for perpetrating the longest running spree of software supply chain attacks ever.\n\nIn a statement released today, the Australian Federal Police (AFP) said two unnamed suspects from Western Australia, aged 21 and 23, were arrested in connection with a \"sophisticated cybercrime syndicate that allegedly created malicious open-source software to rob thousands of global businesses.\"\n\nThe AFP did not name the defendants, but KrebsOnSecurity learned the 21-year-old suspect's real identity in June, and has been communicating with him ever since. This story includes interviews with TeamPCP's self-described spokesperson, and examines clues left behind by the TeamPCP leader that likely led to his undoing.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "d878e0c4e97714ff9c6d7347279e64e1cd0ca124",
+      "title": "Who\u2019s Tracking You? Use This New Service to Find Out",
+      "url": "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/",
+      "published": "2026-08-14T11:24:35+00:00",
+      "summary": "It can be daunting to determine who's responsible for showing ads on the websites we visit, or who's harvesting data from the mobile apps we use every day. That information is already semi-public, but it is not easily parsed and traditionally much of it has remained walled away in the hands of large advertising platforms. Not anymore: A powerful and free new service called DecryptAds scrapes and correlates this adtech data and makes it simple to quickly learn a great deal about the entities that are tracking you.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "cff573d711d0832681486b99ebf6dcf4f762bf76",
+      "title": "Microsoft Plugs Nearly 400 Security Holes",
+      "url": "https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/",
+      "published": "2026-08-11T21:28:35+00:00",
+      "summary": "Microsoft today released updates to remedy at least 398 security vulnerabilities in its Windows operating systems and supported software, including one weakness that is already being actively exploited and two others that were publicly detailed prior to today.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "227e8673997308a3ba6d044025a2aa09a69f6761",
+      "title": "Canadian Man Pleads Guilty in Snowflake Extortions",
+      "url": "https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/",
+      "published": "2026-08-06T17:00:56+00:00",
+      "summary": "A 26-year-old Canadian man once described as one of the most consequential cybercrime threat actors of 2024 has pleaded guilty to computer fraud and conspiracy to hack and extort more than 165 organizations that used the cloud data storage provider Snowflake. Connor Riley Moucka, of Kitchener, Ontario, also admitted to stealing call and text history records of more than 100 million AT&#038;T customers.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "6ff41ac0519d311bd43bcd05ddee161ca3c70b27",
+      "title": "Sangoma Switchvox Vulnerabilities Exploited in the Wild",
+      "url": "https://www.securityweek.com/sangoma-switchvox-vulnerabilities-exploited-in-the-wild/",
+      "published": "2026-09-04T13:23:12+00:00",
+      "summary": "<p>Tracked as CVE-2026-9586, the unauthenticated SQL injection flaw can be exploited remotely for arbitrary code execution.</p>\n<p>The post <a href=\"https://www.securityweek.com/sangoma-switchvox-vulnerabilities-exploited-in-the-wild/\">Sangoma Switchvox Vulnerabilities Exploited in the Wild</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "6e14a296f327a070fd4657dd904380fc498e5bda",
+      "title": "12-Year-Old PostgreSQL Vulnerability Enables Database, Server Takeover",
+      "url": "https://www.securityweek.com/12-year-old-postgresql-vulnerability-enables-database-server-takeover/",
+      "published": "2026-09-04T12:06:13+00:00",
+      "summary": "<p>Dubbed PostGREShell, CVE-2026-6471 turns low-level replication access into code execution, permanent superuser privileges and a persistent database backdoor.</p>\n<p>The post <a href=\"https://www.securityweek.com/12-year-old-postgresql-vulnerability-enables-database-server-takeover/\">12-Year-Old PostgreSQL Vulnerability Enables Database, Server Takeover</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "7c25bfdb1efc4952190d74d1a9390e57baef118e",
+      "title": "Catch Raises $5 Million for AI Executive Assistant With Guardrails",
+      "url": "https://www.securityweek.com/catch-raises-5-million-for-ai-executive-assistant-with-guardrails/",
+      "published": "2026-09-04T11:55:17+00:00",
+      "summary": "<p>Catch promises the capabilities of a trusted executive assistant, with built-in controls governing what data and systems it can access.</p>\n<p>The post <a href=\"https://www.securityweek.com/catch-raises-5-million-for-ai-executive-assistant-with-guardrails/\">Catch Raises $5 Million for AI Executive Assistant With Guardrails</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "c5a9288bdce9ce10cef41f115b46ebf0aa1b17e9",
+      "title": "VMware Workstation and Fusion Updates Patch Critical Vulnerability",
+      "url": "https://www.securityweek.com/vmware-workstation-and-fusion-updates-patch-critical-vulnerability/",
+      "published": "2026-09-04T11:42:55+00:00",
+      "summary": "<p>The flaws could allow attackers with administrative access to a virtual machine to execute code on the host system.</p>\n<p>The post <a href=\"https://www.securityweek.com/vmware-workstation-and-fusion-updates-patch-critical-vulnerability/\">VMware Workstation and Fusion Updates Patch Critical Vulnerability</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "7baabba7c6468aca3b33043b99ebcd71b1058fdc",
+      "title": "Google Patches 6th Chrome Zero-Day of 2026",
+      "url": "https://www.securityweek.com/google-patches-6th-chrome-zero-day-of-2026/",
+      "published": "2026-09-04T11:31:52+00:00",
+      "summary": "<p>Google\u2019s Chrome 152 security update resolves 12 vulnerabilities, including a high-severity type confusion flaw in the V8 engine.</p>\n<p>The post <a href=\"https://www.securityweek.com/google-patches-6th-chrome-zero-day-of-2026/\">Google Patches 6th Chrome Zero-Day of 2026</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "af6011ef0cdd9333a54f6d0d1640865ab919849a",
+      "title": "Nvidia Is Buying AI Platform Hugging Face for $13 Billion",
+      "url": "https://www.securityweek.com/nvidia-is-buying-ai-platform-hugging-face-for-13-billion/",
+      "published": "2026-09-04T10:00:00+00:00",
+      "summary": "<p>The deal highlights Nvidia\u2019s push to champion increasingly popular open-source AI models.</p>\n<p>The post <a href=\"https://www.securityweek.com/nvidia-is-buying-ai-platform-hugging-face-for-13-billion/\">Nvidia Is Buying AI Platform Hugging Face for $13 Billion</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
       "id": "d25fd9c62f7c4c24095c57e9a41e090e39ec7198",
@@ -1250,72 +1371,6 @@
       "url": "https://www.securityweek.com/ai-agent-firewall-startup-air-security-emerges-from-stealth-with-50-million/",
       "published": "2026-09-03T12:00:00+00:00",
       "summary": "<p>The startup\u2019s firewall evaluates AI skills, plugins and MCP servers for malicious instructions, excessive permissions and software supply chain risks.</p>\n<p>The post <a href=\"https://www.securityweek.com/ai-agent-firewall-startup-air-security-emerges-from-stealth-with-50-million/\">AI Agent Firewall Startup AIR Security Emerges From Stealth With $50 Million</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "e2c94c64016dbf0fd46651f7ddb33e902c4aab1e",
-      "title": "153 Million Driver License Images Offered on Dark Web",
-      "url": "https://www.securityweek.com/153-million-driver-license-images-offered-on-dark-web/",
-      "published": "2026-09-03T10:54:18+00:00",
-      "summary": "<p>Cybercriminals are offering digital scans of US and Canadian driver\u2019s licenses, likely stolen from IDScan.net.</p>\n<p>The post <a href=\"https://www.securityweek.com/153-million-driver-license-images-offered-on-dark-web/\">153 Million Driver License Images Offered on Dark Web</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "5cba2d58833b703880a3ea991a0f056662208058",
-      "title": "Over 3 Million WordPress Sites Affected by Migration Plugin Vulnerability",
-      "url": "https://www.securityweek.com/over-3-million-wordpress-sites-affected-by-migration-plugin-vulnerability/",
-      "published": "2026-09-03T10:40:00+00:00",
-      "summary": "<p>The high-severity SQL injection flaw (CVE-2026-19949) could allow unauthenticated attackers to achieve remote code execution.</p>\n<p>The post <a href=\"https://www.securityweek.com/over-3-million-wordpress-sites-affected-by-migration-plugin-vulnerability/\">Over 3 Million WordPress Sites Affected by Migration Plugin Vulnerability</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "e3090596733302115149a94638dfc8fb6938b00a",
-      "title": "Cisco Warns of Unpatched Secure Email Flaws, Patches Critical Switch Vulnerabilities",
-      "url": "https://www.securityweek.com/cisco-warns-of-unpatched-secure-email-flaws-patches-critical-switch-vulnerabilities/",
-      "published": "2026-09-03T10:30:00+00:00",
-      "summary": "<p>Publicly disclosed S/MIME flaws could expose encrypted email content, while critical IOS XR and Nexus bugs could enable remote code execution and authentication bypass.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisco-warns-of-unpatched-secure-email-flaws-patches-critical-switch-vulnerabilities/\">Cisco Warns of Unpatched Secure Email Flaws, Patches Critical Switch Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "bf7a424fd078dd321fc08878c8f0f50282c10f33",
-      "title": "OpenLeash Adds a Human Check to Risky AI Agent Actions",
-      "url": "https://www.securityweek.com/openleash-adds-a-human-check-to-risky-ai-agent-actions/",
-      "published": "2026-09-02T19:30:00+00:00",
-      "summary": "<p>The security tool intercepts potentially dangerous agent actions, blocking clear threats and requesting human approval when intent is uncertain.</p>\n<p>The post <a href=\"https://www.securityweek.com/openleash-adds-a-human-check-to-risky-ai-agent-actions/\">OpenLeash Adds a Human Check to Risky AI Agent Actions</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "8acf952bc2b0d4fff5f4e36b23c77145835b9758",
-      "title": "UK Moves to Block High-Risk Tech Suppliers From Critical Infrastructure",
-      "url": "https://www.securityweek.com/uk-moves-to-block-high-risk-tech-suppliers-from-critical-infrastructure/",
-      "published": "2026-09-02T15:45:08+00:00",
-      "summary": "<p>Late amendments to the Cyber Security and Resilience Bill would give ministers new powers to restrict risky technology providers as supply chain attacks intensify.</p>\n<p>The post <a href=\"https://www.securityweek.com/uk-moves-to-block-high-risk-tech-suppliers-from-critical-infrastructure/\">UK Moves to Block High-Risk Tech Suppliers From Critical Infrastructure</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "a1e697cc00212c30add88980fa4910eac798da56",
-      "title": "Rockwell Automation Patches Over a Dozen Vulnerabilities Across Products",
-      "url": "https://www.securityweek.com/rockwell-automation-patches-over-a-dozen-vulnerabilities-across-products/",
-      "published": "2026-09-02T12:39:07+00:00",
-      "summary": "<p>The industrial giant has released advisories for its RSLinx Classic, ArmorStart, ControlFLASH, FactoryTalk, and other products.</p>\n<p>The post <a href=\"https://www.securityweek.com/rockwell-automation-patches-over-a-dozen-vulnerabilities-across-products/\">Rockwell Automation Patches Over a Dozen Vulnerabilities Across Products</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
