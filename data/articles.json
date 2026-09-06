@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T14:03:05.401021+00:00",
+  "generated_at": "2026-09-06T01:27:51.262424+00:00",
   "items": [
     {
       "id": "69919be74d18a8d02d7bb06bf0930c6c08e909b5",
@@ -110,6 +110,50 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "a6f7e900dd408223e7b9cb3938b2ec0eaa422a33",
+      "title": "Unpatched Magento and Adobe Commerce Zero-Day Exploited to Backdoor Online Stores",
+      "url": "https://thehackernews.com/2026/09/unpatched-magento-and-adobe-commerce.html",
+      "published": "2026-09-05T20:14:47+00:00",
+      "summary": "Attackers are exploiting a new unpatched vulnerability in Magento Open Source and Adobe Commerce that lets them run malicious code on an online store's server without logging in, Dutch e-commerce security company Sansec said in an&nbsp;advisory published on September 5.\n\nSansec, which discovered the flaw and named it StyleSmuggler, said attacks started on September 4. \"Sansec is",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjghsT_skiIfdOHK2B0WWDfWnSK0G5Ih7BqsX98tKrY4TH7I77oLEmnldtVHuUMEQaIiZZBSPJGI2t8Me7h9kDtE4YGZ9-5NypnAu2-yFFrXsWYkR6OJPlbqkZDEHBAXCmRjWm6Mk4h0Ni48JT0nrDWMYygztjoi4HuHPbe2y-2jreFVkzrxO8r4IhHIEU/s1600/adobe-exploit.jpg"
+    },
+    {
+      "id": "21ba9ecf17eb79c288aeb5c86f3bc6adeb0d4f59",
+      "title": "Attackers Breached JetBrains Cadence via Unpatched TeamCity, Extracting AWS Credentials",
+      "url": "https://thehackernews.com/2026/09/attackers-breached-jetbrains-cadence.html",
+      "published": "2026-09-05T16:52:33+00:00",
+      "summary": "JetBrains is urging Cadence users to revoke and rotate all credentials following a security incident last month in which unidentified threat actors exploited a recently disclosed critical vulnerability in TeamCity to breach its own environment.\n\n\"Cadence users should immediately revoke or rotate all credentials and secrets that may have been used to run their Cadence executions,\" JetBrains said.",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjH4sbUEhtXF9n1_8s2f6ChnKMmjUv4Ht-DvEtZyLDPuSNhKFoi41aNlu3-u5kJLXUva81rNFwlsprMXE11cnbXc_es968eO-ANvWm0j1Cyi9SaoVUfneQqNINCR7lRs3qkkYdsSoyMu34Mgxs7B4pKclAt4atPw8B-RCFOTChtgeji9NTes_NEdZ2KKu2_/s1600/jet.jpg"
+    },
+    {
+      "id": "ca7ece09a157d6d85f783bb9e98062672a3edf48",
+      "title": "Critical VMware Workstation and Fusion Flaw Lets VM Admins Execute Host Code",
+      "url": "https://thehackernews.com/2026/09/critical-vmware-workstation-and-fusion.html",
+      "published": "2026-09-05T16:05:08+00:00",
+      "summary": "Broadcom has released security updates for two security flaws impacting VMware Workstation and Fusion, including one critical bug that could result in arbitrary code execution under certain conditions.\n\nThe vulnerability, tracked as CVE-2026-59346 (CVSS score: 9.3), is an integer-overflow vulnerability that a local attacker with elevated privileges can exploit to run arbitrary code.\n\n\"A",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzExwAd4Vsd2Xz-9kex6ucfK6MDmftPVCfiOGQICWDKrgxMJ6fOj0EttLP2kpYBDv4xSYdrEXt8Wntz916Oa2tyrMnaSHDLH9vb5RF4ncjvwdkeFU8GwaqWvT6zLHRTKIF-BOGK8p24Im4NwqlqZxTokMsYOfXSBdA0-jXxMbMozfjdK-iyyavdAywjAAh/s1600/vmware-host.jpg"
+    },
+    {
+      "id": "2d965a358adc2b75184604eee2a42807b9572a6c",
+      "title": "Trezor Says ShipMonk Breach Exposed 67,000 U.S. Customers' Data It Said Was Deleted",
+      "url": "https://thehackernews.com/2026/09/trezor-says-shipmonk-breach-exposed.html",
+      "published": "2026-09-05T14:17:02+00:00",
+      "summary": "Hardware wallet manufacturer Trezor on Friday disclosed that another 67,000 customers from the U.S. have been impacted in a breach at its shipping provider ShipMonk.\n\nThe exposed information includes customer names, email addresses, phone numbers, shipping addresses, and order numbers between November 2019 and August 2021. The breach does not affect the security of the company's hardware wallets",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIuPjOUFz-c7o9qipnKr4soYR6NxJJxAYgcDqwTPl3LB5XXiag7UpIq8-qFzCbiC1cnlpWfyaRvAt9MVxIlSXeuEN_97devL_mSI25Ee73cO47vDq4dqsM8Nq08d7FogI7sVIPWlnMTD-Una_rRwyTyXqKG6am2DrU_EoIESLicWgDvpxsw6e8yAHmJnGI/s1600/trezor.jpg"
     },
     {
       "id": "e2da645b2e416dcac0aec5e3ef8940de0ea2b133",
@@ -616,50 +660,6 @@
       "region": "North America",
       "country": "US",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxYI5Ntk3CPoEGUHNQbd80hij-0QLnz3V_HBU3aXV-mvQq98IE6xsRlbuwZ2PNbbSV7dA-HlNfqRWj0_bd3XpQCOPt9R2gS3PJMm8lfMP_9IoKyhDNbY9NOotNDHO68v2DSUT_R-0UYTqZQc16DJM7OqS8_35iVUMqyy3GrUt7iMaIWz6iW6OSP2ddiDc/s1600/cisco-creds.jpg"
-    },
-    {
-      "id": "5b0f332fc66fdddb176e30a132ceeadd814aab3a",
-      "title": "DoJ Corrects China Hacking Claim, Says U.S. Agencies Were Targets, Not Victims",
-      "url": "https://thehackernews.com/2026/08/doj-corrects-china-hacking-claim-says.html",
-      "published": "2026-08-31T07:56:53+00:00",
-      "summary": "The U.S. Department of Justice (DoJ) on Friday corrected a previously issued press statement that several of its agencies were victims of attacks carried out by Chinese threat actors, instead now pointing out that they were among those targeted.\n\nLast week, the DoJ said the National Aeronautics and Space Administration, Federal Reserve, Department of Energy, Department of Justice, Department",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHmPwSKHINCGncOKbSs9X05lJ2CJQivbfLYQ6LP3njVHAc-4fgSYJz-C1u6SUiFEtcF4ddjW3PBayFsVaF2a03OOkaLfWlg8pxJelp5bEhJT0LEv8-XPs9bUf8ruFcGOzjWAbumEJ4Veirq9lAAalOThmUfD0i19Mo5X_HpDcI21_5pJp7WsA8OPh74Ad_/s1600/justice.jpg"
-    },
-    {
-      "id": "53af0197de88cefd58e4b0714cffd92332b921e5",
-      "title": "TerminalFix Uses Fake Cloudflare CAPTCHAs to Deploy Reverse-Tunnel Backdoor",
-      "url": "https://thehackernews.com/2026/08/terminalfix-uses-fake-cloudflare.html",
-      "published": "2026-08-30T07:36:33+00:00",
-      "summary": "Microsoft has disclosed details of a new ClickFix variant, dubbed TerminalFix, that aims to trick users into running a malicious command in Windows Terminal or PowerShell.\n\n\"While traditional ClickFix campaigns direct victims to the Windows Run dialog, TerminalFix campaigns apply the same technique but direct users to Windows Terminal or PowerShell instead, increasing the likelihood that complex",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpxriybAzLw0daA0mtL3sZd04fy8Sal4s0mrBAz2-ksjwfP2V08YK_KbCJY57hKG28Kt6gn2mKq4HFSpkG2MNvA3Oz6MhNUe77_1Nvpahn2nnCFHPpxIlp5Ix4DvAZw08qXtxt1M-4zCtSENbBkODQyP_WDp9j3PXACc0XKYk1BK1K-2Xabho1cBPqerW9/s1600/cf-clickfix.jpg"
-    },
-    {
-      "id": "df044a4bbe03a77b7132114d7ba6804b0b07e143",
-      "title": "Five Critical WordPress Plugin and Theme Flaws Enable Site Takeover or RCE",
-      "url": "https://thehackernews.com/2026/08/five-critical-wordpress-plugin-and.html",
-      "published": "2026-08-29T16:25:03+00:00",
-      "summary": "Multiple critical security flaws have been disclosed in WordPress plugins and themes, including WPMU DEV Dashboard, Avada, TranslatePress, Pods, and GiveWP, that could lead to authentication bypass, account takeover, and arbitrary code execution.\n\nThe vulnerabilities, according to Wordfence and Patchstack, are listed below -\n\n\n  CVE-2026-76581 (CVSS score: 9.8) - An authentication bypass flaw in",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiROOqCRPV4u9cWfJL8nvCYKi4Ake-ki3_uh8Qn8RJ0P20h3Mz_qxVfF856pJ9DQZMHy922CeLwOHDc37Gpb4p1UCTMx6cMT5HeeAP_w4RitCuQficYcGDDkqpDVfW_nA3M7qWT-WyM6A5Adk3J2e8kMWSG1GSUOatrcVBmc7fmb2-ovadVS3fOdkd1ubFx/s1600/wordpress-themes.jpg"
-    },
-    {
-      "id": "cc7c93e350718ae5186224600e0d2a9561d523cf",
-      "title": "Berlin Refuses to Pay Hackers Who Stole Data From the City's State Network",
-      "url": "https://thehackernews.com/2026/08/berlin-refuses-to-pay-hackers-who-stole.html",
-      "published": "2026-08-28T21:30:52+00:00",
-      "summary": "Berlin's state government has confirmed that it is the target of an extortion attempt following the August compromise of the city's state administrative network, and said it will not meet the extortionists' demands.\n\nThe same statement disclosed that forensic work had found further data outflows in the portfolio of the Senate Department for Mobility, Transport, Climate Protection and Environment",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRLS8X8abAbJ9p1f1jp9VIUeKfRa4l4gAIgmCWsw1eXZuJ7SY201P6w6V8NYVf1CHpaN_pyAuLg-6h-e9RYFBlBFsl3k5egiOnoj8ZiXScxu8El1jZExmlyNYfunp0Z4j5F0PYSg4Ltu0yldY-wKmI2TC5UU-7mrasEsZ_SyEso7dGFvLIpcA8hdHqVdw/s1600/berlin.jpg"
     },
     {
       "id": "b80dc834522e75d1281b04c8788e69934afc5e07",
@@ -1760,6 +1760,50 @@
       "region": "Europe",
       "country": "UK",
       "image": "https://image.theregister.com/?imageId=5291980&width=800"
+    },
+    {
+      "id": "a0aed382f4580bb83c67a171e9aa47301f6d1cd6",
+      "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
+      "url": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
+      "published": "2026-09-01T22:40:28+00:00",
+      "summary": "A new identity theft service launched on the dark web this week is selling digital scans of more than 153 million drivers licenses from people in the United States and Canada. Based on interviews with individuals whose licenses are available for purchase on this service, it appears to be siphoning images collected by a widely-used identity verification company based in Louisiana. KrebsOnSecurity also has learned that the New Orleans field office of the Federal Bureau of Investigation (FBI) today launched an official inquiry into the source of the images.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "861f4dd4c580966a80c1122d9ffeb9b61acc3973",
+      "title": "Two Alleged \u2018TeamPCP\u2019 Hackers Arrested in Australia",
+      "url": "https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/",
+      "published": "2026-08-27T11:04:15+00:00",
+      "summary": "Authorities in Australia have arrested two men believed to be members of TeamPCP, a prolific cybercrime and data extortion group blamed for perpetrating the longest running spree of software supply chain attacks ever.\n\nIn a statement released today, the Australian Federal Police (AFP) said two unnamed suspects from Western Australia, aged 21 and 23, were arrested in connection with a \"sophisticated cybercrime syndicate that allegedly created malicious open-source software to rob thousands of global businesses.\"\n\nThe AFP did not name the defendants, but KrebsOnSecurity learned the 21-year-old suspect's real identity in June, and has been communicating with him ever since. This story includes interviews with TeamPCP's self-described spokesperson, and examines clues left behind by the TeamPCP leader that likely led to his undoing.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "d878e0c4e97714ff9c6d7347279e64e1cd0ca124",
+      "title": "Who\u2019s Tracking You? Use This New Service to Find Out",
+      "url": "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/",
+      "published": "2026-08-14T11:24:35+00:00",
+      "summary": "It can be daunting to determine who's responsible for showing ads on the websites we visit, or who's harvesting data from the mobile apps we use every day. That information is already semi-public, but it is not easily parsed and traditionally much of it has remained walled away in the hands of large advertising platforms. Not anymore: A powerful and free new service called DecryptAds scrapes and correlates this adtech data and makes it simple to quickly learn a great deal about the entities that are tracking you.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "cff573d711d0832681486b99ebf6dcf4f762bf76",
+      "title": "Microsoft Plugs Nearly 400 Security Holes",
+      "url": "https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/",
+      "published": "2026-08-11T21:28:35+00:00",
+      "summary": "Microsoft today released updates to remedy at least 398 security vulnerabilities in its Windows operating systems and supported software, including one weakness that is already being actively exploited and two others that were publicly detailed prior to today.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
       "id": "c131a8c620ce99fa0cd0a67b71ad93cf6fa3f69f",
