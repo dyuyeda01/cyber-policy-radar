@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T01:27:51.262424+00:00",
+  "generated_at": "2026-09-06T14:28:08.720471+00:00",
   "items": [
     {
       "id": "69919be74d18a8d02d7bb06bf0930c6c08e909b5",
@@ -7,17 +7,6 @@
       "url": "https://www.cybersecuritydive.com/news/Nvidia-acquires-hugging-face-enterprises/829697/",
       "published": "2026-09-04T15:44:43+00:00",
       "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/E4lajvoXEyqeCcx3_VoXN8XpcWo4GNG-AzB9aVtDnOk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjA1NzYxODg2LmpwZw==.webp\" /></div></figure><p>The chipmaker&rsquo;s acquisition could eventually bring additional security resources and model evaluation tools to the platform, according to experts.</p>",
-      "source": "Cybersecurity Dive",
-      "region": "North America",
-      "country": "US",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "917a5f536d89d6f09e632940957d98b202088f27",
-      "title": "OpenAI pledges $1 billion to provide resources, training for frontline cyber defenders",
-      "url": "https://www.cybersecuritydive.com/news/openai-pledges-1-billion-resources-cyber-defenders/829676/",
-      "published": "2026-09-04T14:23:44+00:00",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/rzzuwO1d6r53SmzG3DMeMUm3aWsZTRsgBKWAwNzcSkI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjIwNjU0Nzc1LmpwZw==.webp\" /></div></figure><p>Amid heightened scrutiny, the company will use frontier AI to help water, power and local government providers fight malicious actors.</p>",
       "source": "Cybersecurity Dive",
       "region": "North America",
       "country": "US",
@@ -110,6 +99,39 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "0b943d00ec6b6c3c1c2f97cd9bbc0239a778d636",
+      "title": "Frontier AI tipping the scales toward cyber adversaries",
+      "url": "https://www.cybersecuritydive.com/news/frontier-ai-tipping-scales-cyber-adversaries/829088/",
+      "published": "2026-08-28T15:01:51+00:00",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/oMiO7cn-S7dKO_1oOhCqov0YSQtLd6TD9e5Z4ggXOvw/g:nowe:8:185/c:4023:2273/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfMjIxOS5KUEc=.webp\" /></div></figure><p>Researchers at Palo Alto Networks&rsquo; Unit 42 warn that threat actors are already using AI to accelerate cyberattacks beyond the abilities of modern defenses.</p>",
+      "source": "Cybersecurity Dive",
+      "region": "North America",
+      "country": "US",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "d49a120f4499bf395ef7b4fc44fa913084c688c4",
+      "title": "Attackers Hijack MikroTik Routers Through Internet-Exposed SSH Without Authentication",
+      "url": "https://thehackernews.com/2026/09/attackers-hijack-mikrotik-routers.html",
+      "published": "2026-09-06T09:32:38+00:00",
+      "summary": "Attackers are exploiting MikroTik routers with their Secure Shell (SSH) remote-access service, which is reachable from the internet, to gain full administrative control without authentication, according to&nbsp;CERT Polska's attack warning, published on September 5.\n\nSuccessful attacks date to at least September 2. The Hacker News\u2019s September 6 review of the warning found no victim count or",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiSiBDO5j21gorWS-UjrLlDl0RzniibBPjfO4xfPBBLbH1yTQIB88G-hUBRtYNufYwkPpVjWWLu0GXk1TB7pv_x8KbQCbfsL5Ft8JlZLa6iZfvuHU-vKSPNq5Li-e9DtoOvZIOXPYmibx9uc_imnug4ZJUog31KwlA3YKmY8ghOpROVQR8mwPj9qb-1kA/s1600/micro.jpg"
+    },
+    {
+      "id": "acd0dfe21913274c5a29afc96cb29a755055c15b",
+      "title": "Four REVSTEALER-Linked Modules Disable Windows Update and Defender to Run a Crypto Miner",
+      "url": "https://thehackernews.com/2026/09/four-revstealer-linked-modules-disable.html",
+      "published": "2026-09-06T08:34:20+00:00",
+      "summary": "Elastic Security Labs has documented four previously unreported programs associated with REVSTEALER, an emerging Windows information stealer, that remain on an infected machine after the stealer deletes itself.\n\nOne of them switches off Windows Update and Microsoft Defender before running a cryptocurrency miner.\n\nThe company named the four programs ProManager, WinUpdate, SoftManager, and",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpRcdfXd6kYnqLLWSFdzGKICUzSr90MsV2f3PXtw8VDVcT-xOP2w4HwnVzrRI4bdJqhboQMFIm9BZ393b89IOqgYx-VVmb_B8-XJCsZ9SAIymdlBpEf5ARizHvn32t8Mr9stzV6nMVcn3utUYI1xSRxhaC29QZjS-C3haNSRPfQI_eBYzXCrwn5rl18Nw/s1600/rev.jpg"
     },
     {
       "id": "a6f7e900dd408223e7b9cb3938b2ec0eaa422a33",
@@ -638,28 +660,6 @@
       "region": "North America",
       "country": "US",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHyB4qaQy8srcEIgc1oMi08PMKtoVFIsmW3ho_7f7rISFML8Kmz8jYzDE1FCN9Nfo4LvvgVFV_FEijgLbCrZcJ5zy7xlvAYTKuyGrcE0IU6yqEd-awlmOyRQ3FXcSeA5yM71NLDa5nxpj9taGnNiVXvCb_5tun5j3dfb6z8j7cmwQ2O0PE2V3y0oKWv6sB/s1600/cursor.jpg"
-    },
-    {
-      "id": "21bc0fee620101226fc1c43b55eb94b09dfc0818",
-      "title": "Securing Claude Code: The New Compliance API, Local Visibility, and Identity Governance",
-      "url": "https://thehackernews.com/2026/08/securing-claude-code-new-compliance-api.html",
-      "published": "2026-08-31T11:31:47+00:00",
-      "summary": "Claude Code reads files, runs shell commands, invokes MCP tools, and acts through the credentials available on a developer\u2019s machine. Anthropic\u2019s new Compliance API endpoints give security teams their clearest view yet into that activity. They also expose a larger problem: activity logs alone cannot tell you whether an agent\u2019s access is legitimate.\n\n\nAI has moved from the browser tab to the",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEithkMoEFgk1IZj_h_hGp94DwzD4UyQGh2f-epiRD6fn_XcMyB44HkXe-7XaHzviE8sImzIctDBjibyY0Gdrt_OPFFeja3KnOd9KsPFP3PeTxUzlshseSyukl0-cmQWZctAeVQHTUpvW99C8FZrhCcwPDZWoYShfC9jTGqmj1Va2K-Mo2kK6GbSksGIbM4/s1600/dan.jpg"
-    },
-    {
-      "id": "08dcfdc56d8ac354246fd4d121d274a8d2e6464f",
-      "title": "China-Linked Fire Ant Hijacks Cisco Routers to Steal Credentials and Blind Security Logs",
-      "url": "https://thehackernews.com/2026/08/china-linked-fire-ant-hijacks-cisco.html",
-      "published": "2026-08-31T09:04:55+00:00",
-      "summary": "A China-nexus cyber espionage actor tracked as Fire Ant has expanded a long-running campaign beyond VMware hypervisors to compromise Cisco IOS XR routers, Terminal Access Controller Access-Control System (TACACS) servers, and Linux management hosts used to route, authenticate, and manage high-value networks.\n\nSygnia, the incident response firm that investigated the intrusion, said the actor",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxYI5Ntk3CPoEGUHNQbd80hij-0QLnz3V_HBU3aXV-mvQq98IE6xsRlbuwZ2PNbbSV7dA-HlNfqRWj0_bd3XpQCOPt9R2gS3PJMm8lfMP_9IoKyhDNbY9NOotNDHO68v2DSUT_R-0UYTqZQc16DJM7OqS8_35iVUMqyy3GrUt7iMaIWz6iW6OSP2ddiDc/s1600/cisco-creds.jpg"
     },
     {
       "id": "b80dc834522e75d1281b04c8788e69934afc5e07",
