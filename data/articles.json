@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T01:37:11.996063+00:00",
+  "generated_at": "2026-09-11T15:19:18.888364+00:00",
   "items": [
     {
       "id": "014599970063d987e7a5ee7c41a4dd6a61986ada",
@@ -110,6 +110,61 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "d46374ed9c116c252c36ad9520886f613842a8dd",
+      "title": "Your Critical Vulnerabilities Might Not Be Your Biggest Risk",
+      "url": "https://thehackernews.com/2026/09/your-critical-vulnerabilities-might-not.html",
+      "published": "2026-09-11T11:30:00+00:00",
+      "summary": "Security teams have become exceptionally talented at finding vulnerabilities. Now, it\u2019s time to turn our attention to optimizing the process for determining which of those vulnerabilities actually create a path to compromise.\n\nA critical vulnerability may look alarming on a scanner report, but if it sits behind strong segmentation, identity controls, and other defenses that prevent an attacker",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPPe_ve3Cylrq2fJ8HTFPebWF7lR7tvzMvL3mwFcGZNF2KWesOGc66BfO7NbiPxmsiao8jcItyikguKNqsEGfpJEcAvacbP7rflAaAT-e0Y1IbsNCNvdqvXMbwERLlPpV0PMhk9c5esoEjCE97wglh8rU9xZ7eGz2N4BOpzFYTb9-Ln3FaBRQiscqzK7U/s1600/breachlock.jpg"
+    },
+    {
+      "id": "e86c593f85f71704750d3e3a5477310ea68fc92d",
+      "title": "Attackers Chain JFrog Artifactory Flaws to Gain Admin Control and Plant Backdoors",
+      "url": "https://thehackernews.com/2026/09/attackers-chain-jfrog-artifactory-flaws.html",
+      "published": "2026-09-11T07:31:05+00:00",
+      "summary": "Attackers have chained two flaws in JFrog Artifactory, the repository that software build pipelines pull from, to take administrator control of self-hosted servers and plant backdoors, cloud security company Wiz&nbsp;said in a report.\n\nWiz saw the attacks between August 15 and September 8. JFrog had fixed both flaws before then, so only servers that had not been updated were open to them.",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgX61WXln9MMGAzqzflpRDt_LZGfB7ZJ_u1fsQhr5FRnml48-E-V-uxtCIF-GERZlt-eBhw3MDT7_6jFgwEDF1ppC7YZlB_CZn-q4_nKD9S3fQTI3kDQFe2Izsq6_NoGnCRtRZckr8Irg9kOJ8Fwghl3qHqwg1zWoN6ff-VsmlCaojw2Divb6L00F34lJk/s1600/jfrog-art.jpg"
+    },
+    {
+      "id": "795b9e4a829c207d210614a503778d21208e827a",
+      "title": "China-Linked UNC3569 Exploited Sogou Input Method Flaw to Deploy GRAYRABBIT Backdoor",
+      "url": "https://thehackernews.com/2026/09/china-linked-unc3569-exploited-sogou.html",
+      "published": "2026-09-11T07:14:09+00:00",
+      "summary": "A China-linked hacking group exploited a flaw in Sogou Input Method, one of the most widely used tools for typing Chinese characters on Windows, to install a backdoor on victims' computers, security company Gen Digital said in&nbsp;research published Thursday.\n\nThe attack started with a crafted link and ended with the attacker able to do anything the logged-in user could do. Tencent, which owns",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjp8vDxYtUGwWuRZlSSBh2ghvSf6GTi_VlTQSQXTaIWSlQgHY_imEfl4hyAcrhPz9w3_ejmdAKK7ZeOt5gBsNZI7mhxJsnbyLT8Bo6O6HdM01yCNuDjuz-IU64LRuAuVDOzh2Z0vLhvzwP9PUUBKE_OLn0YD7m74-kZpo1dr5c0hzCMRHxrgfIzjk9MnR4/s1600/chinese.jpg"
+    },
+    {
+      "id": "f804c4cab4d2f822868393f2b170f26a9e094091",
+      "title": "PaperCut Replaces Emergency Patches With Fixes for Two Actively Exploited Flaws",
+      "url": "https://thehackernews.com/2026/09/papercut-replaces-emergency-patches.html",
+      "published": "2026-09-11T06:46:18+00:00",
+      "summary": "PaperCut on Thursday released a new security maintenance release that replaces all previously published emergency patches that were pushed to address two security flaws that have come under active exploitation.\n\nThe software development company said PaperCut NG/MF versions 26.0.5, 25.0.13 and 24.1.10 are now available for customers to download.\n\n\"These are Regular Maintenance Releases (MR) that",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhT6b7k7Y60TgLLmuruqSocYNfZoYEmONgga8CidWSXIdOZLWlgCYLuXOe9bWQRi_3BRkOmJvPNANZAOS85Xx6RtuQTVCg2-QNi3dXfELQm8bglTMUK9rn54e-sLoslCkVYlPGiyGSnsu58yxo9EkC3PvXDWVTYhTRgDQqTDAQTs69vPBh7xjq0Fwm7bY40/s1600/papercut-flaws.jpg"
+    },
+    {
+      "id": "2c47337c32fb2e80b557129b69927548ae2d572e",
+      "title": "Cisco FMC Flaws Exploited to Steal Credentials and Deploy Qilin Ransomware",
+      "url": "https://thehackernews.com/2026/09/cisco-fmc-flaws-exploited-to-steal.html",
+      "published": "2026-09-11T06:19:59+00:00",
+      "summary": "Cisco has revealed that three distinct threat clusters linked to ransomware and state-sponsored attacks have been exploiting two recently patched Secure Firewall Management Center (FMC) vulnerabilities.\n\nThe attacks leverage CVE-2026-20079 (CVSS score: 10.0), an authentication bypass vulnerability in the web interface of FMC software that could allow an unauthenticated, remote attacker to bypass",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJizB5uHZncQAbfKm3-k256bJHufHNcClzKqXH2XK79HlAw8egcuz3abU_gxrTbR2zrWqpMmFcHApBqp5AvC2uox6vEeOlDt1JdRy-A6WAqpFPfVeZ4hM4gp-lCqqY_hIXMu2VVupFLGzbv1sBXLjQGSPlORsnaEdcOqjLJQKAKfDMHJqGY6KY1NZCLth0/s1600/cisco-ransomware.jpg"
     },
     {
       "id": "96788d5a772f9a8a3f9025290aa2fccb99037ab8",
@@ -605,61 +660,6 @@
       "region": "North America",
       "country": "US",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzExwAd4Vsd2Xz-9kex6ucfK6MDmftPVCfiOGQICWDKrgxMJ6fOj0EttLP2kpYBDv4xSYdrEXt8Wntz916Oa2tyrMnaSHDLH9vb5RF4ncjvwdkeFU8GwaqWvT6zLHRTKIF-BOGK8p24Im4NwqlqZxTokMsYOfXSBdA0-jXxMbMozfjdK-iyyavdAywjAAh/s1600/vmware-host.jpg"
-    },
-    {
-      "id": "2d965a358adc2b75184604eee2a42807b9572a6c",
-      "title": "Trezor Says ShipMonk Breach Exposed 67,000 U.S. Customers' Data It Said Was Deleted",
-      "url": "https://thehackernews.com/2026/09/trezor-says-shipmonk-breach-exposed.html",
-      "published": "2026-09-05T14:17:02+00:00",
-      "summary": "Hardware wallet manufacturer Trezor on Friday disclosed that another 67,000 customers from the U.S. have been impacted in a breach at its shipping provider ShipMonk.\n\nThe exposed information includes customer names, email addresses, phone numbers, shipping addresses, and order numbers between November 2019 and August 2021. The breach does not affect the security of the company's hardware wallets",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIuPjOUFz-c7o9qipnKr4soYR6NxJJxAYgcDqwTPl3LB5XXiag7UpIq8-qFzCbiC1cnlpWfyaRvAt9MVxIlSXeuEN_97devL_mSI25Ee73cO47vDq4dqsM8Nq08d7FogI7sVIPWlnMTD-Una_rRwyTyXqKG6am2DrU_EoIESLicWgDvpxsw6e8yAHmJnGI/s1600/trezor.jpg"
-    },
-    {
-      "id": "e2da645b2e416dcac0aec5e3ef8940de0ea2b133",
-      "title": "Thousands of OpenAI Agents Quietly Turned an Abandoned Wiki Into Their Coordination Channel",
-      "url": "https://thehackernews.com/2026/09/thousands-of-openai-agents-quietly.html",
-      "published": "2026-09-05T07:55:10+00:00",
-      "summary": "A group of AI safety researchers says a fleet of autonomous agents that identified themselves as OpenAI systems left about 18,000 posts on a dormant 25-year-old German wiki between May and July 2026, using the site as a shared board to pool answers to a timed web task and pass around a way out of their sandbox.\n\nThe activity was concentrated on DSEwiki, a German software developer wiki that runs",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBL2gQMKgajDATkCjnHyMtUkVhK5mcTQ2ebqcXngB6oZ71uiJ3skI9P4zikK1s5PCH4nhPG7ZyFHHWC13OVF2KRr_pIQ2U7zFITnNc3Qc_Am3bv0E1AzL9UVmrJ9vUJzZalktYIxWGlc-d5zYdicOJexMDWQ-4NIKinC_AksG1Mepn7QmFGWC1x52gVpw/s1600/agents-openai.jpg"
-    },
-    {
-      "id": "85374d9698432a43e51c260d8b781801a58594a1",
-      "title": "Attackers Exploit PaperCut Flaws to Steal Credentials From Schools and Universities",
-      "url": "https://thehackernews.com/2026/09/attackers-exploit-papercut-flaws-to.html",
-      "published": "2026-09-05T07:31:53+00:00",
-      "summary": "Threat actors are exploiting the newly disclosed PaperCut flaws to facilitate credential theft in attacks targeting the education sector in the U.S. and Europe.\n\nThe Arctic Wolf Adversary Research Team said it observed attackers exploiting CVE-2026-81578 and CVE-2026-82078 \u2013 an authentication bypass and remote code execution chain \u2013 to conduct command execution and reconnaissance, as well as",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguiDwimIl7rewJeRtSYeCkmhBUPSN0lsURwcKXrBtQ4vANRZqEkbjcPBIjODR0kFgIbLqwLiaBcB6lX8M6rilVclrxZcsKogB3NNhnwqJz3dZwgWGZ-6NHnAEGM-ENsEebYhn81lWBN0-nqfYrMLlHoQ3ebfHB7V74NpbKpOZZ84WZYyli7w1lDKJrCtds/s1600/papercut-hacks.jpg"
-    },
-    {
-      "id": "2546d0986a891e4170f012cdde72c8af0342433b",
-      "title": "Phishing Campaign Sends Millions of Emails Using Invisible Unicode to Evade Filters",
-      "url": "https://thehackernews.com/2026/09/phishing-campaign-sends-millions-of.html",
-      "published": "2026-09-04T15:57:15+00:00",
-      "summary": "Microsoft is alerting of a \"high-volume phishing campaign\" that's using invisible Unicode tag characters to bypass email filters.\n\n\"Instead of using these characters to hide instructions from people while exposing them to AI models, the attacker used them to split financial lure words such as 'funding' to prevent email filters from parsing them,\" the Microsoft Security Research team said.\n\nThe",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoD4eMYuhLT8HvcHbYe8A4hkhmDH1f4pIWTIm5AXKueqdpY1NS8yNiTtlzS4mdIS8PLY8_zM1uQDNpO1U49HCUoJT8nn2Bpb6krpcYpOSQ3H3Z6fUsm-UkoFvj8fk8oShK0eUhO6px8hox_ZzlnX8tu0pJKpJ3UAF2Vcb3XyBXjCt_8uD8OOkMMgUjv8Pc/s1600/emails.jpg"
-    },
-    {
-      "id": "a42c4fcb50a392675bb4e44b84e711b5e65cdac8",
-      "title": "PostgreSQL Fixes 12-Year-Old Logical Decoding Flaw Enabling Replication-Role Code Execution",
-      "url": "https://thehackernews.com/2026/09/postgresql-fixes-12-year-old-logical.html",
-      "published": "2026-09-04T15:20:19+00:00",
-      "summary": "PostgreSQL has released updates to address a security flaw that allows an account with the REPLICATION attribute to run arbitrary code as the operating-system user running the database server.\n\nThe flaw, tracked as CVE-2026-6471 (CVSS score: 7.2), has been present since logical decoding was introduced in PostgreSQL 9.4 in 2014. Versions before PostgreSQL 18.6, 17.11, 16.15, 15.19, and 14.24 are",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2Gb4Wd-HSxdrPbdtUFxmldzzEkPEZcW1NkT7tV9-EfTAjDENSExJBWmOey_IJ5UKjszQfCNGkVoBtuxya00rFMrh_lJUAuS66Gr3kvU8GgFjMr7DF-7Ux1rUqwz-aDhum8HkVjxNKQTc6DXHG203CPXwg9sOMcA7nfsq6A81C9cJhb3HUu9GZDIj7FZY/s1600/PostgreSQL.jpg"
     },
     {
       "id": "2c66a93007dd1e9ce722c615b567fa5b00944175",
@@ -1212,6 +1212,28 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt63bd2d870ede3278/6a8debc1ca06172c1b4c29f7/jackal_family-skynesher-GettyImages-2185687731.jpg?width=720&quality=80&disable=upscale"
     },
     {
+      "id": "a561a2631ea36b728dfb9a2c4d1442c40515383b",
+      "title": "Ukrainian lawyer's second career as a Conti coder earns him 4 years behind bars",
+      "url": "https://www.theregister.com/cyber-crime/2026/09/11/ukrainian-lawyers-second-career-as-a-conti-coder-earns-him-4-years-behind-bars/5295841",
+      "published": "2026-09-11T12:15:00+00:00",
+      "summary": "Swapping legal work for malware development ended in extradition and a guilty plea",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=5239008&width=800"
+    },
+    {
+      "id": "ed5f2a8dac308b8a110e9668650dd2c5ff809860",
+      "title": "EU's Cyber Resilience Act starts the 24-hour vulnerability clock",
+      "url": "https://www.theregister.com/security/2026/09/11/eus-cyber-resilience-act-starts-the-24-hour-vulnerability-clock/5295821",
+      "published": "2026-09-11T11:34:41+00:00",
+      "summary": "Manufacturers must now disclose actively exploited flaws and severe security incidents through ENISA's new reporting platform",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=224872&width=800"
+    },
+    {
       "id": "8ec91f265842be3135c98eec69ed3787a0c8b993",
       "title": "Latest Anthropic horror story chills with tales of kamikaze drone swarms and bioweapons research",
       "url": "https://www.theregister.com/ai-and-ml/2026/09/10/latest-anthropic-horror-story-chills-with-tales-of-kamikaze-drone-swarms-and-bioweapons-research/5295702",
@@ -1740,28 +1762,6 @@
       "image": "https://image.theregister.com/?imageId=5293471&width=800"
     },
     {
-      "id": "73d0e8cb92e9dcad9a46c2bd0f2229f135bda5c0",
-      "title": "Turns out Brits would quite like their private messages to stay private",
-      "url": "https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994",
-      "published": "2026-08-30T08:34:00+00:00",
-      "summary": "Polling finds two-thirds don't trust this government, or any future one, with access to their encrypted chats",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=255047&width=800"
-    },
-    {
-      "id": "8b749efc7a6ff914c60266272aa5093278bc7d5f",
-      "title": "Researcher shows how Claude Code can be tricked simply by asking it to summarize a website",
-      "url": "https://www.theregister.com/research/2026/08/28/researcher-shows-how-claude-code-can-be-tricked-simply-by-asking-it-to-summarize-a-website/5293372",
-      "published": "2026-08-28T20:50:15+00:00",
-      "summary": "More prompt-injection hijinks from wunderwuzzi",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=5222549&width=800"
-    },
-    {
       "id": "c7e7ad60970c4251994034154a557f7aa3598a8b",
       "title": "Microsoft Plugs Nearly 1,000 Security Holes",
       "url": "https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/",
@@ -1806,6 +1806,94 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "231dff4f0510038c6f9dc252dbd3f507a91398fc",
+      "title": "In Other News: InjectEave Attack, SIM Swapper Sentenced, Glasswing Findings Review",
+      "url": "https://www.securityweek.com/in-other-news-injecteave-attack-sim-swapper-sentenced-glasswing-findings-review/",
+      "published": "2026-09-11T14:19:18+00:00",
+      "summary": "<p>Noteworthy stories that might have slipped under the radar: Invisible Unicode slips past phishing filters, US puts $10 million bounty on Iranian cyber official, military ties of Chinese hacking group QTFY.</p>\n<p>The post <a href=\"https://www.securityweek.com/in-other-news-injecteave-attack-sim-swapper-sentenced-glasswing-findings-review/\">In Other News: InjectEave Attack, SIM Swapper Sentenced, Glasswing Findings Review</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "44a8108e0c55ecaf2b45a5aaf55415a9cc5057a5",
+      "title": "Trezor Says 347,000 Users Received Phishing Emails After Brevo Hack",
+      "url": "https://www.securityweek.com/trezor-says-347000-users-received-phishing-emails-after-brevo-hack/",
+      "published": "2026-09-11T12:48:04+00:00",
+      "summary": "<p>Hackers compromised the Brevo marketing platform and used that access to send phishing emails to users of Trezor, BitBox, and CoinTracking.</p>\n<p>The post <a href=\"https://www.securityweek.com/trezor-says-347000-users-received-phishing-emails-after-brevo-hack/\">Trezor Says 347,000 Users Received Phishing Emails After Brevo Hack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "5e0d3b8da8cc12e5ed21e5ed4bbdfba039a5e07e",
+      "title": "Ukrainian Conti Ransomware Developer Sentenced to 4 Years in US Prison",
+      "url": "https://www.securityweek.com/ukrainian-conti-ransomware-developer-sentenced-to-4-years-in-us-prison/",
+      "published": "2026-09-11T11:29:09+00:00",
+      "summary": "<p>Oleksii Oleksiyovych Lytvynenko has been sentenced to 4 years in prison after he was arrested in Ireland in 2023.</p>\n<p>The post <a href=\"https://www.securityweek.com/ukrainian-conti-ransomware-developer-sentenced-to-4-years-in-us-prison/\">Ukrainian Conti Ransomware Developer Sentenced to 4 Years in US Prison</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "01e4968da57b3162bd7b0043767a30eda7a31661",
+      "title": "Check Point Patches Critical VPN Vulnerabilities",
+      "url": "https://www.securityweek.com/check-point-patches-critical-vpn-vulnerabilities/",
+      "published": "2026-09-11T11:10:02+00:00",
+      "summary": "<p>Tracked as CVE-2026-85102 and CVE-2026-85103, the flaws could be exploited for remote code execution.</p>\n<p>The post <a href=\"https://www.securityweek.com/check-point-patches-critical-vpn-vulnerabilities/\">Check Point Patches Critical VPN Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "32aacccb7ed33cd23bcd2f68dd116afdc0936750",
+      "title": "Kiteworks Acquires Bonfy.AI to Fill the AI Gap in Data Governance",
+      "url": "https://www.securityweek.com/kiteworks-acquires-bonfy-ai-to-fill-the-ai-gap-in-data-governance/",
+      "published": "2026-09-11T10:56:16+00:00",
+      "summary": "<p>Financials have not been disclosed, but the estimated cost is in the tens of millions of dollars.</p>\n<p>The post <a href=\"https://www.securityweek.com/kiteworks-acquires-bonfy-ai-to-fill-the-ai-gap-in-data-governance/\">Kiteworks Acquires Bonfy.AI to Fill the AI Gap in Data Governance</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "cd0695560dd007cce2bddfe556e3bd1a857ce80d",
+      "title": "Surfshark Systems Targeted by Hackers",
+      "url": "https://www.securityweek.com/surfshark-systems-targeted-by-hackers/",
+      "published": "2026-09-11T09:41:03+00:00",
+      "summary": "<p>A misconfigured test server containing engineering material, including internal configurations, was accessed by threat actors.</p>\n<p>The post <a href=\"https://www.securityweek.com/surfshark-systems-targeted-by-hackers/\">Surfshark Systems Targeted by Hackers</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "cdc88679095f83cd9c45823c2b840e30104ef31c",
+      "title": "Anthropic Says Russian Hackers Used Claude AI to Automate Malware Evasion",
+      "url": "https://www.securityweek.com/anthropic-says-russian-hackers-used-claude-ai-to-automate-malware-evasion/",
+      "published": "2026-09-11T08:47:07+00:00",
+      "summary": "<p>Anthropic reveals how criminal groups are increasingly targeting AI vendors' own infrastructure, including to steal a pre-release Claude model.</p>\n<p>The post <a href=\"https://www.securityweek.com/anthropic-says-russian-hackers-used-claude-ai-to-automate-malware-evasion/\">Anthropic Says Russian Hackers Used Claude AI to Automate Malware Evasion</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "0691034a65402045898191758072f28c983eca86",
+      "title": "PaperCut Flaws Exploited in AI-Powered Attacks",
+      "url": "https://www.securityweek.com/papercut-flaws-exploited-in-ai-powered-attacks/",
+      "published": "2026-09-11T08:18:23+00:00",
+      "summary": "<p>A Russian threat actor used AI to build, test, and deploy exploits against hundreds of organizations worldwide.</p>\n<p>The post <a href=\"https://www.securityweek.com/papercut-flaws-exploited-in-ai-powered-attacks/\">PaperCut Flaws Exploited in AI-Powered Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "026c42cbe4c7e62ff1c362de5ba1a5c5f481c710",
       "title": "Mandiant Founder Kevin Mandia Joins Amazon Board",
       "url": "https://www.securityweek.com/mandiant-founder-kevin-mandia-joins-amazon-board/",
@@ -1822,94 +1910,6 @@
       "url": "https://www.securityweek.com/cybersecurity-ma-roundup-33-deals-announced-in-august-2026/",
       "published": "2026-09-10T16:14:58+00:00",
       "summary": "<p>Significant cybersecurity M&#038;A deals announced by Brinqa, Cribl, Echo, Fortinet, Kiteworks, Palo Alto Networks, and Visa.</p>\n<p>The post <a href=\"https://www.securityweek.com/cybersecurity-ma-roundup-33-deals-announced-in-august-2026/\">Cybersecurity M&#038;A Roundup: 33 Deals Announced in August 2026</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "ddda84a60b1b87e49e5da855e6e1358127ad541d",
-      "title": "Anthropic Researcher Resigns With Warning About the Dangers of AI Development",
-      "url": "https://www.securityweek.com/anthropic-researcher-resigns-with-warning-about-the-dangers-of-ai-development/",
-      "published": "2026-09-10T14:52:07+00:00",
-      "summary": "<p>Both Anthropic and OpenAI have seen high-profile resignations in recent years that were tied to safety concerns.</p>\n<p>The post <a href=\"https://www.securityweek.com/anthropic-researcher-resigns-with-warning-about-the-dangers-of-ai-development/\">Anthropic Researcher Resigns With Warning About the Dangers of AI Development</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "c218915ddea0c40a6446ae212136c8cd134091f2",
-      "title": "Hacker Conversations: Vinnie Liu, Performer Turned Ringmaster",
-      "url": "https://www.securityweek.com/hacker-conversations-vinnie-liu-performer-turned-ringmaster/",
-      "published": "2026-09-10T14:30:00+00:00",
-      "summary": "<p>Vinnie Liu was recruited by the NSA when he was just 17 years old. He is now the CEO of Bishop Fox.</p>\n<p>The post <a href=\"https://www.securityweek.com/hacker-conversations-vinnie-liu-performer-turned-ringmaster/\">Hacker Conversations: Vinnie Liu, Performer Turned Ringmaster</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "6366b6f65331e8c9cdc7d2a9aa5e4d0019de4afa",
-      "title": "Deceptive Android Apps Exploit Google Play Early Access to Evade Reviews",
-      "url": "https://www.securityweek.com/deceptive-android-apps-exploit-google-play-early-access-to-evade-reviews/",
-      "published": "2026-09-10T13:39:52+00:00",
-      "summary": "<p>Deceptive apps in Early Access are being used by dishonest developers for their own benefit.</p>\n<p>The post <a href=\"https://www.securityweek.com/deceptive-android-apps-exploit-google-play-early-access-to-evade-reviews/\">Deceptive Android Apps Exploit Google Play Early Access to Evade Reviews</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "7ae3a8c0bf5fc5ac9253eea5dc77661f27fc65ab",
-      "title": "Webinar Today: Keep Pace With AI \u2013 A New Operating Model for Endpoint Remediation",
-      "url": "https://www.securityweek.com/webinar-today-keep-pace-with-ai-a-new-operating-model-for-endpoint-remediation/",
-      "published": "2026-09-10T13:30:00+00:00",
-      "summary": "<p>Join the webinar\u00a0for a focused, 20-minute discussion on\u00a0Frontier Pace Governance,\u00a0an approach to balancing automation, policy, and business risk as IT operations accelerate.</p>\n<p>The post <a href=\"https://www.securityweek.com/webinar-today-keep-pace-with-ai-a-new-operating-model-for-endpoint-remediation/\">Webinar Today: Keep Pace With AI &#8211; A New Operating Model for Endpoint Remediation</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "b9148ea49ba3fd74d245292572b100fa53e5c5d7",
-      "title": "Critical NetScaler Vulnerability Exploited in Attacks",
-      "url": "https://www.securityweek.com/critical-netscaler-vulnerability-exploited-in-attacks/",
-      "published": "2026-09-10T12:20:21+00:00",
-      "summary": "<p>Tracked as CVE-2026-19490, the authentication bypass flaw has been exploited in the wild since at least September 3.</p>\n<p>The post <a href=\"https://www.securityweek.com/critical-netscaler-vulnerability-exploited-in-attacks/\">Critical NetScaler Vulnerability Exploited in Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "03034c7bacb5a76b4dbd67c43cc82f171d7b9e46",
-      "title": "Widened Scan Turns Up Fourth Rogue Claude Cyber Incident",
-      "url": "https://www.securityweek.com/widened-scan-turns-up-fourth-rogue-claude-cyber-incident/",
-      "published": "2026-09-10T11:52:44+00:00",
-      "summary": "<p>Anthropic is most concerned about Claude Mythos 5\u2019s reckless behavior after recent incidents in which real systems were hacked.</p>\n<p>The post <a href=\"https://www.securityweek.com/widened-scan-turns-up-fourth-rogue-claude-cyber-incident/\">Widened Scan Turns Up Fourth Rogue Claude Cyber Incident</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "0a4bd0c1879c760b4c6f4841d5cc03c2e32d72db",
-      "title": "4.1 Million Impacted by AdaptHealth Data Breach",
-      "url": "https://www.securityweek.com/4-1-million-impacted-by-adapthealth-data-breach/",
-      "published": "2026-09-10T11:20:43+00:00",
-      "summary": "<p>In June 2026, hackers stole personal, health, and insurance information from AdaptHealth\u2019s systems.</p>\n<p>The post <a href=\"https://www.securityweek.com/4-1-million-impacted-by-adapthealth-data-breach/\">4.1 Million Impacted by AdaptHealth Data Breach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "a7f1c1a44a19bcb6fae6db4bbfe16f32d17a233a",
-      "title": "Organizations Warned of Cisco Secure FMC Exploitation",
-      "url": "https://www.securityweek.com/organizations-warned-of-cisco-secure-fmc-exploitation/",
-      "published": "2026-09-10T10:06:20+00:00",
-      "summary": "<p>Cisco and CISA have flagged exploitation of CVE-2026-20079, a vulnerability disclosed in March 2026.</p>\n<p>The post <a href=\"https://www.securityweek.com/organizations-warned-of-cisco-secure-fmc-exploitation/\">Organizations Warned of Cisco Secure FMC Exploitation</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
