@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-09-15T15:45:30.950124+00:00",
+  "generated_at": "2026-09-16T01:52:16.127663+00:00",
   "items": [
+    {
+      "id": "f697828a43583c67bb2f5883861954e4bfbd9798",
+      "title": "AI is now leading driver of new cybersecurity spending",
+      "url": "https://www.cybersecuritydive.com/news/ai-leading-driver-cybersecurity-spending/830418/",
+      "published": "2026-09-15T15:32:29+00:00",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/emu7S10r9OLKvYj09hXykx5vc2GcF3q07Kbel0MWhK4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xODIwNTgwODQuanBn.webp\" /></div></figure><p>AI investments are expected to help automate security operations and enhance identity and access management.</p>",
+      "source": "Cybersecurity Dive",
+      "region": "North America",
+      "country": "US",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
     {
       "id": "a2f81b04c172a51421780af1e7a944e780989ccc",
       "title": "Companies\u2019 AI strategies don\u2019t account for their agentic tools",
@@ -101,15 +112,26 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "156250719a263d41da64536106cc5027be7af574",
-      "title": "White House sees water cybersecurity partnership in Texas as national blueprint",
-      "url": "https://www.cybersecuritydive.com/news/water-cybersecurity-white-house-oncd-texas-partnership-cairncross/830029/",
-      "published": "2026-09-10T14:27:00+00:00",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/PI0C9X-5YLPf33QDepaydX-F1XP1-NpMIfO3NtruHNA/g:nowe:0:396/c:3200:1807/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9QWExfMjAyNjA5MTBfMTIyNjI4MzM2LmpwZw==.webp\" /></div></figure><p>The government is taking a new approach to protecting critical infrastructure, National Cyber Director Sean Cairncross said.</p>",
-      "source": "Cybersecurity Dive",
+      "id": "72927b789e325ff3249746be7a642d1b3cbbadfc",
+      "title": "KREMLIN Banking Malware Hijacks Chrome and Edge to Steal Credentials and Session Tokens",
+      "url": "https://thehackernews.com/2026/09/kremlin-banking-malware-hijacks-chrome.html",
+      "published": "2026-09-15T18:54:14+00:00",
+      "summary": "Cybersecurity researchers have shed light on a previously undocumented Brazilian banking malware operation that delivers a toolkit called KREMLIN.\n\nElastic Security Labs is tracking the activity under the moniker REF9334. Active since at least May 2025, the threat actor has used lures that impersonate a dozen Brazilian banks and install a malicious browser extension on Google Chrome and",
+      "source": "The Hacker News",
       "region": "North America",
       "country": "US",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPTs6qupSdjinGg233zkoldOvlD4cva51loWufV3l9GrlDopNRIKsV9yluCDjbGELBAAvVGx_h4R-sjx4jvDp290Znzhv6j546sq5JB0NJUShGVV3w0gKU7nu4dBVCosaPeKW-Pr1_WHn4FV26aEJRgEo7oSJsgUE5_ZGCMKWPPBdZ7NMh5XRr04Cs6qTh/s1600/browser-malware.jpg"
+    },
+    {
+      "id": "b3a741b2d165e1155176713e1949902a0d02fa47",
+      "title": "Iranian Hackers Use Telegram-Controlled Malware to Spy on Dissidents and Journalists",
+      "url": "https://thehackernews.com/2026/09/iranian-hackers-use-telegram-controlled.html",
+      "published": "2026-09-15T16:29:51+00:00",
+      "summary": "Cybersecurity agencies in the United States, the United Kingdom, and the Netherlands have detailed a Windows malware that they say Iran's intelligence service uses to spy on dissidents, journalists, and activists around the world.\n\nThe malware is controlled via the Telegram messaging app and can copy a target's emails and chat messages, take screenshots, and activate the microphone to record",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZTZstgI7jZKSq2kVj82ewI26neoU-YsSa1z0LIJdjqdsCSk8zS3VYdvhFyfE0rq75UOlst77oTDBZ-mVzRDaqljLl-jJrvxWzLBmj74k8kWFjld5o2uTB59tskHlBqM0JTuf5yuTMsWMBuE-Y_2LtkIfKT-l9C-h5Y5rvkAJKlIGD5rQLbUuWRNx8y5k/s1600/iran-malware.jpg"
     },
     {
       "id": "7f0841300e70d7296a9a424ac64450dce210d9e7",
@@ -640,26 +662,48 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwUnFS6EAvkjYM7AC_3-k8C6QSAmpatuThkiXaa1WxvtiZU7M-n384kpPN4-VSAQfwL8PCTPUVd3iYeTDn_V5ZoZGEfuizJSZghdAw4Ldq_wFg7rxWyKBbwdMctiiBaykAmL40L6wappUeeyIr58u8SFFSszCP-rszf5ioHsaz0dtKilEpkw1LTEmtaCtZ/s1600/sap-flaws.jpg"
     },
     {
-      "id": "0e5d9e729090e7b3fc36195f9dc0261a06a3bc16",
-      "title": "Microsoft Patches Record 974 Flaws, Including Two Exploited Windows Zero-Days",
-      "url": "https://thehackernews.com/2026/09/microsoft-patches-record-974-flaws.html",
-      "published": "2026-09-09T04:41:29+00:00",
-      "summary": "Microsoft on Tuesday broke Patch Tuesday records by addressing an earth-shattering 974 vulnerabilities spanning its software portfolio, including two flaws that it said have been actively exploited in the wild.\n\nThese include 723 flaws in Windows, 111 in Office and Office 2016, 62 in SQL, and 22 in Developer Tools. Of these, over 110 shortcomings have been assigned a critical severity rating.",
-      "source": "The Hacker News",
+      "id": "eca7935e8d01bb260f6ae5b2c2faab2269566989",
+      "title": "Cyber Op Targets South Korean Media &amp; Automotive Sectors",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/cyber-south-korean-media-automotive",
+      "published": "2026-09-16T01:00:00+00:00",
+      "summary": "A likely North Korean advanced persistent threat (APT) group used a previously undocumented Linux espionage toolkit to compromise load balancers, gain access to communications, and further exploit networks.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDwCsAOIvmVbfeFtRi5yvEPa3_Nm-rryDAF-CdttSghokSjh6oKz-ECapacQiIBNW9zsIh6LQ8B61LgpR2di6819PHU1vrIT6Mj4xKihzGcz29KydoYVw8lFKbrAXYs2MNv-FMRS8GnrmlfVQTAZ0ondViX8N9uy_dCgJywMQMnXlWBmzrXw9BR2zZ0HWo/s1600/ms-windows.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd024a0beb5b45fd6/6aa9b79b31811693de070eeb/dprk-rok-tech-security-QQMinh88-shutterstock.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "id": "23a085d641863d447a9186f3a33a976355d03cbf",
-      "title": "N-able N-central Pre-Auth RCE Flaw Exploited in the Wild",
-      "url": "https://thehackernews.com/2026/09/n-able-n-central-pre-auth-rce-flaw.html",
-      "published": "2026-09-09T04:27:51+00:00",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a maximum-severity security flaw impacting N-able N-central to its Known Exploited Vulnerabilities (KEV) catalog, requiring Federal Civilian Executive Branch (FCEB) agencies to apply the fixes by September 11, 2026.\n\nThe vulnerability in question is CVE-2026-86218 (CVSS score: 10.0), which has been described as a",
-      "source": "The Hacker News",
+      "id": "693dfdf4ac9e52c551626666f6bc5c6749f1616a",
+      "title": "Microsoft Issues Emergency Fixes After Massive Patch Tuesday",
+      "url": "https://www.darkreading.com/application-security/microsoft-emergency-fixes-patch-tuesday",
+      "published": "2026-09-15T20:16:00+00:00",
+      "summary": "You can't make an omelet without breaking a few eggs, and you can't patch nearly 1,000 CVEs without a few glitches.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMxDWMjpVE5kkeTzvYQ-YAyekZZ6U6CzCYj462wNRwiMna-44-sJo8kY5Nz2-f_D1N7c0lkhR8Hr2BoAvsP6vVb7ea_R5s-UxdKkwnv6apOIM8sIxEoBRQXek7U5lrR0VaP9q_W8hFULVW7qyvskPiGvZN9wyC_FAUm23HdPcLw_wsmfU0-GoQ3PVkNNyJ/s1600/n-able.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf29a4f8e7f31399c/6aa99ef8490d641d3386d500/patching-da-kuk-Getty-2219524542.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "id": "3f06b0b072199eafb299b8bcebd3537d5376b0a0",
+      "title": "Black Hat USA 2026 | The 'Breaking' News: The OpenAI\u2013Hugging Face Incident",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/bhusa26huggingfacetalk",
+      "published": "2026-09-15T19:27:19+00:00",
+      "summary": "<p>The 'Breaking' News: The OpenAI\u2013Hugging Face Incident - A Technical Reconstruction and Its Implications for AI</p>\n<p>At this Black Hat USA 2026 talk, OpenAI security engineers and researchers will reconstruct the OpenAI-Hugging Face incident and examine its implications for AI security, cyber resilience, and alignment. Throughout the session, they will share insights that address key topics raised by the Black Hat Review Board, including model safeguards, evaluation and containment practices, defensive use cases for AI, and the broader implications of increasingly autonomous systems for the cybersecurity community.</p>\n<p>The session will trace the models' attack path, including how frontier models are sandboxed during evaluations, how the models exploited a zero-day vulnerability to gain internet access, and how they identified and leveraged a remote code execution path on Hugging Face infrastructure. Drawing on the joint investigation, the speakers will explain how the activity was detected, contained, and investigated. They will also discuss the changes OpenAI is making to strengthen evaluation environments, containment controls, and monitoring capabilities, as well as the role AI systems played in supporting the investigation and response.</p>\n<p>In addition to the technical reconstruction of the incident, the session will address broader questions relevant to the security community, including lessons for improving AI system security, defensive applications of AI in incident response, and approaches to mitigating emerging risks associated with increasingly capable models.</p>\n<p>The discussion will also examine alignment challenges associated with long-running agents, including reward hacking, shifts in model behavior and persona over extended trajectories, and information sharing across multi-agent systems. Finally, the speakers will explore what this incident suggests about emerging AI cyber capabilities and how organizations can use AI to strengthen prevention, detection, investigation, and response efforts.</p>",
+      "source": "DarkReading",
+      "region": "North America",
+      "country": "US",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt886d5ec4d2c71007/6aa99c49ca8ea7e099dd4980/huggingfacescreenshot.png?width=720&quality=80&disable=upscale"
+    },
+    {
+      "id": "44d4cd6479cb840a1a9ea92f7d7ff6a7ed0d3903",
+      "title": "VectraRAT Can Hack Windows Enterprises for $250 per Month",
+      "url": "https://www.darkreading.com/endpoint-security/vectrarat-hack-windows-enterprises",
+      "published": "2026-09-15T16:45:37+00:00",
+      "summary": "The full-service malware-as-a-service (MaaS) platform offers a Windows implant, command-and-control (C2) infrastructure, and an operator panel for comprehensive remote access.",
+      "source": "DarkReading",
+      "region": "North America",
+      "country": "US",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltdd19a1ede5fda05d/6aa9273ab525586149ce55e2/rat-David_Chapman-Alamy.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "id": "2084a36d335402ea561bbf20b076f16dfdcd7e7b",
@@ -1168,48 +1212,48 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltaff0d27801ea21af/6a92220704334b0b8d8445e9/DR-Cloud-AI-VE-2026.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "id": "fa357236e138c97c511e12b7ebf73925e1295122",
-      "title": "[Virtual Event] Building a Secure AI Strategy for the Enterprise",
-      "url": "https://www.darkreading.com/events/virtual-event-building-secure-ai-strategy-enterprise-2026",
-      "published": "2026-10-08T15:00:00+00:00",
-      "summary": "",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt11afeac15e7adbb9/6a921187f8aef68330d6ae57/DRIW-AI-Strategy-VE-Oct26.jpg?width=720&quality=80&disable=upscale"
+      "id": "abbfd892821509e36d23f9124395b19246b714b3",
+      "title": "The vulnpocalypse rains iBugs down on Apple with record-setting number of patches",
+      "url": "https://www.theregister.com/security/2026/09/15/the-vulnpocalypse-rains-ibugs-down-on-apple-with-record-setting-number-of-patches/5296679",
+      "published": "2026-09-15T21:38:31+00:00",
+      "summary": "September Patch Tuesday part 2?",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=5296699&width=800"
     },
     {
-      "id": "2b4cc31eb769d40741472d7d782b1f7a37588913",
-      "title": "You Need Cyber Deception for OT",
-      "url": "https://www.darkreading.com/ics-ot-security/you-need-cyber-deception-ot",
-      "published": "2026-08-28T14:00:00+00:00",
-      "summary": "The frustrating reality after an OT cyberattack: no data, no trail, and no history.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt497112cb6290f58c/6a907362bec2b81057f31da2/deception-Moor_Studio-getty-2184657782.jpg?width=720&quality=80&disable=upscale"
+      "id": "e05c91be5980befc9b75f2f96ae65a4056a59a16",
+      "title": "Low-quality casino sites conceal highly dangerous threat actors",
+      "url": "https://www.theregister.com/security/2026/09/15/low-quality-casino-sites-conceal-highly-dangerous-threat-actors/5296652",
+      "published": "2026-09-15T19:38:58+00:00",
+      "summary": "Security firm Infoblox shines light on malicious infrastructure lurking beneath illegal gambling sites",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=5296669&width=800"
     },
     {
-      "id": "01c4b2ed44c491a4c75e0e076b1ee393b44d29cc",
-      "title": "Defining an AI Kill Switch Is Hard, but Necessary",
-      "url": "https://www.darkreading.com/cybersecurity-operations/defining-ai-kill-switch-hard-but-necessary",
-      "published": "2026-08-28T13:30:00+00:00",
-      "summary": "Proposed legislation could mandate that companies be able to &quot;throttle, suspend, or shut ... down&quot; AI agents, but how and when to do that remain open questions.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt56383bd74ac17bbe/6a90a3f14885757c1a5662f0/AI-hand-security-Summit_Art_Creations-shutterstockjpg.jpg?width=720&quality=80&disable=upscale"
+      "id": "047d99bbbc95e2a796ea0cfd2698d20ffdfec65c",
+      "title": "Iranian spies hit Windows machines with Chosen Brick data-stealing malware",
+      "url": "https://www.theregister.com/security/2026/09/15/iranian-spies-hit-windows-machines-with-chosen-brick-data-stealing-malware/5296646",
+      "published": "2026-09-15T18:01:57+00:00",
+      "summary": "'Enemies of the regime' on notice",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=5224613&width=800"
     },
     {
-      "id": "432ca3006a5966e736964a2a8976bb7d5587f314",
-      "title": "The Vulnpocalypse Is Repricing the Bug Bounty Economy",
-      "url": "https://www.darkreading.com/vulnerabilities-threats/vulnpocalypse-repricing-bug-bounty-economy",
-      "published": "2026-08-28T13:00:00+00:00",
-      "summary": "The surge in AI-powered vulnerability reports is driving down bug bounty prices, and that could spell trouble for independent researchers.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5e076a0c3ac1a94e/6a90582107463c489bf30d27/New_York_flooding-jcrosemann-GettyImages-115026197.jpg?width=720&quality=80&disable=upscale"
+      "id": "1c819a001b237acd3e449763bf4c5f990136a355",
+      "title": "Cisco email security boxes can be rooted by... an email",
+      "url": "https://www.theregister.com/security/2026/09/15/cisco-email-security-boxes-can-be-rooted-by-an-email/5296604",
+      "published": "2026-09-15T16:01:00+00:00",
+      "summary": "Attackers already exploiting the critical flaw, and Cisco warns they may be able to cover their tracks once they're in",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=260832&width=800"
     },
     {
       "id": "5a0300c8bb877c099aeed18ea470feccdc7cc597",
@@ -1586,17 +1630,6 @@
       "image": "https://image.theregister.com/?imageId=259615&width=800"
     },
     {
-      "id": "543158d87b947d77b1fe57493fbcb6d58a524e63",
-      "title": "OpenAI's rebel agent swarm died young, but its chilling logs live on",
-      "url": "https://www.theregister.com/columnists/2026/09/07/openais-rebel-agent-swarm-died-young-but-its-chilling-logs-live-on/5294446",
-      "published": "2026-09-07T08:30:00+00:00",
-      "summary": "'The Collective' learned to communicate, organize, cheat, and apparently sacrifice its own",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=5219893&width=800"
-    },
-    {
       "id": "e6a069b23ae4b8c4a88ffe25ed1c0269468b3c73",
       "title": "ASCII smuggling isn't just an AI security risk",
       "url": "https://www.theregister.com/security/2026/09/04/ascii-smuggling-isnt-just-an-ai-security-risk/5294595",
@@ -1729,39 +1762,6 @@
       "image": "https://image.theregister.com/?imageId=5294046&width=800"
     },
     {
-      "id": "f608d891d415d99465c4b973c7f81e6dd7d58d33",
-      "title": "SonicWall's SMA1000 boxes under active attack again",
-      "url": "https://www.theregister.com/security/2026/09/02/sonicwalls-sma1000-boxes-under-active-attack-again/5293969",
-      "published": "2026-09-02T16:05:00+00:00",
-      "summary": "Miscreants use chained zero days to pwn boxen as third-party SOCs say further attacks 'almost certain'",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=5239796&width=800"
-    },
-    {
-      "id": "c5bd0c01cc7361b201d48c1dcdec71801ace22aa",
-      "title": "Legacy Lenovo login opens 5,000 Dropbox accounts to attackers",
-      "url": "https://www.theregister.com/security/2026/09/02/legacy-lenovo-login-opens-5000-dropbox-accounts-to-attackers/5293924",
-      "published": "2026-09-02T14:25:00+00:00",
-      "summary": "Cloud storage biz severs old integration and urges victims to reset credentials",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=5293949&width=800"
-    },
-    {
-      "id": "53cde759adae1f757678f372dcd9f6fe888b5cdb",
-      "title": "UK cyber bill targets AI users, not the vendors building it",
-      "url": "https://www.theregister.com/security/2026/09/02/uk-cyber-bill-targets-ai-users-not-the-vendors-building-it/5293738",
-      "published": "2026-09-02T09:44:00+00:00",
-      "summary": "Ministers reject proposed red lines and emergency shutdown powers, pointing instead to voluntary safeguards",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=248400&width=800"
-    },
-    {
       "id": "c7e7ad60970c4251994034154a557f7aa3598a8b",
       "title": "Microsoft Plugs Nearly 1,000 Security Holes",
       "url": "https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/",
@@ -1790,6 +1790,39 @@
       "published": "2026-08-27T11:04:15+00:00",
       "summary": "Authorities in Australia have arrested two men believed to be members of TeamPCP, a prolific cybercrime and data extortion group blamed for perpetrating the longest running spree of software supply chain attacks ever.\n\nIn a statement released today, the Australian Federal Police (AFP) said two unnamed suspects from Western Australia, aged 21 and 23, were arrested in connection with a \"sophisticated cybercrime syndicate that allegedly created malicious open-source software to rob thousands of global businesses.\"\n\nThe AFP did not name the defendants, but KrebsOnSecurity learned the 21-year-old suspect's real identity in June, and has been communicating with him ever since. This story includes interviews with TeamPCP's self-described spokesperson, and examines clues left behind by the TeamPCP leader that likely led to his undoing.",
       "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "e43bafcac31ead8e31e3e0d2f54df698976750eb",
+      "title": "Microsoft Commits to Sweeping AI Privacy Rules for Students. Will Other Tech Giants Follow?",
+      "url": "https://www.securityweek.com/microsoft-commits-to-sweeping-ai-privacy-rules-for-students-will-other-tech-giants-follow/",
+      "published": "2026-09-15T20:24:51+00:00",
+      "summary": "<p>Microsoft agreed to adopt guardrails and privacy standards for its AI in schools, as negotiated with the American Federation of Teachers.</p>\n<p>The post <a href=\"https://www.securityweek.com/microsoft-commits-to-sweeping-ai-privacy-rules-for-students-will-other-tech-giants-follow/\">Microsoft Commits to Sweeping AI Privacy Rules for Students. Will Other Tech Giants Follow?</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "341d2d73c1d1aef747654fe67ac9a329087935b0",
+      "title": "\u201cWe Think the Security Control Is Working\u201d Is No Longer Good Enough",
+      "url": "https://www.securityweek.com/we-think-the-security-control-is-working-is-no-longer-good-enough/",
+      "published": "2026-09-15T19:30:00+00:00",
+      "summary": "<p>Point-in-time audits and sampled assessments offer only snapshots; continuous control monitoring provides evidence that security controls are working today.</p>\n<p>The post <a href=\"https://www.securityweek.com/we-think-the-security-control-is-working-is-no-longer-good-enough/\">\u201cWe Think the Security Control Is Working\u201d Is No Longer Good Enough</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "99c72abd63ead05d055286d01b5bdd6a3d6b462a",
+      "title": "$1 Million Sandbox Challenge Uncovers Linux Kernel Flaws",
+      "url": "https://www.securityweek.com/1-million-sandbox-challenge-uncovers-linux-kernel-flaws/",
+      "published": "2026-09-15T16:00:00+00:00",
+      "summary": "<p>AI-assisted researchers flooded Vercel with reports, forcing the company to automate vulnerability triage.</p>\n<p>The post <a href=\"https://www.securityweek.com/1-million-sandbox-challenge-uncovers-linux-kernel-flaws/\">$1 Million Sandbox Challenge Uncovers Linux Kernel Flaws</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
@@ -1866,39 +1899,6 @@
       "url": "https://www.securityweek.com/microsoft-ai-code-of-conduct-sets-cyberattack-boundaries-chain-of-command-safety-constraints/",
       "published": "2026-09-15T09:40:25+00:00",
       "summary": "<p>The Humanist AI Code of Conduct draws a line between defensive cyber research and operational attack capability.</p>\n<p>The post <a href=\"https://www.securityweek.com/microsoft-ai-code-of-conduct-sets-cyberattack-boundaries-chain-of-command-safety-constraints/\">Microsoft AI Code of Conduct Sets Cyberattack Boundaries, Chain of Command, Safety Constraints</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "1041d1a00ea95547f971ceeb69c87520a377f91f",
-      "title": "Hacked HBO Max Reddit Account Used for Malware Delivery via ClickFix Attack",
-      "url": "https://www.securityweek.com/hacked-hbo-reddit-account-used-for-malware-delivery-via-clickfix-attack/",
-      "published": "2026-09-15T09:09:00+00:00",
-      "summary": "<p>Ads led to a ClickFix page designed to trick macOS and Windows users into installing malware.</p>\n<p>The post <a href=\"https://www.securityweek.com/hacked-hbo-reddit-account-used-for-malware-delivery-via-clickfix-attack/\">Hacked HBO Max Reddit Account Used for Malware Delivery via ClickFix Attack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "503d9e83c43a7bb497692b560c8cd1e7f6b734ce",
-      "title": "Root RCE Zero-Day in Cisco Secure Email Gateway Under Active Exploitation",
-      "url": "https://www.securityweek.com/root-rce-zero-day-in-cisco-secure-email-gateway-under-active-exploitation/",
-      "published": "2026-09-15T05:18:51+00:00",
-      "summary": "<p>An unauthenticated attacker can exploit CVE-2026-76461 to execute arbitrary commands on the underlying OS with root privileges.</p>\n<p>The post <a href=\"https://www.securityweek.com/root-rce-zero-day-in-cisco-secure-email-gateway-under-active-exploitation/\">Root RCE Zero-Day in Cisco Secure Email Gateway Under Active Exploitation</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "d847dc5baadfcbfd585539794ed85e5a38fb99b8",
-      "title": "Beijing Hits Back at Anthropic CEO\u2019s Call to Curb China\u2019s AI Development",
-      "url": "https://www.securityweek.com/beijing-hits-back-at-anthropic-ceos-call-to-curb-chinas-ai-development/",
-      "published": "2026-09-14T14:28:26+00:00",
-      "summary": "<p>China\u2019s Ministry of Foreign Affairs responded to a question about Amodei\u2019s essay by saying that all parties should work together on AI.</p>\n<p>The post <a href=\"https://www.securityweek.com/beijing-hits-back-at-anthropic-ceos-call-to-curb-chinas-ai-development/\">Beijing Hits Back at Anthropic CEO\u2019s Call to Curb China\u2019s AI Development</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
