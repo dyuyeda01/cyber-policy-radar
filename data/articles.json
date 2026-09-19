@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-09-18T15:15:55.949202+00:00",
+  "generated_at": "2026-09-19T01:48:21.331065+00:00",
   "items": [
+    {
+      "id": "e9178b3198ba29688350738bbc17eaf5d5f11804",
+      "title": "Settra ransomware variant deployed in recent attacks",
+      "url": "https://www.cybersecuritydive.com/news/settra-ransomware-variant-recent-attacks/830787/",
+      "published": "2026-09-18T15:32:22+00:00",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/ASriUTXYU57UTRsGa3uHudK6MLnQNX56KJ_GYOScOw8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy04MTc0ODYxNzQuanBn.webp\" /></div></figure><p>Security researchers warned that hackers are using VPN credentials for initial access and deploying RMM tools.</p>",
+      "source": "Cybersecurity Dive",
+      "region": "North America",
+      "country": "US",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
     {
       "id": "95466668fde33a185174a7451bf6e56f16d50652",
       "title": "CISA ends weekly vulnerability roundups as part of shift to prioritization approach",
@@ -101,15 +112,37 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "0363f43a8cc119aa9981e02b662df72962d720de",
-      "title": "Zero trust is the future. But enterprises still need their VPNs.",
-      "url": "https://www.cybersecuritydive.com/spons/zero-trust-is-the-future-but-enterprises-still-need-their-vpns/829864/",
-      "published": "2026-09-14T09:00:00+00:00",
-      "summary": "<p>Zero trust shouldn&rsquo;t mean sacrificing the stability and flexibility enterprises still depend on.</p>",
-      "source": "Cybersecurity Dive",
+      "id": "506f1342b2f410e2e14a32e6ef529c3080cf8018",
+      "title": "Public Exploits Released for Four Linux Kernel Flaws That Enable Local Root",
+      "url": "https://thehackernews.com/2026/09/public-exploits-released-for-four-linux.html",
+      "published": "2026-09-18T18:02:24+00:00",
+      "summary": "A security researcher has released working exploit code for four Linux kernel flaws that each let a local user gain root, the highest level of access on a machine.\n\nKernel maintainers have fixed all four over the past few weeks, so a system running an up-to-date kernel is not affected. But the exploit code is now public, and any machine still running an older kernel should be updated.\n\nThe flaws",
+      "source": "The Hacker News",
       "region": "North America",
       "country": "US",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixfmcEQbMRp9dJbUmuhA3LSquz7yG3lph_Nbh6NqiVGOPOiOoKYcWbspSqEDBpeyUMH-KK_DHWoBSFmaZPE_BlWRjy4swhpEPCBJ-p2NCJRTceTeDx84tDToap0VrFW304zxv0nKsRSVOMM3GPhFyJ7GZkGPG92N3aKvW3edGBBdoAJl0_fH6IehDA0I8/s1600/linux-kernel.jpg"
+    },
+    {
+      "id": "f7a8a3c8b9b3189884c09a46c52db7a3afc426e9",
+      "title": "New WordPress Click2Shell Flaw Forces Theme Installs, Can Chain to Code Execution",
+      "url": "https://thehackernews.com/2026/09/new-wordpress-click2shell-flaw-forces.html",
+      "published": "2026-09-18T16:56:19+00:00",
+      "summary": "WordPress today released patches to fix a new set of vulnerabilities in its core software, one of which could allow a crafted web link, opened by a logged-in administrator, to install a theme from the official WordPress.org directory without anyone clicking Install.\n\nThe security firm pwn.ai, whose researchers reported the flaw, calls the attack chain Click2Shell. On its own the flaw only",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRmEdVvBEJZEaIzJ4GYHX3cDjJq5YaLQby6GeVwDl-uVl_qIR_tkRSx6aKpzoYhGVvp0E3NDIe9aum5f5N_lI-RPz6eDNGHC7vpKMa0UrlT1J1_bRJrJ8Wk0htpyFoR3ezoqh-BCJePJU914UFlL7gS45RXbWoVi3Lp49iNSkUt7eLrJyQTAEIGE-VRgY/s1600/click2shell.gif"
+    },
+    {
+      "id": "2b499254cae67a24e2b6138dbf8933310f7f8cd9",
+      "title": "Transparent Tribe Deploys New Rust Backdoor Using Private GitHub Repositories for C2",
+      "url": "https://thehackernews.com/2026/09/transparent-tribe-deploys-new-rust.html",
+      "published": "2026-09-18T15:24:16+00:00",
+      "summary": "The Pakistan-aligned threat group tracked as Transparent Tribe (aka APT36 and Earth Karkaddan) has been attributed to a fresh set of cyber attacks targeting government and defense entities in India and Afghanistan.\n\nThe attacks, per Zscaler ThreatLabz, involve the use of previously undocumented tools called RUSTYSHADE, RUSTYMOVE, PSNATCH, and BASHNATCH. The activity has been codenamed Operation",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhBM0nXgCLpwEyXmAdxLO_GatYww1Cem0yuGGqhmMwCB5N8w-TeoMm7jV4SbH4hjfYmxctUjyPiSlR3Caj2cSu7L_1nxTzg5xtfJrxhq5y0elL7yh8J2S5lakpnTbck3XhMVB1iG3obibSh64E8z877YcECkeJBs_rrZARXefKDeYQJ9Nf2u8pnxD0gEnx/s1600/rust-malware.jpg"
     },
     {
       "id": "d12dd718a0ca78aa68bf388b2b5ffbc0d8aca992",
@@ -629,37 +662,48 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguNgykDjufnR6xGrMUSq67eZ5sCFxbYjf8J6pEXekhUnt-zCt2xaJ4jzj6I0wPMYjps9z2ufKJ-JSJ8ZqhGe4BcbtNWfRETdaB6QgIRVLw0CtnsM5q2qCpyI3kL7oBXmNixcTTcumZJHFgCKaoLY8kRIBDbPHslMmmzzb25TlESGooJuaxtXEL5qrUzkop/s1600/twitch.jpg"
     },
     {
-      "id": "8d32a587d798415ebe79d97d9379deded8e91df8",
-      "title": "Attackers Use Passkey Phishing to Hijack Microsoft Cloud Accounts and Exfiltrate Data",
-      "url": "https://thehackernews.com/2026/09/attackers-use-passkey-phishing-to.html",
-      "published": "2026-09-13T10:11:48+00:00",
-      "summary": "Microsoft has disclosed details of two campaigns in which threat actors are abusing third-party email delivery infrastructure to blast financial fraud scam messages and using passkey-themed social engineering to breach cloud environments.\n\nThe first campaign, per the tech giant, involved sending over a million scam emails between August 3 and 5, 2026, by masquerading as chief executive officers",
-      "source": "The Hacker News",
+      "id": "db8364d968460c74744b80cc33e83afde1125bb0",
+      "title": "Vectra AI Launches Ascent to Help Address New Era of AI-Driven Attacks",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/vectra-ai-launches-ascent-new-era-ai-driven-attacks",
+      "published": "2026-09-18T20:24:51+00:00",
+      "summary": "The new program expands Vectra AI's partner strategy as increasingly complex security environments and the growing use of AI create demand for broader AI expertise, services, and security outcomes.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ2E2hmYwxfZ25xw5iPhCHaSDENcuEyEIaha9e_rIJCf68srth31FtjIiIlnOcEiSQDDuk2Vg-dQdNLfR753ePSoDntP3BS-MGbEH2DS8Ch5ihzhpiDZZm5UIzKCbL1vNJSwSABCYst8oG6Oa-7iBWaSF6WSTEkCJBAi9YEEwAmVEdGYvu-JWZnxwEX9ni/s1600/ms-outlook.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?width=720&quality=80&disable=upscale"
     },
     {
-      "id": "3be9058c0a3e93a1a457f074b7be9410092e153e",
-      "title": "CISA Adds 5 Actively Exploited Artifactory, ScreenConnect, and RouterOS Flaws to KEV",
-      "url": "https://thehackernews.com/2026/09/cisa-adds-5-actively-exploited.html",
-      "published": "2026-09-12T15:54:45+00:00",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added five security flaws impacting JFrog Artifactory, ConnectWise ScreenConnect, and MikroTik RouterOS to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation in the wild.\n\nDetails of the vulnerabilities are as follows -\n\n\n  CVE-2026-42016 (CVSS score: 8.1) - An incorrect authorization",
-      "source": "The Hacker News",
+      "id": "c30f05e681c96aad39249b811c94a85e7bef96f6",
+      "title": "Cisco Zero-Day Highlights API Endpoint Authentication Issues",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/cisco-zero-day-api-endpoint-authentication-issues",
+      "published": "2026-09-18T19:26:47+00:00",
+      "summary": "The authentication bypass flaw CVE-2026-76460 impacts Cisco's Identity Services Engine (ISE) and received a maximum 10 out of 10 CVSS score.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhva55LDIsAmtR2cRnUJw2XZ3Rvo4YhdJe39cfng8EZ1oHjLevxwRcYoFdg-ydI2I7fdt9OxGj7aMcaHMekZmy9hwSlopIZ4_KQgRnmiSy0OfGh8zO26StiEeOsHaQ4fYed0dbEUCUcz4gJM9Lu6Wt7m-ppDmI7iMl52-cRfQfsu9d90Sp2ncuvbVpAPupe/s1600/jj.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9b9202e55102d483/6aad857c8cb60c3268956114/api-saifulasmee_chede-Getty-2203607940.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "id": "07d948111ef17178552678e127e1d1c4a3eefc46",
-      "title": "When the Whole Company Adopts AI: What It Does to Your SOC",
-      "url": "https://thehackernews.com/2026/09/when-whole-company-adopts-ai-what-it.html",
-      "published": "2026-09-12T10:24:44+00:00",
-      "summary": "Over the past year, we watched a new class of alert appear in enterprise security operations centers and grow faster than anything else in the stream: alerts that were triggered by AI tools and agents. Not attacks against AI, but the ordinary, everyday footprint of an organization using it, from developers running coding agents and non-technical staff signing consumer AI tools into corporate",
-      "source": "The Hacker News",
+      "id": "5ef16b9434705006c9e0a2c0b43bd8a330c3f8ff",
+      "title": "EY Survey Finds Autonomous AI Implementation Outpaces Oversight",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/ey-survey-autonomous-ai-implementation-outpaces-oversight",
+      "published": "2026-09-18T19:23:48+00:00",
+      "summary": "A new survey of senior AI execs shows that while organizations are rapidly deploying AI and autonomous systems, their process and controls are not keeping pace.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhx03NP3tJYBFro8_pZ2g6irfvMJFy0HGYqvUu9kkRJZBnMJ-BcA9aWGZZ1vS4a71YOgpB5qLBDkoNnMyOBJXGhfsyQQMK0IgaGunMOUTLnFUSFddG_5NwlnXsUCWJpGh3bGOcWLHpxXTAqv0i4QAYyRZPXcm0Rcp5K9Yfc7o7SEeLZXNtGp3NZVMzlv1M/s1600/in.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?width=720&quality=80&disable=upscale"
+    },
+    {
+      "id": "3e25d109671f8b32c3774cdbe182e4b3182f656c",
+      "title": "MFA Won't Save You From OAuth Consent Abuse",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/mfa-oauth-consent-abuse",
+      "published": "2026-09-18T18:15:20+00:00",
+      "summary": "MFA is essential, but it cannot replace OAuth governance, least-privilege scopes, consent monitoring, and rapid revocation.",
+      "source": "DarkReading",
+      "region": "North America",
+      "country": "US",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8631b42f8b5aec85/6aad80fd266d963c81df6ccc/approval-_acilo_-_getty-471084261.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "id": "06d4854d1996348809e1bd1da6096efd08a63473",
@@ -1168,48 +1212,37 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte71738f751de1daa/6a97388d5d30863e09d86b97/jfrog-hapabapa-Getty-1273253225.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "id": "0b3c94682be31ccd6c2f9fd265c48ddf47b8648b",
-      "title": "Stronger Security Drives Ransomware Groups to Recruit From Within",
-      "url": "https://www.darkreading.com/cyber-risk/stronger-security-drives-ransomware-groups-to-recruit-from-within",
-      "published": "2026-09-01T21:03:19+00:00",
-      "summary": "Some security researchers have observed an uptick in insider-assisted ransomware attacks, but malicious insiders pose other threats that cost companies millions.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta00a9d9e96de1b11/6a9721055573ecd41d1f4f4b/GettyImages-1450161933.jpg?width=720&quality=80&disable=upscale"
+      "id": "3819f0b1f89e0ed674effbe544edbe943c084dec",
+      "title": "Researchers used Claude to hack OpenAI employees' ChatGPT accounts",
+      "url": "https://www.theregister.com/security/2026/09/18/researchers-used-claude-to-hack-openai-employees-chatgpt-accounts/5297517",
+      "published": "2026-09-18T17:16:00+00:00",
+      "summary": "Agentic exploits for the win (again)",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=5297523&width=800"
     },
     {
-      "id": "5c77fd06c4fa6a976ceff6ced8f15b9eabbdebdf",
-      "title": "Critical Langflow Vulnerability Exploited as Attacks on AI Platform Rise",
-      "url": "https://www.darkreading.com/vulnerabilities-threats/critical-langflow-flaw-exploited-attacks-rise",
-      "published": "2026-09-01T20:48:52+00:00",
-      "summary": "The attacks targeting CVE-2026-0768 are the latest threat against the low-code AI development platform, which is receiving more attention from adversaries this year.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt036489a36358dea1/6a971529de036c92b216129d/aicoding-AreeSarak-Getty-2252848921.jpg?width=720&quality=80&disable=upscale"
+      "id": "d4a4fb2fab561447f33f0b7e525d9782bb037074",
+      "title": "North Korea's fake job interviews infected 30,000 devices",
+      "url": "https://www.theregister.com/security/2026/09/18/north-koreas-fake-job-interviews-infected-30000-devices/5297461",
+      "published": "2026-09-18T16:53:00+00:00",
+      "summary": "WaterPlum recruiters used bogus coding tests to backdoor jobseekers and raid more than 7,000 crypto wallets",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=234163&width=800"
     },
     {
-      "id": "fe1adca3e230b4e3b531336370af75d962fad3c8",
-      "title": "AI Model Evaluator METR Hit by Credential Theft, Probing",
-      "url": "https://www.darkreading.com/identity-access-management-security/ai-model-evaluator-metr-credential-theft-probing",
-      "published": "2026-09-01T20:13:09+00:00",
-      "summary": "In one attack, threat actors stole an API key that ultimately led to the consumption of $600,000 in public AI model credits for the security nonprofit.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd6fa067a2ef7c79c/6a971debd849dc198a50a854/evaluation-Charday_Penn-GettyImages-1297604574.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "id": "e544e8b85ba453f7f082c6c0ce42deabc525ea16",
-      "title": "ClickFix Campaign Compromises 31 Orgs, Abuses Polygon Blockchain",
-      "url": "https://www.darkreading.com/endpoint-security/clickfix-campaign-comprises-31-orgs-abuses-polygon-blockchain",
-      "published": "2026-09-01T13:56:42+00:00",
-      "summary": "The campaign uses EtherHiding to dynamically update its command-and-control server, abusing the blockchain as an attacker-controlled address book.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6a0f2dc67da094b0/6a96c86cc735cc0c3671a7e3/blockchain_incamerastock_alamy.png?width=720&quality=80&disable=upscale"
+      "id": "cdbe99095e861cf8ccbb1d3a3524427626233430",
+      "title": "FBI: Fake cop and government impersonation scams cost victims $1.6B",
+      "url": "https://www.theregister.com/cyber-crime/2026/09/18/fbi-fake-cop-and-government-impersonation-scams-cost-victims-16b/5297499",
+      "published": "2026-09-18T16:19:27+00:00",
+      "summary": "AI, fake uniforms, and mock offices help crooks sell the con",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=5297516&width=800"
     },
     {
       "id": "09f06c8433fc50a36a450811fab46c9d4bc5bf65",
@@ -1727,39 +1760,6 @@
       "region": "Europe",
       "country": "UK",
       "image": "https://image.theregister.com/?imageId=260524&width=800"
-    },
-    {
-      "id": "963fd27bcf79b740786f5656313953ef1b1e868f",
-      "title": "Nightwing CEO has a Labor Day message for staff \u2013 and apparently The Register",
-      "url": "https://www.theregister.com/security/2026/09/07/nightwing-ceo-has-a-labor-day-message-for-staff-and-apparently-the-register/5294819",
-      "published": "2026-09-07T14:43:00+00:00",
-      "summary": "Nothing says \u2018For internal use only\u2019 quite like emailing it to the press",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=5254719&width=800"
-    },
-    {
-      "id": "a9a32a60244dcbcc9c60256de5615e8ca2cc21c6",
-      "title": "Hackers drain $320M in Bitcoin from Liquid Network, claim they're the good guys",
-      "url": "https://www.theregister.com/security/2026/09/07/hackers-drain-320m-in-bitcoin-from-liquid-network-claim-theyre-the-good-guys/5294770",
-      "published": "2026-09-07T13:26:00+00:00",
-      "summary": "Self-described white hats promise to return 'most' of the 4,000 BTC once the vulnerability is fixed",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=262699&width=800"
-    },
-    {
-      "id": "5a4ec37e671d08005a6c6e7a52e0a4d2876c450c",
-      "title": "Welsh environment regulator's FoI blunder exposes diversity data of 2,000 staff",
-      "url": "https://www.theregister.com/security/2026/09/07/welsh-environment-regulators-foi-blunder-exposes-diversity-data-of-2000-staff/5294748",
-      "published": "2026-09-07T11:04:46+00:00",
-      "summary": "NRW says it has found no evidence data was misused after spreadsheet published in error five years ago",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=254740&width=800"
     },
     {
       "id": "d653533745a68c07326b20879bec2304c0013a6a",
