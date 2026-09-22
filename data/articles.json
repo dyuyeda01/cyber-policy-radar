@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T17:14:57.751450+00:00",
+  "generated_at": "2026-09-22T02:00:09.686134+00:00",
   "items": [
     {
       "id": "50070fd912fc7632ce92a876cba68abae553e425",
@@ -110,6 +110,39 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "98fe946df30dd12793a090c43f3dd871a7a7ad71",
+      "title": "Fake LastPass Authenticator Installer Abuses Microsoft-Signed Driver to Kill Antivirus and EDR",
+      "url": "https://thehackernews.com/2026/09/fake-lastpass-authenticator-installer.html",
+      "published": "2026-09-21T17:31:01+00:00",
+      "summary": "A fake LastPass Authenticator installer offered on GitHub installs a Windows kernel driver that shuts off antivirus and other security software before a password stealer runs if a victim downloads and runs it, researchers at LastPass and Delphos Labs said on September 17.\n\nMicrosoft's own hardware-compatibility program signs the driver, scored zero detections on VirusTotal when researchers",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEil-5ZV6QK7R23fL7Vtl-pdxgFYPAG9dT_cIIrXWgR70hLZRM705Ij3WuRpCL00VuDop9dTmVNf1t3QS60nqRGV9GCzsZ792yd7mFY_pjvgfufOK9D-oQJdxP4ZtrXiyeq08KNUBv3-mhQ_KCiCOMWIbeQpCAyF_h4lMZw54T0l9AcDdGf6aRptXAZJNcU/s1600/last.jpg"
+    },
+    {
+      "id": "1dcb430bc406c3fd538b77b714b3c675b88f0585",
+      "title": "Contagious Interview Campaign Compromises 30,000 Devices, Steals $10.71M in Crypto",
+      "url": "https://thehackernews.com/2026/09/contagious-interview-campaign.html",
+      "published": "2026-09-21T17:19:00+00:00",
+      "summary": "The North Korean threat actors behind the Contagious Interview campaign have compromised at least 30,000 devices located in more than 100 countries and siphoned funds or account credentials from over 7,000 cryptocurrency wallets, according to a new joint cybersecurity advisory.\n\nThe primary targets of the campaign are individual web designers, engineers, and specialists in cryptocurrency,",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjuVP0IzjchtSeuT6WwQHPupLynSiYhe7KinKtQVVE_EgFE5iG9SWV4HrgseuXaSUo-TaamFPzHl6SCnUPsbz29nzEo1BJeZVE4VB43KdMBmKEld7snbryRJIeIIAmiRZNEhFCJ-58klU6qGrvwg2Hn26FtkHv1s4cAj_zX9AWmdeym2-d4hScWr9dLiOY/s1600/exec.jpg"
+    },
+    {
+      "id": "2a6260ae36a8474615d388d5e7b26f3ab568bbee",
+      "title": "Google Fined \u20ac403 Million Over GDPR Violations Tied to Location Data",
+      "url": "https://thehackernews.com/2026/09/google-fined-403-million-over-gdpr.html",
+      "published": "2026-09-21T16:57:31+00:00",
+      "summary": "Google has been&nbsp;fined \u20ac403 million&nbsp;for breaking the EU's data protection law, the GDPR, in the way three of its features handled people's location data from May 2018 to February 2020.\n\nIreland's Data Protection Commission (DPC), Google's lead regulator in the EU, also ordered the company to make its processing comply with the law within 6 months. The DPC has not said publicly which",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrjOPn27sYW7sjjV6-SlFPjlnnAtZ2bVGvrJRbbussed8ddYCwrRnmyIBKOsJy9p3QGdwzMuxmxhtyNvyPQD9u53V0T84o-Pi1Euo1SPlHX9DiaFzVby2cKpyfdma7mA0b4F1gqDCvjWBrk3n916K6Su1Y1TaJcOKXHsuzNn0cxOmVzlUK1NIjPtElIXM/s1600/google-location.jpg"
     },
     {
       "id": "5997c3e8371dff869745fdf86aca3a23d0b9d5f0",
@@ -629,37 +662,37 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7hFIl_GRAlPuegwLGZ2PzXVsPEUTEevpEYhkU2Va9isB7aC8a0jJCLVszVOUc_CAIb4IkIkmRjkvyaTIadUizNNEhHTxvzlPX0EUN6UQutjyrauyi35fzRtBjFudyOW4HlAnTRNC9XDj39uNBMKUWHUV2g0Rt8o3aSADZAeAIYgLN-dT0q8gIH9cWUDBF/s1600/windows-linux.jpg"
     },
     {
-      "id": "cb508cd674ba7706a5fc46180be2a1fa974270f8",
-      "title": "Human Attacker Exploits Marimo RCE, Reaches SSH Bastion in Eight Seconds",
-      "url": "https://thehackernews.com/2026/09/human-attacker-exploits-marimo-rce.html",
-      "published": "2026-09-15T11:52:28+00:00",
-      "summary": "With artificial intelligence (AI) shrinking the window between vulnerability discovery and exploitation and lowering the barrier to entry for bad actors, new findings from Sysdig show that skilled human operators can move just as swiftly after gaining initial access.\n\nIn one instance highlighted by the cloud security company, the threat actor pivoted from a vulnerable Marimo notebook to an SSH",
-      "source": "The Hacker News",
+      "id": "961e3a5a473dae9e52d2339986e3f1ce493e99d7",
+      "title": "How AI Agents Can Trigger Runaway Costs for Enterprises",
+      "url": "https://www.darkreading.com/application-security/how-ai-agents-can-trigger-runaway-costs",
+      "published": "2026-09-21T21:39:59+00:00",
+      "summary": "Unbounded consumption is an issue that OWASP currently ranks sixth in its Top 10 for LLM Applications, and it could be an extremely costly one.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzWVpv5OsfVGAYPz4or_uMgVNDXTSzyXpTB8XLtCFHdzk9IliH8Aydez_Zo9hDGSj7__A0cFwnjKUpRWn5nn4CSd5wlaIJ1-BpU29tUyeh3pC63H_kXIn9ANQna1FBENp-td6TCC6z50ZEcAeNjAZMA-tIA9_x9nYrlHqbnJOijQpbeHsQmW5tKMczy4ek/s1600/marimo%20%281%29.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt4d507c20a824455e/6ab1a65e4e44f033edad8e57/computecosts-Cristina_Bustiuc-Getty-2290322223.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "id": "a56a1c9da58e51c3f3341bfdd796c7ec68b031db",
-      "title": "Attack Chains, Not Just Attack Surfaces: Why Testing Individual Techniques Misses the Point",
-      "url": "https://thehackernews.com/2026/09/attack-chains-not-just-attack-surfaces.html",
-      "published": "2026-09-15T11:26:36+00:00",
-      "summary": "Introduction\n\nSecurity teams have gotten pretty good at testing against what can hurt them. Can this EDR agent catch this payload? Will my organization fail the phishing simulation? Does this SIEM rule fire on this particular technique? And, in more mature organizations, this testing happens continuously rather than as a one-off exercise.\n\nBut no matter how much you validate against these",
-      "source": "The Hacker News",
+      "id": "556946de78a2cd3db4cca65d0419b722904e1ec1",
+      "title": "ShinyHunters Hacked Clop. Now What About Clop's Victims?",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/shinyhunters-hacked-clop-what-about-clops-victims",
+      "published": "2026-09-21T20:07:56+00:00",
+      "summary": "ShinyHunters defaced Clop's Dark Web site and claims to have stolen victim data, potentially exposing organizations that paid ransoms to renewed extortion attempts.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQ5FtIC97mlzzBT1tKZW7igSSWnJsEI-gEDuUjX-_smFr3Q-loPw-bYG2rEqPBOFPOm0SeL3Go5NvyiJo_DbqnF7ECWdg1EA0DaUML5koDFnXi_lTpJ_Vuow5bsBeQvqLTN25x3O0seE7Qxv5o3S9KoIKuQAVIu7FTPPoZm6ly5XtS97tng5LAaw3tCCY/s1600/live.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8e0bef42c03290a5/6ab183286295de5dae48dbb1/horses_running-winhorse-GettyImages-157523740.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "id": "2863f9a0ea26502dc954b489b2a321ae761571de",
-      "title": "Mass-Scanning Campaign Exploits Vite Flaw to Extract Cloud Credentials From Exposed Dev Servers",
-      "url": "https://thehackernews.com/2026/09/mass-scanning-campaign-exploits-vite.html",
-      "published": "2026-09-15T11:12:32+00:00",
-      "summary": "Cybersecurity researchers have disclosed details of a mass-scanning campaign that has targeted Vite deployments siphon sensitive data.\n\nThe first is an automated effort aimed at internet-exposed Vite development servers that's designed to steal cloud credentials, configurations from Amazon Web Services (AWS) and Microsoft Azure instances, and infrastructure state files, per F5 Labs.\n\nThe",
-      "source": "The Hacker News",
+      "id": "f7abe72a6af740eb659967f7ac8877a2e732351a",
+      "title": "Cybercriminals Are Hiding New Malware in Torrents for Popular Films",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/cybercriminals-hiding-new-malware-torrents-popular-films",
+      "published": "2026-09-21T19:11:26+00:00",
+      "summary": "Victims have been identified in Africa, including in Kenya and Uganda.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDvoBVfJIN7YwGuf64F0CQWt9GrAVzaxDWGJetCrAGM_QgGEfpZm_I7f3FTkWBydY7v_iV4n8RWPAr4jfp7ZhN9DVbVZGDryBYlZiL6dn5RuYzLd811NH_sARdjbwWIpf9kOj-jtXfLzb7BTuy-iMpHbsgB9n8J5T7Hx0qp0D1_XeJR-ANcGQ5p88YH3fE/s1600/vite.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?width=720&quality=80&disable=upscale"
     },
     {
       "id": "7ad1c982803a14054a5f6cac8e4191e1ba2d2bec",
@@ -1179,37 +1212,37 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0cc4f85814cf1849/6a9871830d1dd21ef2d9772c/barbed_wire_fence-dzika_mrowka-GettyImages-175913576.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "id": "8f6b611d74390218ff0b89a0df47eaa129780523",
-      "title": "AI Gives Cybercriminals a Dangerous Time Advantage",
-      "url": "https://www.darkreading.com/threat-intelligence/ai-gives-cybercriminals-dangerous-time-advantage",
-      "published": "2026-09-02T19:46:31+00:00",
-      "summary": "Former cybercriminal Brett Johnson provides a look inside the mind of a threat actor and discusses where AI provides the most value for attackers.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltdcb9093a068b61f4/6a9742405acd0c12e2c414bc/cybercriminal1800_dem10_GettyImages-2153654043.jpg?width=720&quality=80&disable=upscale"
+      "id": "4c094eabbf43bbae9533017c7cf3ecdc6abaaf06",
+      "title": "Anthropic-linked CVEs pile up, attackers mostly shrug",
+      "url": "https://www.theregister.com/security/2026/09/21/anthropic-linked-cves-pile-up-attackers-mostly-shrug/5298018",
+      "published": "2026-09-21T22:32:51+00:00",
+      "summary": "Of 225 flaws found by Glasswing and tracked by VulnCheck researcher, just one has confirmed exploitation in the wild",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=5298025&width=800"
     },
     {
-      "id": "551e76fd7c2746d77da031cfe5b1920409920f17",
-      "title": "Threat Gang 'Springs' Vishing Attacks on Microsoft Teams Users",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/threat-gang-springs-vishing-attacks-microsoft-teams-users",
-      "published": "2026-09-02T16:51:21+00:00",
-      "summary": "The &quot;Spring Ring&quot; operation aims to compromise users of the collaboration suite to remotely access their sessions, spread malware, and even take over infrastructure.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3c8192b6490626c0/6a981a98644fc5665f78add9/phone-Brian_Jackson-Alamy.jpg?width=720&quality=80&disable=upscale"
+      "id": "12555d18a30641999d6e97158c59a89acc21f280",
+      "title": "Meta Muse AI app flaw lets local malware redirect dictation traffic",
+      "url": "https://www.theregister.com/ai-and-ml/2026/09/21/meta-muse-ai-app-flaw-lets-local-malware-redirect-dictation-traffic/5297980",
+      "published": "2026-09-21T19:59:52+00:00",
+      "summary": "Ad biz promises users control while bug could expose voice prompts",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=5298012&width=800"
     },
     {
-      "id": "47af0e0edff9cfcd9852902014bbd3b7a3b1bbd1",
-      "title": "Old, Unpatched Flaws Give Attackers Access to Philippines Nuclear Agency",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/old-unpatched-flaws-attackers-philippines-nuclear-agency",
-      "published": "2026-09-02T01:00:00+00:00",
-      "summary": "Threat actors exploited commodity vulnerabilities in ownCloud to gain initial access, resulting in stolen reactor databases, personnel records, and credential stores.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt61b6b950560b6729/6a974efda0ff3877b64d75b3/philippines-south-china-sea-map-AustralianCamera-shutterstock.jpg?width=720&quality=80&disable=upscale"
+      "id": "3705922b155e26816bd6d9f001a581bc8234d55b",
+      "title": "Treasury chief says AI bosses, not their bots, will carry the can for criminal acts",
+      "url": "https://www.theregister.com/security/2026/09/21/treasury-chief-says-ai-bosses-not-their-bots-will-carry-the-can-for-criminal-acts/5297965",
+      "published": "2026-09-21T19:10:53+00:00",
+      "summary": "'Humans are responsible, not the AI,' argues Scott Bessent as he calls out OpenAI agents' hack of Hugging Face",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=226050&width=800"
     },
     {
       "id": "f5705f344462c892fcc8bc61fa3ea184e6094c00",
@@ -1729,78 +1762,12 @@
       "image": "https://image.theregister.com/?imageId=5295128&width=800"
     },
     {
-      "id": "e2a7b69bf72ebd8185488fb1a338f532e39767a5",
-      "title": "Boston Scientific left nursing its bottom line after cyberattack",
-      "url": "https://www.theregister.com/security/2026/09/08/boston-scientific-left-nursing-its-bottom-line-after-cyberattack/5295026",
-      "published": "2026-09-08T15:45:00+00:00",
-      "summary": "Medical device giant warns August intrusion will hit Q3 and full-year sales and earnings as recovery drags on",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=227731&width=800"
-    },
-    {
-      "id": "ec2b97844a6a04f2911f67ce135e6c160c925661",
-      "title": "How to secure hybrid meeting rooms without sacrificing user experience",
-      "url": "https://www.theregister.com/security/2026/09/08/sponsored-how-to-secure-hybrid-meeting-rooms-without-sacrificing-user-experience/5294440",
-      "published": "2026-09-08T15:00:00+00:00",
-      "summary": "SPONSORED FEATURE: With regulators tightening rules and attack surfaces widening, meeting-room kit must bake in security without pushing users toward workarounds",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=5294442&width=800"
-    },
-    {
-      "id": "e5605f5de1a251bbf524e1ad1f3c0928cc5dfdc3",
-      "title": "LG accused of 'egregious invasion of privacy' over TV data collection",
-      "url": "https://www.theregister.com/security/2026/09/08/lg-accused-of-egregious-invasion-of-privacy-over-tv-data-collection/5294956",
-      "published": "2026-09-08T14:15:00+00:00",
-      "summary": "Claims follow scrutiny over monitors installing adware without user consent",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=246573&width=800"
-    },
-    {
-      "id": "d653533745a68c07326b20879bec2304c0013a6a",
-      "title": "Data Broker Radaris Loses Domains in Privacy Fight",
-      "url": "https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/",
-      "published": "2026-09-16T18:14:22+00:00",
-      "summary": "The consumer data broker Radaris.com has long had a reputation for ignoring requests to remove personal information from its vast empire of people-search services online. That reputation caught up with the company recently in a lawsuit alleging Radaris violated a New Jersey privacy law that provides for hefty fines against data brokers that publish personal information on state law enforcement officials. In the face of repeated stonewalling and prevarication by attorneys for Radaris, the judge in the case ordered that radaris.com and more than a dozen other data broker domains be transferred to the plaintiffs.",
-      "source": "Krebs on Security",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "c7e7ad60970c4251994034154a557f7aa3598a8b",
-      "title": "Microsoft Plugs Nearly 1,000 Security Holes",
-      "url": "https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/",
-      "published": "2026-09-08T21:44:22+00:00",
-      "summary": "Microsoft Corp. today issued updates to plug at least 974 security holes in its Windows operating systems and other software, by far its biggest single patch batch ever. Microsoft says artificial intelligence is helping to speed the discovery of vulnerabilities, but security experts warn that many organizations already are struggling to prioritize the more human-intensive endeavor of testing and deploying so many fixes each month.",
-      "source": "Krebs on Security",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "a0aed382f4580bb83c67a171e9aa47301f6d1cd6",
-      "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
-      "url": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
-      "published": "2026-09-01T22:40:28+00:00",
-      "summary": "A new identity theft service launched on the dark web this week is selling digital scans of more than 153 million drivers licenses from people in the United States and Canada. Based on interviews with individuals whose licenses are available for purchase on this service, it appears to be siphoning images collected by a widely-used identity verification company based in Louisiana. KrebsOnSecurity also has learned that the New Orleans field office of the Federal Bureau of Investigation (FBI) today launched an official inquiry into the source of the images.",
-      "source": "Krebs on Security",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "861f4dd4c580966a80c1122d9ffeb9b61acc3973",
-      "title": "Two Alleged \u2018TeamPCP\u2019 Hackers Arrested in Australia",
-      "url": "https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/",
-      "published": "2026-08-27T11:04:15+00:00",
-      "summary": "Authorities in Australia have arrested two men believed to be members of TeamPCP, a prolific cybercrime and data extortion group blamed for perpetrating the longest running spree of software supply chain attacks ever.\n\nIn a statement released today, the Australian Federal Police (AFP) said two unnamed suspects from Western Australia, aged 21 and 23, were arrested in connection with a \"sophisticated cybercrime syndicate that allegedly created malicious open-source software to rob thousands of global businesses.\"\n\nThe AFP did not name the defendants, but KrebsOnSecurity learned the 21-year-old suspect's real identity in June, and has been communicating with him ever since. This story includes interviews with TeamPCP's self-described spokesperson, and examines clues left behind by the TeamPCP leader that likely led to his undoing.",
-      "source": "Krebs on Security",
+      "id": "d37072722296eadf0bd8a2a0d0e9b24267892250",
+      "title": "Google Hit With $463 Million Fine for EU Location Data Rule Breach",
+      "url": "https://www.securityweek.com/google-hit-with-463-million-fine-for-eu-location-data-rule-breach/",
+      "published": "2026-09-21T17:19:53+00:00",
+      "summary": "<p>Google has been fined 403 million euros ($463 million) for breaching the European Union\u2019s strict privacy rules because it mishandled users\u2019 location data.</p>\n<p>The post <a href=\"https://www.securityweek.com/google-hit-with-463-million-fine-for-eu-location-data-rule-breach/\">Google Hit With $463 Million Fine for EU Location Data Rule Breach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
@@ -1899,17 +1866,6 @@
       "url": "https://www.securityweek.com/google-confirms-gemini-ai-breached-three-firms/",
       "published": "2026-09-21T07:20:46+00:00",
       "summary": "<p>Google is the latest AI giant to confirm that its models escaped a testing environment and hacked real companies.</p>\n<p>The post <a href=\"https://www.securityweek.com/google-confirms-gemini-ai-breached-three-firms/\">Google Confirms Gemini AI Breached Three Firms</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "b7b0f8d9ba0065091ca81e0f63f1afb510c32ecc",
-      "title": "TigerByte Cyber Emerges From Stealth With $3 Million in Funding",
-      "url": "https://www.securityweek.com/tigerbyte-cyber-emerges-from-stealth-with-3-million-in-funding/",
-      "published": "2026-09-19T14:30:00+00:00",
-      "summary": "<p>The company has secured over $7 million in contracts with US government agencies, including the US Space Force, the US Navy, and DARPA.</p>\n<p>The post <a href=\"https://www.securityweek.com/tigerbyte-cyber-emerges-from-stealth-with-3-million-in-funding/\">TigerByte Cyber Emerges From Stealth With $3 Million in Funding</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
