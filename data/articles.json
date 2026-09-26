@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T15:59:22.438307+00:00",
+  "generated_at": "2026-09-26T02:08:59.886091+00:00",
   "items": [
     {
       "id": "2544d0e54d5df617e416c6baa6aa7478ae8d295a",
@@ -662,6 +662,28 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjovXeakmAmPG68i_kNoeGFJjwSSGDdpj-29aojemBxtTQVOHzR668zKtV5GGPhnJ0zyCEdlsNCc11LIT-F8n1U8Rkv3jr-3AAt6HC4YwwyfENs_Y8V-O_OlPC4_WByxrsUBq6NifTKHQpgWuSnIqnV4bg4rXVoe9BrtMtgRCo4ECfMLWHRIKOQsqjb0zEt/s1600/recap-2.jpg"
     },
     {
+      "id": "4e93802753c25b609a4980abf8da770969344f84",
+      "title": "AI Sandbox Escapes: Why Forensic Readiness Matters More Than Containment",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/ai-sandbox-escapes-forensic-readiness",
+      "published": "2026-09-25T18:39:32+00:00",
+      "summary": "When autonomous AI agents &quot;escape the sandbox,&quot; the real story isn't rogue machines \u2014 it's the same access-control failures we've seen for decades.",
+      "source": "DarkReading",
+      "region": "North America",
+      "country": "US",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt33c1376950d82e3b/6ab6c3109aed719a106d58d7/sandbox-almaphoto-Getty-2255089996.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "id": "3e0e6523ebd60b54cbb58c88585d49f5f31eb5b5",
+      "title": "What We Missed: Google Gemini Joins the AI Escape Party",
+      "url": "https://www.darkreading.com/cyber-risk/what-we-missed-google-gemini-ai-escape-party",
+      "published": "2026-09-25T17:56:23+00:00",
+      "summary": "In this video conversation, Dark Reading editors discuss some of the news they didn't get a chance to cover, from Google Gemini models breaking containment to ShinyHunters ratting on TeamPCP hackers.",
+      "source": "DarkReading",
+      "region": "North America",
+      "country": "US",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2b2c9d6b9326d649/6ab5930f4df1903bce49b5db/aibots-Gremlin-Getty-1494693841.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
       "id": "469b9b8e2756a8a077af86757864493641e9d138",
       "title": "Stopping IT Worker Scams Requires Revamped HR Process",
       "url": "https://www.darkreading.com/cyber-risk/stopping-it-worker-scams-revamped-hr-process",
@@ -718,10 +740,10 @@
     },
     {
       "id": "30aaeec28b11b2288da8cdb08be9be496d6707d8",
-      "title": "How to Build A SASE Framework for Modern Cybersecurity",
+      "title": "How to Build a SASE Framework for Modern Cybersecurity",
       "url": "https://www.darkreading.com/cloud-security/how-to-build-sase-framework",
       "published": "2026-09-24T14:02:43+00:00",
-      "summary": "Keeping edge computing safe requires organizations to fundamentally rethink security governance. Here is a path forward: a step-by-step guide to building a SASE framework.",
+      "summary": "Securing edge computing requires organizations to fundamentally rethink security governance. This step-by-step guide to building a SASE framework provides the path forward. (Third in a three-part series.)",
       "source": "DarkReading",
       "region": "North America",
       "country": "US",
@@ -754,7 +776,7 @@
       "title": "SASE Converges Network &amp; Security Into One Cloud Solution",
       "url": "https://www.darkreading.com/cloud-security/sase-converges-network-security-one-cloud",
       "published": "2026-09-23T22:29:10+00:00",
-      "summary": "Enterprise computing is moving to the edge. Keeping it secure requires tactics far beyond putting up firewalls.",
+      "summary": "Enterprise computing is moving to the edge. Keeping it secure requires tactics far beyond putting up firewalls.\u00a0(Second in a three-part series.)",
       "source": "DarkReading",
       "region": "North America",
       "country": "US",
@@ -1190,26 +1212,48 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8cf4e55b02be84ac/6aa41d1ff4f5704c3b28690b/bees-Trevor_Srednick-GettyImages-2204460367.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "id": "2c66a93007dd1e9ce722c615b567fa5b00944175",
-      "title": "Indonesia Hit by Android Banking App-Cloning Campaign",
-      "url": "https://www.darkreading.com/mobile-security/indonesia-android-banking-app-cloning-campaign",
-      "published": "2026-09-11T01:00:00+00:00",
-      "summary": "The GoldFactory threat group exploits the Android Work Profile feature to deliver the Gigabud Trojan, while Mantax Otax spreads separately.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltaf1f330952367016/6aa3075b6e51441d4542eee8/indonesia_flag-peng_song-GettyImages-1371211038.jpg?width=720&quality=80&disable=upscale"
+      "id": "8f8a3d149aa4c44a9ff86b27315585b1ab5b7a52",
+      "title": "Fake Google Security Team ad says 'no script reading' in voice phishing - then prints the script",
+      "url": "https://www.theregister.com/security/2026/09/25/fake-google-security-team-ad-says-no-script-reading-in-voice-phishing-then-prints-the-script/5299264",
+      "published": "2026-09-25T19:13:20+00:00",
+      "summary": "More mockery and memes from the Dark Web Roast",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=254809&width=800"
     },
     {
-      "id": "b0193944a26cf0dddbb186a5fdbef72cb14b120d",
-      "title": "Voice Callers Exploit BYOD to Reach Microsoft 365, Corporate Data",
-      "url": "https://www.darkreading.com/threat-intelligence/voice-callers-exploit-byod-microsoft-365-corporate-data",
-      "published": "2026-09-10T20:36:03+00:00",
-      "summary": "Threat actors are leveraging Microsoft's Graph API to identify lucrative targets, then passing their access to extortion groups like ShinyHunters.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte683970072b53815/6aa308b0b1def869502ac7be/Phone_passcode-Tero_Vesalainen-Getty.jpg?width=720&quality=80&disable=upscale"
+      "id": "bb5970b0a45b68cb96a646e6e7abf6d3e6c3da5b",
+      "title": "ShinyHunters tells The Reg: We hacked the FBI to 'protect our business'",
+      "url": "https://www.theregister.com/cyber-crime/2026/09/25/shinyhunters-tells-the-reg-we-hacked-the-fbi-to-protect-our-business/5299250",
+      "published": "2026-09-25T18:23:31+00:00",
+      "summary": "Data theft and extortion biz, that is",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=5254486&width=800"
+    },
+    {
+      "id": "45eb4dd8f10771a93c14dc262b597b63ec69cdbd",
+      "title": "Crooks use fake desktop apps to fool HR staff into giving them remote access",
+      "url": "https://www.theregister.com/security/2026/09/25/crooks-use-fake-desktop-apps-to-fool-hr-staff-into-giving-them-remote-access/5299226",
+      "published": "2026-09-25T17:29:54+00:00",
+      "summary": "Nothing in the attack chain screams malicious software, except none of the impersonated HR and payroll providers actually offers a desktop app",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=262302&width=800"
+    },
+    {
+      "id": "449ec06352ad4d52e1fae263d0b72416f92d25e6",
+      "title": "Bitget blames North Korea for $387.5M crypto wallet raid",
+      "url": "https://www.theregister.com/cyber-crime/2026/09/25/bitget-blames-north-korea-for-3875m-crypto-wallet-raid/5299218",
+      "published": "2026-09-25T17:04:07+00:00",
+      "summary": "Familiar fingerprints point to Kim\u2019s regime \u2026 to the surprise of nobody",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=239887&width=800"
     },
     {
       "id": "66f769af49533192617cac754c91c7b6859fc40a",
@@ -1718,48 +1762,15 @@
       "image": "https://image.theregister.com/?imageId=5224613&width=800"
     },
     {
-      "id": "1c819a001b237acd3e449763bf4c5f990136a355",
-      "title": "Cisco email security boxes can be rooted by... an email",
-      "url": "https://www.theregister.com/security/2026/09/15/cisco-email-security-boxes-can-be-rooted-by-an-email/5296604",
-      "published": "2026-09-15T16:01:00+00:00",
-      "summary": "Attackers already exploiting the critical flaw, and Cisco warns they may be able to cover their tracks once they're in",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=260832&width=800"
-    },
-    {
-      "id": "5a0300c8bb877c099aeed18ea470feccdc7cc597",
-      "title": "Who's governing your AI? A trust framework for enterprise agents and models",
-      "url": "https://www.theregister.com/security/2026/09/15/sponsored-whos-governing-your-ai-a-trust-framework-for-enterprise-agents-and-models/5294237",
-      "published": "2026-09-15T15:00:00+00:00",
-      "summary": "SPONSORED FEATURE: DigiCert wants to hand every agent a passport, complete with an expiry date and a named human owner",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=5294250&width=800"
-    },
-    {
-      "id": "c67bfaf153cae712f7d38f53c55be98143cbb3bf",
-      "title": "Swiss court sentences 52-year-old Ukrainian ransomware dev to nearly 13 years in the cooler",
-      "url": "https://www.theregister.com/security/2026/09/15/swiss-court-sentences-52-year-old-ukrainian-ransomware-dev-to-nearly-13-years-in-the-cooler/5296482",
-      "published": "2026-09-15T13:32:00+00:00",
-      "summary": "The man allegedly wrote the code that powered the Lockergoga, MegaCortex, and Nefilim operations",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=5252924&width=800"
-    },
-    {
-      "id": "bc479d98fe091006f9d26d85d280b86d0f98cba8",
-      "title": "The latest AI doomsayer is China\u2019s intelligence boss",
-      "url": "https://www.theregister.com/ai-and-ml/2026/09/15/the-latest-ai-doomsayer-is-chinas-intelligence-boss/5296451",
-      "published": "2026-09-15T04:56:09+00:00",
-      "summary": "Beijing\u2019s response is to \u2018firmly grasp technological sovereignty\u2019 and broad regulations",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=260439&width=800"
+      "id": "42d7d50a9109dcecf519edd256383b953834ae14",
+      "title": "U.S. Soldier Gets 70 Months in Prison for AT&T, Verizon Extortions",
+      "url": "https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/",
+      "published": "2026-09-25T21:44:40+00:00",
+      "summary": "A U.S. Army soldier who pleaded guilty to hacking into multiple telecommunications companies and stealing mobile call and text metadata for more than 100 million AT&#038;T customers in 2024 was sentenced to 70 months in federal prison today and ordered to pay nearly $300,000 in restitution to victims.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
       "id": "d653533745a68c07326b20879bec2304c0013a6a",
