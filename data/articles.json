@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T02:01:45.842199+00:00",
+  "generated_at": "2026-09-27T15:51:47.438916+00:00",
   "items": [
     {
       "id": "2544d0e54d5df617e416c6baa6aa7478ae8d295a",
@@ -110,6 +110,17 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "1e3a7f249c71b49d684c53f5369dd678620654fd",
+      "title": "Warning: Two Unpatched Citrix NetScaler RCE Zero-Days Under Active Exploitation",
+      "url": "https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html",
+      "published": "2026-09-27T07:47:57+00:00",
+      "summary": "Two new unpatched zero-day vulnerabilities in Citrix NetScaler ADC and NetScaler Gateway appliances that allow remote code execution are being actively exploited in the wild, security firm watchTowr said on September 26.\n\nCitrix has not confirmed the flaws or published a fix. Some administrators say they have taken appliances offline rather than wait for one to be available.\n\nNetScaler ADC and",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrnnWi_EE_zogEngdPWZDYXQTXqcArqvXtXYDj7_yLDzfVamEw9Nx7taRyM1SQf8-78qtxnt3nhNzcn36WnzYwZvFDQNvglCilw0Ltb4NjVkjjC8GH2nOUTnxIBPvRn8JVPcXJaidmbU0A6z-1RiX_OKgcpkzvL6xV7aM_YpQj6XdYIfalQH3h6o3b7pQ/s1600/citrix-zero-day.jpg"
     },
     {
       "id": "d0389279f56227f3aa2cc930c8000964f6bfcf8c",
@@ -649,17 +660,6 @@
       "region": "North America",
       "country": "US",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVXTuBFDgZyaNFTznwdu5HXSKuVHU5xpM7JDvXP_Ra-68CsYd68bb6xMWPXbjmsM5oO211hZgzIN0NENk_cMBZZpL88LMsIaNkfSEpIWRRzyjRt7Ke6ZMeUXvIKcH3ncgDouKN8FGuunAFQFMolel0GgTBm1lzdVDH28WpWFUCI4Fvl9ju0q4Vv0S55PVx/s1600/word-school.jpg"
-    },
-    {
-      "id": "29d5f15551dff7ef99b6df2a0229456b495db45a",
-      "title": "One Hidden Meta Muse Setting Could Let Attackers Turn the AI Assistant Into a Backdoor",
-      "url": "https://thehackernews.com/2026/09/one-hidden-meta-muse-setting-could-let.html",
-      "published": "2026-09-22T06:33:57+00:00",
-      "summary": "Malware already running on a Mac can quietly take over Meta's Muse assistant and use the broad access its owner granted the app, security researcher Patrick Wardle has shown in a&nbsp;proof-of-concept&nbsp;released on September 21.\n\nIt works by changing a hidden setting so that when the user taps the microphone and dictates a prompt, the words go to the attacker instead of Meta.\n\nThe flaw is in",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjZLVTtI-AEbGRQqJ7aGa0tbXedD5L6P7VCEKIOGXOBZe7S3mhA-PnoHVEoZf3LBMzhcZSIX5sCTveGyZ-8qAqyAVaMXfEoxPL70OIESq-Iolqjkv8GuDjcVs1Jgh3k3SoOOGPDWFr6Lmk83avLqG1whcaiDclv5waXYhCuEqXk569wfwV8Ilrmvv3IKE/s1600/muse.jpg"
     },
     {
       "id": "4e93802753c25b609a4980abf8da770969344f84",
@@ -1806,6 +1806,17 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "7219d26ae079e0f408204563bb4eb996cb45a5d1",
+      "title": "Microsoft SharePoint Flaw CVE-2026-65660 Now Exploited in Attacks",
+      "url": "https://www.securityweek.com/microsoft-sharepoint-flaw-cve-2026-65660-now-exploited-in-attacks/",
+      "published": "2026-09-27T09:23:09+00:00",
+      "summary": "<p>CISA added CVE-2026-65660 to its KEV catalog, giving federal agencies a patching deadline of September 28.</p>\n<p>The post <a href=\"https://www.securityweek.com/microsoft-sharepoint-flaw-cve-2026-65660-now-exploited-in-attacks/\">Microsoft SharePoint Flaw CVE-2026-65660 Now Exploited in Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "24bae0f5520c72422a557cc4ebabcf2a39e25d8c",
       "title": "China and US Agree to Establish AI Safety Channel and Continue Trade and Military Talks",
       "url": "https://www.securityweek.com/china-and-us-agree-to-establish-ai-safety-channel-and-continue-trade-and-military-talks/",
@@ -1899,17 +1910,6 @@
       "url": "https://www.securityweek.com/salesbleed-flaws-in-salesforce-agentforce-enabled-zero-click-data-exfiltration/",
       "published": "2026-09-25T09:27:51+00:00",
       "summary": "<p>Three vulnerabilities in Salesforce Agentforce allowed hackers to hijack trusted agents, steal data, and launch phishing attacks.</p>\n<p>The post <a href=\"https://www.securityweek.com/salesbleed-flaws-in-salesforce-agentforce-enabled-zero-click-data-exfiltration/\">&#8216;SalesBleed&#8217; Flaws in Salesforce Agentforce Enabled Zero-Click Data Exfiltration</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "ac5e91c66b8353245937ddc01fe6ee89bfef4dfe",
-      "title": "Roundcube Webmail Vulnerability in Attackers\u2019 Crosshairs",
-      "url": "https://www.securityweek.com/roundcube-webmail-vulnerability-in-attackers-crosshairs/",
-      "published": "2026-09-25T06:57:40+00:00",
-      "summary": "<p>Tracked as CVE-2026-48842, the exploited bug is an SQL injection that can be exploited without authentication.</p>\n<p>The post <a href=\"https://www.securityweek.com/roundcube-webmail-vulnerability-in-attackers-crosshairs/\">Roundcube Webmail Vulnerability in Attackers\u2019 Crosshairs</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
