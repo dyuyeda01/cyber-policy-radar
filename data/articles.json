@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T15:51:47.438916+00:00",
+  "generated_at": "2026-09-28T02:06:46.659764+00:00",
   "items": [
     {
       "id": "2544d0e54d5df617e416c6baa6aa7478ae8d295a",
@@ -116,7 +116,7 @@
       "title": "Warning: Two Unpatched Citrix NetScaler RCE Zero-Days Under Active Exploitation",
       "url": "https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html",
       "published": "2026-09-27T07:47:57+00:00",
-      "summary": "Two new unpatched zero-day vulnerabilities in Citrix NetScaler ADC and NetScaler Gateway appliances that allow remote code execution are being actively exploited in the wild, security firm watchTowr said on September 26.\n\nCitrix has not confirmed the flaws or published a fix. Some administrators say they have taken appliances offline rather than wait for one to be available.\n\nNetScaler ADC and",
+      "summary": "Two critical vulnerabilities in Citrix NetScaler ADC and NetScaler Gateway that allow remote code execution have been exploited in the wild, Citrix confirmed on September 27. It released fixes for both, along with six other flaws. One of the two affects every deployment on an affected version, including those in the default configuration.\n\nThe bulletin came a day after security firm watchTowr",
       "source": "The Hacker News",
       "region": "North America",
       "country": "US",
@@ -662,6 +662,17 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVXTuBFDgZyaNFTznwdu5HXSKuVHU5xpM7JDvXP_Ra-68CsYd68bb6xMWPXbjmsM5oO211hZgzIN0NENk_cMBZZpL88LMsIaNkfSEpIWRRzyjRt7Ke6ZMeUXvIKcH3ncgDouKN8FGuunAFQFMolel0GgTBm1lzdVDH28WpWFUCI4Fvl9ju0q4Vv0S55PVx/s1600/word-school.jpg"
     },
     {
+      "id": "c6cd68893b5a59a52e2818c9bcff368b3ea30996",
+      "title": "How the CISO CFO Relationship is a Key to Cybersecurity Success",
+      "url": "https://www.darkreading.com/cyber-risk/how-to-manage-ciso-cfo-relationship-cybersecurity-success",
+      "published": "2026-09-25T20:28:10+00:00",
+      "summary": "Building a financial bridge: Organizations where CISOs and CFOs align on cybersecurity strategy to protect assets, manage risk and enable business growth are better prepared to face today's threat landscape.",
+      "source": "DarkReading",
+      "region": "North America",
+      "country": "US",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1682014f9a4fac6c/6762e3fbfe28e22e7d279cce/CFO_(1800)_Dzmitry_Skazau_Alamy.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
       "id": "4e93802753c25b609a4980abf8da770969344f84",
       "title": "AI Sandbox Escapes: Why Forensic Readiness Matters More Than Containment",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/ai-sandbox-escapes-forensic-readiness",
@@ -1199,17 +1210,6 @@
       "region": "North America",
       "country": "US",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8ddbf63a10c918d0/6aa43a1b4a5cb4f4c4b367ba/AI_governance_-_DK_Studio_-_Getty-2285216695.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "id": "88dd12e21e1357f900cbe062496cf236d49e52f0",
-      "title": "Papercut AI Swarm Attack Heralds Changes for Cyber Kill Chain",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/papercut-ai-swarm-attack-cyber-kill-chain",
-      "published": "2026-09-11T15:48:27+00:00",
-      "summary": "From creating lab environments for staging and testing agentic attacks to reconnaissance to lateral movement and exfiltration, the most innovative attackers are widely incorporating AI.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8cf4e55b02be84ac/6aa41d1ff4f5704c3b28690b/bees-Trevor_Srednick-GettyImages-2204460367.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "id": "8f8a3d149aa4c44a9ff86b27315585b1ab5b7a52",
