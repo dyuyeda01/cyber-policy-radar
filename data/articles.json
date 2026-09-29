@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T18:48:34.845414+00:00",
+  "generated_at": "2026-09-29T02:53:02.161627+00:00",
   "items": [
     {
       "id": "0d403d86d29f36ca20574bb3ea76e6540d2c982a",
@@ -110,6 +110,28 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "cbf3cfa45f59f9f59520b5f3d07b7bc75beb5cfa",
+      "title": "Apple Patches CoreGraphics Flaw Possibly Exploited in Targeted Attacks",
+      "url": "https://thehackernews.com/2026/09/apple-patches-coregraphics-flaw.html",
+      "published": "2026-09-28T19:18:01+00:00",
+      "summary": "Apple has released security updates to address a vulnerability in older versions of iOS, iPadOS, and macOS that it said may have been exploited in targeted attacks.\n\nThe vulnerability, tracked as CVE-2026-86950, refers to an out-of-bounds write impacting the CoreGraphics component that could lead to arbitrary code execution when processing a maliciously crafted file.\n\nThe iPhone maker said the",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhO5I5gnKOqAs0ZCjgQnQirUHdSjRqGZRMp-Fioy684EzZWuQm72wSrCW1hWZEYlvvOXoCtkQyr3sB48AoZ71PM6tMCsz_AGZmEYZz8u2AbrH1gpjutU-mFtDQpuJcI_pKEG9q4-cZEo7T3Yp7hyphenhyphen4_MCZvloRnVKszE7rjTDUKZBaH1eQ47-K0fPno50T3S/s1600/apple-0day.jpg"
+    },
+    {
+      "id": "e7f8e7a928b1f9222f28e79c25b416c1d6339fb3",
+      "title": "Hackers Use NeedyMantis to Maintain Long-Term Access in Breached Networks",
+      "url": "https://thehackernews.com/2026/09/hackers-use-needymantis-to-maintain.html",
+      "published": "2026-09-28T18:35:42+00:00",
+      "summary": "Hackers have used a malware family called NeedyMantis to maintain long-term access to networks they had already breached, Microsoft said in&nbsp;a technical analysis.\n\nThe malware has been seen in a small number of targeted intrusions at telecommunications organizations, universities, medical nonprofits, intergovernmental organizations, and government contractors. Its use goes back to at least",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJgqNtFBBtX_6em5nY1VC9Q4M6HMG7gzxiQspFHsQRfQgm3LK5kTsHi-9SbwEx8kaeVv7BtKGFq3u1SmTGFEOe0z78fxFCxRFVEb09v0FMZ5tT-FNl7sUBnsGPPpDlAaQh4E_CSQQnwFakxNll2AvKiBvidb9ljEatmOzdJV4T4z8r5lmYG3DINHy-wR0/s1600/hackers.jpg"
     },
     {
       "id": "953a9269e98f5345bad168500d6728f1804e4d13",
@@ -640,26 +662,37 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikMlDL6W0FZvq8_gscr2M3UZIVnCYorB-Ip2G6To6-eZ04gFyOMsf-mvbqtMkYv484O3XnKhzySe0-UQjCOMm99fUhzrpkMD-QaZkn2UIUozJ5hLwrm7kXgLkODdkUUJk4GFXEkgrg7MlXKzcQ7kKtug2RmT80RROQfVRbQQm3HdeHBzAzhAjQ9bUf5eaT/s1600/twilio.jpg"
     },
     {
-      "id": "f069687e4a1d7fdbdacddbe1843bebf33db307ba",
-      "title": "Microsoft Takes Down EvilTokens Device-Code Phishing Service Tied to 12,000 Inbox Compromises",
-      "url": "https://thehackernews.com/2026/09/microsoft-takes-down-eviltokens-device.html",
-      "published": "2026-09-22T17:03:31+00:00",
-      "summary": "Microsoft on Tuesday announced the takedown of the EvilTokens device code phishing service that it said used artificial intelligence (AI) \"at every step of the attack chain.\"\n\nThe action, carried out with authorization from the U.S. District Court for the Eastern District of Virginia, involved the efforts of Health-ISAC, alongside Cloudflare, Coinbase, OpenAI, Railway, SpyCloud, The Shadowserver",
-      "source": "The Hacker News",
+      "id": "af90707fd724ed58cd0be85dfba7c8b9986c49fe",
+      "title": "One Packet Can Crash OT Servers in Industrial Sectors",
+      "url": "https://www.darkreading.com/ics-ot-security/one-packet-crash-servers-tdengine",
+      "published": "2026-09-28T21:13:04+00:00",
+      "summary": "A high-severity zero-day vulnerability affects the TDengine time-series database used across industrial, IoT, energy, and automotive environments.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyLwFD0zZ8OEPo1dkZ0Tz87aOYoCklNQODjV4MMj90RNo6hRh9rGuJmFQBx5igj0gT1CabBEkSERWh7w_VdfZWpfs6BaJmEMc0KN9nIJXtxpYUINf1alSW9K2whcD9MXF4CaCWAKLJRJQlI51aqGtdpbpbdiX7WjpjTUxDvNgb0gc4qtmuZLat8-lGSFhu/s1600/ms-eviltokens.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1a4e2e84866c963b/6abad9206f2a1229af4c529c/bugconcept_Elena_Abrazhevich_shutterstock_REVISED_FOR_16_BY_9.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "id": "375f4910d184ba60e89e23509b9575c063bcf873",
-      "title": "Critical Bifrost AI Gateway Flaw Lets Attackers Run Commands Without Credentials",
-      "url": "https://thehackernews.com/2026/09/critical-bifrost-ai-gateway-flaw-lets.html",
-      "published": "2026-09-22T16:41:12+00:00",
-      "summary": "A critical vulnerability in&nbsp;Bifrost, an open-source AI gateway that routes requests to more than 20 LLM providers, allows an unauthenticated attacker to run arbitrary commands on the gateway server with a single HTTP request.\n\nThe flaw, tracked as&nbsp;CVE-2026-90898&nbsp;(CVSS score: 9.8), affects all versions of the Bifrost HTTP transport before 2.1.0 when management authentication is",
-      "source": "The Hacker News",
+      "id": "13e059bb849e027febf65560f6b77cb5b4ab8fe4",
+      "title": "Carbonato Botnet Puts an AI Agent on Hacked Docker Hosts",
+      "url": "https://www.darkreading.com/identity-access-management-security/carbonato-botnet-ai-agent-hacked-docker-hosts",
+      "published": "2026-09-28T20:23:58+00:00",
+      "summary": "The botnet uses the open source Hermes Agent AI framework to execute commands via Telegram and steal AI API keys from exposed Docker hosts.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieRvfWKvxkIOajVIJ1qC7l54ZBCtHMwZTfUHGqSZ_35vGzAl23py6GfaqrxYkcfWZ_K75t9BGC6btqJQiS9jwaV7O4kJsCSIIQxmn9VnZrBbdjxSN4AzQ05K9G-ES82qV1G6IUcsBetsb0mVO5e5IHTr2FyAA3gtCN8Vne5N1H5Swgd2FLLlwi0GXFQ0o/s1600/bifrost.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte42c5730d22cf0f1/6abab79a8ce025f8ce48d849/botnet_cyber_attack-Hengki_Lestio-GettyImages-2232351432.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "id": "7df979e3443dc6ced51e8bc6cfb8de8cd9744aef",
+      "title": "AI Agents Are Privileged Users; Who Is Auditing Their Access?",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/ai-agents-are-privileged-users-who-is-auditing-their-access",
+      "published": "2026-09-28T18:44:22+00:00",
+      "summary": "Enterprises regularly rigorously monitor human employees, while autonomous AI agents quietly operate with broad privileges that could turn them into the next generation of insider threats.",
+      "source": "DarkReading",
+      "region": "North America",
+      "country": "US",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6c9f5fa659c439fa/6abab77dfee74bb9c8c001cc/AI_agent-MF3d-Getty-2217030312.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "id": "2a1fced464bdfccbe1e1f32f2eb6fe37431edad3",
@@ -1179,37 +1212,26 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltdc1ceecd5c1e4406/6aa7f8ab9253248bcbbd9bdb/AI_agent_concept_Brain_light_Alamy.png?width=720&quality=80&disable=upscale"
     },
     {
-      "id": "8fa80bf670d987c24fd6311519084fb8c741b362",
-      "title": "Threat Actor Generates 1M Personalized Fraud Emails in 3 Days",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/1m-personalized-fraud-emails-3-days",
-      "published": "2026-09-11T19:21:08+00:00",
-      "summary": "Cybercriminals behind malicious email campaigns no longer have to compromise volume for credibility, or vice versa, thanks to AI.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta544980c27f53cb0/6aa439f3f857854e31bd9c8a/Email_trap-sesame-Getty.jpg?width=720&quality=80&disable=upscale"
+      "id": "9781d3f6a1487e869f7febe027bc480d9ae70ff6",
+      "title": "OpenAI\u2019s dirty deeds Down Under included security bypass attempts, using exposed keys, source code siphon",
+      "url": "https://www.theregister.com/ai-and-ml/2026/09/29/openais-dirty-deeds-down-under-included-security-bypass-attempts-using-exposed-keys-source-code-siphon/5299666",
+      "published": "2026-09-29T02:13:51+00:00",
+      "summary": "Admits its agents side-swiped four Australian government sites",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=5299671&width=800"
     },
     {
-      "id": "64db0bc26970ef81c5c43b47df0412d371faa073",
-      "title": "CISA Calls for More Guidance, Less Spin, as Cyber Outages Escalate",
-      "url": "https://www.darkreading.com/cyber-risk/cisa-calls-for-more-guidance-less-spin-as-cyber-outages-escalate",
-      "published": "2026-09-11T18:44:03+00:00",
-      "summary": "A new joint government advisory signals a regulatory shift, pressing organizations to adopt more transparent breach notification and incident response protocols.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8adea69aa40a4f52/6aa3151ad2a293fb0a02efea/GettyImages-2220810557.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "id": "85482e88fba7a99786cdced189263ee404e891a8",
-      "title": "SpiderSilk Hunts External Threats With AI-Based Scanner",
-      "url": "https://www.darkreading.com/endpoint-security/spidersilk-hunts-external-threats-ai-scanning",
-      "published": "2026-09-11T18:27:28+00:00",
-      "summary": "The Dubai-based threat detection startup uses artificial intelligence tools to scan billions of IP addresses to find exposed assets, leaked data, and zero-day vulnerabilities.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2d987d8e587258e4/67891f726d4ecea6eb99f63d/Threat_detection_(1800)_Luis_Moreira_Alamy.jpg?width=720&quality=80&disable=upscale"
+      "id": "97d48c50ae789aeaffb074249418fcdafd73ab90",
+      "title": "JadePuffer crims hijacked Azure identities and used them to blow up cloud resources",
+      "url": "https://www.theregister.com/security/2026/09/28/jadepuffer-crims-hijacked-azure-identities-and-used-them-to-blow-up-cloud-resources/5299591",
+      "published": "2026-09-28T20:30:00+00:00",
+      "summary": "Smells like more agentic ransomware, Redmond warns",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=5299599&width=800"
     },
     {
       "id": "c9ff27758a779fdaac2642719958d4faea39375a",
@@ -1740,26 +1762,59 @@
       "image": "https://image.theregister.com/?imageId=231135&width=800"
     },
     {
-      "id": "ddb1001780295b330b3c43711f7a06e4c13a45f4",
-      "title": "Ministry of Justice apologizes after court staff accessed Southport victims' files",
-      "url": "https://www.theregister.com/security/2026/09/16/ministry-of-justice-apologizes-after-court-staff-accessed-southport-victims-files/5296808",
-      "published": "2026-09-16T10:42:28+00:00",
-      "summary": "Sensitive personal data was involved, but there is no evidence it was shared with third parties",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=254837&width=800"
+      "id": "9eea57edb89b54636f2899fac15a9de383674e26",
+      "title": "Dutch Police Arrest \u2018Reformed\u2019 Hacker in Shiny Hunters Investigation",
+      "url": "https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/",
+      "published": "2026-09-28T15:08:57+00:00",
+      "summary": "Authorities in the Netherlands have arrested a 23-year-old convicted cybercriminal on suspicion of aiding in data thefts and extortions by the prolific hacker group ShinyHunters. In the days immediately following the suspect's arrest, remaining ShinyHunters members dramatically escalated their attacks, stealing highly sensitive data from the FBI and extorting the Russian ransomware group Cl0p.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "f841d0174bc8a6f870e4025320a697961e85d3fd",
-      "title": "Mythos has made 2026 patching hell. It might make 2027 a breeze",
-      "url": "https://www.theregister.com/security/2026/09/16/mythos-has-made-2026-patching-hell-it-might-make-2027-a-breeze/5296747",
-      "published": "2026-09-16T05:54:47+00:00",
-      "summary": "Gartner sees huge amounts of technical debt paid down, and better scanning that could make software safer sooner",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=4093186&width=800"
+      "id": "42d7d50a9109dcecf519edd256383b953834ae14",
+      "title": "U.S. Soldier Gets 70 Months in Prison for AT&T, Verizon Extortions",
+      "url": "https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/",
+      "published": "2026-09-25T21:44:40+00:00",
+      "summary": "A U.S. Army soldier who pleaded guilty to hacking into multiple telecommunications companies and stealing mobile call and text metadata for more than 100 million AT&#038;T customers in 2024 was sentenced to 70 months in federal prison today and ordered to pay nearly $300,000 in restitution to victims.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "d653533745a68c07326b20879bec2304c0013a6a",
+      "title": "Data Broker Radaris Loses Domains in Privacy Fight",
+      "url": "https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/",
+      "published": "2026-09-16T18:14:22+00:00",
+      "summary": "The consumer data broker Radaris.com has long had a reputation for ignoring requests to remove personal information from its vast empire of people-search services online. That reputation caught up with the company recently in a lawsuit alleging Radaris violated a New Jersey privacy law that provides for hefty fines against data brokers that publish personal information on state law enforcement officials. In the face of repeated stonewalling and prevarication by attorneys for Radaris, the judge in the case ordered that radaris.com and more than a dozen other data broker domains be transferred to the plaintiffs.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "c7e7ad60970c4251994034154a557f7aa3598a8b",
+      "title": "Microsoft Plugs Nearly 1,000 Security Holes",
+      "url": "https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/",
+      "published": "2026-09-08T21:44:22+00:00",
+      "summary": "Microsoft Corp. today issued updates to plug at least 974 security holes in its Windows operating systems and other software, by far its biggest single patch batch ever. Microsoft says artificial intelligence is helping to speed the discovery of vulnerabilities, but security experts warn that many organizations already are struggling to prioritize the more human-intensive endeavor of testing and deploying so many fixes each month.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "a0aed382f4580bb83c67a171e9aa47301f6d1cd6",
+      "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
+      "url": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
+      "published": "2026-09-01T22:40:28+00:00",
+      "summary": "A new identity theft service launched on the dark web this week is selling digital scans of more than 153 million drivers licenses from people in the United States and Canada. Based on interviews with individuals whose licenses are available for purchase on this service, it appears to be siphoning images collected by a widely-used identity verification company based in Louisiana. KrebsOnSecurity also has learned that the New Orleans field office of the Federal Bureau of Investigation (FBI) today launched an official inquiry into the source of the images.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
       "id": "b1e3e519f863ae0a32c06f0864dd3ca8af3044ad",
