@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T17:05:17.503948+00:00",
+  "generated_at": "2026-09-30T02:34:32.403250+00:00",
   "items": [
     {
       "id": "bdcfddaf0487aaa4ad7afd58503ee78f52b1c6b8",
@@ -110,6 +110,39 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "d6d690a45d2cd808509e80e8c77574340f0e9181",
+      "title": "French Tax Data Theft Using Stolen Staff Passwords Went Undetected for Seven Weeks",
+      "url": "https://thehackernews.com/2026/09/french-tax-data-theft-using-stolen.html",
+      "published": "2026-09-29T17:47:01+00:00",
+      "summary": "An attacker used stolen passwords of staff at France's tax administration to take tax data on hundreds of thousands of taxpayers and businesses in June and July.\n\nNeither the tax administration nor France's national cybersecurity agency saw the data leave. The attack was not sophisticated, the agency, ANSSI, says in a&nbsp;report&nbsp;(in French) published on Tuesday: it worked because of weak",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9h550xeoGqzMnMqY6B6Ejo9xeSvbx4fnnu1OmLWvhYAvYeLNB1zeik8F8yYB82oW685qieusoRaI27P68ugA34Vg0720ZZdLfQUJtuIjxkUYRgq_hQtivtsopRYYoddpwb4mICLERqQrVKtZv5EHg78rU14dlQmgevB0KsOR0ePvG4E8cpqKB1TyliaE/s1600/france.jpg"
+    },
+    {
+      "id": "47cf7b5d49a9d48747bf353aac03665341877bf2",
+      "title": "New Spectre-v2 BTR Attack Leaks Linux Memory Despite Existing Defenses",
+      "url": "https://thehackernews.com/2026/09/new-spectre-v2-btr-attack-leaks-linux.html",
+      "published": "2026-09-29T17:20:17+00:00",
+      "summary": "A group of academics from VUSec and Scuola Superiore Sant'Anna have disclosed details of a new Spectre CPU vulnerability variant that affects Just-In-Time (JIT) engines present in web browsers, language runtimes, and the operating system kernel, across multiple CPU vendors.\n\nThe new Spectre-v2 variant has been codenamed Branch Target Reuse (BTR).\n\n\"The key insight is that, while modern CPUs",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCNHT9zDz8oOamcA5EH8a3KGAtk9R9bE_UxGY_uPThgxZJu9vX-YG1olbgiX5WBVdwDd52LpDfSyryC6GZ45tUi2bKLe_aWnbj0Ir3WQZeGYF8Vr7U7icoPn4tcuwfpOZagVfry-KG5_jzLPb-fbPiFBlv142UOgqAPpC193t6BslvCE1l1XWo2z5_mFYV/s1600/linux-intel.jpg"
+    },
+    {
+      "id": "643a969864727d3f41c3e627575a5d53812b180d",
+      "title": "Russia's Star Blizzard Targets 100+ Organizations With Fake Event Invites to Deliver Backdoor",
+      "url": "https://thehackernews.com/2026/09/russias-star-blizzard-targets-100.html",
+      "published": "2026-09-29T17:20:08+00:00",
+      "summary": "Russian state hackers known as Star Blizzard have been using fake event invitations to trick people into installing a backdoor on their Windows computers,&nbsp;according to Microsoft.\n\nThe campaigns, aimed at people and organizations tied to Ukraine, have affected more than 100 organizations since January, mostly in the U.S. and U.K. At least one computer was infected, but the number of breached",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQDuuJUT-WU7XzUYYoKEDtFKt7QAra8I4G0ptQRyveku8G6fD6R0aSWw32hi-2fd0L28qUxjqJoTlQoJbLiBYH6NBOVYirQZ9LfH-UvD8JG5uiL_m4ZkBVnPLiArcivCsdMNegW1XGxFEzas4cwkzFVeY4r22qTqSp2U1Fo3Nw7urOlnWRKGFHW8pW91E/s1600/ms-invite.jpg"
     },
     {
       "id": "8da4536a08bc3da8516cff9bf26426fdb34e5619",
@@ -629,37 +662,37 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEio2c14ELRJEhvTuDrxQmhUG4G9aGoVRrooBMMfuK7LyHPKW6HuJbI9PkKF-WG_5HlEz8NKcuj08XRmv1jNqfBtiDwXmC7e9P9lxoSHK5nUz023YCgoLQuo0BI_9hX4U9Vv97bGJejb4W0jvgv_3btkfj6BWnXwalfyI3k34wveC6n3k47ZdoGq2P0Yaw0/s1600/main.png"
     },
     {
-      "id": "3c9fd6ef7413f1c4ce994a29796a999e5cdacfa0",
-      "title": "Anthropic and OpenAI Models Still Attempt Restricted Actions in Safety Tests",
-      "url": "https://thehackernews.com/2026/09/anthropic-and-openai-models-still.html",
-      "published": "2026-09-23T11:47:13+00:00",
-      "summary": "Anthropic and OpenAI on Tuesday announced new models, with both artificial intelligence (AI) companies noting that they are continuing to invest in improving alignment to combat risky behavior.\n\nOpus 5.5, per Anthropic, is a \"major step up from Opus 5,\" and \"achieves the best scores of any model to date on our automated behavioral audit, our alignment suite that tests Claude across thousands",
-      "source": "The Hacker News",
+      "id": "dad7f1e98924bb6931a3cf2f9124a20e07e76136",
+      "title": "Apple Zero-Day Vulnerability Weaponized in Targeted Attacks",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/apple-zero-day-vulnerability-weaponized-targeted-attacks",
+      "published": "2026-09-29T21:31:29+00:00",
+      "summary": "Attackers are exploiting CVE-2026-86950, an out-of-bounds write flaw, in an extremely sophisticated fashion, according to Apple.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_ytuRh_WTu4R3TBnroGXO6IUgATMIi9vgx8DA7j0JJ0e_cTfAjlUIS6zAjb2q9EPdTI8gLwby7r2fijYkH83j2SwisKf-ANFKr6YTdwAHeds99dYrng0QN3nmkqDtIvSHoK8m47e_V0x01B0PuzIezcqtnc2VZlUCVYErOkaKQF7pbk0l35uLwmTl8Is1/s1600/CLAUDE-CHATGPT.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd977dfac5d79a983/6abc2f1fdbde378922f45c35/apple_tetrisfun_shutterstock_REVISED_FOR_16_BY_9.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "id": "969ad1b26f390579fd92535817d9f6a61673d099",
-      "title": "Exploit Released for Unpatched Ubuntu Linux Flaw Enabling Host-Root Container Escape",
-      "url": "https://thehackernews.com/2026/09/exploit-released-for-unpatched-ubuntu.html",
-      "published": "2026-09-23T11:12:18+00:00",
-      "summary": "A use-after-free in the Linux kernel's AF_UNIX socket subsystem can be used to escape a container and gain root on the host, security firm DepthFirst&nbsp;said in research published September 22.\n\nThe flaw, tracked as&nbsp;CVE-2026-80521&nbsp;(CVSS score: 7.8), was fixed upstream on August 6, but Ubuntu has not shipped the patch for its 26.04, 24.04, or 22.04 LTS releases. DepthFirst&nbsp;",
-      "source": "The Hacker News",
+      "id": "af597f3c7c0de65ff1fce1658111df6d255b74d2",
+      "title": "Unsloth Studio Flaw Turns Routine Model Inspection Into Code Execution",
+      "url": "https://www.darkreading.com/application-security/unsloth-studio-flaw-model-inspection-code-execution",
+      "published": "2026-09-29T21:08:42+00:00",
+      "summary": "A patched Unsloth Studio vulnerability allows malicious AI models to execute arbitrary Python code during inspection, via the trust_remote_code setting.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZjw_aCdQxMfwTv_-KFLK5KRCd96MoivCQPTAZcAWJal5_84FgCny9Um8csMgDDqta40CUGMPDO14hdbUo9CRk-FMJwY70MsDfV25AC8VmL-8_yDO_UWHYXbmeJ9jZANptIeHqJX9axqzxxn68AHEj8zFhYbh8coIbxWAVC9XbtG9CjxMBpQqclG14QuM/s1600/linux.gif"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8798a931788fea60/6abc103774949935866a41da/sloth-webguzs-GettyImages-2249770137.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "id": "03b9753abd7a90e41ca71a267279d3f96b26d24f",
-      "title": "F5 Patches Critical BIG-IP APM Zero-Day Exploited for Unauthenticated RCE on OAuth Servers",
-      "url": "https://thehackernews.com/2026/09/f5-patches-critical-big-ip-apm-zero-day.html",
-      "published": "2026-09-23T08:29:48+00:00",
-      "summary": "Attackers are exploiting a critical flaw in F5 BIG-IP Access Policy Manager (APM) that lets them run code on a BIG-IP system without logging in, F5 says.\n\nThe flaw,&nbsp;CVE-2026-94127, affects only systems in which APM serves as an OAuth authorization server, issuing access tokens to applications. F5 disclosed it in&nbsp;an advisory&nbsp;on September 22 and has released engineering hotfixes.",
-      "source": "The Hacker News",
+      "id": "d66f32347a248d838cf5340a48a24cf1f36405f5",
+      "title": "Cloudflare Announces Public Certificate Authority for the Post-Quantum Web",
+      "url": "https://www.darkreading.com/cloud-security/cloudflare-announces-public-certificate-authority-post-quantum-web",
+      "published": "2026-09-29T17:02:16+00:00",
+      "summary": "Automated certificates for everyone, built for today, and hardened for the era of quantum computing.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_ZqCwuuKS7TqNWQ7GpeE07JLzHNn4Jdb2O6iQAlY34SiP2it2VwgmeVm5OjAzoAEHFQRVJENdDNGQL94ibPy1AiB9qkpNxZ3ILA89tYlwqm2OO9tEOH_BZ9HZzObw0nrzszQoKnaCQ-Q8ez5DPsnrKjq40qhm2tu_DhMSFunkVRsHeEIc0IA2NL-yZ5g/s1600/f5-zero-day.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?width=720&quality=80&disable=upscale"
     },
     {
       "id": "a0bdf7faf1b98eb816237832e3eb9d3f714d8b7b",
@@ -1179,37 +1212,37 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd024a0beb5b45fd6/6aa9b79b31811693de070eeb/dprk-rok-tech-security-QQMinh88-shutterstock.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "id": "693dfdf4ac9e52c551626666f6bc5c6749f1616a",
-      "title": "Microsoft Issues Emergency Fixes After Massive Patch Tuesday",
-      "url": "https://www.darkreading.com/application-security/microsoft-emergency-fixes-patch-tuesday",
-      "published": "2026-09-15T20:16:00+00:00",
-      "summary": "You can't make an omelet without breaking a few eggs, and you can't patch nearly 1,000 CVEs without a few glitches.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf29a4f8e7f31399c/6aa99ef8490d641d3386d500/patching-da-kuk-Getty-2219524542.jpg?width=720&quality=80&disable=upscale"
+      "id": "2e214347ffb20564cb344c5ad9d8d09112158396",
+      "title": "Add one more AI worry to the nightmare scenario: self-replicating prompt injections",
+      "url": "https://www.theregister.com/security/2026/09/29/add-one-more-ai-worry-to-the-nightmare-scenario-self-replicating-prompt-injections/5299922",
+      "published": "2026-09-29T21:34:39+00:00",
+      "summary": "It's a worm attack, AI-style",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=5299934&width=800"
     },
     {
-      "id": "3f06b0b072199eafb299b8bcebd3537d5376b0a0",
-      "title": "Black Hat USA 2026 | OpenAI's Deep Dive Into Hugging Face Incident",
-      "url": "https://www.darkreading.com/vulnerabilities-threats/bhusa26huggingfacetalk",
-      "published": "2026-09-15T19:27:19+00:00",
-      "summary": "At Black Hat USA, OpenAI engineers reconstruct the Hugging Face incident and explore lessons learned about AI safeguards and cyber resilience.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt886d5ec4d2c71007/6aa99c49ca8ea7e099dd4980/huggingfacescreenshot.png?width=720&quality=80&disable=upscale"
+      "id": "b513f59d09898c70f0767f250be22b1c0e62715f",
+      "title": "FBI to ShinyHunters: 'We know how to find you'",
+      "url": "https://www.theregister.com/security/2026/09/29/fbi-to-shinyhunters-we-know-how-to-find-you/5299901",
+      "published": "2026-09-29T19:38:33+00:00",
+      "summary": "Federal cops have 'a very particular set of skills'",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=256583&width=800"
     },
     {
-      "id": "44d4cd6479cb840a1a9ea92f7d7ff6a7ed0d3903",
-      "title": "VectraRAT Can Hack Windows Enterprises for $250 per Month",
-      "url": "https://www.darkreading.com/endpoint-security/vectrarat-hack-windows-enterprises",
-      "published": "2026-09-15T16:45:37+00:00",
-      "summary": "The full-service malware-as-a-service (MaaS) platform offers a Windows implant, command-and-control (C2) infrastructure, and an operator panel for comprehensive remote access.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltdd19a1ede5fda05d/6aa9273ab525586149ce55e2/rat-David_Chapman-Alamy.jpg?width=720&quality=80&disable=upscale"
+      "id": "82020db9c5642ec8832d11400f7ccc17a14ebfce",
+      "title": "Custom malware used in Citrix 0-day attacks targeting govt, banks, professional services",
+      "url": "https://www.theregister.com/security/2026/09/29/custom-malware-used-in-citrix-0-day-attacks-targeting-govt-banks-professional-services/5299867",
+      "published": "2026-09-29T17:49:45+00:00",
+      "summary": "Two questions remain: who is abusing the CVEs? And why did Citrix take so long to disclose?",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=228319&width=800"
     },
     {
       "id": "41ca03af674a1b4ad4a8124f7fc0cfd7c2d8b17a",
@@ -1729,39 +1762,6 @@
       "image": "https://image.theregister.com/?imageId=4094087&width=800"
     },
     {
-      "id": "a58825c13db176da0fd919f3d107eed469fb599f",
-      "title": "Cisco drops another exploited zero-day, this time a perfect 10",
-      "url": "https://www.theregister.com/security/2026/09/17/cisco-drops-another-exploited-zero-day-this-time-a-perfect-10/5297180",
-      "published": "2026-09-17T12:40:00+00:00",
-      "summary": "ISE authentication bypass under active attack just days after another Cisco zero-day sent admins scrambling to patch",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=5249134&width=800"
-    },
-    {
-      "id": "9321dd4ea95d7808048ebbf819ffdecb1a3bb233",
-      "title": "Test environment let anyone access live customer data",
-      "url": "https://www.theregister.com/security/2026/09/17/test-environment-let-anyone-access-live-customer-data/5296977",
-      "published": "2026-09-17T11:28:00+00:00",
-      "summary": "Even a temporary staging server needs to be locked down.",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=5296981&width=800"
-    },
-    {
-      "id": "3bf6be97e09ad8f94d76329b770121865fca796e",
-      "title": "Ofcom discovers issuing Online Safety Act fines is easier than collecting them",
-      "url": "https://www.theregister.com/security/2026/09/17/ofcom-discovers-issuing-online-safety-act-fines-is-easier-than-collecting-them/5297110",
-      "published": "2026-09-17T10:08:04+00:00",
-      "summary": "Platforms comply just enough to avoid being blocked, leaving the regulator chasing debt",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=5254826&width=800"
-    },
-    {
       "id": "9eea57edb89b54636f2899fac15a9de383674e26",
       "title": "Dutch Police Arrest \u2018Reformed\u2019 Hacker in Shiny Hunters Investigation",
       "url": "https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/",
@@ -1812,6 +1812,39 @@
       "published": "2026-09-01T22:40:28+00:00",
       "summary": "A new identity theft service launched on the dark web this week is selling digital scans of more than 153 million drivers licenses from people in the United States and Canada. Based on interviews with individuals whose licenses are available for purchase on this service, it appears to be siphoning images collected by a widely-used identity verification company based in Louisiana. KrebsOnSecurity also has learned that the New Orleans field office of the Federal Bureau of Investigation (FBI) today launched an official inquiry into the source of the images.",
       "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "ffcfe767e0d543cfa4cd36bb6b18271e3a16be0f",
+      "title": "Trump Says Top Tech Firms Have Signed Accord to \u2018Self-Police\u2019 AI Development",
+      "url": "https://www.securityweek.com/trump-says-top-tech-firms-have-signed-accord-to-self-police-ai-development/",
+      "published": "2026-09-30T01:48:21+00:00",
+      "summary": "<p>The accord opened the door to future regulation but focused on four voluntary steps for the companies to take.</p>\n<p>The post <a href=\"https://www.securityweek.com/trump-says-top-tech-firms-have-signed-accord-to-self-police-ai-development/\">Trump Says Top Tech Firms Have Signed Accord to \u2018Self-Police\u2019 AI Development</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "7b7f6019738814dc5232e67d2e3f7d25ccd968f7",
+      "title": "OpenAI CEO Announces New AI Agent and Avoids Mention of Security Concerns at Developer Conference",
+      "url": "https://www.securityweek.com/openai-ceo-announces-new-ai-agent-and-avoids-mention-of-security-concerns-at-developer-conference/",
+      "published": "2026-09-29T20:14:44+00:00",
+      "summary": "<p>Altman made a slew of product announcements and updates, including the company\u2019s new agents, called Dots.</p>\n<p>The post <a href=\"https://www.securityweek.com/openai-ceo-announces-new-ai-agent-and-avoids-mention-of-security-concerns-at-developer-conference/\">OpenAI CEO Announces New AI Agent and Avoids Mention of Security Concerns at Developer Conference</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "86fecb81e9472cb69a58a8518752d797b16d49ac",
+      "title": "DARPA Selects Xint to Use AI in Securing Military Messaging Apps",
+      "url": "https://www.securityweek.com/darpa-selects-xint-to-use-ai-in-securing-military-messaging-apps/",
+      "published": "2026-09-29T17:24:04+00:00",
+      "summary": "<p>The AIxCC competition winner will analyze messaging app code and compiled binaries for vulnerabilities, with technology that could also help commercial customers secure their software.</p>\n<p>The post <a href=\"https://www.securityweek.com/darpa-selects-xint-to-use-ai-in-securing-military-messaging-apps/\">DARPA Selects Xint to Use AI in Securing Military Messaging Apps</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
@@ -1888,39 +1921,6 @@
       "url": "https://www.securityweek.com/four-cyber-threats-harboring-big-plans-for-the-future/",
       "published": "2026-09-29T11:30:00+00:00",
       "summary": "<p>- AI, supply-chain exposure, quantum computing and geopolitical conflict are testing security programs. Preparing for disruption must become part of day-to-day operations.</p>\n<p>The post <a href=\"https://www.securityweek.com/four-cyber-threats-harboring-big-plans-for-the-future/\">Four Cyber Threats Harboring Big Plans for the Future</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "df6ae714ac6b8d66cbf39e8ac2ce56686e002a4d",
-      "title": "OpenAI Calls Off GPT-6.1 Astra Launch, Details Safety Cases for Frontier Training",
-      "url": "https://www.securityweek.com/openai-calls-off-gpt-6-1-astra-launch-details-safety-cases-for-frontier-training/",
-      "published": "2026-09-29T11:15:59+00:00",
-      "summary": "<p>The GPT-6.1 Astra model was slated to debut in ChatGPT and Codex in October, but it fell short of expectations.\u00a0</p>\n<p>The post <a href=\"https://www.securityweek.com/openai-calls-off-gpt-6-1-astra-launch-details-safety-cases-for-frontier-training/\">OpenAI Calls Off GPT-6.1 Astra Launch, Details Safety Cases for Frontier Training</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "a0b002018a1bda0d600d4d99083662cd2cd41430",
-      "title": "Dutch Police Arrest Convicted Hacker in ShinyHunters Investigation",
-      "url": "https://www.securityweek.com/dutch-police-arrest-convicted-hacker-in-shinyhunters-investigation/",
-      "published": "2026-09-29T11:01:55+00:00",
-      "summary": "<p>Pepijn van der Stap was convicted in 2023 for hacking multiple organizations, stealing their data, and extorting them.</p>\n<p>The post <a href=\"https://www.securityweek.com/dutch-police-arrest-convicted-hacker-in-shinyhunters-investigation/\">Dutch Police Arrest Convicted Hacker in ShinyHunters Investigation</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "8da6396aff77fbc5e1f2f0bb53b6e31241c5dc4a",
-      "title": "Daemon Tools Hackers\u2019 NeedyMantis Malware Dissected by Microsoft",
-      "url": "https://www.securityweek.com/daemon-tools-hackers-needymantis-malware-dissected-by-microsoft/",
-      "published": "2026-09-29T09:46:13+00:00",
-      "summary": "<p>The malware framework uses a modular architecture and a custom executable file format for long-term persistence.</p>\n<p>The post <a href=\"https://www.securityweek.com/daemon-tools-hackers-needymantis-malware-dissected-by-microsoft/\">Daemon Tools Hackers&#8217; NeedyMantis Malware Dissected by Microsoft</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
