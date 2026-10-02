@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T17:33:40.007642+00:00",
+  "generated_at": "2026-10-02T02:42:33.934987+00:00",
   "items": [
     {
       "id": "3db58366143ac472bbc0771039496fcb96e1a315",
@@ -662,6 +662,17 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0sz5D5hiSWYuUfbRDYDloMNzbx5dpvVQjC5ZVoYzIgvWL_Tkyx8AjNHjZ27RAwaPbCIQXNWB6o_FYzxjimFYHY2pHfp6m6b97tARxhdhqSHBkp2lYpfekwVLvUIm63ruwsHR7RlQkR-2jfOPELG2hjZrrYr9JYr4ndSfVaYIajhTpmB6Ud0DIXz1D_uI/s1600/soc-1.jpg"
     },
     {
+      "id": "4561eea13d9a7297aa056c3251455ec274a2bd5b",
+      "title": "Alleged KillSec Ransomware Mastermind a 16-Year-Old",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/killsec-ransomware-mastermind-16-year-old",
+      "published": "2026-10-01T21:37:50+00:00",
+      "summary": "Law enforcement from multiple countries collaborated to disrupt a cybercrime operation that has claimed some 500 victims worldwide in the past two years.",
+      "source": "DarkReading",
+      "region": "North America",
+      "country": "US",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte0fa3e38d4138a30/6abed0fa51ca57ceead99604/europol_PixelBiss_shutterstock_REVISED_FOR_16_BY_9.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
       "id": "e2a151d18cd7b98e65c731098f06ff2dca61898f",
       "title": "Warlock Ransomware Hits Large Spanish, Portuguese Orgs",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/warlock-ransomware-spanish-portuguese",
@@ -1201,15 +1212,15 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd2c0cfe5f9c4744c/6aac3ea5108059d6dac02186/Digital_trap-Moor_Studio-Getty.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "id": "c4d1050d54740e68b7d8c5df75ebb68bcdc9d798",
-      "title": "CISA Ditches Weekly Vulnerability Roundups for Risk-Based Focus",
-      "url": "https://www.darkreading.com/cyber-risk/cisa-ditches-weekly-vuln-roundups-risk-based-focus",
-      "published": "2026-09-17T21:23:50+00:00",
-      "summary": "The move is consistent with the agency's advice on the need for organizations to prioritize the vulnerabilities that actually matter.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltff913968a26e2946/6aac4af4108059de52c02196/cisa_Jack_the_sparow_shutterstock.jpg?width=720&quality=80&disable=upscale"
+      "id": "bcd5500bd1f124aba78df2ad9aecf2ff75be2611",
+      "title": "AI agents hacked the hackers, stealing email addresses from security research org",
+      "url": "https://www.theregister.com/security/2026/10/01/ai-agents-hacked-the-hackers-stealing-email-addresses-from-security-research-org/5300652",
+      "published": "2026-10-01T21:26:42+00:00",
+      "summary": "Chained Zammad flaws enabled session hijacking, code execution, and root escalation in seconds",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=5300669&width=800"
     },
     {
       "id": "cc88ec6ba785a38731eda0bc1a64f2240d97dd7a",
@@ -1751,67 +1762,12 @@
       "image": "https://image.theregister.com/?imageId=5297696&width=800"
     },
     {
-      "id": "4c094eabbf43bbae9533017c7cf3ecdc6abaaf06",
-      "title": "Anthropic-linked CVEs pile up, attackers mostly shrug",
-      "url": "https://www.theregister.com/security/2026/09/21/anthropic-linked-cves-pile-up-attackers-mostly-shrug/5298018",
-      "published": "2026-09-21T22:32:51+00:00",
-      "summary": "Of 225 flaws found by Glasswing and tracked by VulnCheck researcher, just one has confirmed exploitation in the wild",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=5298025&width=800"
-    },
-    {
-      "id": "9eea57edb89b54636f2899fac15a9de383674e26",
-      "title": "Dutch Police Arrest \u2018Reformed\u2019 Hacker in Shiny Hunters Investigation",
-      "url": "https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/",
-      "published": "2026-09-28T15:08:57+00:00",
-      "summary": "Authorities in the Netherlands have arrested a 23-year-old convicted cybercriminal on suspicion of aiding in data thefts and extortions by the prolific hacker group ShinyHunters. In the days immediately following the suspect's arrest, remaining ShinyHunters members dramatically escalated their attacks, stealing highly sensitive data from the FBI and extorting the Russian ransomware group Cl0p.",
-      "source": "Krebs on Security",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "42d7d50a9109dcecf519edd256383b953834ae14",
-      "title": "U.S. Soldier Gets 70 Months in Prison for AT&T, Verizon Extortions",
-      "url": "https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/",
-      "published": "2026-09-25T21:44:40+00:00",
-      "summary": "A U.S. Army soldier who pleaded guilty to hacking into multiple telecommunications companies and stealing mobile call and text metadata for more than 100 million AT&#038;T customers in 2024 was sentenced to 70 months in federal prison today and ordered to pay nearly $300,000 in restitution to victims.",
-      "source": "Krebs on Security",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "d653533745a68c07326b20879bec2304c0013a6a",
-      "title": "Data Broker Radaris Loses Domains in Privacy Fight",
-      "url": "https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/",
-      "published": "2026-09-16T18:14:22+00:00",
-      "summary": "The consumer data broker Radaris.com has long had a reputation for ignoring requests to remove personal information from its vast empire of people-search services online. That reputation caught up with the company recently in a lawsuit alleging Radaris violated a New Jersey privacy law that provides for hefty fines against data brokers that publish personal information on state law enforcement officials. In the face of repeated stonewalling and prevarication by attorneys for Radaris, the judge in the case ordered that radaris.com and more than a dozen other data broker domains be transferred to the plaintiffs.",
-      "source": "Krebs on Security",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "c7e7ad60970c4251994034154a557f7aa3598a8b",
-      "title": "Microsoft Plugs Nearly 1,000 Security Holes",
-      "url": "https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/",
-      "published": "2026-09-08T21:44:22+00:00",
-      "summary": "Microsoft Corp. today issued updates to plug at least 974 security holes in its Windows operating systems and other software, by far its biggest single patch batch ever. Microsoft says artificial intelligence is helping to speed the discovery of vulnerabilities, but security experts warn that many organizations already are struggling to prioritize the more human-intensive endeavor of testing and deploying so many fixes each month.",
-      "source": "Krebs on Security",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "a0aed382f4580bb83c67a171e9aa47301f6d1cd6",
-      "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
-      "url": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
-      "published": "2026-09-01T22:40:28+00:00",
-      "summary": "A new identity theft service launched on the dark web this week is selling digital scans of more than 153 million drivers licenses from people in the United States and Canada. Based on interviews with individuals whose licenses are available for purchase on this service, it appears to be siphoning images collected by a widely-used identity verification company based in Louisiana. KrebsOnSecurity also has learned that the New Orleans field office of the Federal Bureau of Investigation (FBI) today launched an official inquiry into the source of the images.",
-      "source": "Krebs on Security",
+      "id": "a83bccc6f3e0cc14e949be0da47463a70dac36ea",
+      "title": "Zero Trust Creator Says Model Holds Firm Against AI-Assisted Attacks",
+      "url": "https://www.securityweek.com/zero-trust-creator-says-model-holds-firm-against-ai-assisted-attacks/",
+      "published": "2026-10-01T18:00:00+00:00",
+      "summary": "<p>Fifteen years after coining the framework, John Kindervag insists zero trust still works in the AI era\u2014if you get the implementation right.</p>\n<p>The post <a href=\"https://www.securityweek.com/zero-trust-creator-says-model-holds-firm-against-ai-assisted-attacks/\">Zero Trust Creator Says Model Holds Firm Against AI-Assisted Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
@@ -1910,17 +1866,6 @@
       "url": "https://www.securityweek.com/zammad-zero-days-exploited-in-ai-powered-divd-hack/",
       "published": "2026-10-01T10:42:49+00:00",
       "summary": "<p>The flaws were chained to hijack sessions, achieve remote code execution, and elevate privileges to root.</p>\n<p>The post <a href=\"https://www.securityweek.com/zammad-zero-days-exploited-in-ai-powered-divd-hack/\">Zammad Zero-Days Exploited in AI-Powered DIVD Hack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "6d8e1764a229826dc7cce7ffffac15904580bac3",
-      "title": "500,000 Active Credentials Left Exposed on GitHub",
-      "url": "https://www.securityweek.com/500000-active-credentials-left-exposed-on-github/",
-      "published": "2026-10-01T09:43:56+00:00",
-      "summary": "<p>Roughly 200,000 of the credentials were exposed after GitHub enabled push protections by default.</p>\n<p>The post <a href=\"https://www.securityweek.com/500000-active-credentials-left-exposed-on-github/\">500,000 Active Credentials Left Exposed on GitHub</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
