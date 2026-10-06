@@ -1,12 +1,45 @@
 {
-  "generated_at": "2026-10-06T03:26:54.225422+00:00",
+  "generated_at": "2026-10-06T17:27:47.468747+00:00",
   "items": [
+    {
+      "id": "8abf3243c8ac3bf13868e2bfc1b88e2d1ff6c6a0",
+      "title": "IBM\u2019s AI-powered vulnerability clearinghouse finds hundreds of Java flaws",
+      "url": "https://www.cybersecuritydive.com/news/ibm-ai-vulnerability-java-lightwell/832249/",
+      "published": "2026-10-06T15:01:03+00:00",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/u7pKWJE1NFeSK5l1xUQlxagU5vz8T5wd9L-FmzOL4zU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjcyMTg1NzQ2LmpwZw==.webp\" /></div></figure><p>The tech giant&rsquo;s announcement underscores the insufficiency of companies&rsquo; existing software supply-chain security practices.</p>",
+      "source": "Cybersecurity Dive",
+      "region": "North America",
+      "country": "US",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "1452d3b591e55269ca1d2d2363dbea1178ed6e3a",
+      "title": "US cyber resilience, oversight tested in series of attacks",
+      "url": "https://www.cybersecuritydive.com/news/us-cyber-resilience-oversight-attacks/832235/",
+      "published": "2026-10-06T14:03:15+00:00",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/OOyh_9BN2cEGoO6oTxJxKxvx-a_qxjRHx5h1zdAz9SQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTk3MzY2OTA4LmpwZw==.webp\" /></div></figure><p>Attacks targeting key industrial sites and unforced errors among leading AI companies are raising alarm bells.</p>",
+      "source": "Cybersecurity Dive",
+      "region": "North America",
+      "country": "US",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
     {
       "id": "da0c0501624610719616c1716fa5279a3aa39b2b",
       "title": "Citrix issues patch for third exploited flaw in NetScaler",
       "url": "https://www.cybersecuritydive.com/news/citrix-patch-third-exploited-flaw-netscaler/832128/",
       "published": "2026-10-05T14:42:41+00:00",
       "summary": "<p>The memory overflow vulnerability could lead to a denial-of-service condition under certain circumstances.</p>",
+      "source": "Cybersecurity Dive",
+      "region": "North America",
+      "country": "US",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "58a81e7f660ffc508cf9e3802fead71cebde0cb2",
+      "title": "White House AI task force faces expertise, partnership challenges",
+      "url": "https://www.cybersecuritydive.com/news/white-house-ai-task-force-cybersecurity-partnerships-cisa/832129/",
+      "published": "2026-10-05T14:41:21+00:00",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/Wnhhm1Zk8pi1yQozgrpM6_H6Z0RXw5O7xY4qvTq6Kf8/g:nowe:0:0/c:3200:1807/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjI2NzA5NzMwXzBvTmUyQjYuanBn.webp\" /></div></figure><p>The Cybersecurity and Infrastructure Security Agency is nowhere to be seen in the government&rsquo;s latest AI security project.</p>",
       "source": "Cybersecurity Dive",
       "region": "North America",
       "country": "US",
@@ -79,37 +112,92 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "4509b3e2717c5697c35e4d484a73cb82679292e1",
-      "title": "Mass exploitation of Citrix NetScaler: What we currently know",
-      "url": "https://www.cybersecuritydive.com/news/exploitation-citrix-netscaler-what-we-know/831780/",
-      "published": "2026-09-30T15:25:34+00:00",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/Wu6MllyHCcqpkYpVC06C3r5ARF3yLV5PExdygpct02s/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzY3OTA1MjI0LmpwZw==.webp\" /></div></figure><p>Suspected state-linked actors targeted critical vulnerabilities in the widely used platform, causing widespread disruption across Europe and North America.</p>",
-      "source": "Cybersecurity Dive",
+      "id": "893051a996ecd889df4b893632e47b6bb32fcb7a",
+      "title": "LibreOffice and OpenOffice Flaws Let Malicious Spreadsheets Run Code Without Macro Warnings",
+      "url": "https://thehackernews.com/2026/10/libreoffice-and-openoffice-flaws-let.html",
+      "published": "2026-10-06T11:57:00+00:00",
+      "summary": "A malicious spreadsheet can make LibreOffice and Apache OpenOffice run an attacker's code as soon as the file is opened, security researchers have shown. There is no warning first, of the kind either program shows before it runs a macro.\n\nThe attack works only when the program's Java support is enabled. So far, it has only been shown as a proof of concept, and there are no reports of its use in",
+      "source": "The Hacker News",
       "region": "North America",
       "country": "US",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYVdFxWk-OP9_vpIdzp0S9ffqMNnyAMbRWKklSryVockcistDlpX5ZcfLGluaqpHqdsu_DoOaFq2J1z5jTVNatxS8aoQjMNS1PoEYOAZrj1V1Spdk67LUZgSlSPlqeEULSVSbHZfkCimWV56E2HKs_IUNrJaYFrPPq0YaXS2sEMBVZNJM0f2ydfUMFREw/s1600/office-sheet.jpg"
     },
     {
-      "id": "7746b432a396e41d67fdb296f51045ff81ebc9d6",
-      "title": "National cyber director defends private-sector hacking program, urges focus on security basics",
-      "url": "https://www.cybersecuritydive.com/news/oncd-white-house-sean-cairncross-regulation-deterrence-ai/831768/",
-      "published": "2026-09-30T15:21:00+00:00",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/PI0C9X-5YLPf33QDepaydX-F1XP1-NpMIfO3NtruHNA/g:nowe:0:396/c:3200:1807/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9QWExfMjAyNjA5MTBfMTIyNjI4MzM2LmpwZw==.webp\" /></div></figure><p>Letting businesses help the government deter cybercrime will benefit all Americans, Sean Cairncross said.</p>",
-      "source": "Cybersecurity Dive",
+      "id": "41accce2b318a748ef5cc660aa41c0f047a79e25",
+      "title": "Wikimedia Says OpenAI Agents Tried to Compromise Etherpad and Use Wiki Tools as Proxies",
+      "url": "https://thehackernews.com/2026/10/wikimedia-says-openai-agents-tried-to.html",
+      "published": "2026-10-06T11:26:25+00:00",
+      "summary": "The Wikimedia Foundation, which hosts Wikipedia, has confirmed that it has discovered activity by rogue OpenAI agents on its platforms, including unsuccessful efforts to compromise Etherpad, a public note-taking tool, and edit Wikipedia pages.\n\n\"The unauthorized bot activities included edits to our wikis, some unsuccessful attempts to exploit a public note-taking tool we host, and heavy traffic,",
+      "source": "The Hacker News",
       "region": "North America",
       "country": "US",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWN60cSxpzLhK9K0oXjbeGNCoMl79wSkfW1h7dVHHi3dQPeRx2QUvM9dNGF3qKELV9xwkn8N_FBHk0WgftQryFzkKWyEf0jGbPb6ffor00ZQQnVPSrSSWKDfL10Shpkm2Q_LRFb85BarRqvdDE8eIksiGSrRy6hk8CD2cGf4xIIALAbOZEfHWMHWc7LfhA/s1600/wiki.jpg"
     },
     {
-      "id": "bdcfddaf0487aaa4ad7afd58503ee78f52b1c6b8",
-      "title": "Citrix NetScaler exploitation began days before public notification",
-      "url": "https://www.cybersecuritydive.com/news/citrix-netscaler-exploitation-days-before-notification/831634/",
-      "published": "2026-09-29T15:06:19+00:00",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/HFBcZE697hnWVVsiq3ZzHgbWInQBGNsQAa7SGOd_36w/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzY3OTA1MjE3LmpwZw==.webp\" /></div></figure><p>Customers need to check systems for compromise prior to patching, because the security upgrade may not fully resolve an infected system.&nbsp;</p>",
-      "source": "Cybersecurity Dive",
+      "id": "a47789abd95458c6009e5b953bfaf452120be1e9",
+      "title": "Welcome to the Jungle: What We Found Inside 15,465 Public MCP Servers",
+      "url": "https://thehackernews.com/2026/10/welcome-to-jungle-what-we-found-inside.html",
+      "published": "2026-10-06T11:02:30+00:00",
+      "summary": "In 2024, MCP (Model Context Protocol) set out to become the USB-C of AI: one standard for connecting models, agents, and IDEs to tools and data. The protocol delivered. Thousands of developers built servers, and enterprises plugged them into agent workflows.\n\nThe ecosystem around it fell short. Earlier this year, our team at OX Security,&nbsp; traced critical vulnerabilities in Anthropic's MCP",
+      "source": "The Hacker News",
       "region": "North America",
       "country": "US",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd9ijWk9zlAlr4Ogzkb3OyeREM6GDYe0AZx5DQ-TmdUPN5ogFXFM0Z9Lh-qdG1CAIVdBX7cV7NSfgEk_yBtaTFCPdIjAo23ixCfHqa4j1m8FY2cRfmdcrd4GZNn-5QQScWonyO6GDRx6RA1ZRcuW9tAmCOFG9u7KQbWx3fftJ921w8rUqHx4ya_5CFuJM/s1600/ox.png.jpg"
+    },
+    {
+      "id": "32fa12f768afd40e582eafa0be46d05cb6dc20db",
+      "title": "Google Pauses OSS Product Bug Bounty Rewards After Surge in Invalid Automated Reports",
+      "url": "https://thehackernews.com/2026/10/google-pauses-oss-product-bug-bounty.html",
+      "published": "2026-10-06T09:21:47+00:00",
+      "summary": "Google has stopped accepting product vulnerability reports through its bug bounty program for its open-source software.\n\nThe change, in effect since October 1, means researchers can no longer submit security flaws in the code of projects such as Go, Angular, and Protocol Buffers there for a reward. Reports about supply chain compromises are still accepted, and reports filed before October 1 are",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCWoelMB7H9bFZJdDV7vP5M3a1ByvpHs8ub2SrBGOM1gz6r0Fg9cV1fplW5Q6mNBFtRlW99wDCSC-_6_sZBw0l4HsFvUDP5cCH2zmgcF4NK5wCOInv05K4hH2WMlKCA_G_psX4zB_hUcXid2MWx5fGDjaJvD1YjWBechwUdrhXK51dJYZ3PGsu0JQcT1U/s1600/google-bug-bounty.jpg"
+    },
+    {
+      "id": "f97880d7598382b684b89b9cef65344312b29834",
+      "title": "Critical Atlassian Flaw Lets Unauthenticated Attackers Read Known Files Across 8 Products",
+      "url": "https://thehackernews.com/2026/10/critical-atlassian-flaw-lets.html",
+      "published": "2026-10-06T06:58:56+00:00",
+      "summary": "A critical flaw in 8 Atlassian Data Center products, which customers host themselves, allows an attacker with no login access to read specific files in each product's web application root directory.\n\nThe attacker must already know a file's exact name and path and cannot list what the directory holds. Atlassian&nbsp;disclosed the flaw, CVE-2026-21589, on October 5, rated it 9.3 out of 10, and",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGQge2pd9O29G6qjsswRMYKnpM66wzyEWHOnRljkIZUZpCGVGACovyKIiji1HQ4jZOsypuaveJUBxx0r7-tT-Icd3COeo_prgm0TbMWDJBYFYpWHOC3lBjb8sZo6f2qWPkzeztOAjMW1CjrE_fDe3nWBU2FEOOjUWDpNUbtY1okTyx_iFE7xcI5jxOeiQ/s1600/file.jpg"
+    },
+    {
+      "id": "6053c8b55d0d48fca00860a48c11ce0164084033",
+      "title": "FBI Removes Accenture Contractor After Patch Failure Led to ShinyHunters Breach",
+      "url": "https://thehackernews.com/2026/10/fbi-removes-accenture-contractor-after.html",
+      "published": "2026-10-06T06:56:57+00:00",
+      "summary": "The U.S. Federal Bureau of Investigation (FBI) has removed an Accenture contractor for their alleged role in a ShinyHunters-breach that led to the theft of personal details of thousands of bureau employees.\n\nThat's according to a report from Reuters, citing two sources familiar with the matter.\n\n\"To date, our review has determined that the incident occurred as the result of a security failure \u200b",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVB4YaCEMdO6UU6llRwDBMNe82j6s6myWlT8Y92f808ntjdWsPEFgXBpFhGxoAZdkFq5DVA4_XaQpbwvJFjpEUxrRjjRVITahCSGSxmi3qkad2fk-kZ1oXnoxKaFHNs2aRQl7LQ6r2Ljt57IZNaFvwejEQ20us7fMVpNYptJxoVCyol8BlVaXyLkkaeHQI/s1600/fbi-breach.jpg"
+    },
+    {
+      "id": "8337f33655ac42c00123293538dca872c13976cb",
+      "title": "Denmark Says Attackers Accessed CPR Data for 8.8 Million People via Company Account",
+      "url": "https://thehackernews.com/2026/10/denmark-says-attackers-accessed-cpr.html",
+      "published": "2026-10-06T06:00:30+00:00",
+      "summary": "Unauthorized parties have gained access to the names, addresses, and personal identification numbers of about 8.8 million people, living and dead, in Denmark's national population register, the country's digitalization ministry&nbsp;said on October 5.\n\nThey used a private Danish company's lawful right to look up records in the Central Person Register (CPR). The ministry has told people never to",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyl-dsAiVrN_a0ie2xM1-2S8GDtnp-OYIAY1Cd_nhYhGkY3q0VeVEvEInjHAYCJTtnRYkXag2mY_iFjcEkFjeLQ7LrF6JqbTQ6eLZQM7aVzTHQsZ37a7PMIWPNkPvc8yTvHgWRLhdnoXbHZSlYfXJMAgfKkPcgSWD6JVb6kBYfzz9LB3SQPx357xqsr8o/s1600/cpr.jpg"
+    },
+    {
+      "id": "15810e447b0d191ac4675e534abce48a57802a2b",
+      "title": "ClickFix Smuggles Payloads Through Browser Cache to Bypass Windows Run Limits",
+      "url": "https://thehackernews.com/2026/10/clickfix-smuggles-payloads-through.html",
+      "published": "2026-10-06T05:22:55+00:00",
+      "summary": "A new type of ClickFix attack is using compromised websites to trick users into executing a malicious payload cached in a web browser's cache.\n\n\"Instead of downloading and executing remote payloads like the typical attack pattern, in this attack, the websites pre-fetch a script payload into the browser cache disguised as a PNG file,\" the Microsoft Threat Intelligence team said in a post on X.",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8Vjgif5jASBMNSuYjBnVZcm9vGO378mJ7VTFTNo9HRROtViKbP_Nm0F0vf626be5n4cwnfDdqgfWVzjKrKboh0BnbM8ALWzt-W7kNq4PSc_TOUbNlwps6sCQgfNyK5DhXk3FHZCuJSo8D2eMOm4r89VmhNa6l5gPpadRZSgTuB_N2yPZlwj0voYddOoVr/s1600/clickfix.jpg"
     },
     {
       "id": "cb207012cadc4c9d5a75e9548cfb84b6316e69e4",
@@ -572,94 +660,6 @@
       "region": "North America",
       "country": "US",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCNHT9zDz8oOamcA5EH8a3KGAtk9R9bE_UxGY_uPThgxZJu9vX-YG1olbgiX5WBVdwDd52LpDfSyryC6GZ45tUi2bKLe_aWnbj0Ir3WQZeGYF8Vr7U7icoPn4tcuwfpOZagVfry-KG5_jzLPb-fbPiFBlv142UOgqAPpC193t6BslvCE1l1XWo2z5_mFYV/s1600/linux-intel.jpg"
-    },
-    {
-      "id": "643a969864727d3f41c3e627575a5d53812b180d",
-      "title": "Russia's Star Blizzard Targets 100+ Organizations With Fake Event Invites to Deliver Backdoor",
-      "url": "https://thehackernews.com/2026/09/russias-star-blizzard-targets-100.html",
-      "published": "2026-09-29T17:20:08+00:00",
-      "summary": "Russian state hackers known as Star Blizzard have been using fake event invitations to trick people into installing a backdoor on their Windows computers,&nbsp;according to Microsoft.\n\nThe campaigns, aimed at people and organizations tied to Ukraine, have affected more than 100 organizations since January, mostly in the U.S. and U.K. At least one computer was infected, but the number of breached",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQDuuJUT-WU7XzUYYoKEDtFKt7QAra8I4G0ptQRyveku8G6fD6R0aSWw32hi-2fd0L28qUxjqJoTlQoJbLiBYH6NBOVYirQZ9LfH-UvD8JG5uiL_m4ZkBVnPLiArcivCsdMNegW1XGxFEzas4cwkzFVeY4r22qTqSp2U1Fo3Nw7urOlnWRKGFHW8pW91E/s1600/ms-invite.jpg"
-    },
-    {
-      "id": "8da4536a08bc3da8516cff9bf26426fdb34e5619",
-      "title": "Kiteworks Fixes Critical Flaw Found During Nine-Hour Precautionary Shutdown",
-      "url": "https://thehackernews.com/2026/09/kiteworks-fixes-critical-flaw-found.html",
-      "published": "2026-09-29T14:13:20+00:00",
-      "summary": "Kiteworks on Monday said it worked with federal intelligence authorities over the weekend as it identified and addressed a critical security vulnerability during the scheduled precautionary shutdown.\n\n\"During the shutdown, this activity led to the discovery of a previously unknown critical vulnerability confined to a capability that is enabled for less than 1% of the customer base,\" the company",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjv9oZ7uWtniIGlzNM3FXdS2v4WjdHi8ajTw0evMWbzhC9ihnkOwrxAqV7sgJou4SMDrJo2z5uDOQPRX1Bb0Hx1P1Str7iZQ4wssATmqsb6o0IfOPafzmnX6UXgkweBDB_QKqBVJZsNdMibEvAykjIzluSiJEnxnhFehzw-q2bhZ7heCFv97on69dZMjPrb/s1600/kiteworks.jpg"
-    },
-    {
-      "id": "c27b3357c720aeab9696a0df7ae5490f057276ac",
-      "title": "101 Malicious npm Packages Add Developers' WhatsApp Accounts to Groups Without Consent",
-      "url": "https://thehackernews.com/2026/09/101-malicious-npm-packages-add.html",
-      "published": "2026-09-29T13:45:10+00:00",
-      "summary": "Cybersecurity researchers have identified a cluster of 101 npm packages that are used to trap developers into a WhatsApp group subscriber campaign dubbed PhantomSub.\n\n\"The malicious packages abuse the 'Baileys' WhatsApp open source project to add the victims to groups without their consent,\" OX Security researchers Nir Zadok, Moshe Siman Tov Bustan, and Vitalii Chepurko said in a technical",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhUmW5o4XCEsBlPE2MKecTG-IHCrk1WHeLajiNnRTpGtT-DDhpYVID3Pon7cseFiJN24GulDnjR7TPRe6h-kQEuJBPRl87atgBytMvKbiRV4h_DHWtxQEtogyy3U-aAD6ErNCrYiOQV-tHvHcw_P4W8z37PpR-jo70sePvtLIvMwKx7MJuE8Fazhyphenhyphen7_KI5/s1600/npm-whatsapp.jpg"
-    },
-    {
-      "id": "27299aaf20418184e0e6a5d715dc02be24e18f43",
-      "title": "Dutch Police Arrest 24-Year-Old Amsterdam Man in ShinyHunters Investigation",
-      "url": "https://thehackernews.com/2026/09/dutch-police-arrest-24-year-old.html",
-      "published": "2026-09-29T08:35:10+00:00",
-      "summary": "Dutch authorities have confirmed that they arrested a 24-year-old man from Amsterdam in connection with the ShinyHunters group.\n\n\"It is true that this month a 24-year-old man from Amsterdam was arrested in an investigation into the hacker group ShinyHunters,\" the Politie Landelijke Opsporing en Interventies said in an X post Monday.\n\nPolice said the individual is expected to appear before the",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWsGNpV8Y5_YLcyxRYju8E3caiN3I3Zttrlvxhz5iXfzVIR_Ayp_d_Zn2Wk12ZBkz5nW4eYfKeEs-xxs9kYuS_paAwO3wJleeUxdMRbrbU_lXwWVuG7ajiFH0UOEcoj3almps5b54DXt-mGy73GhXjCQzGsNNDJkhdfJXRI9XWeFF5hfsr4zjQty-Wued5/s1600/1000111943.jpg"
-    },
-    {
-      "id": "70b35ed4cc7c633acdcb0313efdf823a57a6227c",
-      "title": "Official MCP Python SDK Flaw Can Let Malicious Servers Steal OAuth Credentials",
-      "url": "https://thehackernews.com/2026/09/official-mcp-python-sdk-flaw-can-let.html",
-      "published": "2026-09-29T06:08:25+00:00",
-      "summary": "A malicious MCP server could trick an application built on the official&nbsp;MCP Python SDK&nbsp;into handing over the OAuth credentials it uses to log in to a real service, the SDK's maintainers said in a security advisory.\n\nAffected versions sent the client secret, the authorization code, and the PKCE proof key to a token endpoint the attacker controlled. The fix is in versions 1.30.0 and",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2N5owhsoQXHTQV74afwfngdyitjwcW37BHLX2QKkq6xZAxP8_AOXAh1ODPj5DyvvmMUq3mKH9eR2B1r7owc6djzLViK2U4BY_hw3rTWmaHjhFEyyh8LPlUMPZ7MdWkqN7bjtQyMByBLrsI5m0mAU9y-IbrsAe9OPhZXHN63AWwuv_1OB5MSrpRdVZ9CM/s1600/mcp-python.jpg"
-    },
-    {
-      "id": "44b9dd173b6dd042e57314bb2ebd9b024e270b1e",
-      "title": "OpenAI Shelves GPT-6.1 Astra After Tests Find Deception and Unauthorized Actions",
-      "url": "https://thehackernews.com/2026/09/openai-shelves-gpt-61-astra-after-tests.html",
-      "published": "2026-09-29T05:12:32+00:00",
-      "summary": "OpenAI on Monday shelved plans to release GPT-6.1 Astra, a next-generation artificial intelligence (AI) model that was planned for an October launch, after it failed internal safety and alignment audits.\n\nThe development was first reported by The Wall Street Journal. The move \"marks a rare case of a major AI developer ditching a new release because of safety concerns,\" the news publication said.",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeiHpQjvEicRlkD9F-pR6I5h9MLRWRtX0Wd84u8ThZ5XIsZ-TZwHjTyXj93Z6GV0-5MNhAO2bCQCGfMHuoW7-0ovwpXFwxTy-gvBNJ3iCrlDjBAimAS-ayH7ZfzIL9kzMaV5Wn8FwBR17ehonB72Yvweyp4msb6uPEZxvnEj0QDMF2BDFYkPfU9_GGakFi/s1600/astra.jpg"
-    },
-    {
-      "id": "235b45fcaaf66d815514095cb838a44bfea6a953",
-      "title": "OpenAI Pauses Tool Use After Agent Bypasses Internet Controls to Reach External Chatbot",
-      "url": "https://thehackernews.com/2026/09/openai-pauses-tool-use-after-agent.html",
-      "published": "2026-09-29T04:45:20+00:00",
-      "summary": "OpenAI said it has made the decision to pause training of its most powerful models after one of its agents during reinforcement learning (RL) training contacted an external chatbot by exploiting a loophole in its internet-access restrictions.\n\n\"An agent attempting to complete a search-based training task queried a public chatbot service through a gap in our internet-access restrictions:",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2NfY2zvkkU95qQwwR7N_yQQf_H2AjYcXccbK2yH7xzzeAqmu3mH9ItszzC14M2suvDnfz6EBB-QzMkCTUBIgaoX9teGfhmBIBvU9R-wsKQBcC90f5lytvP-hYfCy8o-YTDTh8rIqz8mj1NIikN27BE2vsWyaRgiKPeAe3zbmrkdy6Dkg8htztnoyJwS4o/s1600/openai-chatbot.jpg"
-    },
-    {
-      "id": "cbf3cfa45f59f9f59520b5f3d07b7bc75beb5cfa",
-      "title": "Apple Patches CoreGraphics Flaw Possibly Exploited in Targeted Attacks",
-      "url": "https://thehackernews.com/2026/09/apple-patches-coregraphics-flaw.html",
-      "published": "2026-09-28T19:18:01+00:00",
-      "summary": "Apple has released security updates to address a vulnerability in older versions of iOS, iPadOS, and macOS that it said may have been exploited in targeted attacks.\n\nThe vulnerability, tracked as CVE-2026-86950, refers to an out-of-bounds write impacting the CoreGraphics component that could lead to arbitrary code execution when processing a maliciously crafted file.\n\nThe iPhone maker said the",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhO5I5gnKOqAs0ZCjgQnQirUHdSjRqGZRMp-Fioy684EzZWuQm72wSrCW1hWZEYlvvOXoCtkQyr3sB48AoZ71PM6tMCsz_AGZmEYZz8u2AbrH1gpjutU-mFtDQpuJcI_pKEG9q4-cZEo7T3Yp7hyphenhyphen4_MCZvloRnVKszE7rjTDUKZBaH1eQ47-K0fPno50T3S/s1600/apple-0day.jpg"
     },
     {
       "id": "777d177ab8f0a0c4d18a2137393f6b12805b82b7",
@@ -1212,9 +1212,75 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?width=720&quality=80&disable=upscale"
     },
     {
-      "id": "543412c336e8cd7581fd23195f132d25b844e9bf",
-      "title": "Security researcher claims to they found KVM guest-host escape flaw",
-      "url": "https://www.theregister.com/offbeat/2026/10/06/security-researcher-claims-to-they-found-kvm-guest-host-escape-flaw/5301267",
+      "id": "c6f44786e5921b716fac72e6ad26d52034a15cac",
+      "title": "Microsoft extends the Outlook naughty step with two more file types",
+      "url": "https://www.theregister.com/software/2026/10/06/microsoft-extends-the-outlook-naughty-step-with-two-more-file-types/5301350",
+      "published": "2026-10-06T15:06:00+00:00",
+      "summary": "You didn't really want to be sending around .msix and .msixbundle files, did you?",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=5277792&width=800"
+    },
+    {
+      "id": "44ff35e171c27f0bfcccdea5f1062261aa4fd7e5",
+      "title": "Zombie instructions on carefully constructed web pages could trick GitHub Copilot CLI into sharing secrets",
+      "url": "https://www.theregister.com/ai-and-ml/2026/10/06/zombie-instructions-on-carefully-constructed-web-pages-could-trick-github-copilot-cli-into-sharing-secrets/5301206",
+      "published": "2026-10-06T13:00:00+00:00",
+      "summary": "Run the CLI in autopilot mode and take your chances",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=5243747&width=800"
+    },
+    {
+      "id": "4e716b804a63e6f8512ff63b06b361fe36a73de9",
+      "title": "Asos app delivers a data leak threat instead of fast fashion",
+      "url": "https://www.theregister.com/security/2026/10/06/asos-app-delivers-a-data-leak-threat-instead-of-fast-fashion/5301332",
+      "published": "2026-10-06T11:51:36+00:00",
+      "summary": "Rogue notification claims Snowflake instance compromised, but customer info theft remains unverified",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=5263225&width=800"
+    },
+    {
+      "id": "604124be3b4aa73775d51100cdd271582c6953d9",
+      "title": "Denmark's ID register spills more people's details than the country has residents",
+      "url": "https://www.theregister.com/security/2026/10/06/denmarks-id-register-spills-more-peoples-details-than-the-country-has-residents/5301307",
+      "published": "2026-10-06T11:46:48+00:00",
+      "summary": "Abuse of private firm's access exposed 8.8M records, including those of people who had died or moved abroad",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=5301327&width=800"
+    },
+    {
+      "id": "22e67f78de18053e597e94db7e6ab0c5d46602e5",
+      "title": "Legacy sign-on service comes back to bite school software provider Bromcom",
+      "url": "https://www.theregister.com/security/2026/10/06/legacy-sign-on-service-comes-back-to-bite-school-software-provider-bromcom/5301156",
+      "published": "2026-10-06T09:30:00+00:00",
+      "summary": "Intruders retrieved email addresses from superseded tech kept running for an internal system",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=5251523&width=800"
+    },
+    {
+      "id": "818444d951e6cb278ace71276bee490a8af48723",
+      "title": "Atlassian warns of critical file access flaw in its datacenter products",
+      "url": "https://www.theregister.com/security/2026/10/06/atlassian-warns-of-critical-file-access-flaw-in-its-datacenter-products/5301284",
+      "published": "2026-10-06T04:20:00+00:00",
+      "summary": "Tells users \u2018action required\u2019 \u2013 but maybe don\u2019t make that action a Jira ticket, because it has this bug",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=260762&width=800"
+    },
+    {
+      "id": "7f65b6ed34c2710712a498702edb1c291d1a674e",
+      "title": "Security researcher claims they found KVM guest-host escape flaw",
+      "url": "https://www.theregister.com/offbeat/2026/10/06/security-researcher-claims-they-found-kvm-guest-host-escape-flaw/5301267",
       "published": "2026-10-06T02:06:20+00:00",
       "summary": "Firecracker MicroVMs, which started at AWS, seem to be the problem",
       "source": "The Register \u2013 Security",
@@ -1254,17 +1320,6 @@
       "region": "Europe",
       "country": "UK",
       "image": "https://image.theregister.com/?imageId=246104&width=800"
-    },
-    {
-      "id": "34a1589266cbd5b7fe9df8d170db3ea7433a208f",
-      "title": "Legacy sign-on service comes back to bite school software provider Bromcom",
-      "url": "https://www.theregister.com/security/2026/10/05/legacy-sign-on-service-comes-back-to-bite-school-software-provider-bromcom/5301156",
-      "published": "2026-10-05T09:30:00+00:00",
-      "summary": "Intruders retrieved email addresses from superseded tech kept running for an internal system",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=5251523&width=800"
     },
     {
       "id": "176337226fdb1c104dece9b3945f0adf181c1eab",
@@ -1707,61 +1762,6 @@
       "image": "https://image.theregister.com/?imageId=5293976&width=800"
     },
     {
-      "id": "cf6699ade1fd81d412a153c495026d402970b91b",
-      "title": "Someone went shopping in ASUS's eShop \u2013 for customer data",
-      "url": "https://www.theregister.com/security/2026/09/24/someone-went-shopping-in-asuss-eshop-for-customer-data/5298860",
-      "published": "2026-09-24T15:13:00+00:00",
-      "summary": "Contact details and order records accessed, but PC maker is keeping schtum on how many customers are affected",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=5275290&width=800"
-    },
-    {
-      "id": "d298302749d6e4dee1a4872e808ada74908e6c3a",
-      "title": "Google to critical infra orgs: Our AI scanners won't be evil, promise",
-      "url": "https://www.theregister.com/security/2026/09/24/google-to-critical-infra-orgs-our-ai-scanners-wont-be-evil-promise/5298685",
-      "published": "2026-09-24T13:00:00+00:00",
-      "summary": "Gemini 3.8 Flash Cyber and Wiz's Red Agent team up to protect hospitals, public transit, and tech",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=5298699&width=800"
-    },
-    {
-      "id": "1d9141b660eb7f1ed2d30a21b4130b8c0b00e402",
-      "title": "Government contractor exposed path to immigration records",
-      "url": "https://www.theregister.com/security/2026/09/24/government-contractor-exposed-path-to-immigration-records/5298689",
-      "published": "2026-09-24T08:30:00+00:00",
-      "summary": "IT took a shortcut when the boss was away, and it led to danger!",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=5298696&width=800"
-    },
-    {
-      "id": "331ed22c36d6da8c7a76cbb2e97779ddf2aff5e1",
-      "title": "OpenAI agents \u2018infiltrated Australian government website\u2019",
-      "url": "https://www.theregister.com/security/2026/09/24/openai-agents-infiltrated-australian-government-website/5298702",
-      "published": "2026-09-24T00:03:03+00:00",
-      "summary": "Canberra is fuming after AI lab sent the news to a generic unattended email address",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=5298708&width=800"
-    },
-    {
-      "id": "6a91aaa7750826fca0a21452a3740002ba586738",
-      "title": "Someone's attacking a critical 0-day RCE in F5 BIG-IP APM",
-      "url": "https://www.theregister.com/security/2026/09/23/someones-attacking-a-critical-0-day-rce-in-f5-big-ip-apm/5298659",
-      "published": "2026-09-23T18:09:28+00:00",
-      "summary": "Good news: there's a patch. Bad news: both CISA and F5 warn that it's under active exploitation",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=260240&width=800"
-    },
-    {
       "id": "9eea57edb89b54636f2899fac15a9de383674e26",
       "title": "Dutch Police Arrest \u2018Reformed\u2019 Hacker in Shiny Hunters Investigation",
       "url": "https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/",
@@ -1806,6 +1806,83 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "947044d216d7a6933895442a8a8d01016f6a7ddf",
+      "title": "FBI Blames Contractor\u2019s Missed Patch for ShinyHunters Breach",
+      "url": "https://www.securityweek.com/fbi-blames-contractors-missed-patch-for-shinyhunters-breach/",
+      "published": "2026-10-06T14:15:00+00:00",
+      "summary": "<p>The FBI has removed an Accenture contractor over a data breach that exposed personal information of thousands of bureau employees.</p>\n<p>The post <a href=\"https://www.securityweek.com/fbi-blames-contractors-missed-patch-for-shinyhunters-breach/\">FBI Blames Contractor&#8217;s Missed Patch for ShinyHunters Breach</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "7a66411ae2da176318a111df17a5eb9983d98325",
+      "title": "FBI Arrests \u2018Most Wanted\u2019 Developer of Ploutus ATM Malware",
+      "url": "https://www.securityweek.com/fbi-arrests-most-wanted-developer-of-ploutus-atm-malware/",
+      "published": "2026-10-06T12:47:57+00:00",
+      "summary": "<p>An alleged leader of Tren de Aragua\u2019s ATM jackpotting activities, Canelon Aguirre was on the FBI\u2019s top 10 most wanted list since March 2026.</p>\n<p>The post <a href=\"https://www.securityweek.com/fbi-arrests-most-wanted-developer-of-ploutus-atm-malware/\">FBI Arrests &#8216;Most Wanted&#8217; Developer of Ploutus ATM Malware</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "c3a90ebed307ce451d93a9c88d63750f8e889cb9",
+      "title": "Apple to Tighten Full Disk Access Controls in macOS Amid AI Risks",
+      "url": "https://www.securityweek.com/apple-to-tighten-full-disk-access-controls-in-macos-amid-ai-risks/",
+      "published": "2026-10-06T11:48:59+00:00",
+      "summary": "<p>Citing growing risks posed by more capable and autonomous AI agents, Apple will introduce additional controls.</p>\n<p>The post <a href=\"https://www.securityweek.com/apple-to-tighten-full-disk-access-controls-in-macos-amid-ai-risks/\">Apple to Tighten Full Disk Access Controls in macOS Amid AI Risks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "5f139a5c911c78e8c542954b8932990fabaad917",
+      "title": "Cybersecurity M&A Roundup: 39 Deals Announced in September 2026",
+      "url": "https://www.securityweek.com/cybersecurity-ma-roundup-39-deals-announced-in-september-2026/",
+      "published": "2026-10-06T11:01:35+00:00",
+      "summary": "<p>Significant cybersecurity M&#038;A deals announced by Dragos, IBM, Palo Alto Networks, Kiteworks, and Upwind.</p>\n<p>The post <a href=\"https://www.securityweek.com/cybersecurity-ma-roundup-39-deals-announced-in-september-2026/\">Cybersecurity M&#038;A Roundup: 39 Deals Announced in September 2026</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "812c2ef5a5688135b1780976f0723f8c4ad20606",
+      "title": "Long-Running NPM Malware Campaign Accumulates 40,000 Downloads",
+      "url": "https://www.securityweek.com/long-running-npm-malware-campaign-accumulates-40000-downloads/",
+      "published": "2026-10-06T10:34:25+00:00",
+      "summary": "<p>Since August 2023, attackers have published eight malicious packages as part of the MALFEX supply chain campaign.</p>\n<p>The post <a href=\"https://www.securityweek.com/long-running-npm-malware-campaign-accumulates-40000-downloads/\">Long-Running NPM Malware Campaign Accumulates 40,000 Downloads</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "fc785617b1052a2c2328aa5dad67d075d179b815",
+      "title": "8.8 Million Impacted by Data Breach at Denmark\u2019s Central Person Register",
+      "url": "https://www.securityweek.com/8-8-million-impacted-by-data-breach-at-denmarks-central-person-register/",
+      "published": "2026-10-06T09:38:30+00:00",
+      "summary": "<p>Hackers abused a company\u2019s lawful access to the CPR system to steal the personal information of registered citizens.</p>\n<p>The post <a href=\"https://www.securityweek.com/8-8-million-impacted-by-data-breach-at-denmarks-central-person-register/\">8.8 Million Impacted by Data Breach at Denmark\u2019s Central Person Register</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "a4f56bcfdee02609686c48efb3c77a869982d136",
+      "title": "Social Engineering Detection Moves Into the Live Conversation",
+      "url": "https://www.securityweek.com/social-engineering-detection-moves-into-the-live-conversation/",
+      "published": "2026-10-06T08:38:14+00:00",
+      "summary": "<p>Companies are pouring time and dollars into security awareness training, but little evidence shows it actually works against social engineering.</p>\n<p>The post <a href=\"https://www.securityweek.com/social-engineering-detection-moves-into-the-live-conversation/\">Social Engineering Detection Moves Into the Live Conversation</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "7c115c8fd892dd881e8bc6cf0b1af92e5a7db779",
       "title": "Google Narrows Open Source Bug Bounty Amid Wave of Invalid Automated Reports",
       "url": "https://www.securityweek.com/google-narrows-open-source-bug-bounty-amid-wave-of-invalid-automated-reports/",
@@ -1833,83 +1910,6 @@
       "url": "https://www.securityweek.com/250000-impacted-by-data-breaches-at-new-jersey-texas-healthcare-firms/",
       "published": "2026-10-05T12:35:15+00:00",
       "summary": "<p>Hackers stole patient information from Clover Health Investments and AngMar Management Services in July.</p>\n<p>The post <a href=\"https://www.securityweek.com/250000-impacted-by-data-breaches-at-new-jersey-texas-healthcare-firms/\">250,000 Impacted by Data Breaches at New Jersey, Texas Healthcare Firms</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "b149160e3a3d18d621a0bdb089ce0bf96331bf79",
-      "title": "Exploitation Hits Rejetto HFS Vulnerability Discovered by AI",
-      "url": "https://www.securityweek.com/exploitation-hits-rejetto-hfs-vulnerability-discovered-by-ai/",
-      "published": "2026-10-05T11:00:05+00:00",
-      "summary": "<p>CVE-2026-61500 allows attackers to recover the session-cookie signing key and gain administrative access and RCE.</p>\n<p>The post <a href=\"https://www.securityweek.com/exploitation-hits-rejetto-hfs-vulnerability-discovered-by-ai/\">Exploitation Hits Rejetto HFS Vulnerability Discovered by AI\u00a0</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "608206820f9e2329ced55051f17d3144872647fc",
-      "title": "Senate Passes Bipartisan Bill to Strengthen Healthcare Cybersecurity",
-      "url": "https://www.securityweek.com/senate-passes-bipartisan-bill-to-strengthen-healthcare-cybersecurity/",
-      "published": "2026-10-05T10:42:19+00:00",
-      "summary": "<p>More than 730 cyber breaches affected over 270 million Americans last year, costing an average of $10 million per breach.</p>\n<p>The post <a href=\"https://www.securityweek.com/senate-passes-bipartisan-bill-to-strengthen-healthcare-cybersecurity/\">Senate Passes Bipartisan Bill to Strengthen Healthcare Cybersecurity</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "9881d6bd7c4dcd2d150a57d1eff75a9d1a7f7dc8",
-      "title": "Alleged ShinyHunters Leader Arrested in Jordan",
-      "url": "https://www.securityweek.com/alleged-shinyhunters-leader-arrested-in-jordan/",
-      "published": "2026-10-05T07:16:53+00:00",
-      "summary": "<p>Known as Rey, the suspect is reportedly helping the FBI identify and locate other members of the extortion group.</p>\n<p>The post <a href=\"https://www.securityweek.com/alleged-shinyhunters-leader-arrested-in-jordan/\">Alleged ShinyHunters Leader Arrested in Jordan</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "7aea11ec54b2d6904be206a5f4ffd8230bcfd603",
-      "title": "Exploitation of Citrix NetScaler Zero-Day Hits Appliances Patched Days Earlier",
-      "url": "https://www.securityweek.com/exploitation-of-citrix-netscaler-zero-day-hits-appliances-patched-days-earlier/",
-      "published": "2026-10-05T05:14:48+00:00",
-      "summary": "<p>Citrix has confirmed that a new zero-day vulnerability, CVE-2026-88779, emerged just days after two other exploited flaws were patched.</p>\n<p>The post <a href=\"https://www.securityweek.com/exploitation-of-citrix-netscaler-zero-day-hits-appliances-patched-days-earlier/\">Exploitation of Citrix NetScaler Zero-Day Hits Appliances Patched Days Earlier</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "199ef7dd7a5498cc6a00827998a76e324fee0ce6",
-      "title": "Trump Names National Intelligence Director Jay Clayton to Lead a New Federal AI Task Force",
-      "url": "https://www.securityweek.com/trump-names-national-intelligence-director-jay-clayton-to-lead-a-new-federal-ai-task-force/",
-      "published": "2026-10-04T14:57:25+00:00",
-      "summary": "<p>The announcement comes after Trump hosted top executives of AI companies at the White House last week.</p>\n<p>The post <a href=\"https://www.securityweek.com/trump-names-national-intelligence-director-jay-clayton-to-lead-a-new-federal-ai-task-force/\">Trump Names National Intelligence Director Jay Clayton to Lead a New Federal AI Task Force</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "1d062f92f7d5e7772fcf1079bc7694c3f4168846",
-      "title": "doxx.net Raises $38 Million to Prevent AI Agent-on-the-Internet Misadventures",
-      "url": "https://www.securityweek.com/doxx-net-raises-38-million-to-prevent-ai-agent-on-the-internet-misadventures/",
-      "published": "2026-10-03T11:45:00+00:00",
-      "summary": "<p>doxx.net\u2019s new ADN platform prevents agentic misadventure while the agent is operating under the user\u2019s authority.</p>\n<p>The post <a href=\"https://www.securityweek.com/doxx-net-raises-38-million-to-prevent-ai-agent-on-the-internet-misadventures/\">doxx.net Raises $38 Million to Prevent AI Agent-on-the-Internet Misadventures</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "42535caeb1ba5cb213bfd83deff7fb269fc9b5a8",
-      "title": "Fortra Patches Critical Vulnerabilities in BoKS",
-      "url": "https://www.securityweek.com/fortra-patches-critical-vulnerabilities-in-boks/",
-      "published": "2026-10-03T11:34:00+00:00",
-      "summary": "<p>The bugs could lead to authentication bypass, shell command execution, and memory corruption.</p>\n<p>The post <a href=\"https://www.securityweek.com/fortra-patches-critical-vulnerabilities-in-boks/\">Fortra Patches Critical Vulnerabilities in BoKS</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
