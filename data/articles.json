@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T19:53:30.655327+00:00",
+  "generated_at": "2026-10-06T03:26:54.225422+00:00",
   "items": [
     {
       "id": "da0c0501624610719616c1716fa5279a3aa39b2b",
@@ -662,6 +662,17 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhO5I5gnKOqAs0ZCjgQnQirUHdSjRqGZRMp-Fioy684EzZWuQm72wSrCW1hWZEYlvvOXoCtkQyr3sB48AoZ71PM6tMCsz_AGZmEYZz8u2AbrH1gpjutU-mFtDQpuJcI_pKEG9q4-cZEo7T3Yp7hyphenhyphen4_MCZvloRnVKszE7rjTDUKZBaH1eQ47-K0fPno50T3S/s1600/apple-0day.jpg"
     },
     {
+      "id": "777d177ab8f0a0c4d18a2137393f6b12805b82b7",
+      "title": "ClingSTUN Turns Vulnerable IoT Devices Into Proxy Nodes",
+      "url": "https://www.darkreading.com/iot/clingstun-vulnerable-iot-devices-proxy-nodes",
+      "published": "2026-10-05T21:25:08+00:00",
+      "summary": "The Linux backdoor exploits 24 known flaws to compromise IoT devices and uses legitimate public STUN servers to obscure communications.",
+      "source": "DarkReading",
+      "region": "North America",
+      "country": "US",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt233af9606aed0447/6ac404da1ba7958c12dbbcbc/stungun_Nikola_Fific_shutterstock.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
       "id": "1b8095594ef74fe5ca11a8d9e9905fa758d306e9",
       "title": "Chinese Hackers Impersonate US Officials for AI Cyber Espionage",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/chinese-actor-impersonates-us-officials-cyber-espionage",
@@ -1201,15 +1212,26 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?width=720&quality=80&disable=upscale"
     },
     {
-      "id": "8c4e4ffe7f8c0dfdcadf986d32b005c4e1270251",
-      "title": "Shai-Hulud Attack Nips Cyber-Firm CrowdSec's GitHub Data",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/shai-hulud-attack-cyber-firm-crowdsec-github-data",
-      "published": "2026-09-22T10:22:37+00:00",
-      "summary": "Threat actors stole the contents of 170 private repositories using an OAuth token stolen from a former employee's computer through the TanStack npm supply chain attack.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt69385daa466aeca3/6ab2586609bf6b1d17c9b926/sandworms_FlixPix_Alamy.png?width=720&quality=80&disable=upscale"
+      "id": "543412c336e8cd7581fd23195f132d25b844e9bf",
+      "title": "Security researcher claims to they found KVM guest-host escape flaw",
+      "url": "https://www.theregister.com/offbeat/2026/10/06/security-researcher-claims-to-they-found-kvm-guest-host-escape-flaw/5301267",
+      "published": "2026-10-06T02:06:20+00:00",
+      "summary": "Firecracker MicroVMs, which started at AWS, seem to be the problem",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=254942&width=800"
+    },
+    {
+      "id": "7e597d648c37a81c32d8425d05410c465d93c2f6",
+      "title": "Citrix NetScaler security snafus get even worse amid more 0-day reports",
+      "url": "https://www.theregister.com/security/2026/10/05/citrix-netscaler-security-snafus-get-even-worse-amid-more-0-day-reports/5301232",
+      "published": "2026-10-05T21:18:48+00:00",
+      "summary": "The new vuln, CVE-2026-88779, is a memory overflow bug that leads to denial of service",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=259122&width=800"
     },
     {
       "id": "3e0fd50065abaed8abb0f543e4403cacc99aa3a2",
@@ -1738,28 +1760,6 @@
       "region": "Europe",
       "country": "UK",
       "image": "https://image.theregister.com/?imageId=260240&width=800"
-    },
-    {
-      "id": "8926d0f5a49b55fd1157eabd1bcf2e9c81b7903e",
-      "title": "Academic publisher Elsevier hit by LAPSUS$ redirect attack",
-      "url": "https://www.theregister.com/security/2026/09/23/academic-publisher-elsevier-hit-by-lapsus-redirect-attack/5298592",
-      "published": "2026-09-23T15:08:00+00:00",
-      "summary": "Customers got crime crew's calling card instead of access to journals",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=5241973&width=800"
-    },
-    {
-      "id": "0a9baa874015c70c7eec32e062192615c1ac9437",
-      "title": "Closing the observability gap for the AI-ready enterprise",
-      "url": "https://www.theregister.com/security/2026/09/23/sponsored-closing-the-observability-gap-for-the-ai-ready-enterprise/5298070",
-      "published": "2026-09-23T15:00:00+00:00",
-      "summary": "SPONSORED FEATURE: Why AI-driven operations need a data-rich view of the network",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=5298357&width=800"
     },
     {
       "id": "9eea57edb89b54636f2899fac15a9de383674e26",
