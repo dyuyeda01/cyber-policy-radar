@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T17:27:47.468747+00:00",
+  "generated_at": "2026-10-07T02:51:02.298489+00:00",
   "items": [
     {
       "id": "8abf3243c8ac3bf13868e2bfc1b88e2d1ff6c6a0",
@@ -110,6 +110,28 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "ec14eeb066a7343525b2b91828c399941207c2cf",
+      "title": "Fake ChatGPT, Gemini, and Claude Ad Portals Capture Credentials and MFA Codes",
+      "url": "https://thehackernews.com/2026/10/fake-chatgpt-gemini-and-claude-ad.html",
+      "published": "2026-10-06T18:38:55+00:00",
+      "summary": "Cybersecurity researchers have disclosed details of a \"human-operated phishing platform\" that impersonates advertising products for artificial intelligence (AI) chatbots like Google Gemini, Anthropic Claude, OpenAI ChatGPT, Perplexity, Meta Muse, and Manus.\n\nThe products, which claim to offer campaign optimization, spend audits, and business-account connections, are designed with one goal in",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOD8Nta3AzEJA8JDouSAdwr3Obls6VzxBZwHHerzX0eZDKBTqWzVrAmZbX8VrvxKN1QNooX5GVAahBTaqPkWWcqRCO12MDDHWjboFPyw5FU1BaH07_wQhZkUNOROwHLFneZKKBY8oxjPTs0CpBF52UrLjeloGDwolt4udNn-ojCQNvvGvmo1TXdS3wNJlw/s1600/muse.png"
+    },
+    {
+      "id": "007c3190cf2b720071dba531805f86e2c20b89e3",
+      "title": "Linux Backdoors Impersonate Email Security Tools to Evade Detection in Korea and Taiwan",
+      "url": "https://thehackernews.com/2026/10/linux-backdoors-impersonate-email.html",
+      "published": "2026-10-06T18:24:25+00:00",
+      "summary": "Linux backdoors targeting telecom and network appliances in South Korea and Taiwan have been disguising their traffic as email services and seemingly legitimate processes to blend in and evade detection.\n\nThreat actors are known to name their malicious software after a legitimate operating system component or a process as a defense evasion measure. By borrowing the name of a real binary, it may",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj42ncE2ZMHIbAm_fj5U9fqCYUvPwhyUiNbARM3CC5IxhnMXjIZ2ENa99UDGeaZqGPlqn53A7y7Nkz1ZxzzyykKxEb4GT0jxWhrar9Q5yPmBN1NL6599HRdbzbLSYf3WPuU7tkkY5eOsvhAT9dw-24DXuusztPyRr2H66840cWZx17MZ0B-rB877W19bgX1/s1600/linux-spam.jpg"
     },
     {
       "id": "893051a996ecd889df4b893632e47b6bb32fcb7a",
@@ -640,26 +662,59 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcFl1djJdJQkamdMtV0xibSpzc4ahUKNoVKtVoDSeKFJAYUkH2SnmxalYIJpaVZ9cywBJqyUflBrXWbhTIzpwL51iIyfINyH7z7YUHqDl3IbAJJmpCANlw8YvFFtmLa3T2es4rdE70Jd9tEUYAbuWFuXVBsx6Ar2radG2ZhgkqjBA5ZErCm0xVhNPv6d3F/s1600/watch-exploit.jpg"
     },
     {
-      "id": "d6d690a45d2cd808509e80e8c77574340f0e9181",
-      "title": "French Tax Data Theft Using Stolen Staff Passwords Went Undetected for Seven Weeks",
-      "url": "https://thehackernews.com/2026/09/french-tax-data-theft-using-stolen.html",
-      "published": "2026-09-29T17:47:01+00:00",
-      "summary": "An attacker used stolen passwords of staff at France's tax administration to take tax data on hundreds of thousands of taxpayers and businesses in June and July.\n\nNeither the tax administration nor France's national cybersecurity agency saw the data leave. The attack was not sophisticated, the agency, ANSSI, says in a&nbsp;report&nbsp;(in French) published on Tuesday: it worked because of weak",
-      "source": "The Hacker News",
+      "id": "a923f641b026bbc15c41f9ff4dc068a5d0e7a059",
+      "title": "ClickFix Attacks Evolve to Better Hide Malicious Payloads",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/clickfix-attacks-evolve-better-hide-malicious-payloads",
+      "published": "2026-10-06T20:32:58+00:00",
+      "summary": "Threat actors are now hiding payloads by using DNS TXT records and browser cache pre-fetching, making it tougher to spot early attack stages.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9h550xeoGqzMnMqY6B6Ejo9xeSvbx4fnnu1OmLWvhYAvYeLNB1zeik8F8yYB82oW685qieusoRaI27P68ugA34Vg0720ZZdLfQUJtuIjxkUYRgq_hQtivtsopRYYoddpwb4mICLERqQrVKtZv5EHg78rU14dlQmgevB0KsOR0ePvG4E8cpqKB1TyliaE/s1600/france.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2ab5c3db5bfeb9c5/6ac54ab0a727c6201593319b/Alligator_below_water-SushiSu-GettyImages-2215955885.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "id": "47cf7b5d49a9d48747bf353aac03665341877bf2",
-      "title": "New Spectre-v2 BTR Attack Leaks Linux Memory Despite Existing Defenses",
-      "url": "https://thehackernews.com/2026/09/new-spectre-v2-btr-attack-leaks-linux.html",
-      "published": "2026-09-29T17:20:17+00:00",
-      "summary": "A group of academics from VUSec and Scuola Superiore Sant'Anna have disclosed details of a new Spectre CPU vulnerability variant that affects Just-In-Time (JIT) engines present in web browsers, language runtimes, and the operating system kernel, across multiple CPU vendors.\n\nThe new Spectre v2 variant has been codenamed Branch Target Reuse (BTR).\n\n\"The key insight is that, while modern CPUs",
-      "source": "The Hacker News",
+      "id": "b53f151bdb97d97ea6bc348c11d123c0c91d7050",
+      "title": "Critical Healthcare Systems Aren't Quantum-Ready",
+      "url": "https://www.darkreading.com/iot/exposed-healthcare-systems-quantum-ready",
+      "published": "2026-10-06T20:30:27+00:00",
+      "summary": "A study of 2.5 million devices across 50 healthcare organization suggests the sector has a long way to go in getting ready for the post-quantum cryptography era.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCNHT9zDz8oOamcA5EH8a3KGAtk9R9bE_UxGY_uPThgxZJu9vX-YG1olbgiX5WBVdwDd52LpDfSyryC6GZ45tUi2bKLe_aWnbj0Ir3WQZeGYF8Vr7U7icoPn4tcuwfpOZagVfry-KG5_jzLPb-fbPiFBlv142UOgqAPpC193t6BslvCE1l1XWo2z5_mFYV/s1600/linux-intel.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt977a5014497395dd/6ac55a748f3ecad0e70f76ba/healthcare_greenbutterfly_shutterstock.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "id": "0e963e876be8023b69c02030f70ceeee68c9f047",
+      "title": "Google's PageBreak AI Agent Finds 500 Flaws in Its Web Apps",
+      "url": "https://www.darkreading.com/application-security/google-pagebreak-ai-agent-500-flaws-web-apps",
+      "published": "2026-10-06T17:56:29+00:00",
+      "summary": "The situation illustrates a trend toward using AI and deterministic validation to identify flaws and exploitability, and provide a risk assessment.",
+      "source": "DarkReading",
+      "region": "North America",
+      "country": "US",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9aa52673d7bb1596/6ac4ea88db91d789256c460d/working-with-AI-agents-ImageFlow-shutterstock.png?width=720&quality=80&disable=upscale"
+    },
+    {
+      "id": "3459d34bd6c11318fe35f00ea611d650e0dfdf75",
+      "title": "IANS' Kakolowski: How AI Is Reshaping CISO Budgets &amp; Security Teams",
+      "url": "https://www.darkreading.com/cybersecurity-operations/ai-reshaping-ciso-budgets-security-teams",
+      "published": "2026-10-06T17:15:24+00:00",
+      "summary": "In this video interview, Nick Kakolowski, senior director for CISO research at IANS, talks AI: budgets, ROI, and changes inside security teams.",
+      "source": "DarkReading",
+      "region": "North America",
+      "country": "US",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt95a7a25767db3b0f/6ac41c0b1d3e914583f43264/budgeting1800_PeopleImages_GettyImages.jpeg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "id": "ef90afea648e965fb3a35fd382eb15a821f30d05",
+      "title": "'BigDiskBuster' Leaves Microsoft Defender Running While Blocking Updates",
+      "url": "https://www.darkreading.com/application-security/bigdiskbuster-microsoft-defender-running-blocking-updates",
+      "published": "2026-10-06T16:59:24+00:00",
+      "summary": "Not quite an EDR-killer, but the proof-of-concept cyber technique creates a silent virus detection gap while service runs normally, no exploit required.",
+      "source": "DarkReading",
+      "region": "North America",
+      "country": "US",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3886ee964b5d16f1/6ac4000875ac86196ed5f175/broken_hard_drive-Bryngelzon-GettyImages-115958814.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "id": "777d177ab8f0a0c4d18a2137393f6b12805b82b7",
@@ -1157,59 +1212,26 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt74d88c8c5a1d995f/6ab4237757365f832ef41284/proxy_Josie_Elias_shutterstock_REVISED_FOR_16_BY_9.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "id": "dbbc7e7de225cedcd98a205c145c083dd0327e6d",
-      "title": "How the CISO-CMO Alliance Builds Trust Before Crisis Strikes",
-      "url": "https://www.darkreading.com/cybersecurity-operations/how-ciso-cmo-alliance-builds-trust-before-crisis",
-      "published": "2026-09-22T20:55:53+00:00",
-      "summary": "Cybersecurity and brand reputation are inextricably linked. Security and marketing leaders who establish regular touchpoints, develop joint crisis communications plans, and translate security risks into their brand impact position their organizations to significantly outperform those treating security as an operational IT concern.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd98594c897c0149d/6ab3b59c4df190afb349b1ae/CIO-CMO_iStock_BraunS-80244351.jpg?width=720&quality=80&disable=upscale"
+      "id": "9f73fae79456b9a97bb49ddcc57a903ac7590590",
+      "title": "Anthropic reconfigures its cool kids security program",
+      "url": "https://www.theregister.com/security/2026/10/07/anthropic-reconfigures-its-cool-kids-security-program/5301509",
+      "published": "2026-10-06T23:29:27+00:00",
+      "summary": "Company's Project Glasswing and Cyber Verification Program metamorphose into triple tier threat hunting club",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=5225031&width=800"
     },
     {
-      "id": "da2613f7ae841eae1b9c24631d20485ef78b6f75",
-      "title": "Microsoft Disrupts EvilTokens Device Code Phishing Service",
-      "url": "https://www.darkreading.com/identity-access-management-security/microsoft-disrupts-eviltokens-device-code-phishing-service",
-      "published": "2026-09-22T20:02:02+00:00",
-      "summary": "Microsoft seized 50 websites and disabled more than 150 domains as part of a coordinated disruption effort against a phishing-as-a-service platform targeting Microsoft 365 accounts.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3163f248ce2f1013/6ab2d46dc8295fafe642a234/skull_coins-breakermaximus-GettyImages-2092767456.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "id": "3a533d2b5ffeb5646cdcfda49b490e52c82141df",
-      "title": "Deception by Design: CISA's Guide to Tricking Cybercriminals",
-      "url": "https://www.darkreading.com/cybersecurity-operations/deception-by-design-cisa-s-guide-to-tricking-cybercriminals",
-      "published": "2026-09-22T19:59:24+00:00",
-      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) is going old school to help organizations with limited resources set traps for hackers.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9245dc925814d35b/6ab2e08efc4382617e907669/GettyImages-533045396.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "id": "a089dce24e36ecc7de149d038777fe9bb68dc9c9",
-      "title": "Amid Ongoing Rogue Incidents, Debate Over AI Safety Gets Real",
-      "url": "https://www.darkreading.com/cyber-risk/rogue-incidents-debate-ai-safety-gets-real",
-      "published": "2026-09-22T17:12:26+00:00",
-      "summary": "As more reports of misalignment incidents underscore AI risks, large AI labs, regular businesses, and even nations are searching for better ways to keep control and be secure.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt120d94fd93398e39/6aac5bbc223abe3d28c993b3/AI-dangers-laptop-hands-Digineer_Station-shutterstock.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "id": "ce85fbcadf918837ada3c7e4df1e0c10f693aa59",
-      "title": "More Than a Third of Industrial Orgs See Cybersecurity Risk as a Top Obstacle to Growth, Study Finds",
-      "url": "https://www.darkreading.com/cyber-risk/third-industrial-orgs-see-cybersecurity-risk-top-obstacle",
-      "published": "2026-09-22T12:00:00+00:00",
-      "summary": "Industrial companies are increasing cybersecurity investment as connected operations, AI adoption, and IT/OT convergence expand operational risk.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?width=720&quality=80&disable=upscale"
+      "id": "6952c5cbde821b6c33f6507442619b95cc43b60f",
+      "title": "Trump Mobile customers' data dumped - and some never even received their gold device",
+      "url": "https://www.theregister.com/security/2026/10/06/trump-mobile-customers-data-dumped-and-some-never-even-received-their-gold-device/5301433",
+      "published": "2026-10-06T17:32:25+00:00",
+      "summary": "All that glitters \u2026",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=5301440&width=800"
     },
     {
       "id": "c6f44786e5921b716fac72e6ad26d52034a15cac",
@@ -1740,28 +1762,6 @@
       "image": "https://image.theregister.com/?imageId=5223048&width=800"
     },
     {
-      "id": "47f5fabf00fb46d812c38401db9fdc9be3ce3195",
-      "title": "Decades-old file security flaws found in Android, Linux, macOS, and Windows",
-      "url": "https://www.theregister.com/security/2026/09/24/decades-old-file-security-flaws-found-in-android-linux-macos-and-windows/5298672",
-      "published": "2026-09-24T17:00:00+00:00",
-      "summary": "Security researchers report that Microsoft considers the side-channel leak of file events to be by design",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=5298676&width=800"
-    },
-    {
-      "id": "84b7313c26c3ad1c719fed343bc4fc0a1fe9afef",
-      "title": "CVE flood pushes Ubuntu onto weekly kernel release cycle",
-      "url": "https://www.theregister.com/os-platforms/2026/09/24/cve-flood-pushes-ubuntu-onto-weekly-kernel-release-cycle/5298912",
-      "published": "2026-09-24T16:33:00+00:00",
-      "summary": "AI-assisted bug hunting is helping pile up vulnerabilities faster than defenders can patch them, so Canonical is picking up the pace",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=5293976&width=800"
-    },
-    {
       "id": "9eea57edb89b54636f2899fac15a9de383674e26",
       "title": "Dutch Police Arrest \u2018Reformed\u2019 Hacker in Shiny Hunters Investigation",
       "url": "https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/",
@@ -1801,6 +1801,17 @@
       "published": "2026-09-08T21:44:22+00:00",
       "summary": "Microsoft Corp. today issued updates to plug at least 974 security holes in its Windows operating systems and other software, by far its biggest single patch batch ever. Microsoft says artificial intelligence is helping to speed the discovery of vulnerabilities, but security experts warn that many organizations already are struggling to prioritize the more human-intensive endeavor of testing and deploying so many fixes each month.",
       "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "4e888681b7b481dbb4acfb6d27c210cefebd030c",
+      "title": "Personal Information for Over 1 Million People Stolen in a Cyberattack on Arizona\u2019s Court System",
+      "url": "https://www.securityweek.com/personal-information-for-over-1-million-people-stolen-in-a-cyberattack-on-arizonas-court-system/",
+      "published": "2026-10-07T01:32:58+00:00",
+      "summary": "<p>The Arizona Supreme Court said the information was copied for people dating back as far as 30 years.</p>\n<p>The post <a href=\"https://www.securityweek.com/personal-information-for-over-1-million-people-stolen-in-a-cyberattack-on-arizonas-court-system/\">Personal Information for Over 1 Million People Stolen in a Cyberattack on Arizona\u2019s Court System</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
@@ -1899,17 +1910,6 @@
       "url": "https://www.securityweek.com/linux-backdoor-abuses-stun-protocol-exploits-dozens-of-flaws/",
       "published": "2026-10-05T13:00:00+00:00",
       "summary": "<p>ClingSTUN operates as a back-connect proxy backdoor, sets up persistence, and contains exploits for self-propagation.</p>\n<p>The post <a href=\"https://www.securityweek.com/linux-backdoor-abuses-stun-protocol-exploits-dozens-of-flaws/\">Linux Backdoor Abuses STUN Protocol, Exploits Dozens of Flaws</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "9a0ab446e9885f9ff6ceb19dc875f0c5a9248f55",
-      "title": "250,000 Impacted by Data Breaches at New Jersey, Texas Healthcare Firms",
-      "url": "https://www.securityweek.com/250000-impacted-by-data-breaches-at-new-jersey-texas-healthcare-firms/",
-      "published": "2026-10-05T12:35:15+00:00",
-      "summary": "<p>Hackers stole patient information from Clover Health Investments and AngMar Management Services in July.</p>\n<p>The post <a href=\"https://www.securityweek.com/250000-impacted-by-data-breaches-at-new-jersey-texas-healthcare-firms/\">250,000 Impacted by Data Breaches at New Jersey, Texas Healthcare Firms</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
