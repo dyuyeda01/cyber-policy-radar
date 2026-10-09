@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T18:02:11.832380+00:00",
+  "generated_at": "2026-10-09T03:14:47.306165+00:00",
   "items": [
     {
       "id": "f296c2104d10257a445c3c92800f8536c58da7b7",
@@ -110,6 +110,28 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "ffc305faa6eeb9788c962d09fd67636b4a8f845f",
+      "title": "FBI Says China-Linked Hackers Ran Portal Giving Third Parties Access to Stolen Emails",
+      "url": "https://thehackernews.com/2026/10/fbi-says-china-linked-hackers-ran.html",
+      "published": "2026-10-08T18:32:21+00:00",
+      "summary": "Hackers tied to a Chinese cybersecurity company stole email from government organizations, law enforcement agencies, healthcare systems, and religious institutions in Southeast Asia, the FBI and agencies in 6 other countries said on October 8.\n\nThe company, Integrity Technology Group, has been sanctioned by the U.S. and the UK. The hackers scanned websites for flaws using a tool containing more",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyj_ek8VTEYw5CpVqkAK63I01D84oGBvRsHmwpjeAfat3TCDqzhXqRWXWCGkNZKwH3rF0uyeuowCSGcBT-mLkdw-174FA0gGh8ZIVKOXUbXt9w0eTZZTlMGE-ySkZIIkswfxe0-cEU9ww6E8iIpWI2eDQU_NrsezDxIoE2WNBt8mDtG6nYeke9Ut17_JY/s1600/china-email.jpg"
+    },
+    {
+      "id": "f8595042a1981bc68ce7128358055ae242596127",
+      "title": "ThreatsDay: Ransomware Affiliate Betrayal, WhatsApp RAT, Exposed Hacker Tools and 12 More Stories",
+      "url": "https://thehackernews.com/2026/10/threatsday-ransomware-affiliate.html",
+      "published": "2026-10-08T17:58:02+00:00",
+      "summary": "The crooks have trust problems of their own. One ransomware affiliate decided to keep the profits for himself. Elsewhere, an attacker left a server exposed, complete with tools and traces of an intrusion. Apparently, keeping things secure is a problem on both sides of the fence.\n\nThe rest of the week isn't much more reassuring. Malicious code turned up in developer packages and extensions that",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgR_DE5ORKWCpLgZgXBuH-MFmuqfxFNnkGQxremc0ffY4dopMHnx-2HvgZTMh48BvVr8k22lGaM__jTS83DuXnLpF4NC9u4bsQF-8_K34gZU0kJS_-10pUSL7WNxecJG0pCiHyNFiqxXEqWP7NqUK2-uvwzo8-ETqwZkPWdNOjhNn5S1Y0uFQX2HGBE5_5J/s1600/t-day.jpg"
     },
     {
       "id": "e23311ff0ce108d3497a0b0d3a25d4a13c96ea47",
@@ -640,26 +662,26 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhcZguz-U3FsSD6t4YQ45EeFbgnWAy9lM28OAFydsLXZYzOS00aOD7pxUZcgvLMfMAO3SJV_Amu9SoNezLNQOvx823Z92CpqC5ow9XO3d7HJhEKZlwQt4H4Z7kirDwGcSrUyi1ONs_PuULNYjEjzae2c1mncDviOT9iqxD-PhmXCYpulTUNO2rtW5c9AAx/s1600/fortimail.jpg"
     },
     {
-      "id": "c1f2fe32465a9ae62bd3f523e587e43375588ead",
-      "title": "Police Arrest 16-Year-Old Suspected of Running KillSec, Seize Ransomware Leak Site and Servers",
-      "url": "https://thehackernews.com/2026/10/police-arrest-16-year-old-suspected-of.html",
-      "published": "2026-10-01T16:55:57+00:00",
-      "summary": "Police in Spain have arrested a 16-year-old whom investigators suspect of running the KillSec ransomware group. KillSec is accused of stealing data from organizations and threatening to publish it on its leak site unless they paid.\n\nThe 16-year-old was one of 3 people arrested on September 30, when police also took control of that site.\n\nInvestigators identified him as KillSec's suspected",
-      "source": "The Hacker News",
+      "id": "f5568cb9bcb2092555478e46dbf9af5a710f3019",
+      "title": "'AgentCorruption' Puts AWS Environments At Risk With Single Prompt",
+      "url": "https://www.darkreading.com/cloud-security/agentcorruption-aws-environments-at-risk-single-prompt",
+      "published": "2026-10-08T20:39:44+00:00",
+      "summary": "A now-patched vulnerability in AWS Bedrock AgentCore could allow an attacker to use one AI chatbot to take over an organization's entire fleet.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgy6XYYOXNZNjc51viw5FvCk49pWIXCCRS6yr_hl0ZKdwhBWRfYrCQ7bM6AJZJdmI_W3AEz1V3X0DAP6k39KfgjlKFfB5JcFaKN9zzIl1-7c49Vnuaz55yhRXjdmY5K2kIPuY_-7624KyVHqkHzikJIi11iClljnXv_3i2X21JiRCMU8ElmiHiZdHVQ7ws/s1600/killsec-ransomware.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7fb7357c5c7dbc54/6ac7f27aebe12bcaad81c134/aichatbot-_jittawit.21-Getty-1432457969.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "id": "f1d14dce844e54b225ce8b410b574db361e690cb",
-      "title": "ThreatsDay: AI-Powered Zero-Day Chain, 543K Live Secrets, Model Inspection RCE and 13 More Stories",
-      "url": "https://thehackernews.com/2026/10/threatsday-ai-powered-zero-day-chain.html",
-      "published": "2026-10-01T16:45:38+00:00",
-      "summary": "This week, the useful words are boring ones: inspect, cache, compile, store, trust. Each sounds harmless. Each can become an attack path when a system does a little more than people expect. A model check can run code. A cache can mix up requests. A public secret can stay useful for years.\n\nThat is the lesson running through the list. Attackers do not always need a brilliant new trick. They can",
-      "source": "The Hacker News",
+      "id": "90f714cac7b33a2d10ce141508c50158a7b0080d",
+      "title": "Venezuelan Cartel's Malware Honcho Nabbed for ATM Jackpotting",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/venezuelan-cartel-malware-honcho-nabbed-atm-jackpotting",
+      "published": "2026-10-08T19:08:16+00:00",
+      "summary": "The first cybercriminal to ever make the FBI's &quot;10 Most Wanted Fugitives&quot; list allegedly infused Tren de Aragua's violent criminal operations with cash.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOZPv0LS8-qPBgL_d1m8BLNikw8psPt9qtB_HiFNoYnVwBacYvwz4DdEixukdlHcy7IXmUB9dI9E_Hcx48HJIL7sQzmDeextP-Y_tHO9SX51i_SditMkVsRgWxyMekufW3yZFn2jI9nf29y3JEM2a_yFv8iTLDb6d3r1roNsea_Yk5TWCiMcvkmE5ZbP6B/s1600/oct-threatsday.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltef4e90a751faf3e5/6ac64ed06770201d6d216b2a/atm-keypad-pressing-buttons-Makhh-shutterstock.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "id": "6a96d5d7e3a89ef1bf65b168b7b017b6893d5d4d",
@@ -1190,26 +1212,26 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb78cadaedd123808/6728c89f936b643041fefd4a/framework-jozef_sedmak-Alamy-resized.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "id": "8e4e4844f4e587c98d41d7d0a5be6a3a3add5782",
-      "title": "Ghost Service Accounts Enable M365 Data Theft in Chile",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/ghost-service-accounts-m365-data-theft-chile",
-      "published": "2026-09-24T13:30:00+00:00",
-      "summary": "Even if the organization locks down employee accounts, forgotten and lost service accounts can still undo the organization's entire M365 environment.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt616fa081889caa0c/6ab405d757365f201ef41265/Chile-Gwengoat-Getty.jpg?width=720&quality=80&disable=upscale"
+      "id": "dab4d8e4a33fe928e4170e5dce30a0929d4097cf",
+      "title": "US disrupts Chinese hacking tools as 7 govts warn of PRC spies stealing sensitive data worldwide",
+      "url": "https://www.theregister.com/security/2026/10/08/us-disrupts-chinese-hacking-tools-as-7-govts-warn-of-prc-spies-stealing-sensitive-data-worldwide/5302107",
+      "published": "2026-10-08T21:59:00+00:00",
+      "summary": "Infecting devices from 2021 until the FBI stepped in",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=5288224&width=800"
     },
     {
-      "id": "ac73c3920c33c3d79c98c19d3ccedcc14488c03f",
-      "title": "Prompt-Injection Bug Hits $4B Agentic AI App 'Manus'",
-      "url": "https://www.darkreading.com/application-security/prompt-injection-bug-agentic-ai-app-manus",
-      "published": "2026-09-24T13:00:00+00:00",
-      "summary": "AI apps that interpret external data (read: most AI apps) need exceptionally rigorous security filters, or attackers can take advantage.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6cc4d4a12e6b7c68/6ab0590fdb2c1e1226ff0b0f/Hand_snap-Viktar_Sarkisian-Getty.jpg?width=720&quality=80&disable=upscale"
+      "id": "efdf2f4e0d5bd20dab6c98e988728de405f0c78a",
+      "title": "High-severity Nvidia bug could crash GPU monitoring on exposed servers",
+      "url": "https://www.theregister.com/security/2026/10/08/high-severity-nvidia-bug-could-crash-gpu-monitoring-on-exposed-servers/5302077",
+      "published": "2026-10-08T18:17:08+00:00",
+      "summary": "The GPU giant released a fix for the flaw, tracked as CVE-2026-47483",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=5302081&width=800"
     },
     {
       "id": "40f621da6d1414b041357939748faacef35f6ca4",
@@ -1740,28 +1762,6 @@
       "image": "https://image.theregister.com/?imageId=5299747&width=800"
     },
     {
-      "id": "2e4bbd9fff13de594f7abde1014c17990a79b8bb",
-      "title": "Former X-Force hackers chase the offensive cyber gold rush",
-      "url": "https://www.theregister.com/security/2026/09/29/former-x-force-hackers-chase-the-offensive-cyber-gold-rush/5299662",
-      "published": "2026-09-29T11:30:00+00:00",
-      "summary": "RemoteThreat launches with $7M, 1,000 attack tools, and ambitions to equip enterprises and Uncle Sam for AI-speed operations",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=235817&width=800"
-    },
-    {
-      "id": "9781d3f6a1487e869f7febe027bc480d9ae70ff6",
-      "title": "OpenAI\u2019s dirty deeds Down Under included security bypass attempts, using exposed keys, source code siphon",
-      "url": "https://www.theregister.com/ai-and-ml/2026/09/29/openais-dirty-deeds-down-under-included-security-bypass-attempts-using-exposed-keys-source-code-siphon/5299666",
-      "published": "2026-09-29T02:13:51+00:00",
-      "summary": "Admits its agents side-swiped four Australian government sites",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=5299671&width=800"
-    },
-    {
       "id": "4d0ab1e7dd5973407505c68437b8c46024786737",
       "title": "ShinyHunters Extorted Boeing Spin-off Prior to Arrests",
       "url": "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/",
@@ -1800,17 +1800,6 @@
       "url": "https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/",
       "published": "2026-09-16T18:14:22+00:00",
       "summary": "The consumer data broker Radaris.com has long had a reputation for ignoring requests to remove personal information from its vast empire of people-search services online. That reputation caught up with the company recently in a lawsuit alleging Radaris violated a New Jersey privacy law that provides for hefty fines against data brokers that publish personal information on state law enforcement officials. In the face of repeated stonewalling and prevarication by attorneys for Radaris, the judge in the case ordered that radaris.com and more than a dozen other data broker domains be transferred to the plaintiffs.",
-      "source": "Krebs on Security",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "c7e7ad60970c4251994034154a557f7aa3598a8b",
-      "title": "Microsoft Plugs Nearly 1,000 Security Holes",
-      "url": "https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/",
-      "published": "2026-09-08T21:44:22+00:00",
-      "summary": "Microsoft Corp. today issued updates to plug at least 974 security holes in its Windows operating systems and other software, by far its biggest single patch batch ever. Microsoft says artificial intelligence is helping to speed the discovery of vulnerabilities, but security experts warn that many organizations already are struggling to prioritize the more human-intensive endeavor of testing and deploying so many fixes each month.",
       "source": "Krebs on Security",
       "region": "Global",
       "country": "GL",
