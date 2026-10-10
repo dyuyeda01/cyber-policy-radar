@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-09T17:35:30.429882+00:00",
+  "generated_at": "2026-10-10T02:54:20.084075+00:00",
   "items": [
     {
       "id": "65197f1c6fda5ad9950715c0363f2b668a07cf5b",
       "title": "FBI seizes domains linked to China-nexus botnet",
       "url": "https://www.cybersecuritydive.com/news/fbi-seizes-domains-china-botnet-flax-typhoon/832611/",
       "published": "2026-10-09T14:16:01+00:00",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/PMCYMyYD9pmYzFwbmaM9R8yxhklX0hh-p6S_lz3q-FA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy02MjU3NTMzOTJfcUlTbTVkZi5qcGc=.webp\" /></div></figure><p>The infrastructure supported an international hacking campaign that targeted critical infrastructure, including a South Carolina-based power company.</p>",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/PMCYMyYD9pmYzFwbmaM9R8yxhklX0hh-p6S_lz3q-FA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy02MjU3NTMzOTJfcUlTbTVkZi5qcGc=.webp\" /></div></figure><p>The infrastructure supported an international hacking campaign that targeted critical providers, including a South Carolina-based power company.</p>",
       "source": "Cybersecurity Dive",
       "region": "North America",
       "country": "US",
@@ -17,7 +17,7 @@
       "title": "As frontier models go rogue, colleges beef up AI cybersecurity education",
       "url": "https://www.cybersecuritydive.com/news/ai-cybersecurity-education-university/832132/",
       "published": "2026-10-09T12:00:00+00:00",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/CZZCOM9zpm4SuL8FVB6FsybkOxGR-mJoMv5PM0xc90U/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMDkzNTIzMzEyX0p6Q0tZRVYuanBn.webp\" /></div></figure><p>Student interest in AI safety is surging, and schools are rushing to prepare for new career paths.</p>",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/CZZCOM9zpm4SuL8FVB6FsybkOxGR-mJoMv5PM0xc90U/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMDkzNTIzMzEyX0p6Q0tZRVYuanBn.webp\" /></div></figure><p>Student interest in AI safety is growing rapidly, and schools are rushing to prepare for new career paths.</p>",
       "source": "Cybersecurity Dive",
       "region": "North America",
       "country": "US",
@@ -110,6 +110,28 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "fbb467666674859b4730b1f8bf300e9ca5986880",
+      "title": "Credential-Stealing GitHub Actions Workflows Planted in Tens of Thousands of Repositories",
+      "url": "https://thehackernews.com/2026/10/credential-stealing-github-actions.html",
+      "published": "2026-10-09T19:14:28+00:00",
+      "summary": "Cybersecurity researchers have disclosed details of an ongoing credential-theft campaign that has compromised two high-profile open-source maintainer accounts to push a malicious workflow into over 340 repositories.\n\n\"Using the account of Takashi Kitao, author of the 18,400-star game engine pyxel, the attacker pushed a malicious workflow to 27 repositories starting at 13:20 UTC,\" StepSecurity",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoJXBEAVVijhwsYs32WSejvp0sG3ej-Qoi7Z6qHDp8rY5IZENkKOpexrbbU1BNyiCbbB0ZXHjEDL-UYqu7CDpPpoYLiGXkuLCZJTItgP5XeLD_Sb1galPzOGtrFZigEM5CGUbwi9gcL_-XCYY6NKu9j5FiakIWn5s66DZE-OjrLZO3sMGka3YNFvGUecJT/s1600/gitworm.jpg"
+    },
+    {
+      "id": "43d8a91bc2a7ef236d41a506f73d27fc3e41dbf4",
+      "title": "FBI Arrests Another ShinyHunters Suspect Reportedly Involved in Its Jobs Portal Hack",
+      "url": "https://thehackernews.com/2026/10/fbi-arrests-another-shinyhunters.html",
+      "published": "2026-10-09T17:45:26+00:00",
+      "summary": "The FBI has arrested another suspected co-conspirator of ShinyHunters, FBI Director Kash Patel said on October 9 in a&nbsp;post on X.\n\nShinyHunters is the extortion group that said in September it had&nbsp;breached the FBI's jobs portal&nbsp;and stolen sensitive data on almost all FBI agents and job applicants. The FBI has not named the suspect, and no charges have been made public.\n\nThe",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTRCTw1H9kT8UEVJYmaRrhHvMQEYFuE2TZqB62Wnxz8y4RIYOMald4OYO45ujfgSp0ixhgWVKb3_nJzoKV6gNuu_cKaN2Evnr9u7FlnwsPTPm9TPpikkUR-83UL3VrknNBzITPeFC8f1PKpYMwvH_AbBAFWcbPl61vUXJK1m0xJ_C5QYDIAGi_Ya-A5Tc/s1600/kash.jpg"
     },
     {
       "id": "dc7b54e8c00ace09f7ca527d4e327204b49e0450",
@@ -640,26 +662,26 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTCvFj7lVSH1eLS0oYdxqBa4wQkNQvuemuCAL5XqwKueywAUl8Fg6zY-5UT9cdx3fZZ81DHX_emE9JXthW_OfH-axyWn3bE5CpCp4CDs4HREWjv_1uBtt5iJE947S-Bkn-4Mn1Shwt1kV9FF4RO9Wa7_4jmUtvbWrx2zs4-cdSg-FkUtxW-erVx2CXKhU3/s1600/hfs-rce-main.jpg"
     },
     {
-      "id": "0c8dfb68badd7427b7c37c21d52a47427a23aaa5",
-      "title": "New NetScaler Zero-Day Exploited in Targeted Attacks Can Knock SAML Deployments Offline",
-      "url": "https://thehackernews.com/2026/10/new-netscaler-zero-day-exploited-in.html",
-      "published": "2026-10-05T06:40:19+00:00",
-      "summary": "Citrix has released security updates for a high-severity security flaw in NetScaler ADC and NetScaler Gateway that has been exploited as part of targeted zero-day attacks.\n\nThe vulnerability, tracked as CVE-2026-88779, carries a CVSS score of 8.7 out of 10.0.\n\n\"CVE-2026-88779 is a memory overflow vulnerability in Citrix NetScaler ADC and Citrix NetScaler Gateway that can lead to",
-      "source": "The Hacker News",
+      "id": "edcc711b1e7a119f75edf1b405512b1745d8a72a",
+      "title": "ASOS Breach Reveals the Risks in Customer-Facing SaaS",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/asos-breach-risks-customer-facing-saas",
+      "published": "2026-10-09T20:58:32+00:00",
+      "summary": "The attack on the British retailer shows that compromising a single identity can lead to much deeper penetration of the corporate network.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhV4of0Q-gWaIOffgWXdEfAxmI1ENcyrpDSSDjBurAHSpUuAI8lASQI5wrUvL3Evb0iqA31rRywo51olFOzoWe_lQ9cwN7Sp5QQw_2h-y44n0Va4vwlRQZipZ5fkm98BRmTOoVDPTs8pUMW_ClnH2GlPobgQQ33rNzL8EBnBW84aacH3dLXdyyLW9bBEqG5/s1600/citrix-offline.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2b112712c8bb12fb/6ac941a985fe76474e2a9b2b/Clothes-triocean-Getty.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "id": "9e761cdf74292555d935e49f91b31a4c15e3cba0",
-      "title": "ShinyHunters Suspect Rey Reportedly Detained in Jordan, Helping FBI Identify Group Members",
-      "url": "https://thehackernews.com/2026/10/shinyhunters-suspect-rey-reportedly.html",
-      "published": "2026-10-04T07:22:05+00:00",
-      "summary": "A suspected member of the ShinyHunters digital extortion group, who goes by the online alias \"Rey,\" has been allegedly detained by authorities in Jordan, Reuters reported, citing three people familiar with the matter.\n\nRey, whose real name is Saif \u200cal-Din Khader, is said to have been brought into custody on September 29, 2026, and cooperating with the U.S. Federal Bureau of Investigation (FBI)",
-      "source": "The Hacker News",
+      "id": "7a7f58a87f0e99e794fc42fca1e2ffffc2bf0ae1",
+      "title": "AI Scramble Drives Cybersecurity M&amp;A Boom",
+      "url": "https://www.darkreading.com/cybersecurity-analytics/ai-scramble-cybersecurity-ma-boom",
+      "published": "2026-10-09T19:26:26+00:00",
+      "summary": "Welcome to another gangbuster year for strategic M&amp;A activity in cyber, with 117 deals announced in the latest quarter. What's different: Many of the buyers are not your typical cybersecurity firms.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkLNgAfzHHwGX_2W-2iGuIMpKX_ZOPM0xFYMFDUp5kxBp3XfaRHV0EUwHsbvh45q8wVSYvblXfru1NzEKovvRqXHDNA82iWx6IbY_ihCrucvF5Bkr1JU8bVJ9KDzUi0wG1GRYvyPNb-1LcXTWzBhqLS5kRo9o2zf3DnqqcTNqk5gTtfbdC57w5SZnomx5U/s1600/shinyhunters-arrested.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt90b8b5144c2f800e/6ac8017e3277a45cef5b830f/Q3-MandA-deals-cybersecurity-Momentum_Cyber.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "id": "5d21e50f10d37cc855a63a9138b611655670f868",
@@ -674,10 +696,10 @@
     },
     {
       "id": "3a2f3756dcccab7649f03014b797c0963ecae45d",
-      "title": "Security Threats Don't Stop at the Office: Why Executives' Families Need Training Too",
+      "title": "Security Threats Don't Stop at the Office: Why Executives' Families Need Training, Too",
       "url": "https://www.darkreading.com/cyber-risk/security-threats-don-t-stop-at-the-office-why-executives-families-need-training-too",
       "published": "2026-10-09T16:25:05+00:00",
-      "summary": "Those closest to executives must match their security postures because the weakest link in a family becomes the entry point for attacks.",
+      "summary": "Those closest to executives must match their security postures because the weakest link in a family can become the entry point for attacks.",
       "source": "DarkReading",
       "region": "North America",
       "country": "US",
@@ -696,10 +718,10 @@
     },
     {
       "id": "f5568cb9bcb2092555478e46dbf9af5a710f3019",
-      "title": "'AgentCorruption' Puts AWS Environments At Risk With Single Prompt",
+      "title": "'AgentCorruption' Puts AWS Environments at Risk With Single Prompt",
       "url": "https://www.darkreading.com/cloud-security/agentcorruption-aws-environments-at-risk-single-prompt",
       "published": "2026-10-08T20:39:44+00:00",
-      "summary": "A now-patched vulnerability in AWS Bedrock AgentCore could've allowed an attacker to use one AI chatbot to take over an organization's entire fleet.",
+      "summary": "A now-patched vulnerability in AWS Bedrock AgentCore could have allowed an attacker to use one AI chatbot to take over an organization's entire fleet.",
       "source": "DarkReading",
       "region": "North America",
       "country": "US",
@@ -1190,26 +1212,15 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf21a6316df171b0e/6ab67c37f1423b08bb4916ee/IT-worker-silouette-manufacturing-DC_Studio-shutterstock.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "id": "75ab585d275425c67ba592a0cffda12c3105c380",
-      "title": "Russia's Hybrid Cyber-Physical War in Europe Heats Up",
-      "url": "https://www.darkreading.com/physical-security/russia-hybrid-cyber-physical-war-europe",
-      "published": "2026-09-25T07:00:00+00:00",
-      "summary": "A storm is raging in the form of cyber sabotage, disinformation, and drone attacks on European nations, particularly those that provide material support to Ukraine.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8a27dbac2edf719a/6ab57742417cfced0b651132/Cyber_Russia-traffic_analyzer-GettyImages-952919134.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "id": "84fafbac5110ff7bea94c5bbd10b3efc56e41908",
-      "title": "'Salesbleed' Exploits Salesforce Agents to Enable Slack Phishing",
-      "url": "https://www.darkreading.com/application-security/salesbleed-exploits-salesforce-agents-slack-phishing",
-      "published": "2026-09-24T21:04:03+00:00",
-      "summary": "Agentic AI can smuggle arbitrary instructions from the Web, across multiple apps, into trusted internal communications channels.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte47deb12795d1329/6ab55cc6323c1e2e79062eb7/Cloud_painting-Igor_Miller-Getty.jpg?width=720&quality=80&disable=upscale"
+      "id": "924aea9ba32e518f4b392d5ee9e846fb655cb3a4",
+      "title": "AWS AgentCore security undone by prompt requesting credentials",
+      "url": "https://www.theregister.com/security/2026/10/09/aws-agentcore-security-undone-by-prompt-requesting-credentials/5302436",
+      "published": "2026-10-09T19:15:48+00:00",
+      "summary": "Tokens transmitted in metadata, weak VM isolation, and expansive permissions make hacking a lot easier",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=5302441&width=800"
     },
     {
       "id": "6cef4003f8059c631c7f60a10780929ee5bce1d9",
@@ -1751,15 +1762,15 @@
       "image": "https://image.theregister.com/?imageId=5299648&width=800"
     },
     {
-      "id": "a4232b9d2c1858cfd8fbde898ac110a09079fa76",
-      "title": "Apple patches CoreGraphics zero-day already exploited in targeted attacks",
-      "url": "https://www.theregister.com/security/2026/09/29/apple-patches-coregraphics-zero-day-already-exploited-in-targeted-attacks/5299721",
-      "published": "2026-09-29T14:30:00+00:00",
-      "summary": "Meta-spotted flaw could hand attackers arbitrary code execution via a maliciously crafted file",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=5299734&width=800"
+      "id": "7f5dd566b2dd8d8cd689f202d357bb36a03a2891",
+      "title": "FBI Arrests Founder of Ransomware Negotiation Firm",
+      "url": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
+      "published": "2026-10-10T00:17:42+00:00",
+      "summary": "Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested the co-founder of a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that recently relieved the FBI of sensitive data on thousands of agents, multiple sources tell KrebsOnSecurity.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
       "id": "4d0ab1e7dd5973407505c68437b8c46024786737",
@@ -1801,6 +1812,17 @@
       "published": "2026-09-16T18:14:22+00:00",
       "summary": "The consumer data broker Radaris.com has long had a reputation for ignoring requests to remove personal information from its vast empire of people-search services online. That reputation caught up with the company recently in a lawsuit alleging Radaris violated a New Jersey privacy law that provides for hefty fines against data brokers that publish personal information on state law enforcement officials. In the face of repeated stonewalling and prevarication by attorneys for Radaris, the judge in the case ordered that radaris.com and more than a dozen other data broker domains be transferred to the plaintiffs.",
       "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "074da747e4e4f790b9fd61fba07f365edfc4d88f",
+      "title": "OpenAI Fires 3 Safety Researchers in Dispute Over AI Risks",
+      "url": "https://www.securityweek.com/openai-fires-3-safety-researchers-in-dispute-over-ai-risks/",
+      "published": "2026-10-09T21:07:46+00:00",
+      "summary": "<p>The ChatGPT maker said the researchers  \"violated clear policies on handling sensitive information.\u201d</p>\n<p>The post <a href=\"https://www.securityweek.com/openai-fires-3-safety-researchers-in-dispute-over-ai-risks/\">OpenAI Fires 3 Safety Researchers in Dispute Over AI Risks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
@@ -1899,17 +1921,6 @@
       "url": "https://www.securityweek.com/formula-predicts-when-ai-chatbots-are-at-risk-of-turning-bad/",
       "published": "2026-10-09T04:12:38+00:00",
       "summary": "<p>Researchers from George Washington University have published a paper examining whether the time and cause of AI going rogue can be predicted.</p>\n<p>The post <a href=\"https://www.securityweek.com/formula-predicts-when-ai-chatbots-are-at-risk-of-turning-bad/\">Formula Predicts When AI Chatbots Are at Risk of Turning Bad</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "26a56507df549a3aeb0cbf390dc00fac4bd4ad57",
-      "title": "Cisco Patches a Dozen Critical Vulnerabilities",
-      "url": "https://www.securityweek.com/cisco-patches-a-dozen-critical-vulnerabilities/",
-      "published": "2026-10-08T15:28:06+00:00",
-      "summary": "<p>The security defects could lead to unauthorized access, information leaks, privilege escalation, DoS attacks, and remote code execution.</p>\n<p>The post <a href=\"https://www.securityweek.com/cisco-patches-a-dozen-critical-vulnerabilities/\">Cisco Patches a Dozen Critical Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
