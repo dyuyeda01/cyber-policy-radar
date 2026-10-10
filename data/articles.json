@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-10T02:54:20.084075+00:00",
+  "generated_at": "2026-10-10T16:25:43.805068+00:00",
   "items": [
     {
       "id": "65197f1c6fda5ad9950715c0363f2b668a07cf5b",
       "title": "FBI seizes domains linked to China-nexus botnet",
       "url": "https://www.cybersecuritydive.com/news/fbi-seizes-domains-china-botnet-flax-typhoon/832611/",
       "published": "2026-10-09T14:16:01+00:00",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/PMCYMyYD9pmYzFwbmaM9R8yxhklX0hh-p6S_lz3q-FA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy02MjU3NTMzOTJfcUlTbTVkZi5qcGc=.webp\" /></div></figure><p>The infrastructure supported an international hacking campaign that targeted critical providers, including a South Carolina-based power company.</p>",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/PMCYMyYD9pmYzFwbmaM9R8yxhklX0hh-p6S_lz3q-FA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy02MjU3NTMzOTJfcUlTbTVkZi5qcGc=.webp\" /></div></figure><p>The infrastructure supported an international hacking campaign that targeted critical infrastructure, including a South Carolina-based power company.</p>",
       "source": "Cybersecurity Dive",
       "region": "North America",
       "country": "US",
@@ -17,7 +17,7 @@
       "title": "As frontier models go rogue, colleges beef up AI cybersecurity education",
       "url": "https://www.cybersecuritydive.com/news/ai-cybersecurity-education-university/832132/",
       "published": "2026-10-09T12:00:00+00:00",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/CZZCOM9zpm4SuL8FVB6FsybkOxGR-mJoMv5PM0xc90U/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMDkzNTIzMzEyX0p6Q0tZRVYuanBn.webp\" /></div></figure><p>Student interest in AI safety is growing rapidly, and schools are rushing to prepare for new career paths.</p>",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/CZZCOM9zpm4SuL8FVB6FsybkOxGR-mJoMv5PM0xc90U/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMDkzNTIzMzEyX0p6Q0tZRVYuanBn.webp\" /></div></figure><p>Student interest in AI safety is surging, and schools are rushing to prepare for new career paths.</p>",
       "source": "Cybersecurity Dive",
       "region": "North America",
       "country": "US",
@@ -110,6 +110,28 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "4f95732c4969a2353a318bf6c6580f7079301dd7",
+      "title": "The Third-Party Agent Problem: Why Security Built for AI You Chose Misses the Agents You Didn't",
+      "url": "https://thehackernews.com/2026/10/the-third-party-agent-problem-why.html",
+      "published": "2026-10-10T11:00:00+00:00",
+      "summary": "In environments studied for the 2026 State of Agent Security Report, roughly 1,280 third-party products now embed AI. About 282 of them sit behind single sign-on. The other thousand are invisible to identity infrastructure by default, not because anyone hid them, but because an identity stack can only govern what authenticates through it, and most agents never do.\n\nThat gap is the clearest",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghemGbtxM2amUYAlxUPHPdMiyDMQJFWZeY-dDODRqCRD0phZXXQv0rrKHiOsLPW3t0Fq2XxvvFyCC-OmNs7TXhXXKSRVMPpC1GPKSUsyzN9t-W6L4jtiA2DUiTLgou4iyw0QXN-6Wfz0H2zWYGgC6-OxtlQrfb0PygOeBWwDnR11nl3Gl8W5pL07sExNc/s1600/reco.gif"
+    },
+    {
+      "id": "ebcd6167a2366d08a65f2a07f39f34580512e345",
+      "title": "Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws",
+      "url": "https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html",
+      "published": "2026-10-10T09:18:45+00:00",
+      "summary": "Anthropic on Friday said it's cutting off live internet access for all its internal evaluations following the discovery of new incidents in which its artificial intelligence (AI) models exhibited misaligned behavior and targeted real websites.\n\nThe AI company said it identified four broad categories of unintended model actions during evaluations and internal use of Claude -\n\n\n  Claude Mythos",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgk6Q5kUrLA2Pfuqcghyphenhyphen1q3pECWSE72HYp9BB9GM5i3b_6XxNHMtwlR7yrPj_xTpcwoIaMy0vJt8A1g_D9Riz6JhbU5WyVPV69DFvk1oIzv2jp-eG-qbfx8lIHF2zX_XEAxz5gC51xn2hPUwYVh9thUuQslxqfIp1Pg3bgmWQYaXXW4LuUxTdUZzUo2R22C/s1600/claude-internet.jpg"
     },
     {
       "id": "fbb467666674859b4730b1f8bf300e9ca5986880",
@@ -638,28 +660,6 @@
       "region": "North America",
       "country": "US",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeczuQyi5eCbsZFxILJKWiHZ8_JC8gnKqr2sExCgq_Dk-7879VVbd8qcA475L-uEn3X30CIyqn-iDilE7Sl9T5FM3XGFPU6LbyE7KUH8OpWTjlirCFq8EaY-MuielVGOXFuECLLpehX9R8HQrniMulUnAUd2f_uRbZ1Fget8hT0Tf19c1N-q06dtFpAZPj/s1600/botnet.jpg"
-    },
-    {
-      "id": "4a8712355bea80e4868dccc84d2854be88353a93",
-      "title": "Apple Plans Tighter macOS Full Disk Access Controls Over AI Agent Data Access",
-      "url": "https://thehackernews.com/2026/10/apple-plans-tighter-macos-full-disk.html",
-      "published": "2026-10-05T10:38:50+00:00",
-      "summary": "Apple has announced that it's taking steps to tighten controls around a macOS setting called Full Disk Access (FDA) due to security risks posed by artificial intelligence (AI) agents.\n\n\"Some developers are using Full Disk Access in ways that could put users at risk, exposing everything on their systems\u2014including files, mail, messages, and even browsing history \u2013 without users' full knowledge",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDBg5lUcW7uXfKt2vo4Pq5MQUxOty2Xq3pApCIyhUAuSpTzu1jR_CGkNNS2UkAKxYvqk4KCyP1Ehr0PYcW6xVolcSuSdfRPx4rSDDnkuAKaCkgBii_l7kH-s9u7oEhyK2FpvAnaTRWDV48t9XBXEv-MpUIWhBaZYIBx3CFY_zSUXxdw-3C5rB_30Y0VEtf/s1600/macos-ai.jpg"
-    },
-    {
-      "id": "984946d5750a4e3ab5017b385ac7e7463b964dc7",
-      "title": "Attackers Target Rejetto HFS Flaw That Enables Admin Session Forgery and RCE",
-      "url": "https://thehackernews.com/2026/10/attackers-target-rejetto-hfs-flaw-that.html",
-      "published": "2026-10-05T08:09:23+00:00",
-      "summary": "A critical security flaw impacting Rejetto HTTP File Server (HFS) is witnessing active exploitation attempts, according to VulnCheck.\n\nThe vulnerability in question is CVE-2026-61500 (CVSS score: 9.3), a case of session forgery stemming from the use of a weak pseudo-random number generator (PRNG) that can lead to a predictable key, which an attacker can then use to gain unauthorized access and",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTCvFj7lVSH1eLS0oYdxqBa4wQkNQvuemuCAL5XqwKueywAUl8Fg6zY-5UT9cdx3fZZ81DHX_emE9JXthW_OfH-axyWn3bE5CpCp4CDs4HREWjv_1uBtt5iJE947S-Bkn-4Mn1Shwt1kV9FF4RO9Wa7_4jmUtvbWrx2zs4-cdSg-FkUtxW-erVx2CXKhU3/s1600/hfs-rce-main.jpg"
     },
     {
       "id": "edcc711b1e7a119f75edf1b405512b1745d8a72a",
@@ -1212,6 +1212,17 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf21a6316df171b0e/6ab67c37f1423b08bb4916ee/IT-worker-silouette-manufacturing-DC_Studio-shutterstock.jpg?width=720&quality=80&disable=upscale"
     },
     {
+      "id": "3d15435ffe4d6ead3d90cfd83a5c98dc1208912d",
+      "title": "Two characters open up a world of typosquatting opportunities in Chromium browsers",
+      "url": "https://www.theregister.com/security/2026/10/10/two-characters-open-up-a-world-of-typosquatting-opportunities-in-chromium-browsers/5302383",
+      "published": "2026-10-10T10:15:00+00:00",
+      "summary": "Attackers abusing rare Cyrillic and Latin letters to impersonate popular websites",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=262149&width=800"
+    },
+    {
       "id": "924aea9ba32e518f4b392d5ee9e846fb655cb3a4",
       "title": "AWS AgentCore security undone by prompt requesting credentials",
       "url": "https://www.theregister.com/security/2026/10/09/aws-agentcore-security-undone-by-prompt-requesting-credentials/5302436",
@@ -1751,19 +1762,8 @@
       "image": "https://image.theregister.com/?imageId=228319&width=800"
     },
     {
-      "id": "41ca03af674a1b4ad4a8124f7fc0cfd7c2d8b17a",
-      "title": "AI models keep posting screenshots showing sensitive data from inside tech companies",
-      "url": "https://www.theregister.com/ai-and-ml/2026/09/29/ai-models-keep-posting-screenshots-showing-sensitive-data-from-inside-tech-companies/5299640",
-      "published": "2026-09-29T16:00:00+00:00",
-      "summary": "Glow Security finds more than 13,000 publicly accessible images that expose corporate development work",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=5299648&width=800"
-    },
-    {
       "id": "7f5dd566b2dd8d8cd689f202d357bb36a03a2891",
-      "title": "FBI Arrests Founder of Ransomware Negotiation Firm",
+      "title": "FBI Arrests Executive at Ransomware Negotiation Firm",
       "url": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
       "published": "2026-10-10T00:17:42+00:00",
       "summary": "Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested the co-founder of a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that recently relieved the FBI of sensitive data on thousands of agents, multiple sources tell KrebsOnSecurity.",
@@ -1812,6 +1812,17 @@
       "published": "2026-09-16T18:14:22+00:00",
       "summary": "The consumer data broker Radaris.com has long had a reputation for ignoring requests to remove personal information from its vast empire of people-search services online. That reputation caught up with the company recently in a lawsuit alleging Radaris violated a New Jersey privacy law that provides for hefty fines against data brokers that publish personal information on state law enforcement officials. In the face of repeated stonewalling and prevarication by attorneys for Radaris, the judge in the case ordered that radaris.com and more than a dozen other data broker domains be transferred to the plaintiffs.",
       "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "bf4931f049834009914c70e1deb0e7fd32218399",
+      "title": "Insider Cyber Extortion Plot Against Industrial Firm Lands Engineer in Prison",
+      "url": "https://www.securityweek.com/insider-cyber-extortion-plot-against-industrial-firm-lands-engineer-in-prison/",
+      "published": "2026-10-10T11:00:00+00:00",
+      "summary": "<p>The former core infrastructure engineer deleted admin accounts, reset hundreds of passwords, and demanded 20 bitcoin to spare the company\u2019s servers.</p>\n<p>The post <a href=\"https://www.securityweek.com/insider-cyber-extortion-plot-against-industrial-firm-lands-engineer-in-prison/\">Insider Cyber Extortion Plot Against Industrial Firm Lands Engineer in Prison</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
@@ -1910,17 +1921,6 @@
       "url": "https://www.securityweek.com/google-pixel-10-exploits-earned-hackers-560000-at-pwn2own/",
       "published": "2026-10-09T06:39:55+00:00",
       "summary": "<p>$1.2 million was paid out at Pwn2Own Ireland 2026 for exploits targeting phones, printers, smart speakers, smart home hubs, and AI infrastructure and coding tools.</p>\n<p>The post <a href=\"https://www.securityweek.com/google-pixel-10-exploits-earned-hackers-560000-at-pwn2own/\">Google Pixel 10 Exploits Earned Hackers $560,000 at Pwn2Own</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "1838c6d3bcfb013c32480fc2da191030e8f31d25",
-      "title": "Formula Predicts When AI Chatbots Are at Risk of Turning Bad",
-      "url": "https://www.securityweek.com/formula-predicts-when-ai-chatbots-are-at-risk-of-turning-bad/",
-      "published": "2026-10-09T04:12:38+00:00",
-      "summary": "<p>Researchers from George Washington University have published a paper examining whether the time and cause of AI going rogue can be predicted.</p>\n<p>The post <a href=\"https://www.securityweek.com/formula-predicts-when-ai-chatbots-are-at-risk-of-turning-bad/\">Formula Predicts When AI Chatbots Are at Risk of Turning Bad</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
