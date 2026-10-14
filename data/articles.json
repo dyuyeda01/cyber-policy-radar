@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-13T18:33:32.420930+00:00",
+  "generated_at": "2026-10-14T02:17:58.929725+00:00",
   "items": [
     {
       "id": "e19ce49e8593f3e44c232ffd47eeda731e5036e7",
       "title": "Dangerous flaws in refrigeration equipment were disclosed months before retail attacks",
       "url": "https://www.cybersecuritydive.com/news/refrigeration-france-cyber/832858/",
       "published": "2026-10-13T14:59:10+00:00",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/Rk_Xgypiql2Xjny0Bp7regFnPdrdYr-mfF4U_Kw8a18/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMDE3ODA0MDYyLmpwZw==.webp\" /></div></figure><p>&nbsp;Hundreds of French supermarkets faced a sophisticated hack where industrial controls were manipulated.</p>",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/Rk_Xgypiql2Xjny0Bp7regFnPdrdYr-mfF4U_Kw8a18/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMDE3ODA0MDYyLmpwZw==.webp\" /></div></figure><p>Hundreds of French supermarkets faced a sophisticated cyberattack, allowing hackers to manipulate industrial controls.</p>",
       "source": "Cybersecurity Dive",
       "region": "North America",
       "country": "US",
@@ -17,7 +17,7 @@
       "title": "Businesses need more integrated risk management to counter cyberattacks, AI-powered fraud",
       "url": "https://www.cybersecuritydive.com/news/cybersecurity-risk-management-ai-governance-grant-thornton/832850/",
       "published": "2026-10-13T14:38:52+00:00",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/OeoH-S2dYHv2TVsKdzD36ppqZGY-DZQWt7bCS-OBd1I/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTI4NDkwMzA0LmpwZy5qcGVn.webp\" /></div></figure><p>Risks are growing at a time when companies are relying more than ever on vendors for cybersecurity, according to a new report.</p>",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/OeoH-S2dYHv2TVsKdzD36ppqZGY-DZQWt7bCS-OBd1I/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTI4NDkwMzA0LmpwZy5qcGVn.webp\" /></div></figure><p>Risks are growing at a time when companies rely more than ever on vendors for cybersecurity, according to a new report.</p>",
       "source": "Cybersecurity Dive",
       "region": "North America",
       "country": "US",
@@ -110,6 +110,50 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "d9ed76a64d3ea742b8854ce4acd88ff8e19aedab",
+      "title": "Anthropic Warns Small AI Models Could Soon Form Self-Propagating IoT Botnets",
+      "url": "https://thehackernews.com/2026/10/anthropic-warns-small-ai-models-could.html",
+      "published": "2026-10-13T18:20:57+00:00",
+      "summary": "Small artificial intelligence (AI) models may be months away from developing capabilities to self-replicate on IoT devices like smart ovens and off-brand Android TV boxes, according to a warning from Anthropic.\n\nThe frontier AI lab said small AI models could form autonomous, self-propagating worm botnets that are \"challenging to shut down,\" since \"there's no centralized point to shut off.\"",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigX1U6rARsREVvdJOVd0vGWuybd8470_G2xcVMyp0u_rHrimpzBkv2-Qyo_qcx_9BpQOlndrW-P1tpya8dQwnEscYsg1NYPq3kGXKayoosc20QHDXRyadNlRMTuSa2KKSaI0qoq4gO415S3LTux5cPcUieRF6PW4xzeILW-D80v3jkwWRni7y51t4Y6Hnu/s1600/ai-botnet.jpg"
+    },
+    {
+      "id": "8187d0f2ac60bf6f6560ef4d27402a712c1a7e2e",
+      "title": "Docker Fixes Critical Two-Year-Old Hub Flaw That Let One User Push Images as Another",
+      "url": "https://thehackernews.com/2026/10/docker-fixes-critical-two-year-old-hub.html",
+      "published": "2026-10-13T18:03:18+00:00",
+      "summary": "A flaw in Docker Hub, the registry where container images are published and downloaded, let one user push, pull, or delete images as another user. Docker fixed the flaw on September 30 and says it found no evidence that anyone exploited it.\n\nThe flaw was in the feature that&nbsp;converts a personal account&nbsp;into an organization, Docker said in a&nbsp;security advisory&nbsp;on October 12.",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEile879Rmv8zAdU5PMclUp5RnNGDb3h1u3aVZ-VigGjnO0RFcyCQ03s7_lIqMGDiow5ilPumq3B2_bsvewqRlepch4lFwLvOUEDQZPYd9Vv8untJVZFmrv5Zhgvj54cs4J_vCYW4GVY-XsQl7SXD-yrXbED6KpiWbTq-kL_0aNwef3xjV3cBGQ3dsodqAM/s1600/dock.jpg"
+    },
+    {
+      "id": "fb99d329a170ccdf90361b408a1b6b357ac741ed",
+      "title": "Attacker Chains Three Ivanti Connect Secure Zero-Days for Root Access, Only Two Patched So Far",
+      "url": "https://thehackernews.com/2026/10/attacker-chains-three-ivanti-connect.html",
+      "published": "2026-10-13T17:33:11+00:00",
+      "summary": "An attacker chained three zero-day flaws in Ivanti Connect Secure, a VPN appliance, to run commands as root without logging in, security firm&nbsp;Volexity said&nbsp;on October 13. Ivanti has released fixes for two of the flaws and told customers on affected versions to \"act immediately.\" A fix for the third is still pending, according to Volexity.\n\nVolexity, which reported the flaws to Ivanti,",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZSH26NsXmSsQGaAbhNyJLMaBQKFCmabIbFZ_yi2sUGXjHQOVztQEQfXLarEAx1Fl9lRwGAryBE4zZEooJ4cochODcB4x8wQnPl3MRWiyBcpyEV6i8VPxvwcLHmShQVZVhuOcTjMXRhHAlx4Y0Uo85c74EVU4cea84YgXju02I9jlNzcGOFtLfa_am82Q/s1600/ivanti-hack.jpg"
+    },
+    {
+      "id": "6e56ced53da56dc2b3e2db615d233c7953f430f3",
+      "title": "SAP Discloses Critical CVSS 10 Flaw in Cloud SDK for Python Allowing OAuth2 Credential Theft",
+      "url": "https://thehackernews.com/2026/10/sap-discloses-critical-cvss-10-flaw-in.html",
+      "published": "2026-10-13T17:28:50+00:00",
+      "summary": "A flaw in SAP's&nbsp;Cloud SDK for Python&nbsp;can send an application's OAuth2 client credentials to a server an attacker controls, SAP said in a&nbsp;security advisory&nbsp;on October 13. The flaw affects multi-tenant applications on SAP Business Technology Platform (BTP) that use the SDK, SAP's official Python client for BTP services. An attacker must be able to control the tenant subdomain,",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKBZR5elkBVKRcFO6lyde7XYDVO73IBxDvnx9-UkLst3GhVFuK8Yz3QBVIIEJABDjZuJMn8tyf7RLLPIRV8J8qe-OUULjnQRaQNyWricSsOjlKJoyYu8WOvs5PxBWQpzuiq8hlDlOY7zY-qIYDgQ6NFuifS5GbHbnLBET0OTfmsMC8797Mo5un9_ECyg8/s1600/sap-hacker.jpg"
     },
     {
       "id": "3770e65c491fe5dfacc0fc5b2f8abd2d295a5c1b",
@@ -618,48 +662,37 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwlATRFpnJdFH1E6zK00EDXPizTTgy_gfddNnBMuBwwMsatfG5_PB-S_S9uGdDW-MuTX8HzGLataU3yDJ6MdkTBN8fwntNgZIIIy9ljbQLD-6Httyo9ouWJ7rF-KjfIKTn5rMSlBURgeV9JyIPZKDg4jWpd4I0vhCifCzisPojOQcCH_QEpWCvO8WmydA/s1600/Proofpoint.png"
     },
     {
-      "id": "9f1a8977892018e92868669c6ec02440bf608392",
-      "title": "FBI Warns FortiBleed Remains Active After Amassing 86,644 Fortinet Device Credentials",
-      "url": "https://thehackernews.com/2026/10/fbi-warns-fortibleed-remains-active.html",
-      "published": "2026-10-07T11:56:56+00:00",
-      "summary": "The U.S. Federal Bureau of Investigation (FBI) and Secret Service (USSS) on Tuesday warned that the FortiBleed credential harvesting campaign remains an active threat aimed at internet-facing Fortinet FortiGate firewalls and secure socket layer (SSL) virtual private network (VPN) gateways.\n\n\"The campaign exploits reused or leaked credentials and legacy SHA-256 password storage, enabling threat",
-      "source": "The Hacker News",
+      "id": "841edbc362aba60e5718ec14463656a9f7fa2429",
+      "title": "Zero-Days Lurk in Microsoft's Overgrown October Patch Tuesday",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/zero-days-microsoft-october-patch-tuesday",
+      "published": "2026-10-13T22:29:57+00:00",
+      "summary": "The scary surprises for the largest security update ever include security bypasses and unauthenticated RCEs.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQZeKQIcHTVLgqnHpZYN73YclFawl51QxpykrKEb97sAJjA8qtN7FaUJaS0jLMeSS29cTB0nR_yFzsITX_e5SI8Xa8BfM1LDOGsEEEpDmVC8YNqOcEYEuep1UbHovyLlxrwRmYZ3FrbaaKq9eKwICiUTkkPleIibOHdWnbV5cpwYPCrHQasrTxVFA9seQ-/s1600/forti-admin.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2208c9717985ba6f/6aceb2c101a45e612a7baa2b/harvest-China_Photos-GettyImages-71574532.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "id": "78d1d9b56302a600e02cb33a3b485cee5aec6800",
-      "title": "Atlassian Data Center Flaw Draws Exploitation Attempts Within Two Hours of Public Details",
-      "url": "https://thehackernews.com/2026/10/atlassian-data-center-flaw-draws.html",
-      "published": "2026-10-07T11:49:26+00:00",
-      "summary": "Threat actors have begun to exploit a newly disclosed critical security flaw impacting Atlassian Data Center products that could allow access to sensitive files under certain conditions.\n\nThe arbitrary file access flaw, tracked as CVE-2026-21589 (CVSS score: 9.3) affects multiple products, including Bitbucket Data Center, Confluence Data Center, Jira Service Management Data Center, Jira Software",
-      "source": "The Hacker News",
+      "id": "c237a5931a6317bb72c8bcb094ccd53b778dc287",
+      "title": "North Korea Phishes Ukrainians for War Intel",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/north-korea-phishes-ukrainians-war-intel",
+      "published": "2026-10-13T21:24:45+00:00",
+      "summary": "The Democratic People's Republic of Korea (DPRK) is trying to get insight into its own war effort in Ukraine, through simple reply-baiting phishing attacks.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEityRbZfy1N9Y0SuqWl7yeWTYMjeirrTbDx719fM65Be6yXOt2Zl0YweAi0hAfswNzV_LrHa4eFCpcCemC3FNwxZve4bPkSelQiRnCdXpZofAnI7Si96nULBV6i25jgFaZkEY1T3LuPRhj6QzTSsWHZtLuoH1zXlLKZN3WwSiKS7QoY_Zug0CtaaCGozT6N/s1600/jira-attack.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7314e52d65e066f0/6ace87d8c13815714705c3f3/Ukraine_DPRK-MicroStockHub-Getty.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "id": "ecf0f242fd12abd3ae0958f2f2ee098bd83061c8",
-      "title": "What Is Agentic Pentesting? What It Proves, and Where It Stops.",
-      "url": "https://thehackernews.com/2026/10/what-is-agentic-pentesting-what-it.html",
-      "published": "2026-10-07T11:42:24+00:00",
-      "summary": "If you\u2019re evaluating an agentic pentesting solution right now, you\u2019ve probably heard the same pitch more than once: point it at a target, and it discovers, validates, and exploits attack paths autonomously, the way a real attacker would.\n\nThat promise is worth taking seriously. It\u2019s also worth pressure testing, and three questions do the heavy lifting.&nbsp;\n\n\n  What can the assessment actually",
-      "source": "The Hacker News",
+      "id": "a240599f4fed05f6d19af97d86ed5878632030ef",
+      "title": "Anthropic Finds Ingredients for Future AI Worms",
+      "url": "https://www.darkreading.com/perimeter/anthropic-ingredients-future-ai-worms",
+      "published": "2026-10-13T20:35:23+00:00",
+      "summary": "Anthropic's latest study combined IoT and network tests to explore AI self-replication, which researchers said would be &quot;challenging&quot; to shut down.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiO1QPuCVJ1H3gtD86nRRlfnM6eqqqaj0OebVAzFmzsFPWvzvQJhgkREoKOwTkm8c4tqQru3V3rxzEswwX_F_cjqz_v3CG1wNrLNblT0uror88ZssE0gIRR7YNbfDvOj3QTGdqpT1z7j2HFmWiZ-_lIN9FEaCsCt32Z0k0GvOiguuLRiuMPu4Tp-YdSlW8/s1600/picus.jpg"
-    },
-    {
-      "id": "c6065c24705db99412222b45d7f938151ca0f4c6",
-      "title": "Anthropic Expands Claude Access for Vetted Cyber Teams as Glasswing Finds 129,000 Flaws",
-      "url": "https://thehackernews.com/2026/10/anthropic-expands-claude-access-for.html",
-      "published": "2026-10-07T08:07:38+00:00",
-      "summary": "Anthropic on Tuesday said it's expanding a program that allows vetted cybersecurity professionals to test its advanced artificial intelligence (AI) models with reduced safeguards and blocking classifiers, as the company claimed its Project Glasswing initiative uncovered at least 129,000 verified software vulnerabilities between April and July 2026.\n\nThe company said it also found an additional",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimg1tAvNh5aMWuNTZXjb4kKfxIQ0iWkuo2bCznozA8oz2Fm36WzbPnBI1bBDX5Mc3hpyOMIcjS_fcdYzzpQnrtUkex17u0_fn7r3bgcRYEN4o2hoGf4vlw5hQKEgcDd2VoVT2P9unKzsVOlly1QFlu6WfySqGPZ4Pf7xrZXaL4pEy1vrhWQBHR7SiqHHvf/s1600/claude-flaws.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5a7173d7327bf884/6ace896bf0c55fc247c760d8/sour_gummy_worms-bhofack2-GettyImages-824425918.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "id": "6512ad6a9c13d351bca61db1392df049a3146413",
@@ -1177,39 +1210,6 @@
       "region": "North America",
       "country": "US",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte42c5730d22cf0f1/6abab79a8ce025f8ce48d849/botnet_cyber_attack-Hengki_Lestio-GettyImages-2232351432.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "id": "7df979e3443dc6ced51e8bc6cfb8de8cd9744aef",
-      "title": "AI Agents Are Privileged Users; Who Is Auditing Their Access?",
-      "url": "https://www.darkreading.com/vulnerabilities-threats/ai-agents-are-privileged-users-who-is-auditing-their-access",
-      "published": "2026-09-28T18:44:22+00:00",
-      "summary": "Enterprises regularly rigorously monitor human employees, while autonomous AI agents quietly operate with broad privileges that could turn them into the next generation of insider threats.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6c9f5fa659c439fa/6abab77dfee74bb9c8c001cc/AI_agent-MF3d-Getty-2217030312.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "id": "2a1fced464bdfccbe1e1f32f2eb6fe37431edad3",
-      "title": "Chrome Store Hosts 'Poper Blocker' Spyware Downloaded by Millions",
-      "url": "https://www.darkreading.com/application-security/chrome-store-poper-blocker-spyware-downloaded-millions",
-      "published": "2026-09-28T16:51:25+00:00",
-      "summary": "A purported ad-blocker exfiltrates reams of sensitive information and benefits from having Google's stamp of approval despite researcher warnings.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt58ef6fb504edd4a8/6ab6fbfc80fa6786057ac6ea/Spying-DrAfter123-Getty.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "id": "b783a4aa9a9a167350ef009cdd40feb716b89b0b",
-      "title": "JadePuffer AI Actor Compromises Azure Tenant in Destructive Cloud Attack",
-      "url": "https://www.darkreading.com/cloud-security/jadepuffer-ai-actor-azure-tenant-destructive-cloud-attack",
-      "published": "2026-09-28T15:33:21+00:00",
-      "summary": "The &quot;agentic threat actor&quot; may have used exposed credentials to access resources and delete cloud-based storage, applications, and databases.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltbc06310368e21110/6a4bdbe6a6d4757864059ce1/llm-Boy_Wirat-Getty-2149059417.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "id": "872f31f1652880ce4de4eb7cb2c11b6887a156a4",
@@ -1762,6 +1762,17 @@
       "image": "https://image.theregister.com/?imageId=5251523&width=800"
     },
     {
+      "id": "83d130e7ba9f7dd16780b5aa051506c65599588d",
+      "title": "Microsoft Patches More Than 1,400 Security Flaws",
+      "url": "https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/",
+      "published": "2026-10-13T23:24:53+00:00",
+      "summary": "Microsoft today issued updates to fix more than 1,400 security vulnerabilities in its Windows operating systems and other software. Today's epic patch batch dwarfs September's record of nearly 1,000 fixes, which was already about ten times the normal monthly patch load from Redmond.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "7f5dd566b2dd8d8cd689f202d357bb36a03a2891",
       "title": "FBI Arrests Executive at Ransomware Negotiation Firm",
       "url": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
@@ -1812,6 +1823,28 @@
       "published": "2026-09-16T18:14:22+00:00",
       "summary": "The consumer data broker Radaris.com has long had a reputation for ignoring requests to remove personal information from its vast empire of people-search services online. That reputation caught up with the company recently in a lawsuit alleging Radaris violated a New Jersey privacy law that provides for hefty fines against data brokers that publish personal information on state law enforcement officials. In the face of repeated stonewalling and prevarication by attorneys for Radaris, the judge in the case ordered that radaris.com and more than a dozen other data broker domains be transferred to the plaintiffs.",
       "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "0cfb790894cf8cc47c246991bbd291fb6935cb71",
+      "title": "Employee Arrested After Listening Device Found in OpenAI Conference Room, FBI and the Company Say",
+      "url": "https://www.securityweek.com/employee-arrested-after-listening-device-found-in-openai-conference-room-fbi-and-the-company-say/",
+      "published": "2026-10-13T23:07:00+00:00",
+      "summary": "<p>Saudi national Abdulrahman Alfozan was arrested Friday and terminated by OpenAI.</p>\n<p>The post <a href=\"https://www.securityweek.com/employee-arrested-after-listening-device-found-in-openai-conference-room-fbi-and-the-company-say/\">Employee Arrested After Listening Device Found in OpenAI Conference Room, FBI and the Company Say</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "79446cd89775d8149e818ccb027b89a781be02b8",
+      "title": "Ivanti Zero-Day Chain Gave Attackers Root Access to Fully Patched VPN",
+      "url": "https://www.securityweek.com/ivanti-zero-day-chain-gave-attackers-root-access-to-fully-patched-vpn/",
+      "published": "2026-10-13T18:43:43+00:00",
+      "summary": "<p>CVE-2026-104935 affects Ivanti Connect Secure and it can be exploited for unauthenticated remote code execution with elevated privileges.\u00a0</p>\n<p>The post <a href=\"https://www.securityweek.com/ivanti-zero-day-chain-gave-attackers-root-access-to-fully-patched-vpn/\">Ivanti Zero-Day Chain Gave Attackers Root Access to Fully Patched VPN</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
@@ -1899,28 +1932,6 @@
       "url": "https://www.securityweek.com/cyberattack-prompts-ahold-delhaize-to-disconnect-systems/",
       "published": "2026-10-13T09:37:12+00:00",
       "summary": "<p>The company says it took some of its systems offline to contain a security issue within its network.</p>\n<p>The post <a href=\"https://www.securityweek.com/cyberattack-prompts-ahold-delhaize-to-disconnect-systems/\">Cyberattack Prompts Grocery Giant Ahold Delhaize to Disconnect Systems</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "1608d9df78e7886b4f093bae1100e9f5ea0a9b45",
-      "title": "Refrigeration Controller Hack Spoils Food Across European Supermarkets",
-      "url": "https://www.securityweek.com/refrigeration-controller-hack-spoils-food-across-european-supermarkets/",
-      "published": "2026-10-13T08:28:51+00:00",
-      "summary": "<p>A cyberattack targeted refrigeration controllers, setting refrigerators and freezers across hundreds of supermarkets to defrost.</p>\n<p>The post <a href=\"https://www.securityweek.com/refrigeration-controller-hack-spoils-food-across-european-supermarkets/\">Refrigeration Controller Hack Spoils Food Across European Supermarkets</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "ef7595ad07b8bc0a7a9421acbde0c86b33ae56e3",
-      "title": "IonQ to Acquire Zero Trust Firm Elisity for Up to $1.3 Billion",
-      "url": "https://www.securityweek.com/ionq-to-acquire-zero-trust-firm-elisity-for-up-to-1-3-billion/",
-      "published": "2026-10-12T14:25:00+00:00",
-      "summary": "<p>The all-stock deal brings Elisity\u2019s least-privilege access technology into IonQ\u2019s security portfolio.</p>\n<p>The post <a href=\"https://www.securityweek.com/ionq-to-acquire-zero-trust-firm-elisity-for-up-to-1-3-billion/\">IonQ to Acquire Zero Trust Firm Elisity for Up to $1.3 Billion</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
