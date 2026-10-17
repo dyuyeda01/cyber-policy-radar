@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T01:43:55.881447+00:00",
+  "generated_at": "2026-10-17T14:29:50.130128+00:00",
   "items": [
     {
       "id": "94b6709222f85db95c38404e4910f993ba548805",
@@ -110,6 +110,28 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "1fae9cde44bf146fc8470e1b7795ab083ebf7d1d",
+      "title": "MALFEX npm Package 'imgdecode' Hides Shellcode Loader in Windows Native Addon",
+      "url": "https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html",
+      "published": "2026-10-17T11:11:56+00:00",
+      "summary": "Cybersecurity researchers have discovered a malicious npm package that's part of a recently disclosed software supply chain attack campaign dubbed MALFEX.\n\nThe package, named \"imgdecode,\" was uploaded to the package registry on September 30, 2026, by a user named \"malfexteste8.\" It has been downloaded 979 times as of writing and is still available on npm as of writing. The latest version of",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8fNb_yEvP6C_CENfQMUx3EDGofY1ejEHusnumTjCLnX3s8pevEbl_cgrtFHhzeEUhyphenhyphenyKe_X41OzQOGL5zlXeLLBnj_ZrLqH1IUag1QWm4QS9V2hgc5ucEzEZKjhstvtde8CFs8anPSZv9w3op67F8Q_MHVC_demESnH8lpAYLLpIRizCyvF5gsi5PDKzm/s1600/npm-dll.jpg"
+    },
+    {
+      "id": "b3dabcb4d0c0986ad73ee47e5e64823262340c59",
+      "title": "Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants",
+      "url": "https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html",
+      "published": "2026-10-17T06:16:46+00:00",
+      "summary": "Cybersecurity researchers are sounding the alarm related to an active campaign in which unknown threat actors are abusing a compromised Microsoft 365 (M365) credential belonging to ConnectWise Cloud Backup (formerly SkyKick) to gain unauthorized access to customers' M365 environments.\n\nConnectWise Cloud Backup is a cloud-based backup and recovery service built for managed service providers (MSPs",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgel6whr7-1_Lf62w6AJwYfEyic0x1lJ0c-qOfOprMUdm83xpM7rqXbJzplx7BPBUBDD4yUcLWoPvFBhF6HIDORPNNXYj7NfDOTf7YN5lT7p80jxtN6VrTxMjWT0OplFNx0BdjoMmFzk3ssVlbapm7Qfl0Z9_1T7jA_zwz2tbjrxzRircL28mr0zcsci98x/s1600/connectwise.jpg"
     },
     {
       "id": "2f67e7ff74fc3554b47fc035e01bbdf0429769db",
@@ -638,28 +660,6 @@
       "region": "North America",
       "country": "US",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvGRzVYOU1S12WE6ja5ZSrhInOGaNdwCGGwWch1oJn_SDtoy90ycGVjd-JeDjwSSH8XDzKlkoKsu_vlND1iW0aWJgEqf3Ti18goDI0yXeaLbF2DHrokj8Qdvm1kHEi8wqdm6_axRi17PVBqtlgFWLpZnv6Eufx_bFMkpWcnz6ymbQI4IDB7lgYi3QrZ7w/s1600/amrk.jpg"
-    },
-    {
-      "id": "e7916ed60e978bf50b60b93a20b1e89e1e880bd5",
-      "title": "GitLab Patches CVSS 10.0 Flaw That Could Let Unauthenticated Users Run Server Code",
-      "url": "https://thehackernews.com/2026/10/gitlab-patches-cvss-100-flaw-that-could.html",
-      "published": "2026-10-13T08:43:37+00:00",
-      "summary": "GitLab has released patches for a maximum-severity security flaw impacting its Community Edition (CE) and Enterprise Edition (EE) software that could result in arbitrary code execution.\n\n\"GitLab has remediated an issue that, under certain conditions, could have allowed an unauthenticated user to execute arbitrary code on the GitLab server via a specially crafted regular expression in a CI/CD",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOWNiMkzMghhERT5BPyrVI9JdCWExRLtDNHIHPjmT_WnGhLHyWhahW3xPurPPQJUn7Yz0_g9Nk0zWinEKh4J71g9viLtNVx2fM2anNzhA514PAgZBxobRfeP1jSsovLI6iVi9HIUXxv_dLvK8DrKy5vZktoxrxyd0riB83XCR2dlne7lEgTqdXW1Rwhekz/s1600/gitlab-exploit.jpg"
-    },
-    {
-      "id": "585594f86cc881b7f666cf835f95f6dbea46c6f9",
-      "title": "Low-Cost Android Phones Ship With Preinstalled Malware That Turns Them Into Residential Proxies",
-      "url": "https://thehackernews.com/2026/10/low-cost-android-phones-ship-with.html",
-      "published": "2026-10-13T06:00:11+00:00",
-      "summary": "Low-cost Android smartphones have been shipped with malicious software baked into the device firmware, allowing bad actors to covertly install apps, conduct ad fraud, and turn devices into residential proxies.\n\nThe activity, which targets Android devices built on MediaTek platforms across several brands, is being tracked by Bitdefender under the moniker Midnight Mimosa.\n\nThe preinstalled",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWazS9FTiMttWg9JuwySbOkXe9WBGk6EnDbYXfmFzGaoTsXD3FQKLo7YxjnYk9MIZlfmdt08nW3qRKbLggGv2H7ondflK4CbpXu98CiCxnccJfwnrvUwEhMVIHUdt7GO198VkHXASs12AKWj4r44vpT5mF5BHLqX9spJT24dZmpMGqOKyuqoh25f1UuqpY/s1600/android-malware.jpg"
     },
     {
       "id": "15367a3259ffd9775186915135b040436f5e2677",
@@ -1212,6 +1212,17 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt51b569a789927083/6abe888c953215e732ad4e3b/accountability-wildpixel-GettyImages-2189491114.jpg?width=720&quality=80&disable=upscale"
     },
     {
+      "id": "ff874f9be1925cec12e162239f6057a9a933722e",
+      "title": "Cybercrims go beyond stealing data to attack physical building systems",
+      "url": "https://www.theregister.com/security/2026/10/17/cybercrims-go-beyond-stealing-data-to-attack-physical-building-systems/5303677",
+      "published": "2026-10-17T11:30:00+00:00",
+      "summary": "'Hold my beer, have fun getting into your offices'",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=5303687&width=800"
+    },
+    {
       "id": "dfe48df60999dc884922ccb86bfe754cfba74967",
       "title": "Networking problems after the October 2026 Windows update? NTLM might be to blame",
       "url": "https://www.theregister.com/security/2026/10/16/networking-problems-after-the-october-2026-windows-update-ntlm-might-be-to-blame/5303503",
@@ -1751,17 +1762,6 @@
       "image": "https://image.theregister.com/?imageId=5243747&width=800"
     },
     {
-      "id": "4e716b804a63e6f8512ff63b06b361fe36a73de9",
-      "title": "Asos app delivers a data leak threat instead of fast fashion",
-      "url": "https://www.theregister.com/security/2026/10/06/asos-app-delivers-a-data-leak-threat-instead-of-fast-fashion/5301332",
-      "published": "2026-10-06T11:51:36+00:00",
-      "summary": "Rogue notification claims Snowflake instance compromised, but customer info theft remains unverified",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=5263225&width=800"
-    },
-    {
       "id": "78394b2e6b36c2856a85b2231c39ddee2611e7f0",
       "title": "U.K. Sanctions Cryptomus for RU Money Laundering",
       "url": "https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/",
@@ -1823,6 +1823,17 @@
       "published": "2026-09-25T21:44:40+00:00",
       "summary": "A U.S. Army soldier who pleaded guilty to hacking into multiple telecommunications companies and stealing mobile call and text metadata for more than 100 million AT&#038;T customers in 2024 was sentenced to 70 months in federal prison today and ordered to pay nearly $300,000 in restitution to victims.",
       "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "2956b1e39e10f98f1f057b2561bec01013f5b2f6",
+      "title": "Israeli Ad Firm Doubled as Candiru\u2019s Zero-Click Spyware Delivery Channel",
+      "url": "https://www.securityweek.com/israeli-ad-firm-doubled-as-candirus-zero-click-spyware-delivery-channel/",
+      "published": "2026-10-17T11:00:00+00:00",
+      "summary": "<p>Israeli company Discover-Tech\u2019s ads allow threat actors to fingerprint and track devices at scale and infect selected targets.</p>\n<p>The post <a href=\"https://www.securityweek.com/israeli-ad-firm-doubled-as-candirus-zero-click-spyware-delivery-channel/\">Israeli Ad Firm Doubled as Candiru&#8217;s Zero-Click Spyware Delivery Channel</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
@@ -1921,17 +1932,6 @@
       "url": "https://www.securityweek.com/virtual-event-today-zero-trust-strategies-summit-2/",
       "published": "2026-10-15T16:51:34+00:00",
       "summary": "<p>This summit is laser-focused on the next generation of Zero Trust and Identity security, moving beyond theory to deliver actionable strategies.</p>\n<p>The post <a href=\"https://www.securityweek.com/virtual-event-today-zero-trust-strategies-summit-2/\">Watch Now: Zero Trust Strategies Summit &#8211; All Sessions Available on Demand</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "d71aee9427eec4323acdb27ccdafb38f49b3dd27",
-      "title": "UK Legal Aid Agency Hack Scope Widens After Forensic Review",
-      "url": "https://www.securityweek.com/uk-legal-aid-agency-hack-scope-widens-after-forensic-review/",
-      "published": "2026-10-15T14:22:34+00:00",
-      "summary": "<p>Most of the data is related to applications, claims, and payments submitted between 2007 and 2025.</p>\n<p>The post <a href=\"https://www.securityweek.com/uk-legal-aid-agency-hack-scope-widens-after-forensic-review/\">UK Legal Aid Agency Hack Scope Widens After Forensic Review</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
