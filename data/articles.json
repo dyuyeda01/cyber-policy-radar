@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T14:29:50.130128+00:00",
+  "generated_at": "2026-10-18T01:40:51.917552+00:00",
   "items": [
     {
       "id": "94b6709222f85db95c38404e4910f993ba548805",
@@ -138,7 +138,7 @@
       "title": "Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug",
       "url": "https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html",
       "published": "2026-10-16T17:48:45+00:00",
-      "summary": "A local privilege escalation exploit published today gains root on OpenBSD 7.9 by chaining a roughly 37-year-old integer overflow with a separate kernel flaw, bypassing OpenBSD's KARL kernel-address randomization and its SMAP and SMEP hardware protections. Security firm Calif, which found and reported the flaws, published a detailed writeup and full proof-of-concept code after OpenBSD shipped",
+      "summary": "A local privilege escalation exploit published today gains root on OpenBSD 7.9 by chaining a roughly 37-year-old integer overflow with a separate kernel flaw, bypassing OpenBSD's KARL kernel-address randomization and its SMAP and SMEP hardware protections.Security firm Calif, which found and reported the flaws, published a detailed writeup and full proof-of-concept code after OpenBSD shipped",
       "source": "The Hacker News",
       "region": "North America",
       "country": "US",
