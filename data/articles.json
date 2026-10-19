@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T14:56:11.525019+00:00",
+  "generated_at": "2026-10-19T01:58:26.697175+00:00",
   "items": [
     {
       "id": "94b6709222f85db95c38404e4910f993ba548805",
@@ -1212,6 +1212,17 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt51b569a789927083/6abe888c953215e732ad4e3b/accountability-wildpixel-GettyImages-2189491114.jpg?width=720&quality=80&disable=upscale"
     },
     {
+      "id": "fb0d1859261d6b6fc066c70fdb09e5b6940579fb",
+      "title": "Linux KVM guest-host escape rated critical, may represent a new way to attack penguin-powered networking",
+      "url": "https://www.theregister.com/virtualization/2026/10/19/linux-kvm-guest-host-escape-rated-critical-may-represent-a-new-way-to-attack-penguin-powered-networking/5303744",
+      "published": "2026-10-19T00:33:00+00:00",
+      "summary": "Party like it\u2019s CVE-2026-99999 \u2013 a 9.3-rated nasty called PwnEscape",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=5265166&width=800"
+    },
+    {
       "id": "ff874f9be1925cec12e162239f6057a9a933722e",
       "title": "Cybercrims go beyond stealing data to attack physical building systems",
       "url": "https://www.theregister.com/security/2026/10/17/cybercrims-go-beyond-stealing-data-to-attack-physical-building-systems/5303677",
@@ -1751,15 +1762,70 @@
       "image": "https://image.theregister.com/?imageId=5277792&width=800"
     },
     {
-      "id": "44ff35e171c27f0bfcccdea5f1062261aa4fd7e5",
-      "title": "Zombie instructions on carefully constructed web pages could trick GitHub Copilot CLI into sharing secrets",
-      "url": "https://www.theregister.com/ai-and-ml/2026/10/06/zombie-instructions-on-carefully-constructed-web-pages-could-trick-github-copilot-cli-into-sharing-secrets/5301206",
-      "published": "2026-10-06T13:00:00+00:00",
-      "summary": "Run the CLI in autopilot mode and take your chances",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=5243747&width=800"
+      "id": "78394b2e6b36c2856a85b2231c39ddee2611e7f0",
+      "title": "U.K. Sanctions Cryptomus for RU Money Laundering",
+      "url": "https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/",
+      "published": "2026-10-14T14:22:49+00:00",
+      "summary": "The United Kingdom has issued economic sanctions against Cryptomus, a chameleonic cryptocurrency platform that experts say serves as a major conduit for payments related to ransomware, narcotics, darknet markets, fraud and cybercrime services that are helping Russia circumvent existing financial restrictions.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "83d130e7ba9f7dd16780b5aa051506c65599588d",
+      "title": "Microsoft Patches More Than 1,400 Security Flaws",
+      "url": "https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/",
+      "published": "2026-10-13T23:24:53+00:00",
+      "summary": "Microsoft today issued updates to fix more than 1,400 security vulnerabilities in its Windows operating systems and other software. Today's epic patch batch dwarfs September's record of nearly 1,000 fixes, which was already about ten times the normal monthly patch load from Redmond.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "7f5dd566b2dd8d8cd689f202d357bb36a03a2891",
+      "title": "FBI Arrests Executive at Ransomware Negotiation Firm",
+      "url": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
+      "published": "2026-10-10T00:17:42+00:00",
+      "summary": "Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested the co-founder of a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that recently relieved the FBI of sensitive data on thousands of agents, multiple sources tell KrebsOnSecurity.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "4d0ab1e7dd5973407505c68437b8c46024786737",
+      "title": "ShinyHunters Extorted Boeing Spin-off Prior to Arrests",
+      "url": "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/",
+      "published": "2026-10-07T13:48:45+00:00",
+      "summary": "A teenager from Amman, Jordan suspected of leading the prolific data theft and extortion group ShinyHunters has been detained and is reportedly cooperating with the FBI to identify other members of the hacking gang. KrebsOnSecurity has learned that the suspect, who uses the hacker handle \"Rey,\" was detained as ShinyHunters was in the process of extorting a business unit recently divested by the global aerospace company Boeing, which manufactures the fleet of planes used by the employer of Rey's father -- Royal Jordanian Airlines.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "9eea57edb89b54636f2899fac15a9de383674e26",
+      "title": "Dutch Police Arrest \u2018Reformed\u2019 Hacker in Shiny Hunters Investigation",
+      "url": "https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/",
+      "published": "2026-09-28T15:08:57+00:00",
+      "summary": "Authorities in the Netherlands have arrested a 23-year-old convicted cybercriminal on suspicion of aiding in data thefts and extortions by the prolific hacker group ShinyHunters. In the days immediately following the suspect's arrest, remaining ShinyHunters members dramatically escalated their attacks, stealing highly sensitive data from the FBI and extorting the Russian ransomware group Cl0p.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "42d7d50a9109dcecf519edd256383b953834ae14",
+      "title": "U.S. Soldier Gets 70 Months in Prison for AT&T, Verizon Extortions",
+      "url": "https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/",
+      "published": "2026-09-25T21:44:40+00:00",
+      "summary": "A U.S. Army soldier who pleaded guilty to hacking into multiple telecommunications companies and stealing mobile call and text metadata for more than 100 million AT&#038;T customers in 2024 was sentenced to 70 months in federal prison today and ordered to pay nearly $300,000 in restitution to victims.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
       "id": "7e978702ff2e8fcc6c32d616a706fefdc6988d3b",
