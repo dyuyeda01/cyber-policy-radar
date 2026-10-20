@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T17:49:14.838293+00:00",
+  "generated_at": "2026-10-20T02:15:48.836724+00:00",
   "items": [
     {
       "id": "4a886b546cad178f38785340e8f5aa5fc100cf26",
@@ -110,6 +110,17 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "143bfdf19e2bc5d69819fffe2b5bbb199145a514",
+      "title": "Hackers Exploit Plex2Shell Flaws to Install Crypto Miners and Linux Proxy Backdoor",
+      "url": "https://thehackernews.com/2026/10/hackers-exploit-plex2shell-flaws-to.html",
+      "published": "2026-10-19T17:32:13+00:00",
+      "summary": "Threat actors have begun to exploit a chain of vulnerabilities in Plex Media Server to deploy cryptocurrency miners and reverse proxy software, a day after a proof-of-concept (PoC) went public.\n\nAccording to a researcher who goes by the online alias boredhackerblog, the exploitation activity involves chaining four different vulnerabilities, collectively called Plex2Shell.\n\nThe vulnerabilities",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjF_Xo8mH5AxIDYx4hFrS1_uhblD0IoGUTo6bioM38mwy-whZAbcq1aaGeH1iZrS8nmk5Ow25NfX67HRXKiWFfzLc8C1A2zs2n948DwyW_NSSkowFDnEzxUofGxhNV72vTEWkgPmbO6XJyDUPwBR-lzSekj5_m8tY3JHjozUXETGEBg6GrLZrekhilW9W_R/s1600/plex-hack.jpg"
     },
     {
       "id": "4ad529ab62166d3cfccc952a0eb216b65dca5f80",
@@ -651,15 +662,37 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEile879Rmv8zAdU5PMclUp5RnNGDb3h1u3aVZ-VigGjnO0RFcyCQ03s7_lIqMGDiow5ilPumq3B2_bsvewqRlepch4lFwLvOUEDQZPYd9Vv8untJVZFmrv5Zhgvj54cs4J_vCYW4GVY-XsQl7SXD-yrXbED6KpiWbTq-kL_0aNwef3xjV3cBGQ3dsodqAM/s1600/dock.jpg"
     },
     {
-      "id": "fb99d329a170ccdf90361b408a1b6b357ac741ed",
-      "title": "Attacker Chains Three Ivanti Connect Secure Zero-Days for Root Access, Only Two Patched So Far",
-      "url": "https://thehackernews.com/2026/10/attacker-chains-three-ivanti-connect.html",
-      "published": "2026-10-13T17:33:11+00:00",
-      "summary": "An attacker chained three zero-day flaws in Ivanti Connect Secure, a VPN appliance, to run commands as root without logging in, security firm&nbsp;Volexity said&nbsp;on October 13. Ivanti has released fixes for two of the flaws and told customers on affected versions to \"act immediately.\" A fix for the third is still pending, according to Volexity.\n\nVolexity, which reported the flaws to Ivanti,",
-      "source": "The Hacker News",
+      "id": "cd2448e33b82aa7d0f98c524e19badb17b02d5f6",
+      "title": "Researchers Infiltrate Microsoft Tech Support Scam Operation",
+      "url": "https://www.darkreading.com/threat-intelligence/microsoft-tech-support-scam-operation",
+      "published": "2026-10-19T21:13:41+00:00",
+      "summary": "A large-scale scam operation impersonating Microsoft uses a malicious traffic distribution system (TDS) run by a Russian organization and abuses thousands of Cloudflare links.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZSH26NsXmSsQGaAbhNyJLMaBQKFCmabIbFZ_yi2sUGXjHQOVztQEQfXLarEAx1Fl9lRwGAryBE4zZEooJ4cochODcB4x8wQnPl3MRWiyBcpyEV6i8VPxvwcLHmShQVZVhuOcTjMXRhHAlx4Y0Uo85c74EVU4cea84YgXju02I9jlNzcGOFtLfa_am82Q/s1600/ivanti-hack.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2a7fd796cffad616/6ad6756d20d56c6557294d94/techsupportscam-Cravetiger-Getty-2234087419.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "id": "553c25ef77944fe278ee6760bd5418f2f9e65abd",
+      "title": "'AdFection' Turns Ad Impressions Into Zero-Click Spyware Delivery",
+      "url": "https://www.darkreading.com/data-privacy/adfection-online-ads-spyware-delivery",
+      "published": "2026-10-19T19:55:01+00:00",
+      "summary": "Spyware vendors are exploiting targeted ad bidding in the digital ecosystem to identify and track individuals and organizations of interest.",
+      "source": "DarkReading",
+      "region": "North America",
+      "country": "US",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta9877a78be2c957c/6ad66b90a54e05edb3fb8747/surveillance_Lightspring_shutterstock.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "id": "3e1278093e934b6a8a83ff1de4655867483e4a86",
+      "title": "ConnectWise Disables Cloud Backups Amid Concerns for Downstream MSPs",
+      "url": "https://www.darkreading.com/identity-access-management-security/connectwise-disables-cloud-backups-downstream-msps",
+      "published": "2026-10-19T19:19:33+00:00",
+      "summary": "Researchers say attackers authenticated into Microsoft 365 tenants using ConnectWise credentials; ConnectWise says customer impact remains unconfirmed.",
+      "source": "DarkReading",
+      "region": "North America",
+      "country": "US",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8bed2421e7501183/6ad6650c7e69bd1337538960/Cloud_Backup-TU_IS-GettyImages-1399936043_(1).jpg?width=720&quality=80&disable=upscale"
     },
     {
       "id": "e4ddb72db383543f93ef87d3b1ce1e3a02bf72fe",
@@ -1179,37 +1212,48 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt805a291660c85e6c/6abfd753b06065c7488d51a1/fighterjet-Asanka_Ratnayake-GettyImages-2207309883.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "id": "1d9e3889e62c89f6d25b7905267c30a50fb3c354",
-      "title": "RemoteThreat Bets Security Teams Need to Test What Happens After Defenses Fail",
-      "url": "https://www.darkreading.com/cybersecurity-operations/remotethreat-bets-security-teams-need-to-test-what-happens-after-defenses-fail",
-      "published": "2026-10-02T20:18:37+00:00",
-      "summary": "The offensive cyber operations startup looks to evolve red teaming beyond traditional methods to simulate attackers' increasingly advanced capabilities.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf31fc70ff522da98/6ac0148dfc9ca54499deca08/GettyImages-2207912388.jpg?width=720&quality=80&disable=upscale"
+      "id": "e8fbdc64a73dc40ed02a15d78bdcdbb8a67ac14e",
+      "title": "ICANN testing tech to let law enforcement access non-public WHOIS info",
+      "url": "https://www.theregister.com/networks/2026/10/20/icann-testing-tech-to-let-law-enforcement-access-non-public-whois-info/5304036",
+      "published": "2026-10-20T02:11:27+00:00",
+      "summary": "Single sign-on to help address imminent threats to life, critical infrastructure, or kids",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=5304041&width=800"
     },
     {
-      "id": "766883a4aa1f384a116411a1c459b29423dd5aa4",
-      "title": "Kiteworks &amp; Citrix Incidents Show Challenges of Zero-Day Response",
-      "url": "https://www.darkreading.com/cybersecurity-operations/kiteworks-citrix-incidents-challenges-zero-day-response",
-      "published": "2026-10-02T16:56:30+00:00",
-      "summary": "One company told customers to power down its data-protection platform during a nine-hour window, while the other remained mum on reported attacks prior to releasing a patch for its product.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3f39295ab2cc8617/6abec652493aca7db2e138d1/hear-no-evil-see-no-evil-monkeys-robert_lemos.jpg?width=720&quality=80&disable=upscale"
+      "id": "38fb0e145f85e5df56b4e20681f746ddd031bda6",
+      "title": "DeepSeek deep-sixed at all US federal civilian agencies",
+      "url": "https://www.theregister.com/security/2026/10/20/deepseek-deep-sixed-at-all-us-federal-civilian-agencies/5304010",
+      "published": "2026-10-20T00:11:10+00:00",
+      "summary": "Order disallowing use of Chinese AI service is unhelpfully vague and broad",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=5304014&width=800"
     },
     {
-      "id": "59130545c940eaeb84052e6ae0c09cb254fa27b5",
-      "title": "SWIFT Banking &amp; Government Middleware Enables RCE",
-      "url": "https://www.darkreading.com/cybersecurity-operations/swift-banking-govt-middleware-rce",
-      "published": "2026-10-02T16:27:54+00:00",
-      "summary": "Patch middleware vulnerabilities now to avoid hardware-based MFA exploits in ultra-sensitive environments.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt20cb2cd941ab8738/6abfc2b68e913fc976ab5ea7/USB-years-Getty.jpg?width=720&quality=80&disable=upscale"
+      "id": "8c0757d8205e262e888c198cab955ef9739fd763",
+      "title": "Grocery giant Ahold Delhaize confirms cyberattack forced US and European systems offline",
+      "url": "https://www.theregister.com/security/2026/10/19/grocery-giant-ahold-delhaize-confirms-cyberattack-forced-us-and-european-systems-offline/5303970",
+      "published": "2026-10-19T20:26:21+00:00",
+      "summary": "Second security snafu in two years",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=249284&width=800"
+    },
+    {
+      "id": "f06325b7751d2c55def1451ab72bd0713c92aa7e",
+      "title": "Security patches need patches now that attackers have AI",
+      "url": "https://www.theregister.com/patches/2026/10/19/security-patches-need-patches-now-that-attackers-have-ai/5303927",
+      "published": "2026-10-19T18:23:40+00:00",
+      "summary": "Terra finds sharp rise in GitHub security fixes reported broken within 90 days",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=5303945&width=800"
     },
     {
       "id": "746693f60fe62165b001e08b885b0c880fa90e69",
@@ -1718,50 +1762,6 @@
       "image": "https://image.theregister.com/?imageId=5301683&width=800"
     },
     {
-      "id": "2d9c395cb16476831010f5d7874c4788f5c678cc",
-      "title": "FortiBleed still a bleeding nuisance as FBI confirms ongoing attacks",
-      "url": "https://www.theregister.com/security/2026/10/07/fortibleed-still-a-bleeding-nuisance-as-fbi-confirms-ongoing-attacks/5301585",
-      "published": "2026-10-07T10:52:09+00:00",
-      "summary": "Tens of thousands more victims and more ransomware groups getting in on the act",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=256583&width=800"
-    },
-    {
-      "id": "81fd39919faac501570b66371e80b156c3d76c65",
-      "title": "South Korean president calls for creation of tools that stop all cyber-attacks",
-      "url": "https://www.theregister.com/public-sector/2026/10/07/south-korean-president-calls-for-creation-of-tools-that-stop-all-cyber-attacks/5301533",
-      "published": "2026-10-07T03:56:25+00:00",
-      "summary": "'Complete security paradigm refresh' needed for the AI era",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=260291&width=800"
-    },
-    {
-      "id": "9f73fae79456b9a97bb49ddcc57a903ac7590590",
-      "title": "Anthropic reconfigures its cool kids security program",
-      "url": "https://www.theregister.com/security/2026/10/07/anthropic-reconfigures-its-cool-kids-security-program/5301509",
-      "published": "2026-10-06T23:29:27+00:00",
-      "summary": "Company's Project Glasswing and Cyber Verification Program metamorphose into triple tier threat hunting club",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=5225031&width=800"
-    },
-    {
-      "id": "6952c5cbde821b6c33f6507442619b95cc43b60f",
-      "title": "Trump Mobile customers' data dumped - and some never even received their gold device",
-      "url": "https://www.theregister.com/security/2026/10/06/trump-mobile-customers-data-dumped-and-some-never-even-received-their-gold-device/5301433",
-      "published": "2026-10-06T17:32:25+00:00",
-      "summary": "All that glitters \u2026",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=5301440&width=800"
-    },
-    {
       "id": "5f2037864b2f69b178914b0d63c953678c9f5531",
       "title": "Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site",
       "url": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
@@ -1834,6 +1834,17 @@
       "published": "2026-09-25T21:44:40+00:00",
       "summary": "A U.S. Army soldier who pleaded guilty to hacking into multiple telecommunications companies and stealing mobile call and text metadata for more than 100 million AT&#038;T customers in 2024 was sentenced to 70 months in federal prison today and ordered to pay nearly $300,000 in restitution to victims.",
       "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "561dd3f2eda51546b66d876363e1c83d2343d2c1",
+      "title": "Siemens Software Center Vulnerability Exploited in ClickFix Malware Attacks",
+      "url": "https://www.securityweek.com/siemens-software-center-vulnerability-exploited-in-clickfix-malware-attacks/",
+      "published": "2026-10-19T18:15:39+00:00",
+      "summary": "<p>Attackers paired a genuine, signed copy of Siemens Software Center with malicious DLLs to infect Windows PCs via ClickFix lures.</p>\n<p>The post <a href=\"https://www.securityweek.com/siemens-software-center-vulnerability-exploited-in-clickfix-malware-attacks/\">Siemens Software Center Vulnerability Exploited in ClickFix Malware Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
@@ -1932,17 +1943,6 @@
       "url": "https://www.securityweek.com/us-cybersecurity-job-postings-fall-26-as-ai-security-engineer-demand-soars/",
       "published": "2026-10-18T11:00:00+00:00",
       "summary": "<p>CyberSN\u2019s Cybersecurity Jobs Report provides visibility into the US cybersecurity job market. It\u2019s a mixed bag.</p>\n<p>The post <a href=\"https://www.securityweek.com/us-cybersecurity-job-postings-fall-26-as-ai-security-engineer-demand-soars/\">US Cybersecurity Job Postings Fall 26% as AI Security Engineer Demand Soars</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "2956b1e39e10f98f1f057b2561bec01013f5b2f6",
-      "title": "Israeli Ad Firm Doubled as Candiru\u2019s Zero-Click Spyware Delivery Channel",
-      "url": "https://www.securityweek.com/israeli-ad-firm-doubled-as-candirus-zero-click-spyware-delivery-channel/",
-      "published": "2026-10-17T11:00:00+00:00",
-      "summary": "<p>Israeli company Discover-Tech\u2019s ads allow threat actors to fingerprint and track devices at scale and infect selected targets.</p>\n<p>The post <a href=\"https://www.securityweek.com/israeli-ad-firm-doubled-as-candirus-zero-click-spyware-delivery-channel/\">Israeli Ad Firm Doubled as Candiru&#8217;s Zero-Click Spyware Delivery Channel</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
