@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T17:17:11.234065+00:00",
+  "generated_at": "2026-10-31T02:52:51.781719+00:00",
   "items": [
     {
       "id": "cb6c08bb4ce2f1cbefe6eaa6c29136d71b1f0760",
@@ -110,6 +110,17 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "46d8d781bead54a364d67ccfbb9c81803200f673",
+      "title": "Chinese Hackers Use AI-Powered ARTEX to Target Over 200 Organizations Worldwide",
+      "url": "https://thehackernews.com/2026/10/chinese-hackers-use-ai-powered-artex-to.html",
+      "published": "2026-10-30T16:58:44+00:00",
+      "summary": "Chinese state-sponsored threat actors have been observed using a Go-based artificial intelligence (AI)-powered penetration testing framework called ARTEX in attacks aimed at high-value targets simultaneously.\n\nThe activity has been attributed by CrowdStrike to a China-based \"targeted intrusion adversary\" it tracks under the moniker Vapor Panda (previously VexatiousTemper). First identified in",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiP1M46Z4Xs0qNHz9xzhTea14XsqTHvNhAfnGb4Ni9goHQR2ypz3BLKRgu-WxWD8VSUNMB3YAP7UhcCAK1AweCc3lC-7VlJ-OqNniD4FvZdE_R-XJkkRadhl2tp3-PqbKPWmQTeJ3a3gvd1kHH_zaW06tCf9cH-7k5feNqHrqbChMAsc5K3hruiX9BDROAe/s1600/CS.jpg"
     },
     {
       "id": "bfec2004bdb16c89e02b79dbcd39dc336c618624",
@@ -651,15 +662,26 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-vxKiggBxnuXu0fenkg0gfce0iuuA3OxeVzvWAdc0zaDPDayQgY8y_miqnvHJrpYvw61AhvGHEOW4EIKIYZ4QkRGjGEhqiU-3R0o6m0fgHJYDtszsoXyqse7WDGMh4rvEuTf1T-17KOVkyJKgEcaw5yBXFi6ElwIFyU9TjudvJrHz4fz6VNro8bjUZcnD/s1600/cisa-php.jpg"
     },
     {
-      "id": "961277245249fbe9fc0f596261dc6f900b58031d",
-      "title": "Hackers Infect 953 Online Stores With Scanner-Evading JavaScript, Mostly on Magento",
-      "url": "https://thehackernews.com/2026/10/hackers-infect-953-online-stores-with.html",
-      "published": "2026-10-26T18:12:22+00:00",
-      "summary": "An unknown threat actor has infected 953 online stores, most of them running Magento, as part of a long-running campaign active since July 2025.\n\nAccording to Dutch e-commerce security company Sansec, the activity is designed to add a small piece of code to the store's pages that, when visited by unsuspecting users, serves malicious JavaScript loader code through Magento CMS blocks.\n\n\"When you",
-      "source": "The Hacker News",
+      "id": "ac7367a35b670f9165f15be74c385141fd1631cb",
+      "title": "Devs Hit by Trojanized Claude Code Extension for Cursor",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/devs-trojanized-claude-code-extension-cursor",
+      "published": "2026-10-30T20:05:58+00:00",
+      "summary": "Two serious security issues hit Cursor on the same day, highlighting the risks for AI-powered integrated development environments (IDEs).",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdh3aURB79okzf_mo3sPzJy6vKRiWdPc4gyrE93xmMW-MRgYHrOuJ5yya0TpovJvi-2ol3GubNo5ir76ui-2jBo1jUvOd45Z8f98YeGVAECGcwgpRetuyxFxGWY8bBOB4a0G1H5YiYoYJ3Kd8YauFJGUIVTKYVHsLrvDElRe8sOuD4Y8CKMrAtCA6eJazr/s1600/m-code.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5af13434263526c5/6ae4e524fd7d52bad0112be2/Package_trap-Alina_Naumova-Getty.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "id": "983cd7433fe6494bd284238213acb22e48e86c76",
+      "title": "Behind the Scenes of How Operation Blackout Went Down",
+      "url": "https://www.darkreading.com/cybersecurity-operations/behind-the-scenes-how-operation-blackout-went-down",
+      "published": "2026-10-30T19:46:08+00:00",
+      "summary": "A recent law enforcement operation to dismantle harmful scam centers was a big success. A threat intelligence expert walks us through what happened and why he wants more of the same.",
+      "source": "DarkReading",
+      "region": "North America",
+      "country": "US",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blted8eeb1e23f7df84/6ae3bbdee7e856ef65896aec/GettyImages-1294781573.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "id": "47e04300a373117432b88a7fdc9099847000cf8a",
@@ -875,7 +897,7 @@
       "title": "So Many AI Security Benchmarks, but None Tell the Whole Story",
       "url": "https://www.darkreading.com/cybersecurity-analytics/benchmarking-security-of-ai-models-poses-challenges",
       "published": "2026-10-27T00:26:50+00:00",
-      "summary": "Measuring AI model security gets complex, fast, thanks to a growing patchwork of benchmarks targeting different variables in the equation. But none replace testing against your own code and workflows.",
+      "summary": "Measuring artificial intelligence model security gets complex, fast, thanks to a growing patchwork of benchmarks targeting different variables in the equation. But none replace testing against your own code and workflows.",
       "source": "DarkReading",
       "region": "North America",
       "country": "US",
@@ -1190,26 +1212,15 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltcbe1b408854966e2/6ad73d5767600f57689ea49a/AI_agent_concept_Brain_light_Alamy.png?width=720&quality=80&disable=upscale"
     },
     {
-      "id": "cd2448e33b82aa7d0f98c524e19badb17b02d5f6",
-      "title": "Researchers Infiltrate Microsoft Tech Support Scam Operation",
-      "url": "https://www.darkreading.com/threat-intelligence/microsoft-tech-support-scam-operation",
-      "published": "2026-10-19T21:13:41+00:00",
-      "summary": "A large-scale scam operation impersonating Microsoft uses a malicious traffic distribution system (TDS) run by a Russian organization and abuses thousands of Cloudflare links.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2a7fd796cffad616/6ad6756d20d56c6557294d94/techsupportscam-Cravetiger-Getty-2234087419.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "id": "553c25ef77944fe278ee6760bd5418f2f9e65abd",
-      "title": "'AdFection' Turns Ad Impressions Into Zero-Click Spyware Delivery",
-      "url": "https://www.darkreading.com/data-privacy/adfection-online-ads-spyware-delivery",
-      "published": "2026-10-19T19:55:01+00:00",
-      "summary": "Spyware vendors are exploiting targeted ad bidding in the digital ecosystem to identify and track individuals and organizations of interest.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta9877a78be2c957c/6ad66b90a54e05edb3fb8747/surveillance_Lightspring_shutterstock.jpg?width=720&quality=80&disable=upscale"
+      "id": "83d9201a844dc692d9ec03632c894aa397615e39",
+      "title": "Crim spent $7K+ on AI services in extortion attacks, then left evidence for all to see",
+      "url": "https://www.theregister.com/security/2026/10/30/crim-spent-7k-on-ai-services-in-extortion-attacks-then-left-evidence-for-all-to-see/5306754",
+      "published": "2026-10-30T19:37:12+00:00",
+      "summary": "n0n-existent security",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=5306779&width=800"
     },
     {
       "id": "35de059a0596c25246bb268c0d5df0fdfd292e68",
@@ -1749,17 +1760,6 @@
       "region": "Europe",
       "country": "UK",
       "image": "https://image.theregister.com/?imageId=263315&width=800"
-    },
-    {
-      "id": "ff80870018fbf885ff93d61a98e9ca938d0d1685",
-      "title": "AI has 'potential' to turn script kiddies into sophisticated infrastructure attackers",
-      "url": "https://www.theregister.com/security/2026/10/21/ai-has-potential-to-turn-script-kiddies-into-sophisticated-infrastructure-attackers/5304297",
-      "published": "2026-10-21T12:00:00+00:00",
-      "summary": "Consider this the wake-up call",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=259070&width=800"
     },
     {
       "id": "24755a352d3db0870291b01911ace38663240799",
