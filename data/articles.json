@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T19:06:40.669228+00:00",
+  "generated_at": "2026-11-06T03:49:10.066654+00:00",
   "items": [
     {
       "id": "138b37488a6a87a7b86b539ad4a464cefaa6f0d9",
@@ -110,6 +110,28 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "3fe484f436f5a81567267175998567d98d02ff1f",
+      "title": "OpenSSH Issues Emergency Fix for Flaw Letting Long Passwords Bypass SSH Auth on Alpine Linux",
+      "url": "https://thehackernews.com/2026/11/openssh-issues-emergency-fix-for-flaw.html",
+      "published": "2026-11-05T16:42:46+00:00",
+      "summary": "Attackers can log in to accounts that have no password, such as SSH key-only accounts, on some Alpine Linux servers running the standard openssh-server package. They need network access to the server, an account name, and a password between 257 and 1,024 bytes long.\n\nOpenSSH, which rates the flaw critical, released version 10.6p2 today to block it. Alpine has published fixed packages for every",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieaHvS5baW_XG1eAsBsoSp9qRzV179f0WwXoj9k6rUeX4Qa4sxpi3hvpGkgkYNMPzZQH0mvvVAoTooEAgl1G3SyFksmhqNEbDEIEWM83RH47u8qvNyIYclA7z7GUdPJGx8WfJd556iCvvtvsitAYp9M-T46OvuwkaSWwnyhlynEpYax2qyTCACsPbtQLw/s1600/ssh-linux.jpg"
+    },
+    {
+      "id": "306be99284dc169ea81dbd2461d98b411bd79b3e",
+      "title": "Researchers Bypass ChatGPT Lockdown Mode to Exfiltrate Chats Without User Interaction",
+      "url": "https://thehackernews.com/2026/11/researchers-bypass-chatgpt-lockdown.html",
+      "published": "2026-11-05T16:42:32+00:00",
+      "summary": "Cybersecurity researchers have disclosed details of a now-patched vulnerability that could be exploited to bypass Lockdown Mode protections in OpenAI ChatGPT.\n\nLockdown Mode was introduced by the artificial intelligence (AI) company in June 2026 as an optional setting to minimize data exfiltration risks arising from prompt injections.\n\n\"The flaw could enable silent chat data theft, phishing,",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrZkGDnavpYu1VmQZCorYSw9PnFNh3tGXQ7YWWrZ3g6sURYj4RiS7za99akV3poXhW7GLoJw3j-baYvwyor0f_8iI3t5zk3NeXj1V1eVDMFUklqlYz629h88oYzxk3aIQPPwQF3xaw10DZTE-lEKyaojqzlLHC_DGtF91AVhXkaFNfY6Mh-qVqn86LCfQz/s1600/chat.gif"
     },
     {
       "id": "59043a85553579c0d87280cabad1cc7e03e86eca",
@@ -640,26 +662,37 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEplEzMjNIg5IBNIX4uz_WyVhtJqqbKICvvpW5LbwPEsQVd4ypSQC1ISnXoR0pMLlQEF4erNUIf-5-ELvBXIE8VH2Iv7dCPCuaZAFVeS9VIITs_5e_77DwtIvo3ExUcfJC_aT4x3FDD3AmTKeQFKnOrufXorlbiHOJNO-pUhwzBNwL98r-2JSW2CWiTBs/s1600/chatgpt.jpg"
     },
     {
-      "id": "21ad2182a13673631f40efdb69fed643a7323544",
-      "title": "Cloudflare Reports 18.2 Million Network-Layer DDoS Attacks in Q3, Up 38%",
-      "url": "https://thehackernews.com/2026/10/cloudflare-reports-182-million-network.html",
-      "published": "2026-10-31T04:56:12+00:00",
-      "summary": "Threat actors are launching about 8,226 network-layer distributed denial-of-service (DDoS) attacks per hour, Cloudflare revealed Thursday.\n\nThe web infrastructure and security company said it autonomously mitigated 18.2 million network-layer (L3) DDoS attacks and 14.4 trillion HTTP DDoS requests in the third quarter of 2026. That amounts to 197,400 attacks per day, or one attack every 0.44",
-      "source": "The Hacker News",
+      "id": "c5d8bcb2d0573a49a5adb571c9e2e1c6a1037100",
+      "title": "US Government Email Systems Open to Abuse Thanks to Typos",
+      "url": "https://www.darkreading.com/cybersecurity-operations/us-government-email-systems-abuse-typos",
+      "published": "2026-11-05T21:35:05+00:00",
+      "summary": "Erroneous or outdated DNS records can give attackers surprising powers over organizations' email systems.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9-PGmRcZy9OvjKNOWHrGVMpF2DhnvIrHU6mOwyroU7CeoEKMkrjCt8HxCKBzAOia6ZpDEvTuQcF2Xg_50vE_W8DdjmLJjxMXPUUm5Ryfym8GBhm74Z6jwZCeXSKgxuK6A57rVsM-Z1G8nfEF3Mn8QgoD77Nbqxakkj_ZxbBNDtp0ljvTKrXydLYm1BFZR/s1600/cf.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd6ea448209c5a17d/6aece801ba5b3c3c708d8893/_gov-PashalIgnatov-Getty.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "id": "46d8d781bead54a364d67ccfbb9c81803200f673",
-      "title": "Chinese Hackers Use AI-Powered ARTEX to Target Over 200 Organizations Worldwide",
-      "url": "https://thehackernews.com/2026/10/chinese-hackers-use-ai-powered-artex-to.html",
-      "published": "2026-10-30T16:58:44+00:00",
-      "summary": "Chinese state-sponsored threat actors have been observed using a Go-based artificial intelligence (AI)-powered penetration testing framework called ARTEX in attacks aimed at high-value targets simultaneously.\n\nThe activity has been attributed by CrowdStrike to a China-based \"targeted intrusion adversary\" it tracks under the moniker Vapor Panda (previously VexatiousTemper). First identified in",
-      "source": "The Hacker News",
+      "id": "6ae54b5becb8074a2a75212eb684304e7946f1eb",
+      "title": "What We Missed: Knicks Phishing Test Goes Out of Bounds",
+      "url": "https://www.darkreading.com/cyber-risk/what-we-missed-knicks-phishing-test-out-of-bounds",
+      "published": "2026-11-05T21:00:47+00:00",
+      "summary": "In this video conversation, Dark Reading editors discuss some of the news they didn't get a chance to cover, from an ill-conceived phishing simulation to a hacktivist attack on a US government agency.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiP1M46Z4Xs0qNHz9xzhTea14XsqTHvNhAfnGb4Ni9goHQR2ypz3BLKRgu-WxWD8VSUNMB3YAP7UhcCAK1AweCc3lC-7VlJ-OqNniD4FvZdE_R-XJkkRadhl2tp3-PqbKPWmQTeJ3a3gvd1kHH_zaW06tCf9cH-7k5feNqHrqbChMAsc5K3hruiX9BDROAe/s1600/CS.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt431c72a149154279/6aecd7076d111e8012a4d417/phishingtest-juststock-Getty-2193049867.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "id": "8c41ea53568673e3afb8de890101395ed05999f7",
+      "title": "APT29's Watering Holes Target Thousands of Mobile Users",
+      "url": "https://www.darkreading.com/mobile-security/apt29-watering-holes-target-mobile-users",
+      "published": "2026-11-05T20:05:39+00:00",
+      "summary": "After compromising websites, the Russian state-sponsored threat group is fingerprinting victims, then harvesting information from the interesting ones.",
+      "source": "DarkReading",
+      "region": "North America",
+      "country": "US",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt601f7aa888c1b14c/6aecc62cf0c14cb22547f05a/phone_tete_escape_shutterstock.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "id": "d5adbe76452f97590a21395364870f95e829e9f2",
@@ -1179,37 +1212,37 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt521637665481bcc9/65dfe9cfea879b040a14fbb9/policerobot-Agencja_Fotograficzna_Caro-alamy.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "id": "fdce8a7d1bd72cd30a42356ca60f2c34167a3d4e",
-      "title": "State Bank of India Suffers a Customer PII Data Leak",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/state-bank-india-customer-pii-data-leak",
-      "published": "2026-10-23T03:30:00+00:00",
-      "summary": "Relatively small data breaches in India can turn quite serious, thanks to a sophisticated underground market for trading PII.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt979cd25773f1b3d4/6ada6acba10b57ec999014b8/SBI-Yawar_Nazir-Getty.jpg?width=720&quality=80&disable=upscale"
+      "id": "63adad31a1b5f8c448b8cabbe4ec54b1d4e5eac6",
+      "title": "Threat actor targets Indian fintechs on weekends when defenders aren\u2019t watching",
+      "url": "https://www.theregister.com/security/2026/11/06/threat-actor-targets-indian-fintechs-on-weekends-when-defenders-arent-watching/5308000",
+      "published": "2026-11-06T01:17:40+00:00",
+      "summary": "CERT-IN warns of \u2018significant escalation\u2019 in AI-powered attacks, some after victims tried to improve defences",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=5308010&width=800"
     },
     {
-      "id": "778da97616c17390ac502b127b151bb4a5bde0c4",
-      "title": "Microsoft Links Storm-0940 to ConnectWise Supply Chain Attack",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/microsoft-storm-0940-connectwise-supply-chain-attack",
-      "published": "2026-10-22T20:42:17+00:00",
-      "summary": "The China-linked actor used an AI-enabled penetration-testing tool to automate and accelerate its attack on more than 2,200 tenants.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt481be0dcde6741d2/6ada753af919424ed83bcdaf/chinacyber_mageFlow_shutterstock.jpg?width=720&quality=80&disable=upscale"
+      "id": "4cb0518ea7cfe3ddef6692b1380500ec09a3256e",
+      "title": "Feds warn grocers: Don't chill on cyber defenses as freezer hacking spree heats up",
+      "url": "https://www.theregister.com/security/2026/11/05/feds-warn-grocers-dont-chill-on-cyber-defenses-as-freezer-hacking-spree-heats-up/5307978",
+      "published": "2026-11-05T22:37:06+00:00",
+      "summary": "No documented attacks against American supermarkets\u2026yet",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=5303687&width=800"
     },
     {
-      "id": "0a62902654cebc5f7e6febf7289510edc7dc4509",
-      "title": "What We Missed: Feds Lasso Texas Laptop Farms",
-      "url": "https://www.darkreading.com/insider-threats/texas-laptop-farms-north-korean-it-workers",
-      "published": "2026-10-22T20:33:10+00:00",
-      "summary": "In this video, Dark Reading editors discuss some of the news they didn't get a chance to cover, from busting up North Korea's stateside infrastructure in &quot;Operation Lonestar Justice&quot; to Staples' gift card bonanza.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta02f4349610bfb87/6ada6ff8b8f9c97bdf15ea45/rodeo-Scott_Olsen-GettyImages-2284428107.jpg?width=720&quality=80&disable=upscale"
+      "id": "431a63bf22695cc75fbee66e94a73eb264db9073",
+      "title": "The White House is apparently a popular residential proxy exit spot",
+      "url": "https://www.theregister.com/security/2026/11/05/the-white-house-is-apparently-a-popular-residential-proxy-exit-spot/5307969",
+      "published": "2026-11-05T20:50:57+00:00",
+      "summary": "How it got there is another matter entirely",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=226251&width=800"
     },
     {
       "id": "2a3856813d54ce94400ed20b278afec26e1455be",
@@ -1729,39 +1762,6 @@
       "image": "https://image.theregister.com/?imageId=5240537&width=800"
     },
     {
-      "id": "0484546ab1e68e9aaf733dcb6cc46a2bebcec69f",
-      "title": "Trumpets blare and skies part as AI hypefest culminates in Anthropic IPO filing",
-      "url": "https://www.theregister.com/ai-and-ml/2026/10/26/trumpets-blare-and-skies-part-as-ai-hypefest-culminates-in-anthropic-ipo-filing/5305456",
-      "published": "2026-10-26T15:47:05+00:00",
-      "summary": "Claude maker reveals financials and warns investors its AI models could blackmail humans, resist shutdown, or go rogue",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=5305476&width=800"
-    },
-    {
-      "id": "1a44d05f6353d10866c01b2a744c1ff7d14d885d",
-      "title": "We shouldn't be surprised about the PHPocalypse, as the internet is built on sticks and glue",
-      "url": "https://www.theregister.com/security/2026/10/26/we-shouldnt-be-surprised-about-the-phpocalypse-as-the-internet-is-built-on-sticks-and-glue/5305186",
-      "published": "2026-10-26T13:14:00+00:00",
-      "summary": "What better way to celebrate Cybersecurity Awareness Month than warning that three-quarters of the web is about to be set on fire?",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=5305338&width=800"
-    },
-    {
-      "id": "423b4b6a9322601f74f8056e927317c20f40186d",
-      "title": "UK Biobank back online soon, months after someone tried to sell 500k people's data on Alibaba",
-      "url": "https://www.theregister.com/security/2026/10/26/uk-biobank-back-online-soon-months-after-someone-tried-to-sell-500k-peoples-data-on-alibaba/5305363",
-      "published": "2026-10-26T12:38:00+00:00",
-      "summary": "Charity confirms slew of security improvements as it waits for UK.gov's go-ahead",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=5295365&width=800"
-    },
-    {
       "id": "49bf8b366c47018c1d1bdf4296ebe734f0161304",
       "title": "Want to Rent an Internet Address at the White House?",
       "url": "https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/",
@@ -1845,6 +1845,17 @@
       "published": "2026-10-07T13:48:45+00:00",
       "summary": "A teenager from Amman, Jordan suspected of leading the prolific data theft and extortion group ShinyHunters has been detained and is reportedly cooperating with the FBI to identify other members of the hacking gang. KrebsOnSecurity has learned that the suspect, who uses the hacker handle \"Rey,\" was detained as ShinyHunters was in the process of extorting a business unit recently divested by the global aerospace company Boeing, which manufactures the fleet of planes used by the employer of Rey's father -- Royal Jordanian Airlines.",
       "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "5d7c1511e0dda8d0429213b6ae07c555234c0311",
+      "title": "3 Charged in Scheme to Use AI to Impersonate CEOs and Attorneys to Steal $129 Million",
+      "url": "https://www.securityweek.com/3-charged-in-scheme-to-use-ai-to-impersonate-ceos-and-attorneys-to-steal-129-million/",
+      "published": "2026-11-06T03:03:29+00:00",
+      "summary": "<p>The trio, who have nicknames that include \u201cRocky Balboa,\u201d \u201cSuperman Cash\u201d and \u201cFat Boy,\u201d often targeted the companies\u2019 accounting departments. </p>\n<p>The post <a href=\"https://www.securityweek.com/3-charged-in-scheme-to-use-ai-to-impersonate-ceos-and-attorneys-to-steal-129-million/\">3 Charged in Scheme to Use AI to Impersonate CEOs and Attorneys to Steal $129 Million</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
@@ -1943,17 +1954,6 @@
       "url": "https://www.securityweek.com/openai-finds-gpt-6-astra-quietly-holding-back-on-internal-red-teaming-exploit-tasks/",
       "published": "2026-11-05T10:02:00+00:00",
       "summary": "<p>OpenAI says its Critical-rated cyber model met fewer hidden task goals when work was framed as AI safety research, often silently.</p>\n<p>The post <a href=\"https://www.securityweek.com/openai-finds-gpt-6-astra-quietly-holding-back-on-internal-red-teaming-exploit-tasks/\">OpenAI Finds GPT-6 Astra Quietly Holding Back on Internal Red-Teaming, Exploit Tasks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "6b6d8b64e2bfd03cc3d3c07a3fb7a03f90e8b5cd",
-      "title": "Sysdig Adds Runtime Security and Governance for AI Agents",
-      "url": "https://www.securityweek.com/sysdig-adds-runtime-security-and-governance-for-ai-agents/",
-      "published": "2026-11-04T14:34:44+00:00",
-      "summary": "<p>Sysdig\u2019s platform uses runtime visibility to track AI agent actions and block risky behavior before it reaches production systems.</p>\n<p>The post <a href=\"https://www.securityweek.com/sysdig-adds-runtime-security-and-governance-for-ai-agents/\">Sysdig Adds Runtime Security and Governance for AI Agents</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
