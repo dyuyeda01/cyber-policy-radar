@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T02:51:41.484972+00:00",
+  "generated_at": "2026-11-08T17:16:25.033502+00:00",
   "items": [
     {
       "id": "ea5dd634f0302ad7ddc848c206dce595990f0534",
@@ -1762,6 +1762,17 @@
       "image": "https://image.theregister.com/?imageId=261340&width=800"
     },
     {
+      "id": "9c037607d0d59f318ad6e9121119b841bba2c568",
+      "title": "Brava Security Emerges From Stealth With $15 Million in Funding",
+      "url": "https://www.securityweek.com/brava-security-emerges-from-stealth-with-15-million-in-funding/",
+      "published": "2026-11-08T12:14:00+00:00",
+      "summary": "<p>Its multi-agent AI platform generates the telemetry an attack would produce to fix gaps in enterprise defenses.</p>\n<p>The post <a href=\"https://www.securityweek.com/brava-security-emerges-from-stealth-with-15-million-in-funding/\">Brava Security Emerges From Stealth With $15 Million in Funding</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "986edfc864db12c69169ad7615f7d446b3069384",
       "title": "SonicWall Patches Exploited SonicOS Vulnerability That Weakens VPN Logins",
       "url": "https://www.securityweek.com/sonicwall-patches-exploited-sonicos-bug-that-weakens-vpn-logins/",
@@ -1855,17 +1866,6 @@
       "url": "https://www.securityweek.com/openssh-rushes-patches-for-sshole-authentication-bypass/",
       "published": "2026-11-06T12:07:42+00:00",
       "summary": "<p>On Linux distributions using musl libc without PAM, some accounts accept any password between 257 and 1024 characters.</p>\n<p>The post <a href=\"https://www.securityweek.com/openssh-rushes-patches-for-sshole-authentication-bypass/\">OpenSSH Rushes Patches for &#8216;SSHole&#8217; Authentication Bypass</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "3a73b8fccf35ecebfd48c4dcedfee782a772759e",
-      "title": "OpenAI Model Wrote Its Own Network Code to Get Around Sandbox Restrictions",
-      "url": "https://www.securityweek.com/openai-model-wrote-its-own-network-code-to-get-around-sandbox-restrictions/",
-      "published": "2026-11-06T09:33:51+00:00",
-      "summary": "<p>After its sandbox proxy failed, an internal OpenAI model crafted raw packets and probed AWS services trying to reach the internet.</p>\n<p>The post <a href=\"https://www.securityweek.com/openai-model-wrote-its-own-network-code-to-get-around-sandbox-restrictions/\">OpenAI Model Wrote Its Own Network Code to Get Around Sandbox Restrictions</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
