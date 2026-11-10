@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T21:39:55.189050+00:00",
+  "generated_at": "2026-11-10T04:52:28.716558+00:00",
   "items": [
     {
       "id": "75a509b202a891e9510405b2b86e25fd1a5c6c43",
@@ -662,6 +662,17 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiK5J_qkmStJVdWJYvNtd4lb2cRfPMaSvu1dEKp8tXOjw71kt_fRGGfdPr60HL5agJ8NMBYO5sH7jVvzMWXlLW1fq0xilaF0GyLQHCznSjHeos7sdP_Xwmd6OWyzKv8Yq8m-Z0Hn3x15GBU8AySu2A27OlIWiuAW9ch0iZuXxTpELRSQ6uRdW9nLK4uXQg/s1600/picus-main.png"
     },
     {
+      "id": "907718f8d43040ed6de66bcc2c09bb4e02589be0",
+      "title": "CISA Announces Enhanced Reporting Form for Cyber Incidents",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/cisa-announces-enhanced-reporting-form-cyber-incidents",
+      "published": "2026-11-09T21:38:20+00:00",
+      "summary": "New questionnaire captures critical data and information that improves the agency\u2019s ability to assess incidents, identify trends and prioritize response actions.",
+      "source": "DarkReading",
+      "region": "North America",
+      "country": "US",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?width=720&quality=80&disable=upscale"
+    },
+    {
       "id": "eae4ff98ab3e26a3143b64dd671c0712cfc7f21b",
       "title": "Microsoft Fixes RCE Bug in Windows Paint After Weeks of Confusion",
       "url": "https://www.darkreading.com/application-security/microsoft-rce-bug-windows-paint-confusion",
@@ -1201,15 +1212,26 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt951105ce06efe522/6ae0c30979732c23e08f3f0c/aokigahara-Carl_Court-GettyImages-931736204jpg..jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "id": "837fe1cef585dc8b5cb29855a8cacc812b55d68b",
-      "title": "So Many AI Security Benchmarks, but None Tell the Whole Story",
-      "url": "https://www.darkreading.com/cybersecurity-analytics/benchmarking-security-of-ai-models-poses-challenges",
-      "published": "2026-10-27T00:26:50+00:00",
-      "summary": "Measuring artificial intelligence model security gets complex, fast, thanks to a growing patchwork of benchmarks targeting different variables in the equation. But none replace testing against your own code and workflows.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltdc3474b6e8cd660f/6ada510270603f3265a5b817/measuring-tape-on-table-k1tyara-shutterstock.jpg?width=720&quality=80&disable=upscale"
+      "id": "d3f5f59ecb3bcdf47b4a71865e74d29e4ac26ee3",
+      "title": "Anthropic's super bug-finding Mythos model is going into Cisco and IBM products",
+      "url": "https://www.theregister.com/ai-and-ml/2026/11/10/anthropics-super-bug-finding-mythos-model-is-going-into-cisco-and-ibm-products/5308616",
+      "published": "2026-11-10T00:00:20+00:00",
+      "summary": "Enterprise security tools will offer its capabilities without handing customers the model itself",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=245983&width=800"
+    },
+    {
+      "id": "47defdd6921fad58dc6bf3d3ec5107cdc100fda5",
+      "title": "France blames Iran for supermarket hack meltdowns",
+      "url": "https://www.theregister.com/security/2026/11/09/france-blames-iran-for-supermarket-hack-meltdowns/5308591",
+      "published": "2026-11-09T22:45:21+00:00",
+      "summary": "The 'first cyber offensive campaign carried out purely for the purpose of sabotage on national territory'",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=258036&width=800"
     },
     {
       "id": "0afd008ab7c4a36b53050da20d57ee33f9b74141",
@@ -1344,9 +1366,9 @@
       "image": "https://image.theregister.com/?imageId=2918046&width=800"
     },
     {
-      "id": "dc955d2a85c483583da2de597337685dbb1008f6",
-      "title": "Hospital gave very sick doctor a special PC for his personal, erm, pleasure",
-      "url": "https://www.theregister.com/security/2026/11/06/hospital-gave-very-sick-doctor-a-special-pc-for-his-personal-erm-pleasure/5307750",
+      "id": "fd8d79b8b2e42c618f4a10ff0a0acafef01a0428",
+      "title": "Hospital gave very sick doctor a special PC for his very personal use",
+      "url": "https://www.theregister.com/security/2026/11/06/hospital-gave-very-sick-doctor-a-special-pc-for-his-very-personal-use/5307750",
       "published": "2026-11-06T06:31:00+00:00",
       "summary": "Support chap told to either allow blatant policy violations or find a new job",
       "source": "The Register \u2013 Security",
@@ -1738,28 +1760,6 @@
       "region": "Europe",
       "country": "UK",
       "image": "https://image.theregister.com/?imageId=5241038&width=800"
-    },
-    {
-      "id": "3974020733a46558a4580f6bbc048f0537815314",
-      "title": "Admin dropped the F-bomb in a password to show hackers who was really 1337",
-      "url": "https://www.theregister.com/security/2026/10/29/admin-dropped-the-f-bomb-in-a-password-to-show-hackers-who-was-really-1337/5306139",
-      "published": "2026-10-29T09:00:00+00:00",
-      "summary": "Cursing in login credentials can help keep the bad guys out, but not when the rest of your security is BS",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=5280606&width=800"
-    },
-    {
-      "id": "c96bde332f1d8e804e9295e9a80355c8b381e3cb",
-      "title": "Oracle celebrates end of Cybersecurity Awareness Month with quadruple trouble",
-      "url": "https://www.theregister.com/security/2026/10/28/oracle-celebrates-end-of-cybersecurity-awareness-month-with-quadruple-trouble/5306121",
-      "published": "2026-10-28T19:56:56+00:00",
-      "summary": "Attackers probe another EBS bug, and ShinyHunters' PeopleSoft 0-day turns out to involve three vulns",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=5306136&width=800"
     },
     {
       "id": "49bf8b366c47018c1d1bdf4296ebe734f0161304",
