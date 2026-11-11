@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T18:56:59.691017+00:00",
+  "generated_at": "2026-11-11T03:18:47.975903+00:00",
   "items": [
     {
       "id": "d21b6dde7ffa200cbbcf1c73d3e01b94ec03a173",
@@ -7,17 +7,6 @@
       "url": "https://www.cybersecuritydive.com/news/trump-cisa-director-nominee-michael-losapio/874256/",
       "published": "2026-11-10T15:44:42+00:00",
       "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/p1t777lvRYTMuNm-9ZruuRPB3bo1Gk03gNobbnqCDZc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9DSVNBX2hlYWRlci5qcGc=.webp\" /></div></figure><p>The nomination &mdash; Trump&rsquo;s second attempt to fill a post that has sat vacant for his entire second term &mdash; could face steep odds in the Senate.</p>",
-      "source": "Cybersecurity Dive",
-      "region": "North America",
-      "country": "US",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "2ecac100f6927176813af084f92ca7f42284fc71",
-      "title": "France attributes grocery hacks to Iran-backed threat actors",
-      "url": "https://www.cybersecuritydive.com/news/france-attributes-grocery-hacks-to-iran-backed-threat-actors/874252/",
-      "published": "2026-11-10T15:33:42+00:00",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/0UWyyPtdcTnHDxcXkCSbvdr8e2fM52bdGKqkvBgYilI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9GcmVlemVyLUhhY2suanBn.webp\" /></div></figure><p>Attackers compromised hundreds of refrigerator components at supermarkets, agricultural facilities and local shops.</p>",
       "source": "Cybersecurity Dive",
       "region": "North America",
       "country": "US",
@@ -112,11 +101,66 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "3ae319fd1f10d9e4823a4604127d88c02a86ea88",
+      "title": "French authorities probe cyberattack targeting nation\u2019s blood supply",
+      "url": "https://www.cybersecuritydive.com/news/french-probe-cyberattack-blood-supply/873871/",
+      "published": "2026-11-05T15:52:25+00:00",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/jcQtCP085YsyAKLy_yRsVtoEdKZSayzR3AkGAZ2kQbA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjEwMjY3NDc3LmpwZw==.webp\" /></div></figure><p>The attack follows a wave of hacks against refrigeration systems at supermarkets across Europe.</p>",
+      "source": "Cybersecurity Dive",
+      "region": "North America",
+      "country": "US",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "b86930e18372a4deefde767b5b13fe4303d9e1bb",
+      "title": "Git Patches Flaw That Lets Malicious Repositories Execute Code During Recursive Clones",
+      "url": "https://thehackernews.com/2026/11/git-patches-flaw-that-lets-malicious.html",
+      "published": "2026-11-10T19:23:10+00:00",
+      "summary": "A flaw in Git can let a malicious repository run an attacker's code on a computer that clones it recursively, together with its submodules. The Git project fixed it this week in Git 2.56.1, with matching fixes for the 2.50 through 2.55 series in 2.50.2, 2.51.3, 2.52.1, 2.53.1, 2.54.1 and 2.55.1.\n\nThe flaw, tracked as CVE-2026-111760, is an integer truncation in how Git handles its index. An",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipoPlLYj_xfJ8bsfRTONwa3estE9I2un_9OBx2fVuxEp-zoiADgipn-gGOeU4TqqyjqjrCpoGXC4jmuF7o1e_PUMbr-QoHDdPZEDWavb4VbjtWbOxMfmz-E9fIPT2DHEXYCN53l2jtiJGVfEFjHsR8gaHeyF59Yii0oTnP73vaslLWPzuideEGxTy6S9U/s1600/gits.jpg"
+    },
+    {
+      "id": "b958c227209529b5aa9fb013152ff1205e0ca76c",
+      "title": "SGLang RCE Exploit Breaches NEAR AI, Steals Data From 18 Agents and About 100 Users",
+      "url": "https://thehackernews.com/2026/11/sglang-rce-exploit-breaches-near-ai.html",
+      "published": "2026-11-10T19:19:39+00:00",
+      "summary": "An attacker exploited a remote code execution flaw in SGLang, an open-source inference engine, and ran code on one of NEAR AI's inference servers last Sunday.\n\nThe attacker could also have seen requests being processed on that server that day, including requests sent in confidential mode, the company said earlier this week. That mode processes requests inside a trusted execution environment (TEE",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifQOwa1ngLZRATbbZyg_iud4SNx-9ugjo2iOG6crnJzatc_uS9FjGScBnNUy-uNIuOEE3Y6kJTpUVMVtOR1bW5sse_pRNJA1SQALCGjshDx6-CF1t8HXlUI2CCb6yp7Uepz6uk3ctMLUlSx4Q36Q7pZcx1nb9wPgbYAZqvd6CnSJ6WM6Kn_ZENtHpESoM/s1600/nearai.jpg"
+    },
+    {
+      "id": "9398616ade4dc7e103d9205c83fa25b0ec70fef6",
+      "title": "Hackers Exploit Critical Xen Orchestra Auth Bypass Flaw to Gain Admin Access",
+      "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-xen-orchestra.html",
+      "published": "2026-11-10T18:12:21+00:00",
+      "summary": "French software company Vates VMS has warned of a critical security vulnerability in Xen Orchestra that it said is being actively exploited in the wild.\n\nThe authentication bypass flaw, which does not yet have a CVE identifier, is tracked as VSA-2026-062.\n\n\"REST cookie parsing turns authenticationToken=j:%7B%7D into {},\" Vates VMS said in an alert. \"REST authentication passes that object to the",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMH_u7t-U3KIejAItsfC_js20xJgxT2ITYLsR0DAxzfcwDvPrzBHkpZlDuALWPnACOoknX2IALwHIUxIzfhbA24M7e8cGWTZpBMWqpX-wn6xqe8_U3fAtnR-9RsRdFHMCjvNnBsMXrEUKhVYS5bbTGL3B50UMO0aydtHIomY89s2iDAQMq0jXJJ3vh4Nvi/s1600/XEN-attack.jpg"
+    },
+    {
+      "id": "3ac35ff647369fb991a4dc1836d50a1acb37a735",
+      "title": "Three China-Nexus Espionage Campaigns Linked Through Sparrow Malware Ecosystem",
+      "url": "https://thehackernews.com/2026/11/three-china-nexus-espionage-campaigns.html",
+      "published": "2026-11-10T17:43:23+00:00",
+      "summary": "Three distinct threat activity clusters with shared infrastructure and malware code similarities have been observed targeting telecommunications providers, government organizations, military entities, research institutions, and critical infrastructure across Latin America, Asia, and Europe over the past year.\n\nCheck Point Research is tracking the clusters under the names SilentDelivery,",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJzh3KQXtsNe_Hb53sMmMSiGIRHL-ybly73FQY1F-RNeFR181cAeiYkvBDi80Upvlea0WqHLNW6ydto2DhfeD3PlISviNhaTUtVBdQMziXOtKybeWLKj7O3UmmeKP0vGX5ufVBkf1dbShyphenhyphenXgawm2sMttXPfbTTDtmYxbXo7Lw0jkGXtt-E-X7W7PtNxfD-/s1600/chinese-telecom.jpg"
+    },
+    {
       "id": "0eb55bf1598eb50a18c540e878957e8656a07994",
       "title": "Attackers Exploit AhsayCBS Flaws to Deploy Sandbox-Evading Python Backdoor",
       "url": "https://thehackernews.com/2026/11/attackers-exploit-ahsaycbs-flaws-to.html",
       "published": "2026-11-10T16:00:55+00:00",
-      "summary": "Cybersecurity researchers have disclosed details of an attack that exploited two now-patched vulnerabilities in AhsayCBS to deliver a Python-based implant.\n\nThe activity, observed by Huntress in October 2026, involves the exploitation of a chain comprising CVE-2026-105133 and CVE-2026-105134 to bypass authentication and execute arbitrary commands on affected systems. Patches for the two",
+      "summary": "Cybersecurity researchers have disclosed details of an attack that exploited two now-patched vulnerabilities in AhsayCBS to deliver a Python-based implant.\n\nThe activity, observed by Huntress in early October 2026, involves the exploitation of a chain comprising CVE-2026-105133 and CVE-2026-105134 to bypass authentication and execute arbitrary commands on affected systems. Patches for the two",
       "source": "The Hacker News",
       "region": "North America",
       "country": "US",
@@ -135,7 +179,7 @@
     },
     {
       "id": "7646e96e2e7b54961a00337efdcc79808301c3e2",
-      "title": "Fireworks AI Breach Widens to Expose Customer Billing Data and Incomplete Model Weights",
+      "title": "Fireworks AI Confirms Wider Breach Affecting Customer Datasets, Model Weights and Notion AI Chats",
       "url": "https://thehackernews.com/2026/11/fireworks-ai-breach-widens-to-expose.html",
       "published": "2026-11-10T15:33:59+00:00",
       "summary": "Fireworks AI disclosed on Monday that its investigation into a security incident first reported early last month&nbsp; uncovered further malicious activity, affecting account and billing information, alongside secrets, datasets, and incomplete models for a \"limited set of accounts.\"\n\nIn a notice published on October 10, 2026, the company said it detected unauthorized use of internal Fireworks",
@@ -618,48 +662,59 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgME1T4MkjI8UEzzSmlLgbPG6a__VNQNoKkhuxiaW5zF5fnHLPmsTdkGoIL06JTeER1jcOMH-WLuNYyva_sSW_8DnZojbMC8ikgNME3ZPUAdkij-9nVm8joHHdaZRoLNbVgcSVLNSc6Tt7UJ3YPhQmea3OtQwg-H2UzUPIgWq7nFwoEQcMsGCKf-0fImEvd/s1600/sonic.jpg"
     },
     {
-      "id": "78de6ffe4e2d3ce47d7e8c2518bdc539a25446a0",
-      "title": "Researchers Uncover Prompt Adware Hidden in OpenAI Codex Jailbreak Toolkit",
-      "url": "https://thehackernews.com/2026/11/researchers-uncover-prompt-adware.html",
-      "published": "2026-11-04T16:06:43+00:00",
-      "summary": "Cybersecurity researchers have disclosed details of an OpenAI Codex jailbreak bundle that's designed to modify an artificial intelligence (AI) agent's trusted instructions to insert advertisements for a third-party AI gateway.\n\nThe phenomenon has been codenamed prompt adware by Check Point Research.\n\nCalled Haiou (meaning Seagull in Chinese), the jailbreak modifies OpenAI Codex's configuration",
-      "source": "The Hacker News",
+      "id": "95f883361cdc02d1f19a2665835200ff4200bf21",
+      "title": "November Patch Tuesday: An Overflowing Cornucopia of CVEs",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/november-patch-tuesday-cornucopia-cves",
+      "published": "2026-11-10T22:26:51+00:00",
+      "summary": "Microsoft serves up an actively exploited Outlook zero-day, and a wave of critical Exchange, SharePoint, Windows Search, and LDAP bugs that exhausted defenders need to prioritize fast.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiO7-xs-0dO1uqFLbfphgPbe8T7cbCLkrab6XhAjlNPVo-bLQOFw4mkcArqglQOvhuIYif4ohTAub-TNWlket6iguifshMRo3zBrYvM4G_IwFTtbh8ifIqh1Vuf8GuNmqDg_PB2Roy7yzYuTFhRrFM8wxOo8HVwfG9Y2eqJnq82LGYHnAKI5S6TuvZ_Q95A/s1600/ai-adware.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt033b67685e64cff8/6af3980e4e01486fb09958c1/thanksgiving-Gurol_Tuna-GettyImages-2248720649.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "id": "5e99d13bfbb2b68f427254756ffdd2f12b25646b",
-      "title": "APT29-Linked Hackers Hijack Web Analytics Script to Deliver iOS and Android Exploits",
-      "url": "https://thehackernews.com/2026/11/apt29-linked-hackers-hijack-web.html",
-      "published": "2026-11-04T14:27:52+00:00",
-      "summary": "The Russia-linked threat actor known as APT29 is presumed to be behind a large-scale watering hole campaign targeting iOS and Android users through compromised websites, fake domains, and a supply chain attack involving a Ukrainian web analytics service called Plerdy SEO Tracker.\n\n\"The injected JavaScript code collects browser and device attributes,\" Sekoia researchers Amaury-Jacques Gar\u00e7on and",
-      "source": "The Hacker News",
+      "id": "c9d200a425c209932be345ac27734b47a7087e52",
+      "title": "Artex: The AI Pen-Test Tool Hackers Turned Into a Weapon",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/artex-ai-pen-test-tool-hackers-weapon",
+      "published": "2026-11-10T21:01:14+00:00",
+      "summary": "Forks of the open source Artex framework, along with 45 similar pen-testing tools, remain capable of executing credential attacks and cloud breaches at machine speed across multiple industries.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhx1cus2o8fkYGLhQu9BfPgGtAUwnmTAMucLagfAodBuRoYnyxGIJKgpqtKFyCSV-WSG3pDqmPujhj-iwoOZB-zF8JjbQMrLzDHYtdTPA3hD3Kc3rqYQM4CQwkICwZkh8K6O8ZSt-WAA_PBoUA6lHwh_55dbDlKizsjzcTN847c9BSHsWHmrAP42JHRHIYS/s1600/ios-exploit.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte1b65168e9679e0a/6af379bdf986ff173e0a7def/Lock_with_target-Alena_Butusava-GettyImages-2263307877.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "id": "d013e25bf4065f18fbf17448a788b1cacf17d351",
-      "title": "Critical Rails Flaw Lets Attackers Write Server Files via Crafted ImageMagick Uploads",
-      "url": "https://thehackernews.com/2026/11/critical-rails-flaw-lets-attackers.html",
-      "published": "2026-11-04T12:07:04+00:00",
-      "summary": "A critical flaw in Ruby on Rails could allow an unauthenticated attacker to write arbitrary files on an app's server by uploading a crafted file if the app processes uploads using ImageMagick. The Rails project disclosed the flaw in&nbsp;an advisory&nbsp;and fixed it in versions 8.1.4.1 and 8.0.5.2.\n\nThe flaw is in Active Storage, the part of Rails that handles file uploads. Some apps store",
-      "source": "The Hacker News",
+      "id": "6922144e7a8d86cdb96b040ea52b3fa64d92edaf",
+      "title": "F-Secure Identifies 26 Ways AI Can Harm Consumers, and Where to Stop Them",
+      "url": "https://www.darkreading.com/application-security/f-secure-26-ways-ai-harm-consumers-where-to-stop-them",
+      "published": "2026-11-10T20:41:45+00:00",
+      "summary": "New AI Harms Taxonomy traces how harm moves through AI systems, from misleading chatbot answers to compromised autonomous agents, and identifies where defenses can intervene.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaJWnScdkMx0R5_Zt00NtYVNjNavBR7IMrLzJM_tZGMTpZtAvV7uNWt6BQbBrlUzH-aBoj_ZmMEOG__aTA8VmfTeiHUR9gfqNe2eYf9fSM-sYQkmCOg10qZ3ZaKyM_RS1QUQhm8s5NMw-xnYaWMDgDakmFyp9tbJgQ4hOZTf0cxe9E6x7uWt3JeN6bS3k/s1600/ruby-rails.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?width=720&quality=80&disable=upscale"
     },
     {
-      "id": "de8bbdd0e39a7667c70d75c765cb60faa3d6ca76",
-      "title": "Xen Hypervisor Flaws Let One Malicious VM Read and Write Any Other VM's Memory",
-      "url": "https://thehackernews.com/2026/11/xen-hypervisor-flaws-let-one-malicious.html",
-      "published": "2026-11-04T11:46:27+00:00",
-      "summary": "Two flaws in the Xen hypervisor allow a malicious guest virtual machine (VM) to read and write the memory of other VMs on the same host, including dom0.\n\nDom0 is the VM that, by default, has full permissions and manages the others. Patches are out, and there is no known mitigation, the Xen Project said in an&nbsp;advisory&nbsp;on November 3.\n\nAll Xen versions from 4.6 onward are vulnerable,",
-      "source": "The Hacker News",
+      "id": "8ec6ef10a10ae8e738875de718b6fae86e67d94a",
+      "title": "Checkmarx Appoints Kobi Sivilya as Chief Information Security Officer",
+      "url": "https://www.darkreading.com/cybersecurity-careers/checkmarx-appoints-kobi-sivilya-chief-information-security-officer",
+      "published": "2026-11-10T20:35:34+00:00",
+      "summary": "Sivilya brings deep cybersecurity and technology leadership to Checkmarx as AI transforms software development.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAVPXiuTBfhBnpwaZHMfSDWymKJrXbS88kOEO1Xuh5t11qAnwSKeFTHGQy6ZG9Sr2N-wRYrJg58x3lKFbybvU9p1a85lxaCHfBa61vO1DfjEhUi5Yzf6bQS1eN7Mu-s_sUwkE-JGc-UznJ1p0qfmwMDusXFzWawXKXMt6jj-vENxyQG12uAUDUe0p0gtg/s1600/xen.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?width=720&quality=80&disable=upscale"
+    },
+    {
+      "id": "d6fe2bb7d3316c8fd4bf912fd55063500add6133",
+      "title": "How to Assess OT Incident Response Preparedness",
+      "url": "https://www.darkreading.com/ics-ot-security/assess-ot-incident-response-preparedness",
+      "published": "2026-11-10T20:18:43+00:00",
+      "summary": "Cloud Range's free 28-question OT Cyber Readiness Assessment helps organizations identify gaps in operational technology (OT) incident response.",
+      "source": "DarkReading",
+      "region": "North America",
+      "country": "US",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?width=720&quality=80&disable=upscale"
     },
     {
       "id": "80496ac2144fe73b12393964566d173f0d952aa4",
@@ -677,11 +732,22 @@
       "title": "AI Makes Reverse Engineering Mainstream Software &amp; Malware Far Easier",
       "url": "https://www.darkreading.com/application-security/ai-reverse-engineering-apps",
       "published": "2026-11-10T13:00:00+00:00",
-      "summary": "Researchers unpacked, mapped, and recreated complex software and the Turla malware, raising fresh concerns for defenders.",
+      "summary": "Researchers unpacked, mapped, and recreated complex software and the Turla malware, raising opportunities and concerns for organizations and cybersecurity analysts.",
       "source": "DarkReading",
       "region": "North America",
       "country": "US",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt50398014b3f8049d/6aee2b328988653fd1de4aef/Binary-PashaIgnatov-Getty.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "id": "ccc69e15df6f54a033b998323e69fc6f22ffa459",
+      "title": "People Are Getting Weird About AI",
+      "url": "https://www.darkreading.com/cyber-risk/people-are-getting-weird-about-ai",
+      "published": "2026-11-09T23:06:22+00:00",
+      "summary": "Dark Reading Confidential Episode 22: You can love AI without being blind to cybersecurity being sacrificed for utility.",
+      "source": "DarkReading",
+      "region": "North America",
+      "country": "US",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0469f94bd17817ff/6642699959fdc64aa5f9c5fa/dark-reading-confidential-logo-sq.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "id": "907718f8d43040ed6de66bcc2c09bb4e02589be0",
@@ -1146,70 +1212,26 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb1d9be3de2e89da6/6ae252ca6c2fe31e558a43e9/Ghosts-GrafikLab-GettyImages-2173220193.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "id": "c5cb56f9b754b3af48830e1eb526e42e5c184eae",
-      "title": "AI Takes Root in Hospital Corridors, Raises Security Stakes",
-      "url": "https://www.darkreading.com/cybersecurity-operations/ai-root-hospital-corridors-raised-security-stakes",
-      "published": "2026-10-28T15:29:06+00:00",
-      "summary": "Artificial intelligence is everywhere in healthcare, from doctors' intake forms to cancer screenings. But in some cases, life-and-death uses are outpacing cybersecurity.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt27f5645084863935/6ae21761f2adb985c612d4c7/GettyImages-1415423396.jpg?width=720&quality=80&disable=upscale"
+      "id": "2a555df5f60aca593ee60be759445cb9d42dc33c",
+      "title": "November Patch Tuesday boasts over 1,000 bugs but only one zero-day so far",
+      "url": "https://www.theregister.com/security/2026/11/10/november-patch-tuesday-boasts-over-1000-bugs-but-only-one-zero-day-so-far/5308946",
+      "published": "2026-11-10T22:37:01+00:00",
+      "summary": "Microsoft admins wail and gnash their teeth",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=5308965&width=800"
     },
     {
-      "id": "70a17c1d3a5b486788e00887d0c51db9fd67d1f2",
-      "title": "Attacker Relentlessly Scans for Credentials by Impersonating AI Bots",
-      "url": "https://www.darkreading.com/cyber-risk/attacker-impersonates-ai-bots-scans-credentials",
-      "published": "2026-10-28T14:37:52+00:00",
-      "summary": "The threat actor lurked behind bots posing as agents from OpenAI, Anthropic, Meta, and others to find exposed data.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf851053137fec653/6ae1e3cca1e4219344f6a136/credentials-NicoElNino-AdobeStock.png?width=720&quality=80&disable=upscale"
-    },
-    {
-      "id": "271b83601f0c5aec1828bb6bd389b76de07d7138",
-      "title": "Third Serengeti Sweep Tops 1,400 Arrests as Investigations Mature",
-      "url": "https://www.darkreading.com/cybersecurity-operations/third-serengeti-sweep-1400-arrests-investigations-mature",
-      "published": "2026-10-28T06:00:00+00:00",
-      "summary": "Interpol's annual Operation Serengeti, now in its third iteration, led to 1,462 arrests across 20 African countries and the US, recovering $105 million in stolen funds.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt88d7810c6bea6d70/6ae11337facab4e020903095/lion-chasing-zebras-Wirestock_Creators-shutterstock.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "id": "2db299f6a19064cf5c46d2d279c81e1818ccd7d0",
-      "title": "3 Frameworks to Protect CISOs &amp; Orgs Against AI Liability",
-      "url": "https://www.darkreading.com/cyber-risk/3-frameworks-cisos-ai-liability",
-      "published": "2026-10-27T21:15:03+00:00",
-      "summary": "Cyber leaders can get ahead of AI liability with rigorous documentation, transparency, and smart contract negotiations with AI vendors.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltbc201b7327a3221e/6ae0e1681ae793f19fb9e1de/Cyber_legal_Abu_Hanifa_Getty_Images.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "id": "e7767410559634bd76ccf9d97163ef03a10baeb6",
-      "title": "External Teams Chats Anchor 15-Minute Malware Delivery",
-      "url": "https://www.darkreading.com/cloud-security/email-bombing-external-teams-chats-repeatable-access-path",
-      "published": "2026-10-27T20:42:40+00:00",
-      "summary": "Mail bombing is getting a new look with a wide-scale, ongoing social engineering campaign that might be tied to the Black Basta ransomware gang.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt634b295db59f5c55/6ae0fd3853ec236cfd97d242/Email_flood-juststock-GettyImages-2156140935.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "id": "67aef7e7b7c4c14fc123d4a15d16450d7790fb07",
-      "title": "SBOMs Alone Can't Reveal the Scope of a Supply Chain Attack",
-      "url": "https://www.darkreading.com/cyber-risk/sboms-alone-scope-supply-chain-attack",
-      "published": "2026-10-27T19:58:06+00:00",
-      "summary": "A recent Shai-Hulud attack shows defenders need real-time visibility into production code and affected services to respond to supply chain compromises.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltaa7bc1b8ce13713c/6ae1025ea3c73d20dd328ef4/sschain_LocalPhotoSomebody_shutterstock.jpg?width=720&quality=80&disable=upscale"
+      "id": "cd42927ef69a79ec8cd837b859d99564a2c5fead",
+      "title": "Ring robots ready to patrol paranoids\u2019 pads",
+      "url": "https://www.theregister.com/offbeat/2026/11/10/ring-robots-ready-to-patrol-paranoids-pads/5308932",
+      "published": "2026-11-10T21:45:45+00:00",
+      "summary": "Amazon calls its home security drone and business patrol bot 'proactive protection'",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=5308936&width=800"
     },
     {
       "id": "12fdc093b1073eb3000de8e479e5dc8049d6d1e9",
@@ -1740,26 +1762,15 @@
       "image": "https://image.theregister.com/?imageId=229334&width=800"
     },
     {
-      "id": "a1f01e3becb7c18b42058097eccccdc004ac2033",
-      "title": "Anthropic: That Claude Code extension compromise\u2026 couldn't be us",
-      "url": "https://www.theregister.com/cyber-crime/2026/10/30/anthropic-that-claude-code-extension-compromise-couldnt-be-us/5306682",
-      "published": "2026-10-30T16:27:00+00:00",
-      "summary": "Claudeshop fingers 'malicious actor' in targeted supply-chain attack on Cursor",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=5254625&width=800"
-    },
-    {
-      "id": "95b826d0e3a379749f79453c57675f92284a9961",
-      "title": "British intelligence agency misplaced 'thousands' of storage devices, years later still can't say how many",
-      "url": "https://www.theregister.com/security/2026/10/30/british-intelligence-agency-misplaced-thousands-of-storage-devices-years-later-still-cant-say-how-many/5306605",
-      "published": "2026-10-30T11:45:00+00:00",
-      "summary": "Other agency errors included an unchecked software bug that led to Terrorism Act detentions",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=197715&width=800"
+      "id": "9364f9baac682a403f1c97475f193825c3bbc7d9",
+      "title": "Microsoft Fixes Nearly 1,100 Security Vulnerabilities",
+      "url": "https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/",
+      "published": "2026-11-10T21:55:03+00:00",
+      "summary": "Microsoft did another four-digit patch drop today, releasing updates to fix almost 1,100 security vulnerabilities in its Windows operating systems and supported software. This month's Patch Tuesday addresses 63 critical flaws -- including a zero-day in Microsoft Outlook -- and comes amid important security updates from other software makers, including Adobe, Apple, Google\u00a0and Mozilla.",
+      "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
       "id": "49bf8b366c47018c1d1bdf4296ebe734f0161304",
@@ -1823,6 +1834,17 @@
       "published": "2026-10-13T23:24:53+00:00",
       "summary": "Microsoft today issued updates to fix more than 1,400 security vulnerabilities in its Windows operating systems and other software. Today's epic patch batch dwarfs September's record of nearly 1,000 fixes, which was already about ten times the normal monthly patch load from Redmond.",
       "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "008f66d06450b9b0ac27aab63dbd7d2ec39c30bc",
+      "title": "Exploited Outlook Zero-Day Among 1,094 Flaws Patched by Microsoft",
+      "url": "https://www.securityweek.com/exploited-outlook-zero-day-among-1094-flaws-patched-by-microsoft/",
+      "published": "2026-11-10T19:19:46+00:00",
+      "summary": "<p>CVE-2026-124194 is the Outlook zero-day for which Microsoft says it\u2019s aware of active exploitation.\u00a0</p>\n<p>The post <a href=\"https://www.securityweek.com/exploited-outlook-zero-day-among-1094-flaws-patched-by-microsoft/\">Exploited Outlook Zero-Day Among 1,094 Flaws Patched by Microsoft</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
@@ -1921,17 +1943,6 @@
       "url": "https://www.securityweek.com/n-able-takes-n-central-offline-as-researcher-drops-over-30-zero-days/",
       "published": "2026-11-10T09:56:28+00:00",
       "summary": "<p>Attackers could exploit the flaws for remote code execution, credential theft, and administrator account creation.</p>\n<p>The post <a href=\"https://www.securityweek.com/n-able-takes-n-central-offline-as-researcher-drops-over-30-zero-days/\">N-able Takes N-central Offline as Researcher Drops Over 30 Zero-Days</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "e61330c9778509bde52f2fbe19ce4a568e8fc838",
-      "title": "IBM Aspera Faspex, SignalWire FreeSwitch Vulnerabilities Exploited in Attacks",
-      "url": "https://www.securityweek.com/ibm-aspera-faspex-signalwire-freeswitch-vulnerabilities-exploited-in-attacks/",
-      "published": "2026-11-10T09:42:27+00:00",
-      "summary": "<p>CISA has added CVE-2026-123218 and CVE-2026-116779 to KEV, urging federal agencies to patch them within three days.</p>\n<p>The post <a href=\"https://www.securityweek.com/ibm-aspera-faspex-signalwire-freeswitch-vulnerabilities-exploited-in-attacks/\">IBM Aspera Faspex, SignalWire FreeSwitch Vulnerabilities Exploited in Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
