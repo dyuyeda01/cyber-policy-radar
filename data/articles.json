@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T03:42:48.380985+00:00",
+  "generated_at": "2026-11-14T17:22:02.242958+00:00",
   "items": [
     {
       "id": "a9a3610e2e7ec666924e12656ee9f19409ceb7bf",
@@ -110,6 +110,17 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "b58e8e6c37edfa61a05e6fb88bb818270733c3b6",
+      "title": "Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection",
+      "url": "https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html",
+      "published": "2026-11-14T12:38:35+00:00",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a high-severity security flaw impacting UnrealIRCd, an open-source Internet Relay Chat (IRC) server, to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation.\n\nThe vulnerability, tracked as CVE-2026-114713 (CVSS score: 8.6), is a case of improper neutralization of delimiters",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuvSsWcsJ9736KXp_0s-6__-CiI5PD71VReembVHAB4cfnv3Qti8td9WR54UnRH96bz30dvbTQxwG3WbxDkWRq_eFJPYLgxbAzRD5k3MJSISbW2VDI-Fr7nlX4j8NyJkXqLHylMZMXpynEHVV8ovZ2YPC-WGCFCcrOZOeGc5Wsy-jRjjbcyYTzojI9Nudw/s1600/cisaa.jpg"
     },
     {
       "id": "e05f7a78ce38d83c34d2054e4262b63dc4863494",
@@ -649,17 +660,6 @@
       "region": "North America",
       "country": "US",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgogipF_6VgFSzsnZ_UFUM5FfzGyk1MOv5SRi3PSivRHjxs6IsO0fmOdDjQsDJHiKcnxJ8T89NMMYiqo_NEEtv0EoQsafjOFuZ-Te6famJBJKegqDnf1b63Hdzkls7IO1JOtSNjb5Hatb4Ny8Zu46mggCXYKvHf3Ne9Qc4ZRfLBmLnZ7omPEHAjDfJRQEKu/s1600/fable.jpg"
-    },
-    {
-      "id": "9844bc61915e12dbae821480f50bae8011e8162a",
-      "title": "Google Issues Chrome Security Update for Eighth Actively Exploited Zero-Day of 2026",
-      "url": "https://thehackernews.com/2026/11/google-issues-chrome-security-update.html",
-      "published": "2026-11-10T06:52:54+00:00",
-      "summary": "Google on Monday released updates to patch nine security vulnerabilities, including one that has come under active exploitation in the wild.\n\nThe high-severity vulnerability, assigned the CVE identifier CVE-2026-125350 (CVSS score: 8.8), has&nbsp;been described as a use-after-free bug in the XML component.\n\n\"Use-after-free in XML in Google Chrome prior to 157.0.8103.50 allowed a remote attacker",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjk5S9J891bQS8W6TgyoiEPQ7geGia8FqqWjckFlo9qMH2wXIXv-7gyod1XKUpI9BfgcliN2Re8A85rJ121jxqgfnw1LsjYBvAYtX7694GVgMF7B94G0n5MzqMaKqLAbr-No1nqrN0gyF8MFR_bYQIYlqiTh_FzobmWrq4NOCLbcW_78uEMMW5FE4eqJoo/s1600/chrome-0day.jpg"
     },
     {
       "id": "e12779d5806a7d2615d2f1e1fbe3950aafe1b77b",
@@ -1212,6 +1212,17 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7bfb23bb01b12a77/6ae89a88a47bac182d509a42/DataTribe_Challenge.jpg?width=720&quality=80&disable=upscale"
     },
     {
+      "id": "43803d3c2ee64417485c1abc4223e76d0b05b8fb",
+      "title": "Big Tech takes a beating as online safety experts accuse companies of doing bare minimum",
+      "url": "https://www.theregister.com/security/2026/11/14/big-tech-takes-a-beating-as-online-safety-experts-accuse-companies-of-doing-bare-minimum/5309302",
+      "published": "2026-11-14T08:18:00+00:00",
+      "summary": "Accessing banned content is as easy as whipping out a thesaurus, Parliament's Communications and Digital Committee hears",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=5254826&width=800"
+    },
+    {
       "id": "cced99eaa1756ea0856d97be49b5b1d0bfe9f42a",
       "title": "This year\u2019s bug count just passed 100K",
       "url": "https://www.theregister.com/security/2026/11/13/this-years-bug-count-just-passed-100k/5309882",
@@ -1751,17 +1762,6 @@
       "image": "https://image.theregister.com/?imageId=260104&width=800"
     },
     {
-      "id": "bf3dcb66945ff7851e87f7695b191bc11313ba6f",
-      "title": "Apple turns iCloud into spy cloud, will start looking at public share links",
-      "url": "https://www.theregister.com/security/2026/11/04/apple-turns-icloud-into-spy-cloud-will-start-looking-at-public-share-links/5307681",
-      "published": "2026-11-04T21:49:38+00:00",
-      "summary": "Content shared with anyone who has the URL will be scanned for 'harmful content,' though the iMaker hasn't defined that term",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=5307696&width=800"
-    },
-    {
       "id": "8cdc4a0f74c83bb256d98b7cb3f31c2e65c9d9c3",
       "title": "Who Runs the Ransomware Group Qilin?",
       "url": "https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/",
@@ -1823,6 +1823,39 @@
       "published": "2026-10-19T13:48:56+00:00",
       "summary": "U.S. federal investigators pursuing the ShinyHunters hacking group that recently stole highly sensitive data from the FBI have identified executives at two different ransomware negotiation firms who maintained unusually close relations with the extortion group, KrebsOnSecurity has learned. Sources close to the investigation say one of the executives in the United States even helped ShinyHunters operate a website that pressured victims into paying a ransom.",
       "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "3772cdf174b05671ca994ccb6cdee5d103ae19b3",
+      "title": "Is AI Making Us Worse at Cybersecurity?",
+      "url": "https://www.securityweek.com/is-ai-making-us-worse-at-cybersecurity/",
+      "published": "2026-11-14T14:00:00+00:00",
+      "summary": "<p>Overreliance on AI could erode the creativity, clear communication, and critical thinking security teams need when there\u2019s no playbook.</p>\n<p>The post <a href=\"https://www.securityweek.com/is-ai-making-us-worse-at-cybersecurity/\">Is AI Making Us Worse at Cybersecurity?</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "f694138aff43c1689a521aa5535203f209c47741",
+      "title": "Apple Reveals How Secure Exclaves Shield Camera and Microphone Data",
+      "url": "https://www.securityweek.com/apple-reveals-how-secure-exclaves-shield-camera-and-microphone-data/",
+      "published": "2026-11-14T11:00:00+00:00",
+      "summary": "<p>The tech giant has detailed the architecture designed to isolate ambient sensor data from the main OS on HomeView and new iPhones.</p>\n<p>The post <a href=\"https://www.securityweek.com/apple-reveals-how-secure-exclaves-shield-camera-and-microphone-data/\">Apple Reveals How Secure Exclaves Shield Camera and Microphone Data</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "9cdb1de4d4867300b6f955567f15b25285a19848",
+      "title": "No Signs of Hacking in FAA Ground Stop as FBI Reportedly Probes Software Update",
+      "url": "https://www.securityweek.com/no-signs-of-hacking-in-faa-ground-stop-as-fbi-reportedly-probes-software-update/",
+      "published": "2026-11-14T08:40:22+00:00",
+      "summary": "<p>Officials say there is no evidence of a cyberattack behind the nationwide FAA outage, which may have been caused by a software update.</p>\n<p>The post <a href=\"https://www.securityweek.com/no-signs-of-hacking-in-faa-ground-stop-as-fbi-reportedly-probes-software-update/\">No Signs of Hacking in FAA Ground Stop as FBI Reportedly Probes Software Update</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
@@ -1899,39 +1932,6 @@
       "url": "https://www.securityweek.com/citrix-patches-10-critical-netscaler-vulnerabilities/",
       "published": "2026-11-13T09:36:56+00:00",
       "summary": "<p>Successful exploitation could lead to unexpected behavior or denial-of-service (DoS) conditions.</p>\n<p>The post <a href=\"https://www.securityweek.com/citrix-patches-10-critical-netscaler-vulnerabilities/\">Citrix Patches 10 Critical NetScaler Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "e4b47e3b9b3e94f4c971d3c3251b0633d9eabc87",
-      "title": "OpenAI Unveils Daybreak Red Team, Defense Factory Security Tools",
-      "url": "https://www.securityweek.com/openai-unveils-daybreak-red-team-defense-factory-security-tools/",
-      "published": "2026-11-13T09:21:01+00:00",
-      "summary": "<p>Daybreak Red Team pentests web applications with AI agents, while Defense Factory investigates security findings and prepares patches.</p>\n<p>The post <a href=\"https://www.securityweek.com/openai-unveils-daybreak-red-team-defense-factory-security-tools/\">OpenAI Unveils Daybreak Red Team, Defense Factory Security Tools</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "0b5efb819342c6c9fef58652d9a019c1a82fd57c",
-      "title": "Nightmare Eclipse Drops Windows Zero-Day Exploit \u2018SignDrop\u2019",
-      "url": "https://www.securityweek.com/nightmare-eclipse-drops-windows-zero-day-exploit-signdrop/",
-      "published": "2026-11-13T08:50:36+00:00",
-      "summary": "<p>It abuses CLFS and Windows Defender to trigger arbitrary file creation in the context of the antimalware process.</p>\n<p>The post <a href=\"https://www.securityweek.com/nightmare-eclipse-drops-windows-zero-day-exploit-signdrop/\">Nightmare Eclipse Drops Windows Zero-Day Exploit &#8216;SignDrop&#8217;</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "d9f7469060c3fa0da50a4d616d9a1d4f5c7f0341",
-      "title": "PHP2Shell Exploited in Destructive Check Point Gateway Attacks",
-      "url": "https://www.securityweek.com/php2shell-exploited-in-destructive-check-point-gateway-attacks/",
-      "published": "2026-11-13T07:39:04+00:00",
-      "summary": "<p>PHP2Shell enabled initial compromise, while CVE-2026-123039 allowed attackers to elevate privileges to root.</p>\n<p>The post <a href=\"https://www.securityweek.com/php2shell-exploited-in-destructive-check-point-gateway-attacks/\">PHP2Shell Exploited in Destructive Check Point Gateway Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
