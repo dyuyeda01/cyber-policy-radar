@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T19:39:21.092135+00:00",
+  "generated_at": "2026-11-19T04:40:25.218159+00:00",
   "items": [
     {
       "id": "d4ae36431dd3f0bf6ed4a5d665593eb1e0989745",
@@ -662,6 +662,39 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhR4KdRS0v77uQIdhC0i5aopa8XIAZIRnTzVCVqto7dEdfUH2QyWgrAy1EKu-hARXS4pxNGQQEFroRHOtwSq_9Q8b92tmgw_97JMJoBfC72sl8pOcUYM9nU6YCJht4yD7ALWfERwhUwLsN8wo9t8YnKyIWzHhEAux5ox5WV4wvxe6l1cUmf58P1md2Ekziy/s1600/nable.jpg"
     },
     {
+      "id": "84415312a0a78762e9cb6c8117b1ef800987351b",
+      "title": "Russia's Cold Relic APT Turns One Cloud Breach Into Another",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/cold-relic-turns-one-cloud-breach-into-another",
+      "published": "2026-11-18T21:59:46+00:00",
+      "summary": "The Russia-linked threat group is using data stolen from one victim to target others via convincing impersonations and social engineering attacks.",
+      "source": "DarkReading",
+      "region": "North America",
+      "country": "US",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0cf0a0b934852050/6afe1492ac3412795c5370fe/russia_Skorzewiak_shutterstoc.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "id": "cebfa689962e40ae4aa673bb67a48a0bde04deea",
+      "title": "Strike Graph Launches Integration AI to Automate Continuous Compliance Evidence Using Any Existing Tool",
+      "url": "https://www.darkreading.com/cyber-risk/strike-graph-launches-integration-ai-to-automate-continuous-compliance-evidence-using-any-existing-tool",
+      "published": "2026-11-18T20:45:49+00:00",
+      "summary": "New agentic AI solution leverages APIs to collect compliance evidence from systems and applies it to over 30 frameworks with no duplicate work.",
+      "source": "DarkReading",
+      "region": "North America",
+      "country": "US",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "27e5f548c7a1914c936edd9d899ec1b83a05191d",
+      "title": "AttackIQ Research Reveals How Iranian Cyber Groups Hand Off Network Access to Enable Destructive Attacks",
+      "url": "https://www.darkreading.com/threat-intelligence/attackiq-research-reveals-iranian-cyber-groups",
+      "published": "2026-11-18T20:38:42+00:00",
+      "summary": "Analysis of 20 Iranian state-sponsored threat groups details how espionage, ransomware, and hacktivism intersect in state-backed cyber campaigns.",
+      "source": "DarkReading",
+      "region": "North America",
+      "country": "US",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?width=720&quality=80&disable=upscale"
+    },
+    {
       "id": "03bfba8ed46b931be289975d8c3ce7dd651ac6e3",
       "title": "Java4Shell Flaw Threatens Global Enterprises, Java Application Ecosystem",
       "url": "https://www.darkreading.com/vulnerabilities-threats/java4shell-flaw-threatens-global-java-application-ecosystem",
@@ -1179,37 +1212,26 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?width=720&quality=80&disable=upscale"
     },
     {
-      "id": "1b4641ca37283c440ea450678b65d0c2300beb9c",
-      "title": "Critical Rails Bug Threatens to Derail Vulnerable Servers",
-      "url": "https://www.darkreading.com/application-security/critical-rails-bug-derail-vulnerable-servers",
-      "published": "2026-11-04T21:48:18+00:00",
-      "summary": "An attacker could write arbitrary files and read sensitive files via images uploaded to the Rails Active Storage ImageMagick integration, possibly positioning a threat actor for lateral movement.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1200a12331479a63/6aeb910a69108565761c02f3/metal_guardrails-viti-GettyImages-897806150.jpg?width=720&quality=80&disable=upscale"
+      "id": "80197199f808637ca827c7d32862d3dfe99ca1e1",
+      "title": "Get ready for another critical PHP security release to drop",
+      "url": "https://www.theregister.com/patches/2026/11/18/get-ready-for-another-critical-php-security-release-to-drop/5310911",
+      "published": "2026-11-18T22:38:12+00:00",
+      "summary": "At least one dangerous RCE bug will get a fix on Thursday",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=5310922&width=800"
     },
     {
-      "id": "99f6b8af600a59ae0967bb7adf6067f37fd0c9ec",
-      "title": "Google, Partners Disrupt 1.3 Million-Device-Strong XCPE Botnet",
-      "url": "https://www.darkreading.com/endpoint-security/google-13-million-device-strong-xcpe-botnet",
-      "published": "2026-11-04T16:24:08+00:00",
-      "summary": "Android device manufacturer Videostrong allegedly ran the operation, which infected set-top boxes and IoT devices with a backdoor to create infrastructure for criminal activity.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt40a50320ed3d3a77/6aeb310312acd3feff711f6e/rogue_AO_bot_Chris_Light_Alamy.png?width=720&quality=80&disable=upscale"
-    },
-    {
-      "id": "c09f6d942d38cbd48de8c9add03fd8bcc44b8f6e",
-      "title": "Incidents Move Too Fast for Pen &amp; Paper",
-      "url": "https://www.darkreading.com/cybersecurity-operations/incidents-move-fast-pen-paper",
-      "published": "2026-11-04T14:17:00+00:00",
-      "summary": "Organizations may not be ready for completely autonomous communication processes, but there are places where automating information updates would alleviate pressure.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt550d9c2a9b884c0d/6aeb41c425092d7e7e6bf3f7/GettyImages-1436333087.jpg?width=720&quality=80&disable=upscale"
+      "id": "341390730f1c688353c782eaa3ae2e898e025cd0",
+      "title": "AI found more critical bugs in another widely used technology running 225M websites",
+      "url": "https://www.theregister.com/security/2026/11/18/ai-found-more-critical-bugs-in-another-widely-used-technology-running-225m-websites/5310887",
+      "published": "2026-11-18T21:11:04+00:00",
+      "summary": "Open source NGINX joins patchapalooza",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=228044&width=800"
     },
     {
       "id": "d5ac8eaeba7bb330c0105b72b1e30c3f979105b8",
@@ -1740,28 +1762,6 @@
       "image": "https://image.theregister.com/?imageId=258036&width=800"
     },
     {
-      "id": "0afd008ab7c4a36b53050da20d57ee33f9b74141",
-      "title": "Attackers backdoor trusted AWS integrations to steal secrets",
-      "url": "https://www.theregister.com/security/2026/11/09/attackers-backdoor-trusted-aws-integrations-to-steal-secrets/5308553",
-      "published": "2026-11-09T19:59:50+00:00",
-      "summary": "Wiz researchers uncovered the secret-stealing supply-chain attack",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=1681829&width=800"
-    },
-    {
-      "id": "ea9844bbee9e34009114f60e32ea1e36fbf11c6a",
-      "title": "Researchers pwn automakers\u2019 Android apps to remotely unlock cars, honk horns",
-      "url": "https://www.theregister.com/security/2026/11/09/researchers-pwn-automakers-android-apps-to-remotely-unlock-cars-honk-horns/5308483",
-      "published": "2026-11-09T17:31:00+00:00",
-      "summary": "Pair of researchers chain WAF bypasses and default logins to command vehicles in Australia and the US",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=5306530&width=800"
-    },
-    {
       "id": "c5599644421883df76515a3f1b22650dce0b2d79",
       "title": "Attackers Used Optimizely to A/B Test Malware on Top Websites",
       "url": "https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/",
@@ -1823,6 +1823,17 @@
       "published": "2026-10-21T15:26:07+00:00",
       "summary": "Expect to see quite a few websites serving \"404\" or \"Page Not Found\" errors today: Nearly 70 percent of websites need to update their core software to fix a pair of vulnerabilities that allow an attacker to seize full control over affected servers. Experts say there are working exploits for the flaws, and that these critical bugs are already being exploited in the wild.",
       "source": "Krebs on Security",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "5128ef42275011f768f06f9ca6592350b0079c3e",
+      "title": "Palo Alto Networks to Buy AI Startup Applied Compute for $4.5 Billion",
+      "url": "https://www.securityweek.com/palo-alto-networks-to-buy-ai-startup-applied-compute-for-4-5-billion/",
+      "published": "2026-11-19T03:25:23+00:00",
+      "summary": "<p>The all-stock deal will give the cybersecurity company a platform for fine-tuning and running open-weight AI models in public and sovereign clouds.</p>\n<p>The post <a href=\"https://www.securityweek.com/palo-alto-networks-to-buy-ai-startup-applied-compute-for-4-5-billion/\">Palo Alto Networks to Buy AI Startup Applied Compute for $4.5 Billion</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
@@ -1921,17 +1932,6 @@
       "url": "https://www.securityweek.com/oracle-patches-640-vulnerabilities-with-november-2026-cspu/",
       "published": "2026-11-18T08:47:18+00:00",
       "summary": "<p>Over 300 patches address unauthenticated, remotely exploitable flaws, while 62 fix critical-severity flaws.</p>\n<p>The post <a href=\"https://www.securityweek.com/oracle-patches-640-vulnerabilities-with-november-2026-cspu/\">Oracle Patches 950 Vulnerabilities With November 2026 CSPU</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "c5f6c87fa0f7f38639d21427bd6fe085128049f7",
-      "title": "Java4Shell Vulnerability Puts Enterprise Applications at Risk of Takeover",
-      "url": "https://www.securityweek.com/java4shell-vulnerability-puts-many-enterprise-applications-at-risk-of-takeover/",
-      "published": "2026-11-18T07:43:34+00:00",
-      "summary": "<p>Calif demonstrated remote code execution in Jira, Jenkins and Keycloak, while VulnCheck says real-world RCE requires per-target work</p>\n<p>The post <a href=\"https://www.securityweek.com/java4shell-vulnerability-puts-many-enterprise-applications-at-risk-of-takeover/\">Java4Shell Vulnerability Puts Enterprise Applications at Risk of Takeover</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
