@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T03:39:29.366852+00:00",
+  "generated_at": "2026-11-22T18:43:57.491019+00:00",
   "items": [
     {
       "id": "b8c678e393d4c36b6d4bc47fef2d623e2b609fc4",
@@ -110,6 +110,28 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "78074d39dfa2deb16e4f936841f83e7b6d22b76a",
+      "title": "OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms",
+      "url": "https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html",
+      "published": "2026-11-22T05:06:55+00:00",
+      "summary": "Attackers stole data from inside three AI inference providers for months, and none of the three knew until researchers told them, the industrial cybersecurity company Dragos said this week.\n\nSome of the stolen requests were flagged as Zero Data Retention, the setting that is supposed to mean a prompt is never stored.\n\nOpenRouter, a gateway that routes customers' AI requests to a pool of",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEGP3P_elvK4C-QnSx5onZ67viDXCIgPCUYqtTF_RDNcLJfyQ4QMbegUmn8AJy5nEmnXfN4ACr6hHztG_DdqXlj54S21toacPQaZgRx2rgqZltN3lvREpZR2xlvgXF_iZ7zW0XT0b91mMiRDVaEB6TUvMFlWwaSa3_C7gwpxdKcNhLtIq15KqwaZrR3VI/s1600/openrouter.png"
+    },
+    {
+      "id": "0be8ff22df4a77bfdff9aa0c2fc94aa12902a850",
+      "title": "Researchers Demonstrate Ghostscript Sandbox-Escape RCE via Crafted File Uploads in Popular Apps",
+      "url": "https://thehackernews.com/2026/11/researchers-demonstrate-ghostscript.html",
+      "published": "2026-11-22T05:03:41+00:00",
+      "summary": "A now-patched flaw in Ghostscript allows a crafted file to escape the program's security sandbox and run commands on the server that processes it.\n\nGhostscript is the interpreter that many Linux servers use to convert uploaded PDFs, PostScript files, and images into other formats, often without the application calling it directly.\n\nSecurity firm pwn.ai showed this week that ordinary upload,",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1BiCJUIrSJXNfKPZEkM46ynK6Rs7gba2xMaTUdoJ7yOK6Y8kcKMqJ_6PhbUIog_U1E8gRCpbj2HrkQ9UEpbPi1HOvkxdxCE5Afa5LbkNhUPvgU7Sa60IVHAWqSvgJaX1p6frMAN335QncL5UTZ3a4v1-agyb8ZXIlMGZTOtzsC0Gll2qRI0NJNMHTsf8/s1600/ghostscript.jpg"
     },
     {
       "id": "0ad755f2681c37300b1d468669917e8ab4a81c43",
@@ -638,28 +660,6 @@
       "region": "North America",
       "country": "US",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpEBmKLWFpEn8sSoJLtj1ZR7FPMd8GxxKN2v4IzyBkydma_g4gXzaWEEkK5CTPwidrBPw6QPdoByiEC14ufVP2pvezWKtH_dmqHttARDKzDOopkw0vzUdTYZubCh9Qy76nlmVSbhtTSvDOuT1c70E4TVPw8T4hUhMdR-saHjQPW1S9IZNmg2_RfsMsmJLb/s1600/google.jpg"
-    },
-    {
-      "id": "f9828b77234b7e3ad42bbfba450061dfa41134f3",
-      "title": "\u26a1 Weekly Recap: N-able 0-Days, Windows 0-Days, Chrome 0-Days, Fridge 0-Days, and More Bad Days",
-      "url": "https://thehackernews.com/2026/11/weekly-recap-n-able-0-days-windows-0.html",
-      "published": "2026-11-16T13:27:20+00:00",
-      "summary": "A default password opened doors it never should have. A trusted update delivered malware. Even a security feature became a way to break in. Different stories, same problem: the things meant to protect us aren't always doing their job.\n\nMeanwhile, AI is making bug hunting faster, old flaws are still paying off, and attackers keep finding easy ways in. Some attacks take real skill. Others barely",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMhM3PBYlJasSU7OztYuQsJDnDRFYwqV1-X9Nt1mTlAhFe0YQXSr0XrdCfo47u2DGAE8qSNw32LuPlMxoeTOBjakeXiHpHjFSXw7rsy8FdCldY2E6MuX9uKGM2McoGsaXUGDY2MYBsRAGXUDMGqzkT4wWlEezGDQho_f7d6MYNG2HAeW9FKeldRJrh0kj3/s1600/recaps.jpg"
-    },
-    {
-      "id": "119c79e2a81706346f0c5edb7e024ea45e1f4c24",
-      "title": "Six Unpatched Danfoss Refrigeration Controller Flaws Could Allow Remote Takeover Without Login",
-      "url": "https://thehackernews.com/2026/11/six-unpatched-danfoss-refrigeration.html",
-      "published": "2026-11-16T12:34:21+00:00",
-      "summary": "Six flaws in Danfoss AK-SM800A refrigeration controllers could let a remote attacker take over a controller without logging in, Dutch security consultancy Midnight Blue said earlier this week.\n\nNo patch is available, and the researchers say the newest firmware, version 5.4.0, does not fix the flaws.\n\nGovernment cybersecurity agencies in Belgium, Ireland and Germany told operators this week to",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_1GngZ38pRRizZTrhUgdWx49U1Dk8N_Y1Wkfll2kXIjAeYMmX2R69d6OBvA9k-zb6rnYbNOZyouN9yj59QIlT8XxiTzmmhLTmwmEdU2bqiGc_XoSMlvKKN1qZtH3o73YN1miGEhR4vkDniji2WkWOHjSPPIn69ysWKPkFzr504FsViG2NQYxPDkD7sgw/s1600/flaws.jpg"
     },
     {
       "id": "a9aa37ceddf16814c33589d65029bbf5bd1bb0b3",
