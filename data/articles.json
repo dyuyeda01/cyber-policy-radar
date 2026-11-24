@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T22:57:24.688945+00:00",
+  "generated_at": "2026-11-24T07:13:11.039670+00:00",
   "items": [
     {
       "id": "c2b5194d2500730c77895bed90e31e3e9c45c15d",
@@ -110,6 +110,28 @@
       "region": "North America",
       "country": "US",
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "a0a25e5ec0683ad7b02966894e524b7a8ea7c5f9",
+      "title": "OpenAI and Cisco Unveil AI-Assisted Linux Security Tool to Block Exploits Before Patching",
+      "url": "https://thehackernews.com/2026/11/openai-and-cisco-unveil-ai-assisted.html",
+      "published": "2026-11-24T06:02:57+00:00",
+      "summary": "OpenAI and Cisco have teamed up to launch Shirudo (meaning \"shield\" in Japanese), an open-source Linux runtime that allows artificial intelligence (AI) agents to defend systems without downtime.\n\n\"It lets agents write dynamic eBPF controls to shield systems from exploits, giving defenders more time to test and roll out patches,\" OpenAI said in a post on X.\n\nThe AI upstart called the initiative a",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKBknwzOcmsT5P3Gnyn8-WGRNbttWLAtmWlHkVuS900lrH1Q7Wj_kBCJiASbBvhNUKWEsO8Xt5VKKokGA-M17y8Pj4EtH6564yafSWGebOVgMuTwxUUB5fV4oProNTbg8MeEhcaiy95WbMi6og3q0uSM4SxLCyzVwV3FbCfiSXrVoJtQUrYpJfyeW1AUFm/s1600/openai-linux.jpg"
+    },
+    {
+      "id": "14a00d8221c42a6b143adf4ee87301a153228baf",
+      "title": "Hackers Exploit N-able MailAssure Flaw While AI Agents Exploit MONAI Label Zero-Day",
+      "url": "https://thehackernews.com/2026/11/hackers-exploit-n-able-mailassure-flaw.html",
+      "published": "2026-11-24T06:02:45+00:00",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added two flaws impacting N-able MailAssure and MONAI Label to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\n\nThe critical vulnerabilities are listed below -\n\n\n  CVE-2026-134624 (CVSS score: 9.3) - A server-side request forgery (SSRF) vulnerability in N-able MailAssure's LDAP",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrPCPwSotVSX8IYSgpSrVceRAIYqba8YSZSlNwD5RjetEhPG6vLRhk_NKkatjg1h-fulZJDm4CucsLvQrEtCO6v0NtuJGo3nZD3mXSHyKpgPrUZMpq7YNpheStYC_AqyMWRfWIFiK9bcHJNAw6pwK9JqirhO8JESKdmsI5Pl8UgtsVsRivmMmMenQ01ClW/s1600/cisa-kev.jpg"
     },
     {
       "id": "1ab128c432ff969e972e5e32007c8e091a5015ea",
@@ -638,28 +660,6 @@
       "region": "North America",
       "country": "US",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpVlnQrxQ-QDawosxNpQdcPtITzUQKuYeqUtOk0gctwRhi-8P9Qi_9L72cSwkHRdGNS94HaIDHEkqeb0NTPw3mIZyFstN3ZM1FlUoMweKPNz4iTkAkxlxFSNdE92DAFlfLMFe0gTXWE78eOHROSbISVMgdmFOeVhm0SS2-1wXrNxPGknTVMGroQ0pRqYg/s1600/telegram-rce.jpg"
-    },
-    {
-      "id": "7a7b2eaa4aa991d0bc54fd4a7945aa62e62c0aee",
-      "title": "Oracle to Patch 11 Java Flaws Today as Critical OpenJDK RCE (CVE-2026-114938) Report Emerges",
-      "url": "https://thehackernews.com/2026/11/oracle-to-patch-11-java-flaws-today-as.html",
-      "published": "2026-11-17T15:17:36+00:00",
-      "summary": "Oracle is preparing to release security patches for 11 vulnerabilities in Java SE on Tuesday, November 17, 2026, all of which may be exploited remotely without authentication, as separate reports warn of a potentially critical remote code execution (RCE) flaw affecting OpenJDK.\n\nThe 11 vulnerabilities carry a maximum CVSS 3.1 severity score of 8.1, according to Oracle's advance security notice.",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiw1l9jYXUC-XLNjqqVjPvFicpQvkj-fwml16Gl43nsTc5TrBGGzijFoCzpxHpfninWaxrDxoCW4J6FKkgO1rPsnVFgFAcMbm9hl9YxeVO6fM4sBrs_tvUOXG8MnKPqDXRal3qNJ2VY7RzqAlj5vJzYI6xVFOxVGV7TyDliY-AIBqKm2bst1d6rCNl2qkhv/s1600/java4shell.jpg"
-    },
-    {
-      "id": "033b7c10af0dad75e4dce0ad1c02abba8100194b",
-      "title": "Trigram Campaign Impersonates About 50 AI and Blockchain Brands to Target Devs with Infostealers",
-      "url": "https://thehackernews.com/2026/11/trigram-campaign-impersonates-about-50.html",
-      "published": "2026-11-17T15:17:28+00:00",
-      "summary": "Artificial intelligence (AI), blockchain, and logistics sectors across Europe and the U.S. have emerged as the target of a large-scale, industrialized campaign dubbed Trigram.\n\n\"Trigram is a large-scale campaign that impersonates about 50 brands in the blockchain and AI sectors, to trick developers into executing an infostealer themselves,\" Stormshield said in a deep-dive technical report",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXvywoP0qreCtUhDgAD1y24HevVHwAH9bGo904BuaQ7-amvdkk6Oi8gz8WjF-Hwiu3SinN266QM0KwUX6lDnayGOtMaSEff_b5vybBsdwvDhiai2uGsAlYfMgCdquPmKqaqM6eY54pG9HsMR7X5Sf7M4nkbIaHmWJMBG1uL3ggpJMMvfQR6FbMagqug2QG/s1600/target.jpg"
     },
     {
       "id": "6a57f5edfd55bc34c55112fcdeb853719df6bd37",
@@ -1212,6 +1212,28 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt048c697c8a84cb6c/6af31954c9740413639c4243/Gorodenkoff-developer-coding-shutterstock.png?width=720&quality=80&disable=upscale"
     },
     {
+      "id": "e3ea5f473094b75fb9d1531d2b5bde03f868f385",
+      "title": "Orgs that leak data \u2018prioritize corporate interests over customers\u2019 says Have I Been Pwned\u2019s Troy Hunt",
+      "url": "https://www.theregister.com/security/2026/11/24/orgs-that-leak-data-prioritize-corporate-interests-over-customers-says-have-i-been-pwneds-troy-hunt/5311802",
+      "published": "2026-11-24T05:13:51+00:00",
+      "summary": "Leakers move through denial, bargaining, delay, legal threats, then claiming Hunt is the real villain",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=259203&width=800"
+    },
+    {
+      "id": "a3dc1c3f9c0a28fb4aacdd870082ada71b84837a",
+      "title": "Cisco and OpenAI pitch eBPF kernel plugins as the way to tame the patchpocalypse",
+      "url": "https://www.theregister.com/security/2026/11/24/cisco-and-openai-pitch-ebpf-kernel-plugins-as-the-way-to-tame-the-patchpocalypse/5311795",
+      "published": "2026-11-24T01:46:56+00:00",
+      "summary": "\u2018Shirudo\u2019 project promises to whip up compensating controls in a hurry",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=1682068&width=800"
+    },
+    {
       "id": "ef949789e56feb86e70951f178fd85119b2aaf78",
       "title": "Inception - possibly a ShinyHunters reboot - claims seven victims in a week",
       "url": "https://www.theregister.com/security/2026/11/23/inception-possibly-a-shinyhunters-reboot-claims-seven-victims-in-a-week/5311768",
@@ -1740,28 +1762,6 @@
       "image": "https://image.theregister.com/?imageId=5309813&width=800"
     },
     {
-      "id": "7666465cea4bbfe3477018bd5e144f1e804eb91a",
-      "title": "Google: AI agent turned a security patch into a working exploit with no human help",
-      "url": "https://www.theregister.com/research/2026/11/16/google-ai-agent-turned-a-security-patch-into-a-working-exploit-with-no-human-help/5309926",
-      "published": "2026-11-16T14:00:00+00:00",
-      "summary": "Look ma, no human in the loop!",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=5298454&width=800"
-    },
-    {
-      "id": "43803d3c2ee64417485c1abc4223e76d0b05b8fb",
-      "title": "Big Tech takes a beating as online safety experts accuse companies of doing bare minimum",
-      "url": "https://www.theregister.com/security/2026/11/14/big-tech-takes-a-beating-as-online-safety-experts-accuse-companies-of-doing-bare-minimum/5309302",
-      "published": "2026-11-14T08:18:00+00:00",
-      "summary": "Accessing banned content is as easy as whipping out a thesaurus, Parliament's Communications and Digital Committee hears",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=5254826&width=800"
-    },
-    {
       "id": "93138fbb4db250e2f971440df834d5bcb0c62785",
       "title": "CTO of \u2018RansomwareHelp\u2019 Indicted for Wire Fraud",
       "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
@@ -1840,10 +1840,10 @@
     },
     {
       "id": "ed11d95a721bf67df9d50a43d861e1b348e2ca04",
-      "title": "N-able Patches Critical Flaw Disclosed After Mail Assure Cyberattack",
+      "title": "N-able Patches Critical Flaw Discovered After Mail Assure Cyberattack",
       "url": "https://www.securityweek.com/n-able-patches-critical-flaw-disclosed-after-mail-assure-cyberattack/",
       "published": "2026-11-23T15:06:49+00:00",
-      "summary": "<p>The company has restored access to the affected services and continues to monitor the affected environments.</p>\n<p>The post <a href=\"https://www.securityweek.com/n-able-patches-critical-flaw-disclosed-after-mail-assure-cyberattack/\">N-able Patches Critical Flaw Disclosed After Mail Assure Cyberattack\u00a0</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "summary": "<p>The company has restored access to the affected services and continues to monitor the affected environments.</p>\n<p>The post <a href=\"https://www.securityweek.com/n-able-patches-critical-flaw-disclosed-after-mail-assure-cyberattack/\">N-able Patches Critical Flaw Discovered After Mail Assure Cyberattack\u00a0</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
