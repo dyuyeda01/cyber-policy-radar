@@ -1,6 +1,28 @@
 {
-  "generated_at": "2026-11-25T05:46:32.398287+00:00",
+  "generated_at": "2026-11-25T20:44:18.169403+00:00",
   "items": [
+    {
+      "id": "718495461e01151ab14823d64c2fa83922fd567b",
+      "title": "Microsoft remediates Azure flaw following attacks against Norwegian energy giants",
+      "url": "https://www.cybersecuritydive.com/news/microsoft-remediates-azure-flaw-following-attacks-against-norwegian-energy/875755/",
+      "published": "2026-11-25T15:36:37+00:00",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/X3kemzUTphFEaN5oM-fc_Q8g6HL5M-JcRjS36u3gxgk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTg5NjUyODI3LmpwZw==.webp\" /></div></figure><p>Microsoft released a security update, but still recommends customers rotate credentials and secrets.</p>",
+      "source": "Cybersecurity Dive",
+      "region": "North America",
+      "country": "US",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "4b26c81a451676acb0d2ae5840973d4558aa4cf2",
+      "title": "Infrastructure security alliance tells CEOs to prioritize assets, test response and recovery",
+      "url": "https://www.cybersecuritydive.com/news/alliance-critical-infrastructure-guidance-cybersecurity-ai/875741/",
+      "published": "2026-11-25T14:56:47+00:00",
+      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/JAEJi2C5-NWzMkVJ_qYChxWwp2OZTNGvXdaArkd1GlU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDAyMTYxNDA5LmpwZw==.webp\" /></div></figure><p>Recent technology outages offer a preview of a chaotic future. Executives can act now to minimize risks, a trade group for infrastructure operators said.</p>",
+      "source": "Cybersecurity Dive",
+      "region": "North America",
+      "country": "US",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
     {
       "id": "1b85848040321154b6952e363e07c7da70a52228",
       "title": "OpenAI, Cisco debut tool that lets AI agents safely block vulnerability exploitation",
@@ -90,26 +112,103 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
-      "id": "c1ce3a85d2b09f6d20fecd258fd5912d2d5b0d6d",
-      "title": "Stop asking whether AI can run an entire attack",
-      "url": "https://www.cybersecuritydive.com/spons/stop-asking-whether-ai-can-run-an-entire-attack/875150/",
-      "published": "2026-11-23T10:00:00+00:00",
-      "summary": "<p>The question for security leaders is where AI gives adversaries enough leverage to change the cost, speed, or scale of an intrusion.</p>",
-      "source": "Cybersecurity Dive",
+      "id": "92db407f26f0f4fe1a03a98d7dda6310ebc38d98",
+      "title": "Hackers Exploit Two GeoServer Flaws as Researchers Warn of Unauthenticated RCE Chains",
+      "url": "https://thehackernews.com/2026/11/hackers-exploit-two-geoserver-flaws-as.html",
+      "published": "2026-11-25T12:48:54+00:00",
+      "summary": "Threat actors are actively exploiting two newly patched security flaws in GeoServer, according to watchTowr.\n\nThe vulnerabilities in question are CVE-2026-120705 and CVE-2026-129243, details of which are below -\n\n\n  CVE-2026-120705 (CVSS score: 8.6) - An arbitrary file read vulnerability that could enable an attacker to access local text files readable by the GeoServer process or fetch",
+      "source": "The Hacker News",
       "region": "North America",
       "country": "US",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhi8jBS9UW1bUouUo2cLun5A5rtqPOFJoVQctV4ZsoX9uuMottAxM0HLjLZrvTVGU1GtrewszjOwVMBkvHgyFIBsOndc049nwMidNiVnnoKCOePOhy-XDsjiVjxFvubbxn-Z6ca8VJAxxgLmyQ9KGYBRMWV5GP2et02dmXzcG3jKJw1p_njPdaPuJAaxAz1/s1600/geoserver.png"
     },
     {
-      "id": "b8c678e393d4c36b6d4bc47fef2d623e2b609fc4",
-      "title": "FCC to propose regulations for Cyber Trust Mark IoT labeling program",
-      "url": "https://www.cybersecuritydive.com/news/fcc-cyber-trust-mark-internet-of-things-regulation-proposal/875328/",
-      "published": "2026-11-20T19:00:00+00:00",
-      "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/T5UzibMky91AdxH9XNXvMwSsbwowxom1KS7EiBDPc10/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjYyMzc4NTIyLmpwZw==.webp\" /></div></figure><p>The commission hopes the program will encourage device manufacturers to prioritize cybersecurity.</p>",
-      "source": "Cybersecurity Dive",
+      "id": "851806c24f2db9aecccdcbba5a09b5d4b717bf2e",
+      "title": "U.S. Treasury's Financial Crimes Agency Takes Some Systems Offline After Cyber Intrusion",
+      "url": "https://thehackernews.com/2026/11/us-treasurys-fincen-takes-some-systems.html",
+      "published": "2026-11-25T12:30:08+00:00",
+      "summary": "The U.S. Treasury Department's Financial Crimes Enforcement Network (FinCEN) has been hit by a cybersecurity incident that resulted in \"unauthorized access to a limited subset of its systems,\" the bureau said on Tuesday. As a precaution, it has taken some systems offline.\n\nThe bureau collects suspicious activity reports and other Bank Secrecy Act (BSA) filings from banks and other financial",
+      "source": "The Hacker News",
       "region": "North America",
       "country": "US",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJn89Gr-RFxS6UFEzrbUZ5Ys11fK1OwvmMYUPl29eJudnlmmp7Q34p8O0DqV8SvGu4whZke8tiysvZNQWeE4Tm3zRhJSpojYAagBXGUEVM5w6lAw2Z5C-lfRaC2IwOYrnwQSWxwso31woM4CSoluNEjA3N0gFe0RQpsV0r3MCobiKFArLMa1or-QTIBcQ/s1600/fincern.jpg"
+    },
+    {
+      "id": "6a8ceb0f7d1b2b646cb423a51ec5471a97682734",
+      "title": "Credential Remediation Is Slow When You Don\u2019t Know What Will Break",
+      "url": "https://thehackernews.com/2026/11/credential-remediation-is-slow-when-you.html",
+      "published": "2026-11-25T11:51:48+00:00",
+      "summary": "TL;DR\n\n\n  More than 64% still valid after four years: GitGuardian\u2019s State of Secrets Sprawl 2026 found that most valid secrets discovered in 2022 still worked in January 2026, because teams stall on what a revoke will break.\n  Validity-only triage misses 46% of critical secrets: Prioritize by impact instead, weighing what a credential can access and whether it leaked publicly, and update the",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEil06YVYkZZwt0a8nA97RyMZvYZEQIoZ7r9_YHMtjx5eWc7RNAB4ol6OWb7NIsJOpC0v4w11xynwGgR1SsTnArvWAF7yJseVMbQfoawpTPEKYDdmH6O5UrbIZgJ2Fz9MGBFC6kF95oLeubdwlrdVKaVTPz4kjrOCH0X1neixvpNSYHhotL5WuzdYM12tUo/s1600/GitGuardian.gif"
+    },
+    {
+      "id": "d52cc031d711c026493b7f5b6ca748c88c16b4af",
+      "title": "Drupal Fail2Install Exploit Details Emerge as Critical RCE Flaw Faces Active Exploitation",
+      "url": "https://thehackernews.com/2026/11/drupal-fail2install-exploit-details.html",
+      "published": "2026-11-25T11:23:26+00:00",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a critical flaw impacting Drupal to its Known Exploited Vulnerabilities (KEV) catalog, requiring federal agencies to apply the fixes by November 27, 2026.\n\nThe vulnerability, tracked as CVE-2026-132165 aka Fail2Install (CVSS score: 9.8), is a case of remote code execution (RCE) impacting Drupal core.\n\n\"Drupal Core",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbChdPRqvJHt9cIG4Z1W9o12tl4thtxIDNNcntDjmIytSIC1PWvOytT0JjY0OJtnba6UVJcEmqNxgOMuWxX2pvNJzjQ70-CIeruqZEDdgaDG66Lv2T6lLMv8cEhrXRie1gcaLz6OoNw6f2822s2yz8jl958kok6WpHmZ7p_n3TRWTdEWSpr1le5T28kFQO/s1600/drupal.gif"
+    },
+    {
+      "id": "3885183f32787fc75de247a540aae987362048bf",
+      "title": "Ex-OpenAI Employee Accused of Bugging Company Offices Granted $1 Million Bail",
+      "url": "https://thehackernews.com/2026/11/ex-openai-employee-accused-of-bugging.html",
+      "published": "2026-11-25T10:43:07+00:00",
+      "summary": "A former OpenAI employee accused of concealing a covert recording device at the company's San Francisco offices will be allowed to be released from jail on a $1 million bond, a San Francisco federal court judge ruled Tuesday.\n\nAbdulrahman Alfozan, a 35-year-old Saudi national, was arrested on October 9, 2026, for allegedly bugging the artificial intelligence (AI) company's offices with the aim",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDaKaEIQ9XIhyphenhyphen7wjO1dtGE_h6MwLEEd4or1U6Ud39Ce7BbZfU817kR-mLr4bT5n_dMzAujT3VzKACvto1wsiHVfLjOLyGFnYPsf4PH_DHuog0NWylpF1RXoFIYhb84sb8T7RHCx4qnBCCJnNDKTkjoMQ-KPDaKgHaLW7fII7cOhPzc9XKC0OGGOjjE-ygf/s1600/openai.jpg"
+    },
+    {
+      "id": "916629091cfddbe48c7acf6f31c87aab6c816739",
+      "title": "Hackers Exploited CVSS 10.0 Hex.pm RCE Flaw to Compromise 6 Package Registry Servers",
+      "url": "https://thehackernews.com/2026/11/hackers-exploited-cvss-100-hexpm-rce.html",
+      "published": "2026-11-25T09:06:59+00:00",
+      "summary": "An attacker ran operating system commands on Monday on six production servers of Hex.pm, the package registry that Elixir and Erlang developers fetch their dependencies from.\n\nThe flaw used in the attack had been in the registry's code since February 2016, and the team that maintains the service had every server on a patched build within about 15 minutes of the first malicious request.\n\nChecks",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBxy4VIOekOumZfm8RElWJl6ZTKoIJ1QLc3U7ynLQ8p9PCqm_kYX1T-akwbZwbthTYcNwfVW-aWbRB4wIkvbUeM_gvQmnw8EH-hpY0542jCwFUAaI2mNEXGE3dct9K4JKFURV1smdERZlx4tV1zCy3AbS_NwF4o926_KSW-OKMPfDXT2gWbbZ4lKjFm6Y/s1600/hex-hack.jpg"
+    },
+    {
+      "id": "be8229fa86883728f7873a0f1b48b774a13c45c4",
+      "title": "Hackers Compromise 24 Check Point Management Servers in Suspected AI-Driven Attack Campaign",
+      "url": "https://thehackernews.com/2026/11/hackers-compromise-24-check-point.html",
+      "published": "2026-11-25T06:50:19+00:00",
+      "summary": "An unknown threat actor has been using artificial intelligence (AI)-driven offensive tooling in a campaign targeting Check Point Security Management servers, impacting 22 distinct organizations across the world.\n\nThe intrusion activity, tracked by GreyNoise under the moniker GreyNoise Threat 13 (GT13), is assessed to have targeted organizations in the financial services, energy, government,",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzxhgIKTt8K5ep8a4qHW9dDpkSYcBC5D1CWgkvvh9Ee5DRlNRSg-2UcZZVNoXrHXVTeIcdzj47FFcSz6gAssLknSDf6f0JDyQCoH51D4GYLSju_wh4smA6-2yE3Z7I30SPeuY8LOKA__Y9xPiU66t1aPsHTzuRnX0QUq2iadcKXFfv7ZhAhcXti_BDnrmu/s1600/code.jpg"
+    },
+    {
+      "id": "7a5ea8907df3325df2b736973863d8715fe200c3",
+      "title": "Com-Affiliated Hackers Hijack Cloud Accounts via Vishing for Data Theft and Extortion",
+      "url": "https://thehackernews.com/2026/11/com-affiliated-hackers-hijack-cloud.html",
+      "published": "2026-11-25T06:37:06+00:00",
+      "summary": "Palo Alto Networks Unit 42 has disclosed that it's tracking and has responded to \"numerous waves of vishing attacks\" orchestrated by Com-affiliated threat actors since August 2026 that have led to data theft and extortion attempts.\n\nThe attacks have targeted financial services, healthcare, and legal services located in the U.S., the U.K., and Australia. Other targets include construction,",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoCQn2zL8-RpfdhDeb1Zmyn46vLk1s9lerpXtGlcMkN5IGF9nlhEejtwoOXwhznjS7JVrix_FeG_G6yJ6Jb8mI31CU4Mi2dndKvLp-4nG4wWsqMaBpI60HFIk5d8_5uIxj6XEjSt4sixJYkJN8Xeqs4OrgSzOPK48esNtXbQ_FgtVe67B_WZkfpuUSEiD7/s1600/vishing.jpg"
+    },
+    {
+      "id": "d52512d72b3d3b7a077f5d8c7317f602c5f4e0aa",
+      "title": "WordPress Blocks Six Backdoored WP Connect Plugins Before Malicious Releases Go Live",
+      "url": "https://thehackernews.com/2026/11/wordpress-blocks-six-backdoored-wp.html",
+      "published": "2026-11-25T06:21:12+00:00",
+      "summary": "WordPress has removed six WordPress plugins developed by WP Connect after they were backdoored on November 22, 2026, to enable arbitrary code execution on sites that have them installed, following a suspected compromise of the developer's account.\n\nThe WordPress plugins team has proactively detected and blocked the threat before it could be officially released. Visiting each plugin listing now",
+      "source": "The Hacker News",
+      "region": "North America",
+      "country": "US",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNbawIx8zYCfd7sCTbVfIzPFBtykkY65lf8EOswU62pIdZKTrx9ReB3mGnqYqujmW5eGzN_w8pEijAZMTpmOZ3fGB5zFyFaPo4ZhRQ8V0BkAmDCH3WoVqJ3kAfjDcw3_wRjhwphfyJxjF3_rDYiudb-cxt0pY3t8s-IRjNP1aEYHqtO5L1eZMkgBX6y2xD/s1600/wp.jpg"
     },
     {
       "id": "6b48789d1147d2db041ea3e7c8c60470438f4520",
@@ -563,103 +662,26 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjPpZ9yL9D7JBQvp4_ZmnP8S_U6HKdq3rSM_FVv_uDgT9Iz8D56tO6GNDNE4rs29pejUiKQlxi1HpZ38KYbaSB01PmgPItVL8N-Y9G9vcuJlnadltKvmGhvUKYntAEIVCXFixjdBMyu6S9-zEUlIgGf7E5euvodJbn9LIYWTkRpxwH0g7nz2xp2v5PGMdq/s1600/n-able-hacked.jpg"
     },
     {
-      "id": "ef3cecb6fd503aee213dc1f9e2424694ed1c3727",
-      "title": "Ruby Ships Fixes for 7 Flaws, Including Critical Ruby2Shell, Said to Hit Default Rails Apps Pre-Auth",
-      "url": "https://thehackernews.com/2026/11/ruby-releases-fixes-for-7-regex-and.html",
-      "published": "2026-11-19T08:42:11+00:00",
-      "summary": "Ruby contains seven memory-safety flaws in its regular expression engine and its string case-conversion code. For five of them, its maintainers say, proof-of-concept exploits, or PoCs, have shown that crafted input can run code on the machine.\n\n\"We are aware of PoCs that prove some of them can be used to trigger remote code execution,\" the maintainers said.\n\nThe project released fixed versions",
-      "source": "The Hacker News",
+      "id": "75d3be5138a980218ac0be841fd1b1c41bc2af8e",
+      "title": "Attackers Target .NET Developers With Poisoned Job Assessments",
+      "url": "https://www.darkreading.com/threat-intelligence/attackers-net-developers-poisoned-job-assessments",
+      "published": "2026-11-25T15:48:04+00:00",
+      "summary": "Researchers discovered 13 malicious NuGet packages as part of a fake recruitment campaign that spreads malware and gives attackers access to developers' machines.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7rmcgZ7yffFsn_7SX4iQcfMhw1dgsxPFXXh6TUunbQ9VaxZh8O5-AFT2V3q0PE7Wx0rW9nLKuB73eluixYuM9N38Dvq_Gjs1nNOXVk3e71jjfhHoP7W97eeuc5AivI3CQNxIrwSaPR9IGV0f2NZ7900Ihtkdgiw1ZivTvgVrXWH2CrX2X5MZGjos6-bs/s1600/ruby.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt62eb1a39d76dff3b/6b06d44d51725d29015e8423/Gorodenkoff-developer-coding-shutterstock.png?width=720&quality=80&disable=upscale"
     },
     {
-      "id": "3d3c58459056e381a2dc130ecd7fad595f4e6388",
-      "title": "Researcher Demonstrates Database RCE Exploits Affecting PostgreSQL, MySQL and Oracle",
-      "url": "https://thehackernews.com/2026/11/researcher-demonstrates-database-rce.html",
-      "published": "2026-11-19T08:14:00+00:00",
-      "summary": "Low-privilege database accounts that cannot read a single application table can still be used to run code on the database server itself, a researcher has shown, by reaching memory-corruption bugs in the engine code behind ordinary SQL.\n\nThe exploits, published yesterday, are the researcher's proofs of concept against PostgreSQL, MySQL and ClickHouse, plus a separate Oracle chain that needs no",
-      "source": "The Hacker News",
+      "id": "5265d3f089dfd72e2ff0f11180179b7e2a4ce12f",
+      "title": "It's a Bot World. We're Just Living in It",
+      "url": "https://www.darkreading.com/cyber-risk/bot-world-just-living",
+      "published": "2026-11-25T15:20:27+00:00",
+      "summary": "Bot detection has become a losing game. Security teams need to limit privileged access for humans and their machine counterparts equally.",
+      "source": "DarkReading",
       "region": "North America",
       "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDE1pOkFxdtUcDqLptfhjaBnnEyzz2JfxUJICSOrW3vpcNlygN1XleKCdkv9CA3Zp901yQ884tOkPX9TmSYx5tpevenJw1CmW4oktkn2creXnB5-dvbiJB3crcILx4Kb8b6eVhiKjh-RRZTGnvWskqROJOjF3yaWFVK17fmh-tdT7WMas7MbdK-JsCBmw/s1600/database-rce.jpg"
-    },
-    {
-      "id": "7b2c191d75301f2a6433dee19dd598d8949b7bbd",
-      "title": "CISA Warns of 4 Exploited Flaws Linked to Ransomware, Cryptomining, and LLMjacking Attacks",
-      "url": "https://thehackernews.com/2026/11/cisa-warns-of-4-exploited-flaws-linked.html",
-      "published": "2026-11-19T08:00:00+00:00",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added four vulnerabilities impacting Synology DiskStation Manager (DSM), BerriAI LiteLLM, Apache Axis, and Vanderbilt University Research Electronic Data Capture (REDCap) to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\n\nThe vulnerabilities are listed below -",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJc2bWATWnk5-O72K0n3cYlHuhhox3nVPELPst8c1bui3mTiwBZFUjAUSem14OyqLB6CTECCs9fc-iyng9KmY3jelZ2cqrHg4FKvP2qOZui8piIbYTZy9WdZD0NqiY4fXcLud5GYzmNEXR6DRNuQpjkFzfPvW4fIcDtwaFg4SM9xW-eG09WxFuEcmuKx7U/s1600/cisa.jpg"
-    },
-    {
-      "id": "d1202d3392a4ec40cc7eacffba5a7574d07d85e8",
-      "title": "PHP Warns of Critical Security Flaws Affecting All Supported Versions, Fixes Coming November 19",
-      "url": "https://thehackernews.com/2026/11/php-warns-of-critical-security-flaws.html",
-      "published": "2026-11-19T04:33:46+00:00",
-      "summary": "The maintainers of the PHP programming language on Wednesday issued an advisory announcing an upcoming security release that addresses critical flaws.\n\nThe release is scheduled for November 19, 2026, between 2 and 2:30 p.m. UTC.\n\n\"These releases are part of PHP's regular four-week release cycle and will address security vulnerabilities affecting all supported PHP versions,\" the maintainers said.",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj86YA0ZvPrdlouN6GvSZ5P_I5HCaYLm2PBs_JA74wUDgHl8anwcqEN5_Z0kTlAggf0906enJmrtUnN_6jn9kqD8KguG8nOeh1yGS6AAPo1-JHORLQ5nZcpmS5Ss7liuqghFsq8Bb4ooabK29UcCbZlwWGM6HtyRPs4Ty5zv5d4FC5So6tVFUOaEhUylIFU/s1600/php-flaws.jpg"
-    },
-    {
-      "id": "fb8b318a049ee574dbf15c8b1ef46bfd4de76b5f",
-      "title": "10-Year-Old NGINX HTTP/2 Flaw Lets Unauthenticated Attackers Execute Code on Servers",
-      "url": "https://thehackernews.com/2026/11/10-year-old-nginx-http2-flaw-lets.html",
-      "published": "2026-11-18T18:31:17+00:00",
-      "summary": "A flaw in NGINX's HTTP/2 support can allow an attacker to run code on servers with HTTP/2 enabled, without needing to log in.\n\nThe decade-old flaw, CVE-2026-123007, dubbed \"nginx2root,\" has been present in NGINX's open-source code since version 1.9.5, released on September 22, 2015. Fixed versions 1.31.9 and 1.30.7 came out today.\n\nF5, the company behind NGINX, says attackers can run code where",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7_qqPophooIauX16fMWm3KB24tzQ3Fd7rCuseCXfMkDPPGpIgmHqWvZjn_jffDqHwNWKu8Zf57QeKb4qsRFgdgisSAn0sMj59CscimR16RLXI1kspH0w7VYQgrsM_hPcePQOFL8QUyDC2p9W7AV0UjH3sW7oOvdWPWAZW6DITDvqIHaC_696e5kHTieY/s1600/nginx-rce.jpg"
-    },
-    {
-      "id": "11aa6bef2bfb9ae2dfd5cd0bc72a6f1cd1eb9497",
-      "title": "F5 Warns 6 Critical BIG-IP Flaws Can Crash Traffic in Specific Setups, May Allow RCE",
-      "url": "https://thehackernews.com/2026/11/f5-warns-6-critical-big-ip-flaws-can.html",
-      "published": "2026-11-18T18:15:39+00:00",
-      "summary": "Six critical vulnerabilities in F5 BIG-IP allow an attacker to crash the Traffic Management Microkernel (TMM) without logging in, disrupting traffic until the TMM restarts.\n\nEach flaw needs a specific setup on a virtual server: an iRule that uses a particular command, or an APM policy that includes two particular kinds of agent.\n\nF5, which makes BIG-IP, disclosed the flaws today and says they",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizE3X3tUSPpxIYnNyM91hyphenhyphenzZOS6jjdHnCLmubn4upOYKZn3MdjUqJQGEjIBGtZ2JHK6yggH6RxSQCANhtF7-zIWJ0EfGqA7iY2KQWM7vtoiCsc-_KeFZeHeDm-TOpM_oL_EVzOvPru_cMVzx3wJL8kaLEgXuzPzxm3iYnTiyu57quhgBgMY1Nb7V_sXG4/s1600/f5.png"
-    },
-    {
-      "id": "9c40ff9a7698a5e7e93c64487ccaf684350be3f1",
-      "title": "Critical Apache Roller RCE Flaw Under Active Exploitation, No Authentication Required",
-      "url": "https://thehackernews.com/2026/11/critical-apache-roller-rce-flaw-under.html",
-      "published": "2026-11-18T17:10:45+00:00",
-      "summary": "A critical security flaw in Apache Roller, an open-source, Java-based blogging platform, has come under active exploitation in the wild, according to the Apache Software Foundation (ASF)\n\nThe vulnerability, tracked as CVE-2026-129448 (CVSS score: 9.8), is a case of unauthenticated deserialization in the XML-RPC endpoint that could lead to remote code execution.\n\n\"Deserialization of Untrusted",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbiCYJD7nei_TBSnUlQG59idq9moCbsg97fnzsiXNi4KvQaphZYA4hHIzXv08t2OsvVZokzPIdhZPzxTkXoEgzTsFby-rBvQX6CY6yPo1Iv8DPnSmPeOeh3OQXF79Q60Hq3UI7kVdhmEKGL2bUwm42JO-8C_ClLHpTpGkWpnflAQMrDDgjIvMKq09DEskr/s1600/apache.jpg"
-    },
-    {
-      "id": "55016e2da81bf79ecafbd57661e0aab4ba2eb2f0",
-      "title": "New EggStreme Malware Variant Goes Silent to Evade Security Tools in Government Attacks",
-      "url": "https://thehackernews.com/2026/11/eggstreme-hackers-rebuild-malware-with.html",
-      "published": "2026-11-18T14:11:28+00:00",
-      "summary": "The suspected Chinese advanced persistent threat (APT) group behind the sophisticated EggStreme malware has rebuilt its toolkit as it continues to target government organizations in the Philippines.\n\n\"When attackers are exposed, the cheap response is to rotate,\" Bitdefender said in a technical report shared with The Hacker News. \"A file hash changes with every recompile, a domain costs a few",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYLKVaRRp02L2STeR4kakGeA1NJokTtxw2aLU4wBLS34vltviR8gV4eUjk0QJ9jDVbiS_2hSeDQCwIR_JoCzPzUt-FSNUNpaKNtHpKiMugkRAMwOIbl4FbcL5iE7KCe1hebNbJRTxqO5xQkEFBuDI6F8FnsnYfreljrQlHHXuKBEN0suJZeuIf8heda5wY/s1600/chinese.jpg"
-    },
-    {
-      "id": "74d12e4423207d9d1100017aae33f87bd34b5d85",
-      "title": "New Attack Bypasses TPM Lockout to Crack Windows Hello and BitLocker PINs in Days, Not Years",
-      "url": "https://thehackernews.com/2026/11/flash-chip-attack-bypasses-tpm-lockout.html",
-      "published": "2026-11-18T12:28:30+00:00",
-      "summary": "On AMD-based PCs and some Intel PCs, the TPM lockout for Windows Hello and BitLocker PINs can be reset by someone who opens the PC's case, researchers at Technische Universit\u00e4t Berlin say.\n\nThat leaves short PINs open to guessing. In lab tests, the researchers found a four-digit Hello PIN on an AMD laptop and a 6-digit BitLocker PIN on an Intel laptop this way.\n\nBoth PINs were set by the",
-      "source": "The Hacker News",
-      "region": "North America",
-      "country": "US",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpsv4GxAUbzCsIV1umrxZs6VxfD1eFwAeCgRHQQG_dNbP1fLiYe48hM-Wbd_8w5IxlacAwoidLqyQgBmG7YD7qKo0_XcqW2GhggfXshuK1uXz8BOma2H0Jjs8fabCO4IxHBfRopEUFDd0xHRRv43gMeog852Usv40sfcTwnO_9coyxtIMmteJxeJI_oPA/s1600/bitlocker.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd16db4afaa70e4cc/6a91d9495d308674a5d86232/Bots-MASTER-Getty.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "id": "57a9de6dd6412718cef07e984cbdd63c6a06ff67",
@@ -671,6 +693,17 @@
       "region": "North America",
       "country": "US",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0469f94bd17817ff/6642699959fdc64aa5f9c5fa/dark-reading-confidential-logo-sq.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "id": "7c0a3009349718ceb44dadac8c8a33300127ca75",
+      "title": "Latin America Sees Cyberattacks on Ports, Pipelines &amp; Manufacturing",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/latin-america-cyberattacks-ports-pipelines-manufacturing",
+      "published": "2026-11-25T14:00:00+00:00",
+      "summary": "From the Port of Santos in Brazil to a pipeline in Argentina, cyberattacks are increasingly affecting industrial systems throughout the region.",
+      "source": "DarkReading",
+      "region": "North America",
+      "country": "US",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt436e3cfa4b9fe8b4/6b05fbef3e73ec0ee2851fe9/port-santos-brazil-ByDroneVideos-shutterstock.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "id": "6a6218931c47e3bcac727e5784dd5092b74b142f",
@@ -704,6 +737,17 @@
       "region": "North America",
       "country": "US",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf04ed1ecab1b2c42/66cc9d45781c434a1b20ebb3/airport1800_RoadPix_alamy.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "id": "53b9a53ef0e17be9dc6f9afc99ae7a3fa857860d",
+      "title": "How Southeastern University Got a Handle on Its Data",
+      "url": "https://www.darkreading.com/cybersecurity-operations/how-southeastern-university-handle-data",
+      "published": "2026-11-24T15:46:46+00:00",
+      "summary": "Data security posture management (DSPM) allowed the university to uncover sensitive information, tighten access controls, and lay the groundwork for safer AI adoption.",
+      "source": "DarkReading",
+      "region": "North America",
+      "country": "US",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt25e178de5cb0409d/6b00d028efff7c214dcd404d/data_Pingingz_shutterstock.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "id": "6a57f5edfd55bc34c55112fcdeb853719df6bd37",
@@ -1168,48 +1212,48 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt10d089cc23c19918/6af23c18ddd4d34d271f90a5/GettyImages-511970077.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "id": "c5c797f8dc8751d88a96ffd41d22c6a3d115a628",
-      "title": "AI Raises the Stakes for Cyber Resilience",
-      "url": "https://www.darkreading.com/cyber-risk/ai-raises-stakes-cyber-resilience",
-      "published": "2026-11-11T21:20:41+00:00",
-      "summary": "An organization's ability to quickly recover from a business disruption will be a competitive advantage in an era of AI-driven threats and business enablement.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltcc4e8093ca09a7aa/6af4d41325a88f7635e2ef35/resops_Sohan_stock_shutterstock.jpg?width=720&quality=80&disable=upscale"
+      "id": "9398c1750b17f9c48394c3577673a74745c22807",
+      "title": "The security of US water systems is even leakier than we thought",
+      "url": "https://www.theregister.com/security/2026/11/25/the-security-of-us-water-systems-is-even-leakier-than-we-thought/5312243",
+      "published": "2026-11-25T19:40:17+00:00",
+      "summary": "And intruders don't always need to exploit bugs to break in",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=5312249&width=800"
     },
     {
-      "id": "e2b7ebdc245e2a53f17e7840bd5ac442d872bed6",
-      "title": "N-able Takes N-central Platform Offline After Discovery of 33 Flaws",
-      "url": "https://www.darkreading.com/endpoint-security/n-able-n-central-offline-33-flaws",
-      "published": "2026-11-11T20:05:18+00:00",
-      "summary": "The RMM provider also released a hotfix as a recommended mitigation to address public exploits for the alleged zero-days, which allow for attacker takeover.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1eb3a07d69de328b/6af4605e4c33022b5dec789d/RMM_panthermedia_Alamy.png?width=720&quality=80&disable=upscale"
+      "id": "243e0059920153212f33b0562bc47ef3288b7a49",
+      "title": "Microsoft's NTLM security changes trip up third-party logins",
+      "url": "https://www.theregister.com/security/2026/11/25/microsofts-ntlm-security-changes-trip-up-third-party-logins/5312085",
+      "published": "2026-11-25T17:01:00+00:00",
+      "summary": "It's not our fault if you've implemented it wrong",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=5244798&width=800"
     },
     {
-      "id": "95f883361cdc02d1f19a2665835200ff4200bf21",
-      "title": "November Patch Tuesday: An Overflowing Cornucopia of CVEs",
-      "url": "https://www.darkreading.com/vulnerabilities-threats/november-patch-tuesday-cornucopia-cves",
-      "published": "2026-11-10T22:26:51+00:00",
-      "summary": "Microsoft serves up an actively exploited Outlook zero-day, and a wave of critical Exchange, SharePoint, Windows Search, and LDAP bugs that exhausted defenders need to prioritize fast.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt033b67685e64cff8/6af3980e4e01486fb09958c1/thanksgiving-Gurol_Tuna-GettyImages-2248720649.jpg?width=720&quality=80&disable=upscale"
+      "id": "7deeca46c74df398bb41313cb74d5a3b3f8d9f4a",
+      "title": "US Treasury financial crimes unit becomes latest fed breach victim",
+      "url": "https://www.theregister.com/security/2026/11/25/us-treasury-financial-crimes-unit-becomes-latest-fed-breach-victim/5312165",
+      "published": "2026-11-25T16:40:16+00:00",
+      "summary": "FinCEN takes systems offline and extends filing deadlines while investigating 'unauthorized access'",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=232475&width=800"
     },
     {
-      "id": "c9d200a425c209932be345ac27734b47a7087e52",
-      "title": "Artex: The AI Pen-Test Tool Hackers Turned Into a Weapon",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/artex-ai-pen-test-tool-hackers-weapon",
-      "published": "2026-11-10T21:01:14+00:00",
-      "summary": "Forks of the open source Artex framework, along with 45 similar pen-testing tools, remain capable of executing credential attacks and cloud breaches at machine speed across multiple industries.",
-      "source": "DarkReading",
-      "region": "North America",
-      "country": "US",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte1b65168e9679e0a/6af379bdf986ff173e0a7def/Lock_with_target-Alena_Butusava-GettyImages-2263307877.jpg?width=720&quality=80&disable=upscale"
+      "id": "5baa8b1de0f5b58e006644983d95f3ce6e82cd48",
+      "title": "Gatwick drop-off customers' personal data exposed in supplier breach",
+      "url": "https://www.theregister.com/security/2026/11/25/gatwick-drop-off-customers-personal-data-exposed-in-supplier-breach/5312060",
+      "published": "2026-11-25T11:16:18+00:00",
+      "summary": "AutoPay login and vehicle records affected, alongside limited payment information and customer service emails",
+      "source": "The Register \u2013 Security",
+      "region": "Europe",
+      "country": "UK",
+      "image": "https://image.theregister.com/?imageId=227789&width=800"
     },
     {
       "id": "5ac4f0994107ce752d7d7622d374ef1e4dec64cc",
@@ -1718,50 +1762,6 @@
       "image": "https://image.theregister.com/?imageId=5269572&width=800"
     },
     {
-      "id": "3c89973ca788a5a4f68b490af1e739ad6f5e2f9f",
-      "title": "Japan's Fugaku supercomputer has decidedly un-super security",
-      "url": "https://www.theregister.com/security/2026/11/17/japans-fugaku-supercomputer-has-decidedly-un-super-security/5310333",
-      "published": "2026-11-17T05:27:04+00:00",
-      "summary": "Attackers try logging in to Earth\u2019s ninth most powerful machine after status page hack exposed credentials",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=5310340&width=800"
-    },
-    {
-      "id": "59d64c7e0e97e0c87db17830836a42ba025f5665",
-      "title": "Infoblox customer and staff data exposed in Sharepoint breach",
-      "url": "https://www.theregister.com/security/2026/11/16/infoblox-customer-and-staff-data-exposed-in-sharepoint-breach/5310280",
-      "published": "2026-11-16T21:53:28+00:00",
-      "summary": "The company is investigating",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=256807&width=800"
-    },
-    {
-      "id": "134d21c38d5c0b0b5cecb0aa7c61cba3fd586135",
-      "title": "Attackers are using AI agents to automate cybercrime at 'industrial scale,' FBI and AWS warn",
-      "url": "https://www.theregister.com/cyber-crime/2026/11/16/attackers-are-using-ai-agents-to-automate-cybercrime-at-industrial-scale-fbi-and-aws-warn/5310223",
-      "published": "2026-11-16T19:52:00+00:00",
-      "summary": "Critical orgs around the globe under seige",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=5310250&width=800"
-    },
-    {
-      "id": "74efbb3ec88cfd29306f17882cc2f1c367acc32f",
-      "title": "\u2018123456\u2019 has been the world\u2019s most popular password for 7 out of the last 8 years",
-      "url": "https://www.theregister.com/security/2026/11/16/123456-has-been-the-worlds-most-popular-password-for-7-out-of-the-last-8-years/5310189",
-      "published": "2026-11-16T18:33:03+00:00",
-      "summary": "People never learn",
-      "source": "The Register \u2013 Security",
-      "region": "Europe",
-      "country": "UK",
-      "image": "https://image.theregister.com/?imageId=5228156&width=800"
-    },
-    {
       "id": "93138fbb4db250e2f971440df834d5bcb0c62785",
       "title": "CTO of \u2018RansomwareHelp\u2019 Indicted for Wire Fraud",
       "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
@@ -1828,6 +1828,94 @@
       "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
     },
     {
+      "id": "b2ec86257c9b955b049b09110bfd90f963dde1a0",
+      "title": "Two Newly Disclosed GeoServer Vulnerabilities Under Attack",
+      "url": "https://www.securityweek.com/two-newly-disclosed-geoserver-vulnerabilities-under-attack/",
+      "published": "2026-11-25T15:27:36+00:00",
+      "summary": "<p>Attackers are probing GeoServer instances for two high-severity flaws that can be chained with other bugs for unauthenticated RCE.</p>\n<p>The post <a href=\"https://www.securityweek.com/two-newly-disclosed-geoserver-vulnerabilities-under-attack/\">Two Newly Disclosed GeoServer Vulnerabilities Under Attack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "e13089d7b52c9b0ab8e2544d47704920f8ffa59d",
+      "title": "ShinyHunters Claims Comeback, New Inception Group Rejects Alleged Ties",
+      "url": "https://www.securityweek.com/shinyhunters-claims-comeback-new-inception-group-rejects-alleged-ties/",
+      "published": "2026-11-25T14:15:25+00:00",
+      "summary": "<p>An account tied to ShinyHunters announced the group\u2019s return, as Okta spots possible links between Inception and ShinyHunters hackers.</p>\n<p>The post <a href=\"https://www.securityweek.com/shinyhunters-claims-comeback-new-inception-group-rejects-alleged-ties/\">ShinyHunters Claims Comeback, New Inception Group Rejects Alleged Ties</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "bb4d635f16b764f2f41db42d8ba3ec0f402ff52d",
+      "title": "US Treasury\u2019s FinCEN Disconnects Systems Following Cyber Incident",
+      "url": "https://www.securityweek.com/us-treasurys-fincen-disconnects-systems-following-cyber-incident/",
+      "published": "2026-11-25T13:39:21+00:00",
+      "summary": "<p>FinCEN has extended deadlines for filers affected by the disruptions while it is investigating the incident.</p>\n<p>The post <a href=\"https://www.securityweek.com/us-treasurys-fincen-disconnects-systems-following-cyber-incident/\">US Treasury&#8217;s FinCEN Disconnects Systems Following Cyber Incident</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "5aac1dca0d010c41baf6c08fcb23692a3c5297a8",
+      "title": "Ground Truth: CISO Matt Martin on Building a Real Security Program Without an Enterprise Budget",
+      "url": "https://www.securityweek.com/ground-truth-ciso-matt-martin-on-building-a-real-security-program-without-an-enterprise-budget/",
+      "published": "2026-11-25T13:30:00+00:00",
+      "summary": "<p>Matthew Martin is Chief Information Security and Privacy Officer at Western Carolina University.</p>\n<p>The post <a href=\"https://www.securityweek.com/ground-truth-ciso-matt-martin-on-building-a-real-security-program-without-an-enterprise-budget/\">Ground Truth: CISO Matt Martin on Building a Real Security Program Without an Enterprise Budget</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "7d08c2d9b473a589813a77fecbcbc8a44ee2294a",
+      "title": "Plagiarism Checker Turnitin Investigating Cyberattack",
+      "url": "https://www.securityweek.com/plagiarism-checker-turnitin-investigating-cyberattack/",
+      "published": "2026-11-25T10:40:07+00:00",
+      "summary": "<p>The edtech company says the systems are fully operational and safe to use while it investigates the incident.</p>\n<p>The post <a href=\"https://www.securityweek.com/plagiarism-checker-turnitin-investigating-cyberattack/\">Plagiarism Checker Turnitin Investigating Cyberattack</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "45c257ac25c83e0531f470db2a54a81351a4ae76",
+      "title": "Hackers Exploit Unpatched Flaw in Defunct Idunno AntiCsrf Library",
+      "url": "https://www.securityweek.com/hackers-exploit-unpatched-flaw-in-defunct-idunno-anticsrf-library/",
+      "published": "2026-11-25T09:05:13+00:00",
+      "summary": "<p>Attackers can exploit CVE-2026-131914 to achieve remote code execution via a single web request containing specially crafted data.</p>\n<p>The post <a href=\"https://www.securityweek.com/hackers-exploit-unpatched-flaw-in-defunct-idunno-anticsrf-library/\">Hackers Exploit Unpatched Flaw in Defunct Idunno AntiCsrf Library</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "6a20b92f56aabfaccd806d65462d467d27ffcd59",
+      "title": "Palo Alto Networks Patches Fragnesia Flaw Used to Root Firewalls",
+      "url": "https://www.securityweek.com/palo-alto-networks-patches-fragnesia-flaw-used-to-root-firewalls/",
+      "published": "2026-11-25T08:12:24+00:00",
+      "summary": "<p>A China-linked hacking group chained PHP2Shell with Fragnesia in AI-assisted attacks that hit 25 servers.</p>\n<p>The post <a href=\"https://www.securityweek.com/palo-alto-networks-patches-fragnesia-flaw-used-to-root-firewalls/\">Palo Alto Networks Patches Fragnesia Flaw Used to Root Firewalls</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
+      "id": "f44f10d640ae762a3cc2bcda2683388121e0dd36",
+      "title": "Drupal Flaw Found by Anthropic Scanner Exploited in Attacks",
+      "url": "https://www.securityweek.com/drupal-flaw-found-by-anthropic-scanner-exploited-in-attacks/",
+      "published": "2026-11-25T08:01:06+00:00",
+      "summary": "<p>CISA has added the vulnerability to its KEV catalog and instructed federal agencies to patch it within three days.\u00a0</p>\n<p>The post <a href=\"https://www.securityweek.com/drupal-flaw-found-by-anthropic-scanner-exploited-in-attacks/\">Drupal Flaw Found by Anthropic Scanner Exploited in Attacks</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
+      "source": "SecurityWeek",
+      "region": "Global",
+      "country": "GL",
+      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
+    },
+    {
       "id": "ae79bb5847a54156003bef0891eb3468789db506",
       "title": "An Unclassified CIA System Was Breached in a Cyberattack, AP Source Says",
       "url": "https://www.securityweek.com/an-unclassified-cia-system-was-breached-in-a-cyberattack-ap-source-says/",
@@ -1844,94 +1932,6 @@
       "url": "https://www.securityweek.com/vmware-updates-patch-critical-esx-vcenter-vulnerabilities/",
       "published": "2026-11-24T16:32:56+00:00",
       "summary": "<p>The critical bugs include an authentication bypass in vCenter and flaws that could allow code execution on ESX hosts.</p>\n<p>The post <a href=\"https://www.securityweek.com/vmware-updates-patch-critical-esx-vcenter-vulnerabilities/\">VMware Updates Patch Critical ESX, vCenter Vulnerabilities</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "d2294fb10fbbbd5e2ffdf62564887600892afaa7",
-      "title": "European Commission Uncovers Data Breach in Cyberattack Investigation",
-      "url": "https://www.securityweek.com/european-commission-uncovers-data-breach-in-cyberattack-investigation/",
-      "published": "2026-11-24T14:49:59+00:00",
-      "summary": "<p>Names and email addresses of EU Academy users were exposed in the AI-assisted cyberattack the European Commission detected in October.</p>\n<p>The post <a href=\"https://www.securityweek.com/european-commission-uncovers-data-breach-in-cyberattack-investigation/\">European Commission Uncovers Data Breach in Cyberattack Investigation</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "22bf6552c322511839026546cae0aba5a97a1952",
-      "title": "Check Point Security Management Servers Hacked in AI-Assisted Campaign",
-      "url": "https://www.securityweek.com/check-point-security-management-servers-hacked-in-ai-assisted-campaign/",
-      "published": "2026-11-24T14:21:56+00:00",
-      "summary": "<p>The attacks were launched from 99 IP addresses and targeted organizations across multiple industries and countries.</p>\n<p>The post <a href=\"https://www.securityweek.com/check-point-security-management-servers-hacked-in-ai-assisted-campaign/\">Check Point Security Management Servers Hacked in AI-Assisted Campaign</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "a6ac99d677c5097594dd7c0587bb57eed5eae729",
-      "title": "Anthropic Expands Enterprise Safeguards for Detecting AI Misuse",
-      "url": "https://www.securityweek.com/anthropic-expands-enterprise-safeguards-for-detecting-ai-misuse/",
-      "published": "2026-11-24T13:30:23+00:00",
-      "summary": "<p>EFS helps zero-retention customers spot Claude misuse spread across many requests while keeping conversation data in their own cloud.</p>\n<p>The post <a href=\"https://www.securityweek.com/anthropic-expands-enterprise-safeguards-for-detecting-ai-misuse/\">Anthropic Expands Enterprise Safeguards for Detecting AI Misuse</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "70ffa0cfd81dd0263f6fc1a32d2297934d930ba4",
-      "title": "OpenAI, Cisco Unveil Open Source Tool to Shield Unpatched Linux Systems",
-      "url": "https://www.securityweek.com/openai-cisco-unveil-open-source-tool-to-shield-unpatched-linux-systems/",
-      "published": "2026-11-24T12:20:41+00:00",
-      "summary": "<p>OpenAI and Cisco\u2019s Shirudo uses AI-generated shields to block Linux exploits while patches are prepared, but it\u2019s not yet production-ready.</p>\n<p>The post <a href=\"https://www.securityweek.com/openai-cisco-unveil-open-source-tool-to-shield-unpatched-linux-systems/\">OpenAI, Cisco Unveil Open Source Tool to Shield Unpatched Linux Systems</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "f3a43b39549fdc890f58780435f86226ee6a8123",
-      "title": "1.5 Million Impacted by Data Breach at South Korean Electric Company KEPCO",
-      "url": "https://www.securityweek.com/1-5-million-impacted-by-data-breach-at-south-korean-electric-company-kepco/",
-      "published": "2026-11-24T11:50:21+00:00",
-      "summary": "<p>Hackers stole personal information from the company\u2019s customer portal and supplier relationship management platform.</p>\n<p>The post <a href=\"https://www.securityweek.com/1-5-million-impacted-by-data-breach-at-south-korean-electric-company-kepco/\">1.5 Million Impacted by Data Breach at South Korean Electric Company KEPCO</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "15b8b568346dad030da152c60dcaa2bebed3306f",
-      "title": "Elecbrakes Bluetooth Vulnerabilities Expose Trailers to Forced Braking",
-      "url": "https://www.securityweek.com/elecbrakes-bluetooth-vulnerabilities-expose-trailers-to-forced-braking/",
-      "published": "2026-11-24T10:44:44+00:00",
-      "summary": "<p>Critical Bluetooth flaws in Elecbrakes controllers could let nearby attackers force trailer braking, potentially causing accidents.</p>\n<p>The post <a href=\"https://www.securityweek.com/elecbrakes-bluetooth-vulnerabilities-expose-trailers-to-forced-braking/\">Elecbrakes Bluetooth Vulnerabilities Expose Trailers to Forced Braking</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "20534b25c7da6bc55a73440321d3a5ccd33d1a89",
-      "title": "Peninsula Energy Halts Trading After Cyber Incident Hits US Uranium Mine",
-      "url": "https://www.securityweek.com/peninsula-energy-halts-trading-after-cyber-incident-hits-us-uranium-mine/",
-      "published": "2026-11-24T10:35:04+00:00",
-      "summary": "<p>The company told the ASX that a cybersecurity incident at its Wyoming uranium project would temporarily affect operations.</p>\n<p>The post <a href=\"https://www.securityweek.com/peninsula-energy-halts-trading-after-cyber-incident-hits-us-uranium-mine/\">Peninsula Energy Halts Trading After Cyber Incident Hits US Uranium Mine</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
-      "source": "SecurityWeek",
-      "region": "Global",
-      "country": "GL",
-      "image": "https://via.placeholder.com/640x360?text=Cyber+Policy+News"
-    },
-    {
-      "id": "e101d52cda4a15a34f16d29e06b3cc4761df8c21",
-      "title": "Azure Flaw Exploited to Target Secrets at Norwegian Energy Firms",
-      "url": "https://www.securityweek.com/azure-flaw-exploited-to-target-secrets-at-norwegian-energy-firms/",
-      "published": "2026-11-23T15:47:40+00:00",
-      "summary": "<p>Microsoft closed an Azure API Management flaw exploited to target secrets at Norwegian energy companies, with other sectors also affected.</p>\n<p>The post <a href=\"https://www.securityweek.com/azure-flaw-exploited-to-target-secrets-at-norwegian-energy-firms/\">Azure Flaw Exploited to Target Secrets at Norwegian Energy Firms</a> appeared first on <a href=\"https://www.securityweek.com\">SecurityWeek</a>.</p>",
       "source": "SecurityWeek",
       "region": "Global",
       "country": "GL",
